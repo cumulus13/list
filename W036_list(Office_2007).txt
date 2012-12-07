@@ -1,0 +1,485 @@
+ Volume in drive G is OFFICE 2007
+ Volume Serial Number is 61D9-E6E0
+
+ Directory of G:\
+
+02/07/2007  06:47 AM    <DIR>          Access.en-us
+02/07/2007  06:47 AM    <DIR>          Admin
+02/07/2007  06:47 AM    <DIR>          Catalog
+02/07/2007  06:47 AM    <DIR>          Enterprise.WW
+02/07/2007  06:49 AM    <DIR>          Excel.en-us
+02/07/2007  06:49 AM    <DIR>          Groove.en-us
+02/07/2007  06:50 AM    <DIR>          InfoPath.en-us
+02/07/2007  06:50 AM    <DIR>          Office.en-us
+02/07/2007  06:50 AM    <DIR>          Office64.en-us
+02/07/2007  06:50 AM    <DIR>          OneNote.en-us
+02/07/2007  06:50 AM    <DIR>          Outlook.en-us
+02/07/2007  06:50 AM    <DIR>          PowerPoint.en-us
+02/07/2007  06:51 AM    <DIR>          Proofing.en-us
+02/07/2007  06:51 AM    <DIR>          Publisher.en-us
+10/28/2006  04:26 AM             2,480 README.HTM
+02/07/2007  06:51 AM    <DIR>          Rosebud.en-us
+02/07/2007  06:51 AM    <DIR>          Updates
+02/07/2007  06:51 AM    <DIR>          Word.en-us
+10/28/2006  04:44 AM               175 autorun.inf
+10/28/2006  05:30 AM           463,152 setup.exe
+02/07/2007  06:14 AM                45 sn office 2007.txt
+               4 File(s)        465,852 bytes
+
+ Directory of G:\Access.en-us
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+02/07/2007  06:47 AM    <DIR>          Access.en-us
+10/28/2006  04:14 AM           502,272 AccessMUISet.msi
+10/28/2006  04:14 AM               821 AccessMUISet.xml
+10/28/2006  04:14 AM             2,315 setup.xml
+               3 File(s)        505,408 bytes
+
+ Directory of G:\Access.en-us\Access.en-us
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:13 AM        27,573,989 AccLR.cab
+10/28/2006  04:14 AM         1,654,272 AccessMUI.msi
+10/28/2006  04:14 AM             1,344 AccessMUI.xml
+               3 File(s)     29,229,605 bytes
+
+ Directory of G:\Admin
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+02/07/2007  06:47 AM    <DIR>          de-de
+02/07/2007  06:47 AM    <DIR>          en-us
+02/07/2007  06:47 AM    <DIR>          es-es
+02/07/2007  06:47 AM    <DIR>          fr-fr
+02/07/2007  06:47 AM    <DIR>          it-it
+02/07/2007  06:47 AM    <DIR>          ja-jp
+02/07/2007  06:47 AM    <DIR>          ko-kr
+10/28/2006  04:14 AM         3,215,680 oct.dll
+10/28/2006  04:14 AM            97,552 octca.dll
+02/07/2007  06:47 AM    <DIR>          zh-cn
+02/07/2007  06:47 AM    <DIR>          zh-tw
+               2 File(s)      3,313,232 bytes
+
+ Directory of G:\Admin\de-de
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            54,216 access12.opa
+10/28/2006  04:14 AM            27,090 cpao12.opa
+10/28/2006  04:14 AM           153,864 excel12.opa
+10/28/2006  04:14 AM             4,042 groove12.opa
+10/28/2006  04:14 AM             9,708 ic12.opa
+10/28/2006  04:14 AM           130,478 inf12.opa
+10/28/2006  04:14 AM            57,249 oct.chm
+10/28/2006  04:14 AM           437,600 octres.dll
+10/28/2006  04:14 AM           717,386 office12.opa
+10/28/2006  04:14 AM           101,428 onent12.opa
+10/28/2006  04:14 AM           497,936 outlk12.opa
+10/28/2006  04:14 AM           105,546 ppt12.opa
+10/28/2006  04:14 AM           202,490 proj12.opa
+10/28/2006  04:14 AM            32,972 pub12.opa
+10/28/2006  04:14 AM            16,130 spd12.opa
+10/28/2006  04:14 AM           131,400 visio12.opa
+10/28/2006  04:14 AM           244,936 word12.opa
+              17 File(s)      2,924,471 bytes
+
+ Directory of G:\Admin\en-us
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            50,614 access12.opa
+10/28/2006  04:14 AM            24,904 cpao12.opa
+10/28/2006  04:14 AM           143,128 excel12.opa
+10/28/2006  04:14 AM             3,626 groove12.opa
+10/28/2006  04:14 AM             8,628 ic12.opa
+10/28/2006  04:14 AM           116,266 inf12.opa
+10/28/2006  04:14 AM            57,678 oct.chm
+10/28/2006  04:14 AM           421,208 octres.dll
+10/28/2006  04:14 AM           684,924 office12.opa
+10/28/2006  04:14 AM            94,656 onent12.opa
+10/28/2006  04:14 AM           461,884 outlk12.opa
+10/28/2006  04:14 AM            99,522 ppt12.opa
+10/28/2006  04:14 AM           187,068 proj12.opa
+10/28/2006  04:14 AM            31,418 pub12.opa
+10/28/2006  04:14 AM            15,212 spd12.opa
+10/28/2006  04:14 AM           122,566 visio12.opa
+10/28/2006  04:14 AM           234,232 word12.opa
+              17 File(s)      2,757,534 bytes
+
+ Directory of G:\Admin\es-es
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            53,464 access12.opa
+10/28/2006  04:14 AM            27,276 cpao12.opa
+10/28/2006  04:09 AM           152,834 excel12.opa
+10/28/2006  04:14 AM             3,900 groove12.opa
+10/28/2006  04:14 AM             9,172 ic12.opa
+10/28/2006  04:14 AM           132,876 inf12.opa
+10/28/2006  04:14 AM            56,444 oct.chm
+10/28/2006  04:14 AM           438,656 octres.dll
+10/28/2006  04:14 AM           717,684 office12.opa
+10/28/2006  04:14 AM           101,370 onent12.opa
+10/28/2006  04:14 AM           505,120 outlk12.opa
+10/28/2006  04:14 AM           104,494 ppt12.opa
+10/28/2006  04:14 AM           196,894 proj12.opa
+10/28/2006  04:14 AM            33,216 pub12.opa
+10/28/2006  04:14 AM            16,134 spd12.opa
+10/28/2006  04:14 AM           130,014 visio12.opa
+10/28/2006  04:14 AM           243,578 word12.opa
+              17 File(s)      2,923,126 bytes
+
+ Directory of G:\Admin\fr-fr
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            53,716 access12.opa
+10/28/2006  04:14 AM            26,800 cpao12.opa
+10/28/2006  04:14 AM           151,952 excel12.opa
+10/28/2006  04:14 AM             3,832 groove12.opa
+10/28/2006  04:14 AM             9,390 ic12.opa
+10/28/2006  04:14 AM           131,614 inf12.opa
+10/28/2006  04:14 AM            56,288 oct.chm
+10/28/2006  04:14 AM           440,176 octres.dll
+10/28/2006  04:14 AM           714,136 office12.opa
+10/28/2006  04:14 AM           102,070 onent12.opa
+10/28/2006  04:14 AM           499,862 outlk12.opa
+10/28/2006  04:14 AM           105,022 ppt12.opa
+10/28/2006  04:14 AM           199,460 proj12.opa
+10/28/2006  04:14 AM            33,232 pub12.opa
+10/28/2006  04:14 AM            16,034 spd12.opa
+10/28/2006  04:14 AM           131,296 visio12.opa
+10/28/2006  04:14 AM           244,414 word12.opa
+              17 File(s)      2,919,294 bytes
+
+ Directory of G:\Admin\it-it
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            54,144 access12.opa
+10/28/2006  04:14 AM            27,588 cpao12.opa
+10/28/2006  04:14 AM           154,076 excel12.opa
+10/28/2006  04:14 AM             3,956 groove12.opa
+10/28/2006  04:14 AM             9,712 ic12.opa
+10/28/2006  04:14 AM           131,730 inf12.opa
+10/28/2006  04:14 AM            55,644 oct.chm
+10/28/2006  04:14 AM           435,584 octres.dll
+10/28/2006  04:14 AM           732,710 office12.opa
+10/28/2006  04:14 AM           104,096 onent12.opa
+10/28/2006  04:14 AM           511,912 outlk12.opa
+10/28/2006  04:14 AM           106,102 ppt12.opa
+10/28/2006  04:14 AM           202,708 proj12.opa
+10/28/2006  04:14 AM            33,752 pub12.opa
+10/28/2006  04:14 AM            16,278 spd12.opa
+10/28/2006  04:14 AM           132,088 visio12.opa
+10/28/2006  04:14 AM           247,464 word12.opa
+              17 File(s)      2,959,544 bytes
+
+ Directory of G:\Admin\ja-jp
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            46,116 access12.opa
+10/28/2006  04:14 AM            19,590 cpao12.opa
+10/28/2006  04:14 AM           128,340 excel12.opa
+10/28/2006  04:14 AM             2,862 groove12.opa
+10/28/2006  04:14 AM             7,322 ic12.opa
+10/28/2006  04:14 AM            99,290 inf12.opa
+10/28/2006  04:14 AM            56,346 oct.chm
+10/28/2006  04:11 AM           434,976 octres.dll
+10/28/2006  04:14 AM           627,264 office12.opa
+10/28/2006  04:14 AM            83,518 onent12.opa
+10/28/2006  04:14 AM           393,730 outlk12.opa
+10/28/2006  04:14 AM            92,328 ppt12.opa
+10/28/2006  04:14 AM           154,054 proj12.opa
+10/28/2006  04:14 AM            29,336 pub12.opa
+10/28/2006  04:14 AM            14,254 spd12.opa
+10/28/2006  04:14 AM           107,742 visio12.opa
+10/28/2006  04:14 AM           216,060 word12.opa
+              17 File(s)      2,513,128 bytes
+
+ Directory of G:\Admin\ko-kr
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            46,348 access12.opa
+10/28/2006  04:14 AM            19,908 cpao12.opa
+10/28/2006  04:14 AM           127,618 excel12.opa
+10/28/2006  04:14 AM             2,738 groove12.opa
+10/28/2006  04:14 AM             7,276 ic12.opa
+10/28/2006  04:14 AM            97,404 inf12.opa
+10/28/2006  04:12 AM            83,772 oct.chm
+10/28/2006  04:14 AM           435,032 octres.dll
+10/28/2006  04:14 AM           619,882 office12.opa
+10/28/2006  04:14 AM            82,556 onent12.opa
+10/28/2006  04:14 AM           393,304 outlk12.opa
+10/28/2006  04:14 AM            92,010 ppt12.opa
+10/28/2006  04:14 AM           155,232 proj12.opa
+10/28/2006  04:12 AM            29,020 pub12.opa
+10/28/2006  04:14 AM            14,082 spd12.opa
+10/28/2006  04:14 AM           107,714 visio12.opa
+10/28/2006  04:14 AM           215,766 word12.opa
+              17 File(s)      2,529,662 bytes
+
+ Directory of G:\Admin\zh-cn
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            43,994 access12.opa
+10/28/2006  04:14 AM            17,998 cpao12.opa
+10/28/2006  04:14 AM           120,960 excel12.opa
+10/28/2006  04:14 AM             2,478 groove12.opa
+10/28/2006  04:14 AM             6,734 ic12.opa
+10/28/2006  04:14 AM            89,088 inf12.opa
+10/28/2006  04:14 AM            84,318 oct.chm
+10/28/2006  04:14 AM           434,976 octres.dll
+10/28/2006  04:14 AM           596,576 office12.opa
+10/28/2006  04:14 AM            77,716 onent12.opa
+10/28/2006  04:14 AM           367,488 outlk12.opa
+10/28/2006  04:14 AM            88,488 ppt12.opa
+10/28/2006  04:14 AM           142,284 proj12.opa
+10/28/2006  04:14 AM            27,878 pub12.opa
+10/28/2006  04:14 AM            13,432 spd12.opa
+10/28/2006  04:14 AM           101,830 visio12.opa
+10/28/2006  04:14 AM           208,134 word12.opa
+              17 File(s)      2,424,372 bytes
+
+ Directory of G:\Admin\zh-tw
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  06:47 AM    <DIR>          ..
+10/28/2006  04:14 AM            44,094 access12.opa
+10/28/2006  04:14 AM            18,086 cpao12.opa
+10/28/2006  04:14 AM           121,522 excel12.opa
+10/28/2006  04:14 AM             2,460 groove12.opa
+10/28/2006  04:14 AM             6,744 ic12.opa
+10/28/2006  04:14 AM            88,808 inf12.opa
+10/28/2006  04:14 AM            60,904 oct.chm
+10/28/2006  04:14 AM           434,976 octres.dll
+10/28/2006  04:13 AM           597,016 office12.opa
+10/28/2006  04:14 AM            77,990 onent12.opa
+10/28/2006  04:14 AM           368,406 outlk12.opa
+10/28/2006  04:14 AM            88,458 ppt12.opa
+10/28/2006  04:14 AM           143,302 proj12.opa
+10/28/2006  04:13 AM            28,038 pub12.opa
+10/28/2006  04:14 AM            13,570 spd12.opa
+10/28/2006  04:14 AM           102,236 visio12.opa
+10/28/2006  04:14 AM           208,606 word12.opa
+              17 File(s)      2,405,216 bytes
+
+ Directory of G:\Catalog
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:14 AM         1,323,033 files12.cat
+               1 File(s)      1,323,033 bytes
+
+ Directory of G:\Enterprise.WW
+
+02/07/2007  06:47 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:13 AM       264,821,640 EnterWW.cab
+10/28/2006  04:13 AM        18,183,680 EnterpriseWW.msi
+10/28/2006  04:13 AM            16,711 EnterpriseWW.xml
+10/28/2006  04:13 AM             1,646 ID_00030.DPC
+10/28/2006  04:14 AM         4,151,139 OWOW64WW.cab
+10/28/2006  04:14 AM           847,872 Office64WW.msi
+10/28/2006  04:14 AM             2,310 Office64WW.xml
+10/28/2006  04:13 AM               952 config.xml
+10/28/2006  04:14 AM           145,184 ose.exe
+10/28/2006  04:14 AM         6,536,992 osetup.dll
+10/28/2006  04:14 AM            27,542 setup.xml
+              11 File(s)    294,735,668 bytes
+
+ Directory of G:\Excel.en-us
+
+02/07/2007  06:49 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:14 AM        13,951,171 ExcelLR.cab
+10/28/2006  04:14 AM         1,714,176 ExcelMUI.msi
+10/28/2006  04:14 AM             1,801 ExcelMUI.xml
+10/28/2006  04:14 AM             2,527 setup.xml
+               4 File(s)     15,669,675 bytes
+
+ Directory of G:\Groove.en-us
+
+02/07/2007  06:49 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+02/07/2007  06:50 AM    <DIR>          Groove.en-us
+10/28/2006  04:14 AM           502,272 GrooveMUISet.msi
+10/28/2006  04:14 AM               821 GrooveMUISet.xml
+10/28/2006  04:14 AM             1,987 setup.xml
+               3 File(s)        505,080 bytes
+
+ Directory of G:\Groove.en-us\Groove.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  06:49 AM    <DIR>          ..
+10/28/2006  04:14 AM         2,359,461 GrooveLR.cab
+10/28/2006  04:14 AM         1,648,640 GrooveMUI.msi
+10/28/2006  04:14 AM               912 GrooveMUI.xml
+               3 File(s)      4,009,013 bytes
+
+ Directory of G:\InfoPath.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:14 AM        26,462,137 InfLR.cab
+10/28/2006  04:14 AM         2,320,896 InfoPathMUI.msi
+10/28/2006  04:14 AM             4,585 InfoPathMUI.xml
+10/28/2006  04:14 AM             5,151 setup.xml
+               4 File(s)     28,792,769 bytes
+
+ Directory of G:\Office.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+02/07/2007  06:50 AM    <DIR>          1033
+10/28/2006  04:14 AM           813,384 DW20.EXE
+10/28/2006  04:14 AM               522 Microsoft.VC80.CRT.manifest
+10/28/2006  04:14 AM        26,692,203 OfficeLR.cab
+10/28/2006  04:14 AM         2,398,720 OfficeMUI.msi
+10/28/2006  04:14 AM             6,003 OfficeMUI.xml
+10/28/2006  04:14 AM           502,272 OfficeMUISet.msi
+10/28/2006  04:14 AM               821 OfficeMUISet.xml
+10/28/2006  04:14 AM            61,952 ShellUI.MST
+10/28/2006  04:14 AM           509,007 branding.xml
+10/28/2006  04:14 AM           439,568 dwdcw20.dll
+10/28/2006  04:14 AM           434,528 dwtrig20.exe
+10/28/2006  04:14 AM           626,688 msvcr80.dll
+10/28/2006  04:14 AM           184,632 osetupui.dll
+10/28/2006  04:14 AM            27,084 pss10r.chm
+10/28/2006  04:14 AM            52,984 setup.chm
+10/28/2006  04:14 AM             9,952 setup.xml
+              16 File(s)     32,760,320 bytes
+
+ Directory of G:\Office.en-us\1033
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  06:50 AM    <DIR>          ..
+10/28/2006  04:14 AM           108,872 dwintl20.dll
+               1 File(s)        108,872 bytes
+
+ Directory of G:\Office64.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:14 AM             7,266 OWOW64LR.cab
+10/28/2006  04:14 AM           503,296 Office64MUI.msi
+10/28/2006  04:14 AM             1,033 Office64MUI.xml
+10/28/2006  04:14 AM           502,272 Office64MUISet.msi
+10/28/2006  04:14 AM               825 Office64MUISet.xml
+10/28/2006  04:14 AM             1,841 setup.xml
+               6 File(s)      1,016,533 bytes
+
+ Directory of G:\OneNote.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:14 AM         1,642,496 OneNoteMUI.msi
+10/28/2006  04:14 AM             1,359 OneNoteMUI.xml
+10/28/2006  04:14 AM        31,009,136 OnoteLR.cab
+10/28/2006  04:14 AM             2,144 setup.xml
+               4 File(s)     32,655,135 bytes
+
+ Directory of G:\Outlook.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:20 AM        15,060,113 OutlkLR.cab
+10/28/2006  04:26 AM         2,024,448 OutlookMUI.msi
+10/28/2006  04:26 AM             2,945 OutlookMUI.xml
+10/28/2006  04:26 AM             3,861 setup.xml
+               4 File(s)     17,091,367 bytes
+
+ Directory of G:\PowerPoint.en-us
+
+02/07/2007  06:50 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:26 AM         1,642,496 PowerPointMUI.msi
+10/28/2006  04:26 AM             1,553 PowerPointMUI.xml
+10/28/2006  04:26 AM        13,422,356 PptLR.cab
+10/28/2006  04:26 AM             2,004 setup.xml
+               4 File(s)     15,068,409 bytes
+
+ Directory of G:\Proofing.en-us
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+02/07/2007  06:51 AM    <DIR>          Proof.en
+02/07/2007  06:51 AM    <DIR>          Proof.es
+02/07/2007  06:51 AM    <DIR>          Proof.fr
+10/28/2006  04:26 AM           502,272 Proofing.msi
+10/28/2006  04:26 AM               813 Proofing.xml
+10/28/2006  04:26 AM             5,884 setup.xml
+               3 File(s)        508,969 bytes
+
+ Directory of G:\Proofing.en-us\Proof.en
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  06:51 AM    <DIR>          ..
+10/28/2006  05:00 AM        22,404,970 Proof.cab
+10/28/2006  05:00 AM           507,904 Proof.msi
+10/28/2006  05:00 AM             1,350 Proof.xml
+               3 File(s)     22,914,224 bytes
+
+ Directory of G:\Proofing.en-us\Proof.es
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  06:51 AM    <DIR>          ..
+10/28/2006  04:26 AM        16,456,790 Proof.cab
+10/28/2006  04:26 AM           514,048 Proof.msi
+10/28/2006  04:26 AM             1,460 Proof.xml
+               3 File(s)     16,972,298 bytes
+
+ Directory of G:\Proofing.en-us\Proof.fr
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  06:51 AM    <DIR>          ..
+10/28/2006  04:39 AM        11,479,987 Proof.cab
+10/28/2006  04:39 AM           518,144 Proof.msi
+10/28/2006  04:39 AM             1,459 Proof.xml
+               3 File(s)     11,999,590 bytes
+
+ Directory of G:\Publisher.en-us
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:26 AM        10,934,403 PubLR.cab
+10/28/2006  04:26 AM         1,653,760 PublisherMUI.msi
+10/28/2006  04:26 AM             1,470 PublisherMUI.xml
+10/28/2006  04:26 AM             1,826 setup.xml
+               4 File(s)     12,591,459 bytes
+
+ Directory of G:\Rosebud.en-us
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:26 AM         1,581,636 RbudLR.cab
+10/28/2006  04:26 AM            49,152 RosebudMUI.msi
+10/28/2006  04:26 AM               811 RosebudMUI.xml
+10/28/2006  04:26 AM             1,251 setup.xml
+               4 File(s)      1,632,850 bytes
+
+ Directory of G:\Updates
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:44 AM                75 README.TXT
+               1 File(s)             75 bytes
+
+ Directory of G:\Word.en-us
+
+02/07/2007  06:51 AM    <DIR>          .
+02/07/2007  07:08 AM    <DIR>          ..
+10/28/2006  04:26 AM        15,368,480 WordLR.cab
+10/28/2006  04:26 AM         1,654,272 WordMUI.msi
+10/28/2006  04:26 AM             1,798 WordMUI.xml
+10/28/2006  04:26 AM             2,678 setup.xml
+               4 File(s)     17,027,228 bytes
+
+     Total Files Listed:
+             251 File(s)    585,253,011 bytes
+              96 Dir(s)               0 bytes free

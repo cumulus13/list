@@ -1,0 +1,834 @@
+Folder PATH listing for volume SQL_Server2K5
+Volume serial number is 1EF1-427C
+F:\
+|   autorun.apm
+|   autorun.exe
+|   autorun.inf
+|   
++---Microsoft.SQL.Server.2005.Standard.Edition
+|   |   ReadMe.txt
+|   |   autorun.inf
+|   |   
+|   +---Servers
+|   |   |   DbgHelp.dll
+|   |   |   Microsoft.VC80.CRT.manifest
+|   |   |   ReadmeSQL2005.htm
+|   |   |   RequirementsSQL2005.htm
+|   |   |   autorun.ico
+|   |   |   autorun.inf
+|   |   |   default.hta
+|   |   |   default.htm
+|   |   |   license.txt
+|   |   |   msvcp80.dll
+|   |   |   msvcr80.dll
+|   |   |   setup.exe
+|   |   |   setup.ico
+|   |   |   setup.rll
+|   |   |   splash.hta
+|   |   |   sqlcu.dll
+|   |   |   sqlcu.rll
+|   |   |   sqlspkglist.dll
+|   |   |   template.ini
+|   |   |   xmlrw.dll
+|   |   |   
+|   |   +---1033
+|   |   |       finish.rtf
+|   |   |       
+|   |   +---Setup
+|   |   |   |   MSDE2000.msp
+|   |   |   |   OSE.EXE
+|   |   |   |   OWC11.MSI
+|   |   |   |   PA655502.CAB
+|   |   |   |   PSS10O.CHM_1033
+|   |   |   |   PSS10R.CHM_1033
+|   |   |   |   SETUP.CHM_1033
+|   |   |   |   SETUP.EXE
+|   |   |   |   SETUP.INI
+|   |   |   |   SKU0A4.CAB
+|   |   |   |   SQLServer2005_BC.msi
+|   |   |   |   SqlRun.msi
+|   |   |   |   SqlRun_AS.ini
+|   |   |   |   SqlRun_AS.msi
+|   |   |   |   SqlRun_DTS.msi
+|   |   |   |   SqlRun_NS.msi
+|   |   |   |   SqlRun_RS.ini
+|   |   |   |   SqlRun_RS.msi
+|   |   |   |   SqlRun_SQL.ini
+|   |   |   |   SqlRun_SQL.msi
+|   |   |   |   SqlServer2005_BC_x64.msi
+|   |   |   |   SqlSupport.msi
+|   |   |   |   SqlWriter.msi
+|   |   |   |   SqlWriter_x64.msi
+|   |   |   |   YB656101.CAB
+|   |   |   |   ZD655501.CAB
+|   |   |   |   ZM656101.CAB
+|   |   |   |   ZQ655502.CAB
+|   |   |   |   ZS655501.CAB
+|   |   |   |   ZY656106.CAB
+|   |   |   |   ZZ655501.CAB
+|   |   |   |   libertysql.msp
+|   |   |   |   msxml6.msi
+|   |   |   |   msxml6_x64.msi
+|   |   |   |   owc11.xml
+|   |   |   |   rs2000.msp
+|   |   |   |   setupex.dll
+|   |   |   |   sqlncli.msi
+|   |   |   |   sqlncli_x64.msi
+|   |   |   |   sqlxml4.msi
+|   |   |   |   sqlxml4_x64.msi
+|   |   |   |   
+|   |   |   +---Images
+|   |   |   |       autorun_silver_bground.png
+|   |   |   |       browse_cd.gif
+|   |   |   |       license_agreement.gif
+|   |   |   |       newsgroup.gif
+|   |   |   |       release_notes.gif
+|   |   |   |       server.gif
+|   |   |   |       setup.gif
+|   |   |   |       splash.bmp
+|   |   |   |       sql_website.gif
+|   |   |   |       
+|   |   |   \---help
+|   |   |       \---1033
+|   |   |               setupsql9.chm
+|   |   |               
+|   |   \---redist
+|   |       +---2.0
+|   |       |       dotnetfx.exe
+|   |       |       dotnetfx64.exe
+|   |       |       
+|   |       +---Upgrade Advisor
+|   |       |       SQLUASetup.msi
+|   |       |       
+|   |       \---Windows Installer
+|   |               WindowsInstaller-KB893803-v2-x86.exe
+|   |               
+|   \---Tools
+|       |   DbgHelp.dll
+|       |   Microsoft.VC80.CRT.manifest
+|       |   ReadmeSQL2005.htm
+|       |   RequirementsSQL2005.htm
+|       |   autorun.ico
+|       |   autorun.inf
+|       |   default.hta
+|       |   default.htm
+|       |   license.txt
+|       |   msvcp80.dll
+|       |   msvcr80.dll
+|       |   setup.exe
+|       |   setup.ico
+|       |   setup.rll
+|       |   splash.hta
+|       |   sqlcu.dll
+|       |   sqlcu.rll
+|       |   sqlspkglist.dll
+|       |   template.ini
+|       |   xmlrw.dll
+|       |   
+|       +---1033
+|       |       finish.rtf
+|       |       
+|       +---Setup
+|       |   |   MSDE2000.msp
+|       |   |   OSE.EXE
+|       |   |   OWC11.MSI
+|       |   |   PA655502.CAB
+|       |   |   PSS10O.CHM_1033
+|       |   |   PSS10R.CHM_1033
+|       |   |   SETUP.CHM_1033
+|       |   |   SETUP.EXE
+|       |   |   SETUP.INI
+|       |   |   SKU0A4.CAB
+|       |   |   SQLServer2005_BC.msi
+|       |   |   SqlRun.msi
+|       |   |   SqlRun_Tools.msi
+|       |   |   SqlServer2005_BC_x64.msi
+|       |   |   SqlServer2K5_BOL.msi
+|       |   |   SqlSupport.msi
+|       |   |   SqlWriter.msi
+|       |   |   SqlWriter_x64.msi
+|       |   |   YB656101.CAB
+|       |   |   ZD655501.CAB
+|       |   |   ZM656101.CAB
+|       |   |   ZQ655502.CAB
+|       |   |   ZS655501.CAB
+|       |   |   ZY656106.CAB
+|       |   |   ZZ655501.CAB
+|       |   |   _1004_RTL_x86_enu_Object_Browser_Generic.cab
+|       |   |   _1121_RTL_x86_enu_DataForm_Wizard.cab
+|       |   |   _1225_RTL_x86_enu_ASP_Object_Library.cab
+|       |   |   _1242_RTL_x86_enu_VS_SCC_Integration_Core.cab
+|       |   |   _13_RTL_x86_enu_DDS_7.0.cab
+|       |   |   _14572_RTL_x86_enu_DTEProperties_Typelib.cab
+|       |   |   _14581_RTL_x86_enu_VS_IDE_Baseline.cab
+|       |   |   _14584_RTL_x86_enu__Environment_Extended.cab
+|       |   |   _14585_RTL_x86_enu__Environment_Baseline.cab
+|       |   |   _14724_RTL_x86_enu_Express_Core_Debugger.cab
+|       |   |   _14762_RTL_x86_enu_VSIPCC_Collection.cab
+|       |   |   _14934_RTL_x86_enu_XmlEditor.cab
+|       |   |   _15186_RTL_x86_enu_XmlDesigner.cab
+|       |   |   _1519_RTL_x86_enu_VSCC_Help_Collection.cab
+|       |   |   _1520_RTL_x86_enu_HxRuntime.cab
+|       |   |   _15288_RTL_x86_enu_VS_Debug_Debugger.cab
+|       |   |   _15346_RTL_x86_enu_PermCalc.cab
+|       |   |   _15536_RTL_x86_enu_DExplore_Doc_Coll.cab
+|       |   |   _15676_RTL_x86_enu_Remote_Debug_Native.cab
+|       |   |   _1583_RTL_x86_enu_MSHelp_Visual_Services.cab
+|       |   |   _1584_RTL_x86_enu_MSHelp_Data_Services.cab
+|       |   |   _15912_RTL_x86_enu_PInteropAsm_Baseline.cab
+|       |   |   _15913_RTL_x86_enu_PInteropAsm_Extended.cab
+|       |   |   _16026_RTL_x86_enu_Debugger___Standard.cab
+|       |   |   _1610_RTL_x86_enu_CSharp_Intellidocs.cab
+|       |   |   _16115_RTL_x86_enu_VC++_Express_Debug.cab
+|       |   |   _16116_RTL_x86_enu_Venus_Express_Debug.cab
+|       |   |   _16206_RTL_x86_enu_Debugger_Causality.cab
+|       |   |   _16207_RTL_x86_enu_Debugger_Legacy.cab
+|       |   |   _16407_RTL_x86_enu_CSharpLangFilter20.cab
+|       |   |   _16408_RTL_x86_enu_HtmlLangFilter80.cab
+|       |   |   _16409_RTL_x86_enu_JScriptLangFilter80.cab
+|       |   |   _16410_RTL_x86_enu_JSharpLangFilter80.cab
+|       |   |   _16412_RTL_x86_enu_NetFxTechFilter20.cab
+|       |   |   _16413_RTL_x86_enu_OfficeDevTechFilter20.cab
+|       |   |   _16415_RTL_x86_enu_VBLangFilter80.cab
+|       |   |   _16418_RTL_x86_enu_VCLangFilter80.cab
+|       |   |   _16421_RTL_x86_enu_Win32TechFilter80.cab
+|       |   |   _16422_RTL_x86_enu_WinFormsTechFilter20.cab
+|       |   |   _16423_RTL_x86_enu_XmlLangFilter80.cab
+|       |   |   _16425_RTL_x86_enu_CSHowDoI80.cab
+|       |   |   _16429_RTL_x86_enu_VBHowDoI80.cab
+|       |   |   _16434_RTL_x86_enu_VSTOHowDoI10.cab
+|       |   |   _16436_RTL_x86_enu_WebDevHowDoI10.cab
+|       |   |   _16472_RTL_x86_enu_VC_VSK.cab
+|       |   |   _16474_RTL_x86_enu_VS_Default_Profile.cab
+|       |   |   _16503_RTL_x86_ENU_C#_Auto_Expansions.cab
+|       |   |   _16503_RTL_x86_enu_CSharp_Auto_Expansions.cab
+|       |   |   _1654_RTL_x86_enu_VSLangProj_Type_Library.cab
+|       |   |   _16941_RTL_x86_enu_Debugger_Auto_Attach.cab
+|       |   |   _16954_RTL_x86_enu_VS_Filter_Files_for_Std.cab
+|       |   |   _16956_RTL_x86_enu_VS_MyHelp_Files_for_Std.cab
+|       |   |   _17124_RTL_x86_enu_Remote_Debugger_X86.cab
+|       |   |   _17128_RTL_x86_enu_NewFileItems.cab
+|       |   |   _17153_RTL_x86_enu_ControlTopicTypeFiltr80.cab
+|       |   |   _17155_RTL_x86_enu_SampleTopicTypeFilter80.cab
+|       |   |   _17156_RTL_x86_enu_SnipetTopicTypeFilter80.cab
+|       |   |   _17157_RTL_x86_enu_StartKitTopicTypFiltr80.cab
+|       |   |   _17159_RTL_x86_enu_ControlsFT80.cab
+|       |   |   _17161_RTL_x86_enu_SamplesFT80.cab
+|       |   |   _17162_RTL_x86_enu_SnippetsFT80.cab
+|       |   |   _17163_RTL_x86_enu_StarterKitsFT80.cab
+|       |   |   _1726_RTL_x86_enu_VS_Debug_msdbg2.cab
+|       |   |   _17625_RTL_x86_enu_PermCalc2.cab
+|       |   |   _1769_RTL_x86_enu_VS_Debug_CS_CPDE.cab
+|       |   |   _17753_RTL_x86_enu_HTML_Snippets.cab
+|       |   |   _17754_RTL_x86_enu_XSL_Tag_Snippets.cab
+|       |   |   _17757_RTL_x86_enu_Attribute_Snippets.cab
+|       |   |   _17759_RTL_x86_enu_ComplexType_Snippets.cab
+|       |   |   _17760_RTL_x86_enu_Element_Snippets.cab
+|       |   |   _17761_RTL_x86_enu_Extension_Snippets.cab
+|       |   |   _17762_RTL_x86_enu_Misc_Snippets.cab
+|       |   |   _17763_RTL_x86_enu_SimpleType_Snippets.cab
+|       |   |   _17767_RTL_x86_enu_InterstitialPage.htm.cab
+|       |   |   _17974_RTL_x86_enu_WebASPNETTechFilter20.cab
+|       |   |   _17988_RTL_x86_enu_KBTopicTypeFilter80.cab
+|       |   |   _18605_RTL_x86_enu_Debugger_Help.cab
+|       |   |   _18688_RTL_x86_enu_MSCorCFG.cab
+|       |   |   _18757_RTL_x86_enu_VSP_DLL.cab
+|       |   |   _18844_RTL_x86_enu_SymbolServerFiles.cab
+|       |   |   _18848_RTL_x86_enu_HelpTopicsTypeFilter80.cab
+|       |   |   _18881_RTL_x86_enu_Community_Content_Inst.cab
+|       |   |   _18886_RTL_x86_enu_Dexplore_Files_Loc.cab
+|       |   |   _18888_RTL_x86_enu_IDE_Global_Shared_Loc.cab
+|       |   |   _18889_RTL_x86_enu_Core_IDE_DExplore_Loc.cab
+|       |   |   _18895_RTL_x86_enu_VS_Comm_Content_Inst.cab
+|       |   |   _1902_RTL_x86_enu_Core_IDE_DExplore.cab
+|       |   |   _19077_RTL_x86_enu_AddInsFilterTransform80.cab
+|       |   |   _1909_RTL_x86_enu_TLBINF32_DLL.cab
+|       |   |   _19104_RTL_x86_enu_MSFT_VS_CommandBars_GAC.cab
+|       |   |   _19107_RTL_x86_enu_MS_VS_MgIfc_dll_GAC.cab
+|       |   |   _19110_RTL_x86_enu_VSIP_PIA_Redist_80.cab
+|       |   |   _19112_RTL_x86_enu_ENVDTE80_GAC.cab
+|       |   |   _19113_RTL_x86_enu_VSLangProj80_dll_GAC.cab
+|       |   |   _19116_RTL_x86_enu_VenusWebsitePIA_GAC.cab
+|       |   |   _1923_RTL_x86_enu_Core_IDE_Global_Shared.cab
+|       |   |   _1979_RTL_x86_enu_VS_SCC_TeamCore.cab
+|       |   |   _1986_RTL_x86_enu_VB_Compiler_Package.cab
+|       |   |   _1996_RTL_x86_enu_VS_SQL_Debug.cab
+|       |   |   _205_RTL_x86_enu_VsWizard.cab
+|       |   |   _2262_RTL_x86_enu_VC_DirControl.cab
+|       |   |   _22_RTL_x86_enu_Core_IDE_OLB_Files.cab
+|       |   |   _239_RTL_x86_enu_VC_NatDebugger.cab
+|       |   |   _2403_RTL_x86_enu_VC_Resedit.cab
+|       |   |   _245_RTL_x86_enu_VS_SCC_Integration.cab
+|       |   |   _260_RTL_x86_enu_VS_Debug_MSPDB_.cab
+|       |   |   _261_RTL_x86_enu_Dexplore_Files.cab
+|       |   |   _267_RTL_x86_enu_Core_IDE_VS7.cab
+|       |   |   _2879_RTL_x86_enu_VS_Debug_Coloader.cab
+|       |   |   _2936_RTL_x86_enu_VB_Compiler_Package_VSA.cab
+|       |   |   _2_RTL_x86_enu_Visual_Database_Tools_Core.cab
+|       |   |   _3255_RTL_x86_enu_SN_EXE.cab
+|       |   |   _3312_RTL_x86_enu_VSHelp_COM_Plus_Interop.cab
+|       |   |   _3332_RTL_x86_enu_ARP_Icon.cab
+|       |   |   _3365_RTL_x86_enu_NewScript_Items.cab
+|       |   |   _3395_RTL_x86_enu_Redist.txt.cab
+|       |   |   _347_RTL_x86_enu_VSLOG.cab
+|       |   |   _349_RTL_x86_enu_CSS_Designer.cab
+|       |   |   _351_RTL_x86_enu_HTML_Designer.cab
+|       |   |   _3554_RTL_x86_enu_DTE_Com_Plus_Interop.cab
+|       |   |   _3559_RTL_x86_enu_IDE_Macros_References.cab
+|       |   |   _357_RTL_x86_enu_VC_Common_Resedit.cab
+|       |   |   _3598_RTL_x86_enu_VB7_Runtime_XML.cab
+|       |   |   _3712_RTL_x86_enu_Assembly_Folder_Readmes.cab
+|       |   |   _371_RTL_x86_enu_VS_Debug_ENCMgr.cab
+|       |   |   _3720_RTL_x86_enu_VxExtensibility_Typelib.cab
+|       |   |   _373_RTL_x86_enu_VS_Debug_MDM_PDM_.cab
+|       |   |   _376_RTL_x86_enu_VS_Debug_SDM2.cab
+|       |   |   _377_RTL_x86_enu_VS_Debug_SHMetapdb.cab
+|       |   |   _378_RTL_x86_enu_VS_Debug_VSDebug.cab
+|       |   |   _3858_RTL_x86_enu_VC_Debug_Extension.cab
+|       |   |   _3942_RTL_x86_enu_VSCC_HXS_HXI.cab
+|       |   |   _3943_RTL_x86_enu_VSCC_Collection_Files.cab
+|       |   |   _3965_RTL_x86_enu_MSDIA80_Debugger.cab
+|       |   |   _3_RTL_x86_enu_Core_IDE.cab
+|       |   |   _476_RTL_x86_enu_VS_Debug_JScript_.cab
+|       |   |   _518_RTL_x86_enu_Dynamic_Help.cab
+|       |   |   _527_RTL_x86_enu_CompSvcsPkg.cab
+|       |   |   _530_RTL_x86_enu_SQL_Srvr_mssdi.cab
+|       |   |   _535_RTL_x86_enu_VC_Dbg_DbgProxy.cab
+|       |   |   _536_RTL_x86_enu_Envdte_COM_Plus_Interop.cab
+|       |   |   _573_RTL_x86_enu_ProjectItems.cab
+|       |   |   _579_RTL_x86_enu__VBA_7.cab
+|       |   |   _5_RTL_x86_enu_NewFile_Items.cab
+|       |   |   _616_RTL_x86_enu__VISUAL_DATABASE_TOOLS.cab
+|       |   |   _676_RTL_x86_enu__DEXPLORE.cab
+|       |   |   _681_RTL_x86_enu_IDE_Macros.cab
+|       |   |   _682_RTL_x86_enu_IDE_Solution_Pkg.cab
+|       |   |   _692_RTL_x86_enu_Designer_Framework.cab
+|       |   |   _870_RTL_x86_enu_VS_Designer.cab
+|       |   |   _887_RTL_x86_enu_VS_Debug_MSDIS150.cab
+|       |   |   _9079_RTL_x86_enu_VS_Debug_VSJIT.cab
+|       |   |   _9190_RTL_x86_enu_Venus_Web_Design.cab
+|       |   |   _9196_RTL_x86_enu_MSBuild_for_VS.cab
+|       |   |   _9207_RTL_x86_enu_VS_Designer_Interops.cab
+|       |   |   _9265_RTL_x86_enu_VS_Editors_Package.cab
+|       |   |   _9359_RTL_x86_enu_EnvDTE80.cab
+|       |   |   _9392_RTL_x86_enu_Venus_PIAs.cab
+|       |   |   _9401_RTL_x86_enu_VxExtensibility.cab
+|       |   |   msxml6.msi
+|       |   |   msxml6_x64.msi
+|       |   |   owc11.xml
+|       |   |   rs2000.msp
+|       |   |   setupex.dll
+|       |   |   sqlncli.msi
+|       |   |   sqlncli_x64.msi
+|       |   |   sqlxml4.msi
+|       |   |   sqlxml4_x64.msi
+|       |   |   vs_setup.msi
+|       |   |   
+|       |   +---Images
+|       |   |       autorun_silver_bground.png
+|       |   |       browse_cd.gif
+|       |   |       license_agreement.gif
+|       |   |       newsgroup.gif
+|       |   |       release_notes.gif
+|       |   |       server.gif
+|       |   |       setup.gif
+|       |   |       splash.bmp
+|       |   |       sql_website.gif
+|       |   |       
+|       |   \---help
+|       |       \---1033
+|       |               setupsql9.chm
+|       |               
+|       \---redist
+|           +---2.0
+|           |       dotnetfx.exe
+|           |       dotnetfx64.exe
+|           |       
+|           \---Windows Installer
+|                   WindowsInstaller-KB893803-v2-x86.exe
+|                   
++---Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended
+|   |   ReadMe.txt
+|   |   autorun.inf
+|   |   
+|   +---Servers
+|   |   |   DbgHelp.dll
+|   |   |   Microsoft.VC80.CRT.manifest
+|   |   |   ReadmeSQL2005.htm
+|   |   |   RequirementsSQL2005.htm
+|   |   |   autorun.ico
+|   |   |   autorun.inf
+|   |   |   default.hta
+|   |   |   default.htm
+|   |   |   license.txt
+|   |   |   msvcp80.dll
+|   |   |   msvcr80.dll
+|   |   |   setup.exe
+|   |   |   setup.ico
+|   |   |   setup.rll
+|   |   |   splash.hta
+|   |   |   sqlcu.dll
+|   |   |   sqlcu.rll
+|   |   |   sqlspkglist.dll
+|   |   |   template.ini
+|   |   |   xmlrw.dll
+|   |   |   
+|   |   +---1033
+|   |   |       finish.rtf
+|   |   |       
+|   |   +---Setup
+|   |   |   |   MSDE2000.msp
+|   |   |   |   OSE.EXE
+|   |   |   |   OWC11.MSI
+|   |   |   |   PA655502.CAB
+|   |   |   |   PSS10O.CHM_1033
+|   |   |   |   PSS10R.CHM_1033
+|   |   |   |   SETUP.CHM_1033
+|   |   |   |   SETUP.EXE
+|   |   |   |   SETUP.INI
+|   |   |   |   SKU0A4.CAB
+|   |   |   |   SQLServer2005_BC.msi
+|   |   |   |   SqlRun.msi
+|   |   |   |   SqlRun_AS.ini
+|   |   |   |   SqlRun_AS.msi
+|   |   |   |   SqlRun_DTS.msi
+|   |   |   |   SqlRun_NS.msi
+|   |   |   |   SqlRun_RS.ini
+|   |   |   |   SqlRun_RS.msi
+|   |   |   |   SqlRun_SQL.ini
+|   |   |   |   SqlRun_SQL.msi
+|   |   |   |   SqlSupport.msi
+|   |   |   |   SqlWriter.msi
+|   |   |   |   YB656101.CAB
+|   |   |   |   ZD655501.CAB
+|   |   |   |   ZM656101.CAB
+|   |   |   |   ZQ655502.CAB
+|   |   |   |   ZS655501.CAB
+|   |   |   |   ZY656106.CAB
+|   |   |   |   ZZ655501.CAB
+|   |   |   |   libertysql.msp
+|   |   |   |   msxml6.msi
+|   |   |   |   owc11.xml
+|   |   |   |   rs2000.msp
+|   |   |   |   setupex.dll
+|   |   |   |   sqlncli.msi
+|   |   |   |   sqlxml4.msi
+|   |   |   |   
+|   |   |   +---Images
+|   |   |   |       autorun_silver_bground.png
+|   |   |   |       browse_cd.gif
+|   |   |   |       license_agreement.gif
+|   |   |   |       newsgroup.gif
+|   |   |   |       release_notes.gif
+|   |   |   |       server.gif
+|   |   |   |       setup.gif
+|   |   |   |       splash.bmp
+|   |   |   |       sql_website.gif
+|   |   |   |       
+|   |   |   \---help
+|   |   |       \---1033
+|   |   |               setupsql9.chm
+|   |   |               
+|   |   \---redist
+|   |       +---2.0
+|   |       |       dotnetfx.exe
+|   |       |       
+|   |       \---Upgrade Advisor
+|   |               SQLUASetup.msi
+|   |               
+|   \---Tools
+|       |   DbgHelp.dll
+|       |   Microsoft.VC80.CRT.manifest
+|       |   ReadmeSQL2005.htm
+|       |   RequirementsSQL2005.htm
+|       |   autorun.ico
+|       |   autorun.inf
+|       |   default.hta
+|       |   default.htm
+|       |   license.txt
+|       |   msvcp80.dll
+|       |   msvcr80.dll
+|       |   setup.exe
+|       |   setup.ico
+|       |   setup.rll
+|       |   splash.hta
+|       |   sqlcu.dll
+|       |   sqlcu.rll
+|       |   sqlspkglist.dll
+|       |   template.ini
+|       |   xmlrw.dll
+|       |   
+|       +---1033
+|       |       finish.rtf
+|       |       
+|       +---Setup
+|       |   |   OSE.EXE
+|       |   |   OWC11.MSI
+|       |   |   PA655502.CAB
+|       |   |   PSS10O.CHM_1033
+|       |   |   PSS10R.CHM_1033
+|       |   |   SETUP.CHM_1033
+|       |   |   SETUP.EXE
+|       |   |   SETUP.INI
+|       |   |   SKU0A4.CAB
+|       |   |   SQLServer2005_BC.msi
+|       |   |   SqlRun.msi
+|       |   |   SqlRun_Tools.msi
+|       |   |   SqlServer2K5_BOL.msi
+|       |   |   SqlSupport.msi
+|       |   |   SqlWriter.msi
+|       |   |   YB656101.CAB
+|       |   |   ZD655501.CAB
+|       |   |   ZM656101.CAB
+|       |   |   ZQ655502.CAB
+|       |   |   ZS655501.CAB
+|       |   |   ZY656106.CAB
+|       |   |   ZZ655501.CAB
+|       |   |   _1004_RTL_x86_enu_Object_Browser_Generic.cab
+|       |   |   _1121_RTL_x86_enu_DataForm_Wizard.cab
+|       |   |   _1225_RTL_x86_enu_ASP_Object_Library.cab
+|       |   |   _1242_RTL_x86_enu_VS_SCC_Integration_Core.cab
+|       |   |   _13_RTL_x86_enu_DDS_7.0.cab
+|       |   |   _14572_RTL_x86_enu_DTEProperties_Typelib.cab
+|       |   |   _14581_RTL_x86_enu_VS_IDE_Baseline.cab
+|       |   |   _14584_RTL_x86_enu__Environment_Extended.cab
+|       |   |   _14585_RTL_x86_enu__Environment_Baseline.cab
+|       |   |   _14724_RTL_x86_enu_Express_Core_Debugger.cab
+|       |   |   _14762_RTL_x86_enu_VSIPCC_Collection.cab
+|       |   |   _14934_RTL_x86_enu_XmlEditor.cab
+|       |   |   _15186_RTL_x86_enu_XmlDesigner.cab
+|       |   |   _1519_RTL_x86_enu_VSCC_Help_Collection.cab
+|       |   |   _1520_RTL_x86_enu_HxRuntime.cab
+|       |   |   _15288_RTL_x86_enu_VS_Debug_Debugger.cab
+|       |   |   _15346_RTL_x86_enu_PermCalc.cab
+|       |   |   _15536_RTL_x86_enu_DExplore_Doc_Coll.cab
+|       |   |   _15676_RTL_x86_enu_Remote_Debug_Native.cab
+|       |   |   _1583_RTL_x86_enu_MSHelp_Visual_Services.cab
+|       |   |   _1584_RTL_x86_enu_MSHelp_Data_Services.cab
+|       |   |   _15912_RTL_x86_enu_PInteropAsm_Baseline.cab
+|       |   |   _15913_RTL_x86_enu_PInteropAsm_Extended.cab
+|       |   |   _16026_RTL_x86_enu_Debugger___Standard.cab
+|       |   |   _1610_RTL_x86_enu_CSharp_Intellidocs.cab
+|       |   |   _16115_RTL_x86_enu_VC++_Express_Debug.cab
+|       |   |   _16116_RTL_x86_enu_Venus_Express_Debug.cab
+|       |   |   _16206_RTL_x86_enu_Debugger_Causality.cab
+|       |   |   _16207_RTL_x86_enu_Debugger_Legacy.cab
+|       |   |   _16407_RTL_x86_enu_CSharpLangFilter20.cab
+|       |   |   _16408_RTL_x86_enu_HtmlLangFilter80.cab
+|       |   |   _16409_RTL_x86_enu_JScriptLangFilter80.cab
+|       |   |   _16410_RTL_x86_enu_JSharpLangFilter80.cab
+|       |   |   _16412_RTL_x86_enu_NetFxTechFilter20.cab
+|       |   |   _16413_RTL_x86_enu_OfficeDevTechFilter20.cab
+|       |   |   _16415_RTL_x86_enu_VBLangFilter80.cab
+|       |   |   _16418_RTL_x86_enu_VCLangFilter80.cab
+|       |   |   _16421_RTL_x86_enu_Win32TechFilter80.cab
+|       |   |   _16422_RTL_x86_enu_WinFormsTechFilter20.cab
+|       |   |   _16423_RTL_x86_enu_XmlLangFilter80.cab
+|       |   |   _16425_RTL_x86_enu_CSHowDoI80.cab
+|       |   |   _16429_RTL_x86_enu_VBHowDoI80.cab
+|       |   |   _16434_RTL_x86_enu_VSTOHowDoI10.cab
+|       |   |   _16436_RTL_x86_enu_WebDevHowDoI10.cab
+|       |   |   _16472_RTL_x86_enu_VC_VSK.cab
+|       |   |   _16474_RTL_x86_enu_VS_Default_Profile.cab
+|       |   |   _16503_RTL_x86_ENU_C#_Auto_Expansions.cab
+|       |   |   _16503_RTL_x86_enu_CSharp_Auto_Expansions.cab
+|       |   |   _1654_RTL_x86_enu_VSLangProj_Type_Library.cab
+|       |   |   _16941_RTL_x86_enu_Debugger_Auto_Attach.cab
+|       |   |   _16954_RTL_x86_enu_VS_Filter_Files_for_Std.cab
+|       |   |   _16956_RTL_x86_enu_VS_MyHelp_Files_for_Std.cab
+|       |   |   _17124_RTL_x86_enu_Remote_Debugger_X86.cab
+|       |   |   _17128_RTL_x86_enu_NewFileItems.cab
+|       |   |   _17153_RTL_x86_enu_ControlTopicTypeFiltr80.cab
+|       |   |   _17155_RTL_x86_enu_SampleTopicTypeFilter80.cab
+|       |   |   _17156_RTL_x86_enu_SnipetTopicTypeFilter80.cab
+|       |   |   _17157_RTL_x86_enu_StartKitTopicTypFiltr80.cab
+|       |   |   _17159_RTL_x86_enu_ControlsFT80.cab
+|       |   |   _17161_RTL_x86_enu_SamplesFT80.cab
+|       |   |   _17162_RTL_x86_enu_SnippetsFT80.cab
+|       |   |   _17163_RTL_x86_enu_StarterKitsFT80.cab
+|       |   |   _1726_RTL_x86_enu_VS_Debug_msdbg2.cab
+|       |   |   _17625_RTL_x86_enu_PermCalc2.cab
+|       |   |   _1769_RTL_x86_enu_VS_Debug_CS_CPDE.cab
+|       |   |   _17753_RTL_x86_enu_HTML_Snippets.cab
+|       |   |   _17754_RTL_x86_enu_XSL_Tag_Snippets.cab
+|       |   |   _17757_RTL_x86_enu_Attribute_Snippets.cab
+|       |   |   _17759_RTL_x86_enu_ComplexType_Snippets.cab
+|       |   |   _17760_RTL_x86_enu_Element_Snippets.cab
+|       |   |   _17761_RTL_x86_enu_Extension_Snippets.cab
+|       |   |   _17762_RTL_x86_enu_Misc_Snippets.cab
+|       |   |   _17763_RTL_x86_enu_SimpleType_Snippets.cab
+|       |   |   _17767_RTL_x86_enu_InterstitialPage.htm.cab
+|       |   |   _17974_RTL_x86_enu_WebASPNETTechFilter20.cab
+|       |   |   _17988_RTL_x86_enu_KBTopicTypeFilter80.cab
+|       |   |   _18605_RTL_x86_enu_Debugger_Help.cab
+|       |   |   _18688_RTL_x86_enu_MSCorCFG.cab
+|       |   |   _18757_RTL_x86_enu_VSP_DLL.cab
+|       |   |   _18844_RTL_x86_enu_SymbolServerFiles.cab
+|       |   |   _18848_RTL_x86_enu_HelpTopicsTypeFilter80.cab
+|       |   |   _18881_RTL_x86_enu_Community_Content_Inst.cab
+|       |   |   _18886_RTL_x86_enu_Dexplore_Files_Loc.cab
+|       |   |   _18888_RTL_x86_enu_IDE_Global_Shared_Loc.cab
+|       |   |   _18889_RTL_x86_enu_Core_IDE_DExplore_Loc.cab
+|       |   |   _18895_RTL_x86_enu_VS_Comm_Content_Inst.cab
+|       |   |   _1902_RTL_x86_enu_Core_IDE_DExplore.cab
+|       |   |   _19077_RTL_x86_enu_AddInsFilterTransform80.cab
+|       |   |   _1909_RTL_x86_enu_TLBINF32_DLL.cab
+|       |   |   _19104_RTL_x86_enu_MSFT_VS_CommandBars_GAC.cab
+|       |   |   _19107_RTL_x86_enu_MS_VS_MgIfc_dll_GAC.cab
+|       |   |   _19110_RTL_x86_enu_VSIP_PIA_Redist_80.cab
+|       |   |   _19112_RTL_x86_enu_ENVDTE80_GAC.cab
+|       |   |   _19113_RTL_x86_enu_VSLangProj80_dll_GAC.cab
+|       |   |   _19116_RTL_x86_enu_VenusWebsitePIA_GAC.cab
+|       |   |   _1923_RTL_x86_enu_Core_IDE_Global_Shared.cab
+|       |   |   _1979_RTL_x86_enu_VS_SCC_TeamCore.cab
+|       |   |   _1986_RTL_x86_enu_VB_Compiler_Package.cab
+|       |   |   _1996_RTL_x86_enu_VS_SQL_Debug.cab
+|       |   |   _205_RTL_x86_enu_VsWizard.cab
+|       |   |   _2262_RTL_x86_enu_VC_DirControl.cab
+|       |   |   _22_RTL_x86_enu_Core_IDE_OLB_Files.cab
+|       |   |   _239_RTL_x86_enu_VC_NatDebugger.cab
+|       |   |   _2403_RTL_x86_enu_VC_Resedit.cab
+|       |   |   _245_RTL_x86_enu_VS_SCC_Integration.cab
+|       |   |   _260_RTL_x86_enu_VS_Debug_MSPDB_.cab
+|       |   |   _261_RTL_x86_enu_Dexplore_Files.cab
+|       |   |   _267_RTL_x86_enu_Core_IDE_VS7.cab
+|       |   |   _2879_RTL_x86_enu_VS_Debug_Coloader.cab
+|       |   |   _2936_RTL_x86_enu_VB_Compiler_Package_VSA.cab
+|       |   |   _2_RTL_x86_enu_Visual_Database_Tools_Core.cab
+|       |   |   _3255_RTL_x86_enu_SN_EXE.cab
+|       |   |   _3312_RTL_x86_enu_VSHelp_COM_Plus_Interop.cab
+|       |   |   _3332_RTL_x86_enu_ARP_Icon.cab
+|       |   |   _3365_RTL_x86_enu_NewScript_Items.cab
+|       |   |   _3395_RTL_x86_enu_Redist.txt.cab
+|       |   |   _347_RTL_x86_enu_VSLOG.cab
+|       |   |   _349_RTL_x86_enu_CSS_Designer.cab
+|       |   |   _351_RTL_x86_enu_HTML_Designer.cab
+|       |   |   _3554_RTL_x86_enu_DTE_Com_Plus_Interop.cab
+|       |   |   _3559_RTL_x86_enu_IDE_Macros_References.cab
+|       |   |   _357_RTL_x86_enu_VC_Common_Resedit.cab
+|       |   |   _3598_RTL_x86_enu_VB7_Runtime_XML.cab
+|       |   |   _3712_RTL_x86_enu_Assembly_Folder_Readmes.cab
+|       |   |   _371_RTL_x86_enu_VS_Debug_ENCMgr.cab
+|       |   |   _3720_RTL_x86_enu_VxExtensibility_Typelib.cab
+|       |   |   _373_RTL_x86_enu_VS_Debug_MDM_PDM_.cab
+|       |   |   _376_RTL_x86_enu_VS_Debug_SDM2.cab
+|       |   |   _377_RTL_x86_enu_VS_Debug_SHMetapdb.cab
+|       |   |   _378_RTL_x86_enu_VS_Debug_VSDebug.cab
+|       |   |   _3858_RTL_x86_enu_VC_Debug_Extension.cab
+|       |   |   _3942_RTL_x86_enu_VSCC_HXS_HXI.cab
+|       |   |   _3943_RTL_x86_enu_VSCC_Collection_Files.cab
+|       |   |   _3965_RTL_x86_enu_MSDIA80_Debugger.cab
+|       |   |   _3_RTL_x86_enu_Core_IDE.cab
+|       |   |   _476_RTL_x86_enu_VS_Debug_JScript_.cab
+|       |   |   _518_RTL_x86_enu_Dynamic_Help.cab
+|       |   |   _527_RTL_x86_enu_CompSvcsPkg.cab
+|       |   |   _530_RTL_x86_enu_SQL_Srvr_mssdi.cab
+|       |   |   _535_RTL_x86_enu_VC_Dbg_DbgProxy.cab
+|       |   |   _536_RTL_x86_enu_Envdte_COM_Plus_Interop.cab
+|       |   |   _573_RTL_x86_enu_ProjectItems.cab
+|       |   |   _579_RTL_x86_enu__VBA_7.cab
+|       |   |   _5_RTL_x86_enu_NewFile_Items.cab
+|       |   |   _616_RTL_x86_enu__VISUAL_DATABASE_TOOLS.cab
+|       |   |   _676_RTL_x86_enu__DEXPLORE.cab
+|       |   |   _681_RTL_x86_enu_IDE_Macros.cab
+|       |   |   _682_RTL_x86_enu_IDE_Solution_Pkg.cab
+|       |   |   _692_RTL_x86_enu_Designer_Framework.cab
+|       |   |   _870_RTL_x86_enu_VS_Designer.cab
+|       |   |   _887_RTL_x86_enu_VS_Debug_MSDIS150.cab
+|       |   |   _9079_RTL_x86_enu_VS_Debug_VSJIT.cab
+|       |   |   _9190_RTL_x86_enu_Venus_Web_Design.cab
+|       |   |   _9196_RTL_x86_enu_MSBuild_for_VS.cab
+|       |   |   _9207_RTL_x86_enu_VS_Designer_Interops.cab
+|       |   |   _9265_RTL_x86_enu_VS_Editors_Package.cab
+|       |   |   _9359_RTL_x86_enu_EnvDTE80.cab
+|       |   |   _9392_RTL_x86_enu_Venus_PIAs.cab
+|       |   |   _9401_RTL_x86_enu_VxExtensibility.cab
+|       |   |   msxml6.msi
+|       |   |   owc11.xml
+|       |   |   setupex.dll
+|       |   |   sqlncli.msi
+|       |   |   sqlxml4.msi
+|       |   |   vs_setup.msi
+|       |   |   
+|       |   +---Images
+|       |   |       autorun_silver_bground.png
+|       |   |       browse_cd.gif
+|       |   |       license_agreement.gif
+|       |   |       newsgroup.gif
+|       |   |       release_notes.gif
+|       |   |       server.gif
+|       |   |       setup.gif
+|       |   |       splash.bmp
+|       |   |       sql_website.gif
+|       |   |       
+|       |   \---help
+|       |       \---1033
+|       |               setupsql9.chm
+|       |               
+|       \---redist
+|           \---2.0
+|                   dotnetfx.exe
+|                   
+\---Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium
+    |   ReadMe.txt
+    |   autorun.inf
+    |   
+    +---Servers
+    |   |   DbgHelp.dll
+    |   |   Microsoft.VC80.CRT.manifest
+    |   |   ReadmeSQL2005.htm
+    |   |   RequirementsSQL2005.htm
+    |   |   autorun.ico
+    |   |   autorun.inf
+    |   |   default.hta
+    |   |   default.htm
+    |   |   license.txt
+    |   |   msvcp80.dll
+    |   |   msvcr80.dll
+    |   |   setup.exe
+    |   |   setup.ico
+    |   |   setup.rll
+    |   |   splash.hta
+    |   |   sqlcu.dll
+    |   |   sqlcu.rll
+    |   |   sqlspkglist.dll
+    |   |   template.ini
+    |   |   xmlrw.dll
+    |   |   
+    |   +---1033
+    |   |       finish.rtf
+    |   |       
+    |   +---Setup
+    |   |   |   MSDE2000.msp
+    |   |   |   OSE.EXE
+    |   |   |   OWC11.MSI
+    |   |   |   PA655502.CAB
+    |   |   |   PSS10O.CHM_1033
+    |   |   |   PSS10R.CHM_1033
+    |   |   |   SETUP.CHM_1033
+    |   |   |   SETUP.EXE
+    |   |   |   SETUP.INI
+    |   |   |   SKU0A4.CAB
+    |   |   |   SQLServer2005_BC.msi
+    |   |   |   SqlRun.msi
+    |   |   |   SqlRun_AS.ini
+    |   |   |   SqlRun_AS.msi
+    |   |   |   SqlRun_DTS.msi
+    |   |   |   SqlRun_NS.msi
+    |   |   |   SqlRun_RS.ini
+    |   |   |   SqlRun_RS.msi
+    |   |   |   SqlRun_SQL.ini
+    |   |   |   SqlRun_SQL.msi
+    |   |   |   SqlSupport.msi
+    |   |   |   SqlWriter.msi
+    |   |   |   YB656101.CAB
+    |   |   |   ZD655501.CAB
+    |   |   |   ZM656101.CAB
+    |   |   |   ZQ655502.CAB
+    |   |   |   ZS655501.CAB
+    |   |   |   ZY656106.CAB
+    |   |   |   ZZ655501.CAB
+    |   |   |   libertysql.msp
+    |   |   |   msxml6.msi
+    |   |   |   owc11.xml
+    |   |   |   rs2000.msp
+    |   |   |   setupex.dll
+    |   |   |   sqlncli.msi
+    |   |   |   sqlxml4.msi
+    |   |   |   
+    |   |   +---Images
+    |   |   |       autorun_silver_bground.png
+    |   |   |       browse_cd.gif
+    |   |   |       license_agreement.gif
+    |   |   |       newsgroup.gif
+    |   |   |       release_notes.gif
+    |   |   |       server.gif
+    |   |   |       setup.gif
+    |   |   |       splash.bmp
+    |   |   |       sql_website.gif
+    |   |   |       
+    |   |   \---help
+    |   |       \---1033
+    |   |               setupsql9.chm
+    |   |               
+    |   \---redist
+    |       +---2.0
+    |       |       dotnetfx.exe
+    |       |       
+    |       \---Upgrade Advisor
+    |               SQLUASetup.msi
+    |               
+    \---Tools
+        |   DbgHelp.dll
+        |   Microsoft.VC80.CRT.manifest
+        |   ReadmeSQL2005.htm
+        |   RequirementsSQL2005.htm
+        |   autorun.ico
+        |   autorun.inf
+        |   default.hta
+        |   default.htm
+        |   license.txt
+        |   msvcp80.dll
+        |   msvcr80.dll
+        |   setup.exe
+        |   setup.ico
+        |   setup.rll
+        |   splash.hta
+        |   sqlcu.dll
+        |   sqlcu.rll
+        |   sqlspkglist.dll
+        |   template.ini
+        |   xmlrw.dll
+        |   
+        +---1033
+        |       finish.rtf
+        |       
+        +---Setup
+        |   |   OSE.EXE
+        |   |   OWC11.MSI
+        |   |   PA655502.CAB
+        |   |   PSS10O.CHM_1033
+        |   |   PSS10R.CHM_1033
+        |   |   SETUP.CHM_1033
+        |   |   SETUP.EXE
+        |   |   SETUP.INI
+        |   |   SKU0A4.CAB
+        |   |   SQLServer2005_BC.msi
+        |   |   SqlRun.msi
+        |   |   SqlRun_Tools.msi
+        |   |   SqlServer2K5_BOL.msi
+        |   |   SqlSupport.msi
+        |   |   SqlWriter.msi
+        |   |   YB656101.CAB
+        |   |   ZD655501.CAB
+        |   |   ZM656101.CAB
+        |   |   ZQ655502.CAB
+        |   |   ZS655501.CAB
+        |   |   ZY656106.CAB
+        |   |   ZZ655501.CAB
+        |   |   libertysql.msp
+        |   |   msxml6.msi
+        |   |   owc11.xml
+        |   |   setupex.dll
+        |   |   sqlncli.msi
+        |   |   sqlxml4.msi
+        |   |   
+        |   +---Images
+        |   |       autorun_silver_bground.png
+        |   |       browse_cd.gif
+        |   |       license_agreement.gif
+        |   |       newsgroup.gif
+        |   |       release_notes.gif
+        |   |       server.gif
+        |   |       setup.gif
+        |   |       splash.bmp
+        |   |       sql_website.gif
+        |   |       
+        |   \---help
+        |       \---1033
+        |               setupsql9.chm
+        |               
+        \---redist
+            \---2.0
+                    dotnetfx.exe
+                    

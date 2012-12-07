@@ -1,0 +1,27 @@
+Folder PATH listing for volume REDWALL
+Volume serial number is 751D-A3D1
+G:\
+|   CHANGELOG
+|   COPYING
+|   LICENSE
+|   initrd.gz
+|   isolinux.bi_
+|   isolinux.bin
+|   isolinux.boot
+|   isolinux.cfg
+|   make_iso.bat
+|   make_iso.sh
+|   memtest
+|   redwall.sgn
+|   rootfs.img
+|   splash.cfg
+|   splash.lss
+|   splash.txt
+|   vmlinuz
+|   
+\---DOS
+        config
+        mkisofs.exe
+        readme.txt
+        syslinux.com
+        

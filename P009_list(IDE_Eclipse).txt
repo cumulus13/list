@@ -1,0 +1,3650 @@
+ Volume in drive G is IDE_Eclipse
+ Volume Serial Number is 860D-7CE5
+
+ Directory of G:\
+
+08/03/2007  02:10 PM    <DIR>          Callisto Eclipse
+07/26/2007  01:32 PM    <DIR>          Driver JDBC
+08/03/2007  02:11 PM    <DIR>          JDK 6
+08/03/2007  02:19 PM    <DIR>          NetBeans 5
+07/26/2007  01:31 PM    <DIR>          Source Code
+07/26/2007  01:31 PM    <DIR>          Tutorial JAVA
+08/03/2007  02:09 PM               274 catatan tentang hak cipta.txt
+               1 File(s)            274 bytes
+
+ Directory of G:\Callisto Eclipse
+
+08/03/2007  02:10 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+07/21/2007  10:52 AM       283,093,533 Enterprise-SDK-Callisto-ADI-322-win32.zip
+07/21/2007  10:50 AM         1,140,895 GEF-runtime-3.2.zip
+07/21/2007  10:50 AM        12,280,669 VE-SDK-1.2.3_jem Final.zip
+07/21/2007  10:50 AM           292,053 VE-examples-1.2.3_jem Final.zip
+07/21/2007  10:50 AM         7,669,652 VE-runtime-1.2.zip
+08/03/2007  02:11 PM                36 alzip_exe.txt
+07/21/2007  10:50 AM         3,721,592 emf-sdo-runtime-2.2.0.zip
+               7 File(s)    308,198,430 bytes
+
+ Directory of G:\Driver JDBC
+
+07/26/2007  01:32 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          Driver JDBC Access
+07/26/2007  01:32 PM    <DIR>          Driver JDBC DBF
+07/26/2007  01:32 PM    <DIR>          Driver JDBC MySQL
+07/26/2007  01:32 PM    <DIR>          Driver JDBC Oracle
+07/26/2007  01:32 PM    <DIR>          Driver JDBC SQLServ
+07/26/2007  01:46 PM    <DIR>          Driver JDBC-ODBC
+07/26/2007  01:31 PM    <DIR>          Driver RMI
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Access
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           877,144 Access_JDBC30.jar
+07/26/2007  01:32 PM    <DIR>          accessdocs
+               1 File(s)        877,144 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Access\accessdocs
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM            21,861 advanced.html
+07/21/2007  10:49 AM             3,290 components.html
+07/21/2007  10:49 AM             7,303 document.html
+07/21/2007  10:49 AM             2,245 download.html
+07/21/2007  10:49 AM            30,794 faq.html
+07/21/2007  10:49 AM            41,929 function.html
+07/21/2007  10:49 AM             3,131 history.html
+07/21/2007  10:49 AM             2,249 index.html
+07/21/2007  10:49 AM            10,517 installation.html
+07/21/2007  10:49 AM             2,051 introduction.html
+07/21/2007  10:49 AM            15,152 license.html
+07/21/2007  10:49 AM            16,147 openapi.html
+07/21/2007  10:49 AM             3,350 price.html
+07/21/2007  10:49 AM             6,879 resultset.html
+07/21/2007  10:49 AM            44,468 sqlsyntax.html
+07/21/2007  10:49 AM             5,024 start.html
+07/21/2007  10:49 AM             7,794 statement.html
+07/21/2007  10:49 AM             6,305 transaction.html
+              18 File(s)        230,489 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC DBF
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           933,630 dbf.zip
+               1 File(s)        933,630 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC MySQL
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM         8,143,387 mysql-connector-java-3.1.12.zip
+07/21/2007  10:49 AM         1,439,403 mysql-connector-java-4.0.17-ga.zip
+07/21/2007  10:49 AM         2,210,544 sqljdbc_1.0.809.102_enu.exe
+               3 File(s)     11,793,334 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           216,497 Oranxo.jar
+07/26/2007  01:32 PM    <DIR>          doc
+07/26/2007  01:32 PM    <DIR>          samples
+               1 File(s)        216,497 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,940 allclasses-frame.html
+07/21/2007  10:49 AM             1,720 allclasses-noframe.html
+07/26/2007  01:32 PM    <DIR>          com
+07/21/2007  10:49 AM             6,011 constant-values.html
+07/21/2007  10:49 AM             6,617 help-doc.html
+07/21/2007  10:49 AM               921 index.html
+07/21/2007  10:49 AM            59,562 manual.html
+07/21/2007  10:49 AM             1,241 overview-frame.html
+07/21/2007  10:49 AM             4,769 overview-summary.html
+07/21/2007  10:49 AM                29 package-list
+07/21/2007  10:49 AM               897 packages.html
+07/26/2007  01:32 PM    <DIR>          resources
+07/21/2007  10:49 AM            10,623 serialized-form.html
+07/21/2007  10:49 AM             1,231 stylesheet.css
+              12 File(s)         95,561 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc\com
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          inet
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc\com\inet
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          ora
+07/26/2007  01:32 PM    <DIR>          pool
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc\com\inet\ora
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           332,113 CachedRowSet.html
+07/21/2007  10:49 AM           172,856 JDBCRowSet.html
+07/21/2007  10:49 AM            77,029 OraDataSource.html
+07/21/2007  10:49 AM            34,357 PDataSource.html
+07/21/2007  10:49 AM            23,346 XDataSource.html
+07/21/2007  10:49 AM             1,319 package-frame.html
+07/21/2007  10:49 AM             6,045 package-summary.html
+               7 File(s)        647,065 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc\com\inet\pool
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM            15,418 FailoverEvent.html
+07/21/2007  10:49 AM             9,759 FailoverListener.html
+07/21/2007  10:49 AM             8,976 FailoverRunnable.html
+07/21/2007  10:49 AM            14,786 PoolDriver.html
+07/21/2007  10:49 AM            55,409 PoolManager.html
+07/21/2007  10:49 AM            13,947 TAFConnection.html
+07/21/2007  10:49 AM             1,675 package-frame.html
+07/21/2007  10:49 AM             6,737 package-summary.html
+               8 File(s)        126,707 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\doc\resources
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM                57 inherit.gif
+               1 File(s)             57 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC Oracle\samples
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,548 BlobTest.java
+07/21/2007  10:49 AM             2,927 ByteArrayBlob.java
+07/21/2007  10:49 AM             3,570 ClobTest.java
+07/21/2007  10:49 AM             5,430 MonitoredFailover.java
+07/21/2007  10:49 AM             2,739 OwnLob.java
+07/21/2007  10:49 AM               778 OwnXid.java
+07/21/2007  10:49 AM             1,862 RefCursor.java
+07/21/2007  10:49 AM             2,345 StringClob.java
+07/21/2007  10:49 AM             7,326 WithCachedRowSet.java
+07/21/2007  10:49 AM             2,582 WithJDBCRowSet.java
+07/21/2007  10:49 AM             3,034 WithPoolDataSource.java
+07/21/2007  10:49 AM             4,407 WithPoolManager.java
+              12 File(s)         40,548 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          DTCProxy_Setup
+07/21/2007  10:48 AM           178,871 Merlia.jar
+07/26/2007  01:31 PM    <DIR>          doc
+07/21/2007  10:48 AM            79,668 manual.html
+07/26/2007  01:31 PM    <DIR>          sample
+07/21/2007  10:49 AM         2,410,312 setup-1.exe
+07/21/2007  10:49 AM         2,210,544 sqljdbc_1.0.809.102_enu.exe
+               4 File(s)      4,879,395 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\DTCProxy_Setup
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:48 AM            59,376 DTCProxy.exe
+07/21/2007  10:48 AM           180,278 DTCProxy_debug.exe
+07/21/2007  10:48 AM             2,142 readme.txt
+               3 File(s)        241,796 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:48 AM             1,934 allclasses-frame.html
+07/21/2007  10:48 AM             1,714 allclasses-noframe.html
+07/26/2007  01:31 PM    <DIR>          com
+07/21/2007  10:48 AM             7,447 constant-values.html
+07/21/2007  10:48 AM             6,605 help-doc.html
+07/21/2007  10:48 AM               928 index.html
+07/21/2007  10:48 AM             1,235 overview-frame.html
+07/21/2007  10:48 AM             4,757 overview-summary.html
+07/21/2007  10:48 AM                29 package-list
+07/21/2007  10:48 AM               911 packages.html
+07/26/2007  01:31 PM    <DIR>          resources
+07/21/2007  10:48 AM            11,516 serialized-form.html
+07/21/2007  10:48 AM             1,231 stylesheet.css
+              11 File(s)         38,307 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc\com
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          inet
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc\com\inet
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:32 PM    <DIR>          pool
+07/26/2007  01:32 PM    <DIR>          tds
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc\com\inet\pool
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:48 AM            15,406 FailoverEvent.html
+07/21/2007  10:48 AM             9,747 FailoverListener.html
+07/21/2007  10:48 AM             8,964 FailoverRunnable.html
+07/21/2007  10:48 AM            14,774 PoolDriver.html
+07/21/2007  10:48 AM            55,090 PoolManager.html
+07/21/2007  10:48 AM             1,566 package-frame.html
+07/21/2007  10:48 AM             6,426 package-summary.html
+               7 File(s)        111,973 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc\com\inet\tds
+
+07/26/2007  01:32 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:48 AM           333,785 CachedRowSet.html
+07/21/2007  10:48 AM            25,594 DTCDataSource.html
+07/21/2007  10:48 AM           241,145 JDBCRowSet.html
+07/21/2007  10:48 AM            44,976 PDataSource.html
+07/21/2007  10:48 AM            80,494 TdsDataSource.html
+07/21/2007  10:48 AM            23,977 XDataSource.html
+07/21/2007  10:48 AM             1,430 package-frame.html
+07/21/2007  10:48 AM             6,289 package-summary.html
+               8 File(s)        757,690 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\doc\resources
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:48 AM             3,072 Thumbs.db
+07/21/2007  10:48 AM                57 inherit.gif
+               2 File(s)          3,129 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\sample
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:48 AM             2,604 ClassicDriver.java
+07/21/2007  10:48 AM             5,370 MonitoredFailover.java
+07/21/2007  10:48 AM             2,867 MyFailover.java
+07/21/2007  10:48 AM             2,552 PooledDriver.java
+07/21/2007  10:48 AM             6,179 SqlBinaryStream.java
+07/21/2007  10:48 AM             2,857 WithCachedRowSet.java
+07/21/2007  10:48 AM             2,708 WithDataSource.java
+07/21/2007  10:48 AM             2,581 WithJDBCRowSet.java
+07/21/2007  10:48 AM             4,102 WithJNDI.java
+07/21/2007  10:48 AM             4,396 WithJndiAndDataSource.java
+07/21/2007  10:48 AM             4,306 WithJndiAndPoolManager.java
+07/21/2007  10:48 AM             3,017 WithPoolDataSource.java
+07/21/2007  10:48 AM             4,420 WithPoolManager.java
+07/26/2007  01:31 PM    <DIR>          xa
+              13 File(s)         47,959 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC SQLServ\sample\xa
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:48 AM             1,007 XATds.java
+07/21/2007  10:48 AM             1,567 XATdsClient.java
+07/21/2007  10:48 AM             5,549 XATdsEJB.java
+07/21/2007  10:48 AM               863 XATdsHome.java
+               4 File(s)          8,986 bytes
+
+ Directory of G:\Driver JDBC\Driver JDBC-ODBC
+
+07/26/2007  01:46 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           290,723 JavaTutJDBC.pdf
+07/26/2007  02:03 PM               290 jdbc-odbc-bridge-1_3_2-windows-x86.txt
+               2 File(s)        291,013 bytes
+
+ Directory of G:\Driver JDBC\Driver RMI
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:32 PM    <DIR>          ..
+07/21/2007  10:49 AM           690,823 RmiJdbc3.3.zip
+               1 File(s)        690,823 bytes
+
+ Directory of G:\JDK 6
+
+08/03/2007  02:11 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+08/03/2007  02:19 PM                86 jdk-6-windows-i586_exe.txt
+               1 File(s)             86 bytes
+
+ Directory of G:\NetBeans 5
+
+08/03/2007  02:19 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+08/03/2007  02:17 PM                70 nb-5_0-fcs-bin-win_exe.txt
+               1 File(s)             70 bytes
+
+ Directory of G:\Source Code
+
+07/26/2007  01:31 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .metadata
+07/26/2007  01:31 PM    <DIR>          Basis Data - Meta Data
+07/26/2007  01:31 PM    <DIR>          Basis Data - Meta Data Lanjut
+07/26/2007  01:31 PM    <DIR>          Basis Data Dasar
+07/26/2007  01:31 PM    <DIR>          Basis Data Form Sederhana
+07/26/2007  01:31 PM    <DIR>          HelloWorldSwing
+07/26/2007  01:31 PM    <DIR>          Kelas Choice dan List
+07/26/2007  01:31 PM    <DIR>          Kelas Dialog
+07/26/2007  01:31 PM    <DIR>          Kelas FONT
+07/26/2007  01:31 PM    <DIR>          Kelas File Dialog
+07/26/2007  01:31 PM    <DIR>          Kelas Frame
+07/26/2007  01:31 PM    <DIR>          Kelas Image
+07/26/2007  01:31 PM    <DIR>          Kelas Kotak Periksa (CheckBox)
+07/26/2007  01:31 PM    <DIR>          Kelas Label dan Tombol
+07/26/2007  01:31 PM    <DIR>          Kelas LayOut Manager
+07/26/2007  01:31 PM    <DIR>          Kelas Menu dan Menu Bar
+07/26/2007  01:31 PM    <DIR>          Kelas Panel
+07/26/2007  01:31 PM    <DIR>          Kelas Scrollbar
+07/26/2007  01:31 PM    <DIR>          Kelas TextField dan TextArea
+07/26/2007  01:31 PM    <DIR>          Kelas Toolkit
+07/26/2007  01:31 PM    <DIR>          Konversi Suhu
+07/26/2007  01:31 PM    <DIR>          Listener Component
+07/26/2007  01:31 PM    <DIR>          Listener Key
+07/26/2007  01:31 PM    <DIR>          Listener Mouse
+07/26/2007  01:31 PM    <DIR>          Swing Check Box
+07/26/2007  01:31 PM    <DIR>          Swing Color Chooser
+07/26/2007  01:31 PM    <DIR>          Swing Combo Box
+07/26/2007  01:31 PM    <DIR>          Swing Dialog
+07/26/2007  01:31 PM    <DIR>          Swing Drag and Drop
+07/26/2007  01:31 PM    <DIR>          Swing File Chooser
+07/26/2007  01:31 PM    <DIR>          Swing Menu
+07/26/2007  01:31 PM    <DIR>          Swing Popup Menu
+07/26/2007  01:31 PM    <DIR>          Swing Progress Bar
+07/26/2007  01:31 PM    <DIR>          Swing Radio Button
+07/26/2007  01:31 PM    <DIR>          Swing SimpleTable
+07/26/2007  01:31 PM    <DIR>          Swing Table
+07/26/2007  01:31 PM    <DIR>          Swing Text Area
+07/26/2007  01:31 PM    <DIR>          Swing Text Input
+07/26/2007  01:31 PM    <DIR>          SwingApplication
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM           382,110 .log
+07/26/2007  01:31 PM    <DIR>          .plugins
+07/21/2007  10:49 AM                26 version.ini
+               2 File(s)        382,136 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          org.eclipse.core.resources
+07/26/2007  01:31 PM    <DIR>          org.eclipse.core.runtime
+07/26/2007  01:31 PM    <DIR>          org.eclipse.debug.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.debug.ui
+07/26/2007  01:31 PM    <DIR>          org.eclipse.help.base
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.debug.ui
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.launching
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.ui
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ltk.core.refactoring
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ltk.ui.refactoring
+07/26/2007  01:31 PM    <DIR>          org.eclipse.pde.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.pde.ui
+07/26/2007  01:31 PM    <DIR>          org.eclipse.tomcat
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ui
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ui.ide
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ui.intro
+07/26/2007  01:31 PM    <DIR>          org.eclipse.ui.workbench
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .history
+07/26/2007  01:31 PM    <DIR>          .projects
+07/26/2007  01:31 PM    <DIR>          .root
+07/26/2007  01:31 PM    <DIR>          .safetable
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          0
+07/26/2007  01:31 PM    <DIR>          1
+07/26/2007  01:31 PM    <DIR>          10
+07/26/2007  01:31 PM    <DIR>          12
+07/26/2007  01:31 PM    <DIR>          13
+07/26/2007  01:31 PM    <DIR>          15
+07/26/2007  01:31 PM    <DIR>          16
+07/26/2007  01:31 PM    <DIR>          17
+07/26/2007  01:31 PM    <DIR>          18
+07/26/2007  01:31 PM    <DIR>          19
+07/26/2007  01:31 PM    <DIR>          1a
+07/26/2007  01:31 PM    <DIR>          1b
+07/26/2007  01:31 PM    <DIR>          1c
+07/26/2007  01:31 PM    <DIR>          1d
+07/26/2007  01:31 PM    <DIR>          1e
+07/26/2007  01:31 PM    <DIR>          1f
+07/26/2007  01:31 PM    <DIR>          2
+07/26/2007  01:31 PM    <DIR>          20
+07/26/2007  01:31 PM    <DIR>          21
+07/26/2007  01:31 PM    <DIR>          22
+07/26/2007  01:31 PM    <DIR>          23
+07/26/2007  01:31 PM    <DIR>          24
+07/26/2007  01:31 PM    <DIR>          25
+07/26/2007  01:31 PM    <DIR>          26
+07/26/2007  01:31 PM    <DIR>          27
+07/26/2007  01:31 PM    <DIR>          28
+07/26/2007  01:31 PM    <DIR>          29
+07/26/2007  01:31 PM    <DIR>          2a
+07/26/2007  01:31 PM    <DIR>          2b
+07/26/2007  01:31 PM    <DIR>          2c
+07/26/2007  01:31 PM    <DIR>          2d
+07/26/2007  01:31 PM    <DIR>          2e
+07/26/2007  01:31 PM    <DIR>          2f
+07/26/2007  01:31 PM    <DIR>          3
+07/26/2007  01:31 PM    <DIR>          30
+07/26/2007  01:31 PM    <DIR>          31
+07/26/2007  01:31 PM    <DIR>          32
+07/26/2007  01:31 PM    <DIR>          33
+07/26/2007  01:31 PM    <DIR>          34
+07/26/2007  01:31 PM    <DIR>          36
+07/26/2007  01:31 PM    <DIR>          37
+07/26/2007  01:31 PM    <DIR>          38
+07/26/2007  01:31 PM    <DIR>          39
+07/26/2007  01:31 PM    <DIR>          3a
+07/26/2007  01:31 PM    <DIR>          3b
+07/26/2007  01:31 PM    <DIR>          3c
+07/26/2007  01:31 PM    <DIR>          3d
+07/26/2007  01:31 PM    <DIR>          3e
+07/26/2007  01:31 PM    <DIR>          3f
+07/26/2007  01:31 PM    <DIR>          40
+07/26/2007  01:31 PM    <DIR>          41
+07/26/2007  01:31 PM    <DIR>          42
+07/26/2007  01:31 PM    <DIR>          43
+07/26/2007  01:31 PM    <DIR>          44
+07/26/2007  01:31 PM    <DIR>          45
+07/26/2007  01:31 PM    <DIR>          46
+07/26/2007  01:31 PM    <DIR>          47
+07/26/2007  01:31 PM    <DIR>          48
+07/26/2007  01:31 PM    <DIR>          49
+07/26/2007  01:31 PM    <DIR>          4a
+07/26/2007  01:31 PM    <DIR>          4b
+07/26/2007  01:31 PM    <DIR>          4c
+07/26/2007  01:31 PM    <DIR>          4f
+07/26/2007  01:31 PM    <DIR>          5
+07/26/2007  01:31 PM    <DIR>          50
+07/26/2007  01:31 PM    <DIR>          51
+07/26/2007  01:31 PM    <DIR>          52
+07/26/2007  01:31 PM    <DIR>          53
+07/26/2007  01:31 PM    <DIR>          54
+07/26/2007  01:31 PM    <DIR>          55
+07/26/2007  01:31 PM    <DIR>          56
+07/26/2007  01:31 PM    <DIR>          57
+07/26/2007  01:31 PM    <DIR>          58
+07/26/2007  01:31 PM    <DIR>          59
+07/26/2007  01:31 PM    <DIR>          5a
+07/26/2007  01:31 PM    <DIR>          5b
+07/26/2007  01:31 PM    <DIR>          5c
+07/26/2007  01:31 PM    <DIR>          5d
+07/26/2007  01:31 PM    <DIR>          5e
+07/26/2007  01:31 PM    <DIR>          61
+07/26/2007  01:31 PM    <DIR>          62
+07/26/2007  01:31 PM    <DIR>          63
+07/26/2007  01:31 PM    <DIR>          64
+07/26/2007  01:31 PM    <DIR>          65
+07/26/2007  01:31 PM    <DIR>          66
+07/26/2007  01:31 PM    <DIR>          67
+07/26/2007  01:31 PM    <DIR>          68
+07/26/2007  01:31 PM    <DIR>          69
+07/26/2007  01:31 PM    <DIR>          6a
+07/26/2007  01:31 PM    <DIR>          6b
+07/26/2007  01:31 PM    <DIR>          6c
+07/26/2007  01:31 PM    <DIR>          6d
+07/26/2007  01:31 PM    <DIR>          6e
+07/26/2007  01:31 PM    <DIR>          6f
+07/26/2007  01:31 PM    <DIR>          7
+07/26/2007  01:31 PM    <DIR>          70
+07/26/2007  01:31 PM    <DIR>          71
+07/26/2007  01:31 PM    <DIR>          72
+07/26/2007  01:31 PM    <DIR>          73
+07/26/2007  01:31 PM    <DIR>          74
+07/26/2007  01:31 PM    <DIR>          75
+07/26/2007  01:31 PM    <DIR>          76
+07/26/2007  01:31 PM    <DIR>          77
+07/26/2007  01:31 PM    <DIR>          79
+07/26/2007  01:31 PM    <DIR>          7a
+07/26/2007  01:31 PM    <DIR>          7b
+07/26/2007  01:31 PM    <DIR>          7c
+07/26/2007  01:31 PM    <DIR>          8
+07/26/2007  01:31 PM    <DIR>          80
+07/26/2007  01:31 PM    <DIR>          81
+07/26/2007  01:31 PM    <DIR>          82
+07/26/2007  01:31 PM    <DIR>          83
+07/26/2007  01:31 PM    <DIR>          84
+07/26/2007  01:31 PM    <DIR>          85
+07/26/2007  01:31 PM    <DIR>          86
+07/26/2007  01:31 PM    <DIR>          87
+07/26/2007  01:31 PM    <DIR>          88
+07/26/2007  01:31 PM    <DIR>          89
+07/26/2007  01:31 PM    <DIR>          8a
+07/26/2007  01:31 PM    <DIR>          8b
+07/26/2007  01:31 PM    <DIR>          8c
+07/26/2007  01:31 PM    <DIR>          8d
+07/26/2007  01:31 PM    <DIR>          8e
+07/26/2007  01:31 PM    <DIR>          8f
+07/26/2007  01:31 PM    <DIR>          9
+07/26/2007  01:31 PM    <DIR>          90
+07/26/2007  01:31 PM    <DIR>          91
+07/26/2007  01:31 PM    <DIR>          92
+07/26/2007  01:31 PM    <DIR>          93
+07/26/2007  01:31 PM    <DIR>          94
+07/26/2007  01:31 PM    <DIR>          95
+07/26/2007  01:31 PM    <DIR>          96
+07/26/2007  01:31 PM    <DIR>          97
+07/26/2007  01:31 PM    <DIR>          98
+07/26/2007  01:31 PM    <DIR>          99
+07/26/2007  01:31 PM    <DIR>          9a
+07/26/2007  01:31 PM    <DIR>          9b
+07/26/2007  01:31 PM    <DIR>          9d
+07/26/2007  01:31 PM    <DIR>          9e
+07/26/2007  01:31 PM    <DIR>          9f
+07/26/2007  01:31 PM    <DIR>          a
+07/26/2007  01:31 PM    <DIR>          a0
+07/26/2007  01:31 PM    <DIR>          a1
+07/26/2007  01:31 PM    <DIR>          a2
+07/26/2007  01:31 PM    <DIR>          a3
+07/26/2007  01:31 PM    <DIR>          a4
+07/26/2007  01:31 PM    <DIR>          a5
+07/26/2007  01:31 PM    <DIR>          a6
+07/26/2007  01:31 PM    <DIR>          a7
+07/26/2007  01:31 PM    <DIR>          a8
+07/26/2007  01:31 PM    <DIR>          a9
+07/26/2007  01:31 PM    <DIR>          aa
+07/26/2007  01:31 PM    <DIR>          ab
+07/26/2007  01:31 PM    <DIR>          ac
+07/26/2007  01:31 PM    <DIR>          ad
+07/26/2007  01:31 PM    <DIR>          ae
+07/26/2007  01:31 PM    <DIR>          af
+07/26/2007  01:31 PM    <DIR>          b
+07/26/2007  01:31 PM    <DIR>          b0
+07/26/2007  01:31 PM    <DIR>          b1
+07/26/2007  01:31 PM    <DIR>          b2
+07/26/2007  01:31 PM    <DIR>          b3
+07/26/2007  01:31 PM    <DIR>          b4
+07/26/2007  01:31 PM    <DIR>          b5
+07/26/2007  01:31 PM    <DIR>          b7
+07/26/2007  01:31 PM    <DIR>          b8
+07/26/2007  01:31 PM    <DIR>          b9
+07/26/2007  01:31 PM    <DIR>          bb
+07/26/2007  01:31 PM    <DIR>          bc
+07/26/2007  01:31 PM    <DIR>          be
+07/26/2007  01:31 PM    <DIR>          bf
+07/26/2007  01:31 PM    <DIR>          c
+07/26/2007  01:31 PM    <DIR>          c0
+07/26/2007  01:31 PM    <DIR>          c1
+07/26/2007  01:31 PM    <DIR>          c2
+07/26/2007  01:31 PM    <DIR>          c3
+07/26/2007  01:31 PM    <DIR>          c5
+07/26/2007  01:31 PM    <DIR>          c6
+07/26/2007  01:31 PM    <DIR>          c7
+07/26/2007  01:31 PM    <DIR>          c9
+07/26/2007  01:31 PM    <DIR>          ca
+07/26/2007  01:31 PM    <DIR>          cb
+07/26/2007  01:31 PM    <DIR>          cc
+07/26/2007  01:31 PM    <DIR>          cd
+07/26/2007  01:31 PM    <DIR>          ce
+07/26/2007  01:31 PM    <DIR>          cf
+07/26/2007  01:31 PM    <DIR>          d
+07/26/2007  01:31 PM    <DIR>          d0
+07/26/2007  01:31 PM    <DIR>          d1
+07/26/2007  01:31 PM    <DIR>          d3
+07/26/2007  01:31 PM    <DIR>          d5
+07/26/2007  01:31 PM    <DIR>          d6
+07/26/2007  01:31 PM    <DIR>          d7
+07/26/2007  01:31 PM    <DIR>          d8
+07/26/2007  01:31 PM    <DIR>          d9
+07/26/2007  01:31 PM    <DIR>          db
+07/26/2007  01:31 PM    <DIR>          dc
+07/26/2007  01:31 PM    <DIR>          de
+07/26/2007  01:31 PM    <DIR>          df
+07/26/2007  01:31 PM    <DIR>          e
+07/26/2007  01:31 PM    <DIR>          e0
+07/26/2007  01:31 PM    <DIR>          e1
+07/26/2007  01:31 PM    <DIR>          e2
+07/26/2007  01:31 PM    <DIR>          e3
+07/26/2007  01:31 PM    <DIR>          e4
+07/26/2007  01:31 PM    <DIR>          e5
+07/26/2007  01:31 PM    <DIR>          e7
+07/26/2007  01:31 PM    <DIR>          e8
+07/26/2007  01:31 PM    <DIR>          e9
+07/26/2007  01:31 PM    <DIR>          ea
+07/26/2007  01:31 PM    <DIR>          eb
+07/26/2007  01:31 PM    <DIR>          ec
+07/26/2007  01:31 PM    <DIR>          ed
+07/26/2007  01:31 PM    <DIR>          ee
+07/26/2007  01:31 PM    <DIR>          ef
+07/26/2007  01:31 PM    <DIR>          f
+07/26/2007  01:31 PM    <DIR>          f0
+07/26/2007  01:31 PM    <DIR>          f1
+07/26/2007  01:31 PM    <DIR>          f2
+07/26/2007  01:31 PM    <DIR>          f3
+07/26/2007  01:31 PM    <DIR>          f4
+07/26/2007  01:31 PM    <DIR>          f5
+07/26/2007  01:31 PM    <DIR>          f6
+07/26/2007  01:31 PM    <DIR>          f7
+07/26/2007  01:31 PM    <DIR>          fa
+07/26/2007  01:31 PM    <DIR>          fb
+07/26/2007  01:31 PM    <DIR>          fc
+07/26/2007  01:31 PM    <DIR>          fd
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,142 806c765fce05001b1a4ad87d4b79eec3
+               1 File(s)          1,142 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\10
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,043 d0a578134504001b1e6fa040efc23205
+               1 File(s)          1,043 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\12
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               309 809ad6ace508001b1e51a5c363a73155
+               1 File(s)            309 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\13
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,373 303b9bf2c405001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             4,520 605d5bbe03f8001a1f3dfc8d54dff14b
+               2 File(s)          7,893 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\15
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\16
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\17
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,672 904d92717706001b1bf283c0e27986bb
+               1 File(s)          3,672 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\18
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,672 901bca707706001b1bf283c0e27986bb
+               1 File(s)          3,672 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\19
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,570 1053a68ec605001b1a4ad87d4b79eec3
+               1 File(s)          3,570 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                58 107524283404001b1510d7abff120b18
+07/21/2007  10:50 AM             1,304 20a3ff5ff104001b130eeaa4eece54f4
+               2 File(s)          1,362 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,548 30f44ba4cc05001b1a4ad87d4b79eec3
+               1 File(s)          3,548 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\1f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,460 a0ceb15ac505001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             3,417 f0c61344c305001b1a4ad87d4b79eec3
+               2 File(s)          6,877 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\20
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\21
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               213 108130f03504001b1510d7abff120b18
+               1 File(s)            213 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\22
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\23
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\24
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,180 109b536dca05001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             3,709 e0b04090c005001b1a4ad87d4b79eec3
+               2 File(s)          4,889 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\25
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                62 b0a90bfcd405001b1fabd4edd65a90b6
+               1 File(s)             62 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\26
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,143 7008e4bace05001b1a4ad87d4b79eec3
+               1 File(s)          1,143 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\27
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\28
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,553 407f254ac105001b1a4ad87d4b79eec3
+               1 File(s)          3,553 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\29
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,587 6064135ac805001b1a4ad87d4b79eec3
+               1 File(s)          3,587 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,414 10c562bdc305001b1a4ad87d4b79eec3
+               1 File(s)          3,414 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               276 50759b717706001b1bf283c0e27986bb
+               1 File(s)            276 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\2f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,133 6085fe46e508001b1e51a5c363a73155
+07/21/2007  10:50 AM             3,526 a0a45b66d005001b1a4ad87d4b79eec3
+               2 File(s)          4,659 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\30
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,519 80376a5fce05001b1a4ad87d4b79eec3
+               1 File(s)          3,519 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\31
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\32
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\33
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\34
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\36
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\37
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\38
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                40 2021496504f8001a19a58b159d5b7401
+07/21/2007  10:50 AM               737 40fed7707706001b1bf283c0e27986bb
+               2 File(s)            777 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\39
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,089 d07553474804001b1e6fa040efc23205
+               1 File(s)          1,089 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               242 a0c634f01004001b1510d7abff120b18
+               1 File(s)            242 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,166 206b0f94cb05001b1a4ad87d4b79eec3
+               1 File(s)          1,166 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\3f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\40
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,966 b087c5707706001b1bf283c0e27986bb
+               1 File(s)          1,966 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\41
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\42
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\43
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\44
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\45
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\46
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\47
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,136 c04aa6717706001b1bf283c0e27986bb
+               1 File(s)          1,136 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\48
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\49
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\4a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               205 f03d35283404001b1510d7abff120b18
+               1 File(s)            205 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\4b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,414 307d6b96c305001b1a4ad87d4b79eec3
+               1 File(s)          3,414 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\4c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\4f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,638 b01a18a2c005001b1a4ad87d4b79eec3
+               1 File(s)          3,638 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\50
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\51
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\52
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,655 20c8e055d105001b1a4ad87d4b79eec3
+               1 File(s)          3,655 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\53
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               275 806ba5b2e508001b1e51a5c363a73155
+               1 File(s)            275 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\54
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            36,219 c018de707706001b1bf283c0e27986bb
+               1 File(s)         36,219 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\55
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\56
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\57
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\58
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,218 40a49acd4504001b1e6fa040efc23205
+               1 File(s)          1,218 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\59
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            34,538 8075f3707706001b1bf283c0e27986bb
+               1 File(s)         34,538 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,110 90b54ff6f104001b130eeaa4eece54f4
+07/21/2007  10:50 AM               267 e0b0a58cf104001b130eeaa4eece54f4
+               2 File(s)          1,377 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,663 c03765ccd505001b1fabd4edd65a90b6
+               1 File(s)          3,663 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\5e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            33,100 807e30717706001b1bf283c0e27986bb
+               1 File(s)         33,100 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\61
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\62
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\63
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\64
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            32,510 80df0b717706001b1bf283c0e27986bb
+               1 File(s)         32,510 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\65
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               245 20e27e953504001b1510d7abff120b18
+07/21/2007  10:50 AM             3,671 a0a5f6ace508001b1e51a5c363a73155
+07/21/2007  10:50 AM             3,548 b013e066cc05001b1a4ad87d4b79eec3
+               3 File(s)          7,464 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\66
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\67
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\68
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,527 00769b30d105001b1a4ad87d4b79eec3
+               1 File(s)          3,527 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\69
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,268 d062b6d24e04001b1e6fa040efc23205
+               1 File(s)          1,268 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,414 20d5d9d0c305001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM            30,088 403c21717706001b1bf283c0e27986bb
+               2 File(s)         33,502 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,527 805ffb94d005001b1a4ad87d4b79eec3
+               1 File(s)          3,527 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\6f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                51 00c54ce93204001b1510d7abff120b18
+07/21/2007  10:50 AM             1,136 f02ab0707706001b1bf283c0e27986bb
+               2 File(s)          1,187 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\70
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\71
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\72
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\73
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\74
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\75
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,552 b0e0dabace05001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             3,382 d0341767c205001b1a4ad87d4b79eec3
+               2 File(s)          6,934 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\76
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\77
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\79
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\7a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,142 708e43fdc905001b1a4ad87d4b79eec3
+               1 File(s)          1,142 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\7b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\7c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,617 30abb0b7c005001b1a4ad87d4b79eec3
+               1 File(s)          3,617 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,151 50fd1f5f4804001b1e6fa040efc23205
+               1 File(s)          1,151 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\80
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\81
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\82
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\83
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,110 109ae5a1f104001b130eeaa4eece54f4
+07/21/2007  10:50 AM             1,180 30fa1612ca05001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             3,574 80586bc2c605001b1a4ad87d4b79eec3
+               3 File(s)          5,864 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\84
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\85
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\86
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               845 c02a37953504001b1510d7abff120b18
+               1 File(s)            845 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\87
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\88
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,581 3055da60c105001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             1,103 308ed5b14c04001b1e6fa040efc23205
+07/21/2007  10:50 AM               276 5008c4a1f104001b130eeaa4eece54f4
+07/21/2007  10:50 AM               268 c0d02c2ef104001b130eeaa4eece54f4
+               4 File(s)          5,228 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\89
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               275 e04ebcb2e508001b1e51a5c363a73155
+               1 File(s)            275 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,548 f000ac77cc05001b1a4ad87d4b79eec3
+               1 File(s)          3,548 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,179 30e11f283404001b1510d7abff120b18
+               1 File(s)          1,179 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\8f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\90
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\91
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\92
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               278 20a481aff104001b130eeaa4eece54f4
+07/21/2007  10:50 AM             3,561 8078f074ce05001b1a4ad87d4b79eec3
+               2 File(s)          3,839 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\93
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\94
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\95
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,414 a03f42f6c305001b1a4ad87d4b79eec3
+               1 File(s)          3,414 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\96
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               319 d072e0ac3504001b1510d7abff120b18
+               1 File(s)            319 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\97
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\98
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,528 403aede7cd05001b1a4ad87d4b79eec3
+               1 File(s)          3,528 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\99
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               273 101ad3a5e508001b1e51a5c363a73155
+               1 File(s)            273 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,581 303cc4d0c105001b1a4ad87d4b79eec3
+               1 File(s)          3,581 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\9f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,194 60edfaa5e508001b1e51a5c363a73155
+               1 File(s)          1,194 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,541 60d6e7bfd005001b1a4ad87d4b79eec3
+               1 File(s)          3,541 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,671 50c6f4fbd405001b1fabd4edd65a90b6
+               1 File(s)          3,671 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            32,622 00fa11717706001b1bf283c0e27986bb
+               1 File(s)         32,622 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a4
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,671 d0fa2ebcd505001b1fabd4edd65a90b6
+               1 File(s)          3,671 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a6
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a8
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\a9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\aa
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                35 609b82ca3004001b1510d7abff120b18
+07/21/2007  10:50 AM            33,354 c05627717706001b1bf283c0e27986bb
+               2 File(s)         33,389 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ab
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ac
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ad
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ae
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\af
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,453 80343d3cc205001b1a4ad87d4b79eec3
+               1 File(s)          3,453 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             4,767 80d6ce707706001b1bf283c0e27986bb
+               1 File(s)          4,767 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b4
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,671 60cdfface508001b1e51a5c363a73155
+07/21/2007  10:50 AM             3,669 70c8dda5e508001b1e51a5c363a73155
+               2 File(s)          7,340 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b8
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               209 c0e662f98ff4001a1d62bd25683a85c4
+               1 File(s)            209 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\b9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,579 70a5df01c205001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM               322 a0adfb834704001b1e6fa040efc23205
+               2 File(s)          3,901 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\bb
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,092 00afa5be4704001b1e6fa040efc23205
+               1 File(s)          1,092 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\bc
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\be
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\bf
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,101 20899c8cf104001b130eeaa4eece54f4
+               1 File(s)          1,101 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,570 909af3afc705001b1a4ad87d4b79eec3
+               1 File(s)          3,570 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,110 1065d9a1f104001b130eeaa4eece54f4
+               1 File(s)          1,110 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               278 b075d609f504001b130eeaa4eece54f4
+               1 File(s)            278 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,572 5083700bc905001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             3,576 b0181ca2c805001b1a4ad87d4b79eec3
+               2 File(s)          7,148 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c6
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            34,311 409dfc707706001b1bf283c0e27986bb
+07/21/2007  10:50 AM               356 a0897baff104001b130eeaa4eece54f4
+07/21/2007  10:50 AM               249 f0b5deb14c04001b1e6fa040efc23205
+               3 File(s)         34,916 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\c9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ca
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\cb
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\cc
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\cd
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ce
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\cf
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,089 406ba28a4b04001b1e6fa040efc23205
+               1 File(s)          1,089 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               243 30bb730f4c04001b1e6fa040efc23205
+               1 File(s)            243 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               213 a0c34b723404001b1510d7abff120b18
+               1 File(s)            213 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d6
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               237 40208ff43504001b1510d7abff120b18
+07/21/2007  10:50 AM               345 60ca9db2e508001b1e51a5c363a73155
+07/21/2007  10:50 AM             3,596 b04ad2d5c005001b1a4ad87d4b79eec3
+               3 File(s)          4,178 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,382 303761ecc205001b1a4ad87d4b79eec3
+07/21/2007  10:50 AM             1,179 a0129eca3004001b1510d7abff120b18
+               2 File(s)          4,561 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d8
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\d9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\db
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\dc
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,264 e010afe64c04001b1e6fa040efc23205
+               1 File(s)          1,264 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\de
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\df
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,473 a0427228c305001b1a4ad87d4b79eec3
+               1 File(s)          3,473 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,142 d041bab7f404001b130eeaa4eece54f4
+               1 File(s)          1,142 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e4
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                56 b03032283404001b1510d7abff120b18
+               1 File(s)             56 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            33,170 801418717706001b1bf283c0e27986bb
+               1 File(s)         33,170 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,629 f00b20eec705001b1a4ad87d4b79eec3
+               1 File(s)          3,629 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e8
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               276 00f1d4707706001b1bf283c0e27986bb
+07/21/2007  10:50 AM             1,173 d03c84e6fb04001b130eeaa4eece54f4
+               2 File(s)          1,449 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\e9
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ea
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               316 603edca7f104001b130eeaa4eece54f4
+07/21/2007  10:50 AM             3,577 703a757ac905001b1a4ad87d4b79eec3
+               2 File(s)          3,893 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\eb
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ec
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ed
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ee
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\ef
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,705 00eae8ace508001b1e51a5c363a73155
+07/21/2007  10:50 AM               276 b074fffbd405001b1fabd4edd65a90b6
+               2 File(s)          3,981 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f0
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,540 80db9952c605001b1a4ad87d4b79eec3
+               1 File(s)          3,540 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f1
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f2
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,194 c06f36a6e508001b1e51a5c363a73155
+               1 File(s)          1,194 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f3
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,179 005790ca3004001b1510d7abff120b18
+               1 File(s)          1,179 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f4
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f5
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f6
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,069 e085f2834704001b1e6fa040efc23205
+               1 File(s)          1,069 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\f7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,539 8024cc35cc05001b1a4ad87d4b79eec3
+               1 File(s)          3,539 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\fa
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\fb
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               278 a0be87aff104001b130eeaa4eece54f4
+               1 File(s)            278 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\fc
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.history\fd
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          Basis Data - Meta Data
+07/26/2007  01:31 PM    <DIR>          Basis Data - Meta Data Lanjut
+07/26/2007  01:31 PM    <DIR>          Basis Data Dasar
+07/26/2007  01:31 PM    <DIR>          Basis Data Form Sederhana
+07/26/2007  01:31 PM    <DIR>          HelloWorldSwing
+07/26/2007  01:31 PM    <DIR>          Kelas Choice dan List
+07/26/2007  01:31 PM    <DIR>          Kelas Dialog
+07/26/2007  01:31 PM    <DIR>          Kelas FONT
+07/26/2007  01:31 PM    <DIR>          Kelas File Dialog
+07/26/2007  01:31 PM    <DIR>          Kelas Frame
+07/26/2007  01:31 PM    <DIR>          Kelas Image
+07/26/2007  01:31 PM    <DIR>          Kelas Kotak Periksa (CheckBox)
+07/26/2007  01:31 PM    <DIR>          Kelas Label dan Tombol
+07/26/2007  01:31 PM    <DIR>          Kelas LayOut Manager
+07/26/2007  01:31 PM    <DIR>          Kelas Menu dan Menu Bar
+07/26/2007  01:31 PM    <DIR>          Kelas Panel
+07/26/2007  01:31 PM    <DIR>          Kelas Scrollbar
+07/26/2007  01:31 PM    <DIR>          Kelas TextField dan TextArea
+07/26/2007  01:31 PM    <DIR>          Kelas Toolkit
+07/26/2007  01:31 PM    <DIR>          Konversi Suhu
+07/26/2007  01:31 PM    <DIR>          Listener Component
+07/26/2007  01:31 PM    <DIR>          Listener Key
+07/26/2007  01:31 PM    <DIR>          Listener Mouse
+07/26/2007  01:31 PM    <DIR>          Swing Check Box
+07/26/2007  01:31 PM    <DIR>          Swing Color Chooser
+07/26/2007  01:31 PM    <DIR>          Swing Combo Box
+07/26/2007  01:31 PM    <DIR>          Swing Dialog
+07/26/2007  01:31 PM    <DIR>          Swing Drag and Drop
+07/26/2007  01:31 PM    <DIR>          Swing File Chooser
+07/26/2007  01:31 PM    <DIR>          Swing Menu
+07/26/2007  01:31 PM    <DIR>          Swing Popup Menu
+07/26/2007  01:31 PM    <DIR>          Swing Progress Bar
+07/26/2007  01:31 PM    <DIR>          Swing Radio Button
+07/26/2007  01:31 PM    <DIR>          Swing SimpleTable
+07/26/2007  01:31 PM    <DIR>          Swing Table
+07/26/2007  01:31 PM    <DIR>          Swing Text Area
+07/26/2007  01:31 PM    <DIR>          Swing Text Input
+07/26/2007  01:31 PM    <DIR>          SwingApplication
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.apt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data\org.eclipse.jdt.apt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,654 state.dat
+               1 File(s)          1,654 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data Lanjut
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,063 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.apt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,063 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data Lanjut\org.eclipse.jdt.apt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data - Meta Data Lanjut\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,633 state.dat
+               1 File(s)          1,633 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data Dasar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data Dasar\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,514 state.dat
+               1 File(s)          1,514 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data Form Sederhana
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               934 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.apt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            934 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data Form Sederhana\org.eclipse.jdt.apt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Basis Data Form Sederhana\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             3,838 state.dat
+               1 File(s)          3,838 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\HelloWorldSwing
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\HelloWorldSwing\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,386 state.dat
+               1 File(s)          1,386 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Choice dan List
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,364 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          2,364 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Choice dan List\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,880 state.dat
+               1 File(s)          1,880 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,641 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          2,641 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Dialog\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,699 state.dat
+               1 File(s)          1,699 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas FONT
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               947 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            947 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas FONT\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,795 state.dat
+               1 File(s)          1,795 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas File Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,199 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,199 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas File Dialog\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,768 state.dat
+               1 File(s)          1,768 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Frame
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               921 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            921 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Frame\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,492 state.dat
+               1 File(s)          1,492 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Image
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               951 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            951 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Image\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,684 state.dat
+               1 File(s)          1,684 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Kotak Periksa (CheckBox)
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,422 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,422 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Kotak Periksa (CheckBox)\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,891 state.dat
+               1 File(s)          1,891 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Label dan Tombol
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,198 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,198 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Label dan Tombol\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,781 state.dat
+               1 File(s)          1,781 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas LayOut Manager
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               975 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            975 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas LayOut Manager\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,043 state.dat
+               1 File(s)          2,043 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Menu dan Menu Bar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,436 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,436 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Menu dan Menu Bar\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,590 state.dat
+               1 File(s)          1,590 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Panel
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               951 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            951 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Panel\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,716 state.dat
+               1 File(s)          1,716 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Scrollbar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               967 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            967 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Scrollbar\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,032 state.dat
+               1 File(s)          2,032 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas TextField dan TextArea
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               965 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            965 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas TextField dan TextArea\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,795 state.dat
+               1 File(s)          1,795 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Toolkit
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,470 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,470 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Kelas Toolkit\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,952 state.dat
+               1 File(s)          1,952 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Konversi Suhu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               786 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            786 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Konversi Suhu\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,500 state.dat
+               1 File(s)          2,500 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Component
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               603 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            603 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Component\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,673 state.dat
+               1 File(s)          3,673 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Key
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               321 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            321 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Key\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,575 state.dat
+               1 File(s)          2,575 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Mouse
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               811 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            811 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Listener Mouse\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,173 state.dat
+               1 File(s)          3,173 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Check Box
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               324 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            324 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Check Box\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,140 state.dat
+               1 File(s)          3,140 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Color Chooser
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               744 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            744 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Color Chooser\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,794 state.dat
+               1 File(s)          2,794 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Combo Box
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               324 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.apt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            324 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Combo Box\org.eclipse.jdt.apt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Combo Box\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,908 state.dat
+               1 File(s)          2,908 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,816 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.apt.core
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,816 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Dialog\org.eclipse.jdt.apt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Dialog\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             6,113 state.dat
+               1 File(s)          6,113 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Drag and Drop
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             2,610 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          2,610 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Drag and Drop\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             4,526 state.dat
+               1 File(s)          4,526 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing File Chooser
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,130 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,130 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing File Chooser\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,103 state.dat
+               1 File(s)          3,103 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Menu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               307 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            307 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Menu\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,745 state.dat
+               1 File(s)          3,745 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Popup Menu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               328 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            328 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Popup Menu\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             4,225 state.dat
+               1 File(s)          4,225 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Progress Bar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               336 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            336 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Progress Bar\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,671 state.dat
+               1 File(s)          3,671 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Radio Button
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               860 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            860 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Radio Button\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             3,063 state.dat
+               1 File(s)          3,063 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing SimpleTable
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               335 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            335 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing SimpleTable\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,710 state.dat
+               1 File(s)          2,710 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Table
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               995 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            995 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Table\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,744 state.dat
+               1 File(s)          2,744 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Text Area
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               796 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            796 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Text Area\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,596 state.dat
+               1 File(s)          2,596 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Text Input
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               813 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)            813 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\Swing Text Input\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             4,567 state.dat
+               1 File(s)          4,567 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\SwingApplication
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             1,701 .markers
+07/26/2007  01:31 PM    <DIR>          org.eclipse.jdt.core
+               1 File(s)          1,701 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.projects\SwingApplication\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM             2,995 state.dat
+               1 File(s)          2,995 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.root
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .indexes
+07/21/2007  10:49 AM            17,959 48.tree
+               1 File(s)         17,959 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM                 1 history.version
+07/21/2007  10:49 AM             1,310 properties.index
+07/21/2007  10:49 AM                 1 properties.version
+               3 File(s)          1,312 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.resources\.safetable
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:49 AM               372 org.eclipse.core.resources
+               1 File(s)            372 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.runtime
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .settings
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.core.runtime\.settings
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                79 org.eclipse.core.resources.prefs
+07/21/2007  10:50 AM               131 org.eclipse.debug.ui.prefs
+07/21/2007  10:50 AM               150 org.eclipse.help.ui.prefs
+07/21/2007  10:50 AM             1,348 org.eclipse.jdt.core.prefs
+07/21/2007  10:50 AM               151 org.eclipse.jdt.debug.ui.prefs
+07/21/2007  10:50 AM               942 org.eclipse.jdt.launching.prefs
+07/21/2007  10:50 AM               775 org.eclipse.jdt.ui.prefs
+07/21/2007  10:50 AM               122 org.eclipse.pde.core.prefs
+07/21/2007  10:50 AM               106 org.eclipse.ui.editors.prefs
+07/21/2007  10:50 AM               117 org.eclipse.ui.ide.prefs
+07/21/2007  10:50 AM                85 org.eclipse.ui.prefs
+              11 File(s)          4,006 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.debug.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .launches
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.debug.core\.launches
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               319 BasicJavaDatabase (1).launch
+07/21/2007  10:50 AM               307 BasicJavaDatabase (2).launch
+07/21/2007  10:50 AM               328 BasicJavaDatabase.launch
+07/21/2007  10:50 AM               315 CelsiusConverter.launch
+07/21/2007  10:50 AM               313 CheckBoxDemo.launch
+07/21/2007  10:50 AM               331 CheckBoxExample.launch
+07/21/2007  10:50 AM               321 ColorChooserDemo.launch
+07/21/2007  10:50 AM               313 ComboBoxDemo.launch
+07/21/2007  10:50 AM               534 ComponentEventDemo.launch
+07/21/2007  10:50 AM               660 DatabaseMetaDataDemo.launch
+07/21/2007  10:50 AM               308 DialogDemo.launch
+07/21/2007  10:50 AM               317 DragFileDemo.launch
+07/21/2007  10:50 AM               319 FileChooserDemo.launch
+07/21/2007  10:50 AM               558 FileChooserDemo2.launch
+07/21/2007  10:50 AM               637 FileDialogExample.launch
+07/21/2007  10:50 AM               324 FileDialogExampleMain.launch
+07/21/2007  10:50 AM               307 FontExample.launch
+07/21/2007  10:50 AM               620 Fr.launch
+07/21/2007  10:50 AM               316 HelloWorldSwing.launch
+07/21/2007  10:50 AM               297 ImageExample (1).launch
+07/21/2007  10:50 AM               309 ImageExample.launch
+07/21/2007  10:50 AM               522 KeyEventDemo.launch
+07/21/2007  10:50 AM               324 Label_and_Button.launch
+07/21/2007  10:50 AM               323 LayOutExampleMain.launch
+07/21/2007  10:50 AM               318 ListExample.launch
+07/21/2007  10:50 AM               565 MainClass (1).launch
+07/21/2007  10:50 AM               578 MainClass (3).launch
+07/21/2007  10:50 AM             1,901 MainClass.launch
+07/21/2007  10:50 AM               304 MenuDemo.launch
+07/21/2007  10:50 AM               307 MenuExample (1).launch
+07/21/2007  10:50 AM               320 MenuExample.launch
+07/21/2007  10:50 AM               526 MouseEventDemo.launch
+07/21/2007  10:50 AM               309 PanelExample.launch
+07/21/2007  10:50 AM               315 PopupMenuDemo.launch
+07/21/2007  10:50 AM               319 ProgressBarDemo.launch
+07/21/2007  10:50 AM               319 RadioButtonDemo.launch
+07/21/2007  10:50 AM               317 ScrollbarExample.launch
+07/21/2007  10:50 AM               341 SimpleBrowser.launch
+07/21/2007  10:50 AM               318 SimpleTableDemo.launch
+07/21/2007  10:50 AM               318 SwingApplication.launch
+07/21/2007  10:50 AM               306 TableDemo.launch
+07/21/2007  10:50 AM               521 TextDemo.launch
+07/21/2007  10:50 AM               325 TextExample.launch
+07/21/2007  10:50 AM               315 TextInputDemo.launch
+07/21/2007  10:50 AM               313 ToolkitExample.launch
+07/21/2007  10:50 AM               328 catalogSelect (1).launch
+07/21/2007  10:50 AM               698 catalogSelect.launch
+07/21/2007  10:50 AM               206 org.eclipse.ant.AntLaunchConfigurationType.SHARED_INFO.launch
+              48 File(s)         19,609 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.debug.ui
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,696 dialog_settings.xml
+07/21/2007  10:50 AM             4,423 launchConfigurationHistory.xml
+               2 File(s)          6,119 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.help.base
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.jdt.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               831 1055342894.index
+07/21/2007  10:50 AM               933 1089443768.index
+07/21/2007  10:50 AM             1,446 1112203666.index
+07/21/2007  10:50 AM             1,388 1121392210.index
+07/21/2007  10:50 AM             1,495 1199708610.index
+07/21/2007  10:50 AM             1,057 1211784711.index
+07/21/2007  10:50 AM               554 1310882236.index
+07/21/2007  10:50 AM               984 1343701623.index
+07/21/2007  10:50 AM               916 1408828904.index
+07/21/2007  10:50 AM               866 1501009534.index
+07/21/2007  10:50 AM            26,948 1539593127.index
+07/21/2007  10:50 AM             1,006 158007268.index
+07/21/2007  10:50 AM             5,337 1601674945.index
+07/21/2007  10:50 AM           174,455 161589765.index
+07/21/2007  10:50 AM               913 1654145933.index
+07/21/2007  10:50 AM             4,150 1758049589.index
+07/21/2007  10:50 AM           222,427 1764024671.index
+07/21/2007  10:50 AM             1,972 1825857638.index
+07/21/2007  10:50 AM         6,507,204 1948148666.index
+07/21/2007  10:50 AM             2,692 2025500359.index
+07/21/2007  10:50 AM             1,782 206773043.index
+07/21/2007  10:50 AM               985 212663736.index
+07/21/2007  10:50 AM             4,632 2132415406.index
+07/21/2007  10:50 AM             1,194 2168224150.index
+07/21/2007  10:50 AM             1,230 2190681484.index
+07/21/2007  10:50 AM               977 2190962145.index
+07/21/2007  10:50 AM             1,592 2262284756.index
+07/21/2007  10:50 AM             1,257 2750429687.index
+07/21/2007  10:50 AM             1,824 2839022783.index
+07/21/2007  10:50 AM           114,531 3227416716.index
+07/21/2007  10:50 AM             3,441 3627635660.index
+07/21/2007  10:50 AM             1,862 3628973623.index
+07/21/2007  10:50 AM             1,579 3717830870.index
+07/21/2007  10:50 AM             1,884 3753610284.index
+07/21/2007  10:50 AM             2,184 3819748135.index
+07/21/2007  10:50 AM             1,620 3830609246.index
+07/21/2007  10:50 AM             1,195 3903771939.index
+07/21/2007  10:50 AM             1,707 3904909610.index
+07/21/2007  10:50 AM               654 3931549484.index
+07/21/2007  10:50 AM             9,423 3986282698.index
+07/21/2007  10:50 AM            69,701 399878101.index
+07/21/2007  10:50 AM               772 4212156322.index
+07/21/2007  10:50 AM            35,705 565082346.index
+07/21/2007  10:50 AM             2,276 581803965.index
+07/21/2007  10:50 AM             2,561 820497232.index
+07/21/2007  10:50 AM             4,431 848709885.index
+07/21/2007  10:50 AM             1,868 985354578.index
+07/21/2007  10:50 AM             3,174 externalLibsTimeStamps
+07/21/2007  10:50 AM             4,831 savedIndexNames.txt
+07/21/2007  10:50 AM             3,648 variablesAndContainers.dat
+              50 File(s)      7,242,094 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.jdt.debug.ui
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             1,300 dialog_settings.xml
+               1 File(s)          1,300 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.jdt.launching
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             5,312 libraryInfos.xml
+               1 File(s)          5,312 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.jdt.ui
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               663 OpenTypeHistory.xml
+07/21/2007  10:50 AM                69 QualifiedTypeNameHistory.xml
+07/21/2007  10:50 AM             4,749 dialog_settings.xml
+               3 File(s)          5,481 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          .refactorings
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          Basis Data Form Sederhana
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Basis Data Form Sederhana
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          2006
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Basis Data Form Sederhana\2006
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          7
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Basis Data Form Sederhana\2006\7
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          26
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\Basis Data Form Sederhana\2006\7\26
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               544 refactorings.history
+07/21/2007  10:50 AM                43 refactorings.index
+               2 File(s)            587 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ltk.ui.refactoring
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               629 dialog_settings.xml
+               1 File(s)            629 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.pde.core
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          -1149408922384.target
+07/26/2007  01:31 PM    <DIR>          .cache
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.pde.core\-1149408922384.target
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            89,706 .extensions
+07/21/2007  10:50 AM           196,906 .lazy
+07/21/2007  10:50 AM            17,443 .pluginInfo
+07/21/2007  10:50 AM            22,755 .state
+               4 File(s)        326,810 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.pde.core\.cache
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                57 clean-cache.properties
+               1 File(s)             57 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.pde.ui
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          -1149201023478.swt
+               0 File(s)              0 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.pde.ui\-1149201023478.swt
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM            32,768 swt-awt-win32-3232.dll
+07/21/2007  10:50 AM            73,728 swt-gdip-win32-3232.dll
+07/21/2007  10:50 AM            40,960 swt-wgl-win32-3232.dll
+07/21/2007  10:50 AM           323,584 swt-win32-3232.dll
+               4 File(s)        471,040 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.tomcat
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/26/2007  01:31 PM    <DIR>          ROOT
+07/21/2007  10:50 AM             1,420 catalina.2006-06-29.log
+07/26/2007  01:31 PM    <DIR>          help
+               1 File(s)          1,420 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.tomcat\ROOT
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM                81 SESSIONS.ser
+               1 File(s)             81 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.tomcat\help
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               265 SESSIONS.ser
+               1 File(s)            265 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ui
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM             2,091 dialog_settings.xml
+               1 File(s)          2,091 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ui.ide
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               917 dialog_settings.xml
+               1 File(s)            917 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ui.intro
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               133 dialog_settings.xml
+               1 File(s)            133 bytes
+
+ Directory of G:\Source Code\.metadata\.plugins\org.eclipse.ui.workbench
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               402 dialog_settings.xml
+07/21/2007  10:50 AM            33,033 workbench.xml
+07/21/2007  10:50 AM             1,166 workingsets.xml
+               3 File(s)         34,601 bytes
+
+ Directory of G:\Source Code\Basis Data - Meta Data
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               347 .classpath
+07/21/2007  10:50 AM               398 .project
+07/21/2007  10:50 AM             3,157 DatabaseMetaDataDemo.class
+07/21/2007  10:50 AM             1,804 DatabaseMetaDataDemo.java
+               4 File(s)          5,706 bytes
+
+ Directory of G:\Source Code\Basis Data - Meta Data Lanjut
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               347 .classpath
+07/21/2007  10:50 AM               405 .project
+07/21/2007  10:50 AM             3,129 catalogSelect.class
+07/21/2007  10:50 AM             1,788 catalogSelect.java
+               4 File(s)          5,669 bytes
+
+ Directory of G:\Source Code\Basis Data Dasar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               347 .classpath
+07/21/2007  10:50 AM               392 .project
+07/21/2007  10:50 AM             2,007 BasicJavaDatabase.class
+07/21/2007  10:50 AM             1,005 BasicJavaDatabase.java
+               4 File(s)          3,751 bytes
+
+ Directory of G:\Source Code\Basis Data Form Sederhana
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               401 .project
+07/26/2007  01:31 PM    <DIR>          frmSederhana
+               2 File(s)            627 bytes
+
+ Directory of G:\Source Code\Basis Data Form Sederhana\frmSederhana
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               713 MainClass.class
+07/21/2007  10:50 AM               257 MainClass.java
+07/21/2007  10:50 AM             4,860 SimpleBrowser.class
+07/21/2007  10:50 AM             3,634 SimpleBrowser.java
+07/21/2007  10:50 AM             2,019 accessTabel.class
+07/21/2007  10:50 AM             1,193 accessTabel.java
+               6 File(s)         12,676 bytes
+
+ Directory of G:\Source Code\HelloWorldSwing
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               391 .project
+07/21/2007  10:50 AM               512 HelloWorldSwing$1.class
+07/21/2007  10:50 AM             1,215 HelloWorldSwing.class
+07/21/2007  10:50 AM               995 HelloWorldSwing.java
+               5 File(s)          3,339 bytes
+
+ Directory of G:\Source Code\Kelas Choice dan List
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               397 .project
+07/21/2007  10:50 AM             2,962 ListExample.class
+07/21/2007  10:50 AM             1,790 ListExample.java
+               4 File(s)          5,375 bytes
+
+ Directory of G:\Source Code\Kelas Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               388 .project
+07/21/2007  10:50 AM             1,822 FileDialogExample.class
+07/21/2007  10:50 AM             1,213 FileDialogExample.java
+               4 File(s)          3,649 bytes
+
+ Directory of G:\Source Code\Kelas FONT
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               386 .project
+07/21/2007  10:50 AM             2,374 FontExample.class
+07/21/2007  10:50 AM             1,288 FontExample.java
+               4 File(s)          4,274 bytes
+
+ Directory of G:\Source Code\Kelas File Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               393 .project
+07/21/2007  10:50 AM             1,805 FileDialogExampleMain.class
+07/21/2007  10:50 AM             1,181 FileDialogExampleMain.java
+               4 File(s)          3,605 bytes
+
+ Directory of G:\Source Code\Kelas Frame
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               387 .project
+07/21/2007  10:50 AM             1,017 Fr.class
+07/21/2007  10:50 AM               622 Fr.java
+               4 File(s)          2,252 bytes
+
+ Directory of G:\Source Code\Kelas Image
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               387 .project
+07/21/2007  10:50 AM             3,587 Dog.gif
+07/21/2007  10:50 AM             1,589 ImageExample.class
+07/21/2007  10:50 AM               862 ImageExample.java
+07/21/2007  10:50 AM             5,632 Thumbs.db
+               6 File(s)         12,283 bytes
+
+ Directory of G:\Source Code\Kelas Kotak Periksa (CheckBox)
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               406 .project
+07/21/2007  10:50 AM             3,410 CheckBoxExample.class
+07/21/2007  10:50 AM             2,531 CheckBoxExample.java
+               4 File(s)          6,573 bytes
+
+ Directory of G:\Source Code\Kelas Label dan Tombol
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               398 .project
+07/21/2007  10:50 AM             2,109 Label_and_Button.class
+07/21/2007  10:50 AM             1,332 Label_and_Button.java
+               4 File(s)          4,065 bytes
+
+ Directory of G:\Source Code\Kelas LayOut Manager
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               396 .project
+07/21/2007  10:50 AM             3,639 LayOutExampleMain.class
+07/21/2007  10:50 AM             3,454 LayOutExampleMain.java
+               4 File(s)          7,715 bytes
+
+ Directory of G:\Source Code\Kelas Menu dan Menu Bar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               399 .project
+07/21/2007  10:50 AM             2,199 MenuExample.class
+07/21/2007  10:50 AM             1,272 MenuExample.java
+               4 File(s)          4,096 bytes
+
+ Directory of G:\Source Code\Kelas Panel
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               387 .project
+07/21/2007  10:50 AM             1,879 PanelExample.class
+07/21/2007  10:50 AM             1,097 PanelExample.java
+               4 File(s)          3,589 bytes
+
+ Directory of G:\Source Code\Kelas Scrollbar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               391 .project
+07/21/2007  10:50 AM             6,220 Rabbit.gif
+07/21/2007  10:50 AM             2,759 ScrollbarExample.class
+07/21/2007  10:50 AM             1,610 ScrollbarExample.java
+07/21/2007  10:50 AM             5,632 Thumbs.db
+               6 File(s)         16,838 bytes
+
+ Directory of G:\Source Code\Kelas TextField dan TextArea
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               404 .project
+07/21/2007  10:50 AM             2,223 TextExample.class
+07/21/2007  10:50 AM             1,256 TextExample.java
+               4 File(s)          4,109 bytes
+
+ Directory of G:\Source Code\Kelas Toolkit
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               389 .project
+07/21/2007  10:50 AM             5,377 Bird.gif
+07/21/2007  10:50 AM             5,632 Thumbs.db
+07/21/2007  10:50 AM             2,973 ToolkitExample.class
+07/21/2007  10:50 AM             1,481 ToolkitExample.java
+               6 File(s)         16,078 bytes
+
+ Directory of G:\Source Code\Konversi Suhu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               389 .project
+07/21/2007  10:50 AM               516 CelsiusConverter$1.class
+07/21/2007  10:50 AM             3,336 CelsiusConverter.class
+07/21/2007  10:50 AM             2,905 CelsiusConverter.java
+               5 File(s)          7,372 bytes
+
+ Directory of G:\Source Code\Listener Component
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               394 .project
+07/21/2007  10:50 AM               662 ComponentEventDemo$1.class
+07/21/2007  10:50 AM               663 ComponentEventDemo$2.class
+07/21/2007  10:50 AM               701 ComponentEventDemo$3.class
+07/21/2007  10:50 AM             3,944 ComponentEventDemo.class
+07/21/2007  10:50 AM             4,132 ComponentEventDemo.java
+07/21/2007  10:50 AM             1,396 ComponentPanel.class
+07/21/2007  10:50 AM               141 java.policy.applet
+               9 File(s)         12,259 bytes
+
+ Directory of G:\Source Code\Listener Key
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               388 .project
+07/21/2007  10:50 AM             3,695 KeyEventDemo.class
+07/21/2007  10:50 AM             3,277 KeyEventDemo.java
+07/21/2007  10:50 AM               141 java.policy.applet
+               5 File(s)          7,727 bytes
+
+ Directory of G:\Source Code\Listener Mouse
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               390 .project
+07/21/2007  10:50 AM               900 BlankArea.class
+07/21/2007  10:50 AM               547 BlankArea.java
+07/21/2007  10:50 AM             3,555 MouseEventDemo.class
+07/21/2007  10:50 AM             2,625 MouseEventDemo.java
+07/21/2007  10:50 AM               101 MouseEventDemo1150233662990.html
+07/21/2007  10:50 AM               141 java.policy.applet
+               8 File(s)          8,485 bytes
+
+ Directory of G:\Source Code\Swing Check Box
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               391 .project
+07/21/2007  10:50 AM               601 CheckBoxDemo$1.class
+07/21/2007  10:50 AM             1,701 CheckBoxDemo$CheckBoxListener.class
+07/21/2007  10:50 AM             2,664 CheckBoxDemo.class
+07/21/2007  10:50 AM             5,013 CheckBoxDemo.java
+07/21/2007  10:50 AM            86,016 Thumbs.db
+07/21/2007  10:50 AM             4,599 geek-----.gif
+07/21/2007  10:50 AM             4,685 geek----t.gif
+07/21/2007  10:50 AM             4,736 geek---h-.gif
+07/21/2007  10:50 AM             4,849 geek---ht.gif
+07/21/2007  10:50 AM             4,762 geek--g--.gif
+07/21/2007  10:50 AM             4,832 geek--g-t.gif
+07/21/2007  10:50 AM             4,846 geek--gh-.gif
+07/21/2007  10:50 AM             4,843 geek--ght.gif
+07/21/2007  10:50 AM             4,576 geek-c---.gif
+07/21/2007  10:50 AM             4,699 geek-c--t.gif
+07/21/2007  10:50 AM             4,718 geek-c-h-.gif
+07/21/2007  10:50 AM             4,841 geek-c-ht.gif
+07/21/2007  10:50 AM             4,693 geek-cg--.gif
+07/21/2007  10:50 AM             4,805 geek-cg-t.gif
+07/21/2007  10:50 AM             3,675 geek-cgh-.gif
+07/21/2007  10:50 AM             4,997 geek-cght.gif
+              23 File(s)        171,768 bytes
+
+ Directory of G:\Source Code\Swing Color Chooser
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               395 .project
+07/21/2007  10:50 AM               516 ColorChooserDemo$1.class
+07/21/2007  10:50 AM             2,995 ColorChooserDemo.class
+07/21/2007  10:50 AM             2,456 ColorChooserDemo.java
+               5 File(s)          6,588 bytes
+
+ Directory of G:\Source Code\Swing Combo Box
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               391 .project
+07/21/2007  10:50 AM               500 ComboBoxDemo$1.class
+07/21/2007  10:50 AM             3,822 ComboBoxDemo.class
+07/21/2007  10:50 AM             3,180 ComboBoxDemo.java
+07/21/2007  10:50 AM            24,187 Disket.GIF
+07/21/2007  10:50 AM            28,038 Kalkulator.GIF
+07/21/2007  10:50 AM            24,720 Kunci.GIF
+07/21/2007  10:50 AM            25,799 Notes.GIF
+07/21/2007  10:50 AM             7,168 Thumbs.db
+              10 File(s)        118,031 bytes
+
+ Directory of G:\Source Code\Swing Dialog
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               388 .project
+07/21/2007  10:50 AM               846 CustomDialog$1.class
+07/21/2007  10:50 AM               793 CustomDialog$2.class
+07/21/2007  10:50 AM             4,078 CustomDialog.class
+07/21/2007  10:50 AM             5,736 CustomDialog.java
+07/21/2007  10:50 AM             2,570 DialogDemo$1.class
+07/21/2007  10:50 AM             1,870 DialogDemo$2.class
+07/21/2007  10:50 AM               820 DialogDemo$3$1.class
+07/21/2007  10:50 AM             1,254 DialogDemo$3$2.class
+07/21/2007  10:50 AM               796 DialogDemo$3$3.class
+07/21/2007  10:50 AM             5,741 DialogDemo$3.class
+07/21/2007  10:50 AM               492 DialogDemo$4.class
+07/21/2007  10:50 AM             8,099 DialogDemo.class
+07/21/2007  10:50 AM            24,355 DialogDemo.java
+07/21/2007  10:50 AM             3,584 Thumbs.db
+07/21/2007  10:50 AM               235 middle.gif
+              17 File(s)         61,883 bytes
+
+ Directory of G:\Source Code\Swing Drag and Drop
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               395 .project
+07/21/2007  10:50 AM               500 DragFileDemo$1.class
+07/21/2007  10:50 AM             3,387 DragFileDemo.class
+07/21/2007  10:50 AM             3,309 DragFileDemo.java
+07/21/2007  10:50 AM             5,641 FileAndTextTransferHandler.class
+07/21/2007  10:50 AM             6,640 FileAndTextTransferHandler.java
+07/21/2007  10:50 AM             3,118 TabbedPaneController.class
+07/21/2007  10:50 AM             3,657 TabbedPaneController.java
+               9 File(s)         26,873 bytes
+
+ Directory of G:\Source Code\Swing File Chooser
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               394 .project
+07/21/2007  10:50 AM             1,391 FileChooserDemo$1.class
+07/21/2007  10:50 AM             1,390 FileChooserDemo$2.class
+07/21/2007  10:50 AM               613 FileChooserDemo$3.class
+07/21/2007  10:50 AM             2,326 FileChooserDemo.class
+07/21/2007  10:50 AM             3,160 FileChooserDemo.java
+07/21/2007  10:50 AM             9,216 Thumbs.db
+07/21/2007  10:50 AM               140 open.gif
+07/21/2007  10:50 AM               138 save.gif
+              10 File(s)         18,994 bytes
+
+ Directory of G:\Source Code\Swing Menu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               386 .project
+07/21/2007  10:50 AM               609 MenuDemo$1.class
+07/21/2007  10:50 AM             5,472 MenuDemo.class
+07/21/2007  10:50 AM             5,950 MenuDemo.java
+07/21/2007  10:50 AM               235 middle.gif
+               6 File(s)         12,878 bytes
+
+ Directory of G:\Source Code\Swing Popup Menu
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               392 .project
+07/21/2007  10:50 AM               639 PopupMenuDemo$1.class
+07/21/2007  10:50 AM             1,101 PopupMenuDemo$PopupListener.class
+07/21/2007  10:50 AM             5,991 PopupMenuDemo.class
+07/21/2007  10:50 AM             7,137 PopupMenuDemo.java
+               6 File(s)         15,486 bytes
+
+ Directory of G:\Source Code\Swing Progress Bar
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               394 .project
+07/21/2007  10:50 AM               734 LongTask$1.class
+07/21/2007  10:50 AM             1,404 LongTask$ActualTask.class
+07/21/2007  10:50 AM             1,753 LongTask.class
+07/21/2007  10:50 AM             2,709 LongTask.java
+07/21/2007  10:50 AM             2,094 ProgressBarDemo$1.class
+07/21/2007  10:50 AM               512 ProgressBarDemo$2.class
+07/21/2007  10:50 AM             3,946 ProgressBarDemo.class
+07/21/2007  10:50 AM             3,490 ProgressBarDemo.java
+07/21/2007  10:50 AM               526 SwingWorker$1.class
+07/21/2007  10:50 AM               952 SwingWorker$2.class
+07/21/2007  10:50 AM               589 SwingWorker$ThreadVar.class
+07/21/2007  10:50 AM             1,905 SwingWorker.class
+07/21/2007  10:50 AM             3,355 SwingWorker.java
+              15 File(s)         24,589 bytes
+
+ Directory of G:\Source Code\Swing Radio Button
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               394 .project
+07/21/2007  10:50 AM               512 RadioButtonDemo$1.class
+07/21/2007  10:50 AM             4,020 RadioButtonDemo.class
+07/21/2007  10:50 AM             3,972 RadioButtonDemo.java
+07/21/2007  10:50 AM            43,520 Thumbs.db
+07/21/2007  10:50 AM             7,016 barak.gif
+07/21/2007  10:50 AM            10,270 gerbang.gif
+07/21/2007  10:50 AM             9,642 kuil.gif
+07/21/2007  10:50 AM             6,955 toko.gif
+              10 File(s)         86,527 bytes
+
+ Directory of G:\Source Code\Swing SimpleTable
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               393 .project
+07/21/2007  10:50 AM               707 SimpleTableDemo$1.class
+07/21/2007  10:50 AM               512 SimpleTableDemo$2.class
+07/21/2007  10:50 AM             3,823 SimpleTableDemo.class
+07/21/2007  10:50 AM             3,543 SimpleTableDemo.java
+               6 File(s)          9,204 bytes
+
+ Directory of G:\Source Code\Swing Table
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               387 .project
+07/21/2007  10:50 AM               488 TableDemo$1.class
+07/21/2007  10:50 AM             3,306 TableDemo$MyTableModel.class
+07/21/2007  10:50 AM             1,831 TableDemo.class
+07/21/2007  10:50 AM             5,067 TableDemo.java
+               6 File(s)         11,305 bytes
+
+ Directory of G:\Source Code\Swing Text Area
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               391 .project
+07/21/2007  10:50 AM             2,449 TextDemo.class
+07/21/2007  10:50 AM             1,612 TextDemo.java
+07/21/2007  10:50 AM               141 java.policy.applet
+               5 File(s)          4,819 bytes
+
+ Directory of G:\Source Code\Swing Text Input
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               392 .project
+07/21/2007  10:50 AM             4,311 SpringUtilities.class
+07/21/2007  10:50 AM             7,736 SpringUtilities.java
+07/21/2007  10:50 AM               691 TextInputDemo$1.class
+07/21/2007  10:50 AM               729 TextInputDemo$2.class
+07/21/2007  10:50 AM               504 TextInputDemo$3.class
+07/21/2007  10:50 AM             8,849 TextInputDemo.class
+07/21/2007  10:50 AM            10,139 TextInputDemo.java
+               9 File(s)         33,577 bytes
+
+ Directory of G:\Source Code\SwingApplication
+
+07/26/2007  01:31 PM    <DIR>          .
+07/26/2007  01:31 PM    <DIR>          ..
+07/21/2007  10:50 AM               226 .classpath
+07/21/2007  10:50 AM               392 .project
+07/21/2007  10:50 AM               516 SwingApplication$1.class
+07/21/2007  10:50 AM             4,562 SwingApplication.class
+07/21/2007  10:50 AM             4,988 SwingApplication.java
+               5 File(s)         10,684 bytes
+
+ Directory of G:\Tutorial JAVA
+
+07/26/2007  01:31 PM    <DIR>          .
+08/03/2007  02:24 PM    <DIR>          ..
+07/21/2007  10:49 AM        37,048,763 1000_Java_Tips_high.pdf
+07/21/2007  10:49 AM        21,822,168 AdbeRdr80_en_US.exe
+07/21/2007  10:49 AM         1,428,052 Java Database Programming with Oracle.pdf
+07/21/2007  10:49 AM         5,908,355 Thinking in Java 3rd Edition.pdf
+07/21/2007  10:49 AM        15,213,206 tutorial.zip
+               5 File(s)     81,420,544 bytes
+
+     Total Files Listed:
+             735 File(s)    421,621,380 bytes
+            1245 Dir(s)               0 bytes free

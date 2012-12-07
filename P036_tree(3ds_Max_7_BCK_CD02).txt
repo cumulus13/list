@@ -1,0 +1,1117 @@
+Folder PATH listing for volume 3DSMAX7 PARTNERS
+Volume serial number is B812-013F
+T:\
+|   3dsmaxcd2.mid
+|   autorun.inf
+|   maxicon.ico
+|   partners.exe
+|   partners.ini
+|   
++---Bin
+|       AdskButton2-pressed.bmp
+|       AdskButton2-unpressed.bmp
+|       AdskButton1-on.bmp
+|       AdskButton1-pressed.bmp
+|       AdskButton1-unpressed.bmp
+|       AdskButton2-on.bmp
+|       Adsk_Back_Acad.BMP
+|       Adsk_Splash_Acad.bmp
+|       demo32.exe
+|       Dialog1.bmp
+|       Dialogbutton-on.bmp
+|       Dialogbutton-pressed.bmp
+|       Dialogbutton-unpressed.bmp
+|       Partners.dbd
+|       Partners.dsj
+|       Partners.INI
+|       
++---Installs
+|   +---DCP
+|   |       ACT1.6_DEMO_MAX7ONLY.EXE
+|   |       AfterBurn31_DEMO_MAX7ONLY.EXE
+|   |       clothfx_DEMO_MAX7ONLY.EXE
+|   |       DreamScape21_DEMO_MAX7ONLY.EXE
+|   |       finalToon_DEMO_MAX7ONLY.EXE
+|   |       FlightStudio_DEMO_MAX7ONLY.EXE
+|   |       Kaldera_DEMO_MAX7ONLY.EXE
+|   |       PFTBox1_DEMO_MAX7ONLY.EXE
+|   |       rtre_MAX7ONLY_DEMO.EXE
+|   |       Stage1SP2b_DEMO_MAX7ONLY.EXE
+|   |       
+|   \---Partners
+|       |   okino_plugins_superinstaller_demo.exe
+|       |   okino_nugraf_and_polytrans_full_demo.exe
+|       |   pt4max_openflight.exe
+|       |   
+|       +---EASYnatv2.5
+|       |       data1.cab
+|       |       data1.hdr
+|       |       data2.cab
+|       |       EASYnatMAX.pdf
+|       |       ikernel.ex_
+|       |       layout.bin
+|       |       license.txt
+|       |       Readme.txt
+|       |       Setup.bmp
+|       |       Setup.exe
+|       |       Setup.ini
+|       |       Setup.inx
+|       |       
+|       \---rpc
+|               data1.cab
+|               data1.hdr
+|               data2.cab
+|               ikernel.ex_
+|               layout.bin
+|               setup.bmp
+|               Setup.exe
+|               Setup.ini
+|               setup.inx
+|               
+\---Samples
+    +---Biped
+    |   +---CustomScripts
+    |   |   |   readme.txt
+    |   |   |   
+    |   |   +---Scripts
+    |   |   |   +---Startup
+    |   |   |   |       CS3convertBips.ms
+    |   |   |   |       CS3CustomKeys-presets.ini
+    |   |   |   |       CS3Customkeys.ms
+    |   |   |   |       
+    |   |   |   \---Utilities
+    |   |   |           csmxport.ms
+    |   |   |           Readcsm.ms
+    |   |   |           
+    |   |   \---stdplugs
+    |   |       \---stdscripts
+    |   |               CS3CustomKeysPresetFloater.ms
+    |   |               
+    |   +---Docs
+    |   |       About.txt
+    |   |       BVH.rtf
+    |   |       Csm.max
+    |   |       CSM.rtf
+    |   |       CSM1.jpg
+    |   |       CSM2.jpg
+    |   |       csmxport.ms
+    |   |       Readcsm.ms
+    |   |       STP.rtf
+    |   |       
+    |   +---Motions
+    |   |       Bip.zip
+    |   |       BVH.zip
+    |   |       CSM.zip
+    |   |       
+    |   \---Scenes
+    |       |   biped_reactor.max
+    |       |   
+    |       +---Biped
+    |       |       handwalk.max
+    |       |       Juggle with Props.max
+    |       |       
+    |       +---Mixer
+    |       |       BalanceBigMix.max
+    |       |       celphone.bip
+    |       |       dynamic_3.bip
+    |       |       frantic.bip
+    |       |       highwire.bip
+    |       |       loiter_point.bip
+    |       |       loiter_scratch1.bip
+    |       |       loiter_twist.bip
+    |       |       loiter_watch.bip
+    |       |       MixBalancePropagation.max
+    |       |       MixdownConstraints.max
+    |       |       MixDynamicBalance.max
+    |       |       MixOpt+Focus.max
+    |       |       modern_2.bip
+    |       |       sneak.bip
+    |       |       Trans+Layer.max
+    |       |       walk_to_jog_Lfoot.bip
+    |       |       wild05.bip
+    |       |       w_L90_Rfoot.bip
+    |       |       
+    |       +---MoFlow
+    |       |       1FLOBEES.max
+    |       |       1FLOBEES.mfe
+    |       |       5FLOSKAT.max
+    |       |       5floskat.mfe
+    |       |       About.txt
+    |       |       Bees.bip
+    |       |       DragByDog.bip
+    |       |       jog.bip
+    |       |       JogLoop.bip
+    |       |       jog_L135.bip
+    |       |       jog_L180.bip
+    |       |       jog_L45.bip
+    |       |       jog_R180.bip
+    |       |       jog_R90.bip
+    |       |       jog_start.bip
+    |       |       jog_stop_lfoot.bip
+    |       |       loiter_11.bip
+    |       |       SkateSpin.bip
+    |       |       SkateStart.bip
+    |       |       Skateup.bip
+    |       |       Tantrum.bip
+    |       |       test.bip
+    |       |       TheJogger.max
+    |       |       TheJogger.mfe
+    |       |       walk.bip
+    |       |       WalkerJogger.max
+    |       |       WalkerJogger.mfe
+    |       |       walk_180.bip
+    |       |       walk_L90.bip
+    |       |       walk_R90.bip
+    |       |       walk_start.bip
+    |       |       walk_stop.bip
+    |       |       
+    |       \---Physique
+    |               24wmlips.JPG
+    |               24_eyeb.JPG
+    |               Babysumo.max
+    |               
+    +---Crowd
+    |   +---BipedCrowd
+    |   |       ArriveWithBiped.max
+    |   |       bipcrwd.txt
+    |   |       BipedsThroughDoorway.max
+    |   |       CogControlledBipeds.max
+    |   |       jog.bip
+    |   |       jogbendleft.bip
+    |   |       jogbendright.bip
+    |   |       Joggers.max
+    |   |       jog_L135.bip
+    |   |       jog_L180.bip
+    |   |       jog_L45.bip
+    |   |       jog_R180.bip
+    |   |       jog_R45.bip
+    |   |       jog_R90.bip
+    |   |       jog_start.bip
+    |   |       jog_stop_lfoot.bip
+    |   |       loiter01.bip
+    |   |       loiter02.bip
+    |   |       loiter03.bip
+    |   |       PathFollowWithBiped.max
+    |   |       SingleJogger.max
+    |   |       SpeedVaryWithBiped.max
+    |   |       SurfaceFollowWithBiped.max
+    |   |       walk.bip
+    |   |       walk_180.bip
+    |   |       walk_bendleft.bip
+    |   |       walk_bendright.bip
+    |   |       walk_L45.bip
+    |   |       walk_L90.bip
+    |   |       walk_R45.bip
+    |   |       walk_R90.bip
+    |   |       walk_start.bip
+    |   |       walk_stop.bip
+    |   |       WallSeekWithBiped.max
+    |   |       WanderWithBiped.max
+    |   |       
+    |   +---MotionClips
+    |   |       BARK4.JPG
+    |   |       Bird.max
+    |   |       Butterfly.max
+    |   |       ButterflyLandingBig.max
+    |   |       eagle.ant
+    |   |       Eagles.max
+    |   |       FishTank.max
+    |   |       MotionClipIK.max
+    |   |       MotionClipMan.max
+    |   |       ptiab22.jpg
+    |   |       SimpleBirds.max
+    |   |       swimmer.ant
+    |   |       
+    |   +---Sample_Animation
+    |   |   |   handsignal.bip
+    |   |   |   lookaround.bip
+    |   |   |   Lturn45.bip
+    |   |   |   Rturn45.bip
+    |   |   |   run.bip
+    |   |   |   runleft.bip
+    |   |   |   runright.bip
+    |   |   |   runstart.bip
+    |   |   |   runstop.bip
+    |   |   |   run_L30.bip
+    |   |   |   run_L90.bip
+    |   |   |   run_norot.bip
+    |   |   |   run_R30.bip
+    |   |   |   run_R90.bip
+    |   |   |   run_rotfix.bip
+    |   |   |   sample_animation.max
+    |   |   |   sample_animation.mov
+    |   |   |   sample_animation_guide.pdf
+    |   |   |   sniff.bip
+    |   |   |   standup.bip
+    |   |   |   takeoff.bip
+    |   |   |   walier_crowd_moflow.max
+    |   |   |   walier_running_crowd.mfe
+    |   |   |   walier_crowd_setup.max
+    |   |   |   walk2.bip
+    |   |   |   walk4.bip
+    |   |   |   
+    |   |   +---Clips
+    |   |   |       handsignal.bip
+    |   |   |       lookaround.bip
+    |   |   |       Lturn45.bip
+    |   |   |       Rturn45.bip
+    |   |   |       run.bip
+    |   |   |       runleft.bip
+    |   |   |       runright.bip
+    |   |   |       runstart.bip
+    |   |   |       runstop.bip
+    |   |   |       run_L30.bip
+    |   |   |       run_L90.bip
+    |   |   |       run_norot.bip
+    |   |   |       run_R30.bip
+    |   |   |       run_R90.bip
+    |   |   |       run_rotfix.bip
+    |   |   |       sniff.bip
+    |   |   |       standup.bip
+    |   |   |       takeoff.bip
+    |   |   |       walier_clip_walk2_all.max
+    |   |   |       walier_clip_walk4_all.max
+    |   |   |       walk2.bip
+    |   |   |       walk4.bip
+    |   |   |       
+    |   |   \---Models
+    |   |           irisbig.JPG
+    |   |           irisbig_bw.JPG
+    |   |           treepy_physique.max
+    |   |           walier_skin.max
+    |   |           
+    |   \---SimpleCrowd
+    |           AnimatedBehaviorWeights.max
+    |           Ants_on_honey.max
+    |           AvoidBehavior.max
+    |           BrickWall.jpg
+    |           Brkrun.JPG
+    |           Brkrun_b.JPG
+    |           CogControlBehavior.max
+    |           ComplexSurfaceFollow.max
+    |           Crowd_roaches.max
+    |           GRYDIRT1.JPG
+    |           OrientationBehavior.max
+    |           PathFollowBehavior.max
+    |           RepelBehavior.max
+    |           ScriptedBehavior.max
+    |           SeekBehavior.max
+    |           SpaceWarpBehavior.max
+    |           SpeedVaryBehavior.max
+    |           SteerAround.max
+    |           Steer+Seek1.max
+    |           SurfaceArriveBehavior.max
+    |           SurfaceFollowBehavior.max
+    |           VectorField.max
+    |           vfield+seek+avoid2.max
+    |           WaitToGo.max
+    |           WallRepelBehavior.max
+    |           WallSeekBehavior.max
+    |           WanderBehavior.max
+    |           
+    +---LandXML
+    |       LongRoad.xml
+    |       Olympus Subdivision.xml
+    |       pipework.xml
+    |       ROUTE202.xml
+    |       Tutorial1.xml
+    |       Tutorial2.xml
+    |       XMLBound3.xml
+    |       
+    +---Scenes
+    |   +---Characters
+    |   |   +---Complete
+    |   |   |       Ape.max
+    |   |   |       Background.jpg
+    |   |   |       body.bmp
+    |   |   |       cape_0498.jpg
+    |   |   |       Cardboar.jpg
+    |   |   |       displace.jpg
+    |   |   |       Dragon_Character_Rig.max
+    |   |   |       head4.bmp
+    |   |   |       InkPaintChameleon.max
+    |   |   |       kniitting_thickweave.jpg
+    |   |   |       leather_b.jpg
+    |   |   |       legs.bmp
+    |   |   |       rabbit.max
+    |   |   |       T-2ndToe.TGA
+    |   |   |       T-2ndToeBMP.TGA
+    |   |   |       T-3rdToe.TGA
+    |   |   |       T-3rdToeBMP.TGA
+    |   |   |       T-4thToe.TGA
+    |   |   |       T-4thToeBMP.TGA
+    |   |   |       T-5thToe.TGA
+    |   |   |       T-5thToeBMP.TGA
+    |   |   |       T-Arms.TGA
+    |   |   |       T-ArmsBMP.TGA
+    |   |   |       T-BigToe.TGA
+    |   |   |       T-BigToeBMP.TGA
+    |   |   |       T-Body.TGA
+    |   |   |       T-BodyBMP.TGA
+    |   |   |       T-BPMouth.TGA
+    |   |   |       T-Eyeball.TGA
+    |   |   |       T-EyeballBMP.TGA
+    |   |   |       T-Foot.TGA
+    |   |   |       T-FootBMP.TGA
+    |   |   |       T-Head.TGA
+    |   |   |       T-HeadBMP.TGA
+    |   |   |       T-IBGums.TGA
+    |   |   |       T- IFinger.TGA
+    |   |   |       T- IFingerBMP.TGA
+    |   |   |       T-ITGums.TGA
+    |   |   |       T- MFinger.TGA
+    |   |   |       T- MFingerBMP.TGA
+    |   |   |       T-Nail.TGA
+    |   |   |       T-NailBMP.TGA
+    |   |   |       T-Neck.tga
+    |   |   |       T-NeckBMP.TGA
+    |   |   |       T-Nose.TGA
+    |   |   |       T-NoseBMP.TGA
+    |   |   |       T-OBGums.TGA
+    |   |   |       T-OTGums.TGA
+    |   |   |       T- Pinkey.TGA
+    |   |   |       T- PinkeyBMP.TGA
+    |   |   |       T-Scales.tga
+    |   |   |       T-Shin.TGA
+    |   |   |       T-ShinBMP.TGA
+    |   |   |       T-Tail.TGA
+    |   |   |       T-TailBMP.TGA
+    |   |   |       T-Thigh.TGA
+    |   |   |       T-ThighBMP.TGA
+    |   |   |       T- Thumb.TGA
+    |   |   |       T- ThumbBMP.TGA
+    |   |   |       T-Top Head.tga
+    |   |   |       T-Top HeadBMP.TGA
+    |   |   |       T-TPMouth.TGA
+    |   |   |       TarrasqueTextured.max
+    |   |   |       tooth.tga
+    |   |   |       
+    |   |   +---Facial
+    |   |   |       Angus Face.max
+    |   |   |       Anibal (with manipulators).max
+    |   |   |       
+    |   |   +---Meshes
+    |   |   |       2Leg.tga
+    |   |   |       2Leg_Eye.TGA
+    |   |   |       2Leg_Foot.tga
+    |   |   |       CreatureSkinned.max
+    |   |   |       CreatureSplines.max
+    |   |   |       Creature_Rig.max
+    |   |   |       NRK_Character_Rig.max
+    |   |   |       nrk_hi.jpg
+    |   |   |       sh'eskin7.bmp
+    |   |   |       SheK_Character_Rig.max
+    |   |   |       
+    |   |   \---Rigs
+    |   |           2Leg_Eye.TGA
+    |   |           BodyBump.jpg
+    |   |           BodyDisplace.jpg
+    |   |           BodyTexture2.jpg
+    |   |           DinoWalking.max
+    |   |           LegsTexture2.jpg
+    |   |           tooth.tga
+    |   |           
+    |   +---Effects
+    |   |       70MM.JPG
+    |   |       AMMO.JPG
+    |   |       Apache-FlyBye.max
+    |   |       APBAN.JPG
+    |   |       Apollo.max
+    |   |       ASHSEN_2.GIF
+    |   |       BUMPMASK.JPG
+    |   |       CHROMIC.JPG
+    |   |       CigSmoke.max
+    |   |       CloudMap.jpg
+    |   |       CONOPI.JPG
+    |   |       CONOPIT.JPG
+    |   |       DUSKCLD1.JPG
+    |   |       Earth.max
+    |   |       Earth-Apollo.max
+    |   |       EarthMap.jpg
+    |   |       EVGREEN.JPG
+    |   |       fx3_Panels_5.jpg
+    |   |       fx3_Panels_9F.jpg
+    |   |       Islands.max
+    |   |       LAKE3.JPG
+    |   |       Lakerem.jpg
+    |   |       LEFTBUMP.JPG
+    |   |       LEFTTEXT.JPG
+    |   |       LIGHT.JPG
+    |   |       Mount1_Mask.jpg
+    |   |       Mount2_Mask.jpg
+    |   |       Mountains.jpg
+    |   |       OceanSunset.max
+    |   |       Particle_Butterfly.max
+    |   |       ptiab22.jpg
+    |   |       RIGHTTEX.JPG
+    |   |       ROTOR.JPG
+    |   |       SailBoat.jpg
+    |   |       SIDEBUMP.JPG
+    |   |       SIDEMASK.JPG
+    |   |       SKYSUN2.JPG
+    |   |       Stars10.JPG
+    |   |       TEXTURA.JPG
+    |   |       TUR1BUMP.JPG
+    |   |       TUR1MASK.JPG
+    |   |       TUR2BUMP.JPG
+    |   |       TUR2MASK.JPG
+    |   |       TUR3BUMP.JPG
+    |   |       WakeBump.jpg
+    |   |       WING2BUM.JPG
+    |   |       WING2MAS.JPG
+    |   |       WINGBUM.JPG
+    |   |       WINGMASK.JPG
+    |   |       
+    |   +---Version7Features
+    |   |   +---CameraMap
+    |   |   |       matte_left.jpg
+    |   |   |       matte_left_alpha.jpg
+    |   |   |       matte_right.jpg
+    |   |   |       matte_right_alpha.jpg
+    |   |   |       SpeedLimit55.png
+    |   |   |       wall.max
+    |   |   |       wall_after.max
+    |   |   |       
+    |   |   \---JSR
+    |   |       |   Demo_Boxes.html
+    |   |       |   Demo_Boxes.m3g
+    |   |       |   demo_boxes.max
+    |   |       |   Demo_Skin.html
+    |   |       |   Demo_Skin.m3g
+    |   |       |   demo_skin.max
+    |   |       |   Demo_Teapot.html
+    |   |       |   Demo_Teapot.m3g
+    |   |       |   Demo_Teapot.max
+    |   |       |   
+    |   |       \---Maps
+    |   |               bg_disWhitejpg.jpg
+    |   |               bg_Skinning.jpg
+    |   |               MaxIcon.jpg
+    |   |               
+    |   +---Version6Features
+    |   |   +---Animations
+    |   |   |       520 Pencils_large.mov
+    |   |   |       blood.mov
+    |   |   |       Brokk.avi
+    |   |   |       electric.mov
+    |   |   |       Head_BonesRig.mov
+    |   |   |       SinkTheTeapot.mov
+    |   |   |       Stuntman Trampoline.avi
+    |   |   |       tumbling.mov
+    |   |   |       UFO Chase.wmv
+    |   |   |       
+    |   |   +---Images
+    |   |   |       10.jpg
+    |   |   |       Antok.jpg
+    |   |   |       Brokk.jpg
+    |   |   |       Brokk Light Tracer.jpg
+    |   |   |       Bunnyboy.jpg
+    |   |   |       carpaint.jpg
+    |   |   |       Cartoon Field.jpg
+    |   |   |       CausticsPool.jpg
+    |   |   |       CausticsTeapot01.jpg
+    |   |   |       COMPOSITING.JPG
+    |   |   |       Dangel.jpg
+    |   |   |       Discreet Glass.jpg
+    |   |   |       Displacements01.jpg
+    |   |   |       FultonStTransitCtrSectional.jpg
+    |   |   |       fuzzy_tentacle_love_1.jpg
+    |   |   |       GAMES01.jpg
+    |   |   |       GSM.jpg
+    |   |   |       gsmOPEN.jpg
+    |   |   |       HDR_s600.jpg
+    |   |   |       IndianRiverBridge.jpg
+    |   |   |       LanceRender03.jpg
+    |   |   |       Mental Ray Gallery_01.jpg
+    |   |   |       Mental Ray Gallery_02.jpg
+    |   |   |       mentalray 1.JPG
+    |   |   |       Oumpahpah2.jpg
+    |   |   |       PICTURE.JPG
+    |   |   |       scs_woman1.jpg
+    |   |   |       scs_woman2.jpg
+    |   |   |       Splash01.jpg
+    |   |   |       studio08_sm.jpg
+    |   |   |       studio27_sm.jpg
+    |   |   |       ‚tagere0000.jpg
+    |   |   |       TappanZeeBridge.jpg
+    |   |   |       TheBedroom.jpg
+    |   |   |       Train - Final.jpg
+    |   |   |       TransitCenterSectional2.jpg
+    |   |   |       TrussSpan.jpg
+    |   |   |       turtibyebye.jpg
+    |   |   |       UFO Chase Still.jpg
+    |   |   |       WONDERFULL LAND.JPG
+    |   |   |       
+    |   |   \---Scenes
+    |   |       +---Design Visualization
+    |   |       |   |   Concrete.Cast-In-Place.Flat.Grey.2.jpg
+    |   |       |   |   Concrete.Cast-In-Place.Flat.Grey.3.jpg
+    |   |       |   |   Concrete.Cast-In-Place.Panels.Square.jpg
+    |   |       |   |   dhouse.drf
+    |   |       |   |   Doors & Windows.Wood Doors.Ash.jpg
+    |   |       |   |   Finishes.Flooring.Wood.Hardwood.1.jpg
+    |   |       |   |   Masonry.Unit Masonry.Brick.Modular.Running.jpg
+    |   |       |   |   Masonry.Unit Masonry.CMU.Stretcher.Running.jpg
+    |   |       |   |   OR-AP-SZ-SSC125-19390722.jpg
+    |   |       |   |   ps2.drf
+    |   |       |   |   Thermal & Moisture.Roofing & Siding Panels.Wood.Horizontal.jpg
+    |   |       |   |   vases.max
+    |   |       |   |   
+    |   |       |   +---Arup
+    |   |       |   |       Divider2.jpg
+    |   |       |   |       footer.jpg
+    |   |       |   |       footertop.jpg
+    |   |       |   |       Lattice_65x665_Opacity.jpg
+    |   |       |   |       Max6_TappanZeeMainSpan.max
+    |   |       |   |       MS_Diag_30x20 Opacity Map HiRes.jpg
+    |   |       |   |       MS_side rivets.jpg
+    |   |       |   |       roadwayside rivets.jpg
+    |   |       |   |       RoadwayLaneDifuse new2.jpg
+    |   |       |   |       roadway divider2.jpg
+    |   |       |   |       Roadway inside guardrail.jpg
+    |   |       |   |       Roadway Railing Map.jpg
+    |   |       |   |       Roadway Railing MapOP.jpg
+    |   |       |   |       Sign_Cash.jpg
+    |   |       |   |       Sign_EZPass.jpg
+    |   |       |   |       Sign_Vehicles.jpg
+    |   |       |   |       TCol Diag Opacity Map HiRes.jpg
+    |   |       |   |       TCol Vert Opacity Map LoRes.jpg
+    |   |       |   |       trestlefoot.jpg
+    |   |       |   |       USFlag_pale.jpg
+    |   |       |   |       WaterHudson21.jpg
+    |   |       |   |       
+    |   |       |   \---Use 3ds max Import to open
+    |   |       |           chest3.dwg
+    |   |       |           model2-insert.dwg
+    |   |       |           ps2.dwg
+    |   |       |           
+    |   |       +---Mental Ray
+    |   |       |       concrete_wall.tif
+    |   |       |       Displacement & DOF.max
+    |   |       |       Green_Leather.bmp
+    |   |       |       MR_LightGallery_Max6.max
+    |   |       |       MtlPlat2_Bump.jpg
+    |   |       |       WDNEW BROWN.tif
+    |   |       |       
+    |   |       +---Particle Flow
+    |   |       |   +---Bloodstream
+    |   |       |   |       blood.max
+    |   |       |   |       
+    |   |       |   +---Explosions
+    |   |       |   |       CP_FunWithSpawning01.max
+    |   |       |   |       fuzzy_tentacle_love.max
+    |   |       |   |       readme.txt
+    |   |       |   |       
+    |   |       |   +---Fragments
+    |   |       |   |       ScriptFragmentationWithCache_BulletTime03.max
+    |   |       |   |       ScriptFragmentationWithCache_Corrected2.max
+    |   |       |   |       
+    |   |       |   +---Gunfire and Water Bursts
+    |   |       |   |       WaterShots.max
+    |   |       |   |       
+    |   |       |   +---Heli Rotorwash
+    |   |       |   |       heli_rotorwash.max
+    |   |       |   |       
+    |   |       |   +---Material Blending and Shape Animation
+    |   |       |   |       bouncing_balls.max
+    |   |       |   |       
+    |   |       |   +---Raindrops
+    |   |       |   |   |   raindrops puddles.max
+    |   |       |   |   |   
+    |   |       |   |   +---raindrops
+    |   |       |   |   |       raindrop00.ifl
+    |   |       |   |   |       raindrop01.jpg
+    |   |       |   |   |       raindrop02.jpg
+    |   |       |   |   |       raindrop03.jpg
+    |   |       |   |   |       raindrop04.jpg
+    |   |       |   |   |       
+    |   |       |   |   +---ripple
+    |   |       |   |   |       ripple0010.jpg
+    |   |       |   |   |       ripple0020.jpg
+    |   |       |   |   |       ripple0030.jpg
+    |   |       |   |   |       ripple0040.jpg
+    |   |       |   |   |       ripple0013.jpg
+    |   |       |   |   |       ripple0014.jpg
+    |   |       |   |   |       ripple0011.jpg
+    |   |       |   |   |       ripple0012.jpg
+    |   |       |   |   |       ripple0023.jpg
+    |   |       |   |   |       ripple0024.jpg
+    |   |       |   |   |       ripple0021.jpg
+    |   |       |   |   |       ripple0022.jpg
+    |   |       |   |   |       ripple0033.jpg
+    |   |       |   |   |       ripple0034.jpg
+    |   |       |   |   |       ripple0031.jpg
+    |   |       |   |   |       ripple0032.jpg
+    |   |       |   |   |       ripple0004.jpg
+    |   |       |   |   |       ripple0043.jpg
+    |   |       |   |   |       ripple0044.jpg
+    |   |       |   |   |       ripple0041.jpg
+    |   |       |   |   |       ripple0042.jpg
+    |   |       |   |   |       ripple0017.jpg
+    |   |       |   |   |       ripple0018.jpg
+    |   |       |   |   |       ripple0015.jpg
+    |   |       |   |   |       ripple0016.jpg
+    |   |       |   |   |       ripple0027.jpg
+    |   |       |   |   |       ripple0028.jpg
+    |   |       |   |   |       ripple0025.jpg
+    |   |       |   |   |       ripple0026.jpg
+    |   |       |   |   |       ripple0037.jpg
+    |   |       |   |   |       ripple0038.jpg
+    |   |       |   |   |       ripple0035.jpg
+    |   |       |   |   |       ripple0036.jpg
+    |   |       |   |   |       ripple0007.jpg
+    |   |       |   |   |       ripple0008.jpg
+    |   |       |   |   |       ripple0005.jpg
+    |   |       |   |   |       ripple0006.jpg
+    |   |       |   |   |       ripple0045.jpg
+    |   |       |   |   |       ripple0019.jpg
+    |   |       |   |   |       ripple0029.jpg
+    |   |       |   |   |       ripple0039.jpg
+    |   |       |   |   |       ripple0009.jpg
+    |   |       |   |   |       ripple0000.ifl
+    |   |       |   |   |       ripple0000.jpg
+    |   |       |   |   |       ripple0001.jpg
+    |   |       |   |   |       ripple0002.jpg
+    |   |       |   |   |       ripple0003.jpg
+    |   |       |   |   |       
+    |   |       |   |   \---wet
+    |   |       |   |           wet0000.ifl
+    |   |       |   |           wet0000.jpg
+    |   |       |   |           wet0001.jpg
+    |   |       |   |           wet0002.jpg
+    |   |       |   |           wet0003.jpg
+    |   |       |   |           wet0004.jpg
+    |   |       |   |           wet0005.jpg
+    |   |       |   |           wet0006.jpg
+    |   |       |   |           wet0007.jpg
+    |   |       |   |           wet0008.jpg
+    |   |       |   |           wet0009.jpg
+    |   |       |   |           wet0010.jpg
+    |   |       |   |           wet0011.jpg
+    |   |       |   |           wet0012.jpg
+    |   |       |   |           wet0013.jpg
+    |   |       |   |           wet0014.jpg
+    |   |       |   |           wet0015.jpg
+    |   |       |   |           wet0016.jpg
+    |   |       |   |           wet0017.jpg
+    |   |       |   |           wet0018.jpg
+    |   |       |   |           wet0019.jpg
+    |   |       |   |           wet0020.jpg
+    |   |       |   |           wet0021.jpg
+    |   |       |   |           wet0022.jpg
+    |   |       |   |           wet0023.jpg
+    |   |       |   |           wet0024.jpg
+    |   |       |   |           wet0025.jpg
+    |   |       |   |           wet0026.jpg
+    |   |       |   |           wet0027.jpg
+    |   |       |   |           wet0028.jpg
+    |   |       |   |           wet0029.jpg
+    |   |       |   |           wet0030.jpg
+    |   |       |   |           wet0031.jpg
+    |   |       |   |           wet0032.jpg
+    |   |       |   |           wet0033.jpg
+    |   |       |   |           wet0034.jpg
+    |   |       |   |           wet0035.jpg
+    |   |       |   |           wet0036.jpg
+    |   |       |   |           wet0037.jpg
+    |   |       |   |           wet0038.jpg
+    |   |       |   |           wet0039.jpg
+    |   |       |   |           wet0040.jpg
+    |   |       |   |           wet0041.jpg
+    |   |       |   |           wet0042.jpg
+    |   |       |   |           wet0043.jpg
+    |   |       |   |           wet0044.jpg
+    |   |       |   |           wet0045.jpg
+    |   |       |   |           wet0046.jpg
+    |   |       |   |           wet0047.jpg
+    |   |       |   |           wet0048.jpg
+    |   |       |   |           wet0049.jpg
+    |   |       |   |           wet0050.jpg
+    |   |       |   |           wet0051.jpg
+    |   |       |   |           wet0052.jpg
+    |   |       |   |           wet0053.jpg
+    |   |       |   |           wet0054.jpg
+    |   |       |   |           wet0055.jpg
+    |   |       |   |           wet0056.jpg
+    |   |       |   |           wet0057.jpg
+    |   |       |   |           wet0058.jpg
+    |   |       |   |           wet0059.jpg
+    |   |       |   |           wet0060.jpg
+    |   |       |   |           wet0061.jpg
+    |   |       |   |           wet0062.jpg
+    |   |       |   |           wet0063.jpg
+    |   |       |   |           wet0064.jpg
+    |   |       |   |           wet0065.jpg
+    |   |       |   |           wet0066.jpg
+    |   |       |   |           wet0067.jpg
+    |   |       |   |           wet0068.jpg
+    |   |       |   |           wet0069.jpg
+    |   |       |   |           wet0070.jpg
+    |   |       |   |           wet0071.jpg
+    |   |       |   |           wet0072.jpg
+    |   |       |   |           wet0073.jpg
+    |   |       |   |           wet0074.jpg
+    |   |       |   |           wet0075.jpg
+    |   |       |   |           wet0076.jpg
+    |   |       |   |           wet0077.jpg
+    |   |       |   |           wet0078.jpg
+    |   |       |   |           wet0079.jpg
+    |   |       |   |           wet0080.jpg
+    |   |       |   |           wet0081.jpg
+    |   |       |   |           wet0082.jpg
+    |   |       |   |           wet0083.jpg
+    |   |       |   |           wet0084.jpg
+    |   |       |   |           wet0085.jpg
+    |   |       |   |           wet0086.jpg
+    |   |       |   |           wet0087.jpg
+    |   |       |   |           wet0088.jpg
+    |   |       |   |           wet0089.jpg
+    |   |       |   |           wet0090.jpg
+    |   |       |   |           
+    |   |       |   +---Scripted Direction
+    |   |       |   |       progressiveSpeedModify.max
+    |   |       |   |       progressiveSpeedModify.txt
+    |   |       |   |       
+    |   |       |   +---Scripted Randomwalk
+    |   |       |   |       scripted_randomwalk_Corrected.max
+    |   |       |   |       scripted_randomwalk.txt
+    |   |       |   |       
+    |   |       |   +---Scripted Particle Scene from scratch
+    |   |       |   |       readme.txt
+    |   |       |   |       VolumeDocking_scripted.ms
+    |   |       |   |       
+    |   |       |   +---Scripted Particle Manipulation
+    |   |       |   |       3DGrid.max
+    |   |       |   |       PFlowScriptsConfig.ms
+    |   |       |   |       PFlowScriptConfig Readme.txt
+    |   |       |   |       
+    |   |       |   +---Scripted Particle Length
+    |   |       |   |       ParticleLengthBySpeed.max
+    |   |       |   |       ParticleLengthBySpeed.txt
+    |   |       |   |       
+    |   |       |   +---Sparks and Plasma Effects
+    |   |       |   |       electric thing.max
+    |   |       |   |       
+    |   |       |   +---Spawning Flowers
+    |   |       |   |       Animating_Flowers.max
+    |   |       |   |       
+    |   |       |   \---Timed Loops and Find Target
+    |   |       |           readme.txt
+    |   |       |           reconfigure.max
+    |   |       |           
+    |   |       \---Reactor2
+    |   |           |   Brkwea.JPG
+    |   |           |   carwheel.max
+    |   |           |   fursolid2.jpg
+    |   |           |   HANGING_men.max
+    |   |           |   Missle Building.max
+    |   |           |   RAGDOLL_nutty.max
+    |   |           |   RAGDOLL_rope.max
+    |   |           |   smoke.bmp
+    |   |           |   Suicide_New.max
+    |   |           |   teapotwithROCKETS2!!!!!.max
+    |   |           |   testmap.bmp
+    |   |           |   Windows2.jpg
+    |   |           |   Windows3.jpg
+    |   |           |   Windows4.jpg
+    |   |           |   
+    |   |           \---fun_in_a_dryer
+    |   |                   bumpmap_with_noise.png
+    |   |                   fun_in_a_dryer.max
+    |   |                   LightBrownOfficeCarpet.jpg
+    |   |                   LightBrownOfficeCarpetBump.jpg
+    |   |                   
+    |   +---Version5Features
+    |   |   +---AdvancedLighting
+    |   |   |       radiosity.max
+    |   |   |       
+    |   |   +---AnimationIK
+    |   |   |       03 Ik-joe (Spline IK).max
+    |   |   |       abix-fall-splineIK.max
+    |   |   |       IK_FK_blend.max
+    |   |   |       
+    |   |   +---BoneAdjustment
+    |   |   |       octopus07.max
+    |   |   |       
+    |   |   +---CharacterAssemblies
+    |   |   |       skin_pose_define.max
+    |   |   |       
+    |   |   +---DirectXFeatures
+    |   |   |       biplane.max
+    |   |   |       biplane_map.jpg
+    |   |   |       Lakerem.jpg
+    |   |   |       Snake Skin.tga
+    |   |   |       TigerTankDecal.jpg
+    |   |   |       TigerTank.max
+    |   |   |       TigerTankNormals.tga
+    |   |   |       
+    |   |   +---InknPaintMaterial
+    |   |   |       InkPaintRobot.max
+    |   |   |       InkPaintSnake.max
+    |   |   |       Snake Skin.tga
+    |   |   |       
+    |   |   +---ReactorDynamics
+    |   |   |       ABALONE.JPG
+    |   |   |       BARK4.JPG
+    |   |   |       BENEDETI.JPG
+    |   |   |       Blobs.max
+    |   |   |       Brkwea.JPG
+    |   |   |       BRKWEA_B.GIF
+    |   |   |       CARPTTAN.JPG
+    |   |   |       CEDFENCE.JPG
+    |   |   |       Chain.max
+    |   |   |       CONCGRAY.JPG
+    |   |   |       DefomingMesh.max
+    |   |   |       DeformingMesh.txt
+    |   |   |       DRYLEAVE.JPG
+    |   |   |       DUSKCLD1.JPG
+    |   |   |       GRYDIRT2.JPG
+    |   |   |       GRYPLANK.JPG
+    |   |   |       HavokSailBoat.max
+    |   |   |       HavokSailboat.txt
+    |   |   |       JUPITER2.JPG
+    |   |   |       Lakerem.jpg
+    |   |   |       Lakerem2.jpg
+    |   |   |       LAKE_MT.JPG
+    |   |   |       LIMESTO3.JPG
+    |   |   |       LongChain.max
+    |   |   |       LoopyPile.max
+    |   |   |       LoopyPile.txt
+    |   |   |       MEDRUST3.JPG
+    |   |   |       OAKQRTRT.TGA
+    |   |   |       OLDMETAL.JPG
+    |   |   |       Oldwood.jpg
+    |   |   |       PAT0019.TGA
+    |   |   |       PLATEOX2.JPG
+    |   |   |       PonytailWithConstraints.max
+    |   |   |       PonytailWithConstraints.txt
+    |   |   |       PullTheStrings.max
+    |   |   |       PullTheStrings.txt
+    |   |   |       SailBoat.jpg
+    |   |   |       Sheltering.max
+    |   |   |       Sheltering.txt
+    |   |   |       SimpleComposite.max
+    |   |   |       SimpleComposite.txt
+    |   |   |       Snowmen.max
+    |   |   |       Snowmen.txt
+    |   |   |       Tiles.jpg
+    |   |   |       VerySimple.max
+    |   |   |       Wall.max
+    |   |   |       WALNUT3.TGA
+    |   |   |       Warehouse.max
+    |   |   |       Yellobrk.JPG
+    |   |   |       
+    |   |   +---SymmetryModifier
+    |   |   |       AnimatedSymmetry.max
+    |   |   |       BallSymmetry.max
+    |   |   |       CHROMBLU.JPG
+    |   |   |       
+    |   |   \---TextureMapping
+    |   |           biplane.max
+    |   |           biplane_map.jpg
+    |   |           Lakerem.jpg
+    |   |           
+    |   \---Version4Features
+    |       +---Bones
+    |       |       Bones-FacialBonesAnim.max
+    |       |       Bones-SimpleSquash.max
+    |       |       EYECOLOR.TIF
+    |       |       
+    |       +---CameraEffects
+    |       |       body.bmp
+    |       |       CLOUD2.JPG
+    |       |       head4.bmp
+    |       |       legs.bmp
+    |       |       MotionBlur-DragonFlying.max
+    |       |       
+    |       +---Constraints
+    |       |       BodyBump.jpg
+    |       |       BodyDisplace.jpg
+    |       |       BodyTexture2.jpg
+    |       |       Constraints-FacialBones.max
+    |       |       Constraints-PosSpring.max
+    |       |       Constraints-TeapotSpring.max
+    |       |       Constraints-TheClaw.max
+    |       |       EYECOLOR.TIF
+    |       |       LegsTexture2.jpg
+    |       |       tooth.tga
+    |       |       
+    |       +---Flex
+    |       |       Flex-SimpleCloth.max
+    |       |       Flex-SoftBody.max
+    |       |       Flex-TeaPotBounce.max
+    |       |       Simplecloth.pts
+    |       |       Simplecloth2.pts
+    |       |       
+    |       +---InverseKinematics
+    |       |       IK-3ChainFoot.max
+    |       |       IK-SimpleExamples.max
+    |       |       Reactor-IK CustAtrib.max
+    |       |       
+    |       +---Manipulators
+    |       |       EYEBUMP.TIF
+    |       |       EYECOLOR.TIF
+    |       |       Sliders-Morphing.max
+    |       |       
+    |       +---ParameterWiring
+    |       |       body.bmp
+    |       |       head4.bmp
+    |       |       legs.bmp
+    |       |       Reactor-IK CustAtrib.max
+    |       |       Sliders-IK.max
+    |       |       Wiring-Beaker.max
+    |       |       Wiring-Dragon.max
+    |       |       Wiring-Landscape.max
+    |       |       
+    |       +---PolygonObject
+    |       |       PolyObject-Slayer.max
+    |       |       SKYSUN2.JPG
+    |       |       
+    |       +---RenderElements
+    |       |       BunBottom.jpg
+    |       |       BunSide.jpg
+    |       |       BunTop.jpg
+    |       |       BurgerPatty.jpg
+    |       |       Lettuce.jpg
+    |       |       MicrowaveBackground.jpg
+    |       |       RendElmnts-HamBurger.max
+    |       |       TinFoil.jpg
+    |       |       TomatoeDrops.jpg
+    |       |       TomatoeSide.jpg
+    |       |       
+    |       +---SpaceWarps
+    |       |       ASHSEN_2.GIF
+    |       |       Drag-CigSmoke.max
+    |       |       Vortex-Tornado.max
+    |       |       
+    |       +---SubDivSurfaces
+    |       |       FLIPPER.JPG
+    |       |       HSDS-Dolphin.max
+    |       |       Meshsmooth-Doghead.max
+    |       |       Meshsmooth-FishAnim .max
+    |       |       Meshsmooth-Hammer.max
+    |       |       Meshsmooth-JUR-JUR.max
+    |       |       Tang.JPG
+    |       |       
+    |       \---ViewportRendering
+    |               BARK5.jpg
+    |               body.bmp
+    |               EVGREEN.JPG
+    |               Fern.tga
+    |               GRYDIRT1.JPG
+    |               head4.bmp
+    |               Lakerem.jpg
+    |               legs.bmp
+    |               tree.tga
+    |               Viewport-Dragon.max
+    |               
+    \---Scripts
+        +---Examples
+        |       1Example_DialogBox.ms
+        |       2Example_FloatingWindow.ms
+        |       3Example_Utility.ms
+        |       ASCII.dat
+        |       Example_ExcelChart.ms
+        |       Example_BoxArrayAnimation.ms
+        |       Example_RandObjects.ms
+        |       Example_RuledMesh.ms
+        |       Example_ParticleObjects.ms
+        |       Example_BitmapEllipse.ms
+        |       Example_SphereHelix.ms
+        |       Example_Tutorial9.ms
+        |       Example_Tutorial1.ms
+        |       Example_Reset Xform.ms
+        |       Example_SchematicviewLayout.ms
+        |       Example_BitmapCircle.ms
+        |       Example_StartHere.ms
+        |       Example_ASCII Read.ms
+        |       Example_Bank and Turn.ms
+        |       Example_BasicCommands.ms
+        |       Example_BendHose.ms
+        |       Example_SplineDesigner.ms
+        |       Example_BitmapLine.ms
+        |       Example_FLOCKING.ms
+        |       foo.mzp
+        |       foo2.mzp
+        |       Function_RoundTo.ms
+        |       Function_DetachMesh.ms
+        |       Function_DumpProperties.ms
+        |       Function_FLOCKFNS.ms
+        |       Function_Objects.ms
+        |       LODTester.ms
+        |       Macro_KeyManager.mzp
+        |       maxscript.reg
+        |       OLE.ms
+        |       OLEDemo.xls
+        |       PaintCylinders.ms
+        |       PaintCylindersConnect.ms
+        |       PaintCylindersInsidePoly.ms
+        |       PaintCylindersMotion.ms
+        |       PaintLotsCylinders.ms
+        |       PaintMeshSel.ms
+        |       PaintToolsDoc.ms
+        |       PlacementTool.ms
+        |       ReadMe-Examples.txt
+        |       
+        +---MAXScriptTools
+        |       Macro_MXSExport.mcr
+        |       Macro_PaintSpline.mcr
+        |       Macro_RenderToRamPlayer.mcr
+        |       Macro_LayerStates.mcr
+        |       Macro_SchematicViewTools.mcr
+        |       Macro_ObjectPaint.mcr
+        |       Macro_BatchRender.mcr
+        |       Macro_AproposGUI.ms
+        |       Macro_BonePaint.mcr
+        |       Macro_ReadCSM.ms
+        |       Macro_Clusters.mcr
+        |       Macro_FileBrowser.mcr
+        |       Macro_UVWUnWrap.mcr
+        |       Macro_HandSystem.mcr
+        |       Mfht31.mzp
+        |       ReadMe-MAXScript Tools.txt
+        |       SuperManipulators.mzp
+        |       
+        +---ParticleFlow
+        |       Example-ScriptTest.ms
+        |       Example-EveryStepUpdate.ms
+        |       Example-FinalStepUpdate.ms
+        |       Example-ScriptBirth.ms
+        |       Example-ScriptOperator.ms
+        |       
+        +---PluginScripts
+        |       Material-RaytracedGlass.ms
+        |       Modifier-MeshPull.ms
+        |       Modifier-UVWLock.ms
+        |       Object-GeoSphere2.ms
+        |       Object-MathObject.ms
+        |       RenderEffect-SpecularBloom.ms
+        |       RenderEffect-FrameNumber.ms
+        |       RenderEffect-TVFields.ms
+        |       RenderEffect-Mosaic.ms
+        |       RenderEffect-Monochrome.ms
+        |       RenderEffect-HSVControl.ms
+        |       ReadMe-PlugInScripts.txt
+        |       RenderEffect-16x9.ms
+        |       RenderEffect-Checkerize.ms
+        |       RenderEffect-FilmAge.ms
+        |       RenderEffect-FrameJitter.ms
+        |       
+        +---Samples
+        |       Macro_GeotiffLoader.mcr
+        |       Macro_WalkAssist.mcr
+        |       
+        +---Startup
+        |       geom_manipulators.ms
+        |       light_manipulators.ms
+        |       MAX.DIR
+        |       mod_manipulators.ms
+        |       ToggleManipulators.ms
+        |       
+        \---Utilities
+                licenseparameters.ms
+                MakeIcon_4_55.ms
+                MakeIcon_4_55.zip
+                ReadMe-Utilities.txt
+                Utility-ObjectID.ms
+                

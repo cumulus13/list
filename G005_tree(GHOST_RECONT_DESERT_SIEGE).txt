@@ -1,0 +1,59 @@
+Folder PATH listing for volume DESERT SIEGE
+Volume serial number is B6F2-55AE
+G:\
+|   00000001.TMP
+|   00000809.016
+|   00000809.256
+|   Autorun.inf
+|   data1.cab
+|   data1.hdr
+|   data2.cab
+|   Desert Siege ReadMe.txt
+|   deviance.nfo
+|   drvmgt.dll
+|   Ghost.ico
+|   GhostRecon.exe
+|   GR manual.pdf
+|   igor.exe
+|   IgorScripting.txt
+|   ike.sdf
+|   ikernel.ex_
+|   layout.bin
+|   modsset.txt
+|   ScriptEd.dll
+|   secdrv.sys
+|   Setup.exe
+|   Setup.ini
+|   Setup.inx
+|   
++---Autorun
+|       AutoRun.bmp
+|       Autorun.exe
+|       
++---Extras
+|   |   Ghost Recon_Command Map.pdf
+|   |   Ghost Recon_Level Builder.pdf
+|   |   Ghost Recon_Vehicle Tagging.pdf
+|   |   
+|   +---Example_map
+|   |       Example_Map.zip
+|   |       
+|   +---Level_EditorExporter
+|   |       Max3x_Levelexporter.zip
+|   |       Max4x_Levelexporter.zip
+|   |       
+|   +---LightingTool
+|   |       Lighting_Tool.zip
+|   |       
+|   +---Photoshop_Plugin
+|   |       RSB.8bi
+|   |       
+|   +---RSBEditor
+|   |       RSBEditor.zip
+|   |       
+|   \---skybox
+|           Skybox_Template.zip
+|           
+\---Registration
+        UBI1.exe
+        

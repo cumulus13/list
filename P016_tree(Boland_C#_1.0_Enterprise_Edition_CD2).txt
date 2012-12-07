@@ -1,0 +1,156 @@
+Folder PATH listing for volume My Disc
+Volume serial number is 6DC3-A6FD
+F:\
+|   MSDEInfo.txt
+|   MSDEInfo.rtf
+|   
++---optimizeit
+|       INSTALL.HTM
+|       RELNOTES.HTM
+|       SETUP.CSS
+|       SETUP.EXE
+|       
++---StarTeam
+|   +---Client
+|   |       DATA.TAG
+|   |       SETUP.INI
+|   |       Setup.bmp
+|   |       Setup.exe
+|   |       _ISDel.exe
+|   |       _Setup.dll
+|   |       _inst32i.ex_
+|   |       _sys1.cab
+|   |       _sys1.hdr
+|   |       _user1.cab
+|   |       _user1.hdr
+|   |       data1.cab
+|   |       data1.hdr
+|   |       lang.dat
+|   |       layout.bin
+|   |       os.dat
+|   |       setup.ins
+|   |       setup.lid
+|   |       
+|   +---Docs
+|   |       52features.pdf
+|   |       STEuser.pdf
+|   |       admin.pdf
+|   |       adminMPX.pdf
+|   |       alldocs.pdf
+|   |       install.pdf
+|   |       stardisk.pdf
+|   |       start.pdf
+|   |       user.pdf
+|   |       workflow.pdf
+|   |       
+|   +---Readme
+|   |       MPXicon.bmp
+|   |       New_Topic.htm
+|   |       STEreadme.htm
+|   |       StarTeam_Release_Notes.htm
+|   |       _blank.htm
+|   |       bsscdhtm.js
+|   |       bsscnav1.gif
+|   |       bsscnav2.gif
+|   |       bsscnav3.gif
+|   |       bsscnav4.gif
+|   |       bsscnav5.gif
+|   |       bsscnav6.gif
+|   |       bsscnav7.gif
+|   |       bsscnav8.gif
+|   |       bsscnbar.js
+|   |       bssctab0.gif
+|   |       bssctab1.gif
+|   |       bssctab2.gif
+|   |       bssctab3.gif
+|   |       bssctab4.gif
+|   |       bssctab5.gif
+|   |       bssctab6.gif
+|   |       bssctoc1.gif
+|   |       bssctoc2.gif
+|   |       bssctoc3.gif
+|   |       bssctoc4.gif
+|   |       default.css
+|   |       default_ns.css
+|   |       ehlpdht1.js
+|   |       ehlpdht2.js
+|   |       ehlpdhtm.js
+|   |       mpxDISABLED.bmp
+|   |       mpxDISCONNECTED.bmp
+|   |       navframe.htm
+|   |       navpane1.htm
+|   |       navpane2.htm
+|   |       nsdnsfix.htm
+|   |       nsdnsfix.jar
+|   |       readme.ftp
+|   |       readme.hhc
+|   |       readme.hhc.zip
+|   |       readme.hhk
+|   |       readme.hhk.zip
+|   |       readme.htm
+|   |       readme_csh.htm
+|   |       tabframe.htm
+|   |       tocdhtml.htm
+|   |       toclist.htm
+|   |       webhelp.cab
+|   |       webhelp.jar
+|   |       webhelp.res
+|   |       webhelp.zip
+|   |       webhelp0.cab
+|   |       webhelp0.zip
+|   |       webhelp4.js
+|   |       
+|   +---Server
+|   |       DATA.TAG
+|   |       SETUP.INI
+|   |       Server.dll
+|   |       Setup.exe
+|   |       _ISDel.exe
+|   |       _Setup.dll
+|   |       _inst32i.ex_
+|   |       _sys1.cab
+|   |       _sys1.hdr
+|   |       _user1.cab
+|   |       _user1.hdr
+|   |       data1.cab
+|   |       data1.hdr
+|   |       lang.dat
+|   |       layout.bin
+|   |       os.dat
+|   |       setup.bmp
+|   |       setup.ins
+|   |       setup.lid
+|   |       
+|   +---StarGate
+|   |   \---Runtime
+|   |           StarGate-runtime.exe
+|   |           
+|   \---Utility
+|       +---Common Controls
+|       |       50comupd.exe
+|       |       
+|       +---Java VM
+|       |       j2re-1_3_1_01-win.exe
+|       |       j2re-1_3_1_03-win-i.exe
+|       |       j2re1_3_0-win.exe
+|       |       msjavx86.exe
+|       |       
+|       +---ODBC
+|       |       mdac_typ.exe
+|       |       
+|       \---WinSock
+|               WS2SETUP.EXE
+|               
++---MSDE
+|       msdesp3a.exe
+|       
++---ISX
+|       Express401_BorlandLE.exe
+|       
++---CaliberRMSDK
+|       CaliberRMSDK v3.0.189.exe
+|       
+\---BDPBeta
+        Borland.Data.Msacc.dll
+        bdpmsa.dll
+        

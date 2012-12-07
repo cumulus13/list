@@ -1,0 +1,524 @@
+Folder PATH listing for volume Electronics
+Volume serial number is 33F9-F7CB
+G:\
+|   PSpice 9.2.rar
+|   
++---Ace Flow Charting 2.99
+|       ACE_FC.EXE
+|       
++---Ace Welding Symbols 2.99
+|       ACE_WELD.EXE
+|       
++---CAM350 v8.51
+|   |   CAM350v85.exe
+|   |   list.txt
+|   |   
+|   \---crack
+|       \---crack
+|               install.txt
+|               license.dat
+|               sdb400c.dll
+|               
++---CAMCAD PCB Translators v3.6.1A
+|   |   INSTALL.TXT
+|   |   PASSWD.TXT
+|   |   file_id.diz
+|   |   setup.exe
+|   |   swat.nfo
+|   |   
+|   \---crack
+|           Camcad.zip
+|           
++---Circuit Maker 5.0
+|       CRACK.EXE
+|       DATA.TAG
+|       DATA1.CAB
+|       LANG.DAT
+|       LAYOUT.BIN
+|       OS.DAT
+|       SETUP.EXE
+|       SETUP.INI
+|       SETUP.INS
+|       SETUP.LID
+|       _INST16.EX_
+|       _INST32I.EX_
+|       _ISDEL.EXE
+|       _SETUP.DLL
+|       _SYS1.CAB
+|       _USER1.CAB
+|       
++---Circuit Shop 1.09
+|   |   INSTALL.TXT
+|   |   
+|   +---KeyMaker
+|   |       ECLCS109.EXE
+|   |       ECLIPSE.NFO
+|   |       FILE_ID.DIZ
+|   |       
+|   \---Setup
+|           $DISK1.DSK
+|           CIRC.EXE
+|           CIRC.HLP
+|           CTL3DV2.DLL
+|           HISTORY.TXT
+|           L7400.CS1
+|           L7450.CS1
+|           LIBRARY.TXT
+|           README.TXT
+|           SAMPLE01.CS1
+|           SAMPLE02.CS1
+|           SAMPLE03.CS1
+|           SAMPLE04.CS1
+|           SAMPLE05.CS1
+|           SAMPLE06.CS1
+|           SAMPLE07.CS1
+|           SAMPLE08.CS1
+|           SAMPLE09.CS1
+|           SAMPLE10.CS1
+|           SAMPLE11.CS1
+|           SAMPLE12.CS1
+|           SAMPLE13.CS1
+|           SAMPLE14.CS1
+|           SETUP.EXE
+|           UNINSTAL.EXE
+|           WINSTALL.BIN
+|           WINSTALL.INF
+|           
++---Digital Cirsuit Simulator
+|       DISK1.ID
+|       README.TXT
+|       SETUP.EXE
+|       SETUP.INI
+|       SETUP.INS
+|       SETUP.ISS
+|       SETUP.PKG
+|       _INST32I.EX_
+|       _ISDEL.EXE
+|       _SETUP.1
+|       _SETUP.DLL
+|       _SETUP.LIB
+|       
++---Electrical and Electronic Formulas 3.0
+|   |   INSTALL.TXT
+|   |   License.txt
+|   |   Readme.txt
+|   |   SETUP.LST
+|   |   eef.CAB
+|   |   file_id.diz
+|   |   laxity.nfo
+|   |   setup.exe
+|   |   
+|   \---crack
+|           Elec320.exe
+|           
++---Electronic Design Studio 1.2A
+|   |   Fatigue.nfo
+|   |   File_id.diz
+|   |   INSTALL.TXT
+|   |   eds12a.exe
+|   |   
+|   \---crack
+|           esd12a_patch.exe
+|           
++---Electronics Workbench MultiSim Power Pro v8.028
+|   |   Electronics.Workbench.MultiSim.Power.Pro.v8.028-F4CG.nfo
+|   |   F4CG.NFO
+|   |   MultiSim8_install_fix.reg
+|   |   sn.txt
+|   |   
+|   +---MsiStub
+|   |   \---{D4A60854-46CB-43ED-B156-7048DE4488CA}
+|   |           Multisim 8 Trial.msi
+|   |           
+|   \---setup
+|       |   50COMUPD.EXE
+|       |   Autorun.inf
+|       |   Setup.bmp
+|       |   data1.cab
+|       |   data1.hdr
+|       |   data2.cab
+|       |   engine32.cab
+|       |   layout.bin
+|       |   setup.exe
+|       |   setup.ibt
+|       |   setup.ini
+|       |   setup.inx
+|       |   
+|       \---support and upgrade
+|           |   0x0409.ini
+|           |   EWB Support and Upgrade Utility.msi
+|           |   Setup.ini
+|           |   instmsia.exe
+|           |   instmsiw.exe
+|           |   setup.exe
+|           |   
+|           +---System32
+|           |   \---Redist
+|           |       \---MS
+|           |           \---System
+|           |                   asycfilt.dll
+|           |                   comcat.dll
+|           |                   msvbvm60.dll
+|           |                   msvcrt.dll
+|           |                   mswinsck.ocx
+|           |                   oleaut32.dll
+|           |                   olepro32.dll
+|           |                   stdole2.tlb
+|           |                   
+|           \---program files
+|               \---Electronics Workbench
+|                   \---Support and Upgrade Utility
+|                           Bang.bmp
+|                           ButtonLeftCurve.bmp
+|                           ButtonRightCurve.bmp
+|                           Link.bmp
+|                           MessageSeperator.bmp
+|                           Release.txt
+|                           SUU.cnt
+|                           SUU.exe
+|                           SUU.hlp
+|                           
++---Microcontroller Simulator
+|   |   Serial.txt
+|   |   
+|   \---MicroSim
+|           01FIRST.ASM
+|           02TLIGHT.ASM
+|           03MOVE.ASM
+|           04INCJMP.ASM
+|           05KEYBIN.ASM
+|           06PROC.ASM
+|           07TEXTIO.ASM
+|           08TABLE.ASM
+|           09PARAM.ASM
+|           10SWINT.ASM
+|           11HWINT.ASM
+|           99HOFF.ASM
+|           99HON.ASM
+|           99KEYB.ASM
+|           99NASTY.ASM
+|           99SEVSEG.ASM
+|           99SNAKE.ASM
+|           99STEP.ASM
+|           99TLIGHT.ASM
+|           ARITH.ASM
+|           CALL.ASM
+|           CMP.ASM
+|           DEMO.ASM
+|           FIBONCCI.ASM
+|           HEATCOOL.ASM
+|           HW_INT.ASM
+|           INT.ASM
+|           ISET.ASM
+|           JO_JNO.ASM
+|           JS_JNS.ASM
+|           JZ_JNZ.ASM
+|           LIFT.ASM
+|           LOGIC.ASM
+|           MAZE.ASM
+|           MOV.ASM
+|           README.TXT
+|           SMS32V23.DOC
+|           SMS32V23.EXE
+|           SMS32V23.HLP
+|           SMS32V23.INI
+|           SSEG_HW.ASM
+|           STACK.ASM
+|           STEP-ROT.ASM
+|           STICLI.ASM
+|           Userinfo.Reg
+|           
++---Orcad Unison Suite Pro v10.0
+|   |   AUTORUN.INF
+|   |   Hinstall.exe
+|   |   Orcad Unison Suite Pro v10.0.cue
+|   |   Readme.txt
+|   |   Setup.exe
+|   |   Setup.ini
+|   |   Superpro.exe
+|   |   data1.cab
+|   |   data1.hdr
+|   |   data2.cab
+|   |   ikernel.ex_
+|   |   kit.log
+|   |   layout.bin
+|   |   orcInstall.pdf
+|   |   setconfig.exe
+|   |   setup.bmp
+|   |   setup.inx
+|   |   
+|   +---Cadence OrCAD 10 KeyGen
+|   |   \---Crack
+|   |           CadKG.exe
+|   |           INSTALLINFO.TXT
+|   |           LICENSE.DAT
+|   |           MakeFloat.bat
+|   |           MakeLic.bat
+|   |           ReadME.txt
+|   |           
+|   +---Dongles
+|   |   +---Hasp
+|   |   |       HINSTALL.EXE
+|   |   |       hdd.hlp
+|   |   |       readme.txt
+|   |   |       
+|   |   \---Rainbow
+|   |       +---Sentinel Medic
+|   |       |   |   ReadMe.txt
+|   |       |   |   SC32W.DLL
+|   |       |   |   SK32W.DLL
+|   |       |   |   SP32W.DLL
+|   |       |   |   SX32W.DLL
+|   |       |   |   SentMed.exe
+|   |       |   |   
+|   |       |   \---driver
+|   |       |       |   Readme.txt
+|   |       |       |   Sentinel.ddp
+|   |       |       |   Setup.exe
+|   |       |       |   
+|   |       |       +---Win_9x
+|   |       |       |   |   Sentw9x.gid
+|   |       |       |   |   sentinel.vxd
+|   |       |       |   |   sentstrt.exe
+|   |       |       |   |   sentw9x.dll
+|   |       |       |   |   sentw9x.exe
+|   |       |       |   |   sentw9x.hlp
+|   |       |       |   |   sntnlusb.ifx
+|   |       |       |   |   sntusb95.ifx
+|   |       |       |   |   
+|   |       |       |   +---Usb95
+|   |       |       |   |       sntusb95.inf
+|   |       |       |   |       sntusb95.sys
+|   |       |       |   |       
+|   |       |       |   \---Usb98
+|   |       |       |           sntnlusb.inf
+|   |       |       |           sntnlusb.sys
+|   |       |       |           
+|   |       |       \---Win_NT
+|   |       |           |   setupx86.exe
+|   |       |           |   snti386.dll
+|   |       |           |   
+|   |       |           \---i386
+|   |       |                   rnbovtmp.dll
+|   |       |                   sentinel.hlp
+|   |       |                   senttemp.sys
+|   |       |                   sntnlusb.ifx
+|   |       |                   sntnlusb.inf
+|   |       |                   sntnlusb.sys
+|   |       |                   
+|   |       +---WIN_9x
+|   |       |   |   sentinel.vxd
+|   |       |   |   sentstrt.exe
+|   |       |   |   sentw9x.dll
+|   |       |   |   sentw9x.exe
+|   |       |   |   sentw9x.hlp
+|   |       |   |   sntnlusb.ifx
+|   |       |   |   sntusb95.ifx
+|   |       |   |   
+|   |       |   +---USB95
+|   |       |   |       sntusb95.inf
+|   |       |   |       sntusb95.sys
+|   |       |   |       
+|   |       |   \---USB98
+|   |       |           sntnlusb.inf
+|   |       |           sntnlusb.sys
+|   |       |           
+|   |       \---WIN_NT
+|   |           |   setupaxp.exe
+|   |           |   setupppc.exe
+|   |           |   setupx86.exe
+|   |           |   sntalpha.dll
+|   |           |   snti386.dll
+|   |           |   sntppc.dll
+|   |           |   
+|   |           +---ALPHA
+|   |           |       rnbovtmp.dll
+|   |           |       sentinel.hlp
+|   |           |       senttemp.sys
+|   |           |       
+|   |           +---I386
+|   |           |       rnbovtmp.dll
+|   |           |       sentinel.hlp
+|   |           |       senttemp.sys
+|   |           |       sntnlusb.cat
+|   |           |       sntnlusb.ifx
+|   |           |       sntnlusb.inf
+|   |           |       sntnlusb.sys
+|   |           |       
+|   |           \---PPC
+|   |                   rnbovtmp.dll
+|   |                   sentinel.hlp
+|   |                   senttemp.sys
+|   |                   
+|   +---FLEXlm
+|   |   |   LMGRD.EXE
+|   |   |   LMUTIL.EXE
+|   |   |   cdslmd.exe
+|   |   |   flexlm.cpl
+|   |   |   lmgr326b.dll
+|   |   |   lmtools.exe
+|   |   |   
+|   |   +---Flexid8
+|   |   |   |   flexid.exe
+|   |   |   |   
+|   |   |   +---Win95drv
+|   |   |   |       setup.exe
+|   |   |   |       
+|   |   |   \---Winntdrv
+|   |   |           setup.exe
+|   |   |           
+|   |   +---NetTest
+|   |   |       NETTEST.HLP
+|   |   |       Nettest.cnt
+|   |   |       nethasp.dll
+|   |   |       nettest.exe
+|   |   |       
+|   |   \---flexid9
+|   |           flexid.exe
+|   |           hinstall.exe
+|   |           hinstd.dll
+|   |           readme.txt
+|   |           
+|   +---LM
+|   |       Setup.exe
+|   |       Setup.ini
+|   |       data1.cab
+|   |       data1.hdr
+|   |       data2.cab
+|   |       ikernel.ex_
+|   |       layout.bin
+|   |       setup.bmp
+|   |       setup.inx
+|   |       
+|   +---MDAC
+|   |       mdac_typ.exe
+|   |       
+|   +---NRClient
+|   |       Setup.exe
+|   |       Setup.ini
+|   |       data1.cab
+|   |       data1.hdr
+|   |       data2.cab
+|   |       ikernel.ex_
+|   |       layout.bin
+|   |       setup.bmp
+|   |       setup.inx
+|   |       
+|   +---crack
+|   |       license.dat
+|   |       unison_install.txt
+|   |       
+|   \---orcadfnc
+|           orcadfnc.dll
+|           
++---PCB DESIGNER V1.5.4
+|   |   FILE_ID.DIZ
+|   |   PCBFULL.EXE
+|   |   
+|   \---KEYMAKER
+|           PCBD154_KG.EXE
+|           
++---Pintar VirtuaLab Electronics 1.0
+|       BELLRING.WA_
+|       BURN.WA_
+|       CLIPPER.TR_
+|       CONNECT.WA_
+|       DELETE.WA_
+|       DRAG.WA_
+|       DRW3216.DL_
+|       ENGINE.EX_
+|       ENTER.WA_
+|       EXIT.WA_
+|       INTEGRAL.TR_
+|       LIMITER.TR_
+|       MOS.TR_
+|       PHYRW.DL_
+|       PHYRW32.DL_
+|       RCCHARGE.TR_
+|       RC_OSC.TR_
+|       RECTIFY.TR_
+|       REGISTER.DL_
+|       SWITCH.WA_
+|       Setup.exe
+|       Setup.ini
+|       TERMDOWN.WA_
+|       TRANSIST.TR_
+|       TRON.DL_
+|       TRON.EX_
+|       TRON.HL_
+|       UNDO.WA_
+|       VIEWS.WA_
+|       WARNING.WA_
+|       register.exe
+|       
++---Programable Control (PLC)
+|   \---Toshiba
+|       +---EX-Series
+|       |       PDT.EXE
+|       |       
+|       \---T3 (TPDS)
+|               TPDS.EXE
+|               TPDS.SYS
+|               TPDS.T1
+|               TPDS.T2
+|               TPDS.T3
+|               TPDS.T3H
+|               TPDSDOC1.OVL
+|               TPDSDOC2.OVL
+|               TPDSDOC3.OVL
+|               TPDSDOC4.OVL
+|               TPDSDOC5.OVL
+|               TPDSDOC6.OVL
+|               TPDSDOC7.OVL
+|               TPDSDOC8.OVL
+|               TPDSDOC9.OVL
+|               
++---Protel Advanced PCB 2.71
+|       BWCC.DL$
+|       DEMO1.NE$
+|       DEMO1.PC$
+|       DEMO2.LI$
+|       DEMO2.NE$
+|       DEMO2.PC$
+|       DEMOSMD.PC$
+|       INSTALL.BMP
+|       INSTALL.EX$
+|       INSTALL.INS
+|       PCB94.LI$
+|       PFW.EX$
+|       PFW.HL$
+|       PFW.LI$
+|       PFW.PA$
+|       PFW.XR$
+|       PFWDEMO.LI$
+|       RDEMO1AP.PC$
+|       RDEMO2AP.PC$
+|       RDEMOSMD.PC$
+|       README.TX$
+|       RPCB94.PC$
+|       SERIALNO.TXT
+|       SETUP.EXE
+|       
+\---Protel Printed Circuit Board
+        BWCC.DL$
+        CRACK.EXE
+        DEMO1.NE$
+        DEMO1.PC$
+        DEMO2.NE$
+        DEMO2.PC$
+        DEMOSMD.PC$
+        INSTALL.EX$
+        INSTALL.INS
+        PFW.EX$
+        PFW.HL$
+        PFW.LI$
+        PFW.PA$
+        PFW.XR$
+        PFWFULL.BMP
+        RDEMO1AP.PC$
+        RDEMO2AP.PC$
+        README.1ST
+        README.TX$
+        SERIALNO.TXT
+        SETUP.EXE
+        

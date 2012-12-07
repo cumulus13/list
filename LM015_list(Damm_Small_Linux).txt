@@ -1,0 +1,50 @@
+ Volume in drive J is KNOPPIX
+ Volume Serial Number is 9716-CD42
+
+ Directory of J:\
+
+03/28/2006  10:28 PM    <DIR>          KNOPPIX
+07/25/2004  03:13 PM    <DIR>          boot
+05/03/2004  12:00 PM               391 index.html
+08/07/2004  07:16 AM    <DIR>          lost+found
+               1 File(s)            391 bytes
+
+ Directory of J:\KNOPPIX
+
+03/28/2006  10:28 PM    <DIR>          .
+01/24/2006  04:44 AM    <DIR>          ..
+03/28/2006  10:37 PM        49,341,366 KNOPPIX
+               1 File(s)     49,341,366 bytes
+
+ Directory of J:\boot
+
+07/25/2004  03:13 PM    <DIR>          .
+01/24/2006  04:44 AM    <DIR>          ..
+02/10/2006  12:54 AM    <DIR>          isolinux
+               0 File(s)              0 bytes
+
+ Directory of J:\boot\isolinux
+
+02/10/2006  12:54 AM    <DIR>          .
+07/25/2004  03:13 PM    <DIR>          ..
+03/28/2006  10:37 PM             2,048 boot.cat
+05/20/2005  03:22 AM               119 boot.msg
+08/17/2005  11:34 PM             1,592 f2
+01/28/2006  01:41 AM             1,595 f3
+07/25/2004  03:13 PM               256 german.kbd
+03/28/2006  08:03 AM             9,404 isolinux.bin
+08/03/2005  11:38 PM             2,453 isolinux.cfg
+06/01/2005  03:54 AM           994,807 linux24
+06/13/2005  09:02 PM            33,780 logo.16
+03/07/2006  05:30 AM           798,309 minirt24.gz
+              10 File(s)      1,844,363 bytes
+
+ Directory of J:\lost+found
+
+08/07/2004  07:16 AM    <DIR>          .
+01/24/2006  04:44 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              12 File(s)     51,186,120 bytes
+              12 Dir(s)               0 bytes free

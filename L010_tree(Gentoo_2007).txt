@@ -1,0 +1,542 @@
+Folder PATH listing for volume DVD-IL082007
+Volume serial number is 3C0F-E2C9
+F:\
+|   MD5SUM
+|   livecd.sqfs
+|   
++---IL-082007
+|   +---billing_warnet
+|   |   +---blue_net_cafe_timer
+|   |   |       BNCTimerPanel.tar.gz
+|   |   |       BNCTimerServer.tar.gz
+|   |   |       
+|   |   +---ccl-0.7.0
+|   |   |       cclcfox-0.7.0.tar.bz2
+|   |   |       cclfox-0.7.0.tar.bz2
+|   |   |       libcclc-0.7.0.tar.bz2
+|   |   |       libccls-0.7.0.tar.bz2
+|   |   |       
+|   |   +---cyborg-0.1.19
+|   |   |       cyborg-0.1.19.tgz
+|   |   |       zbdesk-linux-2.0.4.tgz
+|   |   |       
+|   |   +---openpdv-0.0.1
+|   |   |       openpdv0.0.1.tar.bz
+|   |   |       
+|   |   +---playbilling-1.2
+|   |   |       playbilling-1.2.tar.bz2
+|   |   |       
+|   |   +---ppa-1.4
+|   |   |       ppa-1.4.tar.gz
+|   |   |       
+|   |   \---zeiburde-2.0.4
+|   |           zeiberbude-2.0.4.tar.gz
+|   |           
+|   +---browser
+|   |   +---firefox-2.0.0.4
+|   |   |       firefox-2.0.0.4.tar.gz
+|   |   |       
+|   |   \---opera-9.21
+|   |       +---static-deb
+|   |       |       opera-9.21-20070510.1-static-qt.i386-en.tar.gz
+|   |       |       
+|   |       \---static-rpm
+|   |               opera-9.21-20070510.1-static-qt.i386-en.tar.gz
+|   |               
+|   +---cd_dvd_burning
+|   |   \---bashburn-2.1
+|   |           BashBurn-2.1.tar.gz
+|   |           
+|   +---codecs
+|   |   \---video
+|   |           all-20061022.tar.bz2
+|   |           
+|   +---desktop
+|   |   +---dropline_gnome-2.16
+|   |   |       dropline-installer-2.16-i686-2dl.tgz
+|   |   |       
+|   |   \---k_menu_gnome-0.6.5
+|   |       +---debian
+|   |       |       31031-kmenu-gnome_0.6.5-1_all.deb
+|   |       |       
+|   |       +---slackware
+|   |       |       31028-kmenu-gnome-0.6.5-noarch-1.tgz
+|   |       |       
+|   |       \---source
+|   |               31025-kmenu-gnome-0.6.5.tar.gz
+|   |               
+|   +---development
+|   |   +---boa_constructor-0.4.4
+|   |   |       boa-constructor-0.4.4.zip
+|   |   |       
+|   |   +---dialogblocks-4.10
+|   |   |       DialogBlocks-4.10-i386-gtk2-unicode.tar.gz
+|   |   |       
+|   |   +---eclipse_sdk-3.2.2
+|   |   |       eclipse-SDK-3.2.2-linux-gtk.tar.gz
+|   |   |       
+|   |   +---gambas2-1.9.49
+|   |   |       gambas2-1.9.49.tar.bz2
+|   |   |       
+|   |   +---glade3-3.1.5
+|   |   |       glade3-3.1.5.tar.gz
+|   |   |       
+|   |   +---jre_6u1
+|   |   |       jre-6u1-linux-i586.bin
+|   |   |       
+|   |   +---netbeans-5.5.1
+|   |   |       jdk-6u1-nb-5_5_1-linux-ml.bin
+|   |   |       
+|   |   +---pythoncard-0.8.2
+|   |   |       PythonCard-0.8.2.tar.gz
+|   |   |       
+|   |   +---upp-2007.1
+|   |   |       upp-2007.1.tar.gz
+|   |   |       
+|   |   \---wxdesigneru-2.14-0
+|   |           wxDesignerU-2.14-0.i386.rpm
+|   |           
+|   +---distro
+|   |   +---gentoo-livecd-i686-installer-2007.0
+|   |   |       MD5SUM
+|   |   |       livecd-i686-installer-2007.0.iso
+|   |   |       
+|   |   +---pinux-1
+|   |   |       MD5SUM
+|   |   |       Pinux-1-i686-disc1.iso
+|   |   |       Pinux-1-i686-disc2.iso
+|   |   |       
+|   |   +---zencafe-1.0
+|   |   |       MD5SUM
+|   |   |       zencafe-1.0.iso
+|   |   |       
+|   |   \---zenserver-0.5
+|   |           MD5SUM
+|   |           zenserver-0.5.iso
+|   |           
+|   +---driver
+|   |   +---modem
+|   |   |   +---hcf-modem-1.12
+|   |   |   |       cnxtinstall.run
+|   |   |   |       hcfpcimodem-1.12full-1.i386.rpm.zip
+|   |   |   |       hcfpcimodem-1.12full.tar.gz
+|   |   |   |       hcfpcimodem_1.12full_i386.deb.zip
+|   |   |   |       
+|   |   |   +---hsf-modem-7.60
+|   |   |   |       cnxtinstall.run
+|   |   |   |       hsfmodem-7.60.00.02full-1.i386.rpm.zip
+|   |   |   |       hsfmodem-7.60.00.02full.tar.gz
+|   |   |   |       hsfmodem_7.60.00.02full_i386.deb.zip
+|   |   |   |       
+|   |   |   \---smartlink-2.9.11
+|   |   |           scanModem.gz
+|   |   |           slmodem-2.9.11-20070422.tar.gz
+|   |   |           slmodem-last-2.6.19.1.patch.gz
+|   |   |           ungrab-winmodem.tar.gz
+|   |   |           
+|   |   +---vga_card
+|   |   |   +---ati
+|   |   |   |   \---radeon_xpress_1250
+|   |   |   |           ati-driver-installer-8.37.6-x86.x86_64.run
+|   |   |   |           
+|   |   |   \---nvidia
+|   |   |       |   bacasaya
+|   |   |       |   license
+|   |   |       |   nvidia-installer-HOWTO.html
+|   |   |       |   
+|   |   |       +---vga_baru
+|   |   |       |       NVIDIA-Linux-x86-1.0-9639-pkg1.run
+|   |   |       |       NVIDIA-Linux-x86_64-1.0-9639-pkg2.run
+|   |   |       |       
+|   |   |       \---vga_lama
+|   |   |               NVIDIA-Linux-x86-1.0-7185-pkg1.run
+|   |   |               NVIDIA-Linux-x86_64-1.0-7185-pkg2.run
+|   |   |               
+|   |   \---wlan
+|   |       +---madwifi-0.9.3.1
+|   |       |       madwifi-0.9.3.1.tar.gz
+|   |       |       
+|   |       \---rt-2x00
+|   |           +---doc
+|   |           |   |   Debian-rt2500-Howto.html
+|   |           |   |   Ubuntu-RalinkRT2500.html
+|   |           |   |   Ubuntu-RalinkRT61.html
+|   |           |   |   openSUSE-10.2-And-RT2x00-Wireless-Cards.html
+|   |           |   |   rt2400-installation-guide.txt
+|   |           |   |   rt2570_fc4_howto.html
+|   |           |   |   
+|   |           |   +---Debian-rt2500-Howto_files
+|   |           |   |       about_button.gif
+|   |           |   |       button_box_end.gif
+|   |           |   |       docs_button.gif
+|   |           |   |       download_button.gif
+|   |           |   |       forum_button.gif
+|   |           |   |       hardware_button.gif
+|   |           |   |       heading_right.gif
+|   |           |   |       heading_tile.gif
+|   |           |   |       lists_button.gif
+|   |           |   |       menu_tab.gif
+|   |           |   |       menu_tile.gif
+|   |           |   |       news_button.gif
+|   |           |   |       project_button.gif
+|   |           |   |       sflogo.php
+|   |           |   |       who_button.gif
+|   |           |   |       wikibits.js
+|   |           |   |       wikiprintable.css
+|   |           |   |       
+|   |           |   +---Ubuntu-RalinkRT2500_files
+|   |           |   |       common.css
+|   |           |   |       icon-info.png
+|   |           |   |       print.css
+|   |           |   |       projection.css
+|   |           |   |       screen.css
+|   |           |   |       u-www.png
+|   |           |   |       
+|   |           |   +---Ubuntu-RalinkRT61_files
+|   |           |   |       common.css
+|   |           |   |       print.css
+|   |           |   |       projection.css
+|   |           |   |       screen.css
+|   |           |   |       u-www.png
+|   |           |   |       
+|   |           |   +---openSUSE-10.2-And-RT2x00-Wireless-Cards_files
+|   |           |   |   |   1001291av0.jpg
+|   |           |   |   |   25822676_789bf55448_t.jpg
+|   |           |   |   |   2777572964881092520otq0.png
+|   |           |   |   |   288329376_1bd5c94d20_t.jpg
+|   |           |   |   |   300077176_e74d9f10c1_t.jpg
+|   |           |   |   |   308453448_c049076c06_t.jpg
+|   |           |   |   |   411183372_ecccf2d94b_t.jpg
+|   |           |   |   |   411183373_6e827da6bf_t.jpg
+|   |           |   |   |   88x31.png
+|   |           |   |   |   EazyVG.gif
+|   |           |   |   |   Icon-wifi.png
+|   |           |   |   |   a
+|   |           |   |   |   akismet.css
+|   |           |   |   |   botd.gif
+|   |           |   |   |   counter.php
+|   |           |   |   |   displayimg.php
+|   |           |   |   |   firefoxspreadbtn1beg2.png
+|   |           |   |   |   g.gif
+|   |           |   |   |   get_os_ribbon_03.gif
+|   |           |   |   |   getnosoftwarepatents80x1524rq.png
+|   |           |   |   |   getopenoffice20m80x1524ox.png
+|   |           |   |   |   i-love-india.gif
+|   |           |   |   |   ipimage.php
+|   |           |   |   |   itunescoverpc9.jpg
+|   |           |   |   |   joinfsf03dc1.png
+|   |           |   |   |   licenseoss80x152ea8.png
+|   |           |   |   |   linux-32.jpg
+|   |           |   |   |   linux26ud.png
+|   |           |   |   |   load
+|   |           |   |   |   loading.gif
+|   |           |   |   |   logo_wordpress.gif
+|   |           |   |   |   mapkit
+|   |           |   |   |   meter.asp
+|   |           |   |   |   opensuse1me7.gif
+|   |           |   |   |   opensuse7tg1.gif
+|   |           |   |   |   quant.js
+|   |           |   |   |   recent_videos.js
+|   |           |   |   |   rss.png
+|   |           |   |   |   screenshot1.png
+|   |           |   |   |   screenshot2.png
+|   |           |   |   |   screenshot3.png
+|   |           |   |   |   screenshot4.png
+|   |           |   |   |   screenshot5.png
+|   |           |   |   |   screenshot6.png
+|   |           |   |   |   snap_preview_anywhere.js
+|   |           |   |   |   t.gif
+|   |           |   |   |   tech-logo-embed.gif
+|   |           |   |   |   urchin.js
+|   |           |   |   |   url_data.jpg
+|   |           |   |   |   url_data_002.jpg
+|   |           |   |   |   url_data_003.jpg
+|   |           |   |   |   views_small.gif
+|   |           |   |   |   vodpod_logo_white.png
+|   |           |   |   |   w.js
+|   |           |   |   |   wp20buttonsmalltrans2gdsa9.gif
+|   |           |   |   |   
+|   |           |   |   \---mapkit_data
+|   |           |   |           api_combined.js
+|   |           |   |           kh
+|   |           |   |           kh_002
+|   |           |   |           kh_003
+|   |           |   |           kh_004
+|   |           |   |           kh_005
+|   |           |   |           kh_006
+|   |           |   |           kh_007
+|   |           |   |           kh_008
+|   |           |   |           kh_009
+|   |           |   |           kh_010
+|   |           |   |           kh_011
+|   |           |   |           kh_012
+|   |           |   |           mapkit_combined.js
+|   |           |   |           maps
+|   |           |   |           maps2.js
+|   |           |   |           maps_002
+|   |           |   |           maps_003
+|   |           |   |           mt
+|   |           |   |           mt_002
+|   |           |   |           mt_003
+|   |           |   |           mt_004
+|   |           |   |           mt_005
+|   |           |   |           mt_006
+|   |           |   |           mt_007
+|   |           |   |           mt_008
+|   |           |   |           mt_009
+|   |           |   |           mt_010
+|   |           |   |           mt_011
+|   |           |   |           mt_012
+|   |           |   |           poweredby.png
+|   |           |   |           rest
+|   |           |   |           skinny_arrow.gif
+|   |           |   |           transparent.png
+|   |           |   |           
+|   |           |   \---rt2570_fc4_howto_files
+|   |           |           rt2570_fc4_howto_html_3d49a064.png
+|   |           |           rt2570_fc4_howto_html_b9d8cfb.png
+|   |           |           rt2570_fc4_howto_html_m24139cbb.png
+|   |           |           rt2570_fc4_howto_html_m25ef04de.png
+|   |           |           rt2570_fc4_howto_html_m3bda5eb6.png
+|   |           |           rt2570_fc4_howto_html_m77e71aa3.png
+|   |           |           
+|   |           +---rt2400
+|   |           |       rt2400-cvs-daily.tar.gz
+|   |           |       
+|   |           +---rt2500
+|   |           |       rt2500-cvs-daily.tar.gz
+|   |           |       
+|   |           +---rt2570
+|   |           |       rt2570-cvs-daily.tar.gz
+|   |           |       
+|   |           +---rt61
+|   |           |       rt61-cvs-daily.tar.gz
+|   |           |       
+|   |           \---rt73
+|   |                   rt73-cvs-daily.tar.gz
+|   |                   
+|   +---e_book
+|   |   \---bookreader-0.1.1
+|   |           bookreader-0.1.1.tar.bz2
+|   |           
+|   +---email
+|   |   \---thunderbird-2.0.0.4
+|   |           thunderbird-2.0.0.4.tar.gz
+|   |           
+|   +---grafik
+|   |   \---digikam-0.9.2
+|   |           digikam-0.9.2-final.tar.bz2
+|   |           
+|   +---komunikasi
+|   |   +---gpsman-6.3.2
+|   |   |       gpsman-6.3.2.tgz
+|   |   |       
+|   |   \---skype-1.4.0.74
+|   |           skype-1.4.0.74-static.tar.bz2
+|   |           skype-1.4.0.74.deb
+|   |           skype-1.4.0.74.rpm
+|   |           skype-1.4.0.74.tar.bz2
+|   |           
+|   +---manajemen_informasi
+|   |   +---goat-1.2
+|   |   |       goat-1.2.tar.gz
+|   |   |       
+|   |   +---noah-3.1.1
+|   |   |       noah-linux-3-1-1p.bin
+|   |   |       
+|   |   \---wxremind-0.9.0
+|   |           wxRemind-0.9.0.tgz
+|   |           
+|   +---matematika
+|   |   \---scilab-4.1.1
+|   |           man-eng-scilab-4.1.1.tar.gz
+|   |           scilab-4.1.1.bin.linux-i686.tar.gz
+|   |           
+|   +---multimedia
+|   |   +---ampache-3.3.3.3
+|   |   |       ampache-3.3.3.3.tar.gz
+|   |   |       
+|   |   \---kid3-0.9
+|   |           kid3-0.9.tar.gz
+|   |           
+|   +---office
+|   |   \---openoffice-2.2.1
+|   |           OOo_2.2.1_LinuxIntel_install_wJRE_en-US.tar.gz
+|   |           
+|   +---penting
+|   |   \---kernel
+|   |       +---v2.4
+|   |       |       linux-2.4.34.5.tar.bz2
+|   |       |       
+|   |       \---v2.6
+|   |               linux-2.6.21.5.tar.bz2
+|   |               
+|   +---permainan
+|   |   \---vamos-0.5.7
+|   |           vamos-0.5.7.tar.gz
+|   |           
+|   +---plugins
+|   |   \---flash-plugin-9.0
+|   |           install_flash_player_9_linux.tar.gz
+|   |           
+|   +---rubrik
+|   |   +---game
+|   |   |   +---barbie-1.0
+|   |   |   |       barbie-1.0.tar.gz
+|   |   |   |       
+|   |   |   \---hex_a_hop_1.0.0
+|   |   |           hex-a-hop.tar.gz
+|   |   |           
+|   |   +---software
+|   |   |   \---pessulus-2.16.0
+|   |   |           pessulus-2.16.0.tar.gz
+|   |   |           
+|   |   +---solusi
+|   |   |       export_movie.php
+|   |   |       moviesite.sql
+|   |   |       
+|   |   +---tutorial
+|   |   |   +---ps_script
+|   |   |   |       nps
+|   |   |   |       
+|   |   |   +---system_call
+|   |   |   |       s_abort.c
+|   |   |   |       s_getpid.c
+|   |   |   |       s_getppid.c
+|   |   |   |       s_kill_1.c
+|   |   |   |       s_kill_2.c
+|   |   |   |       
+|   |   |   \---vcd_imager
+|   |   |           vcdimager-0.7.23.tar.gz
+|   |   |           
+|   |   \---workshop
+|   |       +---debian_package
+|   |       |       apache2-mpm-prefork_2.2.3-3.2build1_i386.deb
+|   |       |       apache2-utils_2.2.3-3.2build1_i386.deb
+|   |       |       apache2.2-common_2.2.3-3.2build1_i386.deb
+|   |       |       apache2_2.2.3-3.2build1_all.deb
+|   |       |       libapache2-mod-php5_5.2.1-0ubuntu1_i386.deb
+|   |       |       libapr1_1.2.7-8.1_i386.deb
+|   |       |       libaprutil1_1.2.7+dfsg-2build1_i386.deb
+|   |       |       libdbd-mysql-perl_3.0008-1build1_i386.deb
+|   |       |       libdbi-perl_1.53-1build1_i386.deb
+|   |       |       libmysqlclient15off_5.0.38-0ubuntu1_i386.deb
+|   |       |       libnet-daemon-perl_0.38-1.1_all.deb
+|   |       |       libpcre3_6.7-1ubuntu2_i386.deb
+|   |       |       libplrpc-perl_0.2017-1.1_all.deb
+|   |       |       libpq5_8.2.3-3_i386.deb
+|   |       |       mysql-client-5.0_5.0.38-0ubuntu1_i386.deb
+|   |       |       mysql-client_5.0.38-0ubuntu1_all.deb
+|   |       |       mysql-common_5.0.38-0ubuntu1_all.deb
+|   |       |       mysql-server-5.0_5.0.38-0ubuntu1_i386.deb
+|   |       |       mysql-server_5.0.38-0ubuntu1_all.deb
+|   |       |       php5-common_5.2.1-0ubuntu1_i386.deb
+|   |       |       php5-mysql_5.2.1-0ubuntu1_i386.deb
+|   |       |       
+|   |       +---koneksi_php_ke_database_mysql
+|   |       |       createmovie.php
+|   |       |       moviedata.php
+|   |       |       select.php
+|   |       |       
+|   |       \---konfigurasi_dasar_php_mysql_apache
+|   |               info.php
+|   |               
+|   +---sistem
+|   |   +---monitorix-0.9.2
+|   |   |       monitorix-0.9.2.tar.gz
+|   |   |       
+|   |   \---skulker-0.2.6
+|   |           Skulker_v2_install_guide_se1.0.pdf
+|   |           skulker2,0-2-6,Linux.tarp.gz
+|   |           skulker2-0.2.6-1.noarch.rpm
+|   |           skulker2_0.2.6.deb
+|   |           
+|   +---sistem_file
+|   |   \---ntfs_3g-1.616
+|   |           ntfs-3g-1.616.tgz
+|   |           
+|   \---utility
+|       \---ndiswrapper-1.47
+|               ndiswrapper-1.47.tar.gz
+|               
++---boot
+|   \---grub
++---indeks_debian_package
+|       Packages.gz
+|       
+\---isolinux
+        16x16.fnt
+        back.jpg
+        bg.hlp
+        bg.tr
+        boot.cat
+        bootlogo
+        bs.tr
+        cs.hlp
+        cs.tr
+        cy.tr
+        da.hlp
+        da.tr
+        de.hlp
+        de.tr
+        el.hlp
+        el.tr
+        en.hlp
+        en.tr
+        es.hlp
+        es.tr
+        et.tr
+        fi.hlp
+        fi.tr
+        fr.hlp
+        fr.tr
+        hu.hlp
+        hu.tr
+        id.tr
+        initrd.gz
+        is.tr
+        isolinux.bin
+        isolinux.cfg
+        it.hlp
+        it.tr
+        ja.hlp
+        ja.tr
+        lt.tr
+        ltg.tr
+        mediacheck
+        memtest
+        mk.tr
+        nb.hlp
+        nb.tr
+        nl.hlp
+        nl.tr
+        nn.tr
+        pclinuxos.pcx
+        pl.hlp
+        pl.tr
+        pt.hlp
+        pt.tr
+        pt_BR.hlp
+        pt_BR.tr
+        ro.tr
+        ru.hlp
+        ru.tr
+        sk.tr
+        sl.hlp
+        sl.tr
+        sr.tr
+        sr@Latn.tr
+        star.dat
+        sv.hlp
+        sv.tr
+        timer_a.jpg
+        uk.hlp
+        uk.tr
+        vmlinuz
+        wa.tr
+        welcome.jpg
+        zh_CN.hlp
+        zh_CN.tr
+        zh_TW.hlp
+        zh_TW.tr
+        

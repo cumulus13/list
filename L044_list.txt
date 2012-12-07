@@ -1,0 +1,1056 @@
+ Volume in drive G is Infolinux
+ Volume Serial Number is 760E-1F87
+
+ Directory of G:\
+
+06/04/2003  12:09 PM    <DIR>          .disk
+06/04/2003  12:16 PM    <DIR>          dists
+06/04/2003  04:29 PM    <DIR>          freecraft
+06/04/2003  04:29 PM    <DIR>          jetty
+06/04/2003  04:28 PM    <DIR>          obox
+06/04/2003  04:28 PM    <DIR>          openoffice
+06/04/2003  12:16 PM    <DIR>          pool
+06/04/2003  04:28 PM    <DIR>          vnc
+               0 File(s)              0 bytes
+
+ Directory of G:\.disk
+
+06/04/2003  12:09 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  12:09 PM                 5 base_components
+06/04/2003  12:09 PM                 0 base_installable
+06/04/2003  12:13 PM                55 info
+06/04/2003  12:09 PM                 0 kernel_installable
+               4 File(s)             60 bytes
+
+ Directory of G:\dists
+
+06/04/2003  12:16 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+04/19/2003  01:44 PM    <DIR>          stable
+               0 File(s)              0 bytes
+
+ Directory of G:\dists\stable
+
+04/19/2003  01:44 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+04/19/2003  01:46 PM    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of G:\dists\stable\main
+
+04/19/2003  01:46 PM    <DIR>          .
+04/19/2003  01:44 PM    <DIR>          ..
+06/04/2003  12:19 PM    <DIR>          binary-i386
+               0 File(s)              0 bytes
+
+ Directory of G:\dists\stable\main\binary-i386
+
+06/04/2003  12:19 PM    <DIR>          .
+04/19/2003  01:46 PM    <DIR>          ..
+06/04/2003  12:19 PM            78,718 Packages.gz
+               1 File(s)         78,718 bytes
+
+ Directory of G:\freecraft
+
+06/04/2003  04:29 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  05:35 PM         8,338,255 fcmp-030311.tar.gz
+06/04/2003  05:35 PM         2,379,454 freecraft-030311-linux.tar.gz
+               2 File(s)     10,717,709 bytes
+
+ Directory of G:\jetty
+
+06/04/2003  04:29 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  05:35 PM         5,871,505 Jetty-4.2.9.tgz
+               1 File(s)      5,871,505 bytes
+
+ Directory of G:\obox
+
+06/04/2003  04:28 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  05:25 PM       165,701,882 obox-2.0-community-linux.tar.gz
+               1 File(s)    165,701,882 bytes
+
+ Directory of G:\openoffice
+
+06/04/2003  04:28 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  05:34 PM        73,618,518 OOo_1.0.3.1_LinuxIntel_install.tar.gz
+               1 File(s)     73,618,518 bytes
+
+ Directory of G:\pool
+
+06/04/2003  12:16 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  12:16 PM    <DIR>          stable
+               0 File(s)              0 bytes
+
+ Directory of G:\pool\stable
+
+06/04/2003  12:16 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+04/21/2003  10:59 AM    <DIR>          acroread
+04/21/2003  12:03 PM    <DIR>          java
+04/03/2003  10:53 PM    <DIR>          kde
+04/21/2003  09:46 AM    <DIR>          mozilla
+05/28/2003  12:03 PM    <DIR>          mplayer
+05/28/2003  08:59 AM    <DIR>          ooo
+05/29/2003  01:05 PM    <DIR>          real
+04/28/2003  11:59 AM    <DIR>          samba-tng
+04/19/2003  01:59 PM    <DIR>          xfree86
+05/03/2003  12:01 AM    <DIR>          ymessenger
+               0 File(s)              0 bytes
+
+ Directory of G:\pool\stable\acroread
+
+04/21/2003  10:59 AM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+01/29/2003  07:23 AM            64,852 acroread-plugin_5.06-0.4_i386.deb
+01/29/2003  07:33 AM         9,163,046 acroread_5.06-0.4_i386.deb
+               2 File(s)      9,227,898 bytes
+
+ Directory of G:\pool\stable\java
+
+04/21/2003  12:03 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+08/02/2002  10:30 PM        13,722,526 j2re1.3_1.3.1.02b-2_i386.deb
+08/02/2002  10:31 PM         2,118,126 j2sdk1.3_1.3.1.02b-2_i386.deb
+08/02/2002  10:49 PM             6,344 j2se-common_1.1_all.deb
+04/07/2002  05:17 PM            52,278 java-common_0.14_all.deb
+               4 File(s)     15,899,274 bytes
+
+ Directory of G:\pool\stable\kde
+
+04/03/2003  10:53 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+04/04/2003  01:30 AM    <DIR>          arts
+04/04/2003  01:30 AM    <DIR>          backports
+04/03/2003  10:52 PM             3,107 index.html
+04/03/2003  10:52 PM             3,107 index.html_D=A
+04/03/2003  10:53 PM             3,107 index.html_D=D
+04/03/2003  10:52 PM             3,107 index.html_M=A
+04/03/2003  10:53 PM             3,107 index.html_M=D
+04/03/2003  10:53 PM             3,107 index.html_N=A
+04/03/2003  10:52 PM             3,107 index.html_N=D
+04/03/2003  10:52 PM             3,107 index.html_S=A
+04/03/2003  10:53 PM             3,107 index.html_S=D
+04/04/2003  01:41 AM    <DIR>          kde-i18n
+04/04/2003  01:41 AM    <DIR>          kdeaccessibility
+04/04/2003  01:41 AM    <DIR>          kdeaddons
+04/04/2003  01:41 AM    <DIR>          kdeadmin
+04/04/2003  01:41 AM    <DIR>          kdeartwork
+04/04/2003  01:41 AM    <DIR>          kdebase
+04/04/2003  01:41 AM    <DIR>          kdebindings
+04/04/2003  01:42 AM    <DIR>          kdeedu
+04/04/2003  01:42 AM    <DIR>          kdegames
+04/04/2003  01:42 AM    <DIR>          kdegraphics
+04/04/2003  01:42 AM    <DIR>          kdelibs
+04/04/2003  01:42 AM    <DIR>          kdemultimedia
+04/04/2003  01:42 AM    <DIR>          kdenetwork
+04/04/2003  01:42 AM    <DIR>          kdepim
+04/04/2003  01:42 AM    <DIR>          kdesdk
+04/04/2003  01:42 AM    <DIR>          kdetoys
+04/04/2003  01:42 AM    <DIR>          kdeutils
+04/04/2003  01:42 AM    <DIR>          quanta
+               9 File(s)         27,963 bytes
+
+ Directory of G:\pool\stable\kde\arts
+
+04/04/2003  01:30 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/17/2003  10:34 PM             1,992 arts_1.1.1-0woody1_all.deb
+04/03/2003  10:52 PM             1,491 index.html
+04/03/2003  10:53 PM             1,491 index.html_D=A
+04/04/2003  01:30 AM             1,491 index.html_D=D
+04/03/2003  10:53 PM             1,491 index.html_M=A
+04/04/2003  01:30 AM             1,491 index.html_M=D
+04/04/2003  01:30 AM             1,491 index.html_N=A
+04/03/2003  10:53 PM             1,491 index.html_N=D
+04/03/2003  10:53 PM             1,491 index.html_S=A
+04/04/2003  01:30 AM             1,491 index.html_S=D
+03/17/2003  10:34 PM           177,496 libarts1-dev_1.1.1-0woody1_i386.deb
+03/17/2003  10:35 PM           846,928 libarts1_1.1.1-0woody1_i386.deb
+03/17/2003  10:35 PM             7,576 libartsc0-dev_1.1.1-0woody1_i386.deb
+03/17/2003  10:35 PM            43,160 libartsc0_1.1.1-0woody1_i386.deb
+              14 File(s)      1,090,571 bytes
+
+ Directory of G:\pool\stable\kde\backports
+
+04/04/2003  01:30 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/04/2003  01:30 AM    <DIR>          bash
+04/04/2003  01:32 AM    <DIR>          db4.0
+04/04/2003  01:32 AM    <DIR>          directfb
+04/04/2003  01:32 AM    <DIR>          imlib2
+04/03/2003  10:52 PM             1,712 index.html
+04/03/2003  10:53 PM             1,712 index.html_D=A
+04/04/2003  01:30 AM             1,712 index.html_D=D
+04/03/2003  10:53 PM             1,712 index.html_M=A
+04/04/2003  01:30 AM             1,712 index.html_M=D
+04/04/2003  01:30 AM             1,712 index.html_N=A
+04/03/2003  10:53 PM             1,712 index.html_N=D
+04/03/2003  10:53 PM             1,712 index.html_S=A
+04/04/2003  01:30 AM             1,712 index.html_S=D
+04/04/2003  01:33 AM    <DIR>          pilot-link
+04/04/2003  01:40 AM    <DIR>          qt-x11-free
+04/04/2003  01:40 AM    <DIR>          xine-lib
+04/04/2003  01:41 AM    <DIR>          xine-ui
+               9 File(s)         15,408 bytes
+
+ Directory of G:\pool\stable\kde\backports\bash
+
+04/04/2003  01:30 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+01/15/2003  06:27 AM           103,016 bash-builtins_2.05b-2woody3_i386.deb
+01/15/2003  06:27 AM           260,510 bash-doc_2.05b-2woody3_all.deb
+01/15/2003  06:28 AM           582,792 bash_2.05b-2woody3_i386.deb
+04/03/2003  10:54 PM             1,230 index.html
+04/04/2003  01:30 AM             1,230 index.html_D=A
+04/04/2003  01:30 AM             1,230 index.html_M=A
+04/04/2003  01:30 AM             1,230 index.html_N=D
+04/04/2003  01:30 AM             1,230 index.html_S=A
+               8 File(s)        952,468 bytes
+
+ Directory of G:\pool\stable\kde\backports\db4.0
+
+04/04/2003  01:32 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+03/13/2003  03:37 AM           849,218 db4.0-doc_4.0.14-0woody1_all.deb
+04/03/2003  10:54 PM             1,832 index.html
+04/04/2003  01:31 AM             1,832 index.html_D=A
+04/04/2003  01:31 AM             1,832 index.html_M=A
+04/04/2003  01:31 AM             1,832 index.html_N=D
+04/04/2003  01:31 AM             1,832 index.html_S=A
+03/13/2003  03:37 AM           324,880 libdb4.0++-dev_4.0.14-0woody1_i386.deb
+03/13/2003  03:38 AM           275,268 libdb4.0++_4.0.14-0woody1_i386.deb
+03/13/2003  03:38 AM           322,076 libdb4.0-dev_4.0.14-0woody1_i386.deb
+03/13/2003  03:39 AM           644,440 libdb4.0-tcl_4.0.14-0woody1_i386.deb
+03/13/2003  03:39 AM            48,190 libdb4.0-util_4.0.14-0woody1_i386.deb
+03/13/2003  03:39 AM           260,284 libdb4.0_4.0.14-0woody1_i386.deb
+              12 File(s)      2,733,516 bytes
+
+ Directory of G:\pool\stable\kde\backports\directfb
+
+04/04/2003  01:32 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+04/03/2003  10:54 PM             1,114 index.html
+04/04/2003  01:32 AM             1,114 index.html_D=A
+04/04/2003  01:32 AM             1,114 index.html_M=A
+04/04/2003  01:32 AM             1,114 index.html_N=D
+04/04/2003  01:32 AM             1,114 index.html_S=A
+01/11/2003  12:30 AM           318,310 libdirectfb-0.9-15_0.9.15-0woody1_i386.deb
+01/11/2003  12:30 AM           179,460 libdirectfb-dev_0.9.15-0woody1_i386.deb
+               7 File(s)        503,340 bytes
+
+ Directory of G:\pool\stable\kde\backports\imlib2
+
+04/04/2003  01:32 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+01/11/2003  12:30 AM            68,270 gdk-imlib-dev_1.9.14-10woody11_i386.deb
+01/11/2003  12:30 AM            78,392 gdk-imlib2_1.9.14-10woody11_i386.deb
+01/11/2003  12:30 AM           115,234 imlib-base_1.9.14-10woody11_all.deb
+01/11/2003  12:30 AM            77,268 imlib-dev_1.9.14-10woody11_i386.deb
+01/11/2003  12:31 AM           259,752 imlib-progs_1.9.14-10woody11_i386.deb
+01/11/2003  12:31 AM            70,434 imlib2_1.9.14-10woody11_i386.deb
+04/03/2003  10:54 PM             1,691 index.html
+04/04/2003  01:32 AM             1,691 index.html_D=A
+04/04/2003  01:32 AM             1,691 index.html_M=A
+04/04/2003  01:32 AM             1,691 index.html_N=D
+04/04/2003  01:32 AM             1,691 index.html_S=A
+              11 File(s)        677,805 bytes
+
+ Directory of G:\pool\stable\kde\backports\pilot-link
+
+04/04/2003  01:33 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+04/03/2003  10:54 PM             1,850 index.html
+04/04/2003  01:33 AM             1,850 index.html_D=A
+04/04/2003  01:33 AM             1,850 index.html_M=A
+04/04/2003  01:33 AM             1,850 index.html_N=D
+04/04/2003  01:33 AM             1,850 index.html_S=A
+03/13/2003  03:50 AM            55,928 libpda-pilot-perl_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM            32,052 libpisock++0_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM           106,160 libpisock-dev_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM            60,368 libpisock8_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM            10,342 libpisync0_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM           304,816 pilot-link_0.11.7-1woody2_i386.deb
+03/13/2003  03:50 AM            26,290 python-pisock_0.11.7-1woody2_i386.deb
+              12 File(s)        605,206 bytes
+
+ Directory of G:\pool\stable\kde\backports\qt-x11-free
+
+04/04/2003  01:40 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+04/03/2003  10:54 PM             4,367 index.html
+04/04/2003  01:33 AM             4,367 index.html_D=A
+04/04/2003  01:33 AM             4,367 index.html_M=A
+04/04/2003  01:33 AM             4,367 index.html_N=D
+04/04/2003  01:33 AM             4,367 index.html_S=A
+03/18/2003  05:15 PM            76,916 libqt3-compat-headers_3.1.2-0woody1_all.deb
+03/18/2003  05:15 PM            38,236 libqt3-dev_3.1.2-0woody1_i386.deb
+03/18/2003  05:15 PM           314,546 libqt3-headers_3.1.2-0woody1_all.deb
+03/18/2003  05:15 PM            58,252 libqt3-i18n_3.1.2-0woody1_all.deb
+03/18/2003  05:15 PM            43,890 libqt3-mt-dev_3.1.2-0woody1_i386.deb
+03/18/2003  05:15 PM            42,360 libqt3-mt-mysql_3.1.2-0woody1_i386.deb
+03/18/2003  05:16 PM            55,204 libqt3-mt-odbc_3.1.2-0woody1_i386.deb
+03/18/2003  05:16 PM            49,342 libqt3-mt-psql_3.1.2-0woody1_i386.deb
+03/18/2003  05:18 PM         2,648,162 libqt3-mt_3.1.2-0woody1_i386.deb
+03/18/2003  05:18 PM            42,386 libqt3-mysql_3.1.2-0woody1_i386.deb
+03/18/2003  05:18 PM            55,274 libqt3-odbc_3.1.2-0woody1_i386.deb
+03/18/2003  05:18 PM            30,864 libqt3-plugins-headers_3.1.2-0woody1_all.deb
+03/18/2003  05:18 PM            49,386 libqt3-psql_3.1.2-0woody1_i386.deb
+03/18/2003  05:21 PM         2,551,802 libqt3_3.1.2-0woody1_i386.deb
+03/18/2003  05:23 PM         1,835,344 qt3-apps-dev_3.1.2-0woody1_i386.deb
+03/18/2003  05:23 PM           208,648 qt3-assistant_3.1.2-0woody1_i386.deb
+03/18/2003  05:27 PM         3,859,080 qt3-designer_3.1.2-0woody1_i386.deb
+03/18/2003  05:27 PM            61,344 qt3-dev-tools-compat_3.1.2-0woody1_i386.deb
+03/18/2003  05:27 PM           273,940 qt3-dev-tools-embedded_3.1.2-0woody1_i386.deb
+03/18/2003  05:28 PM         1,021,816 qt3-dev-tools_3.1.2-0woody1_i386.deb
+03/18/2003  05:33 PM         5,019,510 qt3-doc_3.1.2-0woody1_all.deb
+03/18/2003  05:34 PM         1,506,156 qt3-examples_3.1.2-0woody1_all.deb
+03/18/2003  05:35 PM           315,146 qt3-linguist_3.1.2-0woody1_i386.deb
+03/18/2003  05:35 PM            82,068 qt3-qtconfig_3.1.2-0woody1_i386.deb
+              29 File(s)     20,261,507 bytes
+
+ Directory of G:\pool\stable\kde\backports\xine-lib
+
+04/04/2003  01:40 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+04/03/2003  10:54 PM             1,100 index.html
+04/04/2003  01:40 AM             1,100 index.html_D=A
+04/04/2003  01:40 AM             1,100 index.html_M=A
+04/04/2003  01:40 AM             1,100 index.html_N=D
+04/04/2003  01:40 AM             1,100 index.html_S=A
+01/11/2003  12:59 AM           834,706 libxine-dev_0.9.13-2woody3_i386.deb
+01/11/2003  01:00 AM         1,241,812 libxine0_0.9.13-2woody3_i386.deb
+               7 File(s)      2,082,018 bytes
+
+ Directory of G:\pool\stable\kde\backports\xine-ui
+
+04/04/2003  01:41 AM    <DIR>          .
+04/04/2003  01:30 AM    <DIR>          ..
+04/03/2003  10:54 PM               950 index.html
+04/04/2003  01:41 AM               950 index.html_D=A
+04/04/2003  01:41 AM               950 index.html_M=A
+04/04/2003  01:41 AM               950 index.html_N=D
+04/04/2003  01:41 AM               950 index.html_S=A
+01/11/2003  01:01 AM         1,106,720 xine-ui_0.9.13-1woody2_i386.deb
+               6 File(s)      1,111,470 bytes
+
+ Directory of G:\pool\stable\kde\kde-i18n
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             7,904 index.html
+04/03/2003  10:54 PM             7,904 index.html_D=A
+04/04/2003  01:41 AM             7,904 index.html_D=D
+04/03/2003  10:54 PM             7,904 index.html_M=A
+04/04/2003  01:41 AM             7,904 index.html_M=D
+04/04/2003  01:41 AM             7,904 index.html_N=A
+04/03/2003  10:54 PM             7,904 index.html_N=D
+04/03/2003  10:54 PM             7,904 index.html_S=A
+04/04/2003  01:41 AM             7,904 index.html_S=D
+03/13/2003  03:37 PM         1,195,386 kde-i18n-af_3.1.1-0woody1_all.deb
+03/13/2003  03:38 PM           744,770 kde-i18n-ar_3.1.1-0woody1_all.deb
+03/13/2003  03:39 PM           956,098 kde-i18n-bg_3.1.1-0woody1_all.deb
+03/13/2003  03:40 PM           772,868 kde-i18n-bs_3.1.1-0woody1_all.deb
+03/13/2003  03:41 PM         1,653,162 kde-i18n-ca_3.1.1-0woody1_all.deb
+03/13/2003  03:43 PM         1,644,194 kde-i18n-cs_3.1.1-0woody1_all.deb
+03/13/2003  03:49 PM         6,781,388 kde-i18n-da_3.1.1-0woody1_all.deb
+03/13/2003  03:59 PM         9,434,030 kde-i18n-de_3.1.1-0woody1_all.deb
+03/13/2003  03:59 PM           867,848 kde-i18n-el_3.1.1-0woody1_all.deb
+03/13/2003  04:01 PM         1,656,046 kde-i18n-engb_3.1.1-0woody1_all.deb
+03/13/2003  04:02 PM           840,786 kde-i18n-eo_3.1.1-0woody1_all.deb
+03/13/2003  04:08 PM         6,224,856 kde-i18n-es_3.1.1-0woody1_all.deb
+03/13/2003  04:11 PM         2,790,558 kde-i18n-et_3.1.1-0woody1_all.deb
+03/13/2003  04:11 PM           500,154 kde-i18n-eu_3.1.1-0woody1_all.deb
+03/13/2003  04:12 PM           524,190 kde-i18n-fa_3.1.1-0woody1_all.deb
+03/13/2003  04:13 PM           905,170 kde-i18n-fi_3.1.1-0woody1_all.deb
+03/13/2003  04:21 PM         8,551,874 kde-i18n-fr_3.1.1-0woody1_all.deb
+03/13/2003  04:22 PM         1,543,720 kde-i18n-he_3.1.1-0woody1_all.deb
+03/13/2003  04:23 PM           522,730 kde-i18n-hr_3.1.1-0woody1_all.deb
+03/13/2003  04:26 PM         2,876,010 kde-i18n-hu_3.1.1-0woody1_all.deb
+03/13/2003  04:26 PM           812,880 kde-i18n-is_3.1.1-0woody1_all.deb
+03/13/2003  04:33 PM         6,369,910 kde-i18n-it_3.1.1-0woody1_all.deb
+03/13/2003  04:35 PM         1,770,508 kde-i18n-ja_3.1.1-0woody1_all.deb
+03/13/2003  04:35 PM           984,486 kde-i18n-lt_3.1.1-0woody1_all.deb
+03/13/2003  04:36 PM           715,868 kde-i18n-mt_3.1.1-0woody1_all.deb
+03/13/2003  04:38 PM         1,429,282 kde-i18n-nb_3.1.1-0woody1_all.deb
+03/13/2003  04:40 PM         2,264,446 kde-i18n-nl_3.1.1-0woody1_all.deb
+03/13/2003  04:41 PM         1,239,890 kde-i18n-nn_3.1.1-0woody1_all.deb
+03/13/2003  04:42 PM           963,540 kde-i18n-nso_3.1.1-0woody1_all.deb
+03/13/2003  04:43 PM         1,284,584 kde-i18n-pl_3.1.1-0woody1_all.deb
+03/13/2003  04:46 PM         2,530,750 kde-i18n-pt_3.1.1-0woody1_all.deb
+03/13/2003  04:48 PM         1,992,072 kde-i18n-ptbr_3.1.1-0woody1_all.deb
+03/13/2003  04:48 PM           716,066 kde-i18n-ro_3.1.1-0woody1_all.deb
+03/13/2003  04:51 PM         2,937,350 kde-i18n-ru_3.1.1-0woody1_all.deb
+03/13/2003  04:52 PM           368,794 kde-i18n-se_3.1.1-0woody1_all.deb
+03/13/2003  04:56 PM         4,219,172 kde-i18n-sk_3.1.1-0woody1_all.deb
+03/13/2003  04:58 PM         2,802,848 kde-i18n-sl_3.1.1-0woody1_all.deb
+03/13/2003  04:59 PM           419,924 kde-i18n-sr_3.1.1-0woody1_all.deb
+03/13/2003  05:10 PM        11,089,662 kde-i18n-sv_3.1.1-0woody1_all.deb
+03/13/2003  05:10 PM           657,478 kde-i18n-ta_3.1.1-0woody1_all.deb
+03/13/2003  05:11 PM           907,512 kde-i18n-th_3.1.1-0woody1_all.deb
+03/13/2003  05:12 PM         1,232,338 kde-i18n-tr_3.1.1-0woody1_all.deb
+03/13/2003  05:14 PM         1,301,872 kde-i18n-uk_3.1.1-0woody1_all.deb
+03/13/2003  05:14 PM           927,500 kde-i18n-ven_3.1.1-0woody1_all.deb
+03/13/2003  05:15 PM           388,026 kde-i18n-vi_3.1.1-0woody1_all.deb
+03/13/2003  05:17 PM         1,745,184 kde-i18n-xh_3.1.1-0woody1_all.deb
+03/13/2003  05:18 PM         1,499,994 kde-i18n-zhcngb2312_3.1.1-0woody1_all.deb
+03/13/2003  05:19 PM           999,754 kde-i18n-zhtwbig5_3.1.1-0woody1_all.deb
+03/13/2003  05:20 PM         1,209,670 kde-i18n-zu_3.1.1-0woody1_all.deb
+              58 File(s)    106,838,334 bytes
+
+ Directory of G:\pool\stable\kde\kdeaccessibility
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             1,341 index.html
+04/04/2003  12:03 AM             1,341 index.html_D=A
+04/04/2003  01:41 AM             1,341 index.html_D=D
+04/04/2003  12:03 AM             1,341 index.html_M=A
+04/04/2003  01:41 AM             1,341 index.html_M=D
+04/04/2003  01:41 AM             1,341 index.html_N=A
+04/04/2003  12:03 AM             1,341 index.html_N=D
+04/04/2003  12:03 AM             1,341 index.html_S=A
+04/04/2003  01:41 AM             1,341 index.html_S=D
+02/24/2003  02:18 AM             1,842 kdeaccessibility_0.9.1-1_i386.deb
+02/24/2003  02:18 AM           171,296 kmag_0.9.1-1_i386.deb
+02/24/2003  02:18 AM            44,502 kmousetool_0.9.1-1_i386.deb
+02/24/2003  02:18 AM           533,508 kmouth_0.9.1-1_i386.deb
+              13 File(s)        763,217 bytes
+
+ Directory of G:\pool\stable\kde\kdeaddons
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/13/2003  09:33 PM            62,548 atlantikdesigner_3.1.1-0woody1_i386.deb
+04/03/2003  10:52 PM             2,130 index.html
+04/04/2003  12:04 AM             2,130 index.html_D=A
+04/04/2003  01:41 AM             2,130 index.html_D=D
+04/04/2003  12:04 AM             2,130 index.html_M=A
+04/04/2003  01:41 AM             2,130 index.html_M=D
+04/04/2003  01:41 AM             2,130 index.html_N=A
+04/04/2003  12:04 AM             2,130 index.html_N=D
+04/04/2003  12:04 AM             2,130 index.html_S=A
+04/04/2003  01:41 AM             2,130 index.html_S=D
+03/13/2003  09:33 PM           342,820 kate-plugins_3.1.1-0woody1_i386.deb
+03/13/2003  09:33 PM            26,594 kdeaddons-doc-html_3.1.1-0woody1_all.deb
+03/13/2003  09:33 PM            34,330 kdeaddons-kfile-plugins_3.1.1-0woody1_i386.deb
+03/13/2003  09:33 PM             4,956 kdeaddons_3.1.1-0woody1_all.deb
+03/13/2003  09:33 PM           120,006 kicker-applets_3.1.1-0woody1_i386.deb
+03/13/2003  09:33 PM            17,880 knewsticker-scripts_3.1.1-0woody1_all.deb
+03/13/2003  09:34 PM           334,662 konq-plugins_3.1.1-0woody1_i386.deb
+03/13/2003  09:34 PM           326,690 noatun-plugins_3.1.1-0woody1_i386.deb
+              18 File(s)      1,289,656 bytes
+
+ Directory of G:\pool\stable\kde\kdeadmin
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             2,356 index.html
+04/04/2003  12:06 AM             2,356 index.html_D=A
+04/04/2003  01:41 AM             2,356 index.html_D=D
+04/04/2003  12:06 AM             2,356 index.html_M=A
+04/04/2003  01:41 AM             2,356 index.html_M=D
+04/04/2003  01:41 AM             2,356 index.html_N=A
+04/04/2003  12:06 AM             2,356 index.html_N=D
+04/04/2003  12:06 AM             2,356 index.html_S=A
+04/04/2003  01:41 AM             2,356 index.html_S=D
+03/13/2003  06:19 PM           141,472 kcmlinuz_3.1.1-0woody1_i386.deb
+03/13/2003  06:19 PM           173,408 kcron_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM           140,410 kdat_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM            20,068 kdeadmin-kfile-plugins_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM             4,558 kdeadmin_3.1.1-0woody1_all.deb
+03/13/2003  06:20 PM           189,066 kpackage_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM           141,480 ksysv_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM           139,960 kuser_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM           194,192 kxconfig_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM            95,636 lilo-config_3.1.1-0woody1_i386.deb
+03/13/2003  06:20 PM            21,232 secpolicy_3.1.1-0woody1_i386.deb
+              20 File(s)      1,282,686 bytes
+
+ Directory of G:\pool\stable\kde\kdeartwork
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             1,690 index.html
+04/04/2003  12:07 AM             1,690 index.html_D=A
+04/04/2003  01:41 AM             1,690 index.html_D=D
+04/04/2003  12:07 AM             1,690 index.html_M=A
+04/04/2003  01:41 AM             1,690 index.html_M=D
+04/04/2003  01:41 AM             1,690 index.html_N=A
+04/04/2003  12:07 AM             1,690 index.html_N=D
+04/04/2003  12:07 AM             1,690 index.html_S=A
+04/04/2003  01:41 AM             1,690 index.html_S=D
+03/13/2003  09:39 PM         3,710,450 kdeartwork-misc_3.1.1-0woody1_all.deb
+03/13/2003  09:39 PM            25,702 kdeartwork-style_3.1.1-0woody1_i386.deb
+03/13/2003  09:47 PM         8,002,802 kdeartwork-theme-desktop_3.1.1-0woody1_all.deb
+03/13/2003  09:48 PM           115,910 kdeartwork-theme-window_3.1.1-0woody1_i386.deb
+03/13/2003  09:48 PM             6,124 kdeartwork_3.1.1-0woody1_all.deb
+03/13/2003  09:48 PM           811,774 kscreensaver_3.1.1-0woody1_i386.deb
+              15 File(s)     12,687,972 bytes
+
+ Directory of G:\pool\stable\kde\kdebase
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             5,094 index.html
+04/04/2003  12:22 AM             5,094 index.html_D=A
+04/04/2003  01:41 AM             5,094 index.html_D=D
+04/04/2003  12:22 AM             5,094 index.html_M=A
+04/04/2003  01:41 AM             5,094 index.html_M=D
+04/04/2003  01:41 AM             5,094 index.html_N=A
+04/04/2003  12:22 AM             5,094 index.html_N=D
+04/04/2003  12:22 AM             5,094 index.html_S=A
+04/04/2003  01:41 AM             5,094 index.html_S=D
+03/14/2003  05:02 PM           168,364 kappfinder_3.1.1-0woody1_i386.deb
+03/14/2003  05:03 PM           483,178 kate_3.1.1-0woody1_i386.deb
+03/14/2003  05:09 PM         5,676,422 kcontrol_3.1.1-0woody1_i386.deb
+03/14/2003  05:09 PM           459,622 kdebase-bin_3.1.1-0woody1_i386.deb
+03/14/2003  05:12 PM         2,178,756 kdebase-data_3.1.1-0woody1_all.deb
+03/14/2003  05:12 PM            44,708 kdebase-dev_3.1.1-0woody1_i386.deb
+03/14/2003  05:12 PM           626,104 kdebase-kio-plugins_3.1.1-0woody1_i386.deb
+03/14/2003  05:12 PM            15,964 kdebase_3.1.1-0woody1_all.deb
+03/14/2003  05:13 PM           995,584 kdeprint_3.1.1-0woody1_i386.deb
+03/14/2003  05:14 PM           594,678 kdesktop_3.1.1-0woody1_i386.deb
+03/14/2003  05:14 PM           269,388 kdm_3.1.1-0woody1_i386.deb
+03/14/2003  05:15 PM           141,354 kfind_3.1.1-0woody1_i386.deb
+03/14/2003  05:15 PM           793,724 khelpcenter_3.1.1-0woody1_i386.deb
+03/14/2003  05:17 PM         1,233,372 kicker_3.1.1-0woody1_i386.deb
+03/14/2003  05:17 PM           123,026 klipper_3.1.1-0woody1_i386.deb
+03/14/2003  05:17 PM            98,226 kmenuedit_3.1.1-0woody1_i386.deb
+03/14/2003  05:17 PM           101,296 konqueror-nsplugins_3.1.1-0woody1_i386.deb
+03/14/2003  05:19 PM         1,844,836 konqueror_3.1.1-0woody1_i386.deb
+03/14/2003  05:19 PM           444,980 konsole_3.1.1-0woody1_i386.deb
+03/14/2003  05:20 PM            86,000 kpager_3.1.1-0woody1_i386.deb
+03/14/2003  05:20 PM           454,988 kpersonalizer_3.1.1-0woody1_i386.deb
+03/14/2003  05:20 PM            94,978 ksmserver_3.1.1-0woody1_i386.deb
+03/14/2003  05:20 PM           160,934 ksplash_3.1.1-0woody1_i386.deb
+03/14/2003  05:21 PM           317,322 ksysguard_3.1.1-0woody1_i386.deb
+03/14/2003  05:21 PM            41,278 ksysguardd_3.1.1-0woody1_i386.deb
+03/14/2003  05:21 PM            73,222 ktip_3.1.1-0woody1_i386.deb
+03/14/2003  05:22 PM           690,800 kwin_3.1.1-0woody1_i386.deb
+03/14/2003  05:22 PM           225,698 libkonq4-dev_3.1.1-0woody1_i386.deb
+03/14/2003  05:22 PM           205,404 libkonq4_3.1.1-0woody1_i386.deb
+03/14/2003  05:22 PM            99,002 xfonts-konsole_3.1.1-0woody1_all.deb
+              39 File(s)     18,789,054 bytes
+
+ Directory of G:\pool\stable\kde\kdebindings
+
+04/04/2003  01:41 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/20/2003  03:29 AM            25,626 dcopjava_3.1.1-0woody1_i386.deb
+03/20/2003  03:29 AM            50,334 dcopperl_3.1.1-0woody1_i386.deb
+03/20/2003  03:29 AM            41,974 dcoppython_3.1.1-0woody1_i386.deb
+04/03/2003  10:52 PM             3,697 index.html
+04/04/2003  12:47 AM             3,697 index.html_D=A
+04/04/2003  01:41 AM             3,697 index.html_D=D
+04/04/2003  12:47 AM             3,697 index.html_M=A
+04/04/2003  01:41 AM             3,697 index.html_M=D
+04/04/2003  01:41 AM             3,697 index.html_N=A
+04/04/2003  12:47 AM             3,697 index.html_N=D
+04/04/2003  12:47 AM             3,697 index.html_S=A
+04/04/2003  01:41 AM             3,697 index.html_S=D
+03/20/2003  03:29 AM           103,720 kalyptus_3.1.1-0woody1_i386.deb
+03/20/2003  03:29 AM             3,536 kdebindings-c_3.1.1-0woody1_all.deb
+03/20/2003  03:29 AM             3,358 kdebindings-java_3.1.1-0woody1_all.deb
+03/20/2003  03:31 AM         1,254,466 kdejava_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM            30,520 kmozilla_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM             5,540 libdcopc-dev_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM            18,102 libdcopc1_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM           638,616 libkdec1_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM             5,456 libkdexparts-dev_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM            27,320 libkdexparts1_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM             7,192 libkjsembed-dev_3.1.1-0woody1_i386.deb
+03/20/2003  03:31 AM            31,620 libkjsembed1_3.1.1-0woody1_i386.deb
+03/20/2003  03:32 AM           476,128 libqtc1_3.1.1-0woody1_i386.deb
+03/20/2003  03:32 AM             6,864 libsmokeqt-dev_3.1.1-0woody1_i386.deb
+03/20/2003  03:33 AM         1,148,284 libsmokeqt1_3.1.1-0woody1_i386.deb
+03/20/2003  03:34 AM           922,514 qtjava_3.1.1-0woody1_i386.deb
+03/20/2003  03:34 AM            41,444 xpart-notepad_3.1.1-0woody1_i386.deb
+              29 File(s)      4,875,887 bytes
+
+ Directory of G:\pool\stable\kde\kdeedu
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/17/2003  08:29 PM           118,556 flashkard_3.1.1-0woody1_i386.deb
+04/03/2003  10:52 PM             3,496 index.html
+04/04/2003  12:52 AM             3,496 index.html_D=A
+04/04/2003  01:42 AM             3,496 index.html_D=D
+04/04/2003  12:52 AM             3,496 index.html_M=A
+04/04/2003  01:42 AM             3,496 index.html_M=D
+04/04/2003  01:42 AM             3,496 index.html_N=A
+04/04/2003  12:52 AM             3,496 index.html_N=D
+04/04/2003  12:52 AM             3,496 index.html_S=A
+04/04/2003  01:42 AM             3,496 index.html_S=D
+03/17/2003  08:30 PM           229,704 kalzium_3.1.1-0woody1_i386.deb
+03/17/2003  08:30 PM            12,816 kdeedu-data_3.1.1-0woody1_all.deb
+03/17/2003  08:30 PM           161,144 kdeedu-doc-html_3.1.1-0woody1_all.deb
+03/17/2003  08:30 PM             3,162 kdeedu_3.1.1-0woody1_all.deb
+03/17/2003  08:30 PM           218,046 keduca_3.1.1-0woody1_i386.deb
+03/17/2003  08:30 PM           170,208 kgeo_3.1.1-0woody1_i386.deb
+03/17/2003  08:32 PM         1,882,938 khangman_3.1.1-0woody1_i386.deb
+03/17/2003  08:34 PM         2,369,290 kiten_3.1.1-0woody1_i386.deb
+03/17/2003  08:37 PM         2,833,972 klettres_3.1.1-0woody1_i386.deb
+03/17/2003  08:38 PM           661,432 kmessedwords_3.1.1-0woody1_i386.deb
+03/17/2003  08:38 PM           248,386 kmplot_3.1.1-0woody1_i386.deb
+03/17/2003  08:38 PM           323,908 kpercentage_3.1.1-0woody1_i386.deb
+03/17/2003  08:43 PM         4,385,012 kstars_3.1.1-0woody1_i386.deb
+03/17/2003  08:43 PM           834,774 ktouch_3.1.1-0woody1_i386.deb
+03/17/2003  08:44 PM           321,880 kverbos_3.1.1-0woody1_i386.deb
+03/17/2003  08:45 PM           718,268 kvoctrain_3.1.1-0woody1_i386.deb
+03/17/2003  08:45 PM             5,372 libkdeedu-dev_3.1.1-0woody1_i386.deb
+03/17/2003  08:45 PM             8,864 libkdeedu1_3.1.1-0woody1_i386.deb
+              28 File(s)     15,539,196 bytes
+
+ Directory of G:\pool\stable\kde\kdegames
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/13/2003  06:29 PM           113,596 atlantik-dev_3.1.1-0woody1_i386.deb
+03/13/2003  06:29 PM           258,584 atlantik_3.1.1-0woody1_i386.deb
+04/03/2003  10:52 PM             6,088 index.html
+04/04/2003  01:01 AM             6,088 index.html_D=A
+04/04/2003  01:42 AM             6,088 index.html_D=D
+04/04/2003  01:01 AM             6,088 index.html_M=A
+04/04/2003  01:42 AM             6,088 index.html_M=D
+04/04/2003  01:42 AM             6,088 index.html_N=A
+04/04/2003  01:01 AM             6,088 index.html_N=D
+04/04/2003  01:01 AM             6,088 index.html_S=A
+04/04/2003  01:42 AM             6,088 index.html_S=D
+03/13/2003  06:29 PM           425,728 kasteroids_3.1.1-0woody1_i386.deb
+03/13/2003  06:30 PM            72,294 katomic_3.1.1-0woody1_i386.deb
+03/13/2003  06:30 PM           407,474 kbackgammon_3.1.1-0woody1_i386.deb
+03/13/2003  06:30 PM           351,398 kbattleship_3.1.1-0woody1_i386.deb
+03/13/2003  06:30 PM            88,192 kblackbox_3.1.1-0woody1_i386.deb
+03/13/2003  06:30 PM           117,600 kbounce_3.1.1-0woody1_i386.deb
+03/13/2003  06:32 PM         1,820,612 kdegames-card-data_3.1.1-0woody1_all.deb
+03/13/2003  06:32 PM           186,472 kdegames-doc-html_3.1.1-0woody1_all.deb
+03/13/2003  06:32 PM             9,940 kdegames_3.1.1-0woody1_all.deb
+03/13/2003  06:33 PM           110,450 kenolaba_3.1.1-0woody1_i386.deb
+03/13/2003  06:33 PM           214,984 kfouleggs_3.1.1-0woody1_i386.deb
+03/13/2003  06:33 PM            61,810 kjumpingcube_3.1.1-0woody1_i386.deb
+03/13/2003  06:33 PM           135,866 klickety_3.1.1-0woody1_i386.deb
+03/13/2003  06:33 PM           130,530 klines_3.1.1-0woody1_i386.deb
+03/13/2003  06:34 PM           525,084 kmahjongg_3.1.1-0woody1_i386.deb
+03/13/2003  06:34 PM           218,892 kmines_3.1.1-0woody1_i386.deb
+03/13/2003  06:35 PM           881,104 kolf_3.1.1-0woody1_i386.deb
+03/13/2003  06:35 PM           286,778 konquest_3.1.1-0woody1_i386.deb
+03/13/2003  06:35 PM           255,774 kpat_3.1.1-0woody1_i386.deb
+03/13/2003  06:35 PM           113,102 kpoker_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           299,822 kreversi_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           122,926 ksame_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           117,894 kshisen_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           208,644 ksirtet_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           108,234 ksmiletris_3.1.1-0woody1_i386.deb
+03/13/2003  06:36 PM           299,154 ksnake_3.1.1-0woody1_i386.deb
+03/13/2003  06:37 PM           199,686 ksokoban_3.1.1-0woody1_i386.deb
+03/13/2003  06:37 PM           354,128 kspaceduel_3.1.1-0woody1_i386.deb
+03/13/2003  06:37 PM            62,754 ktron_3.1.1-0woody1_i386.deb
+03/13/2003  06:38 PM           704,762 ktuberling_3.1.1-0woody1_i386.deb
+03/13/2003  06:38 PM           159,692 kwin4_3.1.1-0woody1_i386.deb
+03/13/2003  06:38 PM           323,256 libkdegames-dev_3.1.1-0woody1_i386.deb
+03/13/2003  06:38 PM           191,220 libkdegames1_3.1.1-0woody1_i386.deb
+03/13/2003  06:39 PM           200,046 lskat_3.1.1-0woody1_i386.deb
+03/13/2003  06:39 PM            59,428 megami_3.1.1-0woody1_i386.deb
+              46 File(s)     10,252,702 bytes
+
+ Directory of G:\pool\stable\kde\kdegraphics
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             3,665 index.html
+04/04/2003  01:05 AM             3,665 index.html_D=A
+04/04/2003  01:42 AM             3,665 index.html_D=D
+04/04/2003  01:05 AM             3,665 index.html_M=A
+04/04/2003  01:42 AM             3,665 index.html_M=D
+04/04/2003  01:42 AM             3,665 index.html_N=A
+04/04/2003  01:05 AM             3,665 index.html_N=D
+04/04/2003  01:05 AM             3,665 index.html_S=A
+04/04/2003  01:42 AM             3,665 index.html_S=D
+03/13/2003  06:42 PM            65,224 kamera_3.1.1-0woody1_i386.deb
+03/13/2003  06:42 PM            74,938 kcoloredit_3.1.1-0woody1_i386.deb
+03/13/2003  06:42 PM             7,280 kdegraphics-dev_3.1.1-0woody1_i386.deb
+03/13/2003  06:42 PM           108,720 kdegraphics-kfile-plugins_3.1.1-0woody1_i386.deb
+03/13/2003  06:42 PM             6,774 kdegraphics_3.1.1-0woody1_all.deb
+03/13/2003  06:42 PM           238,878 kdvi_3.1.1-0woody1_i386.deb
+03/13/2003  06:42 PM           222,694 kfax_3.1.1-0woody1_i386.deb
+03/13/2003  06:43 PM           185,006 kghostview_3.1.1-0woody1_i386.deb
+03/13/2003  06:43 PM           112,140 kiconedit_3.1.1-0woody1_i386.deb
+03/13/2003  06:43 PM           185,318 kmrml_3.1.1-0woody1_i386.deb
+03/13/2003  06:44 PM           686,492 kooka_3.1.1-0woody1_i386.deb
+03/13/2003  06:44 PM            90,348 kpaint_3.1.1-0woody1_i386.deb
+03/13/2003  06:45 PM         1,674,116 kpovmodeler_3.1.1-0woody1_i386.deb
+03/13/2003  06:45 PM            47,994 kruler_3.1.1-0woody1_i386.deb
+03/13/2003  06:45 PM            76,816 ksnapshot_3.1.1-0woody1_i386.deb
+03/13/2003  06:46 PM           445,466 kuickshow_3.1.1-0woody1_i386.deb
+03/13/2003  06:46 PM           562,482 kview_3.1.1-0woody1_i386.deb
+03/13/2003  06:46 PM           139,474 kviewshell_3.1.1-0woody1_i386.deb
+03/13/2003  06:47 PM            23,358 libkscan-dev_3.1.1-0woody1_i386.deb
+03/13/2003  06:47 PM           105,278 libkscan1_3.1.1-0woody1_i386.deb
+              29 File(s)      5,091,781 bytes
+
+ Directory of G:\pool\stable\kde\kdelibs
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:52 PM             1,646 index.html
+04/04/2003  01:07 AM             1,646 index.html_D=A
+04/04/2003  01:42 AM             1,646 index.html_D=D
+04/04/2003  01:07 AM             1,646 index.html_M=A
+04/04/2003  01:42 AM             1,646 index.html_M=D
+04/04/2003  01:42 AM             1,646 index.html_N=A
+04/04/2003  01:07 AM             1,646 index.html_N=D
+04/04/2003  01:07 AM             1,646 index.html_S=A
+04/04/2003  01:42 AM             1,646 index.html_S=D
+03/15/2003  12:45 AM           562,158 kdelibs-bin_3.1.1-0woody1_i386.deb
+03/15/2003  12:50 AM         5,081,628 kdelibs-data_3.1.1-0woody1_all.deb
+03/15/2003  12:51 AM           940,828 kdelibs4-dev_3.1.1-0woody1_i386.deb
+03/15/2003  12:59 AM         8,903,364 kdelibs4-doc_3.1.1-0woody1_all.deb
+03/15/2003  01:05 AM         5,714,822 kdelibs4_3.1.1-0woody1_i386.deb
+03/15/2003  01:05 AM            14,550 kdelibs_3.1.1-0woody1_all.deb
+              15 File(s)     21,232,164 bytes
+
+ Directory of G:\pool\stable\kde\kdemultimedia
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/14/2003  04:48 PM         1,214,218 artsbuilder_3.1.1-0woody1_i386.deb
+04/03/2003  10:53 PM             3,278 index.html
+04/04/2003  01:17 AM             3,278 index.html_D=A
+04/04/2003  01:42 AM             3,278 index.html_D=D
+04/04/2003  01:17 AM             3,278 index.html_M=A
+04/04/2003  01:42 AM             3,278 index.html_M=D
+04/04/2003  01:42 AM             3,278 index.html_N=A
+04/04/2003  01:17 AM             3,278 index.html_N=D
+04/04/2003  01:17 AM             3,278 index.html_S=A
+04/04/2003  01:42 AM             3,278 index.html_S=D
+03/14/2003  04:48 PM           104,214 kaboodle_3.1.1-0woody1_i386.deb
+03/14/2003  04:48 PM            83,334 kaudiocreator_3.1.1-0woody1_i386.deb
+03/14/2003  04:48 PM           130,716 kdemultimedia-dev_3.1.1-0woody1_i386.deb
+03/14/2003  04:48 PM            65,576 kdemultimedia-kfile-plugins_3.1.1-0woody1_i386.deb
+03/14/2003  04:49 PM            62,858 kdemultimedia-kio-plugins_3.1.1-0woody1_i386.deb
+03/14/2003  04:49 PM             6,968 kdemultimedia_3.1.1-0woody1_all.deb
+03/14/2003  04:49 PM           239,734 kmid_3.1.1-0woody1_i386.deb
+03/14/2003  04:50 PM         1,027,946 kmidi_3.1.1-0woody1_i386.deb
+03/14/2003  04:50 PM           221,090 kmix_3.1.1-0woody1_i386.deb
+03/14/2003  04:50 PM            98,284 krec_3.1.1-0woody1_i386.deb
+03/14/2003  04:51 PM           346,852 kscd_3.1.1-0woody1_i386.deb
+03/14/2003  04:51 PM            27,146 libarts1-audiofile_3.1.1-0woody1_i386.deb
+03/14/2003  04:51 PM           107,240 libarts1-mpeglib_3.1.1-0woody1_i386.deb
+03/14/2003  04:51 PM            31,768 libarts1-xine_3.1.1-0woody1_i386.deb
+03/14/2003  04:52 PM           327,306 mpeglib_3.1.1-0woody1_i386.deb
+03/14/2003  04:54 PM         2,465,842 noatun_3.1.1-0woody1_i386.deb
+              26 File(s)      6,590,594 bytes
+
+ Directory of G:\pool\stable\kde\kdenetwork
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:53 PM             4,076 index.html
+04/04/2003  01:21 AM             4,076 index.html_D=A
+04/04/2003  01:42 AM             4,076 index.html_D=D
+04/04/2003  01:21 AM             4,076 index.html_M=A
+04/04/2003  01:42 AM             4,076 index.html_M=D
+04/04/2003  01:42 AM             4,076 index.html_N=A
+04/04/2003  01:21 AM             4,076 index.html_N=D
+04/04/2003  01:21 AM             4,076 index.html_S=A
+04/04/2003  01:42 AM             4,076 index.html_S=D
+03/14/2003  05:29 PM            18,730 kdenetwork-kfile-plugins_3.1.1-0woody1_i386.deb
+03/14/2003  05:29 PM             9,130 kdenetwork_3.1.1-0woody1_all.deb
+03/14/2003  05:30 PM           247,766 kdict_3.1.1-0woody1_i386.deb
+03/14/2003  05:30 PM           202,204 kget_3.1.1-0woody1_i386.deb
+03/14/2003  05:30 PM            66,284 kgpgcertmanager_3.1.1-0woody1_i386.deb
+03/14/2003  05:30 PM           130,898 kit_3.1.1-0woody1_i386.deb
+03/14/2003  05:31 PM           992,306 kmail_3.1.1-0woody1_i386.deb
+03/14/2003  05:31 PM            63,354 kmailcvt_3.1.1-0woody1_i386.deb
+03/14/2003  05:32 PM           471,706 knewsticker_3.1.1-0woody1_i386.deb
+03/14/2003  05:33 PM           892,650 knode_3.1.1-0woody1_i386.deb
+03/14/2003  05:33 PM            76,278 korn_3.1.1-0woody1_i386.deb
+03/14/2003  05:33 PM           162,226 kpf_3.1.1-0woody1_i386.deb
+03/14/2003  05:34 PM           614,358 kppp_3.1.1-0woody1_i386.deb
+03/14/2003  05:34 PM           100,924 krdc_3.1.1-0woody1_i386.deb
+03/14/2003  05:34 PM           606,710 krfb_3.1.1-0woody1_i386.deb
+03/14/2003  05:35 PM           481,762 ksirc_3.1.1-0woody1_i386.deb
+03/14/2003  05:35 PM           107,192 ktalkd_3.1.1-0woody1_i386.deb
+03/14/2003  05:35 PM            58,458 kxmlrpc_3.1.1-0woody1_i386.deb
+03/14/2003  05:35 PM             9,814 libkdenetwork2-dev_3.1.1-0woody1_i386.deb
+03/14/2003  05:36 PM           242,402 libkdenetwork2_3.1.1-0woody1_i386.deb
+03/14/2003  05:36 PM            59,616 libmimelib1-dev_3.1.1-0woody1_i386.deb
+03/14/2003  05:36 PM            73,032 libmimelib1_3.1.1-0woody1_i386.deb
+03/14/2003  05:36 PM           160,252 lisa_3.1.1-0woody1_i386.deb
+              32 File(s)      5,884,736 bytes
+
+ Directory of G:\pool\stable\kde\kdepim
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:53 PM             2,639 index.html
+04/04/2003  01:23 AM             2,639 index.html_D=A
+04/04/2003  01:42 AM             2,639 index.html_D=D
+04/04/2003  01:23 AM             2,639 index.html_M=A
+04/04/2003  01:42 AM             2,639 index.html_M=D
+04/04/2003  01:42 AM             2,639 index.html_N=A
+04/04/2003  01:23 AM             2,639 index.html_N=D
+04/04/2003  01:23 AM             2,639 index.html_S=A
+04/04/2003  01:42 AM             2,639 index.html_S=D
+03/18/2003  12:37 AM           297,782 kaddressbook_3.1.1-0woody1_i386.deb
+03/18/2003  12:38 AM           298,478 kalarm_3.1.1-0woody1_i386.deb
+03/18/2003  12:38 AM            74,818 kandy_3.1.1-0woody1_i386.deb
+03/18/2003  12:38 AM            83,710 karm_3.1.1-0woody1_i386.deb
+03/18/2003  12:38 AM            31,214 kdepim-dev_3.1.1-0woody1_i386.deb
+03/18/2003  12:40 AM         2,478,578 kdepim-doc_3.1.1-0woody1_all.deb
+03/18/2003  12:40 AM            12,550 kdepim-kfile-plugins_3.1.1-0woody1_i386.deb
+03/18/2003  12:41 AM           395,390 kdepim-libs_3.1.1-0woody1_i386.deb
+03/18/2003  12:41 AM             3,834 kdepim_3.1.1-0woody1_all.deb
+03/18/2003  12:41 AM            83,844 knotes_3.1.1-0woody1_i386.deb
+03/18/2003  12:42 AM           734,394 korganizer_3.1.1-0woody1_i386.deb
+03/18/2003  12:42 AM           762,392 kpilot_3.1.1-0woody1_i386.deb
+03/18/2003  12:42 AM            46,152 ksync_3.1.1-0woody1_i386.deb
+              22 File(s)      5,326,887 bytes
+
+ Directory of G:\pool\stable\kde\kdesdk
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/18/2003  03:23 PM           441,332 cervisia_3.1.1-0woody1_i386.deb
+04/03/2003  10:53 PM             2,648 index.html
+04/04/2003  01:25 AM             2,648 index.html_D=A
+04/04/2003  01:42 AM             2,648 index.html_D=D
+04/04/2003  01:25 AM             2,648 index.html_M=A
+04/04/2003  01:42 AM             2,648 index.html_M=D
+04/04/2003  01:42 AM             2,648 index.html_N=A
+04/04/2003  01:25 AM             2,648 index.html_N=D
+04/04/2003  01:25 AM             2,648 index.html_S=A
+04/04/2003  01:42 AM             2,648 index.html_S=D
+03/18/2003  03:23 PM           279,538 kapptemplate_3.1.1-0woody1_all.deb
+03/18/2003  03:23 PM            27,932 kbabel-dev_3.1.1-0woody1_i386.deb
+03/18/2003  03:24 PM         1,055,684 kbabel_3.1.1-0woody1_i386.deb
+03/18/2003  03:24 PM           248,678 kbugbuster_3.1.1-0woody1_i386.deb
+03/18/2003  03:24 PM            26,770 kdesdk-kfile-plugins_3.1.1-0woody1_i386.deb
+03/18/2003  03:24 PM            17,400 kdesdk-misc_3.1.1-0woody1_i386.deb
+03/18/2003  03:25 PM           124,616 kdesdk-scripts_3.1.1-0woody1_all.deb
+03/18/2003  03:25 PM             7,350 kdesdk_3.1.1-0woody1_i386.deb
+03/18/2003  03:25 PM            93,856 kmtrace_3.1.1-0woody1_i386.deb
+03/18/2003  03:25 PM           194,028 kompare_3.1.1-0woody1_i386.deb
+03/18/2003  03:25 PM            32,398 kspy_3.1.1-0woody1_i386.deb
+03/18/2003  03:25 PM           464,324 poxml_3.1.1-0woody1_i386.deb
+              22 File(s)      3,037,738 bytes
+
+ Directory of G:\pool\stable\kde\kdetoys
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/13/2003  07:55 PM           212,998 amor_3.1.1-0woody1_i386.deb
+03/13/2003  07:55 PM            17,614 eyesapplet_3.1.1-0woody1_i386.deb
+03/13/2003  07:55 PM            36,254 fifteenapplet_3.1.1-0woody1_i386.deb
+04/03/2003  10:53 PM             2,494 index.html
+04/04/2003  01:27 AM             2,494 index.html_D=A
+04/04/2003  01:42 AM             2,494 index.html_D=D
+04/04/2003  01:27 AM             2,494 index.html_M=A
+04/04/2003  01:42 AM             2,494 index.html_M=D
+04/04/2003  01:42 AM             2,494 index.html_N=A
+04/04/2003  01:27 AM             2,494 index.html_N=D
+04/04/2003  01:27 AM             2,494 index.html_S=A
+04/04/2003  01:42 AM             2,494 index.html_S=D
+03/13/2003  07:56 PM            43,506 kaphorism_3.1.1-0woody1_i386.deb
+03/13/2003  07:56 PM            22,150 kdetoys-doc-html_3.1.1-0woody1_all.deb
+03/13/2003  07:56 PM             6,088 kdetoys_3.1.1-0woody1_all.deb
+03/13/2003  07:57 PM            74,250 kmoon_3.1.1-0woody1_i386.deb
+03/13/2003  07:57 PM            45,780 kodo_3.1.1-0woody1_i386.deb
+03/13/2003  07:57 PM            53,316 kteatime_3.1.1-0woody1_i386.deb
+03/13/2003  07:58 PM           274,456 ktux_3.1.1-0woody1_i386.deb
+03/13/2003  08:00 PM           668,862 kweather_3.1.1-0woody1_i386.deb
+03/13/2003  08:00 PM           278,508 kworldclock_3.1.1-0woody1_i386.deb
+              21 File(s)      1,756,228 bytes
+
+ Directory of G:\pool\stable\kde\kdeutils
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+03/13/2003  05:06 AM           177,266 ark_3.1.1-0woody1_i386.deb
+04/03/2003  10:53 PM             2,912 index.html
+04/04/2003  01:28 AM             2,912 index.html_D=A
+04/04/2003  01:42 AM             2,912 index.html_D=D
+04/04/2003  01:28 AM             2,912 index.html_M=A
+04/04/2003  01:42 AM             2,912 index.html_M=D
+04/04/2003  01:42 AM             2,912 index.html_N=A
+04/04/2003  01:28 AM             2,912 index.html_N=D
+04/04/2003  01:28 AM             2,912 index.html_S=A
+04/04/2003  01:42 AM             2,912 index.html_S=D
+03/13/2003  05:06 AM            88,934 kcalc_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            49,796 kcharselect_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            21,138 kdepasswd_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            20,640 kdessh_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM             5,922 kdeutils_3.1.1-0woody1_all.deb
+03/13/2003  05:07 AM           246,548 kdf_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            86,410 kedit_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            60,818 kfloppy_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM           221,698 khexedit_3.1.1-0woody1_i386.deb
+03/13/2003  05:07 AM            67,502 kjots_3.1.1-0woody1_i386.deb
+03/13/2003  05:08 AM           134,608 klaptopdaemon_3.1.1-0woody1_i386.deb
+03/13/2003  05:08 AM           322,350 ksim_3.1.1-0woody1_i386.deb
+03/13/2003  05:08 AM            32,240 ktimer_3.1.1-0woody1_i386.deb
+03/13/2003  05:08 AM           211,880 libkregexpeditor_3.1.1-0woody1_i386.deb
+              24 File(s)      1,773,958 bytes
+
+ Directory of G:\pool\stable\kde\quanta
+
+04/04/2003  01:42 AM    <DIR>          .
+04/03/2003  10:53 PM    <DIR>          ..
+04/03/2003  10:53 PM             1,060 index.html
+04/04/2003  01:28 AM             1,060 index.html_D=A
+04/04/2003  01:42 AM             1,060 index.html_D=D
+04/04/2003  01:28 AM             1,060 index.html_M=A
+04/04/2003  01:42 AM             1,060 index.html_M=D
+04/04/2003  01:42 AM             1,060 index.html_N=A
+04/04/2003  01:28 AM             1,060 index.html_N=D
+04/04/2003  01:28 AM             1,060 index.html_S=A
+04/04/2003  01:42 AM             1,060 index.html_S=D
+03/19/2003  02:15 AM           784,024 kommander_3.1.1-0woody1_i386.deb
+03/19/2003  02:17 AM         2,070,786 quanta_3.1.1-0woody1_i386.deb
+              11 File(s)      2,864,350 bytes
+
+ Directory of G:\pool\stable\mozilla
+
+04/21/2003  09:46 AM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+03/07/2003  05:40 PM           701,868 flashplayer-mozilla_6.0.79-woody0.0_i386.deb
+04/01/2003  07:22 PM           113,326 libnspr4_2%3a1.3-4.he-2_i386.deb
+04/01/2003  07:22 PM           555,404 libnss3_2%3a1.3-4.he-2_i386.deb
+04/01/2003  07:22 PM        10,555,124 mozilla-browser_2%3a1.3-4.he-2_i386.deb
+04/01/2003  07:22 PM         2,063,588 mozilla-mailnews_2%3a1.3-4.he-2_i386.deb
+04/01/2003  07:22 PM           233,904 mozilla-psm_2%3a1.3-4.he-2_i386.deb
+04/02/2003  02:49 AM             1,016 mozilla_2%3a1.3-4.he-2_i386.deb
+               7 File(s)     14,224,230 bytes
+
+ Directory of G:\pool\stable\mplayer
+
+05/28/2003  12:03 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+01/15/2002  07:21 AM           191,786 libasound2_0.9.0beta10a-3_i386.deb
+03/16/2002  12:32 AM            61,106 libcdparanoia0_3a9.8-6_i386.deb
+02/01/2003  05:18 PM            34,518 libdvdnav1_0.1.3-woody1_i386.deb
+12/18/2001  10:30 PM            33,652 libdvdread2_0.9.2-0.1_i386.deb
+02/19/2003  10:23 PM           345,926 libfaad2-0_1.1-woody0.0_i386.deb
+09/14/2001  08:18 AM           167,462 libggi2_1%3a2.0.1-2_i386.deb
+09/03/2001  12:07 AM           112,742 libgii0_1%3a0.8.1-1_i386.deb
+02/22/2003  10:02 PM           141,146 liblame0_3.93.1-woody0.0_i386.deb
+02/03/2002  05:13 PM            30,876 liblircclient0_0.6.5-1_i386.deb
+06/30/2001  09:45 PM            40,922 liblzo1_1.07-1_i386.deb
+04/19/2002  07:02 AM            76,984 libmad0_0.14.2b-3_i386.deb
+02/01/2003  03:49 PM            28,302 libpostproc0_0.90rc1-woody0.4_i386.deb
+03/01/2003  08:35 PM           224,116 libxvidencore0_1%3a0.9.1-woody0.0_i386.deb
+05/10/2003  12:44 AM         1,301,120 mencoder-686_1%3a0.90-woody0.1_i386.deb
+05/10/2003  12:38 AM         1,932,538 mplayer-686_1%3a0.90-woody0.1_i386.deb
+04/13/2003  06:00 PM         1,178,238 mplayer-doc_1%3a0.90-0.0_all.deb
+04/28/2003  01:12 AM            17,166 mplayer-mozilla_0.71-woody0.0_i386.deb
+03/29/2002  09:17 PM           306,220 svgalibg1_1%3a1.4.3-7_i386.deb
+              18 File(s)      6,224,820 bytes
+
+ Directory of G:\pool\stable\ooo
+
+05/28/2003  08:59 AM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+04/23/2003  03:37 PM        36,931,416 openoffice.org-bin_1.0.3-1woody2_i386.deb
+04/22/2003  09:05 PM            19,964 openoffice.org-debian-files_1.0.3-2+1_all.deb
+04/17/2003  12:45 AM        12,688,054 openoffice.org-help-en_1.0.3-2_all.deb
+04/17/2003  12:45 AM         1,842,400 openoffice.org-l10n-en_1.0.3-2_all.deb
+04/17/2003  12:47 AM        10,871,306 openoffice.org_1.0.3-2_all.deb
+               5 File(s)     62,353,140 bytes
+
+ Directory of G:\pool\stable\real
+
+05/29/2003  01:05 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+05/29/2003  01:05 PM            19,172 realplayer_8.0.8_i386.deb
+02/18/2003  09:31 AM         4,929,328 rp8_linux20_libc6_i386_cs2_rpm
+               2 File(s)      4,948,500 bytes
+
+ Directory of G:\pool\stable\samba-tng
+
+04/28/2003  11:59 AM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+04/28/2003  11:59 AM           259,892 samba-tng-clients_0.3.2_i386.deb
+04/28/2003  11:59 AM           825,386 samba-tng-common_0.3.2_i386.deb
+04/28/2003  11:59 AM           480,760 samba-tng-doc_0.3.2_all.deb
+04/28/2003  11:59 AM           552,092 samba-tng-winbind_0.3.2_i386.deb
+04/28/2003  11:59 AM           584,852 samba-tng_0.3.2_i386.deb
+               5 File(s)      2,702,982 bytes
+
+ Directory of G:\pool\stable\xfree86
+
+04/19/2003  01:59 PM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+10/20/2002  05:00 AM           126,240 lbxproxy_4.2.1-3_i386.deb
+10/20/2002  05:00 AM           227,476 libdps-dev_4.2.1-3_i386.deb
+10/20/2002  05:00 AM           403,726 libdps1-dbg_4.2.1-3_i386.deb
+10/20/2002  05:00 AM           162,124 libdps1_4.2.1-3_i386.deb
+10/20/2002  05:00 AM           329,608 libxaw6-dbg_4.2.1-3_i386.deb
+10/20/2002  05:00 AM           289,238 libxaw6-dev_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           160,808 libxaw6_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           430,966 libxaw7-dbg_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           289,120 libxaw7-dev_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           208,248 libxaw7_4.2.1-3_i386.deb
+10/20/2002  05:01 AM            70,392 proxymngr_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           145,542 twm_4.2.1-3_i386.deb
+10/20/2002  05:01 AM            54,096 x-window-system-core_4.2.1-3_i386.deb
+10/20/2002  05:01 AM            53,932 x-window-system_4.2.1-3_all.deb
+10/20/2002  05:01 AM         1,469,958 xbase-clients_4.2.1-3_i386.deb
+10/20/2002  05:01 AM           165,494 xdm_4.2.1-3_i386.deb
+10/20/2002  05:03 AM         8,141,122 xfonts-100dpi-transcoded_4.2.1-3_all.deb
+10/20/2002  05:04 AM         4,259,886 xfonts-100dpi_4.2.1-3_all.deb
+10/20/2002  05:06 AM         7,010,528 xfonts-75dpi-transcoded_4.2.1-3_all.deb
+10/20/2002  05:07 AM         3,737,674 xfonts-75dpi_4.2.1-3_all.deb
+10/20/2002  05:07 AM         1,100,358 xfonts-base-transcoded_4.2.1-3_all.deb
+10/20/2002  05:08 AM         5,010,396 xfonts-base_4.2.1-3_all.deb
+10/20/2002  05:09 AM           427,208 xfonts-cyrillic_4.2.1-3_all.deb
+10/20/2002  05:09 AM           790,812 xfonts-scalable_4.2.1-3_all.deb
+10/20/2002  05:09 AM           597,646 xfree86-common_4.2.1-3_all.deb
+10/20/2002  05:09 AM           270,744 xfs_4.2.1-3_i386.deb
+10/20/2002  05:09 AM            74,722 xfwp_4.2.1-3_i386.deb
+10/20/2002  05:09 AM            53,894 xlib6g-dev_4.2.1-3_all.deb
+10/20/2002  05:09 AM            54,082 xlib6g_4.2.1-3_all.deb
+10/20/2002  05:09 AM           832,298 xlibmesa-dev_4.2.1-3_i386.deb
+10/20/2002  05:09 AM           855,060 xlibmesa3-dbg_4.2.1-3_i386.deb
+10/20/2002  05:10 AM         3,852,944 xlibmesa3_4.2.1-3_i386.deb
+10/20/2002  05:10 AM           520,904 xlibosmesa-dev_4.2.1-3_i386.deb
+10/20/2002  05:11 AM           971,928 xlibosmesa3-dbg_4.2.1-3_i386.deb
+10/20/2002  05:11 AM           461,600 xlibosmesa3_4.2.1-3_i386.deb
+10/20/2002  05:11 AM         2,213,664 xlibs-dbg_4.2.1-3_i386.deb
+10/20/2002  05:12 AM         2,602,764 xlibs-dev_4.2.1-3_i386.deb
+10/20/2002  05:12 AM            97,574 xlibs-pic_4.2.1-3_i386.deb
+10/20/2002  05:12 AM         1,197,714 xlibs_4.2.1-3_i386.deb
+10/20/2002  05:12 AM           118,166 xmh_4.2.1-3_i386.deb
+10/20/2002  05:13 AM         1,093,136 xnest_4.2.1-3_i386.deb
+10/20/2002  05:13 AM           824,448 xprt_4.2.1-3_i386.deb
+10/20/2002  05:13 AM           215,476 xserver-common_4.2.1-3_i386.deb
+10/20/2002  05:15 AM         7,250,662 xserver-xfree86-dbg_4.2.1-3_i386.deb
+10/20/2002  05:16 AM         4,045,982 xserver-xfree86_4.2.1-3_i386.deb
+10/20/2002  05:17 AM         4,168,144 xspecs_4.2.1-3_all.deb
+10/20/2002  05:17 AM           488,764 xterm_4.2.1-3_i386.deb
+10/20/2002  05:17 AM           638,272 xutils_4.2.1-3_i386.deb
+10/20/2002  05:17 AM         1,204,590 xvfb_4.2.1-3_i386.deb
+              49 File(s)     69,770,130 bytes
+
+ Directory of G:\pool\stable\ymessenger
+
+05/03/2003  12:01 AM    <DIR>          .
+06/04/2003  12:16 PM    <DIR>          ..
+11/19/2002  07:56 AM           585,568 ymessenger_0.99.19-1_i386.deb
+               1 File(s)        585,568 bytes
+
+ Directory of G:\vnc
+
+06/04/2003  04:28 PM    <DIR>          .
+06/04/2003  04:28 PM    <DIR>          ..
+06/04/2003  05:29 PM           988,179 vnc-3.3.3r7_x86_win32.zip
+               1 File(s)        988,179 bytes
+
+     Total Files Listed:
+             696 File(s)    698,851,525 bytes
+             150 Dir(s)               0 bytes free

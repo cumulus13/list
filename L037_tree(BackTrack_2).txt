@@ -1,0 +1,84 @@
+Folder PATH listing for volume SLAX
+Volume serial number is 61A9-FEC7
+G:\
++---BT
+|   |   COPYING
+|   |   LICENSE
+|   |   changelog.txt
+|   |   make_iso.bat
+|   |   make_iso.sh
+|   |   requirements.txt
+|   |   
+|   +---base
+|   |       bin.lzm
+|   |       etc.lzm
+|   |       home.lzm
+|   |       lib.lzm
+|   |       opt.lzm
+|   |       pentest.lzm
+|   |       root.lzm
+|   |       sbin.lzm
+|   |       usr.lzm
+|   |       var.lzm
+|   |       
+|   +---configs
+|   |       .config.busybox
+|   |       .config.busybox.new
+|   |       .config.kernel
+|   |       README
+|   |       
+|   +---modules
+|   +---optional
+|   +---rootcopy
+|   |   \---opt
+|   |       \---kde
+|   |           \---share
+|   |               \---applications
+|   |                   \---kde
+|   |                           ksnapshot.desktop
+|   |                           
+|   \---tools
+|       |   deb2lzm
+|       |   dir2lzm
+|       |   liblinuxlive
+|       |   lzm2dir
+|       |   mksquashfs
+|       |   mo2lzm
+|       |   tgz2lzm
+|       |   unsquashfs
+|       |   uselivemod
+|       |   
+|       \---WIN
+|               config
+|               cygwin1.dll
+|               mkisofs.exe
+|               
+\---boot
+    |   bootinst.bat
+    |   bootinst.sh
+    |   initrd.gz
+    |   memtest86p
+    |   splash.bmp
+    |   splash.bmp.gz
+    |   vesamenu.c32
+    |   vmlinuz
+    |   
+    +---dos
+    |       BT.bat
+    |       config
+    |       loadlin.exe
+    |       readme.txt
+    |       
+    +---isolinux
+    |       isolinux.bin
+    |       isolinux.boot
+    |       isolinux.cfg
+    |       
+    \---syslinux
+            lilo
+            mbr.bin
+            syslinux
+            syslinux.cfg
+            syslinux.com
+            syslinux.exe
+            

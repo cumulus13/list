@@ -1,0 +1,193 @@
+ Volume in drive G is Project PWP2
+ Volume Serial Number is BA4B-2FC8
+
+ Directory of G:\
+
+10/02/2009  07:50 PM    <DIR>          supermarket
+09/18/2009  01:40 PM    <DIR>          tyty
+               0 File(s)              0 bytes
+
+ Directory of G:\supermarket
+
+10/02/2009  07:50 PM    <DIR>          .
+10/02/2009  07:50 PM    <DIR>          ..
+04/29/2009  11:21 PM             3,099 about.php
+04/29/2009  10:22 PM               159 atur.css
+04/29/2009  11:11 PM             2,984 barang.php
+04/15/2009  10:35 AM               394 cek.php
+02/17/2009  12:31 PM                79 ceklogin.inc.php
+04/12/2009  09:11 AM                88 conn.inc.php
+10/02/2009  07:50 PM    <DIR>          fonts
+12/31/2002  11:15 PM                92 footer.inc.php
+04/29/2009  10:46 PM             3,935 formBarang.php
+12/31/2002  11:15 PM               204 header.inc.php
+10/02/2009  07:50 PM    <DIR>          images
+04/29/2009  10:28 PM               683 index.php
+08/29/2007  08:42 AM               128 logout.php
+04/29/2009  11:10 PM             3,596 main.php
+04/29/2009  11:11 PM             2,983 penjualan.php
+04/29/2009  10:37 PM             4,426 style.css
+04/15/2009  04:46 PM             2,128 toko.sql
+04/29/2009  10:48 PM             4,415 tpenjualan.php
+              16 File(s)         29,393 bytes
+
+ Directory of G:\supermarket\fonts
+
+10/02/2009  07:50 PM    <DIR>          .
+10/02/2009  07:50 PM    <DIR>          ..
+09/06/2006  07:19 PM           137,576 HAZELN.TTF
+10/14/2004  01:55 PM           105,084 Scriptina.ttf
+12/23/1998  08:52 AM            33,252 ZURCHB.TTF
+12/17/1998  01:28 PM            37,800 ZURCHBC.TTF
+12/23/1998  08:52 AM            39,600 ZURCHBCI.TTF
+12/17/1998  01:28 PM            37,468 ZURCHBE.TTF
+12/23/1998  08:52 AM            34,752 ZURCHBI.TTF
+12/17/1998  01:28 PM            37,824 ZURCHBXC.TTF
+12/23/1998  08:52 AM            37,268 ZURCHC.TTF
+12/23/1998  08:52 AM            39,148 ZURCHCI.TTF
+12/17/1998  01:28 PM            37,028 ZURCHE.TTF
+12/23/1998  08:52 AM            34,508 ZURCHI.TTF
+12/17/1998  01:28 PM            37,912 ZURCHK.TTF
+12/17/1998  01:28 PM            37,948 ZURCHKE.TTF
+12/17/1998  01:28 PM            38,960 ZURCHKI.TTF
+12/23/1998  08:52 AM            36,728 ZURCHL.TTF
+12/23/1998  08:52 AM            36,944 ZURCHLC.TTF
+12/30/1998  04:15 AM            39,164 ZURCHLCI.TTF
+12/23/1998  08:52 AM            38,740 ZURCHLI.TTF
+12/17/1998  01:28 PM            37,316 ZURCHLXC.TTF
+12/23/1998  08:52 AM            33,100 ZURCHN.TTF
+12/17/1998  01:28 PM            38,412 ZURCHUKE.TTF
+12/17/1998  01:28 PM            37,640 ZURCHXC.TTF
+12/23/1998  08:52 AM            37,396 ZURCHXK.TTF
+04/13/2009  12:33 PM            25,088 fonts.exe
+09/06/2006  07:19 PM             8,136 vladimir.TTF
+09/06/2006  07:19 PM            63,068 vladmrsn.ttf
+              27 File(s)      1,157,860 bytes
+
+ Directory of G:\supermarket\images
+
+10/02/2009  07:50 PM    <DIR>          .
+10/02/2009  07:50 PM    <DIR>          ..
+04/29/2009  10:23 PM           164,731 HPRadiance.jpg
+04/29/2009  10:24 PM           161,409 HPRadiance2.jpg
+04/29/2009  10:00 PM           161,280 Thumbs.db
+04/29/2009  11:03 PM            50,688 Untitled-1.fla
+04/29/2009  11:04 PM               995 Untitled-1.html
+04/13/2009  07:49 PM             2,340 ab1.jpg
+04/13/2009  07:49 PM             5,038 ab2.jpg
+04/13/2009  07:49 PM               532 ab3.jpg
+04/13/2009  07:49 PM             5,766 about.jpg
+11/07/2006  10:28 AM                48 arrow.gif
+11/07/2006  10:45 AM               126 border.gif
+11/07/2006  11:18 AM               126 borderfooter.gif
+11/07/2006  11:20 AM               885 borderfooterend.gif
+04/13/2009  07:49 PM            15,173 contact.jpg
+11/07/2006  10:10 AM             1,282 contentbg.gif
+11/07/2006  10:24 AM            32,541 copyright.jpg
+04/13/2009  07:49 PM            53,735 dn1.jpg
+04/13/2009  07:49 PM               878 dn2.jpg
+04/13/2009  07:49 PM               946 dn3.jpg
+04/13/2009  07:49 PM             4,363 folio.jpg
+04/15/2009  12:33 PM            82,061 header.jpg
+04/13/2009  12:33 PM            25,088 images.exe
+04/13/2009  07:49 PM             1,112 index_14.jpg
+04/13/2009  07:49 PM               567 index_16.jpg
+04/13/2009  07:49 PM               649 index_22.jpg
+04/13/2009  07:49 PM             2,770 index_23.jpg
+04/13/2009  07:49 PM             6,712 index_25.jpg
+04/13/2009  07:49 PM             6,280 index_27.jpg
+01/01/2003  01:29 AM            24,593 login.gif
+04/13/2009  07:49 PM            76,993 m1.jpg
+04/13/2009  07:49 PM            93,602 m2.jpg
+04/13/2009  07:49 PM            17,181 m3.jpg
+11/07/2006  10:58 AM             5,287 menu.gif
+11/07/2006  10:27 AM            35,457 menubottom.jpg
+04/13/2009  07:49 PM             4,722 news.jpg
+04/13/2009  07:49 PM               438 nw1.jpg
+04/13/2009  07:49 PM               458 nw2.jpg
+04/13/2009  07:49 PM            14,972 nw3.jpg
+04/13/2009  07:49 PM             1,440 p1.jpg
+04/13/2009  07:49 PM             1,516 p2.jpg
+04/13/2009  07:49 PM            11,974 p3.jpg
+11/07/2006  10:37 AM             5,437 paypal.gif
+11/07/2006  10:12 AM             4,864 product1.gif
+11/07/2006  10:13 AM             4,922 product2.gif
+11/07/2006  10:13 AM             5,187 product3.gif
+11/07/2006  10:14 AM             5,007 product4.gif
+11/07/2006  10:15 AM             4,453 product5.gif
+11/07/2006  10:15 AM             3,822 product6.gif
+11/07/2006  10:16 AM             4,575 product7.gif
+11/07/2006  10:16 AM             4,777 product8.gif
+11/07/2006  10:39 AM               974 products.gif
+04/15/2009  09:49 AM             4,360 saltandsoap_15.jpg
+04/15/2009  09:49 AM             3,725 saltandsoap_17.jpg
+04/13/2009  07:49 PM            11,051 se1.jpg
+04/13/2009  07:49 PM               451 se2.jpg
+04/15/2009  10:05 AM                43 spacer.gif
+04/15/2009  09:37 AM           404,287 supermarket.jpg
+04/15/2009  10:05 AM           269,659 supermarket_01.jpg
+04/15/2009  10:05 AM            16,987 supermarket_02.jpg
+04/15/2009  10:05 AM             1,395 supermarket_03.jpg
+04/15/2009  10:05 AM            34,103 supermarket_04.jpg
+04/15/2009  10:05 AM               309 supermarket_05.jpg
+04/15/2009  10:05 AM             2,314 supermarket_06.jpg
+04/15/2009  10:05 AM               817 supermarket_07.jpg
+04/15/2009  10:05 AM             2,340 supermarket_08.jpg
+04/15/2009  10:05 AM             1,175 supermarket_09.jpg
+04/15/2009  10:05 AM             1,035 supermarket_10.jpg
+04/15/2009  10:05 AM             2,886 supermarket_11.jpg
+04/15/2009  10:05 AM             2,076 supermarket_12.jpg
+04/15/2009  10:05 AM             3,515 supermarket_13.jpg
+04/15/2009  09:49 AM             2,945 supermarket_14.jpg
+04/15/2009  09:45 AM             4,360 supermarket_15.jpg
+04/15/2009  09:49 AM               309 supermarket_16.jpg
+04/15/2009  09:45 AM             3,725 supermarket_17.jpg
+04/15/2009  09:49 AM             3,813 supermarket_18.jpg
+04/15/2009  09:49 AM               313 supermarket_19.jpg
+04/15/2009  09:49 AM             4,294 supermarket_20.jpg
+04/15/2009  09:49 AM               363 supermarket_21.jpg
+04/15/2009  09:49 AM             3,340 supermarket_22.jpg
+04/15/2009  09:49 AM             4,144 supermarket_23.jpg
+04/15/2009  09:49 AM               521 supermarket_24.jpg
+04/15/2009  09:49 AM             2,110 supermarket_25.jpg
+04/15/2009  09:49 AM             3,970 supermarket_26.jpg
+04/15/2009  09:49 AM               321 supermarket_27.jpg
+04/15/2009  09:49 AM               316 supermarket_28.jpg
+04/15/2009  09:49 AM             3,186 supermarket_29.jpg
+04/15/2009  09:49 AM             3,886 supermarket_30.jpg
+04/15/2009  09:49 AM               471 supermarket_31.jpg
+04/15/2009  09:49 AM             4,046 supermarket_32.jpg
+04/15/2009  09:49 AM             3,627 supermarket_33.jpg
+04/15/2009  09:49 AM             3,650 supermarket_34.jpg
+04/15/2009  09:49 AM               311 supermarket_35.jpg
+04/15/2009  09:49 AM             3,230 supermarket_36.jpg
+04/15/2009  09:49 AM             6,004 supermarket_37.jpg
+04/15/2009  09:49 AM             1,155 supermarket_38.jpg
+04/15/2009  09:49 AM             8,214 supermarket_39.jpg
+04/15/2009  09:49 AM             2,142 supermarket_40.jpg
+04/13/2009  07:49 PM            25,857 title.jpg
+11/07/2006  10:38 AM             2,392 welcome.gif
+04/29/2009  11:04 PM             2,096 welcome.swf
+             100 File(s)      1,988,411 bytes
+
+ Directory of G:\tyty
+
+09/18/2009  01:40 PM    <DIR>          .
+10/02/2009  07:50 PM    <DIR>          ..
+09/15/2009  08:08 AM        43,009,374 TORA2_Trimmed.avi
+09/15/2009  07:59 AM         6,628,638 TORA3_Trimmed.avi
+09/15/2009  12:11 AM        95,186,040 TORA5_Trimmed.avi
+09/15/2009  07:53 AM         6,903,782 TORA5_Trimmed2.avi
+09/14/2009  11:50 PM        30,247,978 TORA6_Trimmed.avi
+09/14/2009  11:54 PM        16,607,690 TORA6_Trimmed4.avi
+09/15/2009  12:06 AM        14,204,698 TORA6_TrimmedX.avi
+09/14/2009  11:38 PM        59,739,138 TORA8_Trimmed.avi
+09/14/2009  11:42 PM        25,007,436 TORA8_Trimmed2.avi
+09/14/2009  11:46 PM       177,454,742 TORA8_Trimmed3.avi
+09/14/2009  11:11 PM       200,936,782 TORA9_Trimmed2.avi
+09/14/2009  11:32 PM        28,683,160 TORA9_TrimmedX.avi
+              12 File(s)    704,609,458 bytes
+
+     Total Files Listed:
+             155 File(s)    707,785,122 bytes
+              12 Dir(s)               0 bytes free

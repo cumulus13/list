@@ -1,0 +1,3931 @@
+Folder PATH listing for volume NW65OS
+Volume serial number is 597C-D7FF
+G:\
+|   AUTORUN.INF
+|   EGA.CPI
+|   INSTALL.BAT
+|   MODE.COM
+|   NETMAIN.ILS
+|   NLSFUNC.EXE
+|   NW65OS
+|   NWDEPLOY.EXE
+|   PRODUCT.NI
+|   READ_ME.HTM
+|   READ_ME.TXT
+|   
++---CONFIG
+|   +---ETC
+|   |   |   AFPVOL.CFG
+|   |   |   ATTYPES.CFG
+|   |   |   BUILTINS.CFG
+|   |   |   CIFS.CFG
+|   |   |   GATEWAYS
+|   |   |   HOSTS
+|   |   |   NETWORKS
+|   |   |   NLSALARM.MIB
+|   |   |   NLSTRAP.CFG
+|   |   |   SLP.CFG
+|   |   |   SNMP.CFG
+|   |   |   TESTROOT.DER
+|   |   |   TRAPTARG.CFG
+|   |   |   TRUSTEES.XML
+|   |   |   
+|   |   \---DNS
+|   |       |   ROOTSRVR.DAT
+|   |       |   
+|   |       \---MIB
+|   |               DNSSERVER.MIB
+|   |               
+|   \---SYSTEM
+|           MIMETYP.TXT
+|           TIMESERV.NCF
+|           
++---DRIVERS
+|   +---CIOS
+|   |       EHCIDRV.CAD
+|   |       OHCIDRV.CAD
+|   |       UHCIDRV.CAD
+|   |       
+|   +---LAN
+|   |   |   3C2000.LAN
+|   |   |   3C2000.LDI
+|   |   |   3C90XC.LAN
+|   |   |   3C90XC.LDI
+|   |   |   3C980.LAN
+|   |   |   3C980.LDI
+|   |   |   3C986.LAN
+|   |   |   3C986.LDI
+|   |   |   3C99X.LAN
+|   |   |   3C99X.LDI
+|   |   |   AM8111NW.LAN
+|   |   |   AM8111NW.LDI
+|   |   |   B57.LAN
+|   |   |   B57.LDI
+|   |   |   BASP.LAN
+|   |   |   BASP.LDI
+|   |   |   BASPREAD.TXT
+|   |   |   BMAPI.NLM
+|   |   |   BMAPI.TXT
+|   |   |   BSNMP.NLM
+|   |   |   BSNMP.TXT
+|   |   |   CDL2X.LAN
+|   |   |   CDL2X.LDI
+|   |   |   CDLH5X.LAN
+|   |   |   CDLH5X.LDI
+|   |   |   CE1000.LAN
+|   |   |   CE1000.LDI
+|   |   |   CE100B.LAN
+|   |   |   CE100B.LDI
+|   |   |   CNE2000.LAN
+|   |   |   CNE2000.LDI
+|   |   |   CNEAMD.LAN
+|   |   |   CNEAMD.LDI
+|   |   |   CPCNTNW.LAN
+|   |   |   CPCNTNW.LDI
+|   |   |   DFE528.LAN
+|   |   |   DFE528.LDI
+|   |   |   DLKFET.LAN
+|   |   |   DLKFET.LDI
+|   |   |   DLKRT.LAN
+|   |   |   DLKRT.LDI
+|   |   |   DLKRTS.LAN
+|   |   |   DLKRTS.LDI
+|   |   |   FETNWSC.LAN
+|   |   |   FETNWSC.LDI
+|   |   |   GETNWSC.LAN
+|   |   |   GETNWSC.LDI
+|   |   |   IANS.LAN
+|   |   |   IANS.LDI
+|   |   |   IBMCOS.NLM
+|   |   |   IBMRNIC.NLM
+|   |   |   IBMTRPO.LAN
+|   |   |   IBMTRPO.LDI
+|   |   |   IP100.LAN
+|   |   |   IP100.LDI
+|   |   |   M4CXNW.LAN
+|   |   |   M4CXNW.LDI
+|   |   |   N100.LAN
+|   |   |   N100.LDI
+|   |   |   N1000.LAN
+|   |   |   N1000.LDI
+|   |   |   PCNTNW.LAN
+|   |   |   PCNTNW.LDI
+|   |   |   Q57.LAN
+|   |   |   Q57.LDI
+|   |   |   R8169SRV.LAN
+|   |   |   R8169SRV.LDI
+|   |   |   ROUTE.NDI
+|   |   |   ROUTE.NLM
+|   |   |   RTSSRV.LAN
+|   |   |   RTSSRV.LDI
+|   |   |   SK98NW.LAN
+|   |   |   SK98NW.LDI
+|   |   |   TC902X.LAN
+|   |   |   TC902X.LDI
+|   |   |   
+|   |   \---NLS
+|   |       +---12
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       +---13
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       +---14
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       +---4
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       +---6
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       +---7
+|   |       |       CNE2000.MSG
+|   |       |       CNEAMD.MSG
+|   |       |       I2OPCI.MSG
+|   |       |       IOPX.MSG
+|   |       |       
+|   |       \---8
+|   |               CNE2000.MSG
+|   |               CNEAMD.MSG
+|   |               I2OPCI.MSG
+|   |               IOPX.MSG
+|   |               
+|   +---PSM
+|   |   |   ACPIASL.NLM
+|   |   |   ACPICA.NLM
+|   |   |   ACPICMGR.NLM
+|   |   |   ACPIDRV.MDI
+|   |   |   ACPIDRV.PSM
+|   |   |   ACPIPWR.NLM
+|   |   |   MPS14.MDI
+|   |   |   MPS14.PSM
+|   |   |   
+|   |   \---NLS
+|   |       +---12
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       +---13
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       +---14
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       +---4
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       +---6
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       +---7
+|   |       |       MPS14.MSG
+|   |       |       
+|   |       \---8
+|   |               MPS14.MSG
+|   |               
+|   +---SBD
+|   |       ACPISBD.HDI
+|   |       ACPISBD.NLM
+|   |       CPQSBD.HDI
+|   |       CPQSBD.NLM
+|   |       IBMSBD.HDI
+|   |       IBMSBD.NLM
+|   |       IBMXSBD.HDI
+|   |       IBMXSBD.NLM
+|   |       PHPSBD.HDI
+|   |       PHPSBD.NLM
+|   |       
+|   +---STORAGE
+|   |   |   AACRAID.DDI
+|   |   |   AACRAID.HAM
+|   |   |   ADPT160M.DDI
+|   |   |   ADPT160M.HAM
+|   |   |   ADPU320.DDI
+|   |   |   ADPU320.HAM
+|   |   |   AHA2940.DDI
+|   |   |   AHA2940.HAM
+|   |   |   AIC78U2.DDI
+|   |   |   AIC78U2.HAM
+|   |   |   BKSTROSM.DDI
+|   |   |   BKSTROSM.HAM
+|   |   |   CPQARRAY.DDI
+|   |   |   CPQARRAY.HAM
+|   |   |   CPQFC.DDI
+|   |   |   CPQFC.HAM
+|   |   |   CPQRAID.DDI
+|   |   |   CPQRAID.HAM
+|   |   |   CPQSCSI.DDI
+|   |   |   CPQSCSI.HAM
+|   |   |   CPQSHD.CDM
+|   |   |   CPQSHD.DDI
+|   |   |   DLTTAPE.CDM
+|   |   |   DLTTAPE.DDI
+|   |   |   FASTTRAK.DDI
+|   |   |   FASTTRAK.HAM
+|   |   |   FSNEVENT.NLM
+|   |   |   FSNRPC.NLM
+|   |   |   FSNSNMP.NLM
+|   |   |   FSNTRACE.NLM
+|   |   |   FSNUTIL.NLM
+|   |   |   FSSYSLOG.NLM
+|   |   |   FTS150.DDI
+|   |   |   FTS150.HAM
+|   |   |   FTSX.DDI
+|   |   |   FTSX.HAM
+|   |   |   I2OPCI.DDI
+|   |   |   I2OPCI.NLM
+|   |   |   IDEATA.DDI
+|   |   |   IDEATA.HAM
+|   |   |   IDECD.CDM
+|   |   |   IDECD.DDI
+|   |   |   IDEHD.CDM
+|   |   |   IDEHD.DDI
+|   |   |   IDEMO.CDM
+|   |   |   IDEMO.DDI
+|   |   |   IOPX.NLM
+|   |   |   IPSRAID.DDI
+|   |   |   IPSRAID.HAM
+|   |   |   IPSTORLB.NLM
+|   |   |   IRP.NLM
+|   |   |   ISCLIENT.NLM
+|   |   |   ISCLIREG.NLM
+|   |   |   ISCLIRPC.NLM
+|   |   |   ISCMD.NLM
+|   |   |   ISCOMMON.NLM
+|   |   |   ISSVRRPC.NLM
+|   |   |   ISUTIL.NLM
+|   |   |   LPFC.DDI
+|   |   |   LPFC.HAM
+|   |   |   LSI8XXNW.DDI
+|   |   |   LSI8XXNW.HAM
+|   |   |   LSICFGNW.NLM
+|   |   |   LSIHINW.DDI
+|   |   |   LSIHINW.HAM
+|   |   |   LSIMPE.CDM
+|   |   |   LSIMPTNW.DDI
+|   |   |   LSIMPTNW.HAM
+|   |   |   LSI_U3NW.DDI
+|   |   |   LSI_U3NW.HAM
+|   |   |   MEG2ASPI.DDI
+|   |   |   MEG2ASPI.NLM
+|   |   |   MEGA4_XX.DDI
+|   |   |   MEGA4_XX.HAM
+|   |   |   MEGAMMIO.NLM
+|   |   |   MEGARIDE.DDI
+|   |   |   MEGARIDE.HAM
+|   |   |   NETR4M.DDI
+|   |   |   NETR4M.HAM
+|   |   |   NWASPI.CDM
+|   |   |   NWASPI.DDI
+|   |   |   NWTAPE.CDM
+|   |   |   NWTAPE.DDI
+|   |   |   PEDGE3.DDI
+|   |   |   PEDGE3.HAM
+|   |   |   PERC2.DDI
+|   |   |   PERC2.HAM
+|   |   |   QL2300.DDI
+|   |   |   QL2300.HAM
+|   |   |   QLCGEM.CDM
+|   |   |   QLCGEM.DDI
+|   |   |   QLCSFTE.CDM
+|   |   |   QLCSFTE.DDI
+|   |   |   SANDBG.NLM
+|   |   |   SANDRV.NLM
+|   |   |   SANIP.HAM
+|   |   |   SANNRM.NLM
+|   |   |   SANOFF.NCF
+|   |   |   SANON.NCF
+|   |   |   SCSICD.CDM
+|   |   |   SCSICD.DDI
+|   |   |   SCSIHD.CDM
+|   |   |   SCSIHD.DDI
+|   |   |   SCSIMO.CDM
+|   |   |   SCSIMO.DDI
+|   |   |   SCSIOSM.DDI
+|   |   |   SCSIOSM.HAM
+|   |   |   SIIATA.DDI
+|   |   |   SIIATA.HAM
+|   |   |   SNICD.DDI
+|   |   |   SRCRX.DDI
+|   |   |   SRCRX.HAM
+|   |   |   SYSLOG.NLM
+|   |   |   ULSATA.DDI
+|   |   |   ULSATA.HAM
+|   |   |   ULTRA.DDI
+|   |   |   ULTRA.HAM
+|   |   |   
+|   |   \---NLS
+|   |       +---12
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       +---13
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       +---14
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       +---4
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       +---6
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       +---7
+|   |       |       NWTAPE.MSG
+|   |       |       
+|   |       \---8
+|   |               NWTAPE.MSG
+|   |               
+|   +---UNSUPDRV
+|   |       3C1556.LAN
+|   |       3C1556.LDI
+|   |       3C90X.LAN
+|   |       3C90X.LDI
+|   |       AFC9XXX.DDI
+|   |       AFC9XXX.HAM
+|   |       AFCNW.DDI
+|   |       AFCNW.HAM
+|   |       CATNIC.LAN
+|   |       CATNIC.LDI
+|   |       CE3ODI.LAN
+|   |       CE3ODI.LDI
+|   |       CFG.NLM
+|   |       CPQNF3.LAN
+|   |       CPQNF3.LDI
+|   |       DC21X4.LAN
+|   |       DC21X4.LDI
+|   |       E100B.LAN
+|   |       E100B.LDI
+|   |       HHBA5100.DDI
+|   |       HHBA5100.HAM
+|   |       MDACFSI.DDI
+|   |       MDACFSI.HAM
+|   |       NIASMDM1.MDC
+|   |       NIASMDM2.MDC
+|   |       QL12160.DDI
+|   |       QL12160.HAM
+|   |       QL2100.DDI
+|   |       QL2100.HAM
+|   |       QL2100D.DDI
+|   |       QL2100D.HAM
+|   |       QL2200.DDI
+|   |       QL2200.HAM
+|   |       QL2200D.DDI
+|   |       QL2200D.HAM
+|   |       QL2300D.DDI
+|   |       QL2300D.HAM
+|   |       QL2X00.DDI
+|   |       QL2X00.HAM
+|   |       QL2X00D.DDI
+|   |       QL2X00D.HAM
+|   |       READIT.TXT
+|   |       SCSISAN.CDM
+|   |       SCSISAN.DDI
+|   |       SKFPNW.LAN
+|   |       SKFPNW.LDI
+|   |       XIOT.DDI
+|   |       XIOT.HAM
+|   |       
+|   \---WAN
+|           AIOBCMSM.ADI
+|           AIOBCMSM.NLM
+|           BCM4212.MDC
+|           MTSV92.MDC
+|           NIASMDM1.MDC
+|           NIASMDM2.MDC
+|           NW65MDM.MDC
+|           P92.LAN
+|           P92.LDI
+|           
++---INSTALL
+|   |   AUTO2.BAT
+|   |   AUTO3.BAT
+|   |   CCSCHECK.NLM
+|   |   CPDATA.NLM
+|   |   CPQBOOT.EXE
+|   |   DELIST
+|   |   DHCPUTIL.NLM
+|   |   DISK1.IMG
+|   |   DRVCHK.TXT
+|   |   EXCLUDE.TPL
+|   |   FACTORY.NCF
+|   |   FACTORY.TXT
+|   |   FACTORY2.ICS
+|   |   FIXLIST
+|   |   INAUTO5X.NCF
+|   |   INST2RC
+|   |   INSTALL.BAT
+|   |   INSTAUTO.NCF
+|   |   INSTMENU.SER
+|   |   INSTPROX.NLM
+|   |   LOCALSEL.NLM
+|   |   MMSHIM.NLM
+|   |   NINSTALL.EXE
+|   |   NISETUP.NLM
+|   |   NOVELL.XPM
+|   |   NOVSW.XPM
+|   |   NWIVWAN.TXT
+|   |   PARTFIX.NLM
+|   |   PRODSYNC.NLM
+|   |   PROFILE.TXT
+|   |   REMOTE.TXT
+|   |   REMOTE1.TXT
+|   |   RESPONSE.TXT
+|   |   SEARCHES.NCF
+|   |   SPWNSRV.EXE
+|   |   SSLSERV.NLM
+|   |   UPGRADE.BAT
+|   |   UPGRADE.TXT
+|   |   
+|   +---CFGS
+|   |       C1ENV.NCF
+|   |       ENVNISI.NCF
+|   |       NICONFIG.NCF
+|   |       NISETSI.NCF
+|   |       NISETSI2.NCF
+|   |       NWICLOSE.NCF
+|   |       NWISTART.NCF
+|   |       RESETJ.NCF
+|   |       RUNSI.NCF
+|   |       
+|   +---DRDOS
+|   |   +---SYS
+|   |   |       AUTOEXEC.BAT
+|   |   |       COMMAND.COM
+|   |   |       CONFIG.SYS
+|   |   |       IBMBIO.COM
+|   |   |       IBMDOS.COM
+|   |   |       
+|   |   \---UTIL
+|   |           BRFIX.EXE
+|   |           CHKDSK.EXE
+|   |           CHOICE.COM
+|   |           DISKCOPY.COM
+|   |           DISKOPT.EXE
+|   |           DRIVESET.EXE
+|   |           EDIT.COM
+|   |           FC.COM
+|   |           FDISK.COM
+|   |           FORMAT.COM
+|   |           SYS.COM
+|   |           XCOPY.EXE
+|   |           
+|   +---JAR
+|   |       PRODUCT.JAR
+|   |       
+|   +---JAVABIN
+|   |       APJAVA.NLM
+|   |       AUDITJV.NLM
+|   |       CPDATAJV.NLM
+|   |       DSIJV.NLM
+|   |       INETLBJV.NLM
+|   |       JAVAWTCH.NLM
+|   |       NWIPRJV.NLM
+|   |       NWIWSJV.NLM
+|   |       TZJV.NLM
+|   |       UTILJV.NLM
+|   |       
+|   +---LCONFIG
+|   |       LC_437.001
+|   |       LC_437.003
+|   |       LC_437.007
+|   |       LC_437.027
+|   |       LC_437.031
+|   |       LC_437.032
+|   |       LC_437.033
+|   |       LC_437.034
+|   |       LC_437.039
+|   |       LC_437.041
+|   |       LC_437.043
+|   |       LC_437.044
+|   |       LC_437.046
+|   |       LC_437.049
+|   |       LC_437.052
+|   |       LC_437.054
+|   |       LC_437.055
+|   |       LC_437.056
+|   |       LC_437.057
+|   |       LC_437.058
+|   |       LC_437.060
+|   |       LC_437.061
+|   |       LC_437.064
+|   |       LC_437.065
+|   |       LC_437.091
+|   |       LC_437.353
+|   |       LC_437.358
+|   |       LC_437.593
+|   |       LC_437.852
+|   |       LC_850.001
+|   |       LC_850.002
+|   |       LC_850.003
+|   |       LC_850.004
+|   |       LC_850.007
+|   |       LC_850.027
+|   |       LC_850.030
+|   |       LC_850.031
+|   |       LC_850.032
+|   |       LC_850.033
+|   |       LC_850.034
+|   |       LC_850.036
+|   |       LC_850.038
+|   |       LC_850.039
+|   |       LC_850.040
+|   |       LC_850.041
+|   |       LC_850.042
+|   |       LC_850.043
+|   |       LC_850.044
+|   |       LC_850.045
+|   |       LC_850.046
+|   |       LC_850.047
+|   |       LC_850.048
+|   |       LC_850.049
+|   |       LC_850.052
+|   |       LC_850.054
+|   |       LC_850.055
+|   |       LC_850.056
+|   |       LC_850.057
+|   |       LC_850.058
+|   |       LC_850.061
+|   |       LC_850.064
+|   |       LC_850.090
+|   |       LC_850.351
+|   |       LC_850.353
+|   |       LC_850.354
+|   |       LC_850.355
+|   |       LC_850.358
+|   |       LC_850.359
+|   |       LC_850.381
+|   |       LC_850.384
+|   |       LC_850.386
+|   |       LC_850.387
+|   |       LC_850.389
+|   |       LC_850.421
+|   |       LC_850.593
+|   |       LC_850.785
+|   |       LC_850.972
+|   |       LC_852.007
+|   |       LC_852.036
+|   |       LC_852.038
+|   |       LC_852.040
+|   |       LC_852.042
+|   |       LC_852.048
+|   |       LC_852.355
+|   |       LC_852.384
+|   |       LC_852.386
+|   |       LC_852.387
+|   |       LC_852.421
+|   |       LC_855.007
+|   |       LC_855.038
+|   |       LC_855.359
+|   |       LC_855.381
+|   |       LC_855.389
+|   |       LC_857.090
+|   |       LC_860.351
+|   |       LC_861.354
+|   |       LC_862.972
+|   |       LC_863.002
+|   |       LC_863.004
+|   |       LC_865.045
+|   |       LC_865.047
+|   |       LC_866.007
+|   |       LC_874.066
+|   |       LC_932.081
+|   |       LC_936.086
+|   |       LC_949.082
+|   |       LC_950.088
+|   |       
+|   +---NDS7NSS
+|   |       NDS7NSS.IPS
+|   |       
+|   +---NLS
+|   |   |   COPYLANG.ICS
+|   |   |   INSTAUTO.NCF
+|   |   |   SETLANG.ICS
+|   |   |   
+|   |   +---1
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       
+|   |   +---12
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---13
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---14
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---16
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       
+|   |   +---17
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       
+|   |   +---21
+|   |   |       LICENSE.TXT
+|   |   |       
+|   |   +---3
+|   |   |       LICENSE.TXT
+|   |   |       
+|   |   +---4
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       CONONE.IPS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---6
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---7
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   +---8
+|   |   |       CHGLANG.ILS
+|   |   |       COMOTHR.ILS
+|   |   |       DEFCOPY.ILS
+|   |   |       DEFPRE.ILS
+|   |   |       DEFUPGRD.ILS
+|   |   |       DOS_BACK.ILS
+|   |   |       DOS_COMP.ILS
+|   |   |       DOS_COPY.ILS
+|   |   |       DOS_INST.ILS
+|   |   |       DOS_TCPY.ILS
+|   |   |       DOS_UP.ILS
+|   |   |       DOS_UPP.ILS
+|   |   |       GUI_INST.ILS
+|   |   |       LICENSE.TXT
+|   |   |       LICENSE2.TXT
+|   |   |       LOCALE.TXT
+|   |   |       LOCALSEL.HLP
+|   |   |       LOCALSEL.MSG
+|   |   |       NISETUP.MSG
+|   |   |       NSBS.ILS
+|   |   |       NWIWSJV.MSG
+|   |   |       PROD_CHK.ILS
+|   |   |       SYS_BACK.ILS
+|   |   |       SYS_COMP.ILS
+|   |   |       SYS_COPY.ILS
+|   |   |       SYS_INST.ILS
+|   |   |       SYS_JAVA.ILS
+|   |   |       SYS_PROD.ILS
+|   |   |       SYS_UP.ILS
+|   |   |       SYS_UPP.ILS
+|   |   |       
+|   |   \---9
+|   |           LICENSE.TXT
+|   |           LICENSE2.TXT
+|   |           
+|   +---TARS
+|   |       NI.ZIP
+|   |       
+|   \---ZIP
+|           APACHE2.ZIP
+|           AUDIT.ZIP
+|           BNS.ZIP
+|           CONSOLE1.ZIP
+|           DNIP.ZIP
+|           DS.ZIP
+|           EGUIDE.ZIP
+|           EMBOX.ZIP
+|           EXTEND.ZIP
+|           IFOLDER.ZIP
+|           IMONITOR.ZIP
+|           ISCSIIN.ZIP
+|           ISTORAGE.ZIP
+|           J2EE.ZIP
+|           LDAP.ZIP
+|           LIC.ZIP
+|           MYSQL.ZIP
+|           NAS.ZIP
+|           NDPS.ZIP
+|           NFA.ZIP
+|           NFAU.ZIP
+|           NICI.ZIP
+|           NJIE.ZIP
+|           NMAS.ZIP
+|           NWFTPD.ZIP
+|           PKIINST.ZIP
+|           PORTAL.ZIP
+|           PROTOCOL.ZIP
+|           PROXY.ZIP
+|           RSYNCSRV.ZIP
+|           SCRIPT.ZIP
+|           SERVER.ZIP
+|           SMS.ZIP
+|           SNMP.ZIP
+|           SSH.ZIP
+|           TIME.ZIP
+|           TOMCAT4.ZIP
+|           UDDI.ZIP
+|           VOFFICE.ZIP
+|           W0.ZIP
+|           WANCON.ZIP
+|           WANMAN.ZIP
+|           WEBSEARCH.ZIP
+|           
++---LICENSE
+|   |   LICENSE_BR.HTML
+|   |   LICENSE_CZ.HTML
+|   |   LICENSE_DE.HTML
+|   |   LICENSE_ES.HTML
+|   |   LICENSE_FR.HTML
+|   |   LICENSE_IT.HTML
+|   |   LICENSE_NL.HTML
+|   |   LICENSE_PL.HTML
+|   |   LICENSE_RU.HTML
+|   |   LICENSE_US.HTML
+|   |   
+|   \---DEMO
+|       |   90367325.NFK
+|       |   90367325.NLF
+|       |   
+|       \---USER
+|               65244687.NLF
+|               
++---NI
+|   +---PRODUCTS
+|   |   +---DSUD4X
+|   |   |       NDSEM4.NLM
+|   |   |       
+|   |   +---DSUD5X
+|   |   |       NDSEM5.NLM
+|   |   |       
+|   |   +---NDS7UPDATE
+|   |   |       DS.NLM
+|   |   |       DSREPAIR.NLM
+|   |   |       MASV.NLM
+|   |   |       
+|   |   +---NDSUPDATE410
+|   |   +---NDSUPDATE411
+|   |   |       DS.NLM
+|   |   |       DSREPAIR.NLM
+|   |   |       SGUID.NLM
+|   |   |       
+|   |   \---NICI
+|   |           WCNICIU0.EXE
+|   |           WCNICIU0.ISS
+|   |           
+|   +---RSPDATA
+|   |       RESPONSE_DE.PROPERTIES
+|   |       RESPONSE_EN.PROPERTIES
+|   |       RESPONSE_ES.PROPERTIES
+|   |       RESPONSE_FR.PROPERTIES
+|   |       RESPONSE_IT.PROPERTIES
+|   |       RESPONSE_PT.PROPERTIES
+|   |       RESPONSE_RU.PROPERTIES
+|   |       
+|   +---WINDOWS
+|   |   |   CLUSTER.BMP
+|   |   |   CLUSTER.CFG
+|   |   |   DBROWSER.CFG
+|   |   |   DS7NSS.CFG
+|   |   |   GUIDGEN.CFG
+|   |   |   HEALTH.CFG
+|   |   |   INSTALL.CFG
+|   |   |   JRE.ZIP
+|   |   |   NWDEPLOY.CFG
+|   |   |   PRECLUST.CFG
+|   |   |   PREPNDS.CFG
+|   |   |   PRODINST.CFG
+|   |   |   RSPGEN.CFG
+|   |   |   SPLASH.EXE
+|   |   |   UPNDS.CFG
+|   |   |   
+|   |   +---DE
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   +---EN
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   +---ES
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   +---FR
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   +---IT
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   +---PT
+|   |   |       NWDEPLOY.BMP
+|   |   |       
+|   |   \---RU
+|   |           NWDEPLOY.BMP
+|   |           
+|   \---ZIP
+|           BSTART.ZIP
+|           CLUSTER.ZIP
+|           JCLIENTW.ZIP
+|           RSPGEN.ZIP
+|           SSLSERV.ZIP
+|           UPDATENDS.ZIP
+|           WEBLOOK.ZIP
+|           
++---PRODUCTS
+|   +---CERTSERV
+|   |       CSPUBLIC.ZIP
+|   |       CSSYSTEM.ZIP
+|   |       
+|   +---DNIP
+|   |   \---FILES
+|   |           NDDPREFS.DAT
+|   |           ROOTSRVR.DAT
+|   |           
+|   +---EDIR
+|   |   |   EDIRSYS.ZIP
+|   |   |   
+|   |   \---STARTUP
+|   |           DSLOADER.NLM
+|   |           
+|   +---JAVA
+|   |       JAVA.ZIP
+|   |       
+|   +---MASV
+|   |       MASV.NLM
+|   |       
+|   +---MIGRTWZD
+|   |       LICENSE_RU.TXT
+|   |       MIGRTWZD.EXE
+|   |       
+|   +---NCS
+|   |       LIST100.TXT
+|   |       LIST101.TXT
+|   |       LIST160.TXT
+|   |       LISTCLNT.TXT
+|   |       NCS.ZIP
+|   |       NCSPROXY.NLM
+|   |       SBDLIB.NLM
+|   |       TRUSTBAR.NLM
+|   |       
+|   +---NICI
+|   |   \---STARTUP
+|   |           CCS.XLM
+|   |           DOMXENG.XLM
+|   |           EXPXENG.XLM
+|   |           XMGR.XLM
+|   |           XSUP.XLM
+|   |           
+|   +---PERVASIV
+|   |       PERVASIV.IPS
+|   |       PERVCUST.ZIP
+|   |       PERVMAIN.ZIP
+|   |       
+|   +---SERVCONS
+|   |       NWSC.EXE
+|   |       
+|   +---TCPIP
+|   |   +---TCPD
+|   |   |       BSDSOCK.NLM
+|   |   |       TCP.NLM
+|   |   |       TCPIP.NLM
+|   |   |       
+|   |   \---TCPN
+|   |           BSDSOCK.NLM
+|   |           TCP.NLM
+|   |           TCPIP.NLM
+|   |           
+|   \---WANCON
+|           WAN.ZIP
+|           
++---STARTUP
+|   |   BG5HN16X.FNT
+|   |   BG5ZN16X.FNT
+|   |   CDBE.NLM
+|   |   CDDVD.NSS
+|   |   CHARSET.NLM
+|   |   CIOS.NLM
+|   |   CIOSMLID.CLS
+|   |   CIOSSHIM.NLM
+|   |   CLIB.NLM
+|   |   CLIBAUX.NLM
+|   |   CLIBCTX.NLM
+|   |   COMN.NSS
+|   |   CONNMGR.NLM
+|   |   CPUCHECK.NLM
+|   |   DEBUGLOG.NLM
+|   |   DHCPCLNT.NLM
+|   |   DIAG500.NLM
+|   |   DOSFAT.NSS
+|   |   DSLOADER.NLM
+|   |   EDIT.NLM
+|   |   ETHERTSM.NLM
+|   |   EXCLUDE.TPL
+|   |   FATFS.NLM
+|   |   FDDITSM.NLM
+|   |   FILESYS.NLM
+|   |   FLOPPY.HAM
+|   |   FPSM.NLM
+|   |   GBHN16X.FNT
+|   |   GBZN16X.FNT
+|   |   HDETECT.NLM
+|   |   HWDETECT.NLM
+|   |   ICMD.NLM
+|   |   INSHN16X.FNT
+|   |   INSZN16X.FNT
+|   |   IPXSPX.NLM
+|   |   ISSLIB.NLM
+|   |   JPNHN16X.FNT
+|   |   JPNZN16X.FNT
+|   |   KEYB.NLM
+|   |   KORHN16X.FNT
+|   |   KORZN16X.FNT
+|   |   LFS.NLM
+|   |   LIB0.NLM
+|   |   LIBC.NLM
+|   |   LIBCCLIB.NLM
+|   |   LIBNSS.NLM
+|   |   LOCNLM32.NLM
+|   |   LSL.NLM
+|   |   MAC.NAM
+|   |   MAL.NSS
+|   |   MALHLP.NLM
+|   |   MALHLP9.NLM
+|   |   MANAGE.NSS
+|   |   MASV.NLM
+|   |   MM.NLM
+|   |   MMNATIVE.NLM
+|   |   MONITOR.NLM
+|   |   MSM.NLM
+|   |   NBI.NLM
+|   |   NCFUPD.NLM
+|   |   NCP.NLM
+|   |   NCPIP.NLM
+|   |   NCPIPX.NLM
+|   |   NDSAUDIT.NLM
+|   |   NEB.NLM
+|   |   NFS.NAM
+|   |   NILE.NLM
+|   |   NIT.NLM
+|   |   NLMLIB.NLM
+|   |   NSPDHCP.NLM
+|   |   NSPDNS.NLM
+|   |   NSPNDS.NLM
+|   |   NSPSAP.NLM
+|   |   NSPSLP.NLM
+|   |   NSS.NLM
+|   |   NSSIDK.NSS
+|   |   NSSMU.NLM
+|   |   NSSWIN.NLM
+|   |   NWCONFIG.NLM
+|   |   NWI.NLM
+|   |   NWIAP.NLM
+|   |   NWICF.NLM
+|   |   NWICL.NLM
+|   |   NWIDK.NLM
+|   |   NWIDS.NLM
+|   |   NWIHW.NLM
+|   |   NWIPR.NLM
+|   |   NWIRF.NLM
+|   |   NWITZ.NLM
+|   |   NWIWS.NLM
+|   |   NWKCFG.NLM
+|   |   NWPA.NLM
+|   |   NWPALOAD.NLM
+|   |   NWSA.NSS
+|   |   NWSNUT.NLM
+|   |   NWUTIL.NLM
+|   |   PARTAPI.NLM
+|   |   PMPORTAL.NLM
+|   |   POLIMGR.NLM
+|   |   PSA.NSS
+|   |   QUEUE.NLM
+|   |   REQUESTR.NLM
+|   |   SCAN.NLM
+|   |   SERVER.EXE
+|   |   SERVER.MSG
+|   |   SGUID.NLM
+|   |   SHOWLOGO.NLM
+|   |   SLP.NLM
+|   |   SLPDA.NLM
+|   |   SLPTCP.NLM
+|   |   STREAMS.NLM
+|   |   SYSLOG.NLM
+|   |   TEMPDISK.DSK
+|   |   THREADS.NLM
+|   |   TOKENTSM.NLM
+|   |   UINSTALL.NLM
+|   |   UKBDSHIM.NLM
+|   |   UMSSHIM.NLM
+|   |   UNICODE.NLM
+|   |   UNI_1250.NLM
+|   |   UNI_1251.NLM
+|   |   UNI_1252.NLM
+|   |   UNI_1253.NLM
+|   |   UNI_1254.NLM
+|   |   UNI_1255.NLM
+|   |   UNI_1256.NLM
+|   |   UNI_1257.NLM
+|   |   UNI_1258.NLM
+|   |   UNI_437.NLM
+|   |   UNI_737.NLM
+|   |   UNI_775.NLM
+|   |   UNI_850.NLM
+|   |   UNI_852.NLM
+|   |   UNI_855.NLM
+|   |   UNI_857.NLM
+|   |   UNI_860.NLM
+|   |   UNI_861.NLM
+|   |   UNI_862.NLM
+|   |   UNI_863.NLM
+|   |   UNI_864.NLM
+|   |   UNI_865.NLM
+|   |   UNI_866.NLM
+|   |   UNI_874.NLM
+|   |   UNI_932.NLM
+|   |   UNI_936.NLM
+|   |   UNI_949.NLM
+|   |   UNI_950.NLM
+|   |   UNI_MON.NLM
+|   |   UNI_UPR.NLM
+|   |   VGADISP.NLM
+|   |   VOLMN.NSS
+|   |   VREPAIR.NLM
+|   |   V_LONG.NLM
+|   |   V_MAC.NLM
+|   |   V_NFS.NLM
+|   |   WS2_32.NLM
+|   |   WSPDSI.NLM
+|   |   WSPIP.NLM
+|   |   WSPIPX.NLM
+|   |   WSPSSL.NLM
+|   |   XIM.XLM
+|   |   XIPC.NSS
+|   |   ZLSS.NSS
+|   |   
+|   \---NLS
+|       |   DE-DE.XML
+|       |   EN-CA.XML
+|       |   EN-GB.XML
+|       |   EN-US.XML
+|       |   ES-ES.XML
+|       |   ES-MX.XML
+|       |   FI-FI.XML
+|       |   FR-BE.XML
+|       |   FR-CA.XML
+|       |   FR-FR.XML
+|       |   NL-BE.XML
+|       |   NL-NL.XML
+|       |   PT-BR.XML
+|       |   PT-PT.XML
+|       |   UNI_000.TAB
+|       |   UNI_1250.TAB
+|       |   UNI_1251.TAB
+|       |   UNI_1252.TAB
+|       |   UNI_1253.TAB
+|       |   UNI_1254.TAB
+|       |   UNI_1255.TAB
+|       |   UNI_1256.TAB
+|       |   UNI_1257.TAB
+|       |   UNI_1258.TAB
+|       |   UNI_437.TAB
+|       |   UNI_737.TAB
+|       |   UNI_775.TAB
+|       |   UNI_850.TAB
+|       |   UNI_852.TAB
+|       |   UNI_855.TAB
+|       |   UNI_857.TAB
+|       |   UNI_860.TAB
+|       |   UNI_861.TAB
+|       |   UNI_862.TAB
+|       |   UNI_863.TAB
+|       |   UNI_864.TAB
+|       |   UNI_865.TAB
+|       |   UNI_866.TAB
+|       |   UNI_874.TAB
+|       |   UNI_932.TAB
+|       |   UNI_936.TAB
+|       |   UNI_949.TAB
+|       |   UNI_950.TAB
+|       |   VX-FR.XML
+|       |   
+|       +---12
+|       |       CCS.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       GSEG.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       KEYB.MSG
+|       |       MAL.MSG
+|       |       NCFUPD.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NSS.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWPRV.MSG
+|       |       NWSNUT.MSG
+|       |       PMPORTAL.MSG
+|       |       REBOOT.BMP
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       +---13
+|       |       CCS.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       GSEG.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       KEYB.MSG
+|       |       MAL.MSG
+|       |       NCFUPD.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NSS.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWPRV.MSG
+|       |       NWSNUT.MSG
+|       |       PMPORTAL.MSG
+|       |       REBOOT.BMP
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       +---14
+|       |       CCS.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       GSEG.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       KEYB.MSG
+|       |       MAL.MSG
+|       |       NCFUPD.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NSS.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWPRV.MSG
+|       |       NWSNUT.MSG
+|       |       REBOOT.BMP
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       +---4
+|       |       CCS.MSG
+|       |       CDBE.MSG
+|       |       CDDVD.MSG
+|       |       CLIBAUX.MSG
+|       |       COMN.MSG
+|       |       CONNMGR.MSG
+|       |       DHCPCLNT.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       FILESYS.MSG
+|       |       FPSM.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       HWDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       IPXSPX.MSG
+|       |       ISCSINRM.MSG
+|       |       KEYB.MSG
+|       |       LFS.MSG
+|       |       LIB0.MSG
+|       |       LIBC.MSG
+|       |       LSL.MSG
+|       |       MAL.MSG
+|       |       MANAGE.MSG
+|       |       MASV.MSG
+|       |       MM.MSG
+|       |       MONITOR.HLP
+|       |       MONITOR.MSG
+|       |       NCFUPD.MSG
+|       |       NCP.MSG
+|       |       NCPIP.MSG
+|       |       NCPIPX.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NIT.MSG
+|       |       NSS.MSG
+|       |       NSSIDK.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWIDS.MSG
+|       |       NWIHW.MSG
+|       |       NWPA.MSG
+|       |       NWSA.MSG
+|       |       NWSNUT.MSG
+|       |       PMPORTAL.MSG
+|       |       POLIMGR.MSG
+|       |       PSA.MSG
+|       |       QUEUE.MSG
+|       |       REBOOT.BMP
+|       |       SLP.MSG
+|       |       SLPDA.MSG
+|       |       SLPTCP.MSG
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VOLMN.MSG
+|       |       VOLSMS.MSG
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XIPC.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       +---6
+|       |       CCS.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       GSEG.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       KEYB.MSG
+|       |       MAL.MSG
+|       |       NCFUPD.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NSS.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWPRV.MSG
+|       |       NWSNUT.MSG
+|       |       PMPORTAL.MSG
+|       |       REBOOT.BMP
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       +---7
+|       |       CCS.MSG
+|       |       DOSFAT.MSG
+|       |       EDIT.HLP
+|       |       EDIT.MSG
+|       |       GSEG.MSG
+|       |       HDETECT.HLP
+|       |       HDETECT.MSG
+|       |       ICMD.MSG
+|       |       INSTALL.MSG
+|       |       IPU.MSG
+|       |       KEYB.MSG
+|       |       MAL.MSG
+|       |       NCFUPD.MSG
+|       |       NDSAUDIT.MSG
+|       |       NFS.MSG
+|       |       NSS.MSG
+|       |       NSSMU.HLP
+|       |       NSSMU.MSG
+|       |       NSSWIN.MSG
+|       |       NWCONFIG.HLP
+|       |       NWCONFIG.MSG
+|       |       NWPRV.MSG
+|       |       NWSNUT.MSG
+|       |       REBOOT.BMP
+|       |       STREAMS.MSG
+|       |       UPGRADE.BMP
+|       |       VREPAIR.MSG
+|       |       V_NFS.MSG
+|       |       XMGR.MSG
+|       |       ZLSS.MSG
+|       |       
+|       \---8
+|               CCS.MSG
+|               DOSFAT.MSG
+|               EDIT.HLP
+|               EDIT.MSG
+|               GSEG.MSG
+|               HDETECT.HLP
+|               HDETECT.MSG
+|               ICMD.MSG
+|               INSTALL.MSG
+|               IPU.MSG
+|               KEYB.MSG
+|               MAL.MSG
+|               NCFUPD.MSG
+|               NDSAUDIT.MSG
+|               NFS.MSG
+|               NSS.MSG
+|               NSSMU.HLP
+|               NSSMU.MSG
+|               NSSWIN.MSG
+|               NWCONFIG.HLP
+|               NWCONFIG.MSG
+|               NWPRV.MSG
+|               NWSNUT.MSG
+|               REBOOT.BMP
+|               STREAMS.MSG
+|               UPGRADE.BMP
+|               VREPAIR.MSG
+|               V_NFS.MSG
+|               XMGR.MSG
+|               ZLSS.MSG
+|               
+\---SYS
+    +---JAVA
+    |   \---LIB
+    |           VCUAPP.JAR
+    |           
+    +---LOGIN
+    |   |   CX.EXE
+    |   |   HF_STYLE.CSS
+    |   |   LOGIN.EXE
+    |   |   MAP.EXE
+    |   |   TEXTUTIL.IDX
+    |   |   
+    |   \---NLS
+    |       |   000_UNI.001
+    |       |   1250_UNI.001
+    |       |   1251_UNI.001
+    |       |   1252_UNI.001
+    |       |   1253_UNI.001
+    |       |   1254_UNI.001
+    |       |   1255_UNI.001
+    |       |   1256_UNI.001
+    |       |   1257_UNI.001
+    |       |   1258_UNI.001
+    |       |   437_UNI.001
+    |       |   737_UNI.001
+    |       |   775_UNI.001
+    |       |   813_UNI.001
+    |       |   850_UNI.001
+    |       |   852_UNI.001
+    |       |   855_UNI.001
+    |       |   857_UNI.001
+    |       |   860_UNI.001
+    |       |   861_UNI.001
+    |       |   862_UNI.001
+    |       |   863_UNI.001
+    |       |   864_UNI.001
+    |       |   865_UNI.001
+    |       |   866_UNI.001
+    |       |   869_UNI.001
+    |       |   874_UNI.001
+    |       |   897_UNI.001
+    |       |   932_UNI.001
+    |       |   936_UNI.001
+    |       |   949_UNI.001
+    |       |   950_UNI.001
+    |       |   UNI_000.001
+    |       |   UNI_1250.001
+    |       |   UNI_1251.001
+    |       |   UNI_1252.001
+    |       |   UNI_1253.001
+    |       |   UNI_1254.001
+    |       |   UNI_1255.001
+    |       |   UNI_1256.001
+    |       |   UNI_1257.001
+    |       |   UNI_1258.001
+    |       |   UNI_437.001
+    |       |   UNI_437.DOS
+    |       |   UNI_737.001
+    |       |   UNI_737.DOS
+    |       |   UNI_775.001
+    |       |   UNI_775.DOS
+    |       |   UNI_813.001
+    |       |   UNI_850.001
+    |       |   UNI_850.DOS
+    |       |   UNI_852.001
+    |       |   UNI_852.DOS
+    |       |   UNI_855.001
+    |       |   UNI_855.DOS
+    |       |   UNI_857.001
+    |       |   UNI_857.DOS
+    |       |   UNI_860.001
+    |       |   UNI_860.DOS
+    |       |   UNI_861.001
+    |       |   UNI_861.DOS
+    |       |   UNI_862.001
+    |       |   UNI_862.DOS
+    |       |   UNI_863.001
+    |       |   UNI_863.DOS
+    |       |   UNI_864.001
+    |       |   UNI_864.DOS
+    |       |   UNI_865.001
+    |       |   UNI_865.DOS
+    |       |   UNI_866.001
+    |       |   UNI_866.DOS
+    |       |   UNI_869.001
+    |       |   UNI_869.DOS
+    |       |   UNI_874.001
+    |       |   UNI_897.001
+    |       |   UNI_932.001
+    |       |   UNI_932.DOS
+    |       |   UNI_936.001
+    |       |   UNI_936.DOS
+    |       |   UNI_949.001
+    |       |   UNI_949.DOS
+    |       |   UNI_950.001
+    |       |   UNI_950.DOS
+    |       |   UNI_COL.001
+    |       |   UNI_MON.001
+    |       |   UNI_MON.DOS
+    |       |   
+    |       +---DEUTSCH
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       +---ENGLISH
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       +---ESPANOL
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       +---FRANCAIS
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       +---ITALIANO
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       +---PORTUGUE
+    |       |       CX.MSG
+    |       |       LOGIN.MSG
+    |       |       MAP.MSG
+    |       |       SCHEMA.XLT
+    |       |       TEXTUTIL.HEP
+    |       |       TEXTUTIL.MSG
+    |       |       
+    |       \---RUSSKI
+    |               CX.MSG
+    |               LOGIN.MSG
+    |               MAP.MSG
+    |               SCHEMA.XLT
+    |               TEXTUTIL.HEP
+    |               TEXTUTIL.MSG
+    |               
+    +---PUBLIC
+    |   |   APLASER2.PDF
+    |   |   APPIMAGE.PDF
+    |   |   APPLW2FG.PDF
+    |   |   AUDITCON.BAT
+    |   |   AX_AIO.OVL
+    |   |   AX_RUN.OVL
+    |   |   B5DV_AIO.OVL
+    |   |   B5DV_RUN.OVL
+    |   |   B5ET_AIO.OVL
+    |   |   B5ET_RUN.OVL
+    |   |   B5KC_AIO.OVL
+    |   |   B5KC_RUN.OVL
+    |   |   BC450RTL.DLL
+    |   |   BIDS45.DLL
+    |   |   BIG5_AIO.OVL
+    |   |   BIG5_RUN.OVL
+    |   |   CAPTURE.EXE
+    |   |   CIT120D.PDF
+    |   |   CIT20.PDF
+    |   |   CIT224.PDF
+    |   |   CITOH310.PDF
+    |   |   CITOH600.PDF
+    |   |   CMPQ_AIO.OVL
+    |   |   CMPQ_RUN.OVL
+    |   |   CX.EXE
+    |   |   DEC1100.PDF
+    |   |   DEC1150.PDF
+    |   |   DEC2100.PDF
+    |   |   DEC2100P.PDF
+    |   |   DEC2150.PDF
+    |   |   DEC2150P.PDF
+    |   |   DEC2200.PDF
+    |   |   DEC2200P.PDF
+    |   |   DEC2250.PDF
+    |   |   DEC2250P.PDF
+    |   |   DEC3200.PDF
+    |   |   DEC3250.PDF
+    |   |   DECCOLOR.PDF
+    |   |   DIAB630.PDF
+    |   |   DOSV_AIO.OVL
+    |   |   DOSV_RUN.OVL
+    |   |   EPEX80.PDF
+    |   |   EPEX800.PDF
+    |   |   EPEX86.PDF
+    |   |   EPLD2500.PDF
+    |   |   EPLQ800.PDF
+    |   |   EPLX80.PDF
+    |   |   EPLX800.PDF
+    |   |   FILER.EXE
+    |   |   FLAG.EXE
+    |   |   FMR_AIO.OVL
+    |   |   FMR_RUN.OVL
+    |   |   GBCD_AIO.OVL
+    |   |   GBCD_RUN.OVL
+    |   |   GBCX_AIO.OVL
+    |   |   GBCX_RUN.OVL
+    |   |   GBET_AIO.OVL
+    |   |   GBET_RUN.OVL
+    |   |   GBLX_AIO.OVL
+    |   |   GBLX_RUN.OVL
+    |   |   GBPD_AIO.OVL
+    |   |   GBPD_RUN.OVL
+    |   |   GBSP_AIO.OVL
+    |   |   GBSP_RUN.OVL
+    |   |   GBTW_AIO.OVL
+    |   |   GBTW_RUN.OVL
+    |   |   GBUC_AIO.OVL
+    |   |   GBUC_RUN.OVL
+    |   |   GBWM_AIO.OVL
+    |   |   GBWM_RUN.OVL
+    |   |   GBXJ_AIO.OVL
+    |   |   GBXJ_RUN.OVL
+    |   |   GB_AIO.OVL
+    |   |   GB_RUN.OVL
+    |   |   HP2.PDF
+    |   |   HP2PS.PDF
+    |   |   HP3.PDF
+    |   |   HP3SIPCL.PDF
+    |   |   HP3SIPS.PDF
+    |   |   HP4SIPCL.PDF
+    |   |   HP4SIPS.PDF
+    |   |   HPLJ4.PDF
+    |   |   IBM4201.PDF
+    |   |   IBMPRO2.PDF
+    |   |   IBM_AIO.OVL
+    |   |   IBM_RUN.OVL
+    |   |   IMGHOST.EXE
+    |   |   J31_AIO.OVL
+    |   |   J31_RUN.OVL
+    |   |   KOR_AIO.OVL
+    |   |   KOR_RUN.OVL
+    |   |   KSC_AIO.OVL
+    |   |   KSC_RUN.OVL
+    |   |   KXP4410.PDF
+    |   |   KXP4420.PDF
+    |   |   KXP4430.PDF
+    |   |   KXP4450I.PDF
+    |   |   KYO_L.PDF
+    |   |   KYO_LS.PDF
+    |   |   LOGIN.EXE
+    |   |   LOGOUT.EXE
+    |   |   LS_PRN.PDF
+    |   |   L_PRN.PDF
+    |   |   MAP.EXE
+    |   |   NCOPY.EXE
+    |   |   NDIR.EXE
+    |   |   NDSSCH.EXE
+    |   |   NEC2050.PDF
+    |   |   NEC8810.PDF
+    |   |   NECP6.PDF
+    |   |   NLIST.EXE
+    |   |   NLS32.DLL
+    |   |   NLSAPI32.DLL
+    |   |   NPRINTER.EXE
+    |   |   NRDDLL16.DLL
+    |   |   NWCOMN3X.DLL
+    |   |   OKI192.PDF
+    |   |   OKI290.PDF
+    |   |   OKI390.PDF
+    |   |   OKILASER.PDF
+    |   |   OWL252.DLL
+    |   |   PAN1080.PDF
+    |   |   PAN1091.PDF
+    |   |   PC98_AIO.OVL
+    |   |   PC98_RUN.OVL
+    |   |   PS55_AIO.OVL
+    |   |   PS55_RUN.OVL
+    |   |   PSTSCRPT.PDF
+    |   |   RIGHTS.EXE
+    |   |   STAR1000.PDF
+    |   |   STAR10X.PDF
+    |   |   TEXTUTIL.IDX
+    |   |   TOSHP321.PDF
+    |   |   _RUN.OVL
+    |   |   
+    |   +---DNSDHCP
+    |   |   |   DATA.Z
+    |   |   |   NOVELL.BMP
+    |   |   |   SETUP.BMP
+    |   |   |   SETUP.EXE
+    |   |   |   SETUP.INI
+    |   |   |   SETUP.INS
+    |   |   |   _INST32I.EX_
+    |   |   |   _SETUP.DLL
+    |   |   |   _SETUP.LIB
+    |   |   |   
+    |   |   +---DAT
+    |   |   |   +---BIN
+    |   |   |   |   \---WIN32
+    |   |   |   |           JNCPV2.DLL
+    |   |   |   |           MSVCRT.DLL
+    |   |   |   |           SNAPIN32.DLL
+    |   |   |   |           
+    |   |   |   +---HELP
+    |   |   |   |   +---DEUTSCH
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   +---ENGLISH
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   +---ESPANOL
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   +---FRANCAIS
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   +---ITALIANO
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   +---PORTUGUE
+    |   |   |   |   |       DATA.Z
+    |   |   |   |   |       
+    |   |   |   |   \---RUSSKI
+    |   |   |   |           DATA.Z
+    |   |   |   |           
+    |   |   |   \---NLS
+    |   |   |       +---DEUTSCH
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       +---ENGLISH
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       +---ESPANOL
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       +---FRANCAIS
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       +---ITALIANO
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       +---PORTUGUE
+    |   |   |       |       DATA.Z
+    |   |   |       |       
+    |   |   |       \---RUSSKI
+    |   |   |               DATA.Z
+    |   |   |               
+    |   |   +---DEUTSCH
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---ENGLISH
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       DNPSETUP.RES
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---ESPANOL
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---FRANCAIS
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---ITALIANO
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---NLS
+    |   |   |   +---DEUTSCH
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   +---ENGLISH
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   +---ESPANOL
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   +---FRANCAIS
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   +---ITALIANO
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   +---PORTUGUE
+    |   |   |   |       DNSDHCP.DLL
+    |   |   |   |       DNSDHCP.HS
+    |   |   |   |       MANAGEIP.DLL
+    |   |   |   |       README.TXT
+    |   |   |   |       
+    |   |   |   \---RUSSKI
+    |   |   |           DNSDHCP.DLL
+    |   |   |           DNSDHCP.HS
+    |   |   |           MANAGEIP.DLL
+    |   |   |           README.TXT
+    |   |   |           
+    |   |   +---PORTUGUE
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   +---RUSSKI
+    |   |   |       DNPSETUP.DLL
+    |   |   |       DNPSETUP.INS
+    |   |   |       UNINST.EXE
+    |   |   |       _ISRES.DLL
+    |   |   |       _SETUP.DLL
+    |   |   |       _SETUP.LIB
+    |   |   |       
+    |   |   \---SNAPIN
+    |   |           MANAGEIP.DLL
+    |   |           
+    |   +---NLS
+    |   |   |   000_UNI.001
+    |   |   |   1250_UNI.001
+    |   |   |   1251_UNI.001
+    |   |   |   1252_UNI.001
+    |   |   |   1253_UNI.001
+    |   |   |   1254_UNI.001
+    |   |   |   1255_UNI.001
+    |   |   |   1256_UNI.001
+    |   |   |   1257_UNI.001
+    |   |   |   1258_UNI.001
+    |   |   |   437_UNI.001
+    |   |   |   737_UNI.001
+    |   |   |   775_UNI.001
+    |   |   |   813_UNI.001
+    |   |   |   850_UNI.001
+    |   |   |   852_UNI.001
+    |   |   |   855_UNI.001
+    |   |   |   857_UNI.001
+    |   |   |   860_UNI.001
+    |   |   |   861_UNI.001
+    |   |   |   862_UNI.001
+    |   |   |   863_UNI.001
+    |   |   |   864_UNI.001
+    |   |   |   865_UNI.001
+    |   |   |   866_UNI.001
+    |   |   |   869_UNI.001
+    |   |   |   874_UNI.001
+    |   |   |   897_UNI.001
+    |   |   |   932_UNI.001
+    |   |   |   936_UNI.001
+    |   |   |   949_UNI.001
+    |   |   |   950_UNI.001
+    |   |   |   UNI_000.001
+    |   |   |   UNI_1250.001
+    |   |   |   UNI_1251.001
+    |   |   |   UNI_1252.001
+    |   |   |   UNI_1253.001
+    |   |   |   UNI_1254.001
+    |   |   |   UNI_1255.001
+    |   |   |   UNI_1256.001
+    |   |   |   UNI_1257.001
+    |   |   |   UNI_1258.001
+    |   |   |   UNI_437.001
+    |   |   |   UNI_437.DOS
+    |   |   |   UNI_737.001
+    |   |   |   UNI_737.DOS
+    |   |   |   UNI_775.001
+    |   |   |   UNI_775.DOS
+    |   |   |   UNI_813.001
+    |   |   |   UNI_850.001
+    |   |   |   UNI_850.DOS
+    |   |   |   UNI_852.001
+    |   |   |   UNI_852.DOS
+    |   |   |   UNI_855.001
+    |   |   |   UNI_855.DOS
+    |   |   |   UNI_857.001
+    |   |   |   UNI_857.DOS
+    |   |   |   UNI_860.001
+    |   |   |   UNI_860.DOS
+    |   |   |   UNI_861.001
+    |   |   |   UNI_861.DOS
+    |   |   |   UNI_862.001
+    |   |   |   UNI_862.DOS
+    |   |   |   UNI_863.001
+    |   |   |   UNI_863.DOS
+    |   |   |   UNI_864.001
+    |   |   |   UNI_864.DOS
+    |   |   |   UNI_865.001
+    |   |   |   UNI_865.DOS
+    |   |   |   UNI_866.001
+    |   |   |   UNI_866.DOS
+    |   |   |   UNI_869.001
+    |   |   |   UNI_869.DOS
+    |   |   |   UNI_874.001
+    |   |   |   UNI_897.001
+    |   |   |   UNI_932.001
+    |   |   |   UNI_932.DOS
+    |   |   |   UNI_936.001
+    |   |   |   UNI_936.DOS
+    |   |   |   UNI_949.001
+    |   |   |   UNI_949.DOS
+    |   |   |   UNI_950.001
+    |   |   |   UNI_950.DOS
+    |   |   |   UNI_COL.001
+    |   |   |   UNI_MON.001
+    |   |   |   UNI_MON.DOS
+    |   |   |   
+    |   |   +---DEUTSCH
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   +---ENGLISH
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   +---ESPANOL
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   +---FRANCAIS
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   +---ITALIANO
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   +---PORTUGUE
+    |   |   |       CAPTURE.MSG
+    |   |   |       CX.MSG
+    |   |   |       FILER.HEP
+    |   |   |       FILER.MSG
+    |   |   |       FLAG.MSG
+    |   |   |       LOGIN.MSG
+    |   |   |       LOGOUT.MSG
+    |   |   |       MAP.MSG
+    |   |   |       NCOPY.MSG
+    |   |   |       NDIR.MSG
+    |   |   |       NDPSAW16.CNT
+    |   |   |       NDPSAW16.HLP
+    |   |   |       NDPSUW16.CNT
+    |   |   |       NDPSUW16.HLP
+    |   |   |       NDSSCH.MSG
+    |   |   |       NLIST.MSG
+    |   |   |       NPRINTER.HEP
+    |   |   |       NPRINTER.MSG
+    |   |   |       NWADLG3X.DLL
+    |   |   |       NWADMR3X.DLL
+    |   |   |       NWDSBRWS.MSG
+    |   |   |       RIGHTS.MSG
+    |   |   |       SALVAGE.HEP
+    |   |   |       SALVAGE.MSG
+    |   |   |       SCHEMA.XLT
+    |   |   |       TEXTUTIL.HEP
+    |   |   |       TEXTUTIL.MSG
+    |   |   |       
+    |   |   \---RUSSKI
+    |   |           CAPTURE.MSG
+    |   |           CX.MSG
+    |   |           FILER.HEP
+    |   |           FILER.MSG
+    |   |           FLAG.MSG
+    |   |           LOGIN.MSG
+    |   |           LOGOUT.MSG
+    |   |           MAP.MSG
+    |   |           NCOPY.MSG
+    |   |           NDIR.MSG
+    |   |           NDPSAW16.CNT
+    |   |           NDPSAW16.HLP
+    |   |           NDPSUW16.CNT
+    |   |           NDPSUW16.HLP
+    |   |           NDSSCH.MSG
+    |   |           NLIST.MSG
+    |   |           NPRINTER.HEP
+    |   |           NPRINTER.MSG
+    |   |           NWADLG3X.DLL
+    |   |           NWADMR3X.DLL
+    |   |           NWDSBRWS.MSG
+    |   |           RIGHTS.MSG
+    |   |           SALVAGE.HEP
+    |   |           SALVAGE.MSG
+    |   |           SCHEMA.XLT
+    |   |           TEXTUTIL.HEP
+    |   |           TEXTUTIL.MSG
+    |   |           
+    |   +---NMAS
+    |   |   \---METHODS
+    |   |       +---AFP3
+    |   |       |       CONFIG.TXT
+    |   |       |       LSMAFP3.LMO
+    |   |       |       
+    |   |       +---CIFS
+    |   |       |       CONFIG.TXT
+    |   |       |       LCMCIFS.LMO
+    |   |       |       LSMCIFS.LMO
+    |   |       |       
+    |   |       \---CIFS2
+    |   |               CONFIG.TXT
+    |   |               LCMCIFS2.LMO
+    |   |               LSMCIFS2.LMO
+    |   |               
+    |   +---WIN32
+    |   |   |   BIDS45F.DLL
+    |   |   |   CKSYNC32.DLL
+    |   |   |   CW3215.DLL
+    |   |   |   MGRV32.DLL
+    |   |   |   NLSEXT32.DLL
+    |   |   |   NLSMET32.DLL
+    |   |   |   NMGRDB32.DLL
+    |   |   |   NMSNAP32.DLL
+    |   |   |   NRDDLL95.DLL
+    |   |   |   NRES32.DLL
+    |   |   |   NUCOMN32.DLL
+    |   |   |   NUOWL32.DLL
+    |   |   |   OPDLG32.DLL
+    |   |   |   OWL252F.DLL
+    |   |   |   PC32.DLL
+    |   |   |   PDE32.DLL
+    |   |   |   PRFRES32.DLL
+    |   |   |   SCHEMA32.DLL
+    |   |   |   SCHEMB32.DLL
+    |   |   |   SCHMBB32.DLL
+    |   |   |   VIEWC32.DLL
+    |   |   |   VUPD32.DLL
+    |   |   |   
+    |   |   +---NLS
+    |   |   |   +---DEUTSCH
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   +---ENGLISH
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWMAIN.CNT
+    |   |   |   |       NWMAIN.HLP
+    |   |   |   |       NWREF.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   +---ESPANOL
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   +---FRANCAIS
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   +---ITALIANO
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   +---PORTUGUE
+    |   |   |   |       LOGINS31.CNT
+    |   |   |   |       LOGINS31.HLP
+    |   |   |   |       NDS.CNT
+    |   |   |   |       NDS.HLP
+    |   |   |   |       NDSERR32.DLL
+    |   |   |   |       NDSRES32.DLL
+    |   |   |   |       NLS32.DLL
+    |   |   |   |       NLSAPI32.DLL
+    |   |   |   |       NLSMGR.CNT
+    |   |   |   |       NLSMGR.HLP
+    |   |   |   |       NLSMNR32.DLL
+    |   |   |   |       NLSRES32.DLL
+    |   |   |   |       NUADLG32.DLL
+    |   |   |   |       NUADMR32.DLL
+    |   |   |   |       NUOWLR32.DLL
+    |   |   |   |       NWADMN32.CNT
+    |   |   |   |       NWADMN32.HLP
+    |   |   |   |       NWEC.CNT
+    |   |   |   |       NWEC.HLP
+    |   |   |   |       NWSLPRES.DLL
+    |   |   |   |       NWSLPSI.HLP
+    |   |   |   |       NW_ERROR.CNT
+    |   |   |   |       NW_ERROR.HLP
+    |   |   |   |       REGERC32.DLL
+    |   |   |   |       SCHEMA.CNT
+    |   |   |   |       SCHEMA.HLP
+    |   |   |   |       SCHEMR32.DLL
+    |   |   |   |       
+    |   |   |   \---RUSSKI
+    |   |   |           LOGINS31.CNT
+    |   |   |           LOGINS31.HLP
+    |   |   |           NDS.CNT
+    |   |   |           NDS.HLP
+    |   |   |           NDSERR32.DLL
+    |   |   |           NDSRES32.DLL
+    |   |   |           NLS32.DLL
+    |   |   |           NLSAPI32.DLL
+    |   |   |           NLSMGR.CNT
+    |   |   |           NLSMGR.HLP
+    |   |   |           NLSMNR32.DLL
+    |   |   |           NLSRES32.DLL
+    |   |   |           NUADLG32.DLL
+    |   |   |           NUADMR32.DLL
+    |   |   |           NUOWLR32.DLL
+    |   |   |           NWADMN32.CNT
+    |   |   |           NWADMN32.HLP
+    |   |   |           NWEC.CNT
+    |   |   |           NWEC.HLP
+    |   |   |           NWSLPRES.DLL
+    |   |   |           NWSLPSI.HLP
+    |   |   |           NW_ERROR.CNT
+    |   |   |           NW_ERROR.HLP
+    |   |   |           REGERC32.DLL
+    |   |   |           SCHEMA.CNT
+    |   |   |           SCHEMA.HLP
+    |   |   |           SCHEMR32.DLL
+    |   |   |           
+    |   |   \---SNAPINS
+    |   |           MANAGEIP.DLL
+    |   |           NLSMGR32.DLL
+    |   |           NWSLPSI.DLL
+    |   |           REGEDT32.DLL
+    |   |           
+    |   +---WIN95
+    |   |   |   BIDS45F.DLL
+    |   |   |   CW3215.DLL
+    |   |   |   DPCOMN32.DLL
+    |   |   |   NLSEXT32.DLL
+    |   |   |   NLSMET32.DLL
+    |   |   |   NLSMGR95.DLL
+    |   |   |   NPTD9598.NLM
+    |   |   |   NPTDRV95.NLM
+    |   |   |   NPTR95.NLM
+    |   |   |   NPTWIN95.EXE
+    |   |   |   OWL252F.DLL
+    |   |   |   SNAPIN32.DLL
+    |   |   |   
+    |   |   \---NLS
+    |   |       +---DEUTSCH
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       +---ENGLISH
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTD9598.MSG
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       +---ESPANOL
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       +---FRANCAIS
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       +---ITALIANO
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       +---PORTUGUE
+    |   |       |       DPCMNR32.DLL
+    |   |       |       NLSMGR.CNT
+    |   |       |       NLSMGR.HLP
+    |   |       |       NLSRES95.DLL
+    |   |       |       NPTDRV95.MSG
+    |   |       |       NPTWIN95.DLL
+    |   |       |       NPTWIN95.HLP
+    |   |       |       
+    |   |       \---RUSSKI
+    |   |               DPCMNR32.DLL
+    |   |               NLSMGR.CNT
+    |   |               NLSMGR.HLP
+    |   |               NLSRES95.DLL
+    |   |               NPTDRV95.MSG
+    |   |               NPTWIN95.DLL
+    |   |               NPTWIN95.HLP
+    |   |               
+    |   \---WINNT
+    |       |   CMPQ_AIO.OVL
+    |       |   CMPQ_RUN.OVL
+    |       |   IBM_AIO.OVL
+    |       |   IBM_RUN.OVL
+    |       |   NLSEXT32.DLL
+    |       |   NLSMET32.DLL
+    |       |   NLSMGRNT.DLL
+    |       |   SNAPIN32.DLL
+    |       |   TEXTUTIL.IDX
+    |       |   _AIO.OVL
+    |       |   _RUN.OVL
+    |       |   
+    |       \---NLS
+    |           +---DEUTSCH
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           +---ENGLISH
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           +---ESPANOL
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           +---FRANCAIS
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           +---ITALIANO
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           +---PORTUGUE
+    |           |       NLSMGR.CNT
+    |           |       NLSMGR.HLP
+    |           |       NLSRESNT.DLL
+    |           |       TEXTUTIL.HEP
+    |           |       TEXTUTIL.MSG
+    |           |       
+    |           \---RUSSKI
+    |                   NLSMGR.CNT
+    |                   NLSMGR.HLP
+    |                   NLSRESNT.DLL
+    |                   TEXTUTIL.HEP
+    |                   TEXTUTIL.MSG
+    |                   
+    +---README
+    |   \---NLS
+    |       +---12
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       +---13
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       +---14
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       +---4
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       +---6
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       +---7
+    |       |       READ_ME.HTM
+    |       |       READ_ME.TXT
+    |       |       
+    |       \---8
+    |               READ_ME.HTM
+    |               READ_ME.TXT
+    |               
+    +---RESEARCH
+    |   \---IPV6
+    |       |   GW6
+    |       |   INSTALL.PL
+    |       |   IP6.CFG
+    |       |   IP6.NCF
+    |       |   IPV6.NLM
+    |       |   RESOLV.NLM
+    |       |   RTADVD.CFG
+    |       |   STATIC6.NLM
+    |       |   UINSTALL.PL
+    |       |   UIP6.NCF
+    |       |   
+    |       +---APACHE
+    |       |       AP2IPV6.ZIP
+    |       |       
+    |       +---FTP
+    |       |       NWFTPD6.MSG
+    |       |       NWFTPD6.NLM
+    |       |       
+    |       +---NLS
+    |       |   +---1
+    |       |   +---12
+    |       |   +---4
+    |       |   |       IPV6.MSG
+    |       |   |       STATIC6.MSG
+    |       |   |       
+    |       |   \---9
+    |       +---TOOLS
+    |       |       IPTRACE6.NLM
+    |       |       PING6.NLM
+    |       |       
+    |       \---WINSOCK
+    |               WS2_32.NLM
+    |               WSPIP.NLM
+    |               
+    +---SYSTEM
+    |   |   A3112.NLM
+    |   |   ADSP.NLM
+    |   |   AFPSTOP.NCF
+    |   |   AFPSTRT.NCF
+    |   |   AFPTCP.NLM
+    |   |   AIOCOMX.ADI
+    |   |   AIOCOMX.DOC
+    |   |   APPLETLK.NLM
+    |   |   APPLETLK.PDI
+    |   |   ARKSTART.NCF
+    |   |   ARKSTOP.NCF
+    |   |   ARP.NLM
+    |   |   ATCFG.NLM
+    |   |   ATCON.NLM
+    |   |   ATFLT.NLM
+    |   |   AUDNLM32.NLM
+    |   |   AURP.NLM
+    |   |   BCALLCFG.NLM
+    |   |   BCALLSRV.NLM
+    |   |   BOOTPFWD.NLM
+    |   |   BRGCFG.NLM
+    |   |   BRGCON.NLM
+    |   |   BRGLANM.NLM
+    |   |   BRIDGE.NLM
+    |   |   CALNLM32.NLM
+    |   |   CDROM.NLM
+    |   |   CFGFILES.CFG
+    |   |   CIFS.NLM
+    |   |   CIFSPROX.NLM
+    |   |   CIFSSTOP.NCF
+    |   |   CIFSSTRT.NCF
+    |   |   CLI.NLM
+    |   |   CLNNLM32.NLM
+    |   |   CLXNLM32.NLM
+    |   |   CONLOG.NLM
+    |   |   CONMAN.NLM
+    |   |   CONNAUD.NLM
+    |   |   CONVINET.NLM
+    |   |   CPECFG.NLM
+    |   |   CSATPXY.NLM
+    |   |   CSAUDIT.NLM
+    |   |   CSL.NLM
+    |   |   CSLCNVRT.NLM
+    |   |   CSLIND.NLM
+    |   |   CSSYSMSG.NLM
+    |   |   DBNET6.NLM
+    |   |   DFSLIB.NLM
+    |   |   DHCPSRVR.NLM
+    |   |   DNIPINST.NLM
+    |   |   DNS.NLM
+    |   |   DNSADMIN.NLM
+    |   |   DNSCNVRT.NLM
+    |   |   DSAPI.NLM
+    |   |   DSEVENT.NLM
+    |   |   ETHERTSM.NLM
+    |   |   FDDITSM.NLM
+    |   |   FILTCFG.NLM
+    |   |   FILTCONV.NLM
+    |   |   FILTSRV.NLM
+    |   |   GENCFG.NLM
+    |   |   GENERIC.PDI
+    |   |   HTTPSTK.NLM
+    |   |   ICM_SPX.NLM
+    |   |   IFCONFIG.NLM
+    |   |   IMGHOST.NLM
+    |   |   INETCFG.NLM
+    |   |   INETLIB.NLM
+    |   |   INETSTRT.NCF
+    |   |   INITNICI.NLM
+    |   |   INITSDI.NLM
+    |   |   IOCTL.NLM
+    |   |   IOFF.NCF
+    |   |   ION.NCF
+    |   |   IPC.MPM
+    |   |   IPCLINFO.NLM
+    |   |   IPCU.NLM
+    |   |   IPFLT.NLM
+    |   |   IPFLT31.NLM
+    |   |   IPRELAY.LAN
+    |   |   IPRELAY.LDI
+    |   |   IPRELCFG.NLM
+    |   |   IPTRACE.NLM
+    |   |   IPTUNNEL.LAN
+    |   |   IPTUNNEL.LDI
+    |   |   IPX.PDI
+    |   |   IPXCFG.NLM
+    |   |   IPXCON.NLM
+    |   |   IPXF.NLM
+    |   |   IPXFLT.NLM
+    |   |   IPXPING.NLM
+    |   |   IPXRTR.NLM
+    |   |   IPXRTRNM.NLM
+    |   |   IPXS.MPM
+    |   |   IPXS.NLM
+    |   |   IPXSPX.MPM
+    |   |   ISCSIHAM.HAM
+    |   |   ISCSILIB.NLM
+    |   |   ISCSINIT.NLM
+    |   |   ISCSINRM.NLM
+    |   |   ISCSITAR.NLM
+    |   |   ISCSIXML.NLM
+    |   |   ISPLOGIN.LSC
+    |   |   JSMSG.NLM
+    |   |   JSTCP.NLM
+    |   |   LICMAINT.NLM
+    |   |   LIC_API.NLM
+    |   |   LLC8022.NLM
+    |   |   LOCNLM32.NLM
+    |   |   LSAPI.NLM
+    |   |   LSL.MPM
+    |   |   MACIPXGW.LAN
+    |   |   MACIPXGW.LDI
+    |   |   MATHLIB.NLM
+    |   |   MATHLIBC.NLM
+    |   |   MIGLIB.NLM
+    |   |   MSM.NLM
+    |   |   NAMED.NLM
+    |   |   NAT.NLM
+    |   |   NBSYS.INI
+    |   |   NC.NLM
+    |   |   NCM.NLM
+    |   |   NCMCON.CFG
+    |   |   NCMCON.NLM
+    |   |   NCMSG.MSG
+    |   |   NCPNLM32.NLM
+    |   |   NCUTIL.MSG
+    |   |   NDDPREFS.DAT
+    |   |   NETDB.MPM
+    |   |   NETDB.NLM
+    |   |   NETLIB.NLM
+    |   |   NETNLM32.NLM
+    |   |   NETSTAT.NLM
+    |   |   NFAP4NRM.NLM
+    |   |   NICISDI.XLM
+    |   |   NLDAPI.NLM
+    |   |   NLS.NLM
+    |   |   NLSADPT2.NLM
+    |   |   NLSAPI.NLM
+    |   |   NLSBTRV.NLM
+    |   |   NLSFLAIM.NLM
+    |   |   NLSI.NLM
+    |   |   NLSINIT.NCF
+    |   |   NLSLRUP.NLM
+    |   |   NLSLSP.NLM
+    |   |   NLSMETER.NLM
+    |   |   NLSPAUTO.NLM
+    |   |   NLSTRAP.NLM
+    |   |   NPRINTER.NLM
+    |   |   NS311.NLM
+    |   |   NSLOOKUP.NLM
+    |   |   NSSPR.NLM
+    |   |   NTLS.NLM
+    |   |   NTPDATE.NLM
+    |   |   NTPQ.NLM
+    |   |   NTPTRACE.NLM
+    |   |   NUT.NLM
+    |   |   NWCCSS.NLM
+    |   |   NWPING.NLM
+    |   |   NWPSRV.NLM
+    |   |   NWRSA.NLM
+    |   |   NWTRACE.NLM
+    |   |   ODINEB.NLM
+    |   |   PARSER.NLM
+    |   |   PCISINFO.NLM
+    |   |   PEDLL.DLL
+    |   |   PELDR.NLM
+    |   |   PGM.NLM
+    |   |   PIM.NLM
+    |   |   PING.NLM
+    |   |   PORTAL.NLM
+    |   |   PSERVER.NLM
+    |   |   PTRACE.NLM
+    |   |   PTRACE.TXT
+    |   |   RDBHOST.NLM
+    |   |   REMOTE.NLM
+    |   |   ROLLCALL.NLM
+    |   |   ROUTECON.NLM
+    |   |   RSPX.NLM
+    |   |   RTDM.NLM
+    |   |   SAS.NLM
+    |   |   SASDFM.XLM
+    |   |   SCMD.LAN
+    |   |   SCMD.LDI
+    |   |   SCMD.NLM
+    |   |   SCRSAVER.NLM
+    |   |   SDIDIAG.NLM
+    |   |   SECURE.NCF
+    |   |   SERVMAN.NLM
+    |   |   SETMD4.NLM
+    |   |   SETUPNLS.NLM
+    |   |   SLP.MPM
+    |   |   SNMP.MPM
+    |   |   SNMP.NLM
+    |   |   SNMPLOG.NLM
+    |   |   SPXCONFG.NLM
+    |   |   SPXS.MPM
+    |   |   SPXS.NLM
+    |   |   SRBRIDGE.LAN
+    |   |   SRBRIDGE.LDI
+    |   |   SRBRIDGE.PDI
+    |   |   SRCROUTE.PDI
+    |   |   SRTCFG.NLM
+    |   |   STANDARD.NCK
+    |   |   STATICON.NLM
+    |   |   STREAMS.MPM
+    |   |   SYSCALLS.NLM
+    |   |   TAR.NLM
+    |   |   TCPCFG.NLM
+    |   |   TCPCON.NLM
+    |   |   TCPIP.MPM
+    |   |   TCPIP.PDI
+    |   |   TCPSTATS.NLM
+    |   |   TDEP.NCF
+    |   |   TECHWALK.NLM
+    |   |   TELNETD.NLM
+    |   |   TIMESYNC.NLM
+    |   |   TINIT.NCF
+    |   |   TLI.MPM
+    |   |   TLI.NLM
+    |   |   TOFF.NCF
+    |   |   TOKENTSM.NLM
+    |   |   TON.NCF
+    |   |   TPING.NLM
+    |   |   TUI.NLM
+    |   |   UNICODE.MPM
+    |   |   UNZIP.NLM
+    |   |   UPS_AIO.NLM
+    |   |   USERLIB.NLM
+    |   |   VCU.NLM
+    |   |   VCUX.NCF
+    |   |   VDQAD.NLM
+    |   |   VERDUMP.NLM
+    |   |   VIEW.NLM
+    |   |   VLDB.NLM
+    |   |   VLMSG.NLM
+    |   |   VLRPC.NLM
+    |   |   VLRPR.NLM
+    |   |   VMRPC.NLM
+    |   |   VNIC.LAN
+    |   |   VNIC.LDI
+    |   |   VOLAGENT.NLM
+    |   |   VOLSMS.NLM
+    |   |   WHOIS.NLM
+    |   |   WNICSMEM.NLM
+    |   |   XCONSOLE.NLM
+    |   |   XCONSSRV.NLM
+    |   |   XNTPD.NLM
+    |   |   XNTPDC.NLM
+    |   |   ZLIB.NLM
+    |   |   ZONE.NLM
+    |   |   
+    |   +---NLS
+    |   |   +---12
+    |   |   |       ADSP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       DSMERGE.HLP
+    |   |   |       DSREPAIR.HLP
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       HTTPSTK.MSG
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PING.MSG
+    |   |   |       PORTAL.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.MSG
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.MSG
+    |   |   |       TCPSTATS.MSG
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VIEW.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   +---13
+    |   |   |       ADSP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.HLP
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.HLP
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.HLP
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.HLP
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.HLP
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.HLP
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.HLP
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.HLP
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       DSMERGE.HLP
+    |   |   |       DSREPAIR.HLP
+    |   |   |       FILTCFG.HLP
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       GENCFG.HLP
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       HTTPSTK.MSG
+    |   |   |       INETCFG.HLP
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.HLP
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.HLP
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.HLP
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.HLP
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       LICMAINT.HLP
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NCMSG.MSG
+    |   |   |       NCUTIL.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PING.HLP
+    |   |   |       PING.MSG
+    |   |   |       PORTAL.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.HLP
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.HLP
+    |   |   |       STATICON.MSG
+    |   |   |       TCPCFG.HLP
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.HLP
+    |   |   |       TCPCON.MSG
+    |   |   |       TCPSTATS.MSG
+    |   |   |       TECHWALK.HLP
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VIEW.HLP
+    |   |   |       VIEW.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   +---14
+    |   |   |       ADSP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       DSMERGE.HLP
+    |   |   |       DSREPAIR.HLP
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PING.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.MSG
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.MSG
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VIEW.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   +---4
+    |   |   |       ADSP.MSG
+    |   |   |       AFPTCP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ARP.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.HLP
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.HLP
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.HLP
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       BSDSOCK.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CIFS.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.HLP
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.HLP
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.HLP
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DFSLIB.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.HLP
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.HLP
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       DSMERGE.MSG
+    |   |   |       FILTCFG.HLP
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       FINDNMS.MSG
+    |   |   |       FLEXTRAP.MSG
+    |   |   |       GENCFG.HLP
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       HTTPSTK.MSG
+    |   |   |       IFCONFIG.MSG
+    |   |   |       INETCFG.HLP
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.HLP
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.HLP
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.HLP
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.HLP
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       JSMSG.MSG
+    |   |   |       JSTCP.MSG
+    |   |   |       LICMAINT.HLP
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MONDATA.MSG
+    |   |   |       MPKAGENT.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NCMCON.HLP
+    |   |   |       NCMCON.MSG
+    |   |   |       NCMSG.MSG
+    |   |   |       NCUTIL.MSG
+    |   |   |       NDPSMIB.MSG
+    |   |   |       NDSTRAP.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NETLIB.MSG
+    |   |   |       NETSTAT.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLRUP.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NSSMIB.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       NTREND.MSG
+    |   |   |       NWPING.MSG
+    |   |   |       NWTRACE.MSG
+    |   |   |       NWTRAP.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PELDR.MSG
+    |   |   |       PING.HLP
+    |   |   |       PING.MSG
+    |   |   |       PORTAL.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       REMOTE.MSG
+    |   |   |       ROUTECON.MSG
+    |   |   |       SCMD.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.HLP
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.HLP
+    |   |   |       STATICON.MSG
+    |   |   |       TCP.MSG
+    |   |   |       TCPCFG.HLP
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.HLP
+    |   |   |       TCPCON.MSG
+    |   |   |       TCPIP.MSG
+    |   |   |       TCPSTATS.MSG
+    |   |   |       TECHWALK.HLP
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TIMESYNC.XLF
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VDQAD.MSG
+    |   |   |       VIEW.HLP
+    |   |   |       VIEW.MSG
+    |   |   |       VLDB.MSG
+    |   |   |       VLMSG.MSG
+    |   |   |       VLRPC.MSG
+    |   |   |       VLRPR.MSG
+    |   |   |       VMRPC.MSG
+    |   |   |       VNIC.MSG
+    |   |   |       WEBCON.MSG
+    |   |   |       WHOIS.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   +---6
+    |   |   |       ADSP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       HTTPSTK.MSG
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PING.MSG
+    |   |   |       PORTAL.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.MSG
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.MSG
+    |   |   |       TCPSTATS.MSG
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VIEW.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   +---7
+    |   |   |       ADSP.MSG
+    |   |   |       AIO.MSG
+    |   |   |       APPLETLK.MSG
+    |   |   |       ATCFG.MSG
+    |   |   |       ATCON.MSG
+    |   |   |       AURP.MSG
+    |   |   |       BCALLCFG.MSG
+    |   |   |       BCALLSRV.MSG
+    |   |   |       BOOTPFWD.MSG
+    |   |   |       BRGCFG.MSG
+    |   |   |       BRGCON.MSG
+    |   |   |       BRGLANM.MSG
+    |   |   |       BRIDGE.MSG
+    |   |   |       CDROM.MSG
+    |   |   |       CMD.MSG
+    |   |   |       CONLOG.MSG
+    |   |   |       CONVINET.MSG
+    |   |   |       CPECFG.MSG
+    |   |   |       CSAUDIT.MSG
+    |   |   |       CSL.MSG
+    |   |   |       CSLCNVRT.MSG
+    |   |   |       CSSYSMSG.MSG
+    |   |   |       DHCPSRVR.MSG
+    |   |   |       DNIPINST.MSG
+    |   |   |       DNSADMIN.MSG
+    |   |   |       DNSCNVRT.MSG
+    |   |   |       DSMERGE.HLP
+    |   |   |       DSREPAIR.HLP
+    |   |   |       FILTCFG.MSG
+    |   |   |       FILTCONV.MSG
+    |   |   |       FILTSRV.MSG
+    |   |   |       GENCFG.MSG
+    |   |   |       HOSTMIB.MSG
+    |   |   |       INETCFG.MSG
+    |   |   |       INETLIB.MSG
+    |   |   |       IPCLINFO.MSG
+    |   |   |       IPRELAY.MSG
+    |   |   |       IPRELCFG.MSG
+    |   |   |       IPTRACE.MSG
+    |   |   |       IPTUNNEL.MSG
+    |   |   |       IPXCFG.MSG
+    |   |   |       IPXCON.MSG
+    |   |   |       IPXF.MSG
+    |   |   |       IPXFLT.MSG
+    |   |   |       IPXPING.MSG
+    |   |   |       IPXRTR.MSG
+    |   |   |       IPXRTRNM.MSG
+    |   |   |       IPXS.MSG
+    |   |   |       ISCSINRM.MSG
+    |   |   |       LICMAINT.MSG
+    |   |   |       MACIPXGW.MSG
+    |   |   |       MPRDINST.MSG
+    |   |   |       NAMED.MSG
+    |   |   |       NCMCON.HLP
+    |   |   |       NCMCON.MSG
+    |   |   |       NETDB.MSG
+    |   |   |       NFAP4NRM.MSG
+    |   |   |       NLDAPI.HLP
+    |   |   |       NLDAPI.MSG
+    |   |   |       NLSLSP.MSG
+    |   |   |       NLSPAUTO.MSG
+    |   |   |       NLSTRAP.MSG
+    |   |   |       NPRINTER.MSG
+    |   |   |       NTPDATE.MSG
+    |   |   |       NTPQ.MSG
+    |   |   |       NTPTRACE.MSG
+    |   |   |       PARSER.MSG
+    |   |   |       PELDR.MSG
+    |   |   |       PING.MSG
+    |   |   |       PSERVER.HLP
+    |   |   |       PSERVER.MSG
+    |   |   |       SCRSAVER.MSG
+    |   |   |       SERVINST.MSG
+    |   |   |       SERVMAN.MSG
+    |   |   |       SETUPNLS.MSG
+    |   |   |       SNMP.MSG
+    |   |   |       SNMPLOG.MSG
+    |   |   |       SPOOFER.MSG
+    |   |   |       SPXCONFG.MSG
+    |   |   |       SPXS.MSG
+    |   |   |       SRTCFG.MSG
+    |   |   |       STATICON.MSG
+    |   |   |       TCPCFG.MSG
+    |   |   |       TCPCON.MSG
+    |   |   |       TECHWALK.MSG
+    |   |   |       TELNETD.MSG
+    |   |   |       TIMESYNC.MSG
+    |   |   |       TLI.MSG
+    |   |   |       TLS.MSG
+    |   |   |       TPING.MSG
+    |   |   |       TUI.MSG
+    |   |   |       UPS_AIO.MSG
+    |   |   |       VIEW.MSG
+    |   |   |       XCONSOLE.MSG
+    |   |   |       XCONSSRV.MSG
+    |   |   |       XNTPD.MSG
+    |   |   |       XNTPDC.MSG
+    |   |   |       
+    |   |   \---8
+    |   |           ADSP.MSG
+    |   |           AIO.MSG
+    |   |           APPLETLK.MSG
+    |   |           ATCFG.MSG
+    |   |           ATCON.MSG
+    |   |           AURP.MSG
+    |   |           BCALLCFG.MSG
+    |   |           BCALLSRV.MSG
+    |   |           BOOTPFWD.MSG
+    |   |           BRGCFG.MSG
+    |   |           BRGCON.MSG
+    |   |           BRGLANM.MSG
+    |   |           BRIDGE.MSG
+    |   |           CDROM.MSG
+    |   |           CMD.MSG
+    |   |           CONLOG.MSG
+    |   |           CONVINET.MSG
+    |   |           CPECFG.MSG
+    |   |           CSAUDIT.MSG
+    |   |           CSL.MSG
+    |   |           CSLCNVRT.MSG
+    |   |           CSSYSMSG.MSG
+    |   |           DHCPSRVR.MSG
+    |   |           DNIPINST.MSG
+    |   |           DNSADMIN.MSG
+    |   |           DNSCNVRT.MSG
+    |   |           DSMERGE.HLP
+    |   |           DSREPAIR.HLP
+    |   |           FILTCFG.MSG
+    |   |           FILTCONV.MSG
+    |   |           FILTSRV.MSG
+    |   |           GENCFG.MSG
+    |   |           HOSTMIB.MSG
+    |   |           INETCFG.MSG
+    |   |           INETLIB.MSG
+    |   |           IPCLINFO.MSG
+    |   |           IPRELAY.MSG
+    |   |           IPRELCFG.MSG
+    |   |           IPTRACE.MSG
+    |   |           IPTUNNEL.MSG
+    |   |           IPXCFG.MSG
+    |   |           IPXCON.MSG
+    |   |           IPXF.MSG
+    |   |           IPXFLT.MSG
+    |   |           IPXPING.MSG
+    |   |           IPXRTR.MSG
+    |   |           IPXRTRNM.MSG
+    |   |           IPXS.MSG
+    |   |           ISCSINRM.MSG
+    |   |           LICMAINT.MSG
+    |   |           MACIPXGW.MSG
+    |   |           MPRDINST.MSG
+    |   |           NAMED.MSG
+    |   |           NCMCON.HLP
+    |   |           NCMCON.MSG
+    |   |           NETDB.MSG
+    |   |           NFAP4NRM.MSG
+    |   |           NLDAPI.HLP
+    |   |           NLDAPI.MSG
+    |   |           NLSLSP.MSG
+    |   |           NLSPAUTO.MSG
+    |   |           NLSTRAP.MSG
+    |   |           NPRINTER.MSG
+    |   |           NTPDATE.MSG
+    |   |           NTPQ.MSG
+    |   |           NTPTRACE.MSG
+    |   |           PARSER.MSG
+    |   |           PING.MSG
+    |   |           PSERVER.HLP
+    |   |           PSERVER.MSG
+    |   |           SCRSAVER.MSG
+    |   |           SERVINST.MSG
+    |   |           SERVMAN.MSG
+    |   |           SETUPNLS.MSG
+    |   |           SNMP.MSG
+    |   |           SNMPLOG.MSG
+    |   |           SPOOFER.MSG
+    |   |           SPXCONFG.MSG
+    |   |           SPXS.MSG
+    |   |           SRTCFG.MSG
+    |   |           STATICON.MSG
+    |   |           TCPCFG.MSG
+    |   |           TCPCON.MSG
+    |   |           TECHWALK.MSG
+    |   |           TELNETD.MSG
+    |   |           TIMESYNC.MSG
+    |   |           TLI.MSG
+    |   |           TLS.MSG
+    |   |           TPING.MSG
+    |   |           TUI.MSG
+    |   |           UPS_AIO.MSG
+    |   |           VIEW.MSG
+    |   |           XCONSOLE.MSG
+    |   |           XCONSSRV.MSG
+    |   |           XNTPD.MSG
+    |   |           XNTPDC.MSG
+    |   |           
+    |   +---NMA
+    |   |   |   FLEXTRAP.CFG
+    |   |   |   FLEXTRAP.NLM
+    |   |   |   HOSTMIB.NLM
+    |   |   |   MONDATA.NLM
+    |   |   |   MPKAGENT.NLM
+    |   |   |   NDPSMIB.NLM
+    |   |   |   NMA5.NCF
+    |   |   |   NSSMIB.NLM
+    |   |   |   NWTRAP.CFG
+    |   |   |   NWTRAP.NLM
+    |   |   |   SERVINST.NLM
+    |   |   |   UNNMA5.NCF
+    |   |   |   
+    |   |   \---MIBS
+    |   |           MONDATA.MIB
+    |   |           MPK.MIB
+    |   |           NWALARM.MIB
+    |   |           NWALARMX.MIB
+    |   |           NWNSS.MIB
+    |   |           NWSERVER.MIB
+    |   |           RFC1213.MIB
+    |   |           RFC1514.MIB
+    |   |           RFC1759.MIB
+    |   |           
+    |   +---NW-MAC
+    |   |       EXTMAP.DAT
+    |   |       VOLICON.AFP
+    |   |       
+    |   +---SCHEMA
+    |   |       AUDITING.SCH
+    |   |       CATALOG.SCH
+    |   |       CHK_EXT.CFG
+    |   |       CHK_EXT.SCH
+    |   |       CHK_REP.CFG
+    |   |       CHK_REP.SCH
+    |   |       EMBOX.SCH
+    |   |       HTTPSTK.SCH
+    |   |       ISCSI.SCH
+    |   |       LDAP.SCH
+    |   |       LDAPUPDT.SCH
+    |   |       MASV.SCH
+    |   |       NCS.SCH
+    |   |       NDFS1.SCH
+    |   |       NDPS100.SCH
+    |   |       NDPS200.SCH
+    |   |       NDPS201.SCH
+    |   |       NDS500.SCH
+    |   |       NDSCOMM.SCH
+    |   |       NDSPKI.SCH
+    |   |       NDSPKIS.SCH
+    |   |       NFAP.SCH
+    |   |       NLS.SCH
+    |   |       NMAS.SCH
+    |   |       NOV_INET.SCH
+    |   |       NPS.SCH
+    |   |       NRD.SCH
+    |   |       NRM.SCH
+    |   |       NSPM.SCH
+    |   |       NSSFS.SCH
+    |   |       NWADMIN.SCH
+    |   |       PASSMGMT.SCH
+    |   |       RBS.SCH
+    |   |       RBS2.SCH
+    |   |       SAS.SCH
+    |   |       SCHEMA.CFG
+    |   |       SLP.SCH
+    |   |       SMS.SCH
+    |   |       SNMP.SCH
+    |   |       STATUSLG.SCH
+    |   |       SVC.SCH
+    |   |       WANMAN.SCH
+    |   |       XTIER.SCH
+    |   |       
+    |   \---UTILS
+    |       \---NLS
+    |           +---DEUTSCH
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           +---ENGLISH
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           +---ESPANOL
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           +---FRANCAIS
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           +---ITALIANO
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           +---PORTUGUE
+    |           |       MODEMMGR.DLL
+    |           |       
+    |           \---RUSSKI
+    |                   MODEMMGR.DLL
+    |                   
+    \---SYSZIP
+            APWLCM.ZIP
+            ARKMANAGER.ZIP
+            BEANSWLCM.ZIP
+            C1S_ICE.ZIP
+            C1S_IMGR.ZIP
+            C1S_LDAP.ZIP
+            C1S_NSS.ZIP
+            C1S_WMAN.ZIP
+            DIRXMLLINK.ZIP
+            DNSDHCP.ZIP
+            EGUIDELINK.ZIP
+            IFOLD_WLCM.ZIP
+            IMANAGER.ZIP
+            IPMGMT.ZIP
+            IPRINT2.ZIP
+            IPV6.ZIP
+            ISCSI.ZIP
+            J2EEWLCM.ZIP
+            JCLIENT.ZIP
+            JSSL11.ZIP
+            MYWLCM.ZIP
+            NBO.ZIP
+            NIRMAN.ZIP
+            NJCLV2.ZIP
+            NPKI.ZIP
+            NRMWLCM.ZIP
+            NSSWELCM.ZIP
+            NSSWITCH.ZIP
+            NTPWELCOMEPAGE.ZIP
+            NTP_ETC.ZIP
+            NWADMIN.ZIP
+            NWSWLCM.ZIP
+            RCONJ.ZIP
+            SCRIPTWLCM.ZIP
+            SMSWLCM.ZIP
+            SSHWLCM.ZIP
+            TC4WLCM.ZIP
+            TCPIP_WAN_IPMGMT.ZIP
+            UDDI.ZIP
+            VO_WLCM.ZIP
+            WSTORAGE.ZIP
+            

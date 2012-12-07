@@ -1,0 +1,150 @@
+Folder PATH listing for volume Colonization
+Volume serial number is A78E-6CDB
+J:\
+|   GameuxInstallHelper.dll
+|   ISSetup.dll
+|   _setup.dll
+|   autorun.exe
+|   autorun.inf
+|   data1.cab
+|   data1.hdr
+|   data2.cab
+|   layout.bin
+|   setup.exe
+|   setup.ini
+|   setup.inx
+|   setup.isn
+|   
++---Autorun
+|       BTN01-Install.bmp
+|       BTN01-Install_OVER.bmp
+|       BTN01-Play.bmp
+|       BTN01-Play_OVER.bmp
+|       BTN02-ReadMe.bmp
+|       BTN02-ReadMe_OVER.bmp
+|       BTN03-Exit.bmp
+|       BTN03-Exit_OVER.bmp
+|       BTN04-PlayMovie1.bmp
+|       BTN04-PlayMovie1_OVER.bmp
+|       BTN05-PlayMovie2.bmp
+|       BTN05-PlayMovie2_OVER.bmp
+|       Civ4Installer.ico
+|       ColonizationAutoRunBG.bmp
+|       FR_BTN01-Install.bmp
+|       FR_BTN01-Install_OVER.bmp
+|       FR_BTN01-Play.bmp
+|       FR_BTN01-Play_OVER.bmp
+|       FR_BTN02-ReadMe.bmp
+|       FR_BTN02-ReadMe_OVER.bmp
+|       FR_BTN03-Exit.bmp
+|       FR_BTN03-Exit_OVER.bmp
+|       GE_BTN01-Install.bmp
+|       GE_BTN01-Install_OVER.bmp
+|       GE_BTN01-Play.bmp
+|       GE_BTN01-Play_OVER.bmp
+|       GE_BTN02-ReadMe.bmp
+|       GE_BTN02-ReadMe_OVER.bmp
+|       GE_BTN03-Exit.bmp
+|       GE_BTN03-Exit_OVER.bmp
+|       IT_BTN01-Install.bmp
+|       IT_BTN01-Install_OVER.bmp
+|       IT_BTN01-Play.bmp
+|       IT_BTN01-Play_OVER.bmp
+|       IT_BTN02-ReadMe.bmp
+|       IT_BTN02-ReadMe_OVER.bmp
+|       IT_BTN03-Exit.bmp
+|       IT_BTN03-Exit_OVER.bmp
+|       SP_BTN01-Install.bmp
+|       SP_BTN01-Install_OVER.bmp
+|       SP_BTN01-Play.bmp
+|       SP_BTN01-Play_OVER.bmp
+|       SP_BTN02-ReadMe.bmp
+|       SP_BTN02-ReadMe_OVER.bmp
+|       SP_BTN03-Exit.bmp
+|       SP_BTN03-Exit_OVER.bmp
+|       
++---Crack
+|       colonization.exe
+|       
++---DirectX9
+|       APR2007_XACT_x64.cab
+|       APR2007_XACT_x86.cab
+|       APR2007_d3dx10_33_x64.cab
+|       APR2007_d3dx10_33_x86.cab
+|       APR2007_d3dx9_33_x64.cab
+|       APR2007_d3dx9_33_x86.cab
+|       APR2007_xinput_x64.cab
+|       APR2007_xinput_x86.cab
+|       AUG2006_XACT_x64.cab
+|       AUG2006_XACT_x86.cab
+|       AUG2006_xinput_x64.cab
+|       AUG2006_xinput_x86.cab
+|       Apr2005_d3dx9_25_x64.cab
+|       Apr2005_d3dx9_25_x86.cab
+|       Apr2006_MDX1_x86.cab
+|       Apr2006_MDX1_x86_Archive.cab
+|       Apr2006_XACT_x64.cab
+|       Apr2006_XACT_x86.cab
+|       Apr2006_d3dx9_30_x64.cab
+|       Apr2006_d3dx9_30_x86.cab
+|       Apr2006_xinput_x64.cab
+|       Apr2006_xinput_x86.cab
+|       Aug2005_d3dx9_27_x64.cab
+|       Aug2005_d3dx9_27_x86.cab
+|       BDANT.cab
+|       BDAXP.cab
+|       DEC2006_XACT_x64.cab
+|       DEC2006_XACT_x86.cab
+|       DEC2006_d3dx10_00_x64.cab
+|       DEC2006_d3dx10_00_x86.cab
+|       DEC2006_d3dx9_32_x64.cab
+|       DEC2006_d3dx9_32_x86.cab
+|       DSETUP.dll
+|       DXSETUP.exe
+|       Dec2005_d3dx9_28_x64.cab
+|       Dec2005_d3dx9_28_x86.cab
+|       FEB2007_XACT_x64.cab
+|       FEB2007_XACT_x86.cab
+|       Feb2005_d3dx9_24_x64.cab
+|       Feb2005_d3dx9_24_x86.cab
+|       Feb2006_XACT_x64.cab
+|       Feb2006_XACT_x86.cab
+|       Feb2006_d3dx9_29_x64.cab
+|       Feb2006_d3dx9_29_x86.cab
+|       JUN2006_XACT_x64.cab
+|       JUN2006_XACT_x86.cab
+|       JUN2007_XACT_x64.cab
+|       JUN2007_XACT_x86.cab
+|       JUN2007_d3dx10_34_x64.cab
+|       JUN2007_d3dx10_34_x86.cab
+|       JUN2007_d3dx9_34_x64.cab
+|       JUN2007_d3dx9_34_x86.cab
+|       Jun2005_d3dx9_26_x64.cab
+|       Jun2005_d3dx9_26_x86.cab
+|       OCT2006_XACT_x64.cab
+|       OCT2006_XACT_x86.cab
+|       OCT2006_d3dx9_31_x64.cab
+|       OCT2006_d3dx9_31_x86.cab
+|       Oct2005_xinput_x64.cab
+|       Oct2005_xinput_x86.cab
+|       dsetup32.dll
+|       dxdllreg_x86.cab
+|       dxnt.cab
+|       dxupdate.cab
+|       
+\---Readme
+    +---English
+    |       Readme.htm
+    |       
+    +---French
+    |       Readme.htm
+    |       
+    +---German
+    |       Readme.htm
+    |       
+    +---Italian
+    |       Readme.htm
+    |       
+    \---Spanish
+            Readme.htm
+            

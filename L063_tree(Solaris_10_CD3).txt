@@ -1,0 +1,1655 @@
+Folder PATH listing for volume SOL_10_305_X86_3
+Volume serial number is 3A9F-1501
+G:\
+|   .cdtoc
+|   .volume.inf
+|   Copyright
+|   JDS-THIRDPARTYLICENSEREADME
+|   installer
+|   
++---.install
+|   |   install.class
+|   |   install_common
+|   |   
+|   +---JRE
+|   |   |   COPYRIGHT
+|   |   |   
+|   |   +---bin
+|   |   |       java
+|   |   |       keytool
+|   |   |       orbd
+|   |   |       policytool
+|   |   |       rmid
+|   |   |       rmiregistry
+|   |   |       servertool
+|   |   |       tnameserv
+|   |   |       
+|   |   \---jre
+|   |       |   CHANGES
+|   |       |   COPYRIGHT
+|   |       |   ControlPanel.html
+|   |       |   LICENSE
+|   |       |   README
+|   |       |   THIRDPARTYLICENSEREADME.txt
+|   |       |   Welcome.html
+|   |       |   
+|   |       +---bin
+|   |       |       ControlPanel
+|   |       |       java
+|   |       |       java_vm
+|   |       |       keytool
+|   |       |       orbd
+|   |       |       policytool
+|   |       |       rmid
+|   |       |       rmiregistry
+|   |       |       servertool
+|   |       |       tnameserv
+|   |       |       
+|   |       +---javaws
+|   |       |   |   cacerts
+|   |       |   |   javalogo52x88.gif
+|   |       |   |   javaws
+|   |       |   |   javaws-l10n.jar
+|   |       |   |   javaws.jar
+|   |       |   |   javaws.policy
+|   |       |   |   javaws_launcher.dt
+|   |       |   |   javawsbin
+|   |       |   |   readme.html
+|   |       |   |   readme_de.html
+|   |       |   |   readme_es.html
+|   |       |   |   readme_fr.html
+|   |       |   |   readme_it.html
+|   |       |   |   readme_ja.html
+|   |       |   |   readme_ko.html
+|   |       |   |   readme_sv.html
+|   |       |   |   readme_zh_CN.html
+|   |       |   |   readme_zh_TW.html
+|   |       |   |   sunlogo64x30.gif
+|   |       |   |   
+|   |       |   \---resources
+|   |       |           copyright.jpg
+|   |       |           messages.properties
+|   |       |           messages_de.properties
+|   |       |           messages_es.properties
+|   |       |           messages_fr.properties
+|   |       |           messages_it.properties
+|   |       |           messages_ja.properties
+|   |       |           messages_ko.properties
+|   |       |           messages_sv.properties
+|   |       |           messages_zh_CN.properties
+|   |       |           messages_zh_TW.properties
+|   |       |           miniSplash.jpg
+|   |       |           splash.jpg
+|   |       |           
+|   |       +---lib
+|   |       |   |   charsets.jar
+|   |       |   |   content-types.properties
+|   |       |   |   flavormap.properties
+|   |       |   |   font.properties
+|   |       |   |   font.properties.Cp1251
+|   |       |   |   font.properties.ISO8859_13
+|   |       |   |   font.properties.ISO8859_13.5.7
+|   |       |   |   font.properties.ISO8859_15
+|   |       |   |   font.properties.ISO8859_2
+|   |       |   |   font.properties.ISO8859_4
+|   |       |   |   font.properties.ISO8859_5
+|   |       |   |   font.properties.ISO8859_7
+|   |       |   |   font.properties.ISO8859_9
+|   |       |   |   font.properties.KOI8_R
+|   |       |   |   font.properties.UTF8
+|   |       |   |   font.properties.UTF8.5.6
+|   |       |   |   font.properties.UTF8.5.7
+|   |       |   |   font.properties.ar
+|   |       |   |   font.properties.hi_IN_UTF8.5.9
+|   |       |   |   font.properties.iw
+|   |       |   |   font.properties.ja
+|   |       |   |   font.properties.ja_JP_UTF8
+|   |       |   |   font.properties.ja_JP_UTF8.5.7
+|   |       |   |   font.properties.ko
+|   |       |   |   font.properties.ko.5.6
+|   |       |   |   font.properties.ko.5.7
+|   |       |   |   font.properties.ko_KR_UTF8
+|   |       |   |   font.properties.ko_KR_UTF8.5.6
+|   |       |   |   font.properties.ko_KR_UTF8.5.7
+|   |       |   |   font.properties.th
+|   |       |   |   font.properties.th_UTF8
+|   |       |   |   font.properties.zh_CN_UTF8
+|   |       |   |   font.properties.zh_CN_UTF8.5.9
+|   |       |   |   font.properties.zh_EUC_CN
+|   |       |   |   font.properties.zh_GB18030
+|   |       |   |   font.properties.zh_GBK
+|   |       |   |   font.properties.zh_HK_Big5_HKSCS
+|   |       |   |   font.properties.zh_HK_UTF8.5.9
+|   |       |   |   font.properties.zh_TW_Big5
+|   |       |   |   font.properties.zh_TW_Big5.5.6
+|   |       |   |   font.properties.zh_TW_EUC_TW
+|   |       |   |   font.properties.zh_TW_UTF8
+|   |       |   |   font.properties.zh_TW_UTF8.5.9
+|   |       |   |   jce.jar
+|   |       |   |   jsse.jar
+|   |       |   |   jvm.hprof.txt
+|   |       |   |   jvm.jcov.txt
+|   |       |   |   logging.properties
+|   |       |   |   plugin.jar
+|   |       |   |   psfont.properties.ja
+|   |       |   |   psfontj2d.properties
+|   |       |   |   rt.jar
+|   |       |   |   sunrsasign.jar
+|   |       |   |   
+|   |       |   +---applet
+|   |       |   +---audio
+|   |       |   |       soundbank.gm
+|   |       |   |       
+|   |       |   +---cmm
+|   |       |   |       CIEXYZ.pf
+|   |       |   |       GRAY.pf
+|   |       |   |       LINEAR_RGB.pf
+|   |       |   |       PYCC.pf
+|   |       |   |       sRGB.pf
+|   |       |   |       
+|   |       |   +---ext
+|   |       |   |       dnsns.jar
+|   |       |   |       ldapsec.jar
+|   |       |   |       localedata.jar
+|   |       |   |       sunjce_provider.jar
+|   |       |   |       
+|   |       |   +---fonts
+|   |       |   |       LucidaBrightDemiBold.ttf
+|   |       |   |       LucidaBrightDemiItalic.ttf
+|   |       |   |       LucidaBrightItalic.ttf
+|   |       |   |       LucidaBrightRegular.ttf
+|   |       |   |       LucidaSansDemiBold.ttf
+|   |       |   |       LucidaSansRegular.ttf
+|   |       |   |       LucidaTypewriterBold.ttf
+|   |       |   |       LucidaTypewriterRegular.ttf
+|   |       |   |       fonts.dir
+|   |       |   |       
+|   |       |   +---i386
+|   |       |   |   |   awt_robot
+|   |       |   |   |   jexec
+|   |       |   |   |   jvm.cfg
+|   |       |   |   |   libJdbcOdbc.so
+|   |       |   |   |   libawt.so
+|   |       |   |   |   libcmm.so
+|   |       |   |   |   libdcpr.so
+|   |       |   |   |   libdt_socket.so
+|   |       |   |   |   libfontmanager.so
+|   |       |   |   |   libhprof.so
+|   |       |   |   |   libioser12.so
+|   |       |   |   |   libjaas_unix.so
+|   |       |   |   |   libjava.so
+|   |       |   |   |   libjavaplugin_jni.so
+|   |       |   |   |   libjawt.so
+|   |       |   |   |   libjcov.so
+|   |       |   |   |   libjdwp.so
+|   |       |   |   |   libjpeg.so
+|   |       |   |   |   libjsig.so
+|   |       |   |   |   libjsound.so
+|   |       |   |   |   libjvm.so
+|   |       |   |   |   libmlib_image.so
+|   |       |   |   |   libnet.so
+|   |       |   |   |   libnio.so
+|   |       |   |   |   librmi.so
+|   |       |   |   |   libsunwjdga.so
+|   |       |   |   |   libverify.so
+|   |       |   |   |   libzip.so
+|   |       |   |   |   
+|   |       |   |   +---client
+|   |       |   |   |       Xusage.txt
+|   |       |   |   |       libjsig.so
+|   |       |   |   |       libjvm.so
+|   |       |   |   |       
+|   |       |   |   +---headless
+|   |       |   |   |       libmawt.so
+|   |       |   |   |       
+|   |       |   |   +---motif21
+|   |       |   |   |       libmawt.so
+|   |       |   |   |       
+|   |       |   |   +---native_threads
+|   |       |   |   |       libhpi.so
+|   |       |   |   |       
+|   |       |   |   \---server
+|   |       |   |           Xusage.txt
+|   |       |   |           libjsig.so
+|   |       |   |           libjvm.so
+|   |       |   |           
+|   |       |   +---im
+|   |       |   |       indicim.jar
+|   |       |   |       thaiim.jar
+|   |       |   |       
+|   |       |   +---images
+|   |       |   |   \---cursors
+|   |       |   |           cursors.properties
+|   |       |   |           invalid32x32.gif
+|   |       |   |           motif_CopyDrop32x32.gif
+|   |       |   |           motif_CopyNoDrop32x32.gif
+|   |       |   |           motif_LinkDrop32x32.gif
+|   |       |   |           motif_LinkNoDrop32x32.gif
+|   |       |   |           motif_MoveDrop32x32.gif
+|   |       |   |           motif_MoveNoDrop32x32.gif
+|   |       |   |           
+|   |       |   +---locale
+|   |       |   |   +---de
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---es
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---fr
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---it
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---ja
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---ko
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---ko.UTF-8
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---sv
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---zh
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---zh.GBK
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   +---zh_TW
+|   |       |   |   |   \---LC_MESSAGES
+|   |       |   |   |           sunw_java_plugin.mo
+|   |       |   |   |           
+|   |       |   |   \---zh_TW.BIG5
+|   |       |   |       \---LC_MESSAGES
+|   |       |   |               sunw_java_plugin.mo
+|   |       |   |               
+|   |       |   +---security
+|   |       |   |       US_export_policy.jar
+|   |       |   |       cacerts
+|   |       |   |       java.policy
+|   |       |   |       java.security
+|   |       |   |       local_policy.jar
+|   |       |   |       
+|   |       |   \---zi
+|   |       |       |   CET
+|   |       |       |   EET
+|   |       |       |   GMT
+|   |       |       |   MET
+|   |       |       |   WET
+|   |       |       |   ZoneInfoMappings
+|   |       |       |   
+|   |       |       +---Africa
+|   |       |       |       Abidjan
+|   |       |       |       Accra
+|   |       |       |       Addis_Ababa
+|   |       |       |       Algiers
+|   |       |       |       Asmera
+|   |       |       |       Bamako
+|   |       |       |       Bangui
+|   |       |       |       Banjul
+|   |       |       |       Bissau
+|   |       |       |       Blantyre
+|   |       |       |       Brazzaville
+|   |       |       |       Bujumbura
+|   |       |       |       Cairo
+|   |       |       |       Casablanca
+|   |       |       |       Ceuta
+|   |       |       |       Conakry
+|   |       |       |       Dakar
+|   |       |       |       Dar_es_Salaam
+|   |       |       |       Djibouti
+|   |       |       |       Douala
+|   |       |       |       El_Aaiun
+|   |       |       |       Freetown
+|   |       |       |       Gaborone
+|   |       |       |       Harare
+|   |       |       |       Johannesburg
+|   |       |       |       Kampala
+|   |       |       |       Khartoum
+|   |       |       |       Kigali
+|   |       |       |       Kinshasa
+|   |       |       |       Lagos
+|   |       |       |       Libreville
+|   |       |       |       Lome
+|   |       |       |       Luanda
+|   |       |       |       Lubumbashi
+|   |       |       |       Lusaka
+|   |       |       |       Malabo
+|   |       |       |       Maputo
+|   |       |       |       Maseru
+|   |       |       |       Mbabane
+|   |       |       |       Mogadishu
+|   |       |       |       Monrovia
+|   |       |       |       Nairobi
+|   |       |       |       Ndjamena
+|   |       |       |       Niamey
+|   |       |       |       Nouakchott
+|   |       |       |       Ouagadougou
+|   |       |       |       Porto-Novo
+|   |       |       |       Sao_Tome
+|   |       |       |       Timbuktu
+|   |       |       |       Tripoli
+|   |       |       |       Tunis
+|   |       |       |       Windhoek
+|   |       |       |       
+|   |       |       +---America
+|   |       |       |   |   Adak
+|   |       |       |   |   Anchorage
+|   |       |       |   |   Anguilla
+|   |       |       |   |   Antigua
+|   |       |       |   |   Araguaina
+|   |       |       |   |   Aruba
+|   |       |       |   |   Asuncion
+|   |       |       |   |   Barbados
+|   |       |       |   |   Belem
+|   |       |       |   |   Belize
+|   |       |       |   |   Boa_Vista
+|   |       |       |   |   Bogota
+|   |       |       |   |   Boise
+|   |       |       |   |   Buenos_Aires
+|   |       |       |   |   Cambridge_Bay
+|   |       |       |   |   Cancun
+|   |       |       |   |   Caracas
+|   |       |       |   |   Catamarca
+|   |       |       |   |   Cayenne
+|   |       |       |   |   Cayman
+|   |       |       |   |   Chicago
+|   |       |       |   |   Chihuahua
+|   |       |       |   |   Cordoba
+|   |       |       |   |   Costa_Rica
+|   |       |       |   |   Cuiaba
+|   |       |       |   |   Curacao
+|   |       |       |   |   Danmarkshavn
+|   |       |       |   |   Dawson
+|   |       |       |   |   Dawson_Creek
+|   |       |       |   |   Denver
+|   |       |       |   |   Detroit
+|   |       |       |   |   Dominica
+|   |       |       |   |   Edmonton
+|   |       |       |   |   Eirunepe
+|   |       |       |   |   El_Salvador
+|   |       |       |   |   Fortaleza
+|   |       |       |   |   Glace_Bay
+|   |       |       |   |   Godthab
+|   |       |       |   |   Goose_Bay
+|   |       |       |   |   Grand_Turk
+|   |       |       |   |   Grenada
+|   |       |       |   |   Guadeloupe
+|   |       |       |   |   Guatemala
+|   |       |       |   |   Guayaquil
+|   |       |       |   |   Guyana
+|   |       |       |   |   Halifax
+|   |       |       |   |   Havana
+|   |       |       |   |   Hermosillo
+|   |       |       |   |   Indianapolis
+|   |       |       |   |   Inuvik
+|   |       |       |   |   Iqaluit
+|   |       |       |   |   Jamaica
+|   |       |       |   |   Jujuy
+|   |       |       |   |   Juneau
+|   |       |       |   |   La_Paz
+|   |       |       |   |   Lima
+|   |       |       |   |   Los_Angeles
+|   |       |       |   |   Louisville
+|   |       |       |   |   Maceio
+|   |       |       |   |   Managua
+|   |       |       |   |   Manaus
+|   |       |       |   |   Martinique
+|   |       |       |   |   Mazatlan
+|   |       |       |   |   Mendoza
+|   |       |       |   |   Menominee
+|   |       |       |   |   Merida
+|   |       |       |   |   Mexico_City
+|   |       |       |   |   Miquelon
+|   |       |       |   |   Monterrey
+|   |       |       |   |   Montevideo
+|   |       |       |   |   Montreal
+|   |       |       |   |   Montserrat
+|   |       |       |   |   Nassau
+|   |       |       |   |   New_York
+|   |       |       |   |   Nipigon
+|   |       |       |   |   Nome
+|   |       |       |   |   Noronha
+|   |       |       |   |   Panama
+|   |       |       |   |   Pangnirtung
+|   |       |       |   |   Paramaribo
+|   |       |       |   |   Phoenix
+|   |       |       |   |   Port-au-Prince
+|   |       |       |   |   Port_of_Spain
+|   |       |       |   |   Porto_Velho
+|   |       |       |   |   Puerto_Rico
+|   |       |       |   |   Rainy_River
+|   |       |       |   |   Rankin_Inlet
+|   |       |       |   |   Recife
+|   |       |       |   |   Regina
+|   |       |       |   |   Rio_Branco
+|   |       |       |   |   Santiago
+|   |       |       |   |   Santo_Domingo
+|   |       |       |   |   Sao_Paulo
+|   |       |       |   |   Scoresbysund
+|   |       |       |   |   St_Johns
+|   |       |       |   |   St_Kitts
+|   |       |       |   |   St_Lucia
+|   |       |       |   |   St_Thomas
+|   |       |       |   |   St_Vincent
+|   |       |       |   |   Swift_Current
+|   |       |       |   |   Tegucigalpa
+|   |       |       |   |   Thule
+|   |       |       |   |   Thunder_Bay
+|   |       |       |   |   Tijuana
+|   |       |       |   |   Tortola
+|   |       |       |   |   Vancouver
+|   |       |       |   |   Whitehorse
+|   |       |       |   |   Winnipeg
+|   |       |       |   |   Yakutat
+|   |       |       |   |   Yellowknife
+|   |       |       |   |   
+|   |       |       |   +---Indiana
+|   |       |       |   |       Knox
+|   |       |       |   |       Marengo
+|   |       |       |   |       Vevay
+|   |       |       |   |       
+|   |       |       |   +---Kentucky
+|   |       |       |   |       Monticello
+|   |       |       |   |       
+|   |       |       |   \---North_Dakota
+|   |       |       |           Center
+|   |       |       |           
+|   |       |       +---Antarctica
+|   |       |       |       Casey
+|   |       |       |       Davis
+|   |       |       |       DumontDUrville
+|   |       |       |       Mawson
+|   |       |       |       McMurdo
+|   |       |       |       Palmer
+|   |       |       |       Rothera
+|   |       |       |       Syowa
+|   |       |       |       Vostok
+|   |       |       |       
+|   |       |       +---Asia
+|   |       |       |       Aden
+|   |       |       |       Almaty
+|   |       |       |       Amman
+|   |       |       |       Anadyr
+|   |       |       |       Aqtau
+|   |       |       |       Aqtobe
+|   |       |       |       Ashgabat
+|   |       |       |       Baghdad
+|   |       |       |       Bahrain
+|   |       |       |       Baku
+|   |       |       |       Bangkok
+|   |       |       |       Beirut
+|   |       |       |       Bishkek
+|   |       |       |       Brunei
+|   |       |       |       Calcutta
+|   |       |       |       Choibalsan
+|   |       |       |       Chongqing
+|   |       |       |       Colombo
+|   |       |       |       Damascus
+|   |       |       |       Dhaka
+|   |       |       |       Dili
+|   |       |       |       Dubai
+|   |       |       |       Dushanbe
+|   |       |       |       Gaza
+|   |       |       |       Harbin
+|   |       |       |       Hong_Kong
+|   |       |       |       Hovd
+|   |       |       |       Irkutsk
+|   |       |       |       Jakarta
+|   |       |       |       Jayapura
+|   |       |       |       Jerusalem
+|   |       |       |       Kabul
+|   |       |       |       Kamchatka
+|   |       |       |       Karachi
+|   |       |       |       Kashgar
+|   |       |       |       Katmandu
+|   |       |       |       Krasnoyarsk
+|   |       |       |       Kuala_Lumpur
+|   |       |       |       Kuching
+|   |       |       |       Kuwait
+|   |       |       |       Macau
+|   |       |       |       Magadan
+|   |       |       |       Makassar
+|   |       |       |       Manila
+|   |       |       |       Muscat
+|   |       |       |       Nicosia
+|   |       |       |       Novosibirsk
+|   |       |       |       Omsk
+|   |       |       |       Oral
+|   |       |       |       Phnom_Penh
+|   |       |       |       Pontianak
+|   |       |       |       Pyongyang
+|   |       |       |       Qatar
+|   |       |       |       Qyzylorda
+|   |       |       |       Rangoon
+|   |       |       |       Riyadh
+|   |       |       |       Riyadh87
+|   |       |       |       Riyadh88
+|   |       |       |       Riyadh89
+|   |       |       |       Saigon
+|   |       |       |       Sakhalin
+|   |       |       |       Samarkand
+|   |       |       |       Seoul
+|   |       |       |       Shanghai
+|   |       |       |       Singapore
+|   |       |       |       Taipei
+|   |       |       |       Tashkent
+|   |       |       |       Tbilisi
+|   |       |       |       Tehran
+|   |       |       |       Thimphu
+|   |       |       |       Tokyo
+|   |       |       |       Ulaanbaatar
+|   |       |       |       Urumqi
+|   |       |       |       Vientiane
+|   |       |       |       Vladivostok
+|   |       |       |       Yakutsk
+|   |       |       |       Yekaterinburg
+|   |       |       |       Yerevan
+|   |       |       |       
+|   |       |       +---Atlantic
+|   |       |       |       Azores
+|   |       |       |       Bermuda
+|   |       |       |       Canary
+|   |       |       |       Cape_Verde
+|   |       |       |       Faeroe
+|   |       |       |       Madeira
+|   |       |       |       Reykjavik
+|   |       |       |       South_Georgia
+|   |       |       |       St_Helena
+|   |       |       |       Stanley
+|   |       |       |       
+|   |       |       +---Australia
+|   |       |       |       Adelaide
+|   |       |       |       Brisbane
+|   |       |       |       Broken_Hill
+|   |       |       |       Darwin
+|   |       |       |       Hobart
+|   |       |       |       Lindeman
+|   |       |       |       Lord_Howe
+|   |       |       |       Melbourne
+|   |       |       |       Perth
+|   |       |       |       Sydney
+|   |       |       |       
+|   |       |       +---Etc
+|   |       |       |       GMT
+|   |       |       |       GMT+1
+|   |       |       |       GMT+10
+|   |       |       |       GMT+11
+|   |       |       |       GMT+12
+|   |       |       |       GMT+2
+|   |       |       |       GMT+3
+|   |       |       |       GMT+4
+|   |       |       |       GMT+5
+|   |       |       |       GMT+6
+|   |       |       |       GMT+7
+|   |       |       |       GMT+8
+|   |       |       |       GMT+9
+|   |       |       |       GMT-1
+|   |       |       |       GMT-10
+|   |       |       |       GMT-11
+|   |       |       |       GMT-12
+|   |       |       |       GMT-13
+|   |       |       |       GMT-14
+|   |       |       |       GMT-2
+|   |       |       |       GMT-3
+|   |       |       |       GMT-4
+|   |       |       |       GMT-5
+|   |       |       |       GMT-6
+|   |       |       |       GMT-7
+|   |       |       |       GMT-8
+|   |       |       |       GMT-9
+|   |       |       |       UCT
+|   |       |       |       UTC
+|   |       |       |       
+|   |       |       +---Europe
+|   |       |       |       Amsterdam
+|   |       |       |       Andorra
+|   |       |       |       Athens
+|   |       |       |       Belfast
+|   |       |       |       Belgrade
+|   |       |       |       Berlin
+|   |       |       |       Brussels
+|   |       |       |       Bucharest
+|   |       |       |       Budapest
+|   |       |       |       Chisinau
+|   |       |       |       Copenhagen
+|   |       |       |       Dublin
+|   |       |       |       Gibraltar
+|   |       |       |       Helsinki
+|   |       |       |       Istanbul
+|   |       |       |       Kaliningrad
+|   |       |       |       Kiev
+|   |       |       |       Lisbon
+|   |       |       |       London
+|   |       |       |       Luxembourg
+|   |       |       |       Madrid
+|   |       |       |       Malta
+|   |       |       |       Minsk
+|   |       |       |       Monaco
+|   |       |       |       Moscow
+|   |       |       |       Oslo
+|   |       |       |       Paris
+|   |       |       |       Prague
+|   |       |       |       Riga
+|   |       |       |       Rome
+|   |       |       |       Samara
+|   |       |       |       Simferopol
+|   |       |       |       Sofia
+|   |       |       |       Stockholm
+|   |       |       |       Tallinn
+|   |       |       |       Tirane
+|   |       |       |       Uzhgorod
+|   |       |       |       Vaduz
+|   |       |       |       Vienna
+|   |       |       |       Vilnius
+|   |       |       |       Warsaw
+|   |       |       |       Zaporozhye
+|   |       |       |       Zurich
+|   |       |       |       
+|   |       |       +---Indian
+|   |       |       |       Antananarivo
+|   |       |       |       Chagos
+|   |       |       |       Christmas
+|   |       |       |       Cocos
+|   |       |       |       Comoro
+|   |       |       |       Kerguelen
+|   |       |       |       Mahe
+|   |       |       |       Maldives
+|   |       |       |       Mauritius
+|   |       |       |       Mayotte
+|   |       |       |       Reunion
+|   |       |       |       
+|   |       |       \---Pacific
+|   |       |               Apia
+|   |       |               Auckland
+|   |       |               Chatham
+|   |       |               Easter
+|   |       |               Efate
+|   |       |               Enderbury
+|   |       |               Fakaofo
+|   |       |               Fiji
+|   |       |               Funafuti
+|   |       |               Galapagos
+|   |       |               Gambier
+|   |       |               Guadalcanal
+|   |       |               Guam
+|   |       |               Honolulu
+|   |       |               Johnston
+|   |       |               Kiritimati
+|   |       |               Kosrae
+|   |       |               Kwajalein
+|   |       |               Majuro
+|   |       |               Marquesas
+|   |       |               Midway
+|   |       |               Nauru
+|   |       |               Niue
+|   |       |               Norfolk
+|   |       |               Noumea
+|   |       |               Pago_Pago
+|   |       |               Palau
+|   |       |               Pitcairn
+|   |       |               Ponape
+|   |       |               Port_Moresby
+|   |       |               Rarotonga
+|   |       |               Saipan
+|   |       |               Tahiti
+|   |       |               Tarawa
+|   |       |               Tongatapu
+|   |       |               Truk
+|   |       |               Wake
+|   |       |               Wallis
+|   |       |               Yap
+|   |       |               
+|   |       \---plugin
+|   |           +---desktop
+|   |           |       sun_java.desktop
+|   |           |       sun_java.png
+|   |           |       
+|   |           \---i386
+|   |               +---ns4
+|   |               |       libjavaplugin.so
+|   |               |       
+|   |               \---ns610
+|   |                       libjavaplugin_oji.so
+|   |                       
+|   +---com
+|   |   \---sun
+|   |       +---launcher
+|   |       |       LauncherResources.class
+|   |       |       LauncherResources_de.class
+|   |       |       LauncherResources_es.class
+|   |       |       LauncherResources_fr.class
+|   |       |       LauncherResources_it.class
+|   |       |       LauncherResources_ja.class
+|   |       |       LauncherResources_ko.class
+|   |       |       LauncherResources_sv.class
+|   |       |       LauncherResources_zh.class
+|   |       |       LauncherResources_zh_HK.class
+|   |       |       LauncherResources_zh_TW.class
+|   |       |       
+|   |       \---liveupgrade
+|   |               LiveUpgradeResources_de.class
+|   |               LiveUpgradeResources_es.class
+|   |               LiveUpgradeResources_fr.class
+|   |               LiveUpgradeResources_it.class
+|   |               LiveUpgradeResources_ja.class
+|   |               LiveUpgradeResources_ko.class
+|   |               LiveUpgradeResources_sv.class
+|   |               LiveUpgradeResources_zh.class
+|   |               LiveUpgradeResources_zh_HK.class
+|   |               LiveUpgradeResources_zh_TW.class
+|   |               
+|   \---locale
+|       \---i386
+|           |   ja_JP.eucJP
+|           |   ko_KR.EUC
+|           |   ko_KR.UTF-8
+|           |   zh_CN.EUC
+|           |   zh_CN.GB18030
+|           |   zh_CN.GBK
+|           |   zh_CN.UTF-8
+|           |   zh_HK.BIG5HK
+|           |   zh_HK.UTF-8
+|           |   zh_TW.EUC
+|           |   
+|           +---de
+|           |       installer.cat
+|           |       
+|           +---de.UTF-8
+|           |       installer.cat
+|           |       
+|           +---es
+|           |       installer.cat
+|           |       
+|           +---es.UTF-8
+|           |       installer.cat
+|           |       
+|           +---fr
+|           |       installer.cat
+|           |       
+|           +---fr.UTF-8
+|           |       installer.cat
+|           |       
+|           +---it
+|           |       installer.cat
+|           |       
+|           +---it.UTF-8
+|           |       installer.cat
+|           |       
+|           +---ja
+|           |       installer.cat
+|           |       
+|           +---ja_JP.PCK
+|           |       installer.cat
+|           |       
+|           +---ja_JP.UTF-8
+|           |       installer.cat
+|           |       
+|           +---ko
+|           |       installer.cat
+|           |       
+|           +---ko.UTF-8
+|           |       installer.cat
+|           |       
+|           +---sv
+|           |       installer.cat
+|           |       
+|           +---sv.UTF-8
+|           |       installer.cat
+|           |       
+|           +---zh
+|           |       installer.cat
+|           |       
+|           +---zh.GBK
+|           |       installer.cat
+|           |       
+|           +---zh.UTF-8
+|           |       installer.cat
+|           |       
+|           +---zh_TW
+|           |       installer.cat
+|           |       
+|           +---zh_TW.BIG5
+|           |       installer.cat
+|           |       
+|           \---zh_TW.UTF-8
+|                   installer.cat
+|                   
+\---Solaris_10
+    +---Product
+    |   +---SUNWsoagm
+    |   |   |   pkginfo
+    |   |   |   pkgmap
+    |   |   |   
+    |   |   +---archive
+    |   |   |       none.bz2
+    |   |   |       
+    |   |   +---install
+    |   |   |       copyright
+    |   |   |       depend
+    |   |   |       i.none
+    |   |   |       
+    |   |   \---reloc
+    |   |       +---bin
+    |   |       \---share
+    |   |           +---application-registry
+    |   |           +---applications
+    |   |           \---mime-info
+    |   +---SUNWsoam
+    |   |   |   pkginfo
+    |   |   |   pkgmap
+    |   |   |   
+    |   |   +---archive
+    |   |   |       none.bz2
+    |   |   |       
+    |   |   +---install
+    |   |   |       copyright
+    |   |   |       depend
+    |   |   |       i.none
+    |   |   |       postinstall
+    |   |   |       
+    |   |   \---reloc
+    |   |       \---starsuite7
+    |   |           +---help
+    |   |           |   +---ja
+    |   |           |   |   +---sbasic.idx
+    |   |           |   |   +---scalc.idx
+    |   |           |   |   +---sdraw.idx
+    |   |           |   |   +---simpress.idx
+    |   |           |   |   +---smath.idx
+    |   |           |   |   \---swriter.idx
+    |   |           |   +---ko
+    |   |           |   |   +---sbasic.idx
+    |   |           |   |   +---scalc.idx
+    |   |           |   |   +---sdraw.idx
+    |   |           |   |   +---simpress.idx
+    |   |           |   |   +---smath.idx
+    |   |           |   |   \---swriter.idx
+    |   |           |   +---zh-CN
+    |   |           |   |   +---sbasic.idx
+    |   |           |   |   +---scalc.idx
+    |   |           |   |   +---sdraw.idx
+    |   |           |   |   +---simpress.idx
+    |   |           |   |   +---smath.idx
+    |   |           |   |   \---swriter.idx
+    |   |           |   \---zh-TW
+    |   |           |       +---sbasic.idx
+    |   |           |       +---scalc.idx
+    |   |           |       +---sdraw.idx
+    |   |           |       +---simpress.idx
+    |   |           |       +---smath.idx
+    |   |           |       \---swriter.idx
+    |   |           +---program
+    |   |           |   +---classes
+    |   |           |   +---components
+    |   |           |   +---defaults
+    |   |           |   |   \---pref
+    |   |           |   +---filter
+    |   |           |   +---res
+    |   |           |   \---resource
+    |   |           +---share
+    |   |           |   +---autocorr
+    |   |           |   +---autotext
+    |   |           |   |   +---chinese_simplified
+    |   |           |   |   +---chinese_traditional
+    |   |           |   |   +---japanese
+    |   |           |   |   \---korean
+    |   |           |   +---basic
+    |   |           |   |   +---Depot
+    |   |           |   |   +---Euro
+    |   |           |   |   +---FormWizard
+    |   |           |   |   +---Gimmicks
+    |   |           |   |   +---ImportWizard
+    |   |           |   |   +---Launcher
+    |   |           |   |   +---Schedule
+    |   |           |   |   +---Template
+    |   |           |   |   +---Tools
+    |   |           |   |   \---WebWizard
+    |   |           |   +---cde
+    |   |           |   |   +---icons
+    |   |           |   |   \---types
+    |   |           |   |       +---ar
+    |   |           |   |       +---ca
+    |   |           |   |       +---da
+    |   |           |   |       +---da.UTF-8
+    |   |           |   |       +---de
+    |   |           |   |       +---de.UTF-8
+    |   |           |   |       +---en
+    |   |           |   |       +---en.UTF-8
+    |   |           |   |       +---es
+    |   |           |   |       +---es.UTF-8
+    |   |           |   |       +---fi
+    |   |           |   |       +---fi.UTF-8
+    |   |           |   |       +---fr
+    |   |           |   |       +---fr.UTF-8
+    |   |           |   |       +---gr
+    |   |           |   |       +---it
+    |   |           |   |       +---it.UTF-8
+    |   |           |   |       +---ja
+    |   |           |   |       +---ja_JP.EUCJP
+    |   |           |   |       +---ja_JP.PCK
+    |   |           |   |       +---ja_JP.UTF-8
+    |   |           |   |       +---ko
+    |   |           |   |       +---ko.UTF-8
+    |   |           |   |       +---ko_KR.EUC
+    |   |           |   |       +---nl
+    |   |           |   |       +---nl.UTF-8
+    |   |           |   |       +---pl
+    |   |           |   |       +---pl.UTF-8
+    |   |           |   |       +---pt
+    |   |           |   |       +---pt.UTF-8
+    |   |           |   |       +---pt_BR
+    |   |           |   |       +---pt_BR.ISO8859-1
+    |   |           |   |       +---pt_BR.UTF-8
+    |   |           |   |       +---ru
+    |   |           |   |       +---ru.ANSI-1251
+    |   |           |   |       +---ru.ISO8859-5
+    |   |           |   |       +---ru.KOI8-R
+    |   |           |   |       +---ru.UTF-8
+    |   |           |   |       +---sv
+    |   |           |   |       +---sv.UTF-8
+    |   |           |   |       +---tr
+    |   |           |   |       +---tr.UTF-8
+    |   |           |   |       +---zh_CN.EUC
+    |   |           |   |       +---zh_CN.GB18030
+    |   |           |   |       +---zh_CN.GBK
+    |   |           |   |       +---zh_CN.UTF-8
+    |   |           |   |       +---zh_HK.BIG5HK
+    |   |           |   |       +---zh_TW.BIG5
+    |   |           |   |       +---zh_TW.EUC
+    |   |           |   |       \---zh_TW.UTF-8
+    |   |           |   +---config
+    |   |           |   |   +---symbol
+    |   |           |   |   \---webcast
+    |   |           |   +---dict
+    |   |           |   +---dtd
+    |   |           |   |   +---math
+    |   |           |   |   |   \---1_01
+    |   |           |   |   \---officedocument
+    |   |           |   |       \---1_0
+    |   |           |   +---fonts
+    |   |           |   |   \---truetype
+    |   |           |   |           fonts.dir
+    |   |           |   |           
+    |   |           |   +---gallery
+    |   |           |   |   +---arrows
+    |   |           |   |   +---balloons
+    |   |           |   |   +---bullets
+    |   |           |   |   +---calendar
+    |   |           |   |   +---clima
+    |   |           |   |   +---communic
+    |   |           |   |   +---computer
+    |   |           |   |   +---education
+    |   |           |   |   +---emoticons
+    |   |           |   |   +---finances
+    |   |           |   |   +---flags
+    |   |           |   |   +---htmlexpo
+    |   |           |   |   +---keyboard
+    |   |           |   |   +---navi-2d
+    |   |           |   |   +---officeart
+    |   |           |   |   +---people
+    |   |           |   |   +---photos
+    |   |           |   |   +---rulers
+    |   |           |   |   +---screenbeans
+    |   |           |   |   +---sounds
+    |   |           |   |   +---surface
+    |   |           |   |   +---symbols
+    |   |           |   |   +---time
+    |   |           |   |   +---troubleshooting
+    |   |           |   |   +---www-anim
+    |   |           |   |   +---www-back
+    |   |           |   |   \---www-graf
+    |   |           |   +---migration
+    |   |           |   +---psprint
+    |   |           |   |   +---driver
+    |   |           |   |   \---fontmetric
+    |   |           |   +---readme
+    |   |           |   +---registry
+    |   |           |   |   +---data
+    |   |           |   |   |   \---org
+    |   |           |   |   |       \---openoffice
+    |   |           |   |   |           +---Office
+    |   |           |   |   |           \---ucb
+    |   |           |   |   +---res
+    |   |           |   |   |   +---ja
+    |   |           |   |   |   |   \---org
+    |   |           |   |   |   |       \---openoffice
+    |   |           |   |   |   |           +---Office
+    |   |           |   |   |   |           \---ucb
+    |   |           |   |   |   +---ko
+    |   |           |   |   |   |   \---org
+    |   |           |   |   |   |       \---openoffice
+    |   |           |   |   |   |           +---Office
+    |   |           |   |   |   |           \---ucb
+    |   |           |   |   |   +---zh-CN
+    |   |           |   |   |   |   \---org
+    |   |           |   |   |   |       \---openoffice
+    |   |           |   |   |   |           +---Office
+    |   |           |   |   |   |           \---ucb
+    |   |           |   |   |   \---zh-TW
+    |   |           |   |   |       \---org
+    |   |           |   |   |           \---openoffice
+    |   |           |   |   |               +---Office
+    |   |           |   |   |               \---ucb
+    |   |           |   |   \---schema
+    |   |           |   |       \---org
+    |   |           |   |           \---openoffice
+    |   |           |   |               +---Office
+    |   |           |   |               \---ucb
+    |   |           |   +---samples
+    |   |           |   |   +---chinese_simplified
+    |   |           |   |   |   +---drawings
+    |   |           |   |   |   +---formulas
+    |   |           |   |   |   +---presentations
+    |   |           |   |   |   +---spreadsheets
+    |   |           |   |   |   \---texts
+    |   |           |   |   |       \---Homepage
+    |   |           |   |   +---chinese_traditional
+    |   |           |   |   |   +---drawings
+    |   |           |   |   |   +---formulas
+    |   |           |   |   |   +---presentations
+    |   |           |   |   |   +---spreadsheets
+    |   |           |   |   |   \---texts
+    |   |           |   |   |       \---Homepage
+    |   |           |   |   +---japanese
+    |   |           |   |   |   +---drawings
+    |   |           |   |   |   +---formulas
+    |   |           |   |   |   +---presentations
+    |   |           |   |   |   +---spreadsheets
+    |   |           |   |   |   \---texts
+    |   |           |   |   |       \---Homepage
+    |   |           |   |   \---korean
+    |   |           |   |       +---drawings
+    |   |           |   |       +---formulas
+    |   |           |   |       +---presentations
+    |   |           |   |       +---spreadsheets
+    |   |           |   |       \---texts
+    |   |           |   |           \---Homepage
+    |   |           |   +---template
+    |   |           |   |   +---chinese_simplified
+    |   |           |   |   |   +---educate
+    |   |           |   |   |   +---finance
+    |   |           |   |   |   +---forms
+    |   |           |   |   |   +---internal
+    |   |           |   |   |   +---layout
+    |   |           |   |   |   +---misc
+    |   |           |   |   |   +---officorr
+    |   |           |   |   |   +---offimisc
+    |   |           |   |   |   +---personal
+    |   |           |   |   |   +---presnt
+    |   |           |   |   |   \---wizard
+    |   |           |   |   |       +---bitmap
+    |   |           |   |   |       +---report
+    |   |           |   |   |       +---styles
+    |   |           |   |   |       \---web
+    |   |           |   |   +---chinese_traditional
+    |   |           |   |   |   +---educate
+    |   |           |   |   |   +---finance
+    |   |           |   |   |   +---forms
+    |   |           |   |   |   +---internal
+    |   |           |   |   |   +---layout
+    |   |           |   |   |   +---misc
+    |   |           |   |   |   +---officorr
+    |   |           |   |   |   +---offimisc
+    |   |           |   |   |   +---personal
+    |   |           |   |   |   +---presnt
+    |   |           |   |   |   \---wizard
+    |   |           |   |   |       +---bitmap
+    |   |           |   |   |       +---report
+    |   |           |   |   |       +---styles
+    |   |           |   |   |       \---web
+    |   |           |   |   +---japanese
+    |   |           |   |   |   +---educate
+    |   |           |   |   |   +---finance
+    |   |           |   |   |   +---forms
+    |   |           |   |   |   +---internal
+    |   |           |   |   |   +---layout
+    |   |           |   |   |   +---misc
+    |   |           |   |   |   +---officorr
+    |   |           |   |   |   +---offimisc
+    |   |           |   |   |   +---personal
+    |   |           |   |   |   +---presnt
+    |   |           |   |   |   \---wizard
+    |   |           |   |   |       +---bitmap
+    |   |           |   |   |       +---report
+    |   |           |   |   |       +---styles
+    |   |           |   |   |       \---web
+    |   |           |   |   \---korean
+    |   |           |   |       +---educate
+    |   |           |   |       +---finance
+    |   |           |   |       +---forms
+    |   |           |   |       +---internal
+    |   |           |   |       +---layout
+    |   |           |   |       +---misc
+    |   |           |   |       +---officorr
+    |   |           |   |       +---offimisc
+    |   |           |   |       +---personal
+    |   |           |   |       +---presnt
+    |   |           |   |       \---wizard
+    |   |           |   |           +---bitmap
+    |   |           |   |           +---report
+    |   |           |   |           +---styles
+    |   |           |   |           \---web
+    |   |           |   +---uno_packages
+    |   |           |   |   \---cache
+    |   |           |   |       +---registry
+    |   |           |   |       |   \---data
+    |   |           |   |       |       \---org
+    |   |           |   |       |           \---openoffice
+    |   |           |   |       |               \---Office
+    |   |           |   |       \---uno_packages
+    |   |           |   |           \---jds_integration.zip.1102433724
+    |   |           |   \---wordbook
+    |   |           |       +---chinese_simplified
+    |   |           |       +---chinese_traditional
+    |   |           |       +---japanese
+    |   |           |       \---korean
+    |   |           \---user
+    |   |               +---autotext
+    |   |               |   +---chinese_simplified
+    |   |               |   +---chinese_traditional
+    |   |               |   +---japanese
+    |   |               |   \---korean
+    |   |               +---basic
+    |   |               |   \---Standard
+    |   |               +---config
+    |   |               +---database
+    |   |               |   \---biblio
+    |   |               \---gallery
+    |   +---SUNWsogm
+    |   |   |   pkginfo
+    |   |   |   pkgmap
+    |   |   |   
+    |   |   +---archive
+    |   |   |       none.bz2
+    |   |   |       
+    |   |   +---install
+    |   |   |       copyright
+    |   |   |       depend
+    |   |   |       i.none
+    |   |   |       
+    |   |   \---reloc
+    |   |       +---bin
+    |   |       \---share
+    |   |           +---application-registry
+    |   |           +---applications
+    |   |           \---mime-info
+    |   \---SUNWsom
+    |       |   pkginfo
+    |       |   pkgmap
+    |       |   
+    |       +---archive
+    |       |       none.bz2
+    |       |       
+    |       +---install
+    |       |       copyright
+    |       |       depend
+    |       |       i.none
+    |       |       postinstall
+    |       |       
+    |       \---reloc
+    |           \---staroffice7
+    |               +---help
+    |               |   +---de
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   +---en
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   +---es
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   +---fr
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   +---it
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   +---pt-BR
+    |               |   |   +---sbasic.idx
+    |               |   |   +---scalc.idx
+    |               |   |   +---sdraw.idx
+    |               |   |   +---simpress.idx
+    |               |   |   +---smath.idx
+    |               |   |   \---swriter.idx
+    |               |   \---sv
+    |               |       +---sbasic.idx
+    |               |       +---scalc.idx
+    |               |       +---sdraw.idx
+    |               |       +---simpress.idx
+    |               |       +---smath.idx
+    |               |       \---swriter.idx
+    |               +---program
+    |               |   +---classes
+    |               |   +---components
+    |               |   +---defaults
+    |               |   |   \---pref
+    |               |   +---filter
+    |               |   +---res
+    |               |   \---resource
+    |               +---share
+    |               |   +---autocorr
+    |               |   +---autotext
+    |               |   |   +---english
+    |               |   |   +---french
+    |               |   |   +---german
+    |               |   |   +---italian
+    |               |   |   +---portuguese_brazilian
+    |               |   |   +---spanish
+    |               |   |   \---swedish
+    |               |   +---basic
+    |               |   |   +---Depot
+    |               |   |   +---Euro
+    |               |   |   +---FormWizard
+    |               |   |   +---Gimmicks
+    |               |   |   +---ImportWizard
+    |               |   |   +---Launcher
+    |               |   |   +---Schedule
+    |               |   |   +---Template
+    |               |   |   +---Tools
+    |               |   |   \---WebWizard
+    |               |   +---cde
+    |               |   |   +---icons
+    |               |   |   \---types
+    |               |   |       +---ar
+    |               |   |       +---ca
+    |               |   |       +---da
+    |               |   |       +---da.UTF-8
+    |               |   |       +---de
+    |               |   |       +---de.UTF-8
+    |               |   |       +---en
+    |               |   |       +---en.UTF-8
+    |               |   |       +---es
+    |               |   |       +---es.UTF-8
+    |               |   |       +---fi
+    |               |   |       +---fi.UTF-8
+    |               |   |       +---fr
+    |               |   |       +---fr.UTF-8
+    |               |   |       +---gr
+    |               |   |       +---it
+    |               |   |       +---it.UTF-8
+    |               |   |       +---ja
+    |               |   |       +---ja_JP.EUCJP
+    |               |   |       +---ja_JP.PCK
+    |               |   |       +---ja_JP.UTF-8
+    |               |   |       +---ko
+    |               |   |       +---ko.UTF-8
+    |               |   |       +---ko_KR.EUC
+    |               |   |       +---nl
+    |               |   |       +---nl.UTF-8
+    |               |   |       +---pl
+    |               |   |       +---pl.UTF-8
+    |               |   |       +---pt
+    |               |   |       +---pt.UTF-8
+    |               |   |       +---pt_BR
+    |               |   |       +---pt_BR.ISO8859-1
+    |               |   |       +---pt_BR.UTF-8
+    |               |   |       +---ru
+    |               |   |       +---ru.ANSI-1251
+    |               |   |       +---ru.ISO8859-5
+    |               |   |       +---ru.KOI8-R
+    |               |   |       +---ru.UTF-8
+    |               |   |       +---sv
+    |               |   |       +---sv.UTF-8
+    |               |   |       +---tr
+    |               |   |       +---tr.UTF-8
+    |               |   |       +---zh_CN.EUC
+    |               |   |       +---zh_CN.GB18030
+    |               |   |       +---zh_CN.GBK
+    |               |   |       +---zh_CN.UTF-8
+    |               |   |       +---zh_HK.BIG5HK
+    |               |   |       +---zh_TW.BIG5
+    |               |   |       +---zh_TW.EUC
+    |               |   |       \---zh_TW.UTF-8
+    |               |   +---config
+    |               |   |   +---symbol
+    |               |   |   \---webcast
+    |               |   +---dict
+    |               |   +---dtd
+    |               |   |   +---math
+    |               |   |   |   \---1_01
+    |               |   |   \---officedocument
+    |               |   |       \---1_0
+    |               |   +---fonts
+    |               |   |   \---truetype
+    |               |   |           fonts.dir
+    |               |   |           
+    |               |   +---gallery
+    |               |   |   +---arrows
+    |               |   |   +---balloons
+    |               |   |   +---bullets
+    |               |   |   +---calendar
+    |               |   |   +---clima
+    |               |   |   +---communic
+    |               |   |   +---computer
+    |               |   |   +---education
+    |               |   |   +---emoticons
+    |               |   |   +---finances
+    |               |   |   +---flags
+    |               |   |   +---htmlexpo
+    |               |   |   +---keyboard
+    |               |   |   +---navi-2d
+    |               |   |   +---officeart
+    |               |   |   +---people
+    |               |   |   +---photos
+    |               |   |   +---rulers
+    |               |   |   +---screenbeans
+    |               |   |   +---sounds
+    |               |   |   +---surface
+    |               |   |   +---symbols
+    |               |   |   +---time
+    |               |   |   +---troubleshooting
+    |               |   |   +---www-anim
+    |               |   |   +---www-back
+    |               |   |   \---www-graf
+    |               |   +---migration
+    |               |   +---psprint
+    |               |   |   +---driver
+    |               |   |   \---fontmetric
+    |               |   +---readme
+    |               |   +---registry
+    |               |   |   +---data
+    |               |   |   |   \---org
+    |               |   |   |       \---openoffice
+    |               |   |   |           +---Office
+    |               |   |   |           \---ucb
+    |               |   |   +---res
+    |               |   |   |   +---de
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   +---en-US
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   +---es
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   +---fr
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   +---it
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   +---pt-BR
+    |               |   |   |   |   \---org
+    |               |   |   |   |       \---openoffice
+    |               |   |   |   |           +---Office
+    |               |   |   |   |           \---ucb
+    |               |   |   |   \---sv
+    |               |   |   |       \---org
+    |               |   |   |           \---openoffice
+    |               |   |   |               +---Office
+    |               |   |   |               \---ucb
+    |               |   |   \---schema
+    |               |   |       \---org
+    |               |   |           \---openoffice
+    |               |   |               +---Office
+    |               |   |               \---ucb
+    |               |   +---samples
+    |               |   |   +---english
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       +---Chapters
+    |               |   |   |       \---Homepage
+    |               |   |   +---french
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       +---Chapitres
+    |               |   |   |       \---Homepage
+    |               |   |   +---german
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       +---Homepage
+    |               |   |   |       \---Kapitel
+    |               |   |   +---italian
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       +---Capitoli
+    |               |   |   |       \---Homepage
+    |               |   |   +---portuguese_brazilian
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       \---Homepage
+    |               |   |   +---spanish
+    |               |   |   |   +---drawings
+    |               |   |   |   +---formulas
+    |               |   |   |   +---presentations
+    |               |   |   |   +---spreadsheets
+    |               |   |   |   \---texts
+    |               |   |   |       +---Capitulo
+    |               |   |   |       \---Homepage
+    |               |   |   \---swedish
+    |               |   |       +---drawings
+    |               |   |       +---formulas
+    |               |   |       +---presentations
+    |               |   |       +---spreadsheets
+    |               |   |       \---texts
+    |               |   |           +---Homepage
+    |               |   |           \---Kapitel
+    |               |   +---template
+    |               |   |   +---english
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   +---french
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   +---german
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   +---italian
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   +---portuguese_brazilian
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   +---spanish
+    |               |   |   |   +---educate
+    |               |   |   |   +---finance
+    |               |   |   |   +---forms
+    |               |   |   |   +---internal
+    |               |   |   |   +---layout
+    |               |   |   |   +---misc
+    |               |   |   |   +---officorr
+    |               |   |   |   +---offimisc
+    |               |   |   |   +---personal
+    |               |   |   |   +---presnt
+    |               |   |   |   \---wizard
+    |               |   |   |       +---bitmap
+    |               |   |   |       +---report
+    |               |   |   |       +---styles
+    |               |   |   |       \---web
+    |               |   |   \---swedish
+    |               |   |       +---educate
+    |               |   |       +---finance
+    |               |   |       +---forms
+    |               |   |       +---internal
+    |               |   |       +---layout
+    |               |   |       +---misc
+    |               |   |       +---officorr
+    |               |   |       +---offimisc
+    |               |   |       +---personal
+    |               |   |       +---presnt
+    |               |   |       \---wizard
+    |               |   |           +---bitmap
+    |               |   |           +---report
+    |               |   |           +---styles
+    |               |   |           \---web
+    |               |   +---uno_packages
+    |               |   |   \---cache
+    |               |   |       +---registry
+    |               |   |       |   \---data
+    |               |   |       |       \---org
+    |               |   |       |           \---openoffice
+    |               |   |       |               \---Office
+    |               |   |       \---uno_packages
+    |               |   |           \---jds_integration.zip.1102433459
+    |               |   +---wordbook
+    |               |   |   +---english
+    |               |   |   +---french
+    |               |   |   +---german
+    |               |   |   +---italian
+    |               |   |   +---portuguese_brazilian
+    |               |   |   +---spanish
+    |               |   |   \---swedish
+    |               |   \---xslt
+    |               |       +---MicrosoftExcel2003
+    |               |       +---MicrosoftWord2003
+    |               |       +---docbook
+    |               |       \---xhtml
+    |               \---user
+    |                   +---autotext
+    |                   |   +---english
+    |                   |   +---french
+    |                   |   +---german
+    |                   |   +---italian
+    |                   |   +---portuguese_brazilian
+    |                   |   +---spanish
+    |                   |   \---swedish
+    |                   +---basic
+    |                   |   \---Standard
+    |                   +---config
+    |                   +---database
+    |                   |   \---biblio
+    |                   \---gallery
+    \---Tools
+        |   add_to_install_server
+        |   d1_image
+        |   
+        \---Installers
+            |   liveupgrade20
+            |   solarisn
+            |   
+            \---.install
+                |   JRE
+                |   install_common
+                |   liveupgrade20.class
+                |   solarisn.class
+                |   
+                \---com
+                    \---sun
+                            launcher
+                            liveupgrade
+                            

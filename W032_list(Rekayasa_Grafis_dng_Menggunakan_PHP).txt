@@ -1,0 +1,255 @@
+ Volume in drive G is Rekayasa Grafis
+ Volume Serial Number is FBBE-46DF
+
+ Directory of G:\
+
+01/25/2006  10:21 AM         1,437,696 CDROM.exe
+11/19/2005  07:09 PM           161,862 CDROM.ico
+05/31/1998  02:00 PM            22,288 COMCAT.DLL
+07/14/2000  11:00 PM           101,888 VB6STKIT.DLL
+08/04/2004  12:56 AM            65,024 asycfilt.dll
+01/17/2006  10:06 AM                41 autorun.inf
+01/25/2006  08:22 AM    <DIR>          buku
+08/04/2004  12:56 AM         1,392,671 msvbvm60.dll
+08/04/2004  12:56 AM           553,472 oleaut32.dll
+08/04/2004  12:56 AM            83,456 olepro32.dll
+01/25/2006  08:22 AM    <DIR>          penulis
+01/25/2006  08:22 AM    <DIR>          sinopsis
+01/25/2006  08:22 AM    <DIR>          software
+01/25/2006  08:23 AM    <DIR>          sourcecode
+               9 File(s)      3,818,398 bytes
+
+ Directory of G:\buku
+
+01/25/2006  08:22 AM    <DIR>          .
+01/01/1970  07:00 AM    <DIR>          ..
+01/25/2006  08:22 AM    <DIR>          images
+01/25/2006  09:24 AM            12,670 index.html
+               1 File(s)         12,670 bytes
+
+ Directory of G:\buku\images
+
+01/25/2006  08:22 AM    <DIR>          .
+01/25/2006  08:22 AM    <DIR>          ..
+04/08/2005  12:53 PM            10,045 books.linuxmudah.jpg
+04/08/2005  12:53 PM             3,782 books.linuxmudah.thumb.jpg
+01/25/2006  08:45 AM            86,640 books.menucantik.jpg
+01/25/2006  08:46 AM            29,184 books.menucantik.thumb.jpg
+12/15/2004  05:39 AM            11,831 books.mysql4c.jpg
+12/15/2004  05:41 AM             8,490 books.mysql4c.thumb.jpg
+02/23/2005  06:40 AM             8,987 books.mysql5java2.jpg
+02/23/2005  06:41 AM             3,478 books.mysql5java2.thumb.jpg
+10/10/2005  11:40 AM            29,202 books.mysqlpascal.jpg
+10/10/2005  11:42 AM            10,256 books.mysqlpascal.thumb.jpg
+09/08/2004  06:23 AM                51 empty.gif
+              11 File(s)        201,946 bytes
+
+ Directory of G:\penulis
+
+01/25/2006  08:22 AM    <DIR>          .
+01/01/1970  07:00 AM    <DIR>          ..
+01/25/2006  08:22 AM    <DIR>          images
+01/25/2006  09:26 AM             2,209 index.html
+               1 File(s)          2,209 bytes
+
+ Directory of G:\penulis\images
+
+01/25/2006  08:22 AM    <DIR>          .
+01/25/2006  08:22 AM    <DIR>          ..
+06/10/2005  01:07 AM             8,547 closeup.jpg
+09/08/2004  06:23 AM                51 empty.gif
+               2 File(s)          8,598 bytes
+
+ Directory of G:\sinopsis
+
+01/25/2006  08:22 AM    <DIR>          .
+01/01/1970  07:00 AM    <DIR>          ..
+01/25/2006  08:22 AM    <DIR>          images
+01/25/2006  10:22 AM             4,622 index.html
+               1 File(s)          4,622 bytes
+
+ Directory of G:\sinopsis\images
+
+01/25/2006  08:22 AM    <DIR>          .
+01/25/2006  08:22 AM    <DIR>          ..
+09/08/2004  06:23 AM                51 empty.gif
+01/25/2006  09:54 AM           262,030 screenshot.jpg
+               2 File(s)        262,081 bytes
+
+ Directory of G:\software
+
+01/25/2006  08:22 AM    <DIR>          .
+01/01/1970  07:00 AM    <DIR>          ..
+01/25/2006  08:24 AM    <DIR>          Linux
+01/25/2006  08:24 AM    <DIR>          Windows
+               0 File(s)              0 bytes
+
+ Directory of G:\software\Linux
+
+01/25/2006  08:24 AM    <DIR>          .
+01/25/2006  08:22 AM    <DIR>          ..
+08/18/2004  10:13 AM         5,244,432 MySQL-client-5.0.0-0.i386.rpm
+08/18/2004  10:13 AM         2,470,771 MySQL-devel-5.0.0-0.i386.rpm
+08/18/2004  10:13 AM        12,448,671 MySQL-server-5.0.0-0.i386.rpm
+08/18/2004  10:13 AM         1,018,786 MySQL-shared-5.0.0-0.i386.rpm
+01/13/2006  07:09 AM           587,617 gd-2.0.33.tar.gz
+01/13/2006  07:48 AM         6,918,995 httpd-2.0.52.tar.gz
+01/13/2006  07:42 AM         6,224,116 httpd-2.2.0.tar.gz
+01/13/2006  07:04 AM           613,261 jpegsrc.v6b.tar.gz
+12/03/2004  12:00 AM           510,681 libpng-1.2.8.tar.gz
+01/13/2006  07:56 AM         5,628,958 php-5.0.2.tar.gz
+01/13/2006  07:29 AM         6,319,905 php-5.1.2.tar.bz2
+01/13/2006  07:25 AM         8,064,193 php-5.1.2.tar.gz
+01/13/2006  07:00 AM           496,597 zlib-1.2.3.tar.gz
+              13 File(s)     56,546,983 bytes
+
+ Directory of G:\software\Windows
+
+01/25/2006  08:24 AM    <DIR>          .
+01/25/2006  08:22 AM    <DIR>          ..
+08/04/2002  11:21 PM         5,379,153 apache_1.3.26-win32-x86-no_src.exe
+08/04/2002  07:17 PM         6,515,729 apache_2.0.39-win32-x86-no_ssl.exe
+08/18/2004  10:13 AM        28,033,365 mysql-5.0.0a-alpha-win.zip
+01/13/2006  03:25 PM        36,630,363 mysql-5.0.18-win32.zip
+01/13/2006  02:58 PM        17,674,240 mysql-essential-5.0.18-win32.msi
+01/13/2006  03:41 PM        38,401,269 mysql-noinstall-5.0.18-win32.zip
+01/13/2006  07:56 AM         7,719,044 php-5.0.2-Win32.zip
+01/13/2006  07:48 AM         2,311,462 php-5.0.2-installer.exe
+01/13/2006  07:27 AM         9,140,593 php-5.1.2-Win32.zip
+01/13/2006  07:16 AM         2,646,812 php-5.1.2-installer.exe
+11/08/2004  06:32 PM        33,732,243 phptriad2-2-1-with-PHP5-0-and-MySQL5-0.zip
+08/04/2002  07:57 PM        13,464,805 phptriad2-2-1.exe
+              12 File(s)    201,649,078 bytes
+
+ Directory of G:\sourcecode
+
+01/25/2006  08:23 AM    <DIR>          .
+01/01/1970  07:00 AM    <DIR>          ..
+01/20/2006  06:04 AM               138 0.gif
+01/17/2006  03:30 PM             2,230 0.jpg
+01/20/2006  06:03 AM               109 1.gif
+01/17/2006  03:31 PM             2,198 1.jpg
+01/20/2006  06:03 AM               133 2.gif
+01/17/2006  03:31 PM             2,227 2.jpg
+01/20/2006  06:02 AM               139 3.gif
+01/17/2006  03:32 PM             2,229 3.jpg
+01/20/2006  06:02 AM               130 4.gif
+01/17/2006  03:32 PM             2,212 4.jpg
+01/20/2006  06:02 AM               142 5.gif
+01/17/2006  03:32 PM             2,232 5.jpg
+01/20/2006  06:02 AM               152 6.gif
+01/17/2006  03:33 PM             2,233 6.jpg
+01/20/2006  06:01 AM               122 7.gif
+01/17/2006  03:33 PM             2,226 7.jpg
+01/20/2006  06:01 AM               143 8.gif
+01/17/2006  03:34 PM             2,214 8.jpg
+01/20/2006  06:01 AM               142 9.gif
+01/17/2006  03:35 PM             2,229 9.jpg
+08/19/1999  03:14 AM            60,488 IMPRISHA.TTF
+06/24/1999  10:53 PM            61,384 MAIAN.TTF
+01/20/2006  10:45 PM           390,543 asli-sampel4.jpg
+01/18/2006  10:29 AM             3,488 banner01.jpg
+01/18/2006  09:27 AM           185,872 banner01.psd
+01/18/2006  10:41 AM             4,201 banner02.jpg
+01/18/2006  10:40 AM           212,051 banner02.psd
+01/17/2006  06:15 AM               343 contoh2-1.php
+01/15/2006  05:56 PM               578 contoh2-10.php
+01/15/2006  06:14 PM               803 contoh2-11.php
+01/15/2006  11:38 PM               472 contoh2-12.php
+01/15/2006  11:38 PM               467 contoh2-12a.php
+01/15/2006  11:47 PM               585 contoh2-13.php
+01/15/2006  11:58 PM               853 contoh2-14.php
+01/16/2006  05:11 AM               514 contoh2-15.php
+01/16/2006  05:27 AM               547 contoh2-16.php
+01/16/2006  05:28 AM               551 contoh2-16a.php
+01/16/2006  06:14 AM               381 contoh2-17.php
+01/16/2006  07:24 AM               511 contoh2-18.php
+01/16/2006  06:43 AM               676 contoh2-19.php
+01/15/2006  07:25 AM               360 contoh2-2.php
+01/16/2006  07:46 AM               851 contoh2-20.php
+01/15/2006  07:25 AM               364 contoh2-3.php
+01/15/2006  08:36 AM               519 contoh2-4.php
+01/15/2006  03:16 PM               598 contoh2-5.php
+01/15/2006  03:29 PM               555 contoh2-6.php
+01/15/2006  03:38 PM               886 contoh2-7.php
+01/15/2006  05:35 PM               467 contoh2-8.php
+01/15/2006  05:44 PM               467 contoh2-8a.php
+01/15/2006  05:51 PM               482 contoh2-9.php
+01/17/2006  07:28 AM               430 contoh3-1.php
+01/17/2006  08:06 AM               704 contoh3-2.php
+01/17/2006  08:42 AM               935 contoh3-3.php
+01/18/2006  08:39 AM             1,072 contoh3-4.php
+01/18/2006  08:12 AM             1,679 contoh3-5.php
+01/18/2006  10:53 AM             1,309 contoh3-6.php
+01/18/2006  04:57 PM             1,715 contoh3-7.php
+01/19/2006  07:48 AM               977 contoh4-1.php
+01/19/2006  09:19 AM             1,415 contoh4-2.php
+01/19/2006  05:56 PM             2,151 contoh4-3.php
+01/19/2006  05:51 PM             2,282 contoh4-4.php
+01/19/2006  05:51 PM             2,362 contoh4-5.php
+01/19/2006  05:51 PM             2,562 contoh4-6.php
+01/19/2006  05:51 PM             2,618 contoh4-7.php
+01/20/2006  07:04 PM               565 contoh5-1.php
+01/21/2006  07:38 AM             1,746 contoh5-10.php
+01/20/2006  07:29 PM               596 contoh5-2.php
+01/20/2006  08:53 PM               597 contoh5-3.php
+01/20/2006  10:07 PM               688 contoh5-4.php
+01/20/2006  11:55 PM             1,077 contoh5-5.php
+01/20/2006  11:54 PM             1,497 contoh5-6.php
+01/20/2006  11:52 PM             1,597 contoh5-7.php
+01/21/2006  07:11 AM             1,642 contoh5-8.php
+01/21/2006  07:14 AM             1,682 contoh5-9.php
+01/17/2006  08:48 AM               163 counter.html
+01/20/2006  07:05 AM             1,321 counter.php
+01/20/2006  07:05 AM                 4 counter.txt
+01/18/2006  10:45 AM                17 counter_banner.txt
+01/20/2006  07:05 AM               100 counter_history.txt
+01/20/2006  07:05 AM                 9 counter_ip.txt
+01/18/2006  07:41 AM           313,000 counter_penguin.psd
+01/18/2006  08:12 AM             1,679 cover01.php
+01/19/2006  05:51 PM             2,613 cover02.php
+01/23/2006  07:44 AM             1,518 cover03.php
+01/14/2006  07:17 AM                69 formatjpeg.php
+01/14/2006  07:24 AM                67 formatpng.php
+01/14/2006  07:30 AM                73 formatridwan.php
+01/16/2006  06:13 AM            65,805 foto.jpg
+01/14/2006  07:54 AM               273 gd.php
+01/14/2006  07:52 AM                32 gd_info.php
+01/16/2006  08:13 AM               169 index.html
+01/13/2006  05:28 PM                18 info.php
+01/18/2006  08:00 AM             2,830 laptop.gif
+01/18/2006  07:36 AM             1,678 laptop.jpg
+01/18/2006  07:41 AM            49,870 laptop.psd
+01/16/2006  06:26 AM             3,857 logo-smg.gif
+01/16/2006  07:17 AM            14,245 logo-smg.jpg
+01/16/2006  07:15 AM            56,713 logo-smg.psd
+01/19/2006  05:12 PM               782 polling.html
+01/19/2006  06:11 PM             2,624 presiden.php
+01/21/2006  09:12 PM             1,900 proses_pic.php
+01/21/2006  03:52 PM            27,098 rekayasa.jpg
+01/20/2006  06:43 PM           294,553 sampel.jpg
+01/20/2006  09:12 PM           257,342 sampel2.jpg
+01/20/2006  10:45 PM           390,543 sampel3.jpg
+01/20/2006  10:45 PM           390,543 sampel4.jpg
+01/19/2006  05:55 PM               955 simpan.php
+07/17/2004  10:55 PM           383,140 tahoma.ttf
+01/20/2006  11:33 PM             1,523 teks.gif
+01/20/2006  11:34 PM           168,460 teks.psd
+01/18/2006  10:21 AM               565 testimage.php
+01/19/2006  10:59 AM            12,033 tux.gif
+01/18/2006  07:39 AM             1,931 tux0.gif
+01/18/2006  07:39 AM             1,915 tux1.gif
+01/18/2006  07:39 AM             1,922 tux2.gif
+01/18/2006  07:39 AM             1,913 tux3.gif
+01/18/2006  07:39 AM             1,974 tux4.gif
+01/18/2006  07:40 AM             1,916 tux5.gif
+01/18/2006  07:40 AM             1,922 tux6.gif
+01/18/2006  07:40 AM             1,937 tux7.gif
+01/18/2006  07:40 AM             1,949 tux8.gif
+01/18/2006  07:40 AM             1,934 tux9.gif
+01/21/2006  03:39 PM               298 upload.html
+             123 File(s)      3,456,130 bytes
+
+     Total Files Listed:
+             175 File(s)    265,962,715 bytes
+              30 Dir(s)               0 bytes free

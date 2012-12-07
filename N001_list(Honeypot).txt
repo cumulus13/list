@@ -1,0 +1,266 @@
+ Volume in drive G is CD-honeypot
+ Volume Serial Number is 5EDA-EB1D
+
+ Directory of G:\
+
+11/01/2004  02:11 PM    <DIR>          honeypot
+11/07/2003  11:21 AM    <DIR>          j2sdk
+01/08/2005  11:46 AM               278 perhatian.txt
+10/28/2004  04:10 PM    <DIR>          tool-tes
+10/27/2004  09:54 AM    <DIR>          trojan
+10/29/2004  09:16 AM    <DIR>          wipe
+               1 File(s)            278 bytes
+
+ Directory of G:\honeypot
+
+11/01/2004  02:11 PM    <DIR>          .
+01/08/2005  10:41 PM    <DIR>          ..
+10/28/2004  10:13 AM    <DIR>          Bof
+11/05/2004  02:27 PM    <DIR>          DTK
+11/08/2003  11:39 AM    <DIR>          HoneyWeb
+11/08/2003  11:37 AM    <DIR>          LaBreaTarpid
+11/24/2003  03:18 PM               459 bacadulu.txt
+07/29/2004  10:33 AM           388,306 baitnswitch-b.2.1.tar.gz
+11/04/2001  10:02 AM    <DIR>          honeyd
+11/07/2003  03:26 PM    <DIR>          jackpot
+01/08/2005  02:08 PM    <DIR>          library
+11/04/2001  10:02 AM    <DIR>          netbuster
+07/29/2004  10:22 AM            18,651 shoneypot-0.2-7.tar.gz
+07/29/2004  10:45 AM           504,498 valhala.zip
+11/04/2001  12:41 PM    <DIR>          wormradar
+               4 File(s)        911,914 bytes
+
+ Directory of G:\honeypot\Bof
+
+10/28/2004  10:13 AM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+10/28/2004  10:15 AM    <DIR>          bof-unix
+10/28/2004  10:15 AM    <DIR>          bof-win
+               0 File(s)              0 bytes
+
+ Directory of G:\honeypot\Bof\bof-unix
+
+10/28/2004  10:15 AM    <DIR>          .
+10/28/2004  10:13 AM    <DIR>          ..
+07/30/2002  05:03 AM             9,102 LICENSE.TXT
+07/30/2002  05:03 AM                70 Makefile
+10/28/2004  10:15 AM    <DIR>          RCS
+07/30/2002  05:03 AM               906 README
+07/30/2002  05:03 AM            14,883 backofficer.c
+07/30/2002  05:03 AM            71,680 backofficer.tar
+               5 File(s)         96,641 bytes
+
+ Directory of G:\honeypot\Bof\bof-unix\RCS
+
+10/28/2004  10:15 AM    <DIR>          .
+10/28/2004  10:15 AM    <DIR>          ..
+07/30/2002  05:03 AM             9,277 LICENSE.TXT,v
+07/30/2002  05:03 AM               244 Makefile,v
+07/30/2002  05:03 AM             1,080 README,v
+07/30/2002  05:03 AM            17,580 backofficer.c,v
+               4 File(s)         28,181 bytes
+
+ Directory of G:\honeypot\Bof\bof-win
+
+10/28/2004  10:15 AM    <DIR>          .
+10/28/2004  10:13 AM    <DIR>          ..
+07/30/2002  05:03 AM            11,770 ALERTS.HTM
+07/30/2002  05:03 AM             2,401 CONTENTS.HTM
+10/28/2004  10:15 AM    <DIR>          IMAGES
+07/30/2002  05:03 AM             1,453 INDEX.HTM
+07/30/2002  05:03 AM             4,196 INSTALL.HTM
+07/30/2002  05:03 AM             4,196 INSTAL~1.HTM
+07/30/2002  05:03 AM             5,010 LEGAL.HTM
+07/30/2002  05:03 AM             7,871 OVERVIEW.HTM
+07/30/2002  05:03 AM             1,397 README.txt
+07/30/2002  05:03 AM             5,368 SCAN.HTM
+07/30/2002  05:03 AM             5,368 SCANNI~1.HTM
+07/30/2002  05:03 AM             3,026 UNIX.HTM
+07/30/2002  05:03 AM             7,067 WATCHING.HTM
+07/30/2002  05:03 AM             9,029 license.txt
+07/30/2002  05:03 AM            94,208 nfrbofl.exe
+              14 File(s)        162,360 bytes
+
+ Directory of G:\honeypot\Bof\bof-win\IMAGES
+
+10/28/2004  10:15 AM    <DIR>          .
+10/28/2004  10:15 AM    <DIR>          ..
+07/30/2002  05:03 AM             1,396 COP100.GIF
+07/30/2002  05:03 AM             1,396 COP100~1.GIF
+07/30/2002  05:03 AM             5,692 ENABLE.GIF
+07/30/2002  05:03 AM             1,677 HOSTILE.GIF
+07/30/2002  05:03 AM               351 IMAGES.HTM
+07/30/2002  05:03 AM               351 IMAGES~1.HTM
+07/30/2002  05:03 AM             1,560 LOGO-S~1.GIF
+07/30/2002  05:03 AM             1,560 LOGO.GIF
+07/30/2002  05:03 AM               782 NOSY.GIF
+07/30/2002  05:03 AM               980 SCAN.GIF
+07/30/2002  05:03 AM             7,722 WARNING.GIF
+07/30/2002  05:03 AM             7,722 WARNIN~1.GIF
+              12 File(s)         31,189 bytes
+
+ Directory of G:\honeypot\DTK
+
+11/05/2004  02:27 PM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+04/06/2004  04:42 AM           993,280 dtk.tar
+               1 File(s)        993,280 bytes
+
+ Directory of G:\honeypot\HoneyWeb
+
+11/08/2003  11:39 AM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+04/06/2004  05:44 AM            27,775 HoneyWeb-0.4.tar
+04/06/2004  05:44 AM             2,660 HoneyWeb.txt
+               2 File(s)         30,435 bytes
+
+ Directory of G:\honeypot\LaBreaTarpid
+
+11/08/2003  11:37 AM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+07/30/2002  05:03 AM             8,786 LaBrea.txt
+07/30/2002  05:03 AM            27,951 LaBrea2_3.tgz
+07/30/2002  05:03 AM           291,448 LaBreaNT2_0.zip
+07/29/2004  01:51 PM           499,662 labrea-2.5-stable-1-win-exec.zip
+07/29/2004  01:47 PM           210,494 labrea-2.5-stable-1.tar.gz
+08/06/2004  09:59 PM           181,482 labrea-2.5b-2.suse82.i386.rpm
+               6 File(s)      1,219,823 bytes
+
+ Directory of G:\honeypot\honeyd
+
+11/04/2001  10:02 AM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+11/04/2001  10:05 AM    <DIR>          HoneydWin
+07/29/2004  01:44 PM            49,437 arpd-0.2.tar.gz
+04/06/2004  05:15 AM         2,027,537 honeyd-0.7a-beta2.tgz
+07/29/2004  01:54 PM           523,808 honeyd-0.8b.tar.gz
+04/06/2004  05:13 AM         1,630,056 honeyd-linux-kit-0.6.tgz
+08/04/2004  08:52 PM            43,945 honeyview-1.0.tar.gz
+               5 File(s)      4,274,783 bytes
+
+ Directory of G:\honeypot\honeyd\HoneydWin
+
+11/04/2001  10:05 AM    <DIR>          .
+11/04/2001  10:02 AM    <DIR>          ..
+04/14/2001  11:56 AM             2,862 WIN32_README.txt
+04/06/2004  03:19 PM           484,672 WinPcap_3_1_beta.exe
+04/14/2001  11:57 AM           100,517 honeyd-0.5-win32.diff.txt
+10/30/2004  12:58 PM           420,407 honeyd-0.5a-win32.zip
+04/14/2001  11:57 AM           321,017 libdnet-1.5-msvc.zip
+04/14/2001  11:57 AM           122,933 libevent-0.6-win32.zip
+               6 File(s)      1,452,408 bytes
+
+ Directory of G:\honeypot\jackpot
+
+11/07/2003  03:26 PM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+04/06/2004  05:29 AM           291,990 jackpot-1.2.2.zip
+               1 File(s)        291,990 bytes
+
+ Directory of G:\honeypot\library
+
+01/08/2005  02:08 PM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+01/07/2004  01:45 AM           334,628 WINPCAP_2_3.EXE
+04/06/2004  03:19 PM           484,672 WinPcap_3_1_beta.exe
+12/11/2004  07:58 PM           131,133 libdnet-1.2.tar.gz
+12/03/2004  01:43 PM           160,062 libdnet-1.7.tar.gz
+08/07/2004  11:10 PM           400,246 libdnet-1.8.tar.gz
+08/09/2004  09:06 AM            72,769 libevent-0.7.tar.gz
+12/11/2004  08:03 PM           806,394 libnet.tar.gz
+12/11/2004  07:52 PM           197,653 libpcap-0.7.1.tar.gz
+08/09/2004  09:05 AM           283,567 libpcap-0.8.1.tar.gz
+               9 File(s)      2,871,124 bytes
+
+ Directory of G:\honeypot\netbuster
+
+11/04/2001  10:02 AM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+07/26/2002  02:31 AM           546,591 netbuster1_31.zip
+               1 File(s)        546,591 bytes
+
+ Directory of G:\honeypot\wormradar
+
+11/04/2001  12:41 PM    <DIR>          .
+11/01/2004  02:11 PM    <DIR>          ..
+10/30/2004  12:52 PM           523,264 WormRadar.exe
+               1 File(s)        523,264 bytes
+
+ Directory of G:\j2sdk
+
+11/07/2003  11:21 AM    <DIR>          .
+01/08/2005  10:41 PM    <DIR>          ..
+11/07/2003  11:21 AM    <DIR>          GNUZipTarShell
+11/07/2003  11:21 AM    <DIR>          RedHatRPM
+11/07/2003  11:22 AM    <DIR>          Windows
+               0 File(s)              0 bytes
+
+ Directory of G:\j2sdk\GNUZipTarShell
+
+11/07/2003  11:21 AM    <DIR>          .
+11/07/2003  11:21 AM    <DIR>          ..
+03/12/2002  11:34 PM        40,618,207 j2sdk-1_4_0-linux-i386.bin
+               1 File(s)     40,618,207 bytes
+
+ Directory of G:\j2sdk\RedHatRPM
+
+11/07/2003  11:21 AM    <DIR>          .
+11/07/2003  11:21 AM    <DIR>          ..
+03/12/2002  11:35 PM        39,482,030 j2sdk-1_4_0-linux-i386-rpm.bin
+               1 File(s)     39,482,030 bytes
+
+ Directory of G:\j2sdk\Windows
+
+11/07/2003  11:22 AM    <DIR>          .
+11/07/2003  11:21 AM    <DIR>          ..
+03/12/2002  11:31 PM        37,067,134 j2sdk-1_4_0-win.exe
+               1 File(s)     37,067,134 bytes
+
+ Directory of G:\tool-tes
+
+10/28/2004  04:10 PM    <DIR>          .
+01/08/2005  10:41 PM    <DIR>          ..
+03/19/2003  06:39 PM           961,048 AntiPC.zip
+01/07/2004  01:45 AM           440,557 WINPCAP_3_0.EXE
+11/04/2001  01:12 PM    <DIR>          brutus
+11/08/2003  11:36 AM               124 info.txt
+08/03/2002  11:50 PM         6,490,800 nmapwin_1.3.0.exe
+09/21/2001  09:46 PM         1,973,513 the_bat.exe
+               5 File(s)      9,866,042 bytes
+
+ Directory of G:\tool-tes\brutus
+
+11/04/2001  01:12 PM    <DIR>          .
+10/28/2004  04:10 PM    <DIR>          ..
+03/24/2004  04:06 PM             2,840 Example_su_root.bad
+03/24/2004  04:06 PM             2,170 NetBus.bad
+03/24/2004  04:07 PM             2,835 SMTP_RCPT_User.bad
+03/24/2004  04:07 PM             2,803 SMTP_VRFY_User.bad
+11/27/2002  05:21 PM           338,947 brutus-aet2.zip
+               5 File(s)        349,595 bytes
+
+ Directory of G:\trojan
+
+10/27/2004  09:54 AM    <DIR>          .
+01/08/2005  10:41 PM    <DIR>          ..
+11/04/1999  03:54 PM           548,808 NetBus170.zip
+11/08/2003  10:41 AM               221 bacadulu.txt
+11/02/2001  08:33 PM            39,811 bo.zip
+11/12/2003  10:41 AM         1,260,578 bo2k_1_0_full.zip
+11/04/1999  03:55 PM         1,682,991 nb2pro.zip
+11/04/1999  04:54 PM         1,162,813 netbus20.zip
+11/04/1999  04:54 PM           910,673 s7a.zip
+               7 File(s)      5,605,895 bytes
+
+ Directory of G:\wipe
+
+10/29/2004  09:16 AM    <DIR>          .
+01/08/2005  10:41 PM    <DIR>          ..
+07/17/2004  10:05 PM         2,811,211 Eraser57Setup.zip
+11/24/2003  03:23 PM               108 bacadulu.txt
+07/19/2004  10:10 PM         1,465,244 dban-1.0.3_i386.zip
+               3 File(s)      4,276,563 bytes
+
+     Total Files Listed:
+              95 File(s)    150,699,727 bytes
+              69 Dir(s)               0 bytes free

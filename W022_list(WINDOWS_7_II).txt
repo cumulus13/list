@@ -1,0 +1,1860 @@
+ Volume in drive F is GB1CULFRE_EN_DVD
+ Volume Serial Number is E228-C67F
+
+ Directory of F:\
+
+04/15/2009  07:17 AM           984,113 activation.exe
+12/14/2008  01:45 AM                43 autorun.inf
+12/14/2008  01:45 AM    <DIR>          boot
+12/14/2008  01:45 AM           377,151 bootmgr
+12/14/2008  01:45 AM    <DIR>          efi
+12/14/2008  01:45 AM           112,904 setup.exe
+12/14/2008  01:45 AM    <DIR>          sources
+12/14/2008  01:45 AM    <DIR>          support
+12/14/2008  01:45 AM    <DIR>          upgrade
+               4 File(s)      1,474,211 bytes
+
+ Directory of F:\boot
+
+12/14/2008  01:45 AM    <DIR>          .
+04/19/2009  12:21 AM    <DIR>          ..
+12/14/2008  01:45 AM           262,144 bcd
+12/14/2008  01:45 AM         3,170,304 boot.sdi
+12/14/2008  01:45 AM             1,024 bootfix.bin
+12/14/2008  01:45 AM            97,280 bootsect.exe
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM             4,096 etfsboot.com
+12/14/2008  01:45 AM    <DIR>          fonts
+12/14/2008  01:45 AM           473,864 memtest.exe
+               6 File(s)      4,008,712 bytes
+
+ Directory of F:\boot\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            15,872 bootsect.exe.mui
+               1 File(s)         15,872 bytes
+
+ Directory of F:\boot\fonts
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM         3,694,080 chs_boot.ttf
+12/14/2008  01:45 AM         3,876,772 cht_boot.ttf
+12/14/2008  01:45 AM         1,984,228 jpn_boot.ttf
+12/14/2008  01:45 AM         2,371,360 kor_boot.ttf
+12/14/2008  01:45 AM            47,452 wgl4_boot.ttf
+               5 File(s)     11,973,892 bytes
+
+ Directory of F:\efi
+
+12/14/2008  01:45 AM    <DIR>          .
+04/19/2009  12:21 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          microsoft
+               0 File(s)              0 bytes
+
+ Directory of F:\efi\microsoft
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          boot
+               0 File(s)              0 bytes
+
+ Directory of F:\efi\microsoft\boot
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           262,144 bcd
+12/14/2008  01:45 AM    <DIR>          fonts
+               1 File(s)        262,144 bytes
+
+ Directory of F:\efi\microsoft\boot\fonts
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM         3,694,080 chs_boot.ttf
+12/14/2008  01:45 AM         3,876,772 cht_boot.ttf
+12/14/2008  01:45 AM         1,984,228 jpn_boot.ttf
+12/14/2008  01:45 AM         2,371,360 kor_boot.ttf
+12/14/2008  01:45 AM            47,452 wgl4_boot.ttf
+               5 File(s)     11,973,892 bytes
+
+ Directory of F:\sources
+
+12/14/2008  01:45 AM    <DIR>          .
+04/19/2009  12:21 AM    <DIR>          ..
+12/14/2008  01:45 AM           175,104 actionqueue.dll
+12/14/2008  01:45 AM            63,488 admtv3check.dll
+12/14/2008  01:45 AM             1,046 alert.gif
+12/14/2008  01:45 AM         1,737,728 apds.dll
+12/14/2008  01:45 AM           221,184 apircl.dll
+12/14/2008  01:45 AM            11,673 appcompat.xsl
+12/14/2008  01:45 AM            12,498 appcompat_bidi.xsl
+12/14/2008  01:45 AM            13,690 appcompat_detailed.xsl
+12/14/2008  01:45 AM            13,735 appcompat_detailed_bidi.xsl
+12/14/2008  01:45 AM            13,371 appcompat_detailed_bidi_txt.xsl
+12/14/2008  01:45 AM            13,326 appcompat_detailed_txt.xsl
+12/14/2008  01:45 AM           200,704 apss.dll
+12/14/2008  01:45 AM           982,016 arunimg.dll
+12/14/2008  01:45 AM             4,096 arunres.dll
+12/14/2008  01:45 AM           123,392 autorun.dll
+12/14/2008  01:45 AM         2,359,352 background_cli.bmp
+12/14/2008  01:45 AM       142,259,377 boot.wim
+12/14/2008  01:45 AM           814,592 cbscore.dll
+12/14/2008  01:45 AM            28,672 cbsmsg.dll
+12/14/2008  01:45 AM             1,976 cdplib.mof
+12/14/2008  01:45 AM               571 cdplibuninstall.mof
+12/14/2008  01:45 AM           117,248 cmiadapter.dll
+12/14/2008  01:45 AM           265,216 cmisetup.dll
+12/14/2008  01:45 AM           291,328 cmitrust.dll
+12/14/2008  01:45 AM         2,066,432 cmiv2.dll
+12/14/2008  01:45 AM           143,872 cntrtextinstaller.dll
+12/14/2008  01:45 AM           140,800 compatprovider.dll
+12/14/2008  01:45 AM               436 compliance.ini
+12/14/2008  01:45 AM             9,216 compres.dll
+12/14/2008  01:45 AM            32,256 diager.dll
+12/14/2008  01:45 AM           132,096 diagnostic.dll
+12/14/2008  01:45 AM           199,168 dism.exe
+12/14/2008  01:45 AM           225,280 dismcore.dll
+12/14/2008  01:45 AM            48,640 dismcoreps.dll
+12/14/2008  01:45 AM            81,408 dismhost.exe
+12/14/2008  01:45 AM           140,288 dismprov.dll
+12/14/2008  01:45 AM    <DIR>          dlmanifests
+12/14/2008  01:45 AM           256,512 dpx.dll
+12/14/2008  01:45 AM           169,472 drupdate.dll
+12/14/2008  01:45 AM            93,824 drvmain.sdb
+12/14/2008  01:45 AM            83,968 drvmgrtn.dll
+12/14/2008  01:45 AM           302,080 drvstore.dll
+12/14/2008  01:45 AM            70,656 du.dll
+12/14/2008  01:45 AM                48 ei.cfg
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM            10,883 envmig.xml
+12/14/2008  01:45 AM           263,680 esscli.dll
+12/14/2008  01:45 AM    <DIR>          etwproviders
+12/14/2008  01:45 AM           603,648 fastprox.dll
+12/14/2008  01:45 AM            52,736 folderprovider.dll
+12/14/2008  01:45 AM            46,592 fveupg.dll
+12/14/2008  01:45 AM         1,972,957 globalinstallorder.xml
+12/14/2008  01:45 AM           104,448 helpcins.dll
+12/14/2008  01:45 AM           144,384 hwcompat.dll
+12/14/2008  01:45 AM           468,560 hwcompat.txt
+12/14/2008  01:45 AM             1,620 hwexclude.txt
+12/14/2008  01:45 AM               126 idwbinfo.txt
+12/14/2008  01:45 AM            23,040 iiscomp.dll
+12/14/2008  01:45 AM    <DIR>          inf
+12/14/2008  01:45 AM           201,728 input.dll
+12/14/2008  01:45 AM     2,312,103,121 install.wim
+12/14/2008  01:45 AM           583,652 install_Windows 7 BUSINESS.clg
+12/14/2008  01:45 AM           572,518 install_Windows 7 HOMEBASIC.clg
+12/14/2008  01:45 AM           586,538 install_Windows 7 HOMEPREMIUM.clg
+12/14/2008  01:45 AM           589,732 install_Windows 7 ULTIMATE.clg
+12/14/2008  01:45 AM                78 lang.ini
+12/14/2008  01:45 AM    <DIR>          license
+12/14/2008  01:45 AM           375,400 locale.nls
+12/14/2008  01:45 AM           229,888 locdrv.dll
+12/14/2008  01:45 AM            92,160 logprovider.dll
+12/14/2008  01:45 AM           101,376 migisol.dll
+12/14/2008  01:45 AM            36,864 migtestplugin.dll
+12/14/2008  01:45 AM           194,560 mofd.dll
+12/14/2008  01:45 AM            58,880 mofinstall.dll
+12/14/2008  01:45 AM           305,152 msdelta.dll
+12/14/2008  01:45 AM           579,072 msftedit.dll
+12/14/2008  01:45 AM            35,328 mspatcha.dll
+12/14/2008  01:45 AM         1,330,688 msxml6.dll
+12/14/2008  01:45 AM             2,048 msxml6r.dll
+12/14/2008  01:45 AM            58,880 nlsbres.dll
+12/14/2008  01:45 AM            21,504 ntdsupg.dll
+12/14/2008  01:45 AM            46,080 ntfrsupg.dll
+12/14/2008  01:45 AM           149,504 oemhelpins.dll
+12/14/2008  01:45 AM            31,373 offline.xml
+12/14/2008  01:45 AM           600,050 oscomps.xml
+12/14/2008  01:45 AM            20,100 osfilter.inf
+12/14/2008  01:45 AM         1,140,736 pidgenx.dll
+12/14/2008  01:45 AM           286,250 pkeyconfig.xrm-ms
+12/14/2008  01:45 AM            70,656 pnpibs.dll
+12/14/2008  01:45 AM             2,715 product.ini
+12/14/2008  01:45 AM           134,973 readme.rtf
+12/14/2008  01:45 AM           271,872 repdrvfs.dll
+12/14/2008  01:45 AM    <DIR>          replacementmanifests
+12/14/2008  01:45 AM            47,104 rmsupg.dll
+12/14/2008  01:45 AM           104,960 rollback.exe
+12/14/2008  01:45 AM            90,112 schema.dat
+12/14/2008  01:45 AM           102,400 sdbapiu.dll
+12/14/2008  01:45 AM           517,384 segoeui.ttf
+12/14/2008  01:45 AM    <DIR>          servicing
+12/14/2008  01:45 AM    <DIR>          servicingstackmisc
+12/14/2008  01:45 AM           252,168 setup.exe
+12/14/2008  01:45 AM             1,824 sfcn.dat
+12/14/2008  01:45 AM             1,644 sflcid.dat
+12/14/2008  01:45 AM         3,270,124 sflistlh.dat
+12/14/2008  01:45 AM         2,167,656 sflistw7.dat
+12/14/2008  01:45 AM         1,372,972 sflistxp.dat
+12/14/2008  01:45 AM            20,115 sfpat.inf
+12/14/2008  01:45 AM             7,956 sfpatlh.inf
+12/14/2008  01:45 AM             3,372 sfpatw7.inf
+12/14/2008  01:45 AM             4,202 sfpatxp.inf
+12/14/2008  01:45 AM           688,128 smiengine.dll
+12/14/2008  01:45 AM            89,600 smipi.dll
+12/14/2008  01:45 AM           124,168 sperr32.exe
+12/14/2008  01:45 AM            79,872 spfileq.dll
+12/14/2008  01:45 AM            23,040 spflvrnt.dll
+12/14/2008  01:45 AM            75,776 spinf.dll
+12/14/2008  01:45 AM            53,760 spprgrss.dll
+12/14/2008  01:45 AM           351,744 spwizeng.dll
+12/14/2008  01:45 AM         8,338,432 spwizimg.dll
+12/14/2008  01:45 AM             7,168 spwizres.dll
+12/14/2008  01:45 AM           188,928 sqmapi.dll
+12/14/2008  01:45 AM           111,104 ssshim.dll
+12/14/2008  01:45 AM         3,601,490 sysmain.sdb
+12/14/2008  01:45 AM            43,008 uddicomp.dll
+12/14/2008  01:45 AM           201,728 unattend.dll
+12/14/2008  01:45 AM           735,744 unbcl.dll
+12/14/2008  01:45 AM           164,352 upgcmi2migxml.dll
+12/14/2008  01:45 AM            18,873 upgcompat.inf
+12/14/2008  01:45 AM         5,804,032 upgcore.dll
+12/14/2008  01:45 AM           328,704 upgcsiagent.dll
+12/14/2008  01:45 AM           637,952 upgdriver.dll
+12/14/2008  01:45 AM           258,560 upghost.exe
+12/14/2008  01:45 AM           205,824 upgloader.dll
+12/14/2008  01:45 AM           111,616 upgmxeagent.dll
+12/14/2008  01:45 AM           129,644 upgrade_bulk.xml
+12/14/2008  01:45 AM         2,812,416 upgradeagent.dll
+12/14/2008  01:45 AM            55,380 upgradeagent.xml
+12/14/2008  01:45 AM           384,000 upgreport.dll
+12/14/2008  01:45 AM            36,864 upgres.dll
+12/14/2008  01:45 AM            55,895 upgwow_bulk.xml
+12/14/2008  01:45 AM           118,272 uxlib.dll
+12/14/2008  01:45 AM             2,560 uxlibres.dll
+12/14/2008  01:45 AM           347,301 vofflps.rtf
+12/14/2008  01:45 AM         3,051,008 w32uiimg.dll
+12/14/2008  01:45 AM           260,096 w32uires.dll
+12/14/2008  01:45 AM               597 warning.gif
+12/14/2008  01:45 AM           354,304 wbemcomn.dll
+12/14/2008  01:45 AM           749,568 wbemcore.dll
+12/14/2008  01:45 AM            30,720 wbemprox.dll
+12/14/2008  01:45 AM             1,047 wcmtypes.xsd
+12/14/2008  01:45 AM         1,889,280 wcp.dll
+12/14/2008  01:45 AM           518,656 wdsclient.dll
+12/14/2008  01:45 AM           118,272 wdsclientapi.dll
+12/14/2008  01:45 AM           189,952 wdscore.dll
+12/14/2008  01:45 AM            54,272 wdscsl.dll
+12/14/2008  01:45 AM           565,248 wdsimage.dll
+12/14/2008  01:45 AM           121,856 wdstptc.dll
+12/14/2008  01:45 AM            10,752 wdsupgcompl.dll
+12/14/2008  01:45 AM            50,688 wdsutil.dll
+12/14/2008  01:45 AM           430,080 win32ui.dll
+12/14/2008  01:45 AM         1,758,720 winsetup.dll
+12/14/2008  01:45 AM             1,682 wmi_tracing.mof
+12/14/2008  01:45 AM           346,624 wmicmiplugin.dll
+12/14/2008  01:45 AM            84,992 wmiutils.dll
+12/14/2008  01:45 AM           180,224 xmllite.dll
+             157 File(s)  2,523,346,551 bytes
+
+ Directory of F:\sources\dlmanifests
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             4,433 accessibilitycpl-dl.man
+12/14/2008  01:45 AM               726 activedirectory-webservices-dl.man
+12/14/2008  01:45 AM             1,602 activedirectory-wmireplicationprovider-dl.man
+12/14/2008  01:45 AM             2,353 adfs-federationservice-dl.man
+12/14/2008  01:45 AM             2,370 adfs-federationserviceproxy-dl.man
+12/14/2008  01:45 AM             2,002 adfs-webagentclaims-dl.man
+12/14/2008  01:45 AM             2,400 adfs-webagenttoken-dl.man
+12/14/2008  01:45 AM             2,642 adminui-dl.man
+12/14/2008  01:45 AM             3,725 adsi-ldap-extensions-dl.man
+12/14/2008  01:45 AM             1,676 adsi-ldap-provider-dl.man
+12/14/2008  01:45 AM             1,962 adsi-router-dl.man
+12/14/2008  01:45 AM             1,655 adsi-winnt-provider-dl.man
+12/14/2008  01:45 AM             2,288 application_experience-infrastructure-dl.man
+12/14/2008  01:45 AM             2,180 authui-dl.man
+12/14/2008  01:45 AM    <DIR>          bitsextensions-server
+12/14/2008  01:45 AM             2,385 bitsextensions-server-console-dl.man
+12/14/2008  01:45 AM             2,272 bitsextensions-server-dl.man
+12/14/2008  01:45 AM             1,423 bluetooth-config-dl.man
+12/14/2008  01:45 AM             3,170 browserservice-dl.man
+12/14/2008  01:45 AM             3,401 capi2_certs-dl.man
+12/14/2008  01:45 AM             2,879 commandprompt-dl.man
+12/14/2008  01:45 AM             2,091 coreos-dl.man
+12/14/2008  01:45 AM             2,224 credential-manager-dl.man
+12/14/2008  01:45 AM             2,947 crypto_keys-dl.man
+12/14/2008  01:45 AM             1,468 cryptoconfig-dl.man
+12/14/2008  01:45 AM             1,685 dfsclient-dl.man
+12/14/2008  01:45 AM             2,062 dfsmgmt-dl.man
+12/14/2008  01:45 AM             4,330 dfsn-serverservice-dl.man
+12/14/2008  01:45 AM             1,514 dhcpclient-dl.man
+12/14/2008  01:45 AM             4,183 dhcpservermigplugin-dl.man
+12/14/2008  01:45 AM             2,570 directoryservices-adam-dl.man
+12/14/2008  01:45 AM             2,397 directoryservices-domain-dl.man
+12/14/2008  01:45 AM             2,204 directoryservices-ism-smtp-dl.man
+12/14/2008  01:45 AM             3,754 dns-client-dl.man
+12/14/2008  01:45 AM             2,305 dns-server-service-dl.man
+12/14/2008  01:45 AM             4,533 dpapi_keys-dl.man
+12/14/2008  01:45 AM             1,727 drm-dl.man
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM             1,938 errorreportingcore-dl.man
+12/14/2008  01:45 AM             1,166 errorreportingfaults-dl.man
+12/14/2008  01:45 AM             1,380 etw-core-dl.man
+12/14/2008  01:45 AM               777 eudcedit-dl.man
+12/14/2008  01:45 AM             1,632 eventcollector-dl.man
+12/14/2008  01:45 AM             1,729 eventlog-dl.man
+12/14/2008  01:45 AM             1,969 evntagnt-dl.man
+12/14/2008  01:45 AM             2,571 explorer-dl.man
+12/14/2008  01:45 AM             1,432 extensibleauthenticationprotocolhostservice-dl.man
+12/14/2008  01:45 AM             1,613 feclient-dl.man
+12/14/2008  01:45 AM             4,453 frs-core-dl.man
+12/14/2008  01:45 AM             2,659 gameuxmig-dl.man
+12/14/2008  01:45 AM             7,121 gpbase-dl.man
+12/14/2008  01:45 AM             1,383 gpmc-dl.man
+12/14/2008  01:45 AM             1,509 gpmgmt-dl.man
+12/14/2008  01:45 AM             1,444 grouppolicy-admin-gpedit-dl.man
+12/14/2008  01:45 AM             1,454 grouppolicy-admin-gpedit-snapin-dl.man
+12/14/2008  01:45 AM             1,923 grouppolicy-cse-softwareinstallation-dl.man
+12/14/2008  01:45 AM             1,591 grouppolicy-serveradmintools-gpmc-dl.man
+12/14/2008  01:45 AM             1,263 http-dl.man
+12/14/2008  01:45 AM             4,109 iasmigplugin-dl.man
+12/14/2008  01:45 AM             1,085 ieframe-dl.man
+12/14/2008  01:45 AM             1,424 ime-simplified-chinese-migration-dl.man
+12/14/2008  01:45 AM             1,534 ime-traditional-chinese-migration-dl.man
+12/14/2008  01:45 AM             3,497 international-core-dl.man
+12/14/2008  01:45 AM            16,784 international-timezones-dl.man
+12/14/2008  01:45 AM             5,546 internet-naming-service-runtime-dl.man
+12/14/2008  01:45 AM             2,367 ipsec-svc-dl.man
+12/14/2008  01:45 AM             1,745 isns_service-dl.man
+12/14/2008  01:45 AM             5,563 jet2x3x-dl.man
+12/14/2008  01:45 AM             6,043 jetcore-dl.man
+12/14/2008  01:45 AM             5,799 jetexcel-dl.man
+12/14/2008  01:45 AM             7,732 jetexchlotus-dl.man
+12/14/2008  01:45 AM             6,165 jettext-dl.man
+12/14/2008  01:45 AM            12,811 jetxbasepdx-dl.man
+12/14/2008  01:45 AM             2,062 kerberos-key-distribution-center-dl.man
+12/14/2008  01:45 AM             1,390 ldap-client-dl.man
+12/14/2008  01:45 AM             1,037 mediaserver-aspadmin-migration-dl.man
+12/14/2008  01:45 AM             2,446 mediaserver-migration-dl.man
+12/14/2008  01:45 AM             1,015 mediaserver-multicast-migration-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-activedirectory-webservices-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-adfs-dl
+12/14/2008  01:45 AM             1,614 microsoft-windows-bits-client-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-bluetooth-config
+12/14/2008  01:45 AM             1,865 microsoft-windows-certificateservices-ca-dl.man
+12/14/2008  01:45 AM             1,439 microsoft-windows-certificateservices-camanagement-dl.man
+12/14/2008  01:45 AM             1,721 microsoft-windows-certificateservices-mscep-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-com-complus-setup-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-com-dtc-setup-dl
+12/14/2008  01:45 AM             2,672 microsoft-windows-dfsr-core-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-dhcpservermigplugin-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-directoryservices-adam-dl
+12/14/2008  01:45 AM             2,226 microsoft-windows-dot3svc-dl.man
+12/14/2008  01:45 AM             3,768 microsoft-windows-fax-client-applications-dl.man
+12/14/2008  01:45 AM             1,831 microsoft-windows-fax-client-proenterprise-dl.man
+12/14/2008  01:45 AM             4,829 microsoft-windows-fax-common-dl.man
+12/14/2008  01:45 AM             1,855 microsoft-windows-fax-server-dl.man
+12/14/2008  01:45 AM             6,860 microsoft-windows-fax-service-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-gameuxmig-dl
+12/14/2008  01:45 AM             1,789 microsoft-windows-htmlhelp-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-iasserver-migplugin
+12/14/2008  01:45 AM             2,261 microsoft-windows-icm-profiles-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-ie-clientnetworkprotocolimplementation
+12/14/2008  01:45 AM            20,996 microsoft-windows-ie-clientnetworkprotocolimplementation-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-ie-esc
+12/14/2008  01:45 AM             2,060 microsoft-windows-ie-esc-dl.man
+12/14/2008  01:45 AM             2,339 microsoft-windows-ie-feeds-platform-dl.man
+12/14/2008  01:45 AM            12,628 microsoft-windows-ie-internetexplorer-dl.man
+12/14/2008  01:45 AM             1,598 microsoft-windows-iis-asp-deployment-dl.man
+12/14/2008  01:45 AM             1,561 microsoft-windows-iis-aspnet-deployment-dl.man
+12/14/2008  01:45 AM             1,664 microsoft-windows-iis-basicauthentication-deployment-dl.man
+12/14/2008  01:45 AM             1,598 microsoft-windows-iis-cgi-deployment-dl.man
+12/14/2008  01:45 AM             1,744 microsoft-windows-iis-clientcertificatemappingauthentication-deployment-dl.man
+12/14/2008  01:45 AM             1,461 microsoft-windows-iis-corewebengine-deployment-dl.man
+12/14/2008  01:45 AM             1,640 microsoft-windows-iis-customlogging-deployment-dl.man
+12/14/2008  01:45 AM             1,648 microsoft-windows-iis-defaultdocument-deployment-dl.man
+12/14/2008  01:45 AM             1,668 microsoft-windows-iis-digestauthentication-deployment-dl.man
+12/14/2008  01:45 AM             1,656 microsoft-windows-iis-directorybrowsing-deployment-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-iis-dl
+12/14/2008  01:45 AM             1,624 microsoft-windows-iis-ftpserver-deployment-dl.man
+12/14/2008  01:45 AM             1,678 microsoft-windows-iis-httpcompressiondynamic-deployment-dl.man
+12/14/2008  01:45 AM             1,674 microsoft-windows-iis-httpcompressionstatic-deployment-dl.man
+12/14/2008  01:45 AM             1,628 microsoft-windows-iis-httperrors-deployment-dl.man
+12/14/2008  01:45 AM             1,632 microsoft-windows-iis-httplogging-deployment-dl.man
+12/14/2008  01:45 AM             1,636 microsoft-windows-iis-httpredirect-deployment-dl.man
+12/14/2008  01:45 AM             1,632 microsoft-windows-iis-httptracing-deployment-dl.man
+12/14/2008  01:45 AM             1,732 microsoft-windows-iis-iiscertificatemappingauthentication-deployment-dl.man
+12/14/2008  01:45 AM             1,628 microsoft-windows-iis-ipsecurity-deployment-dl.man
+12/14/2008  01:45 AM             1,648 microsoft-windows-iis-isapiextensions-deployment-dl.man
+12/14/2008  01:45 AM             1,632 microsoft-windows-iis-isapifilter-deployment-dl.man
+12/14/2008  01:45 AM             1,640 microsoft-windows-iis-legacyscripts-deployment-dl.man
+12/14/2008  01:45 AM             1,544 microsoft-windows-iis-legacysnapin-deployment-dl.man
+12/14/2008  01:45 AM             1,652 microsoft-windows-iis-logginglibraries-deployment-dl.man
+12/14/2008  01:45 AM             1,562 microsoft-windows-iis-managementconsole-deployment-dl.man
+12/14/2008  01:45 AM             1,686 microsoft-windows-iis-managementscriptingtools-deployment-dl.man
+12/14/2008  01:45 AM             1,656 microsoft-windows-iis-managementservice-deployment-dl.man
+12/14/2008  01:45 AM             2,720 microsoft-windows-iis-metabase-dl.man
+12/14/2008  01:45 AM             1,585 microsoft-windows-iis-netfxextensibility-deployment-dl.man
+12/14/2008  01:45 AM             1,632 microsoft-windows-iis-odbclogging-deployment-dl.man
+12/14/2008  01:45 AM             1,652 microsoft-windows-iis-requestfiltering-deployment-dl.man
+12/14/2008  01:45 AM             1,644 microsoft-windows-iis-requestmonitor-deployment-dl.man
+12/14/2008  01:45 AM             1,662 microsoft-windows-iis-serversideincludes-deployment-dl.man
+12/14/2008  01:45 AM             1,640 microsoft-windows-iis-staticcontent-deployment-dl.man
+12/14/2008  01:45 AM             1,648 microsoft-windows-iis-urlauthorization-deployment-dl.man
+12/14/2008  01:45 AM             1,672 microsoft-windows-iis-windowsauthentication-deployment-dl.man
+12/14/2008  01:45 AM             1,652 microsoft-windows-iis-wmicompatibility-deployment-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-international-core-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-internet-naming-service-runtime
+12/14/2008  01:45 AM             2,039 microsoft-windows-mail-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-mediaplayer
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-mediaplayer-drm-dl
+12/14/2008  01:45 AM             4,852 microsoft-windows-mediaplayer-migration-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-msmq-messagingcoreservice
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-ndis
+12/14/2008  01:45 AM             9,028 microsoft-windows-netfx35-dl.man
+12/14/2008  01:45 AM             1,273 microsoft-windows-netfx35cdfcomp-dl.man
+12/14/2008  01:45 AM            44,067 microsoft-windows-netfxcorecomp-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-networkbridge
+12/14/2008  01:45 AM             1,797 microsoft-windows-networkbridge-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-networkloadbalancing-core
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-offlinefiles-dl
+12/14/2008  01:45 AM             5,071 microsoft-windows-offlinefiles-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-performancecounterinfrastructure-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-performancecounterinfrastructureconsumer-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-rasconnectionmanager
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-rasserver-migplugin
+12/14/2008  01:45 AM             2,028 microsoft-windows-sharedaccess-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-shmig-dl
+12/14/2008  01:45 AM             1,293 microsoft-windows-smbhashgeneration-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-storagemigration
+12/14/2008  01:45 AM             9,567 microsoft-windows-storagemigration-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-sxs
+12/14/2008  01:45 AM             1,210 microsoft-windows-sxs-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-tapisetup
+12/14/2008  01:45 AM             2,587 microsoft-windows-tapisetup-dl.man
+12/14/2008  01:45 AM             1,320 microsoft-windows-terminalservices-clientactivexcore-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-terminalservices-licenseserver
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-textservicesframework-migration-dl
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-unimodem-config
+12/14/2008  01:45 AM             2,591 microsoft-windows-wab-dl.man
+12/14/2008  01:45 AM             1,660 microsoft-windows-was-configurationapi-dl.man
+12/14/2008  01:45 AM             1,660 microsoft-windows-was-netfxenvironment-dl.man
+12/14/2008  01:45 AM             1,644 microsoft-windows-was-processmodel-dl.man
+12/14/2008  01:45 AM             5,421 microsoft-windows-wcfcorecomp-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-winsock-core-infrastructure-upgrade
+12/14/2008  01:45 AM             1,605 microsoft-windows-wlansvc-dl.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-wmi-core
+12/14/2008  01:45 AM             1,686 microsoft.windows.com.base-dl.man
+12/14/2008  01:45 AM             2,365 microsoft.windows.com.complus.setup.dl.man
+12/14/2008  01:45 AM             4,147 microsoft.windows.com.dtc.setup-dl.man
+12/14/2008  01:45 AM             1,892 microsoftwindowssystemrestore-main-dl.man
+12/14/2008  01:45 AM             8,198 migrationdisplaygroups-dl.man
+12/14/2008  01:45 AM             1,230 mpr-dl.man
+12/14/2008  01:45 AM             1,697 msmq-dcom-dl.man
+12/14/2008  01:45 AM             1,546 msmq-domain-ic-dl.man
+12/14/2008  01:45 AM             2,282 msmq-http-dl.man
+12/14/2008  01:45 AM             6,789 msmq-messagingcoreservice-dl.man
+12/14/2008  01:45 AM             1,544 msmq-multicast-dl.man
+12/14/2008  01:45 AM             1,451 msmq-routing-dl.man
+12/14/2008  01:45 AM             1,749 msmq-triggers-dl.man
+12/14/2008  01:45 AM             1,934 muisettings-dl.man
+12/14/2008  01:45 AM             1,533 mup-dl.man
+12/14/2008  01:45 AM             2,514 ndis-dl.man
+12/14/2008  01:45 AM             1,423 netfx3-dl.man
+12/14/2008  01:45 AM             2,053 netlogon-dl.man
+12/14/2008  01:45 AM             2,284 networkaccessprotection-agent-dl.man
+12/14/2008  01:45 AM    <DIR>          networking-mpssvc-svc
+12/14/2008  01:45 AM             3,926 networking-mpssvc-svc-dl.man
+12/14/2008  01:45 AM             2,830 networkloadbalancingfullserver-dl.man
+12/14/2008  01:45 AM             2,792 nfs-admincore-dl.man
+12/14/2008  01:45 AM             2,759 nfs-clientcore-dl.man
+12/14/2008  01:45 AM             2,803 nfs-servercore-dl.man
+12/14/2008  01:45 AM             2,637 ntfs-dl.man
+12/14/2008  01:45 AM             4,092 ntoskrnl-dl.man
+12/14/2008  01:45 AM             2,947 odbc32dll-dl.man
+12/14/2008  01:45 AM             1,871 openportmapper-dl.man
+12/14/2008  01:45 AM             2,001 openrpc-dl.man
+12/14/2008  01:45 AM             1,508 partmgr-dl.man
+12/14/2008  01:45 AM             1,186 peertopeeradmin-dl.man
+12/14/2008  01:45 AM             1,391 peertopeerbase-dl.man
+12/14/2008  01:45 AM             1,385 peertopeergraphing-dl.man
+12/14/2008  01:45 AM             1,522 peertopeergrouping-dl.man
+12/14/2008  01:45 AM             1,190 peertopeeridmanager-dl.man
+12/14/2008  01:45 AM             1,727 peertopeerpnrp-dl.man
+12/14/2008  01:45 AM             1,436 performancecounterinfrastructure-dl.man
+12/14/2008  01:45 AM             1,709 performancecounterinfrastructureconsumer-dl.man
+12/14/2008  01:45 AM             2,568 printing-spooler-core-dl.man
+12/14/2008  01:45 AM             2,260 printing-spooler-networkclient-dl.man
+12/14/2008  01:45 AM             1,986 propsys-dl.man
+12/14/2008  01:45 AM             1,544 pstore_data-dl.man
+12/14/2008  01:45 AM             3,007 psync-dl.man
+12/14/2008  01:45 AM             1,675 rasapi-dl.man
+12/14/2008  01:45 AM             1,476 rascmak-dl.man
+12/14/2008  01:45 AM             1,954 rasconnectionmanager-dl.man
+12/14/2008  01:45 AM            15,453 rasservermigplugin-dl.man
+12/14/2008  01:45 AM             1,314 rasserveroc-dl.man
+12/14/2008  01:45 AM             2,013 remoteassistance-dl.man
+12/14/2008  01:45 AM             3,111 rights-management-client-v1-api-dl.man
+12/14/2008  01:45 AM             3,265 rights-management-services-server-dl.man
+12/14/2008  01:45 AM             1,652 rpc-http-dl.man
+12/14/2008  01:45 AM             1,399 rpc-http_proxy-dl.man
+12/14/2008  01:45 AM             1,859 rpc-local-dl.man
+12/14/2008  01:45 AM             1,973 rpc-remote-dl.man
+12/14/2008  01:45 AM             1,762 sanmmc-dl.man
+12/14/2008  01:45 AM             1,461 schannel-dl.man
+12/14/2008  01:45 AM             1,923 schedsvc-dl.man
+12/14/2008  01:45 AM               803 security-digest-dl.man
+12/14/2008  01:45 AM               803 security-kerberos-dl.man
+12/14/2008  01:45 AM             1,458 security-ntlm-dl.man
+12/14/2008  01:45 AM             1,079 security-ntlm-lmc.man
+12/14/2008  01:45 AM             6,122 shell32-dl.man
+12/14/2008  01:45 AM             1,686 shmig-dl.man
+12/14/2008  01:45 AM             1,288 shutdown-event-tracker-dl.man
+12/14/2008  01:45 AM               965 simpletcp-dl.man
+12/14/2008  01:45 AM             3,727 smartcardsubsystem-dl.man
+12/14/2008  01:45 AM            14,133 smbserver-dl.man
+12/14/2008  01:45 AM             2,064 smss-dl.man
+12/14/2008  01:45 AM             1,164 smtpsvc-admin-dl.man
+12/14/2008  01:45 AM             1,180 smtpsvc-service-dl.man
+12/14/2008  01:45 AM             2,764 snis-dl.man
+12/14/2008  01:45 AM             2,407 snmp-dl.man
+12/14/2008  01:45 AM             2,506 speechcommon-dl.man
+12/14/2008  01:45 AM             4,817 srm-dl.man
+12/14/2008  01:45 AM             5,040 sua-dl.man
+12/14/2008  01:45 AM             1,737 tabletpc-tabbtn-dl.man
+12/14/2008  01:45 AM             1,778 tabletpcinputpanel-dl.man
+12/14/2008  01:45 AM             8,752 tabletpcjournal-dl.man
+12/14/2008  01:45 AM             9,080 tabletpcplatforminput-core-dl.man
+12/14/2008  01:45 AM            12,003 tcpip-dl.man
+12/14/2008  01:45 AM             2,196 telnet-client-dl.man
+12/14/2008  01:45 AM             5,229 telnet-server-dl.man
+12/14/2008  01:45 AM             1,573 terminalservices-appserver-dl.man
+12/14/2008  01:45 AM             1,277 terminalservices-drivers-dl.man
+12/14/2008  01:45 AM             1,893 terminalservices-licenseserver-dl.man
+12/14/2008  01:45 AM             1,438 terminalservices-localsessionmanager-dl.man
+12/14/2008  01:45 AM            20,863 terminalservices-rdp-winstationextensions-dl.man
+12/14/2008  01:45 AM             1,438 terminalservices-remoteconnectionmanager-dl.man
+12/14/2008  01:45 AM             2,240 terminalservices-sessiondirectory-client-dl.man
+12/14/2008  01:45 AM             2,453 terminalservices-sessiondirectory-server-dl.man
+12/14/2008  01:45 AM             1,919 terminalservices-terminalservicesclient-dl.man
+12/14/2008  01:45 AM             1,297 terminalservices-wmiprovider-dl.man
+12/14/2008  01:45 AM             2,285 textservicesframework-migration-dl.man
+12/14/2008  01:45 AM             1,088 themeui-dl.man
+12/14/2008  01:45 AM             4,441 time-service-dl.man
+12/14/2008  01:45 AM             1,460 unimodem-config-dl.man
+12/14/2008  01:45 AM             1,655 upnpcontrolpoint-dl.man
+12/14/2008  01:45 AM             2,304 upnpdevicehost-dl.man
+12/14/2008  01:45 AM             2,148 upnpssdp-dl.man
+12/14/2008  01:45 AM             2,015 video-tvvideocontrol-dl.man
+12/14/2008  01:45 AM             1,522 virtualdiskservice-dl.man
+12/14/2008  01:45 AM             1,577 vss-dl.man
+12/14/2008  01:45 AM             1,208 vsssystemprovider-dl.man
+12/14/2008  01:45 AM             2,018 wcf-http-activation-dl.man
+12/14/2008  01:45 AM             1,460 wcf-http-activation-postapply-dl.man
+12/14/2008  01:45 AM             1,403 wcf-nonhttp-activation-dl.man
+12/14/2008  01:45 AM            20,163 wds-dl.man
+12/14/2008  01:45 AM             1,914 web-services-for-management-core-dl.man
+12/14/2008  01:45 AM             2,553 webdavredir-dl.man
+12/14/2008  01:45 AM             3,770 webdavredir-mrxdav-dl.man
+12/14/2008  01:45 AM             1,676 webenroll-dl.man
+12/14/2008  01:45 AM            12,071 win32k-settings-dl.man
+12/14/2008  01:45 AM             2,269 windowssearchengine-dl.man
+12/14/2008  01:45 AM             2,670 winhttp60-dl.man
+12/14/2008  01:45 AM             2,346 winlogon-dl.man
+12/14/2008  01:45 AM             1,381 wirelessnetworking-dl.man
+12/14/2008  01:45 AM             3,206 wmdmigration-dl.man
+12/14/2008  01:45 AM             1,586 wmi-core-dl.man
+12/14/2008  01:45 AM             1,391 wmi-snmp-provider-dl.man
+12/14/2008  01:45 AM             1,811 workstationservice-dl.man
+12/14/2008  01:45 AM             1,779 wsinfra-upgrade-dl.man
+12/14/2008  01:45 AM            26,373 wsrm-service-dl.man
+             272 File(s)        844,193 bytes
+
+ Directory of F:\sources\dlmanifests\bitsextensions-server
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            61,440 bitsmig.dll
+               1 File(s)         61,440 bytes
+
+ Directory of F:\sources\dlmanifests\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-activedirectory-webservices-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            62,976 adwsmigrate.dll
+               1 File(s)         62,976 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-adfs-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            74,752 adfsmig.dll
+               1 File(s)         74,752 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-bluetooth-config
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            74,240 bthmigplugin.dll
+               1 File(s)         74,240 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-com-complus-setup-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            55,296 commig.dll
+               1 File(s)         55,296 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-com-dtc-setup-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            65,024 msdtcstp.dll
+               1 File(s)         65,024 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-dhcpservermigplugin-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           119,296 dhcpsrvmigplugin.dll
+               1 File(s)        119,296 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-directoryservices-adam-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            89,600 adammigrate.dll
+               1 File(s)         89,600 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-gameuxmig-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            16,384 gameuxmig.dll
+               1 File(s)         16,384 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-iasserver-migplugin
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM           485,376 iasmigplugin.dll
+12/14/2008  01:45 AM           491,520 iasmigreader.exe
+               2 File(s)        976,896 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-iasserver-migplugin\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             2,560 iasmigreader.exe.mui
+               1 File(s)          2,560 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-ie-clientnetworkprotocolimplementation
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            68,608 wininetplugin.dll
+               1 File(s)         68,608 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-ie-esc
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            41,984 escmigplugin.dll
+               1 File(s)         41,984 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-iis-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           279,552 iismig.dll
+               1 File(s)        279,552 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-international-core-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            89,600 nlscoremig.dll
+               1 File(s)         89,600 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-internet-naming-service-runtime
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            73,728 winsplgn.dll
+               1 File(s)         73,728 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-mediaplayer
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           552,960 mediaplayer-dlmigplugin.dll
+               1 File(s)        552,960 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-mediaplayer-drm-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           413,696 drmmgrtn.dll
+               1 File(s)        413,696 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-msmq-messagingcoreservice
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           123,392 mqmigplugin.dll
+               1 File(s)        123,392 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-ndis
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           155,136 ndismigplugin.dll
+               1 File(s)        155,136 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-networkbridge
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            62,976 bridgemigplugin.dll
+               1 File(s)         62,976 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-networkloadbalancing-core
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           136,704 nlbmigplugin.dll
+               1 File(s)        136,704 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-offlinefiles-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            95,232 cscmig.dll
+               1 File(s)         95,232 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-performancecounterinfrastructure-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           121,344 cntrtextmig.dll
+               1 File(s)        121,344 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-performancecounterinfrastructureconsumer-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            96,768 plamig.dll
+               1 File(s)         96,768 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-rasconnectionmanager
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            56,832 cmmigr.dll
+               1 File(s)         56,832 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-rasserver-migplugin
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           116,736 rasmigplugin.dll
+               1 File(s)        116,736 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-shmig-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            86,528 shmig.dll
+               1 File(s)         86,528 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-storagemigration
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM           202,240 stormigplugin.dll
+               1 File(s)        202,240 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-storagemigration\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             2,048 stormigplugin.dll.mui
+               1 File(s)          2,048 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-sxs
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           110,080 sxsmigplugin.dll
+               1 File(s)        110,080 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-tapisetup
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            98,816 tapimigplugin.dll
+               1 File(s)         98,816 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-terminalservices-licenseserver
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            76,288 tlsmigplugin.dll
+               1 File(s)         76,288 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-textservicesframework-migration-dl
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            35,840 imjpmig.dll
+12/14/2008  01:45 AM            39,936 imkrmig.dll
+12/14/2008  01:45 AM            32,768 imscmig.dll
+12/14/2008  01:45 AM            22,528 imtcmig.dll
+12/14/2008  01:45 AM           154,112 msctfmig.dll
+12/14/2008  01:45 AM            31,232 tabletextservicemig.dll
+               6 File(s)        316,416 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-unimodem-config
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           144,384 modemmigplugin.dll
+               1 File(s)        144,384 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-winsock-core-infrastructure-upgrade
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           162,304 wsupgrade.dll
+               1 File(s)        162,304 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-wmi-core
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           384,512 wmimigrationplugin.dll
+               1 File(s)        384,512 bytes
+
+ Directory of F:\sources\dlmanifests\networking-mpssvc-svc
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            89,088 icfupgd.dll
+               1 File(s)         89,088 bytes
+
+ Directory of F:\sources\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             3,072 actionqueue.dll.mui
+12/14/2008  01:45 AM            48,640 apds.dll.mui
+12/14/2008  01:45 AM             4,608 apircl.dll.mui
+12/14/2008  01:45 AM             3,072 apss.dll.mui
+12/14/2008  01:45 AM             4,096 arunres.dll.mui
+12/14/2008  01:45 AM            12,288 cbsmsg.dll.mui
+12/14/2008  01:45 AM             4,096 cmisetup.dll.mui
+12/14/2008  01:45 AM            12,800 compatprovider.dll.mui
+12/14/2008  01:45 AM             9,216 compres.dll.mui
+12/14/2008  01:45 AM            28,160 dism.exe.mui
+12/14/2008  01:45 AM             6,144 dismcore.dll.mui
+12/14/2008  01:45 AM             2,560 dismhost.exe.mui
+12/14/2008  01:45 AM             2,048 dismprov.dll.mui
+12/14/2008  01:45 AM            46,137 du_help_what_info_sent_to_ms.rtf
+12/14/2008  01:45 AM            39,833 du_help_why_get_updates.rtf
+12/14/2008  01:45 AM             7,135 erofflps.txt
+12/14/2008  01:45 AM             2,048 folderprovider.dll.mui
+12/14/2008  01:45 AM            42,397 help_what_is_activation.rtf
+12/14/2008  01:45 AM            24,064 input.dll.mui
+12/14/2008  01:45 AM             5,632 logprovider.dll.mui
+12/14/2008  01:45 AM             7,680 mofd.dll.mui
+12/14/2008  01:45 AM            79,360 msxml6r.dll.mui
+12/14/2008  01:45 AM            58,368 nlsbres.dll.mui
+12/14/2008  01:45 AM             4,608 pnpibs.dll.mui
+12/14/2008  01:45 AM           112,392 readme.rtf
+12/14/2008  01:45 AM             4,096 rollback.exe.mui
+12/14/2008  01:45 AM            11,264 setup.exe.mui
+12/14/2008  01:45 AM            44,949 setup_help_upgrade_or_custom.rtf
+12/14/2008  01:45 AM            11,776 smiengine.dll.mui
+12/14/2008  01:45 AM             2,560 sperr32.exe.mui
+12/14/2008  01:45 AM             7,168 spwizres.dll.mui
+12/14/2008  01:45 AM             7,168 upgdriver.dll.mui
+12/14/2008  01:45 AM            19,968 upgloader.dll.mui
+12/14/2008  01:45 AM             2,560 upgreport.dll.mui
+12/14/2008  01:45 AM             9,216 upgres.dll.mui
+12/14/2008  01:45 AM             2,560 uxlibres.dll.mui
+12/14/2008  01:45 AM           143,672 vofflps.rtf
+12/14/2008  01:45 AM           259,584 w32uires.dll.mui
+12/14/2008  01:45 AM             3,072 wbemcore.dll.mui
+12/14/2008  01:45 AM             7,168 wdsclient.dll.mui
+12/14/2008  01:45 AM             5,632 wdsimage.dll.mui
+12/14/2008  01:45 AM            50,688 winsetup.dll.mui
+12/14/2008  01:45 AM            17,408 wmiutils.dll.mui
+              43 File(s)      1,180,963 bytes
+
+ Directory of F:\sources\etwproviders
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             4,096 actionqueueetw.dll
+12/14/2008  01:45 AM             4,096 auditetw.dll
+12/14/2008  01:45 AM             3,584 cmisetupetw.dll
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM             6,354 etwproviderinstall.vbs
+12/14/2008  01:45 AM             4,096 oobeldretw.dll
+12/14/2008  01:45 AM             5,632 setupcletw.dll
+12/14/2008  01:45 AM             5,120 setupetw.dll
+12/14/2008  01:45 AM             4,096 setupugcetw.dll
+12/14/2008  01:45 AM             4,096 sysprepetw.dll
+12/14/2008  01:45 AM             3,584 windeployetw.dll
+12/14/2008  01:45 AM             6,656 winsetupetw.dll
+              11 File(s)         51,410 bytes
+
+ Directory of F:\sources\etwproviders\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             3,072 actionqueueetw.dll.mui
+12/14/2008  01:45 AM             3,072 auditetw.dll.mui
+12/14/2008  01:45 AM             4,096 cmisetupetw.dll.mui
+12/14/2008  01:45 AM             3,072 oobeldretw.dll.mui
+12/14/2008  01:45 AM             4,608 setupcletw.dll.mui
+12/14/2008  01:45 AM             3,072 setupetw.dll.mui
+12/14/2008  01:45 AM             3,072 setupugcetw.dll.mui
+12/14/2008  01:45 AM             3,072 sysprepetw.dll.mui
+12/14/2008  01:45 AM             3,072 windeployetw.dll.mui
+12/14/2008  01:45 AM            50,688 winsetupetw.dll.mui
+              10 File(s)         80,896 bytes
+
+ Directory of F:\sources\inf
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             1,259 setup.cfg
+               1 File(s)          1,259 bytes
+
+ Directory of F:\sources\license
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          _default
+12/14/2008  01:45 AM    <DIR>          en-us
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\_default
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          _default
+12/14/2008  01:45 AM    <DIR>          eval
+12/14/2008  01:45 AM    <DIR>          oem
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\_default\_default
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM           145,519 lipeula.rtf
+12/14/2008  01:45 AM               868 lpeula.rtf
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               2 File(s)        146,387 bytes
+
+ Directory of F:\sources\license\_default\_default\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\_default\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\_default\eval\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\eval\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\_default\oem\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\_default\oem\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          _default
+12/14/2008  01:45 AM    <DIR>          eval
+12/14/2008  01:45 AM    <DIR>          oem
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\en-us\_default
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM           145,519 lipeula.rtf
+12/14/2008  01:45 AM               868 lpeula.rtf
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               2 File(s)        146,387 bytes
+
+ Directory of F:\sources\license\en-us\_default\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\_default\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\en-us\eval\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\eval\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          business
+12/14/2008  01:45 AM    <DIR>          businessn
+12/14/2008  01:45 AM    <DIR>          enterprise
+12/14/2008  01:45 AM    <DIR>          enterprisen
+12/14/2008  01:45 AM    <DIR>          homebasic
+12/14/2008  01:45 AM    <DIR>          homebasicn
+12/14/2008  01:45 AM    <DIR>          homepremium
+12/14/2008  01:45 AM    <DIR>          homepremiumn
+12/14/2008  01:45 AM    <DIR>          starter
+12/14/2008  01:45 AM    <DIR>          ultimate
+12/14/2008  01:45 AM    <DIR>          ultimaten
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\license\en-us\oem\business
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\businessn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\enterprise
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\enterprisen
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\homebasic
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\homebasicn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\homepremium
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\homepremiumn
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\starter
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\ultimate
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\license\en-us\oem\ultimaten
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,204 license.rtf
+               1 File(s)         31,204 bytes
+
+ Directory of F:\sources\replacementmanifests
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             1,704 activedirectory-webservices-replacement.man
+12/14/2008  01:45 AM             1,133 audiommecore-other-migration-replacement.man
+12/14/2008  01:45 AM             6,328 authui-migration-replacement.man
+12/14/2008  01:45 AM             3,476 dhcpclientdll-repl.man
+12/14/2008  01:45 AM            12,032 dhcpservermigplugin-rep.man
+12/14/2008  01:45 AM            60,187 ehome-reg-inf_repl.man
+12/14/2008  01:45 AM             1,260 eudcedit-replacement.man
+12/14/2008  01:45 AM               830 failovercluster-core-wow64-rm.man
+12/14/2008  01:45 AM             1,029 iis-ftpextensibility-rm.man
+12/14/2008  01:45 AM             1,229 iis-ftpsvc-rm.man
+12/14/2008  01:45 AM             1,037 iis-powershellprovider-rm.man
+12/14/2008  01:45 AM             1,548 iis-sharedlibraries-rm.man
+12/14/2008  01:45 AM             1,003 iis-webdav-rm.man
+12/14/2008  01:45 AM    <DIR>          microsoft-activedirectory-webservices
+12/14/2008  01:45 AM             1,313 microsoft-hyper-v-client-migration-replacement.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-audio-mmecore-other
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-iis-rm
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-ndis
+12/14/2008  01:45 AM               870 microsoft-windows-netfx35cdfcomp-replacement.man
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-power-policy
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-shmig
+12/14/2008  01:45 AM    <DIR>          microsoft-windows-terminalservices-wmiprovider
+12/14/2008  01:45 AM               865 microsoft-windows-wcfcorecomp-replacement.man
+12/14/2008  01:45 AM             1,376 mmsys-migration-replacement.man
+12/14/2008  01:45 AM             2,994 ndis-repl.man
+12/14/2008  01:45 AM             1,277 nfs-admincore-repl.man
+12/14/2008  01:45 AM             1,199 nfs-clientcore-repl.man
+12/14/2008  01:45 AM             1,193 nfs-servercore-repl.man
+12/14/2008  01:45 AM             1,437 powermanagement-powerpolicy-definitions-replacement.man
+12/14/2008  01:45 AM               652 powermanagement-powerpolicy-migration-replacement.man
+12/14/2008  01:45 AM             1,220 printing-localprinting-replacement.man
+12/14/2008  01:45 AM               831 printing-servercore-wow64-rm.man
+12/14/2008  01:45 AM             2,042 propsys-replacement.man
+12/14/2008  01:45 AM             2,250 rasppp-repl.man
+12/14/2008  01:45 AM             4,106 rights-management-client-v1-api-replacement.man
+12/14/2008  01:45 AM               822 servercore-ea-ime-wow64-rm.man
+12/14/2008  01:45 AM               664 servercore-wow64-rm.man
+12/14/2008  01:45 AM             1,122 shmig-replacement.man
+12/14/2008  01:45 AM             1,574 sounds-migration-replacement.man
+12/14/2008  01:45 AM             2,621 srm-datascrndriver-repl.man
+12/14/2008  01:45 AM             2,590 srm-quotadriver-repl.man
+12/14/2008  01:45 AM             4,084 srm-service-repl.man
+12/14/2008  01:45 AM             2,827 srm-service-reports-repl.man
+12/14/2008  01:45 AM             2,410 srm-ui-repl.man
+12/14/2008  01:45 AM             1,416 stickynotes-replacement.man
+12/14/2008  01:45 AM               819 suacore-wow64-rm.man
+12/14/2008  01:45 AM             1,446 sysdm-replacement.man
+12/14/2008  01:45 AM             1,700 sysmain-replacement.man
+12/14/2008  01:45 AM             1,928 tabletpcstickynotes-replacement.man
+12/14/2008  01:45 AM             5,306 tcpip-replacement.man
+12/14/2008  01:45 AM             1,239 terminalservices-rapwebpart-replacement.man
+12/14/2008  01:45 AM             1,126 terminalservices-wmiprovider-replacement.man
+12/14/2008  01:45 AM             5,876 virtualdiskservice-repl.man
+12/14/2008  01:45 AM             4,120 vssservice-repl.man
+12/14/2008  01:45 AM             3,421 vsssystemprovider-replacement.man
+12/14/2008  01:45 AM               850 wcf-http-activation-replacement.man
+12/14/2008  01:45 AM               860 wcf-nonhttp-activation-replacement.man
+              50 File(s)        165,242 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-activedirectory-webservices
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            62,976 adwsmigrate.dll
+               1 File(s)         62,976 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-audio-mmecore-other
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            58,880 audmigplugin.dll
+12/14/2008  01:45 AM           197,120 mmdevapi.dll
+               2 File(s)        256,000 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-iis-rm
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           279,552 iismig.dll
+               1 File(s)        279,552 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-ndis
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           155,136 ndismigplugin.dll
+               1 File(s)        155,136 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-power-policy
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           104,960 powermigplugin.dll
+               1 File(s)        104,960 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-shmig
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            86,528 shmig.dll
+               1 File(s)         86,528 bytes
+
+ Directory of F:\sources\replacementmanifests\microsoft-windows-terminalservices-wmiprovider
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           107,008 tscfgwmispecifiedlses_migplugin.dll
+               1 File(s)        107,008 bytes
+
+ Directory of F:\sources\servicing
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          0.0.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\sources\servicing\0.0.0.1
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM           180,224 xmllite.dll
+               1 File(s)        180,224 bytes
+
+ Directory of F:\sources\servicingstackmisc
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM         1,793,536 apds.dll
+12/14/2008  01:45 AM           223,744 apircl.dll
+12/14/2008  01:45 AM           201,216 apss.dll
+               3 File(s)      2,218,496 bytes
+
+ Directory of F:\support
+
+12/14/2008  01:45 AM    <DIR>          .
+04/19/2009  12:21 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          logging
+12/14/2008  01:45 AM    <DIR>          migwiz
+12/14/2008  01:45 AM    <DIR>          tools
+               0 File(s)              0 bytes
+
+ Directory of F:\support\logging
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             4,096 actionqueueetw.dll
+12/14/2008  01:45 AM             4,096 auditetw.dll
+12/14/2008  01:45 AM             3,584 cmisetupetw.dll
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM             6,354 etwproviderinstall.vbs
+12/14/2008  01:45 AM             5,690 microsoft-windows-actionqueue-instrumentation.man
+12/14/2008  01:45 AM             6,570 microsoft-windows-audit-instrumentation.man
+12/14/2008  01:45 AM             6,231 microsoft-windows-cmisetup-instrumentation.man
+12/14/2008  01:45 AM             7,620 microsoft-windows-oobeldr-instrumentation.man
+12/14/2008  01:45 AM            10,088 microsoft-windows-setup-events.man
+12/14/2008  01:45 AM             8,184 microsoft-windows-setup-instrumentation.man
+12/14/2008  01:45 AM            10,742 microsoft-windows-setupcl-instrumentation.man
+12/14/2008  01:45 AM             6,549 microsoft-windows-setupugc-instrumentation.man
+12/14/2008  01:45 AM             5,988 microsoft-windows-sysprep-instrumentation.man
+12/14/2008  01:45 AM             5,693 microsoft-windows-windeploy-instrumentation.man
+12/14/2008  01:45 AM             4,096 oobeldretw.dll
+12/14/2008  01:45 AM             5,632 setupcletw.dll
+12/14/2008  01:45 AM             5,120 setupetw.dll
+12/14/2008  01:45 AM             4,096 setupugcetw.dll
+12/14/2008  01:45 AM             4,096 sysprepetw.dll
+12/14/2008  01:45 AM             3,584 windeployetw.dll
+12/14/2008  01:45 AM             6,656 winsetupetw.dll
+              21 File(s)        124,765 bytes
+
+ Directory of F:\support\logging\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             3,072 actionqueueetw.dll.mui
+12/14/2008  01:45 AM             3,072 auditetw.dll.mui
+12/14/2008  01:45 AM             4,096 cmisetupetw.dll.mui
+12/14/2008  01:45 AM             3,072 oobeldretw.dll.mui
+12/14/2008  01:45 AM             4,608 setupcletw.dll.mui
+12/14/2008  01:45 AM             3,072 setupetw.dll.mui
+12/14/2008  01:45 AM             3,072 setupugcetw.dll.mui
+12/14/2008  01:45 AM             3,072 sysprepetw.dll.mui
+12/14/2008  01:45 AM             3,072 windeployetw.dll.mui
+12/14/2008  01:45 AM            50,688 winsetupetw.dll.mui
+              10 File(s)         80,896 bytes
+
+ Directory of F:\support\migwiz
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          cable
+12/14/2008  01:45 AM           164,864 cmi2migxml.dll
+12/14/2008  01:45 AM           458,240 csiagent.dll
+12/14/2008  01:45 AM    <DIR>          en-us
+12/14/2008  01:45 AM            35,840 imjpmig.dll
+12/14/2008  01:45 AM            39,936 imkrmig.dll
+12/14/2008  01:45 AM            32,768 imscmig.dll
+12/14/2008  01:45 AM            22,528 imtcmig.dll
+12/14/2008  01:45 AM           201,728 input.dll
+12/14/2008  01:45 AM             1,543 installsvrmig.cmd
+12/14/2008  01:45 AM           868,411 migapp.xml
+12/14/2008  01:45 AM            92,936 migautoplay.exe
+12/14/2008  01:45 AM         5,599,232 migcore.dll
+12/14/2008  01:45 AM               324 migfiles.dat
+12/14/2008  01:45 AM           258,560 mighost.exe
+12/14/2008  01:45 AM           101,376 migisol.dll
+12/14/2008  01:45 AM             7,168 migres.dll
+12/14/2008  01:45 AM           157,448 migsetup.exe
+12/14/2008  01:45 AM           828,928 migstore.dll
+12/14/2008  01:45 AM           282,112 migsys.dll
+12/14/2008  01:45 AM           386,312 migwiz.exe
+12/14/2008  01:45 AM           154,112 msctfmig.dll
+12/14/2008  01:45 AM           224,256 mxeagent.dll
+12/14/2008  01:45 AM           501,760 postmig.exe
+12/14/2008  01:45 AM    <DIR>          postmigres
+12/14/2008  01:45 AM           412,572 segoeui.ttf
+12/14/2008  01:45 AM             1,824 sfcn.dat
+12/14/2008  01:45 AM             1,644 sflcid.dat
+12/14/2008  01:45 AM         3,270,124 sflistlh.dat
+12/14/2008  01:45 AM         2,167,656 sflistw7.dat
+12/14/2008  01:45 AM         1,372,972 sflistxp.dat
+12/14/2008  01:45 AM            20,115 sfpat.inf
+12/14/2008  01:45 AM             7,956 sfpatlh.inf
+12/14/2008  01:45 AM             3,372 sfpatw7.inf
+12/14/2008  01:45 AM             4,202 sfpatxp.inf
+12/14/2008  01:45 AM           440,832 svrmig.dll
+12/14/2008  01:45 AM            54,272 svrmigtest.dll
+12/14/2008  01:45 AM               214 systemfilepaths.dat
+12/14/2008  01:45 AM            31,232 tabletextservicemig.dll
+12/14/2008  01:45 AM           735,744 unbcl.dll
+12/14/2008  01:45 AM           189,952 wdscore.dll
+12/14/2008  01:45 AM         8,431,616 wet.dll
+12/14/2008  01:45 AM                 8 wetversion.txt
+              40 File(s)     27,566,689 bytes
+
+ Directory of F:\support\migwiz\cable
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            10,752 cableinst.exe
+12/14/2008  01:45 AM             4,932 migautoplay.reg
+               2 File(s)         15,684 bytes
+
+ Directory of F:\support\migwiz\en-us
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            24,064 input.dll.mui
+12/14/2008  01:45 AM             2,048 migautoplay.exe.mui
+12/14/2008  01:45 AM             7,168 migres.dll.mui
+12/14/2008  01:45 AM             3,584 migsetup.exe.mui
+12/14/2008  01:45 AM             2,048 migwiz.exe.mui
+12/14/2008  01:45 AM            13,824 postmig.exe.mui
+12/14/2008  01:45 AM             2,560 svrmig.dll.mui
+12/14/2008  01:45 AM            84,992 wet.dll.mui
+               8 File(s)        140,288 bytes
+
+ Directory of F:\support\migwiz\postmigres
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          data
+12/14/2008  01:45 AM    <DIR>          web
+               0 File(s)              0 bytes
+
+ Directory of F:\support\migwiz\postmigres\data
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM               984 hardwarevendors.xml
+               1 File(s)            984 bytes
+
+ Directory of F:\support\migwiz\postmigres\web
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          base_images
+12/14/2008  01:45 AM            19,032 reportapi.js
+               1 File(s)         19,032 bytes
+
+ Directory of F:\support\migwiz\postmigres\web\base_images
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM             1,060 appinstalled.gif
+12/14/2008  01:45 AM             1,139 clickdownexpanded.gif
+12/14/2008  01:45 AM             1,139 clickdownnormal.gif
+12/14/2008  01:45 AM            18,630 column.bmp
+12/14/2008  01:45 AM             1,154 documents.gif
+12/14/2008  01:45 AM             1,895 failure.gif
+12/14/2008  01:45 AM             2,342 programs.gif
+12/14/2008  01:45 AM             1,907 system.gif
+12/14/2008  01:45 AM             2,131 users.gif
+12/14/2008  01:45 AM             4,150 windowsmail.bmp
+12/14/2008  01:45 AM             4,150 windowsmoviemaker.bmp
+12/14/2008  01:45 AM             4,150 windowsoutlookexpress.bmp
+12/14/2008  01:45 AM             4,150 windowsphotogallery.bmp
+              13 File(s)         47,997 bytes
+
+ Directory of F:\support\tools
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM            31,744 gbunicnv.exe
+               1 File(s)         31,744 bytes
+
+ Directory of F:\upgrade
+
+12/14/2008  01:45 AM    <DIR>          .
+04/19/2009  12:21 AM    <DIR>          ..
+12/14/2008  01:45 AM    <DIR>          netfx
+               0 File(s)              0 bytes
+
+ Directory of F:\upgrade\netfx
+
+12/14/2008  01:45 AM    <DIR>          .
+12/14/2008  01:45 AM    <DIR>          ..
+12/14/2008  01:45 AM         5,922,304 netfx.msi
+12/14/2008  01:45 AM        19,210,240 netfx.msp
+12/14/2008  01:45 AM        16,901,553 netfx1.cab
+12/14/2008  01:45 AM            73,728 netfxupdate.exe
+               4 File(s)     42,107,825 bytes
+
+     Total Files Listed:
+             793 File(s)  2,637,074,675 bytes
+             453 Dir(s)               0 bytes free

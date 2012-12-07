@@ -1,0 +1,312 @@
+ Volume in drive F is SERVER_TRAINING
+ Volume Serial Number is B962-B5FC
+
+ Directory of F:\
+
+02/08/2008  06:09 PM    <DIR>          LEARNING_AJAX
+02/08/2008  06:16 PM    <DIR>          LEARNING_REDHAT_LINUX
+02/08/2008  11:21 AM    <DIR>          Nmap_Secrets_Training
+02/08/2008  11:28 AM    <DIR>          Server2003
+02/04/2008  01:03 PM       131,735,107 Server2003.zip
+02/10/2008  11:40 AM    <DIR>          TOOLS
+               1 File(s)    131,735,107 bytes
+
+ Directory of F:\LEARNING_AJAX
+
+02/08/2008  06:09 PM    <DIR>          .
+02/10/2008  11:39 AM    <DIR>          ..
+02/04/2008  01:56 PM                40 Default.PLS
+05/06/2007  08:28 PM             2,854 HDI-01-Get_Started_with_ASPNET_AJAX-CS.zip
+05/06/2007  10:18 PM        15,832,301 HDI-01-Get_Started_with_ASPNET_AJAX.zip
+05/06/2007  08:43 PM           388,040 HDI-02-GetStarted-AJAX-Toolkit-CS.zip
+05/06/2007  10:25 PM        26,965,500 HDI-02-GetStarted-AJAX-Toolkit.zip
+05/06/2007  10:18 PM           250,075 HDI-ACT-Accordion-CS.zip
+05/06/2007  10:18 PM        18,990,792 HDI-ACT-Accordion.zip
+05/06/2007  02:23 PM           252,490 HDI-ACT-AlwaysVisible-CS.zip
+05/06/2007  10:16 PM        12,714,268 HDI-ACT-AlwaysVisible.zip
+05/06/2007  06:15 PM           281,291 HDI-ACT-CollapsePanel-CS.zip
+05/06/2007  10:20 PM        22,767,259 HDI-ACT-CollapsePanel.zip
+05/06/2007  07:44 PM           248,082 HDI-ACT-DragPanel-CS.zip
+05/06/2007  09:12 PM        12,798,058 HDI-ACT-DragPanel.zip
+05/06/2007  05:05 PM           247,103 HDI-ACT-DropShadow-CS.zip
+05/06/2007  10:06 PM         5,795,609 HDI-ACT-DropShadow.zip
+05/06/2007  04:57 PM           248,696 HDI-ACT-DynamicPopulate-CS.zip
+05/06/2007  10:12 PM        23,022,515 HDI-ACT-DynamicPopulate.zip
+05/06/2007  05:13 PM           247,324 HDI-ACT-FilteredTextBox-CS.zip
+05/06/2007  10:22 PM        11,127,507 HDI-ACT-FilteredTextBox.zip
+05/06/2007  06:03 PM           248,522 HDI-ACT-HoverMenu-CS.zip
+05/06/2007  10:18 PM        15,792,965 HDI-ACT-HoverMenu.zip
+05/06/2007  03:17 PM           248,176 HDI-ACT-ModalPopup-CS.zip
+05/06/2007  10:11 PM        20,842,765 HDI-ACT-ModalPopup.zip
+05/06/2007  06:12 PM           247,885 HDI-ACT-PopupCtrlExt-CS.zip
+05/06/2007  10:27 PM        17,664,155 HDI-ACT-PopupCtrlExt.zip
+05/06/2007  02:48 PM           247,160 HDI-ACT-RoundedCorners-CS.zip
+05/06/2007  09:47 PM         4,325,779 HDI-ACT-RoundedCorners.zip
+05/06/2007  04:18 PM           249,110 HDI-ACT-ScriptManagerProxy-CS.zip
+05/06/2007  09:50 PM        17,864,923 HDI-ACT-ScriptManagerProxy.zip
+05/06/2007  02:51 PM           247,498 HDI-ACT-TextBoxWatermark-CS.zip
+05/06/2007  10:19 PM        12,203,141 HDI-ACT-TextBoxWatermark.zip
+05/06/2007  04:57 PM           249,809 HDI-ACT-ToggleButton-CS.zip
+05/06/2007  10:03 PM        16,143,131 HDI-ACT-ToggleButton.zip
+05/06/2007  09:38 PM             2,936 HDI-AJAX-AddAjax-CS.zip
+05/06/2007  09:38 PM        15,043,777 HDI-AJAX-AddAjax.zip
+05/06/2007  05:39 PM           249,935 HDI-AJAX-CascadingDropDown-CS.zip
+05/06/2007  10:23 PM        56,628,671 HDI-AJAX-CascadingDropDown.zip
+05/06/2007  03:26 PM           247,446 HDI-AJAX-ClientControls-CS.zip
+05/06/2007  10:23 PM        21,199,715 HDI-AJAX-ClientControls.zip
+05/06/2007  03:41 PM             3,637 HDI-AJAX-NetworkCalls-CS.zip
+05/06/2007  10:27 PM        31,756,939 HDI-AJAX-NetworkCalls.zip
+05/06/2007  04:29 PM           248,238 HDI-AJAX-P-IncremantalPageFetch-AWS-CS.zip
+05/06/2007  10:13 PM        24,226,458 HDI-AJAX-P-IncremantalPageFetch-AWS.zip
+05/06/2007  08:09 PM           250,051 HDI-AJAX-P-IncremantalPageFetch-GP-CS.zip
+05/06/2007  10:27 PM        40,230,962 HDI-AJAX-P-IncremantalPageFetch-GP.zip
+05/06/2007  09:21 PM           250,114 HDI-AJAX-P-Paging-CS.zip
+05/06/2007  10:18 PM        54,914,809 HDI-AJAX-P-Paging.zip
+05/06/2007  02:57 PM           306,798 HDI-AJAX-P-PredictiveFetch-CS.zip
+05/06/2007  10:19 PM        50,850,155 HDI-AJAX-P-PredictiveFetch.zip
+05/06/2007  06:17 PM             2,787 HDI-AJAX-PartialPageUpdate-CS.zip
+05/06/2007  10:09 PM        24,390,310 HDI-AJAX-PartialPageUpdate.zip
+05/06/2007  05:45 PM           247,531 HDI-AJAX-PasswordStrenght-CS.zip
+05/06/2007  10:24 PM        30,252,783 HDI-AJAX-PasswordStrenght.zip
+05/06/2007  10:25 PM           250,178 HDI-AJAX-TK-Amination-CS.zip
+05/06/2007  10:25 PM        40,720,838 HDI-AJAX-TK-Amination.zip
+05/06/2007  04:12 PM           254,312 HDI-AJAX-TK-AutoComplete-CS.zip
+05/06/2007  09:59 PM        14,674,242 HDI-AJAX-TK-AutoComplete.zip
+05/06/2007  09:59 PM           248,525 HDI-AJAX-TK-Calendar-CS.zip
+05/06/2007  10:20 PM        18,325,488 HDI-AJAX-TK-Calendar.zip
+05/06/2007  04:00 PM           387,911 HDI-AJAX-TK-ConfirmButton-CS.zip
+05/06/2007  09:58 PM         7,275,650 HDI-AJAX-TK-ConfirmButton.zip
+05/06/2007  09:58 PM           250,953 HDI-AJAX-TK-DropDown-CS.zip
+05/06/2007  10:15 PM        24,107,486 HDI-AJAX-TK-DropDown.zip
+05/06/2007  08:32 PM           261,097 HDI-AJAX-TK-MaskedEdit-CS.zip
+05/06/2007  10:26 PM        36,027,313 HDI-AJAX-TK-MaskedEdit.zip
+05/06/2007  07:08 PM           260,888 HDI-AJAX-TK-MutuallyExclusive-CS.zip
+05/06/2007  10:06 PM        22,038,554 HDI-AJAX-TK-MutuallyExclusive.zip
+05/06/2007  07:11 PM           247,405 HDI-AJAX-TK-Slider-CS.zip
+05/06/2007  10:12 PM        21,269,302 HDI-AJAX-TK-Slider.zip
+05/06/2007  10:16 PM           261,467 HDI-AJAX-Timer-CS.zip
+05/06/2007  10:25 PM        12,892,600 HDI-AJAX-Timer.zip
+05/06/2007  05:55 PM           256,372 HDI-AJAX-UpdateProgress-CS.zip
+05/06/2007  09:37 PM        12,605,865 HDI-AJAX-UpdateProgress.zip
+05/06/2007  05:57 PM             3,168 HDI-AJAX-WSAddAjax-CS.zip
+05/06/2007  10:24 PM        47,870,862 HDI-AJAX-WSAddAjax.zip
+05/06/2007  10:24 PM           653,534 MSAJAX-ToDoList-CS.zip
+05/06/2007  10:24 PM        40,914,925 MSAJAX-ToDoList-Video.zip
+              77 File(s)    912,117,810 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX
+
+02/08/2008  06:16 PM    <DIR>          .
+02/10/2008  11:39 AM    <DIR>          ..
+02/08/2008  06:14 PM    <DIR>          Client Admin
+02/08/2008  06:14 PM    <DIR>          Client Installs
+02/08/2008  06:14 PM    <DIR>          Desktop
+02/08/2008  06:15 PM    <DIR>          Linux Basics
+02/08/2008  06:15 PM    <DIR>          Messaging
+02/08/2008  06:15 PM    <DIR>          Network Admin
+02/08/2008  06:15 PM    <DIR>          Security
+02/08/2008  06:16 PM    <DIR>          Server Installs
+02/09/2008  01:38 PM    <DIR>          System Management
+02/08/2008  06:16 PM    <DIR>          Web services
+10/03/2007  11:35 AM             1,288 redhat.txt
+               1 File(s)          1,288 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Client Admin
+
+02/08/2008  06:14 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:01 PM       100,000,000 C_D4_Clie__nt_Adm_in.part1.rar
+10/03/2007  12:02 PM       100,000,000 C_D4_Clie__nt_Adm_in.part2.rar
+10/03/2007  11:59 AM        72,968,237 C_D4_Clie__nt_Adm_in.part3.rar
+               3 File(s)    272,968,237 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Client Installs
+
+02/08/2008  06:14 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  11:36 AM       100,000,000 C_D2_C_l_ient__In_st__alls.part1.rar
+10/03/2007  11:39 AM       100,000,000 C_D2_C_l_ient__In_st__alls.part2.rar
+10/03/2007  11:39 AM       100,000,000 C_D2_C_l_ient__In_st__alls.part3.rar
+10/03/2007  11:39 AM       100,000,000 C_D2_C_l_ient__In_st__alls.part4.rar
+10/03/2007  11:36 AM        51,220,486 C_D2_C_l_ient__In_st__alls.part5.rar
+               5 File(s)    451,220,486 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Desktop
+
+02/08/2008  06:14 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  11:40 AM       100,000,000 C_D3_D_es__kt_op.part1.rar
+10/03/2007  11:40 AM       100,000,000 C_D3_D_es__kt_op.part2.rar
+10/03/2007  11:40 AM       100,000,000 C_D3_D_es__kt_op.part3.rar
+10/03/2007  11:36 AM        35,168,651 C_D3_D_es__kt_op.part4.rar
+               4 File(s)    335,168,651 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Linux Basics
+
+02/08/2008  06:15 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/02/2007  05:06 PM       100,000,000 C_D1_L_in__ux_Ba__si_cs.part1.rar
+10/02/2007  05:06 PM        59,051,213 C_D1_L_in__ux_Ba__si_cs.part2.rar
+               2 File(s)    159,051,213 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Messaging
+
+02/08/2008  06:15 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:17 PM       100,000,000 C_D9_Mes__sagi_ng.part1.rar
+10/03/2007  12:15 PM        24,139,173 C_D9_Mes__sagi_ng.part2.rar
+               2 File(s)    124,139,173 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Network Admin
+
+02/08/2008  06:15 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:12 PM       100,000,000 C_D7_Ne__two_rk_A_dm__in.part1.rar
+10/03/2007  12:12 PM       100,000,000 C_D7_Ne__two_rk_A_dm__in.part2.rar
+10/03/2007  12:09 PM        60,509,064 C_D7_Ne__two_rk_A_dm__in.part3.rar
+               3 File(s)    260,509,064 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Security
+
+02/08/2008  06:15 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:19 PM       100,000,000 C_D10_Se__cur_ity.part1.rar
+10/03/2007  12:19 PM       100,000,000 C_D10_Se__cur_ity.part2.rar
+10/03/2007  12:19 PM       100,000,000 C_D10_Se__cur_ity.part3.rar
+10/03/2007  12:16 PM        25,885,972 C_D10_Se__cur_ity.part4.rar
+               4 File(s)    325,885,972 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Server Installs
+
+02/08/2008  06:16 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:04 PM       100,000,000 C_D5_Se__rv_er_I_nst__alls.part1.rar
+10/03/2007  12:04 PM       100,000,000 C_D5_Se__rv_er_I_nst__alls.part2.rar
+10/03/2007  12:04 PM       100,000,000 C_D5_Se__rv_er_I_nst__alls.part3.rar
+10/03/2007  12:02 PM        40,238,488 C_D5_Se__rv_er_I_nst__alls.part4.rar
+               4 File(s)    340,238,488 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\System Management
+
+02/09/2008  01:38 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:12 PM       100,000,000 C_D6_Sy__stem_M_an__agem_ent.part1.rar
+10/03/2007  12:08 PM        67,146,978 C_D6_Sy__stem_M_an__agem_ent.part2.rar
+               2 File(s)    167,146,978 bytes
+
+ Directory of F:\LEARNING_REDHAT_LINUX\Web services
+
+02/08/2008  06:16 PM    <DIR>          .
+02/08/2008  06:16 PM    <DIR>          ..
+10/03/2007  12:13 PM       100,000,000 C_D8_W_eb_Se__rvi_ces.part1.rar
+10/03/2007  12:13 PM       100,000,000 C_D8_W_eb_Se__rvi_ces.part2.rar
+10/03/2007  12:12 PM        70,242,943 C_D8_W_eb_Se__rvi_ces.part3.rar
+               3 File(s)    270,242,943 bytes
+
+ Directory of F:\Nmap_Secrets_Training
+
+02/08/2008  11:21 AM    <DIR>          .
+02/10/2008  11:39 AM    <DIR>          ..
+05/28/2007  09:03 AM       657,614,848 Nmap Secrets Training.iso
+               1 File(s)    657,614,848 bytes
+
+ Directory of F:\Server2003
+
+02/08/2008  11:28 AM    <DIR>          .
+02/10/2008  11:39 AM    <DIR>          ..
+02/09/2008  01:05 PM    <DIR>          MCSAMCSE_WS_3003_NS
+02/08/2008  11:27 AM    <DIR>          Mastering_Microsoft_Windows_Server_2003
+02/08/2008  11:28 AM    <DIR>          RHCE_Red_Hat_Certified_Engineer_Linux_Study_Guide__Exam_RH302___Certification_Press_
+               0 File(s)              0 bytes
+
+ Directory of F:\Server2003\MCSAMCSE_WS_3003_NS
+
+02/09/2008  01:05 PM    <DIR>          .
+02/08/2008  11:28 AM    <DIR>          ..
+11/08/2004  12:00 AM         4,778,524 Clickme.exe
+02/08/2008  11:28 AM    <DIR>          LabManual
+11/08/2004  12:00 AM             5,766 ReadMe.html
+02/08/2008  11:28 AM    <DIR>          Windows Server 2003 Network Simulator
+10/21/2004  12:00 AM                43 autorun.inf
+07/15/2002  12:00 AM             1,078 sybex.ico
+               4 File(s)      4,785,411 bytes
+
+ Directory of F:\Server2003\MCSAMCSE_WS_3003_NS\LabManual
+
+02/08/2008  11:28 AM    <DIR>          .
+02/09/2008  01:05 PM    <DIR>          ..
+11/16/2004  12:00 AM         4,620,713 Simulator_LabManual.pdf
+               1 File(s)      4,620,713 bytes
+
+ Directory of F:\Server2003\MCSAMCSE_WS_3003_NS\Windows Server 2003 Network Simulator
+
+02/08/2008  11:28 AM    <DIR>          .
+02/09/2008  01:05 PM    <DIR>          ..
+03/13/2004  12:00 AM             5,495 0x0409.ini
+10/08/2004  12:00 AM                27 Autorun.inf
+10/08/2004  12:00 AM        91,389,228 Data1.cab
+10/08/2004  12:00 AM             1,988 Setup.ini
+10/08/2004  12:00 AM           314,860 Windows Server 2003 Network Simulator.msi
+03/11/2002  12:00 AM         1,708,856 instmsia.exe
+03/11/2002  12:00 AM         1,822,520 instmsiw.exe
+10/08/2004  12:00 AM           253,952 setup.exe
+               8 File(s)     95,496,926 bytes
+
+ Directory of F:\Server2003\Mastering_Microsoft_Windows_Server_2003
+
+02/08/2008  11:27 AM    <DIR>          .
+02/08/2008  11:28 AM    <DIR>          ..
+06/27/2005  12:00 AM        25,000,190 Mastering_Microsoft_Windows_Server_2003.pdf
+               1 File(s)     25,000,190 bytes
+
+ Directory of F:\Server2003\RHCE_Red_Hat_Certified_Engineer_Linux_Study_Guide__Exam_RH302___Certification_Press_
+
+02/08/2008  11:28 AM    <DIR>          .
+02/08/2008  11:28 AM    <DIR>          ..
+10/10/2007  04:43 AM             2,068 INFO.txt
+02/08/2008  11:28 AM    <DIR>          RHCE Red Hat Certified Engineer Linux Study Guide (Exam RH302) (Certification Press)
+10/10/2007  04:42 AM            19,451 RHCE-Red-Hat-Certified-Engineer-Linux-Study-Guide-Exam-RH302-Certification-Press.jpg
+10/10/2007  04:42 AM        10,905,636 rhce-red-hat-certified-engineer-linux-study-guide-exam-rh302-certification-press.9780072264548.28.chm
+               3 File(s)     10,927,155 bytes
+
+ Directory of F:\Server2003\RHCE_Red_Hat_Certified_Engineer_Linux_Study_Guide__Exam_RH302___Certification_Press_\RHCE Red Hat Certified Engineer Linux Study Guide (Exam RH302) (Certification Press)
+
+02/08/2008  11:28 AM    <DIR>          .
+02/08/2008  11:28 AM    <DIR>          ..
+10/10/2007  04:43 AM             2,068 INFO.txt
+               1 File(s)          2,068 bytes
+
+ Directory of F:\TOOLS
+
+02/10/2008  11:40 AM    <DIR>          .
+02/10/2008  11:39 AM    <DIR>          ..
+06/04/2000  11:56 PM             7,406 3.ico
+02/03/2008  12:05 AM         2,256,960 FLVPlayerSetup.exe
+01/28/2008  09:21 PM           100,256 FOXX_BLACKID!_16x16.theme.rar
+02/03/2008  12:15 AM         2,243,840 FoxitReader22_setup.exe
+11/07/2007  12:58 AM           113,248 GnomeRAR_48x48.theme.rar
+02/02/2008  11:57 PM           633,399 SWFOpenerSetup.exe
+02/02/2008  11:59 PM           604,103 SwiffPlayer11.exe
+11/23/2007  11:35 PM         3,438,174 UltraISO.Premium.Edition.v8.6.5.2140.Multilingual.Incl.Keymaker-CORE.rar
+01/30/2008  12:44 AM    <DIR>          WINRAR
+01/30/2008  12:32 AM           242,009 WinRAR_BLACKBOX2_32x32.theme.rar
+01/29/2008  06:33 AM           109,565 WinRAR_BLACKBOX_32x32.theme.rar
+01/30/2008  12:40 AM           133,121 WinRAR_BLACKBOX_48x48.theme.rar
+11/07/2007  12:57 AM           182,459 WinRAR_Gant!_16x16.theme.rar
+11/07/2007  12:57 AM           203,305 WinRAR_Gant!_32x32.theme.rar
+11/07/2007  12:58 AM           183,130 WinRAR_LastOrder_48x48.theme.rar
+11/07/2007  12:57 AM            49,210 WinRAR_Orbital_32x32.theme.rar
+02/10/2008  11:22 AM                35 autorun.inf
+              16 File(s)     10,500,220 bytes
+
+ Directory of F:\TOOLS\WINRAR
+
+01/30/2008  12:44 AM    <DIR>          .
+02/10/2008  11:40 AM    <DIR>          ..
+02/06/2008  09:48 AM           131,584 patch.exe
+02/02/2002  02:02 PM         1,205,834 setup.exe
+               2 File(s)      1,337,418 bytes
+
+     Total Files Listed:
+             148 File(s)  4,560,710,359 bytes
+              66 Dir(s)               0 bytes free

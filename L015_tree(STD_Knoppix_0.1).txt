@@ -1,0 +1,45 @@
+Folder PATH listing for volume PHLAK LiveCD
+Volume serial number is BFAE-FDDF
+F:\
+|   GUIDELINES
+|   LEGAL
+|   README.cdrom
+|   README.tools
+|   autorun.bat
+|   autorun.inf
+|   cdrom.ico
+|   index.html
+|   md5sums.txt
+|   tools.htm
+|   
++---base
+|       boot.cat
+|       phlak
+|       
++---boot
+|   |   miniroot.gz
+|   |   vmlinuz
+|   |   
+|   \---grub
+|           iso9660_stage1_5
+|           lang.lst
+|           menu.lst
+|           message
+|           options.lst
+|           stage2
+|           
++---copy
++---deb
++---exec
++---images
+|       Thumbs.db
+|       background.png
+|       border.gif
+|       header.gif
+|       
++---mainmod
+|       phlak.mod
+|       
+\---minimod
+        home.mod
+        

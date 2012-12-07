@@ -1,0 +1,220 @@
+Folder PATH listing for volume OpenSolaris
+Volume serial number is 88E3-0414
+T:\
+|   .catalog
+|   .image_info
+|   .livecd-cdrom-content
+|   bin
+|   reconfigure
+|   solaris.zlib
+|   solarismisc.zlib
+|   
++---.cdrom
++---boot
+|   |   solaris.xpm
+|   |   x86.microroot
+|   |   
+|   +---acpi
+|   |   \---tables
+|   +---amd64
+|   |       x86.microroot
+|   |       
+|   +---grub
+|   |   |   capability
+|   |   |   default
+|   |   |   e2fs_stage1_5
+|   |   |   fat_stage1_5
+|   |   |   ffs_stage1_5
+|   |   |   install_menu
+|   |   |   iso9660_stage1_5
+|   |   |   jfs_stage1_5
+|   |   |   menu.lst
+|   |   |   minix_stage1_5
+|   |   |   nbgrub
+|   |   |   pxegrub
+|   |   |   reiserfs_stage1_5
+|   |   |   splash.xpm.gz
+|   |   |   stage1
+|   |   |   stage2
+|   |   |   stage2_eltorito
+|   |   |   ufs2_stage1_5
+|   |   |   ufs_stage1_5
+|   |   |   vstafs_stage1_5
+|   |   |   xfs_stage1_5
+|   |   |   zfs_stage1_5
+|   |   |   
+|   |   \---bin
+|   |           grub
+|   |           
+|   \---solaris
+|       |   bootenv.rc
+|       |   filelist.ramdisk
+|       |   filelist.safe
+|       |   
+|       +---bin
+|       |       create_diskmap
+|       |       create_ramdisk
+|       |       extract_boot_filelist
+|       |       mbr
+|       |       root_archive
+|       |       symdef
+|       |       update_grub
+|       |       
+|       \---devicedb
+|               master
+|               
++---dev
+|   |   dld
+|   |   nvidia0
+|   |   nvidia1
+|   |   nvidia10
+|   |   nvidia11
+|   |   nvidia12
+|   |   nvidia13
+|   |   nvidia14
+|   |   nvidia15
+|   |   nvidia2
+|   |   nvidia3
+|   |   nvidia4
+|   |   nvidia5
+|   |   nvidia6
+|   |   nvidia7
+|   |   nvidia8
+|   |   nvidia9
+|   |   nvidiactl
+|   |   stderr
+|   |   stdin
+|   |   stdout
+|   |   
+|   +---dsk
+|   +---fd
+|   +---ipnet
+|   +---net
+|   +---pts
+|   +---rdsk
+|   +---rmt
+|   +---sad
+|   +---swap
+|   +---term
+|   +---vt
+|   \---zcons
++---devices
+|   \---pseudo
++---jack
+|   |   .Xclients
+|   |   .bashrc
+|   |   .profile
+|   |   .xscreensaver
+|   |   install-icon.png
+|   |   xorg.conf.vesa
+|   |   
+|   +---.config
+|   |   \---autostart
+|   |           iotrace.desktop
+|   |           
+|   +---Desktop
+|   |       .os-icons-installed
+|   |       ddu.desktop
+|   |       getting_started.desktop
+|   |       install_opensolaris.desktop
+|   |       
+|   \---Documents
++---mnt
+|   \---misc
++---platform
+|   +---i86hvm
+|   |   \---kernel
+|   |       +---drv
+|   |       |   \---amd64
+|   |       \---misc
+|   |           \---amd64
+|   +---i86pc
+|   |   +---amd64
+|   |   +---kernel
+|   |   |   |   unix
+|   |   |   |   
+|   |   |   +---amd64
+|   |   |   |       unix
+|   |   |   |       
+|   |   |   +---cpu
+|   |   |   |   \---amd64
+|   |   |   +---dacf
+|   |   |   |   \---amd64
+|   |   |   +---drv
+|   |   |   |   \---amd64
+|   |   |   +---kmdb
+|   |   |   |   |   unix
+|   |   |   |   |   
+|   |   |   |   \---amd64
+|   |   |   |           unix
+|   |   |   |           
+|   |   |   +---mach
+|   |   |   |   \---amd64
+|   |   |   +---misc
+|   |   |   |   \---amd64
+|   |   |   \---sys
+|   |   |       \---amd64
+|   |   \---ucode
+|   \---i86xpv
+|       \---kernel
+|           |   unix
+|           |   
+|           +---amd64
+|           |       unix
+|           |       
+|           +---cpu
+|           |   \---amd64
+|           +---dacf
+|           |   \---amd64
+|           +---drv
+|           |   \---amd64
+|           +---kmdb
+|           |   |   unix
+|           |   |   
+|           |   \---amd64
+|           |           unix
+|           |           
+|           +---mach
+|           |   \---amd64
+|           +---misc
+|           |   \---amd64
+|           \---tod
+|               \---amd64
++---proc
++---root
+|       .bashrc
+|       .profile
+|       
++---save
+|   +---etc
+|   |   |   system
+|   |   |   
+|   |   +---X11
+|   |   |   \---gdm
+|   |   |           custom.conf
+|   |   |           
+|   |   +---gconf
+|   |   |   \---schemas
+|   |   |           panel-default-setup.entries
+|   |   |           
+|   |   \---xdg
+|   |       \---autostart
+|   |               updatemanagernotifier.desktop
+|   |               
+|   \---usr
+|       \---share
+|           +---dbus-1
+|           |   \---services
+|           |           gnome-power-manager.service
+|           |           
+|           \---gnome
+|               \---autostart
+|                       gnome-keyring-daemon-wr.desktop
+|                       gnome-power-manager.desktop
+|                       
++---system
+|   +---contract
+|   \---object
+\---tmp
+        AdDrEm.lck
+        

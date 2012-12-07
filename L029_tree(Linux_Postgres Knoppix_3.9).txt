@@ -1,0 +1,57 @@
+Folder PATH listing for volume Buku PgSQL
+Volume serial number is 0175-0B04
+G:\
+|   autorun.bat
+|   autorun.inf
+|   autorun.pif
+|   cdrom.ico
+|   index.html
+|   
++---KNOPPIX
+|   |   KNOPPIX
+|   |   KNOPPIX-FAQ-EN.txt
+|   |   KNOPPIX-FAQ-ES.txt
+|   |   KNOPPIX-FAQ-FR.txt
+|   |   KNOPPIX-FAQ-IT.txt
+|   |   KNOPPIX-FAQ-NL.txt
+|   |   KNOPPIX-FAQ.txt
+|   |   LICENSE.txt
+|   |   MkImage-ct.exe
+|   |   README_Security.txt
+|   |   background.jpg
+|   |   index.html
+|   |   index_dk.html
+|   |   index_en.html
+|   |   index_es.html
+|   |   index_fr.html
+|   |   index_it.html
+|   |   index_jp.html
+|   |   index_nl.html
+|   |   index_ru.html
+|   |   knoppix-cheatcodes.txt
+|   |   knoppix-version
+|   |   md5sums
+|   |   mkimg-de.exe
+|   |   mkimg-src.zip
+|   |   
+|   \---images
+|           knoppix-24-1.jpg
+|           knoppix-header.gif
+|           
++---boot
+|   \---isolinux
+|           boot.cat
+|           boot.msg
+|           f2
+|           f3
+|           german.kbd
+|           isolinux.bin
+|           isolinux.cfg
+|           linux
+|           logo.16
+|           memtest
+|           minirt.gz
+|           
+\---doc
+        remaster_3.9_2005-05-27.tgz
+        

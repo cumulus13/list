@@ -1,0 +1,31 @@
+ Volume in drive J is D008
+ Volume Serial Number is 868A-39B6
+
+ Directory of J:\
+
+03/15/2010  01:21 PM    <DIR>          Drivers_pack
+               0 File(s)              0 bytes
+
+ Directory of J:\Drivers_pack
+
+03/15/2010  01:21 PM    <DIR>          .
+03/15/2010  01:28 PM    <DIR>          ..
+05/13/2009  10:04 PM    <DIR>          Drivers_pack
+               0 File(s)              0 bytes
+
+ Directory of J:\Drivers_pack\Drivers_pack
+
+05/13/2009  10:04 PM    <DIR>          .
+03/15/2010  01:21 PM    <DIR>          ..
+05/03/2009  06:58 PM         2,141,926 DP_Chipset.exe
+05/03/2009  06:58 PM       278,812,654 DP_Graphics.exe
+05/03/2009  06:57 PM         9,404,124 DP_LAN.exe
+05/03/2009  06:57 PM         6,959,392 DP_MassStorage.exe
+05/03/2009  06:57 PM        30,629,998 DP_Modem.exe
+05/03/2009  06:58 PM       141,256,304 DP_Sound.exe
+05/03/2009  06:58 PM        32,274,102 DP_WLAN.exe
+               7 File(s)    501,478,500 bytes
+
+     Total Files Listed:
+               7 File(s)    501,478,500 bytes
+               6 Dir(s)               0 bytes free

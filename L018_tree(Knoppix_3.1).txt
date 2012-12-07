@@ -1,0 +1,41 @@
+Folder PATH listing for volume KNOPPIX
+Volume serial number is CEDE-CBD3
+G:\
+|   autorun.bat
+|   autorun.inf
+|   index.html
+|   knoppix.ico
+|   
++---Demos
+|   \---Audio
+|           README.txt
+|           green_openmusic_license.txt
+|           inside.ogg
+|           opensource.ogg
+|           penguinplanet.ogg
+|           
++---KNOPPIX
+|       KNOPPIX
+|       KNOPPIX-FAQ-EN.txt
+|       KNOPPIX-FAQ.txt
+|       README_Security.txt
+|       background.gif
+|       boot-de.img
+|       boot-en.img
+|       boot.cat
+|       boot.img
+|       index.html
+|       index_en.html
+|       knoppix-cheatcodes.txt
+|       knoppix-header.gif
+|       mkfloppy.bat
+|       rawrite2-readme.txt
+|       rawrite2.exe
+|       web-background.gif
+|       
+\---Talks
+        freesoftware-paper.pdf
+        freesoftware-screen.pdf
+        knoppix-vortrag-10-2002-paper.pdf
+        knoppix-vortrag-10-2002-screen.pdf
+        

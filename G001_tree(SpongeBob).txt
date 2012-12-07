@@ -1,0 +1,68 @@
+Folder PATH listing for volume SBSP3
+Volume serial number is 9189-CFF7
+G:\
+|   Autorun.exe
+|   SB SP BBB PC MAN.pdf
+|   Setup.bmp
+|   autorun.inf
+|   data1.cab
+|   data1.hdr
+|   data2.cab
+|   engine32.cab
+|   layout.bin
+|   sb3.ico
+|   setup.boot
+|   setup.exe
+|   setup.ini
+|   setup.inx
+|   setup.skin
+|   
++---Autorun
+|       AUTORUN.DAT
+|       ready.wav
+|       switch.wav
+|       
++---Demos
+|       FAIRLYODDPARENTSDEMO.exe
+|       JIMMY2DEMO.exe
+|       RUGRATSGOWILDDEMO.exe
+|       SB2DEMO.exe
+|       SBVIDEOS.exe
+|       
++---DirectX9
+|       BDA.cab
+|       BDANT.cab
+|       BDAXP.cab
+|       DSETUP.dll
+|       DirectX.cab
+|       ManagedDX.CAB
+|       dsetup32.dll
+|       dxnt.cab
+|       dxsetup.exe
+|       
+\---Movies
+        fail01.bik
+        fail02.bik
+        fail03.bik
+        fail04.bik
+        fail05.bik
+        fail06.bik
+        fail07.bik
+        fail08.bik
+        fail09.bik
+        fail10.bik
+        fail11.bik
+        fail12.bik
+        fail13.bik
+        fail14.bik
+        fail15.bik
+        final.bik
+        mAWE.bik
+        mCREDITS.bik
+        mEND.bik
+        mINTRO.bik
+        mLEGAL.bik
+        mNICK.bik
+        mSPONGEBOB.bik
+        mTHQ.bik
+        

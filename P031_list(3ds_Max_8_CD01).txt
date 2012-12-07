@@ -1,0 +1,365 @@
+ Volume in drive T is Autodesk_3ds_max
+ Volume Serial Number is E6E5-DD81
+
+ Directory of T:\
+
+08/05/2005  05:22 PM           717,252 3dsMax8_Readme1.pdf
+09/14/2005  09:12 AM           292,793 3dsMax8_Readme2.pdf
+10/11/2005  01:53 PM    <DIR>          Autodesk_3ds_Max_8
+10/12/2005  10:48 AM    <DIR>          Autodesk_3ds_Max_8_Architectural_Materials
+10/12/2005  10:48 AM    <DIR>          Autodesk_3ds_Max_8_Maps_and_Materials
+10/12/2005  10:48 AM    <DIR>          Autodesk_3ds_Max_8_Reference
+10/12/2005  02:24 PM    <DIR>          Crack
+10/12/2005  02:56 PM                72 autorun.inf
+10/05/2004  01:21 AM            17,574 maxicon.ico
+               4 File(s)      1,027,691 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8
+
+10/11/2005  01:53 PM    <DIR>          .
+10/12/2005  02:57 PM    <DIR>          ..
+10/11/2005  01:53 PM    <DIR>          3dsMax8
+               0 File(s)              0 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+09/21/2005  06:05 PM       108,912,640 3dsMax8.msi
+10/11/2005  01:53 PM    <DIR>          DWFViewer
+10/11/2005  01:53 PM    <DIR>          DirectX
+10/11/2005  01:53 PM    <DIR>          EULA
+10/11/2005  01:53 PM    <DIR>          MSI
+09/16/2005  05:58 AM            77,824 Setup.exe
+10/11/2005  01:53 PM    <DIR>          backburner
+09/21/2005  05:57 PM            46,502 exe.cab
+09/27/2005  01:10 PM             1,057 setup.ini
+               4 File(s)    109,038,023 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\DWFViewer
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+03/21/2005  10:56 AM         5,554,768 DwfViewerSetup.exe
+               1 File(s)      5,554,768 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\DirectX
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+06/01/2005  08:02 AM         1,156,363 BDANT.cab
+06/01/2005  08:02 AM           976,020 BDAXP.cab
+06/01/2005  08:02 AM            75,472 DSETUP.dll
+06/01/2005  08:02 AM         1,336,890 Jun2005_d3dx9_26_x64.cab
+06/01/2005  08:02 AM         1,065,813 Jun2005_d3dx9_26_x86.cab
+06/01/2005  08:02 AM         2,245,840 dsetup32.dll
+06/01/2005  08:02 AM        13,265,040 dxnt.cab
+06/01/2005  08:02 AM           482,000 dxsetup.exe
+06/01/2005  08:02 AM            67,440 dxupdate.cab
+               9 File(s)     20,670,878 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\EULA
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+06/10/2005  01:27 PM           114,354 APac English.rtf
+11/30/2004  01:21 PM            17,358 AdskLicense.ini
+06/10/2005  01:26 PM           114,128 All Other Countries.rtf
+06/10/2005  01:26 PM           114,625 Americas All Other.rtf
+06/10/2005  01:40 PM           127,131 Belgie.rtf
+06/10/2005  01:39 PM            89,498 Belgique.rtf
+06/10/2005  01:38 PM           128,752 Ceska Republika.rtf
+06/10/2005  01:37 PM           115,465 Danmark.rtf
+06/10/2005  01:47 PM           134,255 Deutschland.rtf
+06/10/2005  01:43 PM           141,386 Espana.rtf
+06/10/2005  01:38 PM            89,436 France.rtf
+06/10/2005  01:27 PM           114,831 Greece.rtf
+06/10/2005  01:27 PM           115,443 Ireland.rtf
+06/10/2005  01:44 PM           193,300 Italia.rtf
+06/10/2005  01:46 PM           385,941 Japanese.rtf
+06/10/2005  01:40 PM         1,024,763 Korean.rtf
+06/10/2005  01:32 PM           143,880 LA Brazil.rtf
+06/10/2005  01:44 PM           140,356 LA Spanish.rtf
+06/10/2005  01:50 PM            89,460 Luxembourg-Luxemburg.rtf
+06/10/2005  01:35 PM           198,682 Magyar.rtf
+06/10/2005  01:37 PM           127,089 Nederland.rtf
+06/10/2005  01:28 PM           114,817 Norge.rtf
+06/10/2005  01:52 PM           134,477 Oesterreich.rtf
+06/10/2005  01:33 PM           170,580 Polska.rtf
+06/10/2005  01:48 PM           144,445 Portugal.rtf
+06/10/2005  01:52 PM           295,613 Russia.rtf
+06/10/2005  01:53 PM           134,911 Schweiz.rtf
+06/10/2005  01:43 PM           299,971 Simplified Chinese.rtf
+06/10/2005  01:56 PM           138,607 Slovenska Republika.rtf
+06/10/2005  01:57 PM            89,398 Suisse.rtf
+06/10/2005  01:28 PM           114,823 Suomi.rtf
+06/10/2005  01:28 PM           114,864 Sverige.rtf
+06/10/2005  01:57 PM           247,401 Traditional Chinese.rtf
+06/10/2005  01:29 PM           115,099 Turkiye.rtf
+06/10/2005  01:29 PM           115,808 US Canada.rtf
+06/10/2005  01:29 PM           114,348 United Kingdom.rtf
+              36 File(s)      6,065,295 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\MSI
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+05/19/2005  04:38 PM         2,584,848 WindowsInstaller-KB893803-v2-x86.exe
+               1 File(s)      2,584,848 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\backburner
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+10/11/2005  01:53 PM    <DIR>          EULA
+06/22/2005  06:35 PM         4,168,038 backburner3.cab
+12/08/2004  12:54 PM            40,448 backburner3.exe
+06/22/2005  06:34 PM               678 backburner3.ini
+06/29/2005  03:23 PM         3,681,792 backburner3.msi
+               4 File(s)      7,890,956 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8\3dsMax8\backburner\EULA
+
+10/11/2005  01:53 PM    <DIR>          .
+10/11/2005  01:53 PM    <DIR>          ..
+06/10/2005  01:27 PM           114,354 APac English.rtf
+11/08/2004  03:03 PM            17,358 AdskLicense.ini
+06/10/2005  01:26 PM           114,128 All Other Countries.rtf
+06/10/2005  01:26 PM           114,625 Americas All Other.rtf
+06/10/2005  01:40 PM           127,131 Belgie.rtf
+06/10/2005  01:39 PM            89,498 Belgique.rtf
+06/10/2005  01:38 PM           128,752 Ceska Republika.rtf
+06/10/2005  01:37 PM           115,465 Danmark.rtf
+06/10/2005  01:47 PM           134,255 Deutschland.rtf
+06/10/2005  01:43 PM           141,386 Espana.rtf
+06/10/2005  01:38 PM            89,436 France.rtf
+06/10/2005  01:27 PM           114,831 Greece.rtf
+06/10/2005  01:27 PM           115,443 Ireland.rtf
+06/10/2005  01:44 PM           193,300 Italia.rtf
+06/10/2005  01:46 PM           385,941 Japanese.rtf
+06/22/2005  06:34 PM         1,024,763 Korean.rtf
+06/10/2005  01:32 PM           143,880 LA Brazil.rtf
+06/10/2005  01:44 PM           140,356 LA Spanish.rtf
+06/10/2005  01:50 PM            89,460 Luxembourg-Luxemburg.rtf
+06/10/2005  01:35 PM           198,682 Magyar.rtf
+06/10/2005  01:37 PM           127,089 Nederland.rtf
+06/10/2005  01:28 PM           114,817 Norge.rtf
+06/10/2005  01:52 PM           134,477 Oesterreich.rtf
+06/10/2005  01:33 PM           170,580 Polska.rtf
+06/10/2005  01:48 PM           144,445 Portugal.rtf
+06/10/2005  01:52 PM           295,613 Russia.rtf
+06/10/2005  01:53 PM           134,911 Schweiz.rtf
+06/10/2005  01:43 PM           299,971 Simplified Chinese.rtf
+06/10/2005  01:56 PM           138,607 Slovenska Republika.rtf
+06/10/2005  01:57 PM            89,398 Suisse.rtf
+06/10/2005  01:28 PM           114,823 Suomi.rtf
+06/10/2005  01:28 PM           114,864 Sverige.rtf
+06/10/2005  01:57 PM           247,401 Traditional Chinese.rtf
+06/10/2005  01:29 PM           115,099 Turkiye.rtf
+06/10/2005  01:29 PM           115,808 US Canada.rtf
+06/10/2005  01:29 PM           114,348 United Kingdom.rtf
+              36 File(s)      6,065,295 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Architectural_Materials
+
+10/12/2005  10:48 AM    <DIR>          .
+10/12/2005  02:57 PM    <DIR>          ..
+09/28/2005  12:44 PM    <DIR>          3dsMaxArchMat
+               0 File(s)              0 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Architectural_Materials\3dsMaxArchMat
+
+09/28/2005  12:44 PM    <DIR>          .
+10/12/2005  10:48 AM    <DIR>          ..
+08/24/2005  03:37 PM            40,448 3dsMax8_archmat.exe
+09/10/2005  06:21 AM               716 3dsMax8_archmat.ini
+09/16/2005  01:56 PM       144,949,760 3dsMax8_archmat.msi
+10/12/2005  10:51 AM    <DIR>          EULA
+               3 File(s)    144,990,924 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Architectural_Materials\3dsMaxArchMat\EULA
+
+10/12/2005  10:51 AM    <DIR>          .
+09/28/2005  12:44 PM    <DIR>          ..
+06/10/2005  10:27 AM           114,354 APac English.rtf
+11/30/2004  10:21 AM            17,358 AdskLicense.ini
+06/10/2005  10:26 AM           114,128 All Other Countries.rtf
+06/10/2005  10:26 AM           114,625 Americas All Other.rtf
+06/10/2005  10:40 AM           127,131 Belgie.rtf
+06/10/2005  10:39 AM            89,498 Belgique.rtf
+06/10/2005  10:38 AM           128,752 Ceska Republika.rtf
+06/10/2005  10:37 AM           115,465 Danmark.rtf
+06/10/2005  10:47 AM           134,255 Deutschland.rtf
+06/10/2005  10:43 AM           141,386 Espana.rtf
+06/10/2005  10:38 AM            89,436 France.rtf
+06/10/2005  10:27 AM           114,831 Greece.rtf
+06/10/2005  10:27 AM           115,443 Ireland.rtf
+06/10/2005  10:44 AM           193,300 Italia.rtf
+06/10/2005  10:46 AM           385,941 Japanese.rtf
+06/10/2005  10:40 AM         1,024,763 Korean.rtf
+06/10/2005  10:32 AM           143,880 LA Brazil.rtf
+06/10/2005  10:44 AM           140,356 LA Spanish.rtf
+06/10/2005  10:50 AM            89,460 Luxembourg-Luxemburg.rtf
+06/10/2005  10:35 AM           198,682 Magyar.rtf
+06/10/2005  10:37 AM           127,089 Nederland.rtf
+06/10/2005  10:28 AM           114,817 Norge.rtf
+06/10/2005  10:52 AM           134,477 Oesterreich.rtf
+06/10/2005  10:33 AM           170,580 Polska.rtf
+06/10/2005  10:48 AM           144,445 Portugal.rtf
+06/10/2005  10:52 AM           295,613 Russia.rtf
+06/10/2005  10:53 AM           134,911 Schweiz.rtf
+06/10/2005  10:43 AM           299,971 Simplified Chinese.rtf
+06/10/2005  10:56 AM           138,607 Slovenska Republika.rtf
+06/10/2005  10:57 AM            89,398 Suisse.rtf
+06/10/2005  10:28 AM           114,823 Suomi.rtf
+06/10/2005  10:28 AM           114,864 Sverige.rtf
+06/10/2005  10:57 AM           247,401 Traditional Chinese.rtf
+06/10/2005  10:29 AM           115,099 Turkiye.rtf
+06/10/2005  10:29 AM           115,808 US Canada.rtf
+06/10/2005  10:29 AM           114,348 United Kingdom.rtf
+              36 File(s)      6,065,295 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Maps_and_Materials
+
+10/12/2005  10:48 AM    <DIR>          .
+10/12/2005  02:57 PM    <DIR>          ..
+09/28/2005  12:43 PM    <DIR>          3dsMaxAddMapsMat
+               0 File(s)              0 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Maps_and_Materials\3dsMaxAddMapsMat
+
+09/28/2005  12:43 PM    <DIR>          .
+10/12/2005  10:48 AM    <DIR>          ..
+08/24/2005  03:37 PM            40,448 3dsMax8_addmapsmat.exe
+09/10/2005  06:08 AM               725 3dsMax8_addmapsmat.ini
+09/16/2005  01:39 PM        88,328,192 3dsMax8_addmapsmat.msi
+10/12/2005  10:50 AM    <DIR>          EULA
+               3 File(s)     88,369,365 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Maps_and_Materials\3dsMaxAddMapsMat\EULA
+
+10/12/2005  10:50 AM    <DIR>          .
+09/28/2005  12:43 PM    <DIR>          ..
+06/10/2005  10:27 AM           114,354 APac English.rtf
+11/30/2004  10:21 AM            17,358 AdskLicense.ini
+06/10/2005  10:26 AM           114,128 All Other Countries.rtf
+06/10/2005  10:26 AM           114,625 Americas All Other.rtf
+06/10/2005  10:40 AM           127,131 Belgie.rtf
+06/10/2005  10:39 AM            89,498 Belgique.rtf
+06/10/2005  10:38 AM           128,752 Ceska Republika.rtf
+06/10/2005  10:37 AM           115,465 Danmark.rtf
+06/10/2005  10:47 AM           134,255 Deutschland.rtf
+06/10/2005  10:43 AM           141,386 Espana.rtf
+06/10/2005  10:38 AM            89,436 France.rtf
+06/10/2005  10:27 AM           114,831 Greece.rtf
+06/10/2005  10:27 AM           115,443 Ireland.rtf
+06/10/2005  10:44 AM           193,300 Italia.rtf
+06/10/2005  10:46 AM           385,941 Japanese.rtf
+06/10/2005  10:40 AM         1,024,763 Korean.rtf
+06/10/2005  10:32 AM           143,880 LA Brazil.rtf
+06/10/2005  10:44 AM           140,356 LA Spanish.rtf
+06/10/2005  10:50 AM            89,460 Luxembourg-Luxemburg.rtf
+06/10/2005  10:35 AM           198,682 Magyar.rtf
+06/10/2005  10:37 AM           127,089 Nederland.rtf
+06/10/2005  10:28 AM           114,817 Norge.rtf
+06/10/2005  10:52 AM           134,477 Oesterreich.rtf
+06/10/2005  10:33 AM           170,580 Polska.rtf
+06/10/2005  10:48 AM           144,445 Portugal.rtf
+06/10/2005  10:52 AM           295,613 Russia.rtf
+06/10/2005  10:53 AM           134,911 Schweiz.rtf
+06/10/2005  10:43 AM           299,971 Simplified Chinese.rtf
+06/10/2005  10:56 AM           138,607 Slovenska Republika.rtf
+06/10/2005  10:57 AM            89,398 Suisse.rtf
+06/10/2005  10:28 AM           114,823 Suomi.rtf
+06/10/2005  10:28 AM           114,864 Sverige.rtf
+06/10/2005  10:57 AM           247,401 Traditional Chinese.rtf
+06/10/2005  10:29 AM           115,099 Turkiye.rtf
+06/10/2005  10:29 AM           115,808 US Canada.rtf
+06/10/2005  10:29 AM           114,348 United Kingdom.rtf
+              36 File(s)      6,065,295 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Reference
+
+10/12/2005  10:48 AM    <DIR>          .
+10/12/2005  02:57 PM    <DIR>          ..
+09/28/2005  12:45 PM    <DIR>          3dsMaxRefFiles
+               0 File(s)              0 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Reference\3dsMaxRefFiles
+
+09/28/2005  12:45 PM    <DIR>          .
+10/12/2005  10:48 AM    <DIR>          ..
+08/24/2005  03:37 PM            40,448 3dsMax8_reffiles.exe
+09/09/2005  07:50 PM               709 3dsMax8_reffiles.ini
+09/16/2005  02:26 PM       150,027,264 3dsMax8_reffiles.msi
+10/12/2005  10:51 AM    <DIR>          EULA
+               3 File(s)    150,068,421 bytes
+
+ Directory of T:\Autodesk_3ds_Max_8_Reference\3dsMaxRefFiles\EULA
+
+10/12/2005  10:51 AM    <DIR>          .
+09/28/2005  12:45 PM    <DIR>          ..
+06/10/2005  10:27 AM           114,354 APac English.rtf
+11/30/2004  10:21 AM            17,358 AdskLicense.ini
+06/10/2005  10:26 AM           114,128 All Other Countries.rtf
+06/10/2005  10:26 AM           114,625 Americas All Other.rtf
+06/10/2005  10:40 AM           127,131 Belgie.rtf
+06/10/2005  10:39 AM            89,498 Belgique.rtf
+06/10/2005  10:38 AM           128,752 Ceska Republika.rtf
+06/10/2005  10:37 AM           115,465 Danmark.rtf
+06/10/2005  10:47 AM           134,255 Deutschland.rtf
+06/10/2005  10:43 AM           141,386 Espana.rtf
+06/10/2005  10:38 AM            89,436 France.rtf
+06/10/2005  10:27 AM           114,831 Greece.rtf
+06/10/2005  10:27 AM           115,443 Ireland.rtf
+06/10/2005  10:44 AM           193,300 Italia.rtf
+06/10/2005  10:46 AM           385,941 Japanese.rtf
+06/10/2005  10:40 AM         1,024,763 Korean.rtf
+06/10/2005  10:32 AM           143,880 LA Brazil.rtf
+06/10/2005  10:44 AM           140,356 LA Spanish.rtf
+06/10/2005  10:50 AM            89,460 Luxembourg-Luxemburg.rtf
+06/10/2005  10:35 AM           198,682 Magyar.rtf
+06/10/2005  10:37 AM           127,089 Nederland.rtf
+06/10/2005  10:28 AM           114,817 Norge.rtf
+06/10/2005  10:52 AM           134,477 Oesterreich.rtf
+06/10/2005  10:33 AM           170,580 Polska.rtf
+06/10/2005  10:48 AM           144,445 Portugal.rtf
+06/10/2005  10:52 AM           295,613 Russia.rtf
+06/10/2005  10:53 AM           134,911 Schweiz.rtf
+06/10/2005  10:43 AM           299,971 Simplified Chinese.rtf
+06/10/2005  10:56 AM           138,607 Slovenska Republika.rtf
+06/10/2005  10:57 AM            89,398 Suisse.rtf
+06/10/2005  10:28 AM           114,823 Suomi.rtf
+06/10/2005  10:28 AM           114,864 Sverige.rtf
+06/10/2005  10:57 AM           247,401 Traditional Chinese.rtf
+06/10/2005  10:29 AM           115,099 Turkiye.rtf
+06/10/2005  10:29 AM           115,808 US Canada.rtf
+06/10/2005  10:29 AM           114,348 United Kingdom.rtf
+              36 File(s)      6,065,295 bytes
+
+ Directory of T:\Crack
+
+10/12/2005  02:24 PM    <DIR>          .
+10/12/2005  02:57 PM    <DIR>          ..
+10/12/2005  01:28 PM    <DIR>          AUTODESK.3D.STUDIO.MAX.VERSION.v8.0-WEBINSTALL-Keygen.Only-X-FORCE
+               0 File(s)              0 bytes
+
+ Directory of T:\Crack\AUTODESK.3D.STUDIO.MAX.VERSION.v8.0-WEBINSTALL-Keygen.Only-X-FORCE
+
+10/12/2005  01:28 PM    <DIR>          .
+10/12/2005  02:24 PM    <DIR>          ..
+10/10/2005  07:01 AM    <DIR>          AUTODESK.3D.STUDIO.MAX.VERSION.v8.0-WEBINSTALL-Keygen.Only-X-FORCE
+               0 File(s)              0 bytes
+
+ Directory of T:\Crack\AUTODESK.3D.STUDIO.MAX.VERSION.v8.0-WEBINSTALL-Keygen.Only-X-FORCE\AUTODESK.3D.STUDIO.MAX.VERSION.v8.0-WEBINSTALL-Keygen.Only-X-FORCE
+
+10/10/2005  07:01 AM    <DIR>          .
+10/12/2005  01:28 PM    <DIR>          ..
+10/09/2005  08:13 PM               426 install.txt
+10/09/2005  12:36 PM           479,232 max8keygen.exe
+10/10/2005  03:27 AM             5,971 x-force.nfo
+               3 File(s)        485,629 bytes
+
+     Total Files Listed:
+             215 File(s)    561,007,978 bytes
+              60 Dir(s)               0 bytes free

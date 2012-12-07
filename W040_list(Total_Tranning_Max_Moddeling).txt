@@ -1,0 +1,302 @@
+ Volume in drive G is TTMMOD
+ Volume Serial Number is 0FF7-5799
+
+ Directory of G:\
+
+07/10/2007  04:19 PM    <DIR>          Bonus
+07/15/2007  10:55 PM    <DIR>          Gallery
+05/10/2007  09:59 PM    <DIR>          Models
+07/10/2007  04:37 PM    <DIR>          StarterKit
+07/10/2007  04:38 PM    <DIR>          Tutorial
+               0 File(s)              0 bytes
+
+ Directory of G:\Bonus
+
+07/10/2007  04:19 PM    <DIR>          .
+07/16/2007  10:47 AM    <DIR>          ..
+07/15/2007  10:41 PM    <DIR>          PDF Tutorial
+07/15/2007  10:54 PM    <DIR>          Video tutorial
+               0 File(s)              0 bytes
+
+ Directory of G:\Bonus\PDF Tutorial
+
+07/15/2007  10:41 PM    <DIR>          .
+07/10/2007  04:19 PM    <DIR>          ..
+07/15/2007  10:41 PM        16,317,886 Buggy_tutorial.pdf
+               1 File(s)     16,317,886 bytes
+
+ Directory of G:\Bonus\Video tutorial
+
+07/15/2007  10:54 PM    <DIR>          .
+07/10/2007  04:19 PM    <DIR>          ..
+03/11/2007  02:17 PM        18,330,752 array.mov
+06/10/2007  08:08 PM        75,674,398 bevel_profile.mov
+03/11/2007  08:01 AM        34,668,570 bridge.mov
+03/11/2007  09:02 AM        13,597,013 cap.mov
+03/11/2007  02:29 PM        20,694,276 chamfer.mov
+03/11/2007  09:21 AM        34,353,051 conform.mov
+03/11/2007  02:03 PM        19,854,300 connect.mov
+03/11/2007  02:46 PM        21,437,268 cut.mov
+03/11/2007  05:50 PM        44,013,828 kabel.mov
+03/11/2007  03:25 PM        33,557,434 lathe.mov
+03/13/2007  03:02 AM        30,851,057 level_of_detail.mov
+03/11/2007  12:43 PM        34,033,858 merge.mov
+03/11/2007  01:38 PM        34,488,971 pathdeform.mov
+03/11/2007  03:00 PM        18,048,884 pivot.mov
+07/14/2007  08:02 AM               239 readme.txt
+03/11/2007  09:50 AM        42,737,764 scatter.mov
+03/11/2007  12:31 PM        31,777,523 shape_merge.mov
+03/11/2007  09:35 AM        19,893,141 smooth.mov
+03/11/2007  10:02 AM        25,212,263 symmetry.mov
+03/11/2007  01:49 PM        16,966,745 terrain.mov
+              20 File(s)    570,191,335 bytes
+
+ Directory of G:\Gallery
+
+07/15/2007  10:55 PM    <DIR>          .
+07/16/2007  10:47 AM    <DIR>          ..
+12/28/2006  08:41 AM           567,780 Lambo_lowres.jpg
+12/29/2006  06:59 PM           582,918 Sci-fi_armored_vehicle.jpg
+02/24/2007  10:44 PM           769,310 Somethin_Bandit.jpg
+02/24/2007  10:46 PM           884,575 Somethin_Bandit2.jpg
+08/01/2005  05:26 AM           452,048 Universe_DVD_pack.jpg
+08/02/2005  09:33 AM           469,267 Universe_Experience.jpg
+08/03/2005  03:36 PM           474,041 Universe_Value_Pack.jpg
+               7 File(s)      4,199,939 bytes
+
+ Directory of G:\Models
+
+05/10/2007  09:59 PM    <DIR>          .
+07/16/2007  10:47 AM    <DIR>          ..
+01/01/2007  11:32 AM           643,072 LowRes_Lambo_Gallardo.max
+01/01/2007  11:49 AM           530,432 RC.max
+01/01/2007  11:30 AM         2,804,736 Sci-Fi_Light_Armored_Vehicle.max
+               3 File(s)      3,978,240 bytes
+
+ Directory of G:\StarterKit
+
+07/10/2007  04:37 PM    <DIR>          .
+07/16/2007  10:47 AM    <DIR>          ..
+01/01/2007  11:50 AM           178,176 concept.max
+01/01/2007  11:50 AM         2,067,968 garage1.max
+12/30/2006  10:22 AM         1,533,952 garage2.max
+12/30/2006  10:20 AM           895,488 level_design_for_game.max
+07/10/2007  04:27 PM           233,472 murcielago.max
+01/01/2007  11:50 AM         2,051,584 sci-fi_concept.max
+               6 File(s)      6,960,640 bytes
+
+ Directory of G:\Tutorial
+
+07/10/2007  04:38 PM    <DIR>          .
+07/16/2007  10:47 AM    <DIR>          ..
+07/12/2007  09:30 PM    <DIR>          Ch01
+07/15/2007  10:34 PM    <DIR>          Ch02
+07/14/2007  12:07 AM    <DIR>          Ch03
+07/12/2007  08:49 AM    <DIR>          Ch04
+07/10/2007  04:33 PM    <DIR>          Ch05
+07/10/2007  02:29 PM    <DIR>          Ch06
+07/10/2007  04:21 PM    <DIR>          Ch07
+07/10/2007  04:17 PM    <DIR>          Ch08
+07/14/2007  12:07 AM    <DIR>          Ch09
+07/14/2007  12:09 AM    <DIR>          Ch10
+07/10/2007  04:41 PM    <DIR>          Ch11
+07/15/2007  06:30 PM    <DIR>          Materials
+               0 File(s)              0 bytes
+
+ Directory of G:\Tutorial\Ch01
+
+07/12/2007  09:30 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/08/2007  11:18 PM           155,136 asteroid_finished.max
+10/21/2006  05:48 AM           155,648 boolean.max
+05/29/2007  11:54 PM           162,816 chair_finished.max
+10/21/2006  11:15 AM           169,984 dna.max
+03/07/2007  04:02 PM           400,896 rock.max
+06/09/2007  12:19 AM           153,600 spacingtool.max
+06/09/2007  12:21 AM           179,712 spacingtool_finished.max
+               7 File(s)      1,377,792 bytes
+
+ Directory of G:\Tutorial\Ch02
+
+07/15/2007  10:34 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/11/2007  02:39 PM           164,352 3dtext_finished.max
+06/10/2007  10:07 AM           153,088 lathe_finished.max
+06/11/2007  12:03 AM           155,648 loft01.max
+06/11/2007  11:55 AM           159,744 loft01_finished.max
+06/11/2007  12:35 PM           154,624 loft02.max
+06/11/2007  12:51 PM           158,720 loft02_finished.max
+07/15/2007  06:18 PM            63,665 logo.jpg
+07/15/2007  06:34 PM           160,256 logo.max
+07/15/2007  10:34 PM           160,256 logo_finished.max
+12/27/2006  02:08 AM           244,224 urban_street.max
+12/27/2006  03:03 AM           251,392 urban_street_finished.max
+              11 File(s)      1,825,969 bytes
+
+ Directory of G:\Tutorial\Ch03
+
+07/14/2007  12:07 AM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/15/2007  06:15 PM           222,720 apache_finished.max
+07/13/2007  11:19 PM           157,696 building_finished.max
+               2 File(s)        380,416 bytes
+
+ Directory of G:\Tutorial\Ch04
+
+07/12/2007  08:49 AM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/20/2007  07:09 PM           175,104 bathtub.max
+06/20/2007  07:21 PM           158,720 bathtub_finished.max
+06/19/2007  02:06 PM           201,728 bottle1.max
+06/19/2007  03:20 PM           177,152 bottle1_finished.max
+06/19/2007  03:08 PM           190,464 bottle2.max
+06/19/2007  03:26 PM           192,512 bottle2_finished.max
+06/20/2007  11:14 AM           155,136 mouse.max
+07/12/2007  08:49 AM           193,024 mouse_finished.max
+06/20/2007  10:59 AM            37,912 mouse_side.jpg
+06/20/2007  10:59 AM            39,639 mouse_top.jpg
+              10 File(s)      1,521,391 bytes
+
+ Directory of G:\Tutorial\Ch05
+
+07/10/2007  04:33 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/21/2007  09:56 AM            53,633 body.jpg
+06/20/2007  10:52 PM            90,188 cliff.jpg
+06/21/2007  10:31 AM           156,672 landscape_finished.max
+06/21/2007  11:03 AM           247,296 sixpackbody.max
+06/21/2007  11:39 AM           247,808 sixpackbody_finished.max
+               5 File(s)        795,597 bytes
+
+ Directory of G:\Tutorial\Ch06
+
+07/10/2007  02:29 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+10/27/2006  10:08 AM            74,012 Back.jpg
+10/27/2006  10:08 AM            61,746 Front.jpg
+10/27/2006  10:08 AM           138,676 Side.jpg
+10/27/2006  10:12 AM           205,275 Top.jpg
+07/10/2007  02:27 PM           160,768 blueprint_finished.max
+               5 File(s)        640,477 bytes
+
+ Directory of G:\Tutorial\Ch07
+
+07/10/2007  04:21 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+06/24/2007  10:11 AM           500,736 RC_Car_00.max
+07/01/2007  02:14 PM           500,736 RC_Car_01.max
+06/25/2007  10:19 AM           853,504 RC_Car_02.max
+06/25/2007  10:20 AM           855,552 RC_Car_03.max
+06/25/2007  11:06 AM           843,776 RC_Car_finished.max
+10/25/2006  07:03 AM           163,328 align.max
+03/04/2007  12:32 AM           194,048 bridge.max
+02/18/2007  09:25 AM           167,936 cap.max
+07/01/2007  03:55 PM           391,680 conform.max
+07/01/2007  04:12 PM           394,752 conform_finished.max
+06/26/2007  01:09 PM           207,872 connect.max
+07/01/2007  09:28 AM           153,088 constraints.max
+07/04/2007  10:29 AM           156,672 create_polygon.max
+07/01/2007  11:37 AM           768,512 extrude_along_spline.max
+07/01/2007  11:58 AM           796,672 extrude_along_spline_finished.max
+03/04/2007  05:44 PM           194,048 extrude_edge.max
+06/28/2007  10:28 PM           169,984 hinge_from_edge.max
+06/28/2007  10:34 PM           173,056 hinge_from_edge_finished.max
+07/01/2007  12:24 PM           172,544 octopus.max
+02/24/2007  07:25 PM           363,008 pathdeform.max
+07/01/2007  03:53 PM           364,032 pathdeform_finished.max
+07/09/2007  03:33 PM           155,136 remove_vertex.max
+07/02/2007  06:11 PM           193,536 scar.max
+07/02/2007  06:31 PM           260,608 scar_finished.max
+03/04/2007  05:44 PM           194,048 selection.max
+02/24/2007  12:36 PM           185,344 shark.max
+10/26/2006  03:00 AM           193,536 shell.max
+06/22/2007  01:51 PM           154,624 smooth_subobject.max
+10/22/2006  01:49 AM           154,624 targetweld.max
+12/24/2006  11:10 PM           459,264 terrain_paintdeformation.max
+03/09/2007  12:36 PM           557,568 trash.max
+07/10/2007  02:53 PM           161,792 turbosmooth.max
+              32 File(s)     11,055,616 bytes
+
+ Directory of G:\Tutorial\Ch08
+
+07/10/2007  04:17 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+02/24/2007  11:59 AM           415,232 ROOM1.max
+02/24/2007  09:03 AM           223,232 ROOM2.max
+07/02/2007  03:02 PM           501,760 ROOM_merged.max
+07/02/2007  03:04 PM           424,960 ROOM_xref.max
+02/25/2007  08:52 PM           359,424 multires.max
+10/24/2006  11:19 AM         1,616,384 polycount.max
+               6 File(s)      3,540,992 bytes
+
+ Directory of G:\Tutorial\Ch09
+
+07/14/2007  12:07 AM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+11/13/2006  06:51 PM            20,288 juvenile.jpg
+02/24/2007  09:04 AM           153,088 shark.max
+02/25/2007  08:52 PM           359,424 shark_finished.max
+               3 File(s)        532,800 bytes
+
+ Directory of G:\Tutorial\Ch10
+
+07/14/2007  12:09 AM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+07/14/2007  12:09 AM               112 readme.txt
+               1 File(s)            112 bytes
+
+ Directory of G:\Tutorial\Ch11
+
+07/10/2007  04:41 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+10/27/2006  10:08 AM            74,012 Back.jpg
+10/27/2006  10:08 AM            61,746 Front.jpg
+10/27/2006  10:08 AM           138,676 Side.jpg
+10/27/2006  10:12 AM           205,275 Top.jpg
+10/28/2006  11:24 PM           169,984 lambo01.max
+10/30/2006  04:47 AM           174,080 lambo02.max
+10/30/2006  07:47 AM           176,640 lambo03.max
+11/03/2006  02:22 PM           198,656 lambo04.max
+11/06/2006  12:32 AM           207,872 lambo05.max
+11/06/2006  03:19 AM           228,352 lambo06.max
+11/20/2006  11:00 PM           252,928 lambo07.max
+11/23/2006  11:31 AM           269,312 lambo08.max
+11/27/2006  03:24 AM           350,208 lambo09.max
+07/10/2007  04:41 PM           160,768 lambo_start.max
+01/05/2006  12:27 AM            60,033 pct1.jpg
+01/05/2006  12:29 AM            85,200 pct2.jpg
+              16 File(s)      2,813,742 bytes
+
+ Directory of G:\Tutorial\Materials
+
+07/15/2007  06:30 PM    <DIR>          .
+07/10/2007  04:38 PM    <DIR>          ..
+01/07/2003  08:28 PM           264,307 CONCGRAY.JPG
+02/05/2007  06:39 PM           294,113 Cement_render.jpg
+05/02/2006  06:21 PM           136,141 ESRB.jpg
+01/12/2003  04:58 PM           161,616 Sitework.Paving.jpg
+07/25/2005  05:37 PM           590,553 asphalt stripe.jpg
+06/21/2007  09:56 AM            53,633 body.jpg
+02/08/2007  12:48 PM            55,020 box.jpg
+02/07/2007  10:36 AM           689,697 bunker.jpg
+06/20/2007  10:52 PM            90,188 cliff.jpg
+02/07/2007  07:16 PM            86,983 door.jpg
+02/08/2007  05:24 PM            42,490 elect.jpg
+02/08/2007  12:36 PM           247,158 flakeywall.jpg
+11/13/2006  06:51 PM            20,288 juvenile.jpg
+02/08/2007  05:49 PM            28,377 lamp.jpg
+06/20/2007  10:59 AM            37,912 mouse_side.jpg
+06/20/2007  10:59 AM            39,639 mouse_top.jpg
+02/07/2007  07:33 PM           334,594 oldmetal.jpg
+02/05/2007  06:48 PM            78,604 pipe.jpg
+02/05/2007  11:01 PM           619,022 roof1.jpg
+02/05/2007  06:27 PM           672,695 rubble.jpg
+02/07/2007  07:35 PM           745,521 rust_paint.jpg
+06/03/2001  11:50 PM           196,662 tex43.bmp
+02/07/2007  07:52 PM           438,123 wall.jpg
+02/07/2007  07:09 PM           364,102 wall2.jpg
+              24 File(s)      6,287,438 bytes
+
+     Total Files Listed:
+             159 File(s)    632,420,382 bytes
+              57 Dir(s)               0 bytes free

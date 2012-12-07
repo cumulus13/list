@@ -1,0 +1,99 @@
+ Volume in drive F is PHLAK LiveCD
+ Volume Serial Number is BFAE-FDDF
+
+ Directory of F:\
+
+04/01/2005  11:40 PM             5,007 GUIDELINES
+04/01/2005  11:40 PM            18,122 LEGAL
+04/01/2005  11:40 PM             2,292 README.cdrom
+04/01/2005  11:40 PM             1,292 README.tools
+09/25/2004  05:36 AM                51 autorun.bat
+09/25/2004  05:36 AM                45 autorun.inf
+03/25/2005  10:33 AM    <DIR>          base
+03/22/2005  07:12 AM    <DIR>          boot
+04/01/2005  11:40 PM             4,286 cdrom.ico
+12/31/2004  08:33 AM    <DIR>          copy
+12/31/2004  08:33 AM    <DIR>          deb
+12/31/2004  08:33 AM    <DIR>          exec
+04/01/2005  11:42 PM    <DIR>          images
+04/01/2005  11:43 PM             4,591 index.html
+04/10/2005  12:21 AM    <DIR>          mainmod
+04/28/2005  07:56 AM             1,515 md5sums.txt
+03/29/2005  11:40 AM    <DIR>          minimod
+04/27/2005  08:47 AM           176,397 tools.htm
+              10 File(s)        213,598 bytes
+
+ Directory of F:\base
+
+03/25/2005  10:33 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+04/28/2005  07:56 AM             2,048 boot.cat
+04/28/2005  06:45 AM        36,685,004 phlak
+               2 File(s)     36,687,052 bytes
+
+ Directory of F:\boot
+
+03/22/2005  07:12 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+04/01/2005  01:36 PM    <DIR>          grub
+03/27/2005  08:45 AM         1,448,228 miniroot.gz
+03/20/2005  12:07 AM         1,388,423 vmlinuz
+               2 File(s)      2,836,651 bytes
+
+ Directory of F:\boot\grub
+
+04/01/2005  01:36 PM    <DIR>          .
+03/22/2005  07:12 AM    <DIR>          ..
+04/26/2005  07:40 AM             6,784 iso9660_stage1_5
+03/25/2005  11:17 AM             5,367 lang.lst
+04/01/2005  01:36 PM             2,502 menu.lst
+03/14/2005  01:37 AM           127,488 message
+03/25/2005  10:30 AM             1,555 options.lst
+09/17/2004  08:04 PM           106,866 stage2
+               6 File(s)        250,562 bytes
+
+ Directory of F:\copy
+
+12/31/2004  08:33 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\deb
+
+12/31/2004  08:33 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\exec
+
+12/31/2004  08:33 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\images
+
+04/01/2005  11:42 PM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+04/01/2005  11:42 PM            11,776 Thumbs.db
+04/01/2005  11:42 PM           608,179 background.png
+04/01/2005  11:42 PM               970 border.gif
+04/01/2005  11:42 PM            14,382 header.gif
+               4 File(s)        635,307 bytes
+
+ Directory of F:\mainmod
+
+04/10/2005  12:21 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+04/28/2005  07:52 AM       562,078,627 phlak.mod
+               1 File(s)    562,078,627 bytes
+
+ Directory of F:\minimod
+
+03/29/2005  11:40 AM    <DIR>          .
+04/27/2005  08:47 AM    <DIR>          ..
+04/28/2005  06:48 AM         1,497,002 home.mod
+               1 File(s)      1,497,002 bytes
+
+     Total Files Listed:
+              26 File(s)    604,198,799 bytes
+              27 Dir(s)               0 bytes free

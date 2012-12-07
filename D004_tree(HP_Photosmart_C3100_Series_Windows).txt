@@ -1,0 +1,1676 @@
+Folder PATH listing for volume CDA_Default-Expr
+Volume serial number is E11D-AFC0
+G:\
+|   HPZIDS01.dll
+|   HPZidi01.dll
+|   HPZprl01.dat
+|   Setup.exe
+|   autorun.inf
+|   config.xml
+|   crcfiles.txt
+|   crcvalues.txt
+|   dxprl.dat
+|   gdiplus.dll
+|   hpaioa.cab
+|   hpaioa.cat
+|   hpaioa.inf
+|   hpoapd01.dat
+|   hpoglu09.inf
+|   hpohub09.inf
+|   hpomdl09.dat
+|   hpoprl01.dat
+|   hpoprl02.dat
+|   hpoprl03.dat
+|   hpoprl04.dat
+|   hpoprl05.dat
+|   hpoprl06.dat
+|   hpoprl07.dat
+|   hpoprl08.dat
+|   hpoprl09.dat
+|   hpoprl10.dat
+|   hposcu09.cat
+|   hposcu09.inf
+|   hpose050.dat
+|   hpose060.dat
+|   hposf050.dat
+|   hposf060.dat
+|   hpound09.inf
+|   hpounp09.cat
+|   hpounp09.inf
+|   hpousb09.inf
+|   hpousc09.inf
+|   hpqbid01.dat
+|   hpqbid04.dat
+|   hpqbid05.dat
+|   hpqbid06.dat
+|   hpqbid07.dat
+|   hpqbid08.dat
+|   hpqbid09.dat
+|   hpqbid10.dat
+|   hpqbid11.dat
+|   hpqbpl01.dat
+|   hpqbpl04.dat
+|   hpqbpl05.dat
+|   hpqbpl06.dat
+|   hpqbpl08.dat
+|   hpqbpl09.dat
+|   hpqbpl11.dat
+|   hpqish09.inf
+|   hpqphbck.dat
+|   hpzc3212.dll
+|   hpzglu14.exe
+|   hpzid412.cat
+|   hpzid412.inf
+|   hpzid413.cat
+|   hpzid413.inf
+|   hpzid414.cat
+|   hpzid414.inf
+|   hpzipa12.cat
+|   hpzipa12.inf
+|   hpzipa13.cat
+|   hpzipa13.inf
+|   hpzipr12.cat
+|   hpzipr12.inf
+|   hpzipr13.cat
+|   hpzipr13.inf
+|   hpzist12.cat
+|   hpzist12.inf
+|   hpzist13.cat
+|   hpzist13.inf
+|   hpzius12.cat
+|   hpzius12.inf
+|   hpzius13.cat
+|   hpzius13.inf
+|   hpzjlog.dll
+|   hpzjpp01.dll
+|   hpzjut01.dll
+|   hpzjvp01.dll
+|   hpzpd412.cat
+|   hpzpd412.inf
+|   hpzpnp14.dll
+|   hpzprl02.dat
+|   hpzprl03.dat
+|   hpzscr14.dll
+|   hpzsetup.exe
+|   hpzuci12.dll
+|   license.txt
+|   msvcirt.dll
+|   msvcrt.dll
+|   p3i2arww.cab
+|   p3i2caww.cab
+|   p3i2csww.cab
+|   p3i2daww.cab
+|   p3i2deww.cab
+|   p3i2elww.cab
+|   p3i2enww.cab
+|   p3i2esww.cab
+|   p3i2fiww.cab
+|   p3i2frww.cab
+|   p3i2heww.cab
+|   p3i2huww.cab
+|   p3i2itww.cab
+|   p3i2jaww.cab
+|   p3i2koww.cab
+|   p3i2nlww.cab
+|   p3i2noww.cab
+|   p3i2plww.cab
+|   p3i2ptww.cab
+|   p3i2ruww.cab
+|   p3i2skww.cab
+|   p3i2svww.cab
+|   p3i2thww.cab
+|   p3i2trww.cab
+|   p3i2zhcn.cab
+|   p3i2zhtw.cab
+|   tls704d.dll
+|   unicows.dll
+|   usbhub.sys
+|   usbmon.dll
+|   usbprint.sys
+|   xmlparse.dll
+|   xmltok.dll
+|   
++---arb
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---chs
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpo2570.dat
+|       |       hpo3100.dat
+|       |       hpo3200.dat
+|       |       hpo3300.dat
+|       |       hpo4300.dat
+|       |       hpo6300.dat
+|       |       hpoc3100.dat
+|       |       hpoc4100.dat
+|       |       hpof300.dat
+|       |       hpof3100.dat
+|       |       hpof3114.dat
+|       |       hpof3314.dat
+|       |       hpof4100.dat
+|       |       hpof4314.dat
+|       |       hpof6314.dat
+|       |       hpofax08.dll
+|       |       hpoff314.dat
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdxn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---cht
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---common
+|   \---drivers
+|       +---com_os
+|       |       HPBOID.EXE
+|       |       HPBPRO.EXE
+|       |       HPJCMN2U.DLL
+|       |       HPJIPX1U.DLL
+|       |       hpbmiapi.dll
+|       |       hpboidps.dll
+|       |       hpbprops.dll
+|       |       hpoism01.dll
+|       |       hppapml0.dll
+|       |       hpqip09.dll
+|       |       hpqish09.dll
+|       |       hpzcfg14.ex_
+|       |       hpzcon14.dl_
+|       |       hpzdiu14.dl_
+|       |       hpzeng14.ex_
+|       |       hpzflt14.dl_
+|       |       hpzimb14.dl_
+|       |       hpzimc14.dl_
+|       |       hpzime14.dl_
+|       |       hpzimp14.dl_
+|       |       hpzims14.dl_
+|       |       hpzimv14.dl_
+|       |       hpzimy14.dl_
+|       |       hpzjui14.dl_
+|       |       hpzpcl14.dl_
+|       |       hpzpre14.ex_
+|       |       hpzres14.dl_
+|       |       hpzslk14.dl_
+|       |       hpzvip14.dl_
+|       |       
+|       \---win9x_me
+|               HPZ9XD14.dr_
+|               atl.dll
+|               hpzfac14.dl_
+|               hpzl9x14.dl_
+|               hpzpm114.dl_
+|               hpzs9x14.dl_
+|               hpzsta9x.ex_
+|               hpzstsin.dl_
+|               
++---csy
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---dan
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---deu
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---drivers
+|   +---dot4
+|   |   +---win2000
+|   |   |       hpzc3212.dll
+|   |   |       hpzid412.sys
+|   |   |       hpzipr12.sys
+|   |   |       hpzisc12.sys
+|   |   |       hpzius12.sys
+|   |   |       hpzs2k12.sys
+|   |   |       
+|   |   +---win98
+|   |   |       hphpar98.vxd
+|   |   |       hpzbrx12.pdr
+|   |   |       hpzc3212.dll
+|   |   |       hpzid412.sys
+|   |   |       hpzimn12.dll
+|   |   |       hpzipa12.sys
+|   |   |       hpzipr12.sys
+|   |   |       hpzisc12.sys
+|   |   |       hpzius12.sys
+|   |   |       hpzs9x12.sys
+|   |   |       hpzuci12.dll
+|   |   |       usbmon.dl_
+|   |   |       
+|   |   +---winxp
+|   |   |       hppaufd0.sys
+|   |   |       
+|   |   \---wrapper
+|   |           _inst32i.ex_
+|   |           _isdel.exe
+|   |           _setup.dll
+|   |           _sys1.cab
+|   |           _sys1.hdr
+|   |           _user1.cab
+|   |           _user1.hdr
+|   |           data.tag
+|   |           data1.cab
+|   |           data1.hdr
+|   |           lang.dat
+|   |           layout.bin
+|   |           os.dat
+|   |           setup.exe
+|   |           setup.ini
+|   |           setup.ins
+|   |           setup.lid
+|   |           wrapper.exe
+|   |           
+|   +---fax
+|   |       hpafax.gpd
+|   |       hpafax.ini
+|   |       hpafax.xml
+|   |       hpaiofax.dll
+|   |       hpzuifax.dll
+|   |       
+|   +---scanner
+|   |   \---x32
+|   |           hpotiop2.dll
+|   |           hpotpusd.dll
+|   |           hpotscl2.dll
+|   |           hpovst09.dll
+|   |           hpowiax1.dll
+|   |           hpowiax2.dll
+|   |           usbscan.sy_
+|   |           
+|   \---uninst
+|       +---enu
+|       |       hpomdl09.dat
+|       |       
+|       +---esn
+|       |       hpomdl09.dat
+|       |       
+|       +---fra
+|       |       hpomdl09.dat
+|       |       
+|       \---ptb
+|               hpomdl09.dat
+|               
++---enu
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpo2570.dat
+|       |       hpo3100.dat
+|       |       hpo3200.dat
+|       |       hpo3300.dat
+|       |       hpo4300.dat
+|       |       hpo6300.dat
+|       |       hpoc3100.dat
+|       |       hpoc4100.dat
+|       |       hpof300.dat
+|       |       hpof3100.dat
+|       |       hpof3114.dat
+|       |       hpof3314.dat
+|       |       hpof4100.dat
+|       |       hpof4314.dat
+|       |       hpof6314.dat
+|       |       hpofax08.dll
+|       |       hpoff314.dat
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdxn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---esm
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---fin
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---fra
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---grk
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---hbr
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---hun
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---images
+|       BallonsInFloweredTree2.png
+|       CarOnEuroBridge2.png
+|       ColoredHousesHarbor2.png
+|       ColoredPencils2.png
+|       CountryRoad2.png
+|       PNGlogo.png
+|       
++---ita
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---jpn
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpo2570.dat
+|       |       hpo3100.dat
+|       |       hpo3200.dat
+|       |       hpo3300.dat
+|       |       hpo4300.dat
+|       |       hpo6300.dat
+|       |       hpoc3100.dat
+|       |       hpoc4100.dat
+|       |       hpof300.dat
+|       |       hpof3100.dat
+|       |       hpof3114.dat
+|       |       hpof3314.dat
+|       |       hpof4100.dat
+|       |       hpof4314.dat
+|       |       hpof6314.dat
+|       |       hpofax08.dll
+|       |       hpoff314.dat
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdxn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---kor
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---langfls
+|       1025.xml
+|       1028.xml
+|       1029.xml
+|       1030.xml
+|       1031.xml
+|       1032.xml
+|       1033.xml
+|       1034.xml
+|       1035.xml
+|       1036.xml
+|       1037.xml
+|       1038.xml
+|       1040.xml
+|       1041.xml
+|       1042.xml
+|       1043.xml
+|       1044.xml
+|       1045.xml
+|       1046.xml
+|       1049.xml
+|       1053.xml
+|       1055.xml
+|       2052.xml
+|       
++---met
+|   \---drivers
+|       \---com_lang
+|               hpo2570.dat
+|               hpo3100.dat
+|               hpo3200.dat
+|               hpo3300.dat
+|               hpo4300.dat
+|               hpo6300.dat
+|               hpoc3100.dat
+|               hpoc4100.dat
+|               hpof300.dat
+|               hpof3100.dat
+|               hpof3114.dat
+|               hpof3314.dat
+|               hpof4100.dat
+|               hpof4314.dat
+|               hpof6314.dat
+|               hpoff314.dat
+|               
++---nld
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---non
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---plk
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---ptb
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---resting
+|   |   config.xml
+|   |   
+|   \---LangFls
+|           1025.xml
+|           1028.xml
+|           1029.xml
+|           1030.xml
+|           1031.xml
+|           1032.xml
+|           1033.xml
+|           1034.xml
+|           1035.xml
+|           1036.xml
+|           1037.xml
+|           1038.xml
+|           1040.xml
+|           1041.xml
+|           1042.xml
+|           1043.xml
+|           1044.xml
+|           1045.xml
+|           1046.xml
+|           1049.xml
+|           1053.xml
+|           1055.xml
+|           2052.xml
+|           
++---rus
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---setup
+|   |   01_HP_welcome.bmp
+|   |   02_HP_IZ_made_easy.bmp
+|   |   03_HP_SC_better_together.bmp
+|   |   04_HP_IZE_organise.bmp
+|   |   04_HP_IZ_organise.bmp
+|   |   05_HP_IZE_edit.bmp
+|   |   05_HP_IZ_edit.bmp
+|   |   06_HP_Instant_Share.bmp
+|   |   07_HP_IZE_photo_printing.bmp
+|   |   07_HP_IZ_photo_printing.bmp
+|   |   08_HP_IZ_projects.bmp
+|   |   09_HP_IZ_archive.bmp
+|   |   10_HP_Supplies.bmp
+|   |   11_HP_help_support.bmp
+|   |   12_HP_web_register.bmp
+|   |   13_HP_tour_Learning_products.bmp
+|   |   14_HP_IZE_Simple.bmp
+|   |   15_HP_IZE_album_printing.bmp
+|   |   CSDialogBanner.bmp
+|   |   CSDialogBannerRTL.bmp
+|   |   HPCommunication.dll
+|   |   HPScripting.dll
+|   |   HPZarp01.exe
+|   |   HPZcdl01.exe
+|   |   HPZchk01.exe
+|   |   HPZddv01.exe
+|   |   HPZgat01.exe
+|   |   HPZnet01.exe
+|   |   HPZnfx01.exe
+|   |   HPZnop01.exe
+|   |   HPZopt01.exe
+|   |   HPZpsc01.exe
+|   |   HPZpsl01.exe
+|   |   HPZrcn01.exe
+|   |   HPZrcv01.exe
+|   |   HPZrein01.exe
+|   |   HPZsui01.exe
+|   |   HPZtim01.exe
+|   |   HPZwis01.exe
+|   |   HPZwrp01.exe
+|   |   HPZwup01.exe
+|   |   HPeDiag.dll
+|   |   HPeSupport.dll
+|   |   Hpomig.dat
+|   |   Hponiscp01.exe
+|   |   InstallMetrics.dll
+|   |   InternetUtil.dll
+|   |   IsDialogBanner.bmp
+|   |   IsDialogBannerRTL.bmp
+|   |   IsDialogBitmap.bmp
+|   |   IsDialogBitmapRTL.bmp
+|   |   MFC71.dll
+|   |   RulesEngine.dll
+|   |   aio_1.bmp
+|   |   aio_2.bmp
+|   |   aio_3.bmp
+|   |   blkME.inf
+|   |   cfgtoip.exe
+|   |   fsshutdown.dat
+|   |   hpbntkrs.dll
+|   |   hpbskutl.dll
+|   |   hpdscrALL.dat
+|   |   hpgeneric.dll
+|   |   hpjmpr30.vxd
+|   |   hpjmpr40.sys
+|   |   hpjmpr50.sys
+|   |   hpjndis3.vxd
+|   |   hpjndis4.sys
+|   |   hpjndis5.sys
+|   |   hpjnds50.dll
+|   |   hpjsiadp.dll
+|   |   hpjsira.exe
+|   |   hpntwkexe.exe
+|   |   hpntwkwiz.dll
+|   |   hpntwkwiz_ar.dll
+|   |   hpntwkwiz_cs.dll
+|   |   hpntwkwiz_da.dll
+|   |   hpntwkwiz_de.dll
+|   |   hpntwkwiz_el.dll
+|   |   hpntwkwiz_en.dll
+|   |   hpntwkwiz_es.dll
+|   |   hpntwkwiz_fi.dll
+|   |   hpntwkwiz_fr.dll
+|   |   hpntwkwiz_he.dll
+|   |   hpntwkwiz_hu.dll
+|   |   hpntwkwiz_it.dll
+|   |   hpntwkwiz_ja.dll
+|   |   hpntwkwiz_ko.dll
+|   |   hpntwkwiz_nl.dll
+|   |   hpntwkwiz_no.dll
+|   |   hpntwkwiz_pl.dll
+|   |   hpntwkwiz_pt.dll
+|   |   hpntwkwiz_ru.dll
+|   |   hpntwkwiz_sv.dll
+|   |   hpntwkwiz_tr.dll
+|   |   hpntwkwiz_zhcn.dll
+|   |   hpntwkwiz_zhtw.dll
+|   |   hpoapd01.exe
+|   |   hpomdl09.dat
+|   |   hponac.dat
+|   |   hponac01.exe
+|   |   hponicifs01.exe
+|   |   hponiprint01.exe
+|   |   hponiscan01.exe
+|   |   hporfd01.exe
+|   |   hposcr09.dat
+|   |   hposcr3rdp.dat
+|   |   hposcrd4.dat
+|   |   hpose050.dat
+|   |   hpose060.dat
+|   |   hposf050.dat
+|   |   hposf060.dat
+|   |   hpowfs01.exe
+|   |   hpqbud01.dat
+|   |   hpqbud04.dat
+|   |   hpqbud05.dat
+|   |   hpqbud06.dat
+|   |   hpqbud08.dat
+|   |   hpqbud11.dat
+|   |   hpqhsc01.dat
+|   |   hpqscr01.dat
+|   |   hpzdui01.exe
+|   |   hpzfwx01.exe
+|   |   hpzjfw01.dll
+|   |   hpzjpp01.dll
+|   |   hpzjut02.dll
+|   |   hpzmsi01.exe
+|   |   hpzmsirb.dat
+|   |   hpzpnp01.exe
+|   |   hpzprl01.exe
+|   |   hpzscr01.exe
+|   |   hpzshl01.exe
+|   |   mdfix01.exe
+|   |   mfc42.dll
+|   |   msvcirt.dll
+|   |   msvcp60.dll
+|   |   msvcp71.dll
+|   |   msvcr71.dll
+|   |   msxml3.dll
+|   |   msxml3a.dll
+|   |   msxml3r.dll
+|   |   netfx.msi
+|   |   netfx1.cab
+|   |   openssldll.dll
+|   |   optdetails1028.rtf
+|   |   optdetails1029.rtf
+|   |   optdetails1030.rtf
+|   |   optdetails1031.rtf
+|   |   optdetails1032.rtf
+|   |   optdetails1033.rtf
+|   |   optdetails1034.rtf
+|   |   optdetails1035.rtf
+|   |   optdetails1036.rtf
+|   |   optdetails1038.rtf
+|   |   optdetails1040.rtf
+|   |   optdetails1041.rtf
+|   |   optdetails1042.rtf
+|   |   optdetails1043.rtf
+|   |   optdetails1044.rtf
+|   |   optdetails1045.rtf
+|   |   optdetails1046.rtf
+|   |   optdetails1049.rtf
+|   |   optdetails1053.rtf
+|   |   optdetails1055.rtf
+|   |   optdetails2052.rtf
+|   |   opteDesc1028.rtf
+|   |   opteDesc1029.rtf
+|   |   opteDesc1030.rtf
+|   |   opteDesc1031.rtf
+|   |   opteDesc1032.rtf
+|   |   opteDesc1033.rtf
+|   |   opteDesc1034.rtf
+|   |   opteDesc1035.rtf
+|   |   opteDesc1036.rtf
+|   |   opteDesc1038.rtf
+|   |   opteDesc1040.rtf
+|   |   opteDesc1041.rtf
+|   |   opteDesc1042.rtf
+|   |   opteDesc1043.rtf
+|   |   opteDesc1044.rtf
+|   |   opteDesc1045.rtf
+|   |   opteDesc1046.rtf
+|   |   opteDesc1049.rtf
+|   |   opteDesc1053.rtf
+|   |   opteDesc1055.rtf
+|   |   opteDesc2052.rtf
+|   |   opthelp1025.rtf
+|   |   opthelp1028.rtf
+|   |   opthelp1029.rtf
+|   |   opthelp1030.rtf
+|   |   opthelp1031.rtf
+|   |   opthelp1032.rtf
+|   |   opthelp1033.rtf
+|   |   opthelp1034.rtf
+|   |   opthelp1035.rtf
+|   |   opthelp1036.rtf
+|   |   opthelp1037.rtf
+|   |   opthelp1038.rtf
+|   |   opthelp1040.rtf
+|   |   opthelp1041.rtf
+|   |   opthelp1042.rtf
+|   |   opthelp1043.rtf
+|   |   opthelp1044.rtf
+|   |   opthelp1045.rtf
+|   |   opthelp1046.rtf
+|   |   opthelp1049.rtf
+|   |   opthelp1053.rtf
+|   |   opthelp1054.rtf
+|   |   opthelp1055.rtf
+|   |   opthelp2052.rtf
+|   |   rapiddiscovery.dll
+|   |   sdicommunications.dll
+|   |   sdiencryption.dll
+|   |   sdifirewall.dll
+|   |   sdifirewallnet.dll
+|   |   sdiingredients.dll
+|   |   sdiingredientsagents.dll
+|   |   sdilog.dll
+|   |   sdinetware.dll
+|   |   sdisdk.dll
+|   |   snmp_pp.dll
+|   |   snmpnet_pp.dll
+|   |   tls704d.dll
+|   |   tls7712d.dll
+|   |   usbready.exe
+|   |   wsnmp32.dll
+|   |   
+|   +---DeviceManagement
+|   |       HPZscr01.exe.dat
+|   |       
+|   +---FullDPApp
+|   |       HPZscr01.exe.dat
+|   |       
+|   +---RemotePrint
+|   |       HPZscr01.exe.dat
+|   |       
+|   +---aio_scan
+|   |       AiO_Scan_CDA.cab
+|   |       AiO_Scan_CDA.msi
+|   |       
+|   +---aiohelp
+|   |       2570Trb.cab
+|   |       2570Trb.msi
+|   |       2570_Help.cab
+|   |       2570_Help.msi
+|   |       3100_3200_3300_help.cab
+|   |       3100_3200_3300_help.msi
+|   |       3100_3200_3300trb.cab
+|   |       3100_3200_3300trb.msi
+|   |       4300Trb.cab
+|   |       4300Trb.msi
+|   |       4300_Help.cab
+|   |       4300_Help.msi
+|   |       6300Trb.cab
+|   |       6300Trb.msi
+|   |       6300_Help.cab
+|   |       6300_Help.msi
+|   |       F300_Help.cab
+|   |       F300_Help.msi
+|   |       c3100_Help.cab
+|   |       c3100_Help.msi
+|   |       c4100_Help.cab
+|   |       c4100_Help.msi
+|   |       c5100_Help.cab
+|   |       c5100_Help.msi
+|   |       c6100_Help.cab
+|   |       c6100_Help.msi
+|   |       c7100_Help.cab
+|   |       c7100_Help.msi
+|   |       
+|   +---aiosoftwarenpi
+|   |       AIOSoftwareNPI.cab
+|   |       AIOSoftwareNPI.msi
+|   |       
+|   +---bufferchm
+|   |       BufferChm.cab
+|   |       BufferChm.msi
+|   |       
+|   +---cp_calendartemplates1
+|   |       CP_CalendarTemplates1.cab
+|   |       CP_CalendarTemplates1.msi
+|   |       
+|   +---cp_onlineprojectsconfig
+|   |       cp_OnlineProjectsConfig.cab
+|   |       cp_OnlineProjectsConfig.msi
+|   |       
+|   +---cp_package_basic1
+|   |       cp_package_basic1.cab
+|   |       cp_package_basic1.msi
+|   |       
+|   +---cp_panorama1config
+|   |       cp_panorama1config.cab
+|   |       cp_panorama1config.msi
+|   |       
+|   +---cp_posterprintconfig
+|   |       cp_PosterPrintConfig.cab
+|   |       cp_PosterPrintConfig.msi
+|   |       
+|   +---cuetour
+|   |       CueTour.cab
+|   |       CueTour.msi
+|   |       
+|   +---destinations
+|   |       Destinations.cab
+|   |       Destinations.msi
+|   |       
+|   +---docproc
+|   |       Data1.cab
+|   |       DocProc.msi
+|   |       
+|   +---documentviewer
+|   |       DocumentViewer.cab
+|   |       DocumentViewer.msi
+|   |       HPZscr01.exe.dat
+|   |       
+|   +---eSupport
+|   |       HPZscr01.exe.dat
+|   |       
+|   +---enu
+|   |       ie6setup.exe
+|   |       
+|   +---esn
+|   |       ie6setup.exe
+|   |       
+|   +---fax
+|   |       fax_CDA.cab
+|   |       fax_CDA.msi
+|   |       
+|   +---fra
+|   |       ieSetup.exe
+|   |       
+|   +---help
+|   |   |   hpntwkwizhlp.ini
+|   |   |   
+|   |   +---en
+|   |   |       Wireless Encryption - WEP.htm
+|   |   |       addpntrslgipntwks.htm
+|   |   |       authentication.htm
+|   |   |       cannot_continue.htm
+|   |   |       change_tcpip_settings.htm
+|   |   |       check_cable_connection.htm
+|   |   |       confirm_settings_prn_found.htm
+|   |   |       confirm_settings_tcpip.htm
+|   |   |       conn_type_network_usb.htm
+|   |   |       conn_type_wireless_wired.htm
+|   |   |       conn_type_wireless_wired_usb.htm
+|   |   |       connect_network_cable.htm
+|   |   |       establish_comm_SmartKey.htm
+|   |   |       establish_communication.htm
+|   |   |       establish_communication_SmartKey.htm
+|   |   |       firewall_detected.htm
+|   |   |       glossary.htm
+|   |   |       help.css
+|   |   |       help.js
+|   |   |       identifyprinter.htm
+|   |   |       idpntraddr.htm
+|   |   |       idpntrlist.htm
+|   |   |       invalid_settings.htm
+|   |   |       network_protocols.htm
+|   |   |       notice_about_firewalls.htm
+|   |   |       ntwkconfigops.htm
+|   |   |       pass_phrase.htm
+|   |   |       portname.htm
+|   |   |       printer_not_found.htm
+|   |   |       printer_settings.htm
+|   |   |       printers_found.htm
+|   |   |       select_network_name.htm
+|   |   |       setntwkcommode.htm
+|   |   |       single_printer_found.htm
+|   |   |       transfer_wireless_settings.htm
+|   |   |       unable_to_complete.htm
+|   |   |       unable_verify_ntwk_settings.htm
+|   |   |       unable_verify_wrls_settings.htm
+|   |   |       usb_flash_drive.htm
+|   |   |       verfication_successful.htm
+|   |   |       verify_settings.htm
+|   |   |       verify_settings_wired.htm
+|   |   |       verify_wireless_profile.htm
+|   |   |       warning.htm
+|   |   |       wep_required.htm
+|   |   |       wep_unknown.htm
+|   |   |       wireless_glossary.htm
+|   |   |       wireless_security.htm
+|   |   |       wireless_settings.htm
+|   |   |       wireless_settings_find.htm
+|   |   |       
+|   |   +---es
+|   |   |       Wireless Encryption - WEP.htm
+|   |   |       addpntrslgipntwks.htm
+|   |   |       authentication.htm
+|   |   |       cannot_continue.htm
+|   |   |       change_tcpip_settings.htm
+|   |   |       check_cable_connection.htm
+|   |   |       check_computer_and_printer.htm
+|   |   |       check_printer.htm
+|   |   |       chg_wireless_settings.htm
+|   |   |       confirm_settings_prn_found.htm
+|   |   |       confirm_settings_tcpip.htm
+|   |   |       conn_type_network_usb.htm
+|   |   |       conn_type_wireless_wired.htm
+|   |   |       conn_type_wireless_wired_usb.htm
+|   |   |       connect_network_cable.htm
+|   |   |       establish_comm_SmartKey.htm
+|   |   |       establish_communication.htm
+|   |   |       establish_communication_SmartKey.htm
+|   |   |       glossary.htm
+|   |   |       help.css
+|   |   |       help.js
+|   |   |       identifyprinter.htm
+|   |   |       idpntraddr.htm
+|   |   |       idpntrlist.htm
+|   |   |       invalid_settings.htm
+|   |   |       network_protocols.htm
+|   |   |       notice_about_firewalls.htm
+|   |   |       ntwkconfigops.htm
+|   |   |       pass_phrase.htm
+|   |   |       portname.htm
+|   |   |       printer_not_found.htm
+|   |   |       printer_settings.htm
+|   |   |       printers_found.htm
+|   |   |       search_method.htm
+|   |   |       select_network_name.htm
+|   |   |       setntwkcommode.htm
+|   |   |       single_printer_found.htm
+|   |   |       transfer_wireless_settings.htm
+|   |   |       unable_to_communicate.htm
+|   |   |       unable_to_complete.htm
+|   |   |       unable_verify_ntwk_settings.htm
+|   |   |       unable_verify_wrls_settings.htm
+|   |   |       usb_flash_drive.htm
+|   |   |       verfication_successful.htm
+|   |   |       verify_settings.htm
+|   |   |       verify_settings_wired.htm
+|   |   |       verify_wireless_profile.htm
+|   |   |       verify_wireless_settings.htm
+|   |   |       warning.htm
+|   |   |       wep_required.htm
+|   |   |       wep_unknown.htm
+|   |   |       wireless_security.htm
+|   |   |       wireless_settings.htm
+|   |   |       wireless_settings_find.htm
+|   |   |       
+|   |   +---fr
+|   |   |       Wireless Encryption - WEP.htm
+|   |   |       addpntrslgipntwks.htm
+|   |   |       authentication.htm
+|   |   |       cannot_continue.htm
+|   |   |       change_tcpip_settings.htm
+|   |   |       check_cable_connection.htm
+|   |   |       check_computer_and_printer.htm
+|   |   |       check_printer.htm
+|   |   |       chg_wireless_settings.htm
+|   |   |       confirm_settings_prn_found.htm
+|   |   |       confirm_settings_tcpip.htm
+|   |   |       conn_type_network_usb.htm
+|   |   |       conn_type_wireless_wired.htm
+|   |   |       conn_type_wireless_wired_usb.htm
+|   |   |       connect_network_cable.htm
+|   |   |       establish_comm_SmartKey.htm
+|   |   |       establish_communication.htm
+|   |   |       establish_communication_SmartKey.htm
+|   |   |       glossary.htm
+|   |   |       help.css
+|   |   |       help.js
+|   |   |       identifyprinter.htm
+|   |   |       idpntraddr.htm
+|   |   |       idpntrlist.htm
+|   |   |       invalid_settings.htm
+|   |   |       network_protocols.htm
+|   |   |       notice_about_firewalls.htm
+|   |   |       ntwkconfigops.htm
+|   |   |       pass_phrase.htm
+|   |   |       portname.htm
+|   |   |       printer_not_found.htm
+|   |   |       printer_settings.htm
+|   |   |       printers_found.htm
+|   |   |       search_method.htm
+|   |   |       select_network_name.htm
+|   |   |       setntwkcommode.htm
+|   |   |       single_printer_found.htm
+|   |   |       transfer_wireless_settings.htm
+|   |   |       unable_to_communicate.htm
+|   |   |       unable_to_complete.htm
+|   |   |       unable_verify_ntwk_settings.htm
+|   |   |       unable_verify_wrls_settings.htm
+|   |   |       usb_flash_drive.htm
+|   |   |       verfication_successful.htm
+|   |   |       verify_settings.htm
+|   |   |       verify_settings_wired.htm
+|   |   |       verify_wireless_profile.htm
+|   |   |       verify_wireless_settings.htm
+|   |   |       warning.htm
+|   |   |       wep_required.htm
+|   |   |       wep_unknown.htm
+|   |   |       wireless_security.htm
+|   |   |       wireless_settings.htm
+|   |   |       wireless_settings_find.htm
+|   |   |       
+|   |   +---images
+|   |   |       Keep Looking on Network_gray.PNG
+|   |   |       Network Wire_gray.PNG
+|   |   |       SmartKey Image_gray.PNG
+|   |   |       link_light_off.gif
+|   |   |       link_light_on.gif
+|   |   |       usb_icon.gif
+|   |   |       wired_icon.gif
+|   |   |       wireless_icon.gif
+|   |   |       
+|   |   \---pt
+|   |           Wireless Encryption - WEP.htm
+|   |           addpntrslgipntwks.htm
+|   |           authentication.htm
+|   |           cannot_continue.htm
+|   |           change_tcpip_settings.htm
+|   |           check_cable_connection.htm
+|   |           check_computer_and_printer.htm
+|   |           check_printer.htm
+|   |           chg_wireless_settings.htm
+|   |           confirm_settings_prn_found.htm
+|   |           confirm_settings_tcpip.htm
+|   |           conn_type_network_usb.htm
+|   |           conn_type_wireless_wired.htm
+|   |           conn_type_wireless_wired_usb.htm
+|   |           connect_network_cable.htm
+|   |           establish_comm_SmartKey.htm
+|   |           establish_communication.htm
+|   |           establish_communication_SmartKey.htm
+|   |           glossary.htm
+|   |           help.css
+|   |           help.js
+|   |           identifyprinter.htm
+|   |           idpntraddr.htm
+|   |           idpntrlist.htm
+|   |           invalid_settings.htm
+|   |           network_protocols.htm
+|   |           notice_about_firewalls.htm
+|   |           ntwkconfigops.htm
+|   |           pass_phrase.htm
+|   |           portname.htm
+|   |           printer_not_found.htm
+|   |           printer_settings.htm
+|   |           printers_found.htm
+|   |           search_method.htm
+|   |           select_network_name.htm
+|   |           setntwkcommode.htm
+|   |           single_printer_found.htm
+|   |           transfer_wireless_settings.htm
+|   |           unable_to_communicate.htm
+|   |           unable_to_complete.htm
+|   |           unable_verify_ntwk_settings.htm
+|   |           unable_verify_wrls_settings.htm
+|   |           usb_flash_drive.htm
+|   |           verfication_successful.htm
+|   |           verify_settings.htm
+|   |           verify_settings_wired.htm
+|   |           verify_wireless_profile.htm
+|   |           verify_wireless_settings.htm
+|   |           warning.htm
+|   |           wep_required.htm
+|   |           wep_unknown.htm
+|   |           wireless_security.htm
+|   |           wireless_settings.htm
+|   |           wireless_settings_find.htm
+|   |           
+|   +---hpphotosmartexpress
+|   |       HPPhotoSmartExpress.cab
+|   |       HPPhotoSmartExpress.msi
+|   |       
+|   +---hpproductassistant
+|   |       hpproductassistant.cab
+|   |       hpproductassistant.msi
+|   |       
+|   +---hpsoftwareupdate
+|   |       1025.mst
+|   |       1028.mst
+|   |       1029.mst
+|   |       1030.mst
+|   |       1031.mst
+|   |       1032.mst
+|   |       1033.mst
+|   |       1034.mst
+|   |       1035.mst
+|   |       1036.mst
+|   |       1037.mst
+|   |       1038.mst
+|   |       1040.mst
+|   |       1041.mst
+|   |       1042.mst
+|   |       1043.mst
+|   |       1044.mst
+|   |       1045.mst
+|   |       1046.mst
+|   |       1049.mst
+|   |       1053.mst
+|   |       1055.mst
+|   |       2052.mst
+|   |       Data1.cab
+|   |       HP Software Update.msi
+|   |       HPSU306Stub.msi
+|   |       
+|   +---imagezoneexpress
+|   |       0x0404.ini
+|   |       0x0405.ini
+|   |       0x0406.ini
+|   |       0x0407.ini
+|   |       0x0408.ini
+|   |       0x0409.ini
+|   |       0x040a.ini
+|   |       0x040b.ini
+|   |       0x040c.ini
+|   |       0x040e.ini
+|   |       0x0410.ini
+|   |       0x0411.ini
+|   |       0x0412.ini
+|   |       0x0413.ini
+|   |       0x0414.ini
+|   |       0x0415.ini
+|   |       0x0416.ini
+|   |       0x0419.ini
+|   |       0x041d.ini
+|   |       0x041f.ini
+|   |       0x0804.ini
+|   |       1028.mst
+|   |       1029.mst
+|   |       1030.mst
+|   |       1031.mst
+|   |       1032.mst
+|   |       1033.mst
+|   |       1034.mst
+|   |       1035.mst
+|   |       1036.mst
+|   |       1038.mst
+|   |       1040.mst
+|   |       1041.mst
+|   |       1042.mst
+|   |       1043.mst
+|   |       1044.mst
+|   |       1045.mst
+|   |       1046.mst
+|   |       1049.mst
+|   |       1053.mst
+|   |       1055.mst
+|   |       2052.mst
+|   |       EBAY.cab
+|   |       ImageZoneExpress.cab
+|   |       ImageZoneExpress.msi
+|   |       Lang1025.cab
+|   |       Lang1028.cab
+|   |       Lang1029.cab
+|   |       Lang1030.cab
+|   |       Lang1031.cab
+|   |       Lang1032.cab
+|   |       Lang1033.cab
+|   |       Lang1034.cab
+|   |       Lang1035.cab
+|   |       Lang1036.cab
+|   |       Lang1037.cab
+|   |       Lang1038.cab
+|   |       Lang1040.cab
+|   |       Lang1041.cab
+|   |       Lang1042.cab
+|   |       Lang1043.cab
+|   |       Lang1044.cab
+|   |       Lang1045.cab
+|   |       Lang1046.cab
+|   |       Lang1049.cab
+|   |       Lang1053.cab
+|   |       Lang1055.cab
+|   |       Lang2052.cab
+|   |       Lang2057.cab
+|   |       PhotobackPluginSetup.exe
+|   |       
+|   +---instantsharedevices
+|   |       InstantShareDevices.cab
+|   |       InstantShareDevices.msi
+|   |       
+|   +---instantsharedevicesmfc
+|   |       InstantShareDevicesMFC.cab
+|   |       InstantShareDevicesMFC.msi
+|   |       
+|   +---langpacks
+|   |   +---esn
+|   |   |       langpac1.cab
+|   |   |       langpack.msi
+|   |   |       
+|   |   +---fra
+|   |   |       langpac1.cab
+|   |   |       langpack.msi
+|   |   |       
+|   |   \---ptb
+|   |           langpac1.cab
+|   |           langpack.msi
+|   |           
+|   +---marketresearch
+|   |       MarketResearch.cab
+|   |       marketresearch.msi
+|   |       
+|   +---newcopy
+|   |       newcopy_CDA.cab
+|   |       newcopy_CDA.msi
+|   |       
+|   +---panostandalone
+|   |       PanoStandalone.cab
+|   |       panostandalone.msi
+|   |       
+|   +---photogallery
+|   |       PhotoGallery.cab
+|   |       PhotoGallery.msi
+|   |       
+|   +---product
+|   |       1025.mst
+|   |       1028.mst
+|   |       1029.mst
+|   |       1030.mst
+|   |       1031.mst
+|   |       1032.mst
+|   |       1033.mst
+|   |       1034.mst
+|   |       1035.mst
+|   |       1036.mst
+|   |       1037.mst
+|   |       1038.mst
+|   |       1040.mst
+|   |       1041.mst
+|   |       1042.mst
+|   |       1043.mst
+|   |       1044.mst
+|   |       1045.mst
+|   |       1046.mst
+|   |       1049.mst
+|   |       1053.mst
+|   |       1055.mst
+|   |       2052.mst
+|   |       2570.cab
+|   |       2570.msi
+|   |       3100.cab
+|   |       3100.msi
+|   |       3200.cab
+|   |       3200.msi
+|   |       3300.cab
+|   |       3300.msi
+|   |       4300.msi
+|   |       6300.msi
+|   |       F300.msi
+|   |       c3100.msi
+|   |       c4100.msi
+|   |       c5100.cab
+|   |       c5100.msi
+|   |       c6100.cab
+|   |       c6100.msi
+|   |       c7100.cab
+|   |       c7100.msi
+|   |       
+|   +---productcontextnpi
+|   |       ProductContextNPI.cab
+|   |       ProductContextNPI.msi
+|   |       
+|   +---ptb
+|   |       ie6setup.exe
+|   |       
+|   +---qfolder
+|   |       CustomerResearchQFolder.msi
+|   |       DeviceManagementQFolder.msi
+|   |       DocumentViewerQFolder.msi
+|   |       FullDPAppQFolder.msi
+|   |       OCRQFolder.msi
+|   |       OptionalContentQFolder.msi
+|   |       QFolder.msi
+|   |       RemotePrintQFolder.msi
+|   |       eSupportQFolder.msi
+|   |       
+|   +---randmap
+|   |       RandMap.cab
+|   |       RandMap.msi
+|   |       
+|   +---readme
+|   |   |   Readme.msi
+|   |   |   
+|   |   \---readme
+|   |       +---1033
+|   |       |       Readme.html
+|   |       |       
+|   |       +---1034
+|   |       |       Readme.html
+|   |       |       
+|   |       +---1036
+|   |       |       Readme.html
+|   |       |       
+|   |       \---1046
+|   |               Readme.html
+|   |               
+|   +---redisco
+|   |       hpzjfw01.dll
+|   |       hpzjrd01.dll
+|   |       hpzjsn01.dll
+|   |       test.txt
+|   |       wsnmp32.dll
+|   |       
+|   +---scan
+|   |       Data1.cab
+|   |       Scan.msi
+|   |       
+|   +---scannercopy
+|   |       Data1.cab
+|   |       ScannerCopy.msi
+|   |       
+|   +---sipm
+|   |       1025.mst
+|   |       1028.mst
+|   |       1029.mst
+|   |       1030.mst
+|   |       1031.mst
+|   |       1032.mst
+|   |       1033.mst
+|   |       1034.mst
+|   |       1035.mst
+|   |       1036.mst
+|   |       1037.mst
+|   |       1038.mst
+|   |       1040.mst
+|   |       1041.mst
+|   |       1042.mst
+|   |       1043.mst
+|   |       1044.mst
+|   |       1045.mst
+|   |       1046.mst
+|   |       1049.mst
+|   |       1051.mst
+|   |       1053.mst
+|   |       1054.mst
+|   |       1055.mst
+|   |       2052.mst
+|   |       2070.mst
+|   |       HP_Standard_Port_Monitor.msi
+|   |       
+|   +---skinshp1
+|   |       SkinsHP1.cab
+|   |       SkinsHP1.msi
+|   |       
+|   +---slideshow
+|   |       SlideShow.cab
+|   |       SlideShow.msi
+|   |       
+|   +---solutioncenter
+|   |       SolutionCenter.cab
+|   |       SolutionCenter.msi
+|   |       
+|   +---sonic_primosdk
+|   |       sonic_primosdk.cab
+|   |       sonic_primosdk.msi
+|   |       
+|   +---status
+|   |       status.cab
+|   |       status.msi
+|   |       
+|   +---toolbox
+|   |       Toolbox.cab
+|   |       Toolbox.msi
+|   |       
+|   +---trayapp
+|   |       TrayApp.cab
+|   |       TrayApp.msi
+|   |       
+|   +---unloadintent
+|   |       Data1.cab
+|   |       Unload.msi
+|   |       
+|   +---webreg
+|   |       WebReg.cab
+|   |       WebReg.msi
+|   |       
+|   \---wis
+|       +---win2k_xp
+|       |       instmsi.exe
+|       |       
+|       \---win9x
+|               instmsi.exe
+|               
++---slk
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---svc
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---tha
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
++---tur
+|   \---drivers
+|       +---com_lang
+|       |       hpfmom14.hl_
+|       |       hpofax08.dll
+|       |       hpzr3214.dl_
+|       |       hpzrm314.dl_
+|       |       
+|       \---win9x_me
+|               hpoupdmn.inf
+|               hpzrm114.dl_
+|               usbmon.dll
+|               usbprint.sys
+|               
+\---util
+    |   cfgmgr32.dll
+    |   setupapi.dll
+    |   
+    +---aio
+    |       hpopdi05.exe
+    |       hpopin05.exe
+    |       
+    +---ccc
+    |   |   1606fix.reg
+    |   |   240075.exe
+    |   |   270615USAM.EXE
+    |   |   AccessDeniedUtility.exe
+    |   |   FixErr1714.exe
+    |   |   HPZlgc01.exe
+    |   |   HPZprs01.exe
+    |   |   MediaSizeSettings.exe
+    |   |   Q256858_W2K_SP1_x86.EXE
+    |   |   Q283787_W2K_SP3_x86_en.EXE
+    |   |   Uninstall.bat
+    |   |   Uninstall_64.bat
+    |   |   Uninstall_L1.bat
+    |   |   Uninstall_L1_64.bat
+    |   |   Uninstall_L2.bat
+    |   |   Uninstall_L2_64.bat
+    |   |   Uninstall_L3.bat
+    |   |   Uninstall_L3_64.bat
+    |   |   Uninstall_L4.bat
+    |   |   Uninstall_L4_64.bat
+    |   |   afs2k_install.bat
+    |   |   afs2k_remove.bat
+    |   |   afsinst.exe
+    |   |   collect.bat
+    |   |   hposcrlr.bat
+    |   |   hpzlgc01.dat
+    |   |   
+    |   +---enu
+    |   |       Q283787_W2K_SP3_x86.EXE
+    |   |       WindowsXP-KB822603-x86-enu.exe
+    |   |       
+    |   +---esn
+    |   |       Q283787_W2K_SP3_x86.EXE
+    |   |       WindowsXP-KB822603-x86-esn.exe
+    |   |       
+    |   +---fra
+    |   |       Q283787_W2K_SP3_x86.EXE
+    |   |       WindowsXP-KB822603-x86-fra.exe
+    |   |       
+    |   \---ptb
+    |           Q283787_W2K_SP3_x86.EXE
+    |           WindowsXP-KB822603-x86-ptb.exe
+    |           
+    +---common
+    |       hpfpdi14.exe
+    |       hpqisc09.exe
+    |       hpzghl14.exe
+    |       hpzpin14.exe
+    |       
+    \---support_tools
+        \---msi_install_cleanup
+            +---win2000
+            |       msicuu.exe
+            |       
+            \---win9x
+                    msicu.exe
+                    

@@ -1,0 +1,1990 @@
+Folder PATH listing for volume GHOST_By_BLACKID
+Volume serial number is 77E6-42DA
+G:\
+|   Autorun.inf
+|   CD_Start.exe
+|   Start.txt
+|   
+\---RESOURCE
+    |   AboutMe.txt
+    |   cover.jpg
+    |   ir_inter.wav
+    |   xfour.jpg
+    |   
+    +---ghost10
+    |   |   AUTORUN.EXE
+    |   |   AUTORUN.INF
+    |   |   DATA1.CAB
+    |   |   GB_PROG.EXE
+    |   |   NGHOST10.MSI
+    |   |   SCSSDIST.INI
+    |   |   SETUP.EXE
+    |   |   UPDTLCTR.EXE
+    |   |   WIN51
+    |   |   WIN51IA
+    |   |   WIN51IA.SP1
+    |   |   WINBOM.INI
+    |   |   
+    |   +---AUTORUN
+    |   |       AUTORUN.BMP
+    |   |       AUTORUN.EXTENSION.DRIVERVALIDATION.XML
+    |   |       AUTORUN.EXTENSION.EXIT.XML
+    |   |       AUTORUN.EXTENSION.INSTALL.XML
+    |   |       AUTORUN.EXTENSION.PRODUCTTOUR.XML
+    |   |       AUTORUN.EXTENSION.READMEFILE.XML
+    |   |       AUTORUN.EXTENSION.UPDATELOCATOR.XML
+    |   |       AUTORUN.INI
+    |   |       CLICK.WAV
+    |   |       HOVER.WAV
+    |   |       
+    |   +---CRACK
+    |   |       PATCH.EXE
+    |   |       
+    |   +---DOCS
+    |   |   |   README.TXT
+    |   |   |   READMEISO.TXT
+    |   |   |   SREHELP.CHM
+    |   |   |   USERGUIDE.PDF
+    |   |   |   
+    |   |   +---ACROBAT
+    |   |   |       ACROBAT6.EXE
+    |   |   |       
+    |   |   \---AUTOMATION
+    |   |       |   ADDIMAGEJOB.VBS.HTML
+    |   |       |   AGENTABILITIES.HTML
+    |   |       |   AGENTINFO.HTML
+    |   |       |   AGENTLICENSE.HTML
+    |   |       |   AGENTSTATUS.HTML
+    |   |       |   APPINSTALLMONITOR.HTML
+    |   |       |   COMMANDFILE.HTML
+    |   |       |   CONSOLIDATEJOB.HTML
+    |   |       |   COPYJOB.HTML
+    |   |       |   COPYVOLUME.VBS.HTML
+    |   |       |   CREATEIMAGENOW.VBS.HTML
+    |   |       |   DESTINATION.HTML
+    |   |       |   DISK.HTML
+    |   |       |   DRIVECHANGESMONITOR.HTML
+    |   |       |   EACTIVATION_LEVEL.HTML
+    |   |       |   ECONSOLIDATE_FREQUENCY.HTML
+    |   |       |   EIMAGE_COMPRESSION.HTML
+    |   |       |   EIMAGE_ENCRYPTION.HTML
+    |   |       |   EIMAGE_REASON.HTML
+    |   |       |   EIMAGE_STATE.HTML
+    |   |       |   EIMAGE_TRIGGERED_TYPE.HTML
+    |   |       |   EIMAGE_TYPE.HTML
+    |   |       |   EINTERVAL.HTML
+    |   |       |   ELOCATION_CONTEXT.HTML
+    |   |       |   EMAXTOR_INSTALL_STATE.HTML
+    |   |       |   EOPERATION_STATUS.HTML
+    |   |       |   EOPERATION_TIMEDOP_TYPE.HTML
+    |   |       |   EPQ_NOTIFY_PRIORITY.HTML
+    |   |       |   EPQ_NOTIFY_SMTP_AUTHENTICATION.HTML
+    |   |       |   EPQ_NOTIFY_TYPE.HTML
+    |   |       |   EVENTMONITORS.HTML
+    |   |       |   EVOLUME_STATE.HTML
+    |   |       |   FOLDERLOCATION.HTML
+    |   |       |   GETTINGSTARTED.HTML
+    |   |       |   IAGENTABILITIES.HTML
+    |   |       |   IAGENTABILITIES2.HTML
+    |   |       |   IAGENTINFO.HTML
+    |   |       |   IAGENTLICENSE.HTML
+    |   |       |   IAGENTSTATUS.HTML
+    |   |       |   IAGENTSTATUS2.HTML
+    |   |       |   IAPPINSTALLMONITOR.HTML
+    |   |       |   ICOMMANDFILE.HTML
+    |   |       |   ICOMMANDFILE2.HTML
+    |   |       |   ICONSOLIDATEJOB.HTML
+    |   |       |   ICOPYJOB.HTML
+    |   |       |   IDESTINATION.HTML
+    |   |       |   IDISK.HTML
+    |   |       |   IDRIVECHANGESMONITOR.HTML
+    |   |       |   IEVENTMONITOR.HTML
+    |   |       |   IEVENTMONITORCLIENT.HTML
+    |   |       |   IFOLDERLOCATION.HTML
+    |   |       |   IIMAGE.HTML
+    |   |       |   IIMAGE2.HTML
+    |   |       |   IIMAGEJOB.HTML
+    |   |       |   IIMAGEJOB2.HTML
+    |   |       |   IIMAGELOCATION.HTML
+    |   |       |   ILOCATIONCONSTRAINTS.HTML
+    |   |       |   IMAGE.HTML
+    |   |       |   IMAGEJOB.HTML
+    |   |       |   INDEX.HTML
+    |   |       |   INETWORKLOCATION.HTML
+    |   |       |   INOTIFY.HTML
+    |   |       |   INOTIFYAPP.HTML
+    |   |       |   INOTIFYEMAIL.HTML
+    |   |       |   INOTIFYEMAIL2.HTML
+    |   |       |   INOTIFYHANDLER.HTML
+    |   |       |   INOTIFYHANDLERMAINTAIN.HTML
+    |   |       |   INOTIFYLOG.HTML
+    |   |       |   INOTIFYSERIALIZED.HTML
+    |   |       |   INOTIFYSNMPTRAP.HTML
+    |   |       |   INOTIFYSYSEVENT.HTML
+    |   |       |   IOPTICALLOCATION.HTML
+    |   |       |   IPQIMOUNT.HTML
+    |   |       |   IPQTASK.HTML
+    |   |       |   IPROGRESSDLG.HTML
+    |   |       |   IPROTECTORAUTO.HTML
+    |   |       |   IPROTECTORAUTO2.HTML
+    |   |       |   IPUSHBUTTONBACKUPMONITOR.HTML
+    |   |       |   IRESTOREJOB.HTML
+    |   |       |   IRESTOREJOB2.HTML
+    |   |       |   IROLLBACKJOB.HTML
+    |   |       |   ISEGMENT.HTML
+    |   |       |   ITSMLOCATION.HTML
+    |   |       |   IUSERLOGOFFMONITOR.HTML
+    |   |       |   IUSERLOGONMONITOR.HTML
+    |   |       |   IVOLUME.HTML
+    |   |       |   IVOLUME2.HTML
+    |   |       |   IVPROAUTOCONSTANTS.HTML
+    |   |       |   IVPROOBJCONSTANTS.HTML
+    |   |       |   IVPROOBJCONSTANTS2.HTML
+    |   |       |   IVPROSCHEDULERCONSTANTS.HTML
+    |   |       |   IVPROSCHEDULERCONSTANTS2.HTML
+    |   |       |   LOCATIONCONSTRAINTS.HTML
+    |   |       |   NETWORKLOCATION.HTML
+    |   |       |   NOTIFY.HTML
+    |   |       |   NOTIFYHANDLER.HTML
+    |   |       |   OPTICALLOCATION.HTML
+    |   |       |   PQIMOUNT.HTML
+    |   |       |   PROGRESSDLG.HTML
+    |   |       |   PROTECTORAUTO.HTML
+    |   |       |   PUSHBUTTONBACKUPMONITOR.HTML
+    |   |       |   REMOVEALLJOBS.VBS.HTML
+    |   |       |   RESTOREJOB.HTML
+    |   |       |   ROLLBACKJOB.HTML
+    |   |       |   SEGMENT.HTML
+    |   |       |   TASK.HTML
+    |   |       |   TSMLOCATION.HTML
+    |   |       |   USERLOGOFFMONITOR.HTML
+    |   |       |   USERLOGONMONITOR.HTML
+    |   |       |   V2IMOUNTSVC.HTML
+    |   |       |   VOLUME.HTML
+    |   |       |   VPROAUTO.HTML
+    |   |       |   VPROAUTOCONSTANTS.HTML
+    |   |       |   VPROOBJ.HTML
+    |   |       |   VPROOBJCONSTANTS.HTML
+    |   |       |   VPROPROGRESS.HTML
+    |   |       |   VPROSCHEDULER.HTML
+    |   |       |   VPROSCHEDULERCONSTANTS.HTML
+    |   |       |   _IIMAGEJOBCONTAINEREVENTS.HTML
+    |   |       |   _IVOLUMECONTAINEREVENTS.HTML
+    |   |       |   _IVOLUMEEVENTS.HTML
+    |   |       |   
+    |   |       \---EXAMPLES
+    |   |               ADDIMAGEJOB.VBS.EXAMPLE
+    |   |               COPYVOLUME.VBS.EXAMPLE
+    |   |               CREATEIMAGENOW.VBS.EXAMPLE
+    |   |               REMOVEALLJOBS.VBS.EXAMPLE
+    |   |               
+    |   +---DOCUMENTS AND SETTINGS
+    |   |   \---DEFAULT USER
+    |   |       +---APPLICATION DATA
+    |   |       +---COOKIES
+    |   |       +---DESKTOP
+    |   |       +---FAVORITES
+    |   |       +---LOCAL SETTINGS
+    |   |       |   +---APPLICATION DATA
+    |   |       |   +---HISTORY
+    |   |       |   \---TEMPORARY INTERNET FILES
+    |   |       +---MY DOCUMENTS
+    |   |       |   \---MY PICTURES
+    |   |       +---NETHOOD
+    |   |       +---PRINTHOOD
+    |   |       +---RECENT
+    |   |       +---SENDTO
+    |   |       +---START MENU
+    |   |       |   \---PROGRAMS
+    |   |       |       \---STARTUP
+    |   |       \---TEMPLATES
+    |   +---DRIVER VALIDATION
+    |   |       DRIVERINFO.XML
+    |   |       DRIVERVALIDATION.EXE
+    |   |       
+    |   +---GOBACK
+    |   |       GB1033.LNG
+    |   |       GBLOGO.SYS
+    |   |       GBRES.DLL
+    |   |       GOBACK.RXC
+    |   |       SETUP.EXE
+    |   |       
+    |   +---I386
+    |   |   |   BIOSINFO.INF
+    |   |   |   BOOTFIX.BIN
+    |   |   |   HH.EXE
+    |   |   |   NTDETECT.COM
+    |   |   |   SETUPLDR.BIN
+    |   |   |   SETUPLDR.EXE
+    |   |   |   SPCMDCON.SYS
+    |   |   |   STARTROM.COM
+    |   |   |   TXTSETUP.SIF
+    |   |   |   WINBOM.INI
+    |   |   |   WINHLP32.EXE
+    |   |   |   
+    |   |   +---FONTS
+    |   |   |       8514FIX.FON
+    |   |   |       8514OEM.FON
+    |   |   |       8514SYS.FON
+    |   |   |       AHRONBD.TTF
+    |   |   |       ANDLSO.TTF
+    |   |   |       ANGSA.TTF
+    |   |   |       ANGSAB.TTF
+    |   |   |       ANGSAI.TTF
+    |   |   |       ANGSAU.TTF
+    |   |   |       ANGSAUB.TTF
+    |   |   |       ANGSAUI.TTF
+    |   |   |       ANGSAUZ.TTF
+    |   |   |       ANGSAZ.TTF
+    |   |   |       APP850.FON
+    |   |   |       ARIAL.TTF
+    |   |   |       ARIALBD.TTF
+    |   |   |       ARIALBI.TTF
+    |   |   |       ARIALI.TTF
+    |   |   |       ARIBLK.TTF
+    |   |   |       ARTRBDO.TTF
+    |   |   |       ARTRO.TTF
+    |   |   |       BROWA.TTF
+    |   |   |       BROWAB.TTF
+    |   |   |       BROWAI.TTF
+    |   |   |       BROWAU.TTF
+    |   |   |       BROWAUB.TTF
+    |   |   |       BROWAUI.TTF
+    |   |   |       BROWAUZ.TTF
+    |   |   |       BROWAZ.TTF
+    |   |   |       CGA40850.FON
+    |   |   |       CGA40WOA.FON
+    |   |   |       CGA80850.FON
+    |   |   |       CGA80WOA.FON
+    |   |   |       COMIC.TTF
+    |   |   |       COMICBD.TTF
+    |   |   |       CORDIA.TTF
+    |   |   |       CORDIAB.TTF
+    |   |   |       CORDIAI.TTF
+    |   |   |       CORDIAU.TTF
+    |   |   |       CORDIAUB.TTF
+    |   |   |       CORDIAUI.TTF
+    |   |   |       CORDIAUZ.TTF
+    |   |   |       CORDIAZ.TTF
+    |   |   |       COUR.TTF
+    |   |   |       COURBD.TTF
+    |   |   |       COURBI.TTF
+    |   |   |       COURE.FON
+    |   |   |       COURF.FON
+    |   |   |       COURI.TTF
+    |   |   |       DAVID.TTF
+    |   |   |       DAVIDBD.TTF
+    |   |   |       DAVIDTR.TTF
+    |   |   |       DOSAPP.FON
+    |   |   |       EGA40850.FON
+    |   |   |       EGA40WOA.FON
+    |   |   |       EGA80850.FON
+    |   |   |       EGA80WOA.FON
+    |   |   |       ESTRE.TTF
+    |   |   |       FRAMD.TTF
+    |   |   |       FRAMDIT.TTF
+    |   |   |       FRANK.TTF
+    |   |   |       GAUTAMI.TTF
+    |   |   |       GEORGIA.TTF
+    |   |   |       GEORGIAB.TTF
+    |   |   |       GEORGIAI.TTF
+    |   |   |       GEORGIAZ.TTF
+    |   |   |       IMPACT.TTF
+    |   |   |       LATHA.TTF
+    |   |   |       LUCON.TTF
+    |   |   |       LVNM.TTF
+    |   |   |       LVNMBD.TTF
+    |   |   |       L_10646.TTF
+    |   |   |       MANGAL.TTF
+    |   |   |       MARLETT.TTF
+    |   |   |       MICROSS.TTF
+    |   |   |       MODERN.FON
+    |   |   |       MRIAM.TTF
+    |   |   |       MRIAMC.TTF
+    |   |   |       MRIAMFX.TTF
+    |   |   |       MRIAMTR.TTF
+    |   |   |       MVBOLI.TTF
+    |   |   |       NRKIS.TTF
+    |   |   |       PALA.TTF
+    |   |   |       PALAB.TTF
+    |   |   |       PALABI.TTF
+    |   |   |       PALAI.TTF
+    |   |   |       RAAVI.TTF
+    |   |   |       ROD.TTF
+    |   |   |       RODTR.TTF
+    |   |   |       ROMAN.FON
+    |   |   |       SCRIPT.FON
+    |   |   |       SERIFE.FON
+    |   |   |       SERIFF.FON
+    |   |   |       SHRUTI.TTF
+    |   |   |       SIMPBDO.TTF
+    |   |   |       SIMPFXO.TTF
+    |   |   |       SIMPO.TTF
+    |   |   |       SMALLE.FON
+    |   |   |       SMALLF.FON
+    |   |   |       SSERIFE.FON
+    |   |   |       SSERIFF.FON
+    |   |   |       SYLFAEN.TTF
+    |   |   |       SYMBOL.TTF
+    |   |   |       TAHOMA.TTF
+    |   |   |       TAHOMABD.TTF
+    |   |   |       TIMES.TTF
+    |   |   |       TIMESBD.TTF
+    |   |   |       TIMESBI.TTF
+    |   |   |       TIMESI.TTF
+    |   |   |       TRADBDO.TTF
+    |   |   |       TRADO.TTF
+    |   |   |       TREBUC.TTF
+    |   |   |       TREBUCBD.TTF
+    |   |   |       TREBUCBI.TTF
+    |   |   |       TREBUCIT.TTF
+    |   |   |       TUNGA.TTF
+    |   |   |       UPCDB.TTF
+    |   |   |       UPCDBI.TTF
+    |   |   |       UPCDI.TTF
+    |   |   |       UPCDL.TTF
+    |   |   |       UPCEB.TTF
+    |   |   |       UPCEBI.TTF
+    |   |   |       UPCEI.TTF
+    |   |   |       UPCEL.TTF
+    |   |   |       UPCFB.TTF
+    |   |   |       UPCFBI.TTF
+    |   |   |       UPCFI.TTF
+    |   |   |       UPCFL.TTF
+    |   |   |       UPCIB.TTF
+    |   |   |       UPCIBI.TTF
+    |   |   |       UPCII.TTF
+    |   |   |       UPCIL.TTF
+    |   |   |       UPCJB.TTF
+    |   |   |       UPCJBI.TTF
+    |   |   |       UPCJI.TTF
+    |   |   |       UPCJL.TTF
+    |   |   |       UPCKB.TTF
+    |   |   |       UPCKBI.TTF
+    |   |   |       UPCKI.TTF
+    |   |   |       UPCKL.TTF
+    |   |   |       UPCLB.TTF
+    |   |   |       UPCLBI.TTF
+    |   |   |       UPCLI.TTF
+    |   |   |       UPCLL.TTF
+    |   |   |       VERDANA.TTF
+    |   |   |       VERDANAB.TTF
+    |   |   |       VERDANAI.TTF
+    |   |   |       VERDANAZ.TTF
+    |   |   |       VGA850.FON
+    |   |   |       VGA860.FON
+    |   |   |       VGA863.FON
+    |   |   |       VGA865.FON
+    |   |   |       VGAFIX.FON
+    |   |   |       VGAOEM.FON
+    |   |   |       VGASYS.FON
+    |   |   |       WEBDINGS.TTF
+    |   |   |       WINGDING.TTF
+    |   |   |       
+    |   |   +---HELP
+    |   |   |       AGT0406.HLP
+    |   |   |       AGT0407.HLP
+    |   |   |       AGT040B.HLP
+    |   |   |       AGT040C.HLP
+    |   |   |       AGT0410.HLP
+    |   |   |       AGT0413.HLP
+    |   |   |       AGT0414.HLP
+    |   |   |       AGT0416.HLP
+    |   |   |       AGT041D.HLP
+    |   |   |       AGT0816.HLP
+    |   |   |       AGT0C0A.HLP
+    |   |   |       
+    |   |   +---IME
+    |   |   +---INF
+    |   |   |       A320RAID.INF
+    |   |   |       ADHRAID.INF
+    |   |   |       AFC9XXX.INF
+    |   |   |       ANSMXP.INF
+    |   |   |       ANSPXP.INF
+    |   |   |       AR160.INF
+    |   |   |       AR170.INF
+    |   |   |       AR352.INF
+    |   |   |       B44WIN.INF
+    |   |   |       B57WIN32.INF
+    |   |   |       BCMW1180.INF
+    |   |   |       BCMWL5.INF
+    |   |   |       BTWUSB.INF
+    |   |   |       CDA1000.INF
+    |   |   |       CPQARRY2.INF
+    |   |   |       CPQCISSE.INF
+    |   |   |       CPQCISSM.INF
+    |   |   |       CPQFCALM.INF
+    |   |   |       D1000325.INF
+    |   |   |       D100B325.INF
+    |   |   |       D1E5132.INF
+    |   |   |       DAC1164P.INF
+    |   |   |       DAC960P.INF
+    |   |   |       DUBE100.INF
+    |   |   |       E1000325.INF
+    |   |   |       E100A325.INF
+    |   |   |       E100B325.INF
+    |   |   |       E1E5132.INF
+    |   |   |       EG1032V2.INF
+    |   |   |       EL2000X.INF
+    |   |   |       EL910.INF
+    |   |   |       EXR2000.INF
+    |   |   |       EXR3000.INF
+    |   |   |       FASTSX.INF
+    |   |   |       FASTTR33.INF
+    |   |   |       FASTTRAK.INF
+    |   |   |       FASTTX2.INF
+    |   |   |       FASTTX2K.INF
+    |   |   |       FASTTX4K.INF
+    |   |   |       FETNDIS.INF
+    |   |   |       FONT.INF
+    |   |   |       HPT3XX.INF
+    |   |   |       IAAHCI.INF
+    |   |   |       IASTOR.INF
+    |   |   |       INTL.INF
+    |   |   |       IPSRAIDN.INF
+    |   |   |       IXGB325.INF
+    |   |   |       LAYOUT.INF
+    |   |   |       LGYPCIGT.INF
+    |   |   |       LPSIMDEV.INF
+    |   |   |       LPXNDS.INF
+    |   |   |       MRAID2K.INF
+    |   |   |       NET100VT.INF
+    |   |   |       NET102MX.INF
+    |   |   |       NET1394.INF
+    |   |   |       NET21X4.INF
+    |   |   |       NET29XX.INF
+    |   |   |       NET3C556.INF
+    |   |   |       NET3C985.INF
+    |   |   |       NET3SR.INF
+    |   |   |       NET5020.INF
+    |   |   |       NET5515N.INF
+    |   |   |       NET557.INF
+    |   |   |       NET575NT.INF
+    |   |   |       NET650D.INF
+    |   |   |       NET656C5.INF
+    |   |   |       NET656N5.INF
+    |   |   |       NET713.INF
+    |   |   |       NET83815.INF
+    |   |   |       NET83820.INF
+    |   |   |       NETA3AB.INF
+    |   |   |       NETAARPS.INF
+    |   |   |       NETALI.INF
+    |   |   |       NETAMD2.INF
+    |   |   |       NETAN983.INF
+    |   |   |       NETANA.INF
+    |   |   |       NETATGIG.INF
+    |   |   |       NETATI24.INF
+    |   |   |       NETATI25.INF
+    |   |   |       NETATLK.INF
+    |   |   |       NETATNIC.INF
+    |   |   |       NETAUNI.INF
+    |   |   |       NETB57XP.INF
+    |   |   |       NETBCM4E.INF
+    |   |   |       NETBEAC.INF
+    |   |   |       NETBI32M.INF
+    |   |   |       NETBI32P.INF
+    |   |   |       NETBRDGM.INF
+    |   |   |       NETBRDGS.INF
+    |   |   |       NETCB102.INF
+    |   |   |       NETCB103.INF
+    |   |   |       NETCBE.INF
+    |   |   |       NETCE3.INF
+    |   |   |       NETCEM28.INF
+    |   |   |       NETCEM33.INF
+    |   |   |       NETCEM56.INF
+    |   |   |       NETCIS.INF
+    |   |   |       NETCLASS.INF
+    |   |   |       NETCMAK.INF
+    |   |   |       NETCPQC.INF
+    |   |   |       NETCPQG.INF
+    |   |   |       NETCPQI.INF
+    |   |   |       NETCPQMT.INF
+    |   |   |       NETCPS.INF
+    |   |   |       NETCTMRK.INF
+    |   |   |       NETDAV.INF
+    |   |   |       NETDEFXA.INF
+    |   |   |       NETDF650.INF
+    |   |   |       NETDGDXB.INF
+    |   |   |       NETDGE.INF
+    |   |   |       NETDHCPS.INF
+    |   |   |       NETDHOC.INF
+    |   |   |       NETDL2X.INF
+    |   |   |       NETDLFET.INF
+    |   |   |       NETDLKR5.INF
+    |   |   |       NETDM.INF
+    |   |   |       NETDNS.INF
+    |   |   |       NETE1000.INF
+    |   |   |       NETEL90B.INF
+    |   |   |       NETEL980.INF
+    |   |   |       NETEL99X.INF
+    |   |   |       NETEPVCM.INF
+    |   |   |       NETEPVCP.INF
+    |   |   |       NETF56N5.INF
+    |   |   |       NETFA31X.INF
+    |   |   |       NETFA410.INF
+    |   |   |       NETFA411.INF
+    |   |   |       NETFORE.INF
+    |   |   |       NETFOREH.INF
+    |   |   |       NETFW.INF
+    |   |   |       NETFXOCM.INF
+    |   |   |       NETG3264.INF
+    |   |   |       NETGA302.INF
+    |   |   |       NETGPC.INF
+    |   |   |       NETIAS.INF
+    |   |   |       NETIBM.INF
+    |   |   |       NETIBM2.INF
+    |   |   |       NETIP6.INF
+    |   |   |       NETIPRIP.INF
+    |   |   |       NETLANEM.INF
+    |   |   |       NETLANEP.INF
+    |   |   |       NETLM.INF
+    |   |   |       NETLM56.INF
+    |   |   |       NETLOOP.INF
+    |   |   |       NETLPD.INF
+    |   |   |       NETM4CX.INF
+    |   |   |       NETMACPR.INF
+    |   |   |       NETMACSV.INF
+    |   |   |       NETMADGE.INF
+    |   |   |       NETMHZN5.INF
+    |   |   |       NETMSCLI.INF
+    |   |   |       NETNB.INF
+    |   |   |       NETNF3.INF
+    |   |   |       NETNGR.INF
+    |   |   |       NETNM.INF
+    |   |   |       NETNMTLS.INF
+    |   |   |       NETNOVEL.INF
+    |   |   |       NETNWCLI.INF
+    |   |   |       NETNWLNK.INF
+    |   |   |       NETOC.INF
+    |   |   |       NETOSI2C.INF
+    |   |   |       NETOSI5.INF
+    |   |   |       NETPC100.INF
+    |   |   |       NETPC200.INF
+    |   |   |       NETPGM.INF
+    |   |   |       NETPRISM.INF
+    |   |   |       NETPSA.INF
+    |   |   |       NETPSCHD.INF
+    |   |   |       NETRASA.INF
+    |   |   |       NETRASS.INF
+    |   |   |       NETRAST.INF
+    |   |   |       NETRNDIS.INF
+    |   |   |       NETRQS.INF
+    |   |   |       NETRTLX.INF
+    |   |   |       NETRTP5.INF
+    |   |   |       NETRTSNT.INF
+    |   |   |       NETRTXP.INF
+    |   |   |       NETRWAN.INF
+    |   |   |       NETSAP.INF
+    |   |   |       NETSERV.INF
+    |   |   |       NETSIS.INF
+    |   |   |       NETSK98.INF
+    |   |   |       NETSK_FP.INF
+    |   |   |       NETSNIP.INF
+    |   |   |       NETSNMP.INF
+    |   |   |       NETTB155.INF
+    |   |   |       NETTCPIP.INF
+    |   |   |       NETTIGER.INF
+    |   |   |       NETTPSMP.INF
+    |   |   |       NETTUN.INF
+    |   |   |       NETVMNET.INF
+    |   |   |       NETVMWARE.INF
+    |   |   |       NETVT86.INF
+    |   |   |       NETW840.INF
+    |   |   |       NETWINS.INF
+    |   |   |       NETWLAN.INF
+    |   |   |       NETWLAN5.INF
+    |   |   |       NETWLBS.INF
+    |   |   |       NETWLBSM.INF
+    |   |   |       NETWV48.INF
+    |   |   |       NETWZC.INF
+    |   |   |       NETX500.INF
+    |   |   |       NETX56N5.INF
+    |   |   |       NVATABUS.INF
+    |   |   |       NVENETFD.INF
+    |   |   |       NVENETXP.INF
+    |   |   |       NVNETBUS.INF
+    |   |   |       NVRAID.INF
+    |   |   |       PERC2.INF
+    |   |   |       PERC2MGT.INF
+    |   |   |       PRISMNIC.INF
+    |   |   |       Q57WIN32.INF
+    |   |   |       QL2100.INF
+    |   |   |       QL2200.INF
+    |   |   |       QL2300.INF
+    |   |   |       QLPSEUDO.INF
+    |   |   |       RAMDRV.INF
+    |   |   |       RDACBUS.INF
+    |   |   |       RDACDISK.INF
+    |   |   |       SI3112R.INF
+    |   |   |       SI3114R.INF
+    |   |   |       SI3114R5.INF
+    |   |   |       SIPPD.INF
+    |   |   |       SISRAID.INF
+    |   |   |       SMARAID.INF
+    |   |   |       ULSATA.INF
+    |   |   |       USB100.INF
+    |   |   |       VIAMRAID.INF
+    |   |   |       VIAPIDE.INF
+    |   |   |       VIASRAID.INF
+    |   |   |       VMSCSI.INF
+    |   |   |       VMUSB.INF
+    |   |   |       W70N51.INF
+    |   |   |       W9X90XBC.INF
+    |   |   |       W9XEL90X.INF
+    |   |   |       WLDEL48B.INF
+    |   |   |       YK51X86.INF
+    |   |   |       
+    |   |   +---MSAGENT
+    |   |   |   \---INTL
+    |   |   |           AGT0406.DLL
+    |   |   |           AGT0407.DLL
+    |   |   |           AGT040B.DLL
+    |   |   |           AGT040C.DLL
+    |   |   |           AGT0410.DLL
+    |   |   |           AGT0413.DLL
+    |   |   |           AGT0414.DLL
+    |   |   |           AGT0416.DLL
+    |   |   |           AGT041D.DLL
+    |   |   |           AGT0816.DLL
+    |   |   |           AGT0C0A.DLL
+    |   |   |           
+    |   |   +---REGISTRATION
+    |   |   |       WSH.TXT
+    |   |   |       
+    |   |   +---SHELL
+    |   |   |   |   ABOUT.BMP
+    |   |   |   |   ANTIVIRUS.32X32.GIF
+    |   |   |   |   APPLICATION.16X16.GIF
+    |   |   |   |   AUTOEDIT.CMD
+    |   |   |   |   AUTONETWORK.CMD
+    |   |   |   |   AUTORESTORE.CMD
+    |   |   |   |   AUTOTEST.CMD
+    |   |   |   |   CHECKDISK.32X32.GIF
+    |   |   |   |   COMMON.LOCALE.XSLT
+    |   |   |   |   COMMON.STYLE.CSS
+    |   |   |   |   COMMON.TABPAGE.XSLT
+    |   |   |   |   CONNECTION.16X16.GIF
+    |   |   |   |   DELAYEDAPPLY.CMD
+    |   |   |   |   DISKDRIVE.16X16.GIF
+    |   |   |   |   DISKDRIVE.32X32.GIF
+    |   |   |   |   EXPLOREMYCOMPUTER.32X32.GIF
+    |   |   |   |   EXTENSION.AUTO.AUTONETWORK.XML
+    |   |   |   |   EXTENSION.AUTO.AUTORESTORE.XML
+    |   |   |   |   EXTENSION.AUTO.AUTOTEST.XML
+    |   |   |   |   EXTENSION.AUTO.CHECKMEMORY.XML
+    |   |   |   |   EXTENSION.AUTO.DRIVELETTERS.XML
+    |   |   |   |   EXTENSION.AUTO.REGISTERDLLS.XML
+    |   |   |   |   EXTENSION.AUTO.RESTORETIMEZONE.XML
+    |   |   |   |   EXTENSION.AUTO.SAVETIMEZONE.XML
+    |   |   |   |   EXTENSION.AUTO.SETUPHELP.XML
+    |   |   |   |   EXTENSION.AUTO.SHOWEULA.XML
+    |   |   |   |   EXTENSION.AUTO.VOLEDIT.XML
+    |   |   |   |   EXTENSION.BUTTON.CMD.XML
+    |   |   |   |   EXTENSION.BUTTON.EXIT.XML
+    |   |   |   |   EXTENSION.BUTTON.HELP.XML
+    |   |   |   |   EXTENSION.BUTTON.RUN.XML
+    |   |   |   |   EXTENSION.BUTTON.TIMEZONE.XML
+    |   |   |   |   EXTENSION.TABLINK.ANTIVIRUS.XML
+    |   |   |   |   EXTENSION.TABLINK.BOOTINI.XML
+    |   |   |   |   EXTENSION.TABLINK.CHECKDISK.XML
+    |   |   |   |   EXTENSION.TABLINK.EXPLORECOMPUTER.XML
+    |   |   |   |   EXTENSION.TABLINK.HELP.XML
+    |   |   |   |   EXTENSION.TABLINK.IPCONFIG.XML
+    |   |   |   |   EXTENSION.TABLINK.MAPDRIVE.XML
+    |   |   |   |   EXTENSION.TABLINK.NETWORKCONNECTION.XML
+    |   |   |   |   EXTENSION.TABLINK.NICSPEED.XML
+    |   |   |   |   EXTENSION.TABLINK.PARTINFO.XML
+    |   |   |   |   EXTENSION.TABLINK.PCANYWHERE.XML
+    |   |   |   |   EXTENSION.TABLINK.PING.XML
+    |   |   |   |   EXTENSION.TABLINK.PQBOOT.XML
+    |   |   |   |   EXTENSION.TABLINK.PTEDIT.XML
+    |   |   |   |   EXTENSION.TABLINK.RECOVERCOMPUTER.XML
+    |   |   |   |   EXTENSION.TABLINK.RECOVERFILES.XML
+    |   |   |   |   EXTENSION.TABLINK.RESTORELEGACY.XML
+    |   |   |   |   EXTENSION.TABLINK.RESTOREMBR.XML
+    |   |   |   |   EXTENSION.TABLINK.SMEDUMP.XML
+    |   |   |   |   EXTENSION.TABLINK.STARTNETWORK.XML
+    |   |   |   |   EXTENSION.TABLINK.SUPPORTTOOL.XML
+    |   |   |   |   EXTENSION.TABLINK.VOLEDIT.XML
+    |   |   |   |   EXTENSION.TABPAGE.ANALYZE.XML
+    |   |   |   |   EXTENSION.TABPAGE.ANALYZE.XSLT
+    |   |   |   |   EXTENSION.TABPAGE.HOME.XML
+    |   |   |   |   EXTENSION.TABPAGE.HOME.XSLT
+    |   |   |   |   EXTENSION.TABPAGE.NETWORK.XML
+    |   |   |   |   EXTENSION.TABPAGE.NETWORK.XSLT
+    |   |   |   |   EXTENSION.TABPAGE.RECOVER.XML
+    |   |   |   |   EXTENSION.TABPAGE.RECOVER.XSLT
+    |   |   |   |   EXTENSION.TABPAGE.UTILITIES.XML
+    |   |   |   |   EXTENSION.TABPAGE.UTILITIES.XSLT
+    |   |   |   |   GHOST32.32X32.GIF
+    |   |   |   |   HELP.32X32.GIF
+    |   |   |   |   LSRSUPPORT.16X16.GIF
+    |   |   |   |   NETWORK.16X16.GIF
+    |   |   |   |   NETWORKCARDSPEED.16X16.GIF
+    |   |   |   |   NETWORKDRIVE.16X16.GIF
+    |   |   |   |   PARTINFO.16X16.GIF
+    |   |   |   |   PCANYWHERE.16X16.GIF
+    |   |   |   |   PCANYWHERE.32X32.GIF
+    |   |   |   |   PINGREMOTE.16X16.GIF
+    |   |   |   |   PQBOOT.16X16.GIF
+    |   |   |   |   PTEDIT.16X16.GIF
+    |   |   |   |   RECOVERFILES.32X32.GIF
+    |   |   |   |   RUNIPCONFIG.16X16.GIF
+    |   |   |   |   SREMISC.DLL
+    |   |   |   |   SRENET.DLL
+    |   |   |   |   SRESHELL.BMP
+    |   |   |   |   SRESHELL.EXE
+    |   |   |   |   SRESHELL.INI
+    |   |   |   |   SRESTATUS.DLL
+    |   |   |   |   STATUS.BMP
+    |   |   |   |   V2IBROWSER.32X32.GIF
+    |   |   |   |   V2ISR.32X32.GIF
+    |   |   |   |   WATERMARK.GIF
+    |   |   |   |   
+    |   |   |   +---GHOST
+    |   |   |   |       GHOSTEXP.EXE
+    |   |   |   |       RESTOREGHOST.EXE
+    |   |   |   |       
+    |   |   |   +---NAV
+    |   |   |   |   |   CCL30.DLL
+    |   |   |   |   |   CCSCAN.DLL
+    |   |   |   |   |   DEFUTDCD.DLL
+    |   |   |   |   |   ECMLDR32.DLL
+    |   |   |   |   |   MSVCR71.DLL
+    |   |   |   |   |   PRESCAN.EXE
+    |   |   |   |   |   
+    |   |   |   |   \---VIRUSDEF
+    |   |   |   |           CATALOG.DAT
+    |   |   |   |           ECBOOTIL.VXD
+    |   |   |   |           ECMSVR32.DLL
+    |   |   |   |           HH
+    |   |   |   |           NAVENG.EXP
+    |   |   |   |           NAVENG.SYS
+    |   |   |   |           NAVENG.VXD
+    |   |   |   |           NAVENG32.DLL
+    |   |   |   |           NAVEX15.EXP
+    |   |   |   |           NAVEX15.SYS
+    |   |   |   |           NAVEX15.VXD
+    |   |   |   |           NAVEX32A.DLL
+    |   |   |   |           NCSACERT.TXT
+    |   |   |   |           SCRAUTH.DAT
+    |   |   |   |           SYMAVENG.CAT
+    |   |   |   |           SYMAVENG.INF
+    |   |   |   |           TCDEFS.DAT
+    |   |   |   |           TCSCAN7.DAT
+    |   |   |   |           TCSCAN8.DAT
+    |   |   |   |           TCSCAN9.DAT
+    |   |   |   |           TECHNOTE.TXT
+    |   |   |   |           TINF.DAT
+    |   |   |   |           TINFIDX.DAT
+    |   |   |   |           TINFL.DAT
+    |   |   |   |           TSCAN1.DAT
+    |   |   |   |           TSCAN1HD.DAT
+    |   |   |   |           V.GRD
+    |   |   |   |           V.SIG
+    |   |   |   |           VIRSCAN.INF
+    |   |   |   |           VIRSCAN1.DAT
+    |   |   |   |           VIRSCAN2.DAT
+    |   |   |   |           VIRSCAN3.DAT
+    |   |   |   |           VIRSCAN4.DAT
+    |   |   |   |           VIRSCAN5.DAT
+    |   |   |   |           VIRSCAN6.DAT
+    |   |   |   |           VIRSCAN7.DAT
+    |   |   |   |           VIRSCAN8.DAT
+    |   |   |   |           VIRSCAN9.DAT
+    |   |   |   |           VIRSCANT.DAT
+    |   |   |   |           WHATSNEW.TXT
+    |   |   |   |           ZDONE.DAT
+    |   |   |   |           
+    |   |   |   +---NDD
+    |   |   |   |       COREGTST.DLL
+    |   |   |   |       CSH.DLL
+    |   |   |   |       EVENTLG.DLL
+    |   |   |   |       LNKCOM.DLL
+    |   |   |   |       MDSCAN.DLL
+    |   |   |   |       N32DLIST.DLL
+    |   |   |   |       N32USERL.DLL
+    |   |   |   |       NCOMCAT.DLL
+    |   |   |   |       NDD32.DAT
+    |   |   |   |       NDD32.EXE
+    |   |   |   |       NDD32.HLP
+    |   |   |   |       NDD32.NT
+    |   |   |   |       NDDENG.DLL
+    |   |   |   |       NDDENGNT.DLL
+    |   |   |   |       NUABOUT.DLL
+    |   |   |   |       NUINTRO.DLL
+    |   |   |   |       NUMISC.DLL
+    |   |   |   |       NUSPLASH.DLL
+    |   |   |   |       NWDENG.DLL
+    |   |   |   |       S32DMAPL.DLL
+    |   |   |   |       S32FATL.DLL
+    |   |   |   |       S32GUIL.DLL
+    |   |   |   |       S32KRNLL.DLL
+    |   |   |   |       S32MAILL.DLL
+    |   |   |   |       S32NPTL.DLL
+    |   |   |   |       S32STAT.DLL
+    |   |   |   |       S32UTILL.DLL
+    |   |   |   |       SALTHK16.DLL
+    |   |   |   |       SALTHK32.DLL
+    |   |   |   |       SYMCOM.DLL
+    |   |   |   |       SYMKRNLL.DLL
+    |   |   |   |       SYMKRNLL.VXD
+    |   |   |   |       TKKE16L.DLL
+    |   |   |   |       TKKE32L.DLL
+    |   |   |   |       
+    |   |   |   +---PCA
+    |   |   |   |       AUTORUN.IFF
+    |   |   |   |       IMPLODE.DLL
+    |   |   |   |       THDEFAULT.THF
+    |   |   |   |       THINAWCP.DLL
+    |   |   |   |       THINCRYPSHIM.DLL
+    |   |   |   |       THINCRYPTO.DLL
+    |   |   |   |       THINRES.DLL
+    |   |   |   |       THINSET.EXE
+    |   |   |   |       THOOK32.DLL
+    |   |   |   |       THOST.EXE
+    |   |   |   |       
+    |   |   |   +---SHARED
+    |   |   |   |       EULA.TXT
+    |   |   |   |       SREHELP.CHM
+    |   |   |   |       
+    |   |   |   +---UTILITIES
+    |   |   |   |       DLMAPPER.EXE
+    |   |   |   |       NICCTRLUI.EXE
+    |   |   |   |       PARTINNT.EXE
+    |   |   |   |       PQBOOT32.EXE
+    |   |   |   |       PTEDIT32.EXE
+    |   |   |   |       RESTOREMBR.EXE
+    |   |   |   |       SEAST.EXE
+    |   |   |   |       SMEDUMP.EXE
+    |   |   |   |       VOLEDIT.EXE
+    |   |   |   |       
+    |   |   |   \---V2I
+    |   |   |           V2IBROWSER.EXE
+    |   |   |           V2IBROWSER.EXE.MANIFEST
+    |   |   |           V2ISR.EXE
+    |   |   |           V2ISR.EXE.MANIFEST
+    |   |   |           VPRORESTOREPOINTS.DLL
+    |   |   |           
+    |   |   +---SYSTEM32
+    |   |   |   |   ACLUI.DLL
+    |   |   |   |   ACTIVEDS.DLL
+    |   |   |   |   ACTXPRXY.DLL
+    |   |   |   |   ADSLDPC.DLL
+    |   |   |   |   ADVAPI32.DLL
+    |   |   |   |   ADVPACK.DLL
+    |   |   |   |   AELUPSVC.DLL
+    |   |   |   |   ALRSVC.DLL
+    |   |   |   |   APPHELP.DLL
+    |   |   |   |   ASCTRLS.OCX
+    |   |   |   |   ASYCFILT.DLL
+    |   |   |   |   ATL.DLL
+    |   |   |   |   ATTRIB.EXE
+    |   |   |   |   AUTHZ.DLL
+    |   |   |   |   AUTOCHK.EXE
+    |   |   |   |   AUTOFMT.EXE
+    |   |   |   |   AVMC20.DLL
+    |   |   |   |   AVMCAPI.DLL
+    |   |   |   |   AVMENUM.DLL
+    |   |   |   |   AZROLES.DLL
+    |   |   |   |   AZROLEUI.DLL
+    |   |   |   |   BASESRV.DLL
+    |   |   |   |   BASPI32I.EXE
+    |   |   |   |   BASPXP32.DLL
+    |   |   |   |   BDCO1.DLL
+    |   |   |   |   BIOSINFO.INF
+    |   |   |   |   BOOTVID.DLL
+    |   |   |   |   BROWSER.DLL
+    |   |   |   |   BROWSEUI.DLL
+    |   |   |   |   C218TNT.COD
+    |   |   |   |   C320TNT.COD
+    |   |   |   |   CABINET.DLL
+    |   |   |   |   CERTCLI.DLL
+    |   |   |   |   CFGMGR32.DLL
+    |   |   |   |   CHKDSK.EXE
+    |   |   |   |   CLB.DLL
+    |   |   |   |   CLIPSRV.EXE
+    |   |   |   |   CLUSAPI.DLL
+    |   |   |   |   CMD.EXE
+    |   |   |   |   CNBJMON.DLL
+    |   |   |   |   COCPYINF.DLL
+    |   |   |   |   COMCTL32.DLL
+    |   |   |   |   COMDLG32.DLL
+    |   |   |   |   CONSOLE.DLL
+    |   |   |   |   CPQCISS.DLL
+    |   |   |   |   CPQCISSM.DLL
+    |   |   |   |   CREDUI.DLL
+    |   |   |   |   CRYPT32.DLL
+    |   |   |   |   CRYPTDLG.DLL
+    |   |   |   |   CRYPTDLL.DLL
+    |   |   |   |   CRYPTNET.DLL
+    |   |   |   |   CRYPTUI.DLL
+    |   |   |   |   CSCDLL.DLL
+    |   |   |   |   CSCRIPT.EXE
+    |   |   |   |   CSRSRV.DLL
+    |   |   |   |   CSRSS.EXE
+    |   |   |   |   CTMASETP.DLL
+    |   |   |   |   CTMRCLAS.DLL
+    |   |   |   |   CTYPE.NLS
+    |   |   |   |   C_037.NLS
+    |   |   |   |   C_10000.NLS
+    |   |   |   |   C_10006.NLS
+    |   |   |   |   C_10007.NLS
+    |   |   |   |   C_10010.NLS
+    |   |   |   |   C_10017.NLS
+    |   |   |   |   C_10029.NLS
+    |   |   |   |   C_10079.NLS
+    |   |   |   |   C_10081.NLS
+    |   |   |   |   C_10082.NLS
+    |   |   |   |   C_1026.NLS
+    |   |   |   |   C_1250.NLS
+    |   |   |   |   C_1251.NLS
+    |   |   |   |   C_1252.NLS
+    |   |   |   |   C_1253.NLS
+    |   |   |   |   C_1254.NLS
+    |   |   |   |   C_1255.NLS
+    |   |   |   |   C_1256.NLS
+    |   |   |   |   C_1257.NLS
+    |   |   |   |   C_1258.NLS
+    |   |   |   |   C_20127.NLS
+    |   |   |   |   C_20261.NLS
+    |   |   |   |   C_20866.NLS
+    |   |   |   |   C_20905.NLS
+    |   |   |   |   C_21866.NLS
+    |   |   |   |   C_28592.NLS
+    |   |   |   |   C_28593.NLS
+    |   |   |   |   C_28598.NLS
+    |   |   |   |   C_28605.NLS
+    |   |   |   |   C_437.NLS
+    |   |   |   |   C_500.NLS
+    |   |   |   |   C_737.NLS
+    |   |   |   |   C_775.NLS
+    |   |   |   |   C_850.NLS
+    |   |   |   |   C_852.NLS
+    |   |   |   |   C_855.NLS
+    |   |   |   |   C_857.NLS
+    |   |   |   |   C_860.NLS
+    |   |   |   |   C_861.NLS
+    |   |   |   |   C_863.NLS
+    |   |   |   |   C_865.NLS
+    |   |   |   |   C_866.NLS
+    |   |   |   |   C_869.NLS
+    |   |   |   |   C_874.NLS
+    |   |   |   |   C_875.NLS
+    |   |   |   |   C_932.NLS
+    |   |   |   |   C_936.NLS
+    |   |   |   |   C_949.NLS
+    |   |   |   |   C_950.NLS
+    |   |   |   |   DBGENG.DLL
+    |   |   |   |   DBGHELP.DLL
+    |   |   |   |   DCIMAN32.DLL
+    |   |   |   |   DDRAW.DLL
+    |   |   |   |   DDRAWEX.DLL
+    |   |   |   |   DEVMGR.DLL
+    |   |   |   |   DGCLASS.DLL
+    |   |   |   |   DGNET.DLL
+    |   |   |   |   DGRPSETU.DLL
+    |   |   |   |   DHCPCSVC.DLL
+    |   |   |   |   DIAPI2.DLL
+    |   |   |   |   DIAPI232.DLL
+    |   |   |   |   DIAPI2NT.DLL
+    |   |   |   |   DISKPART.EXE
+    |   |   |   |   DISPEX.DLL
+    |   |   |   |   DISRVPP.DLL
+    |   |   |   |   DISRVSU.DLL
+    |   |   |   |   DITRACE.EXE
+    |   |   |   |   DMADMIN.EXE
+    |   |   |   |   DMCONFIG.DLL
+    |   |   |   |   DMINTF.DLL
+    |   |   |   |   DMSERVER.DLL
+    |   |   |   |   DMUTIL.DLL
+    |   |   |   |   DNSAPI.DLL
+    |   |   |   |   DNSRSLVR.DLL
+    |   |   |   |   DUSER.DLL
+    |   |   |   |   DWLINST.DLL
+    |   |   |   |   DXTMSFT.DLL
+    |   |   |   |   DXTRANS.DLL
+    |   |   |   |   E1000325.DIN
+    |   |   |   |   E1000MSG.DLL
+    |   |   |   |   E100B325.DIN
+    |   |   |   |   E100BMSG.DLL
+    |   |   |   |   E1E5032.DIN
+    |   |   |   |   E1E5132.DIN
+    |   |   |   |   EL2K_CPP.DLL
+    |   |   |   |   EL99XRUN.OUT
+    |   |   |   |   EQNCLASS.DLL
+    |   |   |   |   EQNDIAG.EXE
+    |   |   |   |   EQNLOGR.EXE
+    |   |   |   |   EQNLOOP.EXE
+    |   |   |   |   ESENT.DLL
+    |   |   |   |   ETCO32.DLL
+    |   |   |   |   EXPAND.EXE
+    |   |   |   |   EXTMGR.DLL
+    |   |   |   |   FACTORY.EXE
+    |   |   |   |   FDCO1.DLL
+    |   |   |   |   FIREWALL.CPL
+    |   |   |   |   FLTLIB.DLL
+    |   |   |   |   FLTMC.EXE
+    |   |   |   |   FMIFS.DLL
+    |   |   |   |   FORMAT.COM
+    |   |   |   |   FRAMEBUF.DLL
+    |   |   |   |   GDI32.DLL
+    |   |   |   |   GENERIC.DLL
+    |   |   |   |   GPTEXT.DLL
+    |   |   |   |   HAL.DLL
+    |   |   |   |   HALAACPI.DLL
+    |   |   |   |   HALACPI.DLL
+    |   |   |   |   HALAPIC.DLL
+    |   |   |   |   HALMACPI.DLL
+    |   |   |   |   HALMPS.DLL
+    |   |   |   |   HCCOIN.DLL
+    |   |   |   |   HHCTRL.OCX
+    |   |   |   |   HLINK.DLL
+    |   |   |   |   HNETCFG.DLL
+    |   |   |   |   HTA.INF
+    |   |   |   |   IANSMSG.DLL
+    |   |   |   |   ICMP.DLL
+    |   |   |   |   IDECOI.DLL
+    |   |   |   |   IDEPROPERTY.DLL
+    |   |   |   |   IEDKCS32.DLL
+    |   |   |   |   IEPEERS.DLL
+    |   |   |   |   IESETUP.DLL
+    |   |   |   |   IFSUTIL.DLL
+    |   |   |   |   IMAGEHLP.DLL
+    |   |   |   |   IMGUTIL.DLL
+    |   |   |   |   IMM32.DLL
+    |   |   |   |   INITPKI.DLL
+    |   |   |   |   INSENG.DLL
+    |   |   |   |   INTL.CPL
+    |   |   |   |   IO8PORTS.DLL
+    |   |   |   |   IOLOGMSG.DLL
+    |   |   |   |   IPCONFIG.EXE
+    |   |   |   |   IPHLPAPI.DLL
+    |   |   |   |   IPSECSNP.DLL
+    |   |   |   |   ITIRCL.DLL
+    |   |   |   |   ITSS.DLL
+    |   |   |   |   IXGB3251.DIN
+    |   |   |   |   IXGBMSG.DLL
+    |   |   |   |   JSCRIPT.DLL
+    |   |   |   |   KBDBE.DLL
+    |   |   |   |   KBDBR.DLL
+    |   |   |   |   KBDCA.DLL
+    |   |   |   |   KBDDA.DLL
+    |   |   |   |   KBDDV.DLL
+    |   |   |   |   KBDES.DLL
+    |   |   |   |   KBDFC.DLL
+    |   |   |   |   KBDFI.DLL
+    |   |   |   |   KBDFR.DLL
+    |   |   |   |   KBDGAE.DLL
+    |   |   |   |   KBDGR.DLL
+    |   |   |   |   KBDGR1.DLL
+    |   |   |   |   KBDIC.DLL
+    |   |   |   |   KBDIR.DLL
+    |   |   |   |   KBDIT.DLL
+    |   |   |   |   KBDIT142.DLL
+    |   |   |   |   KBDLA.DLL
+    |   |   |   |   KBDMAC.DLL
+    |   |   |   |   KBDNE.DLL
+    |   |   |   |   KBDNEC.DLL
+    |   |   |   |   KBDNO.DLL
+    |   |   |   |   KBDPO.DLL
+    |   |   |   |   KBDSF.DLL
+    |   |   |   |   KBDSG.DLL
+    |   |   |   |   KBDSP.DLL
+    |   |   |   |   KBDSW.DLL
+    |   |   |   |   KBDUK.DLL
+    |   |   |   |   KBDUS.DLL
+    |   |   |   |   KBDUSL.DLL
+    |   |   |   |   KBDUSR.DLL
+    |   |   |   |   KBDUSX.DLL
+    |   |   |   |   KD1394.DLL
+    |   |   |   |   KDCOM.DLL
+    |   |   |   |   KDCSVC.DLL
+    |   |   |   |   KERBEROS.DLL
+    |   |   |   |   KERNEL32.DLL
+    |   |   |   |   LICMGR10.DLL
+    |   |   |   |   LINKINFO.DLL
+    |   |   |   |   LMHSVC.DLL
+    |   |   |   |   LOADPERF.DLL
+    |   |   |   |   LOCALE.NLS
+    |   |   |   |   LOCALSPL.DLL
+    |   |   |   |   LOCATOR.EXE
+    |   |   |   |   LPK.DLL
+    |   |   |   |   LSASRV.DLL
+    |   |   |   |   LSASS.EXE
+    |   |   |   |   LZ32.DLL
+    |   |   |   |   L_EXCEPT.NLS
+    |   |   |   |   L_INTL.NLS
+    |   |   |   |   MFC42.DLL
+    |   |   |   |   MFC42U.DLL
+    |   |   |   |   MLANG.DLL
+    |   |   |   |   MOBSYNC.DLL
+    |   |   |   |   MPPUTIL.EXE
+    |   |   |   |   MPR.DLL
+    |   |   |   |   MPRAPI.DLL
+    |   |   |   |   MPRUI.DLL
+    |   |   |   |   MSAFD.DLL
+    |   |   |   |   MSASN1.DLL
+    |   |   |   |   MSCAT32.DLL
+    |   |   |   |   MSCMS.DLL
+    |   |   |   |   MSDATSRC.TLB
+    |   |   |   |   MSGINA.DLL
+    |   |   |   |   MSGSVC.DLL
+    |   |   |   |   MSHTA.EXE
+    |   |   |   |   MSHTML.DLL
+    |   |   |   |   MSHTML.INF
+    |   |   |   |   MSHTML.TLB
+    |   |   |   |   MSHTMLED.DLL
+    |   |   |   |   MSI.DLL
+    |   |   |   |   MSIMG32.DLL
+    |   |   |   |   MSJET40.DLL
+    |   |   |   |   MSLS31.DLL
+    |   |   |   |   MSPORTS.DLL
+    |   |   |   |   MSPRIVS.DLL
+    |   |   |   |   MSRATING.DLL
+    |   |   |   |   MSSIGN32.DLL
+    |   |   |   |   MSSIP32.DLL
+    |   |   |   |   MSTIME.DLL
+    |   |   |   |   MSV1_0.DLL
+    |   |   |   |   MSVCIRT.DLL
+    |   |   |   |   MSVCP60.DLL
+    |   |   |   |   MSVCP71.DLL
+    |   |   |   |   MSVCRT.DLL
+    |   |   |   |   MSWSOCK.DLL
+    |   |   |   |   MSWSTR10.DLL
+    |   |   |   |   MSXML3.DLL
+    |   |   |   |   MSXML3R.DLL
+    |   |   |   |   NCOBJAPI.DLL
+    |   |   |   |   NCS2SETP.DLL
+    |   |   |   |   NDDEAPI.DLL
+    |   |   |   |   NET.EXE
+    |   |   |   |   NET.HLP
+    |   |   |   |   NET1.EXE
+    |   |   |   |   NETAPI32.DLL
+    |   |   |   |   NETCFG.EXE
+    |   |   |   |   NETCFGX.DLL
+    |   |   |   |   NETEVENT.DLL
+    |   |   |   |   NETLOGON.DLL
+    |   |   |   |   NETMAN.DLL
+    |   |   |   |   NETMSG.DLL
+    |   |   |   |   NETPLWIZ.DLL
+    |   |   |   |   NETRAP.DLL
+    |   |   |   |   NETSETUP.CPL
+    |   |   |   |   NETSHELL.DLL
+    |   |   |   |   NETUI0.DLL
+    |   |   |   |   NETUI1.DLL
+    |   |   |   |   NETUI2.DLL
+    |   |   |   |   NEWDEV.DLL
+    |   |   |   |   NFRDCI04.DLL
+    |   |   |   |   NICCO32.DLL
+    |   |   |   |   NICIN32.DLL
+    |   |   |   |   NOTEPAD.EXE
+    |   |   |   |   NTDLL.DLL
+    |   |   |   |   NTDSA.DLL
+    |   |   |   |   NTDSAPI.DLL
+    |   |   |   |   NTDSATQ.DLL
+    |   |   |   |   NTDSETUP.DLL
+    |   |   |   |   NTDSKCC.DLL
+    |   |   |   |   NTKRNLMP.EXE
+    |   |   |   |   NTLANMAN.DLL
+    |   |   |   |   NTMARTA.DLL
+    |   |   |   |   NTOSKRNL.EXE
+    |   |   |   |   NTSD.EXE
+    |   |   |   |   NVCOE.DLL
+    |   |   |   |   NVCONRM.DLL
+    |   |   |   |   NVENET.NVU
+    |   |   |   |   NVNRM.NVU
+    |   |   |   |   NVRAIDCO.DLL
+    |   |   |   |   NVUENET.EXE
+    |   |   |   |   NWAPI32.DLL
+    |   |   |   |   NWCFG.DLL
+    |   |   |   |   NWEVENT.DLL
+    |   |   |   |   NWPROVAU.DLL
+    |   |   |   |   NWWKS.DLL
+    |   |   |   |   OAKLEY.DLL
+    |   |   |   |   ODBC16GT.DLL
+    |   |   |   |   ODBC32.DLL
+    |   |   |   |   ODBC32GT.DLL
+    |   |   |   |   ODBCAD32.EXE
+    |   |   |   |   ODBCBCP.DLL
+    |   |   |   |   ODBCCONF.DLL
+    |   |   |   |   ODBCCONF.EXE
+    |   |   |   |   ODBCCONF.RSP
+    |   |   |   |   ODBCCP32.CPL
+    |   |   |   |   ODBCCP32.DLL
+    |   |   |   |   ODBCCR32.DLL
+    |   |   |   |   ODBCCU32.DLL
+    |   |   |   |   ODBCINT.DLL
+    |   |   |   |   ODBCJI32.DLL
+    |   |   |   |   ODBCJT32.DLL
+    |   |   |   |   ODBCP32R.DLL
+    |   |   |   |   ODBCTRAC.DLL
+    |   |   |   |   OLE32.DLL
+    |   |   |   |   OLEACC.DLL
+    |   |   |   |   OLEACCRC.DLL
+    |   |   |   |   OLEAUT32.DLL
+    |   |   |   |   OLECLI32.DLL
+    |   |   |   |   OLECNV32.DLL
+    |   |   |   |   OLEDLG.DLL
+    |   |   |   |   OLEPRO32.DLL
+    |   |   |   |   OLESVR.DLL
+    |   |   |   |   OLESVR32.DLL
+    |   |   |   |   OLETHK32.DLL
+    |   |   |   |   OSUNINST.DLL
+    |   |   |   |   PDH.DLL
+    |   |   |   |   PEER.EXE
+    |   |   |   |   PENTNT.EXE
+    |   |   |   |   PERC2CIN.DLL
+    |   |   |   |   PERC2EVT.EXE
+    |   |   |   |   PERFCTRS.DLL
+    |   |   |   |   PERFNW.DLL
+    |   |   |   |   PING.EXE
+    |   |   |   |   PLUGIN.OCX
+    |   |   |   |   PNGFILT.DLL
+    |   |   |   |   POLSTORE.DLL
+    |   |   |   |   POWRPROF.DLL
+    |   |   |   |   PROFMAP.DLL
+    |   |   |   |   PROUNSTL.EXE
+    |   |   |   |   PSAPI.DLL
+    |   |   |   |   PSTOREC.DLL
+    |   |   |   |   PSTORSVC.DLL
+    |   |   |   |   PTIPBM.DLL
+    |   |   |   |   PTIPBMF.DLL
+    |   |   |   |   QL2XHAI2.DLL
+    |   |   |   |   QLSDM.DLL
+    |   |   |   |   QUERY.DLL
+    |   |   |   |   RASADHLP.DLL
+    |   |   |   |   RASAPI32.DLL
+    |   |   |   |   RASDLG.DLL
+    |   |   |   |   RASMAN.DLL
+    |   |   |   |   RDACLOGMSG.DLL
+    |   |   |   |   REG.EXE
+    |   |   |   |   REGAPI.DLL
+    |   |   |   |   REGEDIT.EXE
+    |   |   |   |   REGEDT32.EXE
+    |   |   |   |   REGISTER.INF
+    |   |   |   |   REGSVR32.EXE
+    |   |   |   |   RICHED20.DLL
+    |   |   |   |   RICHED32.DLL
+    |   |   |   |   RNR20.DLL
+    |   |   |   |   RPCRT4.DLL
+    |   |   |   |   RPCSS.DLL
+    |   |   |   |   RSAENH.DLL
+    |   |   |   |   RTUTILS.DLL
+    |   |   |   |   RUNDLL32.EXE
+    |   |   |   |   SAMLIB.DLL
+    |   |   |   |   SAMSRV.DLL
+    |   |   |   |   SCECLI.DLL
+    |   |   |   |   SCESRV.DLL
+    |   |   |   |   SCHANNEL.DLL
+    |   |   |   |   SCROBJ.DLL
+    |   |   |   |   SCRRUN.DLL
+    |   |   |   |   SECUR32.DLL
+    |   |   |   |   SECURITY.DLL
+    |   |   |   |   SENDMAIL.DLL
+    |   |   |   |   SERVICES.EXE
+    |   |   |   |   SETUP.EXE
+    |   |   |   |   SETUPAPI.DLL
+    |   |   |   |   SETUPREG.HIV
+    |   |   |   |   SETUPREG.HIV.LOG
+    |   |   |   |   SFC.DLL
+    |   |   |   |   SFCFILES.DLL
+    |   |   |   |   SFC_OS.DLL
+    |   |   |   |   SHDOCVW.DLL
+    |   |   |   |   SHELL32.DLL
+    |   |   |   |   SHLWAPI.DLL
+    |   |   |   |   SHSVCS.DLL
+    |   |   |   |   SILSUPP.CPL
+    |   |   |   |   SMSS.EXE
+    |   |   |   |   SNMPAPI.DLL
+    |   |   |   |   SOFTPUB.DLL
+    |   |   |   |   SORTKEY.NLS
+    |   |   |   |   SORTTBLS.NLS
+    |   |   |   |   SPDPORTS.DLL
+    |   |   |   |   SPOOLSS.DLL
+    |   |   |   |   SPOOLSV.EXE
+    |   |   |   |   SPXCOINS.DLL
+    |   |   |   |   SPXPORTS.DLL
+    |   |   |   |   STARTNET.CMD
+    |   |   |   |   STDOLE2.TLB
+    |   |   |   |   STLNPROP.DLL
+    |   |   |   |   SVCHOST.EXE
+    |   |   |   |   SXPORTS.DLL
+    |   |   |   |   SXS.DLL
+    |   |   |   |   SYSSETUP.DLL
+    |   |   |   |   TAPI32.DLL
+    |   |   |   |   TASKMGR.EXE
+    |   |   |   |   TIMEDATE.CPL
+    |   |   |   |   TSDDD.DLL
+    |   |   |   |   UFAT.DLL
+    |   |   |   |   ULIB.DLL
+    |   |   |   |   UMPNPMGR.DLL
+    |   |   |   |   UNICODE.NLS
+    |   |   |   |   UNTFS.DLL
+    |   |   |   |   UREG.DLL
+    |   |   |   |   URL.DLL
+    |   |   |   |   URLMON.DLL
+    |   |   |   |   USER32.DLL
+    |   |   |   |   USERENV.DLL
+    |   |   |   |   USERINIT.EXE
+    |   |   |   |   USP10.DLL
+    |   |   |   |   UTILDLL.DLL
+    |   |   |   |   UXTHEME.DLL
+    |   |   |   |   VBSCRIPT.DLL
+    |   |   |   |   VDMDBG.DLL
+    |   |   |   |   VDS.EXE
+    |   |   |   |   VDSBAS.DLL
+    |   |   |   |   VDSDYNDR.DLL
+    |   |   |   |   VDSLDR.EXE
+    |   |   |   |   VDSUTIL.DLL
+    |   |   |   |   VDS_PS.DLL
+    |   |   |   |   VERSION.DLL
+    |   |   |   |   VGA.DLL
+    |   |   |   |   VGA256.DLL
+    |   |   |   |   VGA64K.DLL
+    |   |   |   |   VGA850.FON
+    |   |   |   |   VGA852.FON
+    |   |   |   |   VGA860.FON
+    |   |   |   |   VGA861.FON
+    |   |   |   |   VGA863.FON
+    |   |   |   |   VGA865.FON
+    |   |   |   |   VGAOEM.FON
+    |   |   |   |   VSSAPI.DLL
+    |   |   |   |   W20NCPA.DLL
+    |   |   |   |   W32TIME.DLL
+    |   |   |   |   W32TOPL.DLL
+    |   |   |   |   W70N5MSG.DLL
+    |   |   |   |   W70NCPA.DLL
+    |   |   |   |   WADEL48B.DLL
+    |   |   |   |   WCDEL48B.EXE
+    |   |   |   |   WDDEL48B.DLL
+    |   |   |   |   WDIGEST.DLL
+    |   |   |   |   WIN32K.SYS
+    |   |   |   |   WIN32SPL.DLL
+    |   |   |   |   WINHLP32.EXE
+    |   |   |   |   WININET.DLL
+    |   |   |   |   WINIPSEC.DLL
+    |   |   |   |   WINLOGON.EXE
+    |   |   |   |   WINMM.DLL
+    |   |   |   |   WINPEOEM.SIF
+    |   |   |   |   WINPESHL.EXE
+    |   |   |   |   WINRNR.DLL
+    |   |   |   |   WINSCARD.DLL
+    |   |   |   |   WINSPOOL.DRV
+    |   |   |   |   WINSRV.DLL
+    |   |   |   |   WINSTA.DLL
+    |   |   |   |   WINTRUST.DLL
+    |   |   |   |   WKSSVC.DLL
+    |   |   |   |   WLANMON.DLL
+    |   |   |   |   WLDAP32.DLL
+    |   |   |   |   WLSNP.DLL
+    |   |   |   |   WLSTORE.DLL
+    |   |   |   |   WMI.DLL
+    |   |   |   |   WNDEL.CNT
+    |   |   |   |   WNDEL.HLP
+    |   |   |   |   WNDEL48B.CPL
+    |   |   |   |   WS03RES.DLL
+    |   |   |   |   WS2HELP.DLL
+    |   |   |   |   WS2_32.DLL
+    |   |   |   |   WSCRIPT.EXE
+    |   |   |   |   WSH.INF
+    |   |   |   |   WSHEXT.DLL
+    |   |   |   |   WSHISN.DLL
+    |   |   |   |   WSHNETBS.DLL
+    |   |   |   |   WSHOM.OCX
+    |   |   |   |   WSHQOS.DLL
+    |   |   |   |   WSHTCPIP.DLL
+    |   |   |   |   WSOCK32.DLL
+    |   |   |   |   WTSAPI32.DLL
+    |   |   |   |   WZCSAPI.DLL
+    |   |   |   |   WZCSVC.DLL
+    |   |   |   |   XCOPY.EXE
+    |   |   |   |   XLOG.EXE
+    |   |   |   |   XMLPROV.DLL
+    |   |   |   |   XMLPROVI.DLL
+    |   |   |   |   XPOB2RES.DLL
+    |   |   |   |   XPSP2RES.DLL
+    |   |   |   |   
+    |   |   |   +---CONFIG
+    |   |   |   |       DEFAULT
+    |   |   |   |       DEFAULT.LOG
+    |   |   |   |       SAM
+    |   |   |   |       SECURITY
+    |   |   |   |       SOFTWARE
+    |   |   |   |       SOFTWARE.LOG
+    |   |   |   |       
+    |   |   |   +---DRIVERS
+    |   |   |   |   |   1394BUS.SYS
+    |   |   |   |   |   A25V3M5.SYS
+    |   |   |   |   |   A320RAID.SYS
+    |   |   |   |   |   A3AB.SYS
+    |   |   |   |   |   ACPI.SYS
+    |   |   |   |   |   ACPIEC.SYS
+    |   |   |   |   |   ADPTSF50.SYS
+    |   |   |   |   |   ADPU160M.SYS
+    |   |   |   |   |   ADPU320.SYS
+    |   |   |   |   |   AFC9XXX.SYS
+    |   |   |   |   |   AFCNT.SYS
+    |   |   |   |   |   AFD.SYS
+    |   |   |   |   |   AIC78U2.SYS
+    |   |   |   |   |   AIC78XX.SYS
+    |   |   |   |   |   ALI5261.SYS
+    |   |   |   |   |   ALIIDE.SYS
+    |   |   |   |   |   AMDIDE.SYS
+    |   |   |   |   |   AN983.SYS
+    |   |   |   |   |   ARC.SYS
+    |   |   |   |   |   ARP1394.SYS
+    |   |   |   |   |   ASYNCMAC.SYS
+    |   |   |   |   |   AT2400M5.SYS
+    |   |   |   |   |   AT29XXM5.SYS
+    |   |   |   |   |   ATAPI.SYS
+    |   |   |   |   |   ATGIGXP.SYS
+    |   |   |   |   |   ATMARPC.SYS
+    |   |   |   |   |   ATMLANE.SYS
+    |   |   |   |   |   ATMUNI.SYS
+    |   |   |   |   |   ATNICM5.SYS
+    |   |   |   |   |   B1.T4
+    |   |   |   |   |   B1CBASE.SYS
+    |   |   |   |   |   B1TR6.T4
+    |   |   |   |   |   B1USA.T4
+    |   |   |   |   |   B57XP32.SYS
+    |   |   |   |   |   BASPXP32.SYS
+    |   |   |   |   |   BCM4E5.SYS
+    |   |   |   |   |   BCM4SBE5.SYS
+    |   |   |   |   |   BCM4SBXP.SYS
+    |   |   |   |   |   BCMW1180.SYS
+    |   |   |   |   |   BCMWL5.SYS
+    |   |   |   |   |   BEEP.SYS
+    |   |   |   |   |   BIOPRIME.BIN
+    |   |   |   |   |   BTWUSB.SYS
+    |   |   |   |   |   CB102.SYS
+    |   |   |   |   |   CB103ND5.SYS
+    |   |   |   |   |   CBE.SYS
+    |   |   |   |   |   CBEN4.SYS
+    |   |   |   |   |   CBEN5.SYS
+    |   |   |   |   |   CBIDF2K.SYS
+    |   |   |   |   |   CD20XRNT.SYS
+    |   |   |   |   |   CDA1000.SYS
+    |   |   |   |   |   CDFS.SYS
+    |   |   |   |   |   CDROM.SYS
+    |   |   |   |   |   CE3N5.SYS
+    |   |   |   |   |   CEM28N5.SYS
+    |   |   |   |   |   CEM33N5.SYS
+    |   |   |   |   |   CEM56N5.SYS
+    |   |   |   |   |   CLASSPNP.SYS
+    |   |   |   |   |   CMDIDE.SYS
+    |   |   |   |   |   CNXT1803.SYS
+    |   |   |   |   |   CPQARRAY.SYS
+    |   |   |   |   |   CPQARRY2.SYS
+    |   |   |   |   |   CPQCISSE.SYS
+    |   |   |   |   |   CPQCISSM.SYS
+    |   |   |   |   |   CPQFCALM.SYS
+    |   |   |   |   |   CPQTRND5.SYS
+    |   |   |   |   |   DAC2W2K.SYS
+    |   |   |   |   |   DAC960NT.SYS
+    |   |   |   |   |   DC21X4.SYS
+    |   |   |   |   |   DEFPA.SYS
+    |   |   |   |   |   DELLCERC.SYS
+    |   |   |   |   |   DFE650.SYS
+    |   |   |   |   |   DFE650D.SYS
+    |   |   |   |   |   DGAPCI.SYS
+    |   |   |   |   |   DGEND5.SYS
+    |   |   |   |   |   DGSETUP.DLL
+    |   |   |   |   |   DIAPI2.SYS
+    |   |   |   |   |   DIGIRLPT.SYS
+    |   |   |   |   |   DIMAINT.SYS
+    |   |   |   |   |   DISK.SYS
+    |   |   |   |   |   DISKDUMP.SYS
+    |   |   |   |   |   DIWANSRV.SYS
+    |   |   |   |   |   DL2XD50.SYS
+    |   |   |   |   |   DL2XND4.SYS
+    |   |   |   |   |   DLKFET5B.SYS
+    |   |   |   |   |   DLKRCB.SYS
+    |   |   |   |   |   DM9PCI5.SYS
+    |   |   |   |   |   DMBOOT.SYS
+    |   |   |   |   |   DMIO.SYS
+    |   |   |   |   |   DMLOAD.SYS
+    |   |   |   |   |   DP83815.SYS
+    |   |   |   |   |   DP83820.SYS
+    |   |   |   |   |   DPTI2O.SYS
+    |   |   |   |   |   DS4BRI.BIT
+    |   |   |   |   |   DS4BRI2.BIT
+    |   |   |   |   |   DSBRI2F.BIT
+    |   |   |   |   |   DSBRI2M.BIT
+    |   |   |   |   |   DSPDLOAD.BIN
+    |   |   |   |   |   DSPDQSIG.BIN
+    |   |   |   |   |   DUBE100.SYS
+    |   |   |   |   |   DXAPI.SYS
+    |   |   |   |   |   DXG.SYS
+    |   |   |   |   |   DXGTHK.SYS
+    |   |   |   |   |   E1000325.SYS
+    |   |   |   |   |   E100B325.SYS
+    |   |   |   |   |   E1E5032.SYS
+    |   |   |   |   |   E1E5132.SYS
+    |   |   |   |   |   EG103264.SYS
+    |   |   |   |   |   EG1032V2.SYS
+    |   |   |   |   |   EL2K_XP.SYS
+    |   |   |   |   |   EL556ND5.SYS
+    |   |   |   |   |   EL575ND5.SYS
+    |   |   |   |   |   EL656CD5.SYS
+    |   |   |   |   |   EL656CT5.SYS
+    |   |   |   |   |   EL656ND5.SYS
+    |   |   |   |   |   EL656SE5.SYS
+    |   |   |   |   |   EL90XBC5.SYS
+    |   |   |   |   |   EL90XND5.SYS
+    |   |   |   |   |   EL910N51.SYS
+    |   |   |   |   |   EL985N51.SYS
+    |   |   |   |   |   EL98XN5.SYS
+    |   |   |   |   |   EL99XN51.SYS
+    |   |   |   |   |   EL99XND3.SYS
+    |   |   |   |   |   EL99XND4.SYS
+    |   |   |   |   |   EL99XND5.SYS
+    |   |   |   |   |   EL99XRUN.OUT
+    |   |   |   |   |   EM556N4.SYS
+    |   |   |   |   |   EMU10K1B.SYS
+    |   |   |   |   |   ENUM1394.SYS
+    |   |   |   |   |   EQN.SYS
+    |   |   |   |   |   F5D5020.SYS
+    |   |   |   |   |   FA31XND3.SYS
+    |   |   |   |   |   FA31XND5.SYS
+    |   |   |   |   |   FA410ND5.SYS
+    |   |   |   |   |   FA411ND5.SYS
+    |   |   |   |   |   FASTFAT.SYS
+    |   |   |   |   |   FASTSX.SYS
+    |   |   |   |   |   FASTTR33.SYS
+    |   |   |   |   |   FASTTRAK.SYS
+    |   |   |   |   |   FASTTX2.SYS
+    |   |   |   |   |   FASTTX2K.SYS
+    |   |   |   |   |   FASTTX4K.SYS
+    |   |   |   |   |   FDC.SYS
+    |   |   |   |   |   FEM556N5.SYS
+    |   |   |   |   |   FETND5.SYS
+    |   |   |   |   |   FETND5B.SYS
+    |   |   |   |   |   FLPYDISK.SYS
+    |   |   |   |   |   FLTMGR.SYS
+    |   |   |   |   |   FOREHE.SYS
+    |   |   |   |   |   FRMUPGR.SYS
+    |   |   |   |   |   FSVGA.SYS
+    |   |   |   |   |   FS_REC.SYS
+    |   |   |   |   |   FTDISK.SYS
+    |   |   |   |   |   GA302ND5.SYS
+    |   |   |   |   |   GBDEVICE.SYS
+    |   |   |   |   |   GOBACK2K.SYS
+    |   |   |   |   |   HIDCLASS.SYS
+    |   |   |   |   |   HIDPARSE.SYS
+    |   |   |   |   |   HIDUSB.SYS
+    |   |   |   |   |   HPCISSS.SYS
+    |   |   |   |   |   HPN.SYS
+    |   |   |   |   |   HPT3XX.SYS
+    |   |   |   |   |   HPTPRO.SYS
+    |   |   |   |   |   I2OMGMT.SYS
+    |   |   |   |   |   I2OMP.SYS
+    |   |   |   |   |   I8042PRT.SYS
+    |   |   |   |   |   IANSWXP.SYS
+    |   |   |   |   |   IASTOR.SYS
+    |   |   |   |   |   IBMTOK.SYS
+    |   |   |   |   |   IBMTRP.SYS
+    |   |   |   |   |   IIRSP.SYS
+    |   |   |   |   |   INTELIDE.SYS
+    |   |   |   |   |   IO8.SYS
+    |   |   |   |   |   IP5515.SYS
+    |   |   |   |   |   IPFLTDRV.SYS
+    |   |   |   |   |   IPNAT.SYS
+    |   |   |   |   |   IPSEC.SYS
+    |   |   |   |   |   IPSRAIDN.SYS
+    |   |   |   |   |   ISAPNP.SYS
+    |   |   |   |   |   ISLP2NDS.SYS
+    |   |   |   |   |   IXGB3251.SYS
+    |   |   |   |   |   KBDCLASS.SYS
+    |   |   |   |   |   KBDHID.SYS
+    |   |   |   |   |   KS.SYS
+    |   |   |   |   |   KSECDD.SYS
+    |   |   |   |   |   KTC111.SYS
+    |   |   |   |   |   LGYPCIGT.SYS
+    |   |   |   |   |   LMNDIS3.SYS
+    |   |   |   |   |   LOOP.SYS
+    |   |   |   |   |   LP6NDS35.SYS
+    |   |   |   |   |   LPXFTR.SYS
+    |   |   |   |   |   LPXNDS.SYS
+    |   |   |   |   |   M4CXW2K3.SYS
+    |   |   |   |   |   MCD.SYS
+    |   |   |   |   |   MDGNDIS5.SYS
+    |   |   |   |   |   MF.SYS
+    |   |   |   |   |   MNMDD.SYS
+    |   |   |   |   |   MODEM.SYS
+    |   |   |   |   |   MOUCLASS.SYS
+    |   |   |   |   |   MOUHID.SYS
+    |   |   |   |   |   MOUNTMGR.SYS
+    |   |   |   |   |   MRAID2K.SYS
+    |   |   |   |   |   MRAID35X.SYS
+    |   |   |   |   |   MRXSMB.SYS
+    |   |   |   |   |   MSFS.SYS
+    |   |   |   |   |   MSGPC.SYS
+    |   |   |   |   |   MUP.SYS
+    |   |   |   |   |   MXNIC.SYS
+    |   |   |   |   |   N1000325.SYS
+    |   |   |   |   |   N100325.SYS
+    |   |   |   |   |   N100VTN5.SYS
+    |   |   |   |   |   NDIS.SYS
+    |   |   |   |   |   NDISTAPI.SYS
+    |   |   |   |   |   NDISWAN.SYS
+    |   |   |   |   |   NDPROXY.SYS
+    |   |   |   |   |   NE2000.SYS
+    |   |   |   |   |   NETBIOS.SYS
+    |   |   |   |   |   NETBT.SYS
+    |   |   |   |   |   NETFLX3.SYS
+    |   |   |   |   |   NETWLAN5.IMG
+    |   |   |   |   |   NETWLAN5.SYS
+    |   |   |   |   |   NFRD960.SYS
+    |   |   |   |   |   NGRPCI.SYS
+    |   |   |   |   |   NIC1394.SYS
+    |   |   |   |   |   NMNT.SYS
+    |   |   |   |   |   NPFS.SYS
+    |   |   |   |   |   NTFS.SYS
+    |   |   |   |   |   NULL.SYS
+    |   |   |   |   |   NVATABUS.SYS
+    |   |   |   |   |   NVEFDXP.SYS
+    |   |   |   |   |   NVENET.SYS
+    |   |   |   |   |   NVNETBUS.SYS
+    |   |   |   |   |   NVNRM.SYS
+    |   |   |   |   |   NVRAID.SYS
+    |   |   |   |   |   NVSNPU.SYS
+    |   |   |   |   |   NWLNKIPX.SYS
+    |   |   |   |   |   NWLNKNB.SYS
+    |   |   |   |   |   NWLNKSPX.SYS
+    |   |   |   |   |   NWRDR.SYS
+    |   |   |   |   |   OHCI1394.SYS
+    |   |   |   |   |   OPRGHDLR.SYS
+    |   |   |   |   |   OTC06X5.SYS
+    |   |   |   |   |   OTCETH5.SYS
+    |   |   |   |   |   PARPORT.SYS
+    |   |   |   |   |   PARTMGR.SYS
+    |   |   |   |   |   PARVDM.SYS
+    |   |   |   |   |   PC100NDS.SYS
+    |   |   |   |   |   PC200.SYS
+    |   |   |   |   |   PC200NDS.SYS
+    |   |   |   |   |   PCA200E.BIN
+    |   |   |   |   |   PCA200E.SYS
+    |   |   |   |   |   PCI.SYS
+    |   |   |   |   |   PCIBIOS.BIN
+    |   |   |   |   |   PCIFEP.BIN
+    |   |   |   |   |   PCIIDE.SYS
+    |   |   |   |   |   PCIIDEX.SYS
+    |   |   |   |   |   PCMCIA.SYS
+    |   |   |   |   |   PCMLM56.SYS
+    |   |   |   |   |   PCNTPCI5.SYS
+    |   |   |   |   |   PCX500.SYS
+    |   |   |   |   |   PERC2.SYS
+    |   |   |   |   |   PERC2HIB.SYS
+    |   |   |   |   |   PPA3.SYS
+    |   |   |   |   |   PRISMNDS.SYS
+    |   |   |   |   |   PRISMUSB.SYS
+    |   |   |   |   |   PSCHED.SYS
+    |   |   |   |   |   PTILINK.SYS
+    |   |   |   |   |   Q57XP32.SYS
+    |   |   |   |   |   QL1080.SYS
+    |   |   |   |   |   QL10WNT.SYS
+    |   |   |   |   |   QL12160.SYS
+    |   |   |   |   |   QL1240.SYS
+    |   |   |   |   |   QL1280.SYS
+    |   |   |   |   |   QL2100.SYS
+    |   |   |   |   |   QL2200.SYS
+    |   |   |   |   |   QL2300.SYS
+    |   |   |   |   |   RAMDISK.SYS
+    |   |   |   |   |   RAMDRV.SYS
+    |   |   |   |   |   RASACD.SYS
+    |   |   |   |   |   RASL2TP.SYS
+    |   |   |   |   |   RASPPPOE.SYS
+    |   |   |   |   |   RASPPTP.SYS
+    |   |   |   |   |   RASPTI.SYS
+    |   |   |   |   |   RAWWAN.SYS
+    |   |   |   |   |   RDACBUS.SYS
+    |   |   |   |   |   RDACDISK.SYS
+    |   |   |   |   |   RDBSS.SYS
+    |   |   |   |   |   RNDISMP.SYS
+    |   |   |   |   |   ROCKET.SYS
+    |   |   |   |   |   ROOTMDM.SYS
+    |   |   |   |   |   RT8169XP.SYS
+    |   |   |   |   |   RTL8029.SYS
+    |   |   |   |   |   RTL8139.SYS
+    |   |   |   |   |   RTLNICXP.SYS
+    |   |   |   |   |   SAPORT.SYS
+    |   |   |   |   |   SBP2PORT.SYS
+    |   |   |   |   |   SCSIPORT.SYS
+    |   |   |   |   |   SDP0.2Q0
+    |   |   |   |   |   SDP1.2Q0
+    |   |   |   |   |   SERENUM.SYS
+    |   |   |   |   |   SERIAL.SYS
+    |   |   |   |   |   SETUPDD.SYS
+    |   |   |   |   |   SFLOPPY.SYS
+    |   |   |   |   |   SFMATALK.SYS
+    |   |   |   |   |   SI3112R.SYS
+    |   |   |   |   |   SI3114R.SYS
+    |   |   |   |   |   SI3114R5.SYS
+    |   |   |   |   |   SISNIC.SYS
+    |   |   |   |   |   SISRAID.SYS
+    |   |   |   |   |   SIWINACC.SYS
+    |   |   |   |   |   SK98XWIN.SYS
+    |   |   |   |   |   SKFPWIN.SYS
+    |   |   |   |   |   SLIP.SYS
+    |   |   |   |   |   SMARAID.SYS
+    |   |   |   |   |   SMCLIB.SYS
+    |   |   |   |   |   SONYDCAM.SYS
+    |   |   |   |   |   SPDDLANG.SYS
+    |   |   |   |   |   SPEED.SYS
+    |   |   |   |   |   SRV.SYS
+    |   |   |   |   |   SRWLND51.SYS
+    |   |   |   |   |   STLNATA.SYS
+    |   |   |   |   |   STORPORT.SYS
+    |   |   |   |   |   STREAMIP.SYS
+    |   |   |   |   |   SWENUM.SYS
+    |   |   |   |   |   SX.SYS
+    |   |   |   |   |   SYMC810.SYS
+    |   |   |   |   |   SYMC8XX.SYS
+    |   |   |   |   |   SYMMPI.SYS
+    |   |   |   |   |   SYM_HI.SYS
+    |   |   |   |   |   SYM_U3.SYS
+    |   |   |   |   |   TAPE.SYS
+    |   |   |   |   |   TBATM155.SYS
+    |   |   |   |   |   TCPIP.SYS
+    |   |   |   |   |   TDI.SYS
+    |   |   |   |   |   TFFSPORT.SYS
+    |   |   |   |   |   TJISDN.SYS
+    |   |   |   |   |   TOSIDE.SYS
+    |   |   |   |   |   UDFS.SYS
+    |   |   |   |   |   ULSATA.SYS
+    |   |   |   |   |   ULTRA.SYS
+    |   |   |   |   |   UPDATE.SYS
+    |   |   |   |   |   USB100.SYS
+    |   |   |   |   |   USB8023.SYS
+    |   |   |   |   |   USBCAMD.SYS
+    |   |   |   |   |   USBCAMD2.SYS
+    |   |   |   |   |   USBCCGP.SYS
+    |   |   |   |   |   USBD.SYS
+    |   |   |   |   |   USBEHCI.SYS
+    |   |   |   |   |   USBHUB.SYS
+    |   |   |   |   |   USBINTEL.SYS
+    |   |   |   |   |   USBOHCI.SYS
+    |   |   |   |   |   USBPORT.SYS
+    |   |   |   |   |   USBSTOR.SYS
+    |   |   |   |   |   USBUHCI.SYS
+    |   |   |   |   |   VGA.SYS
+    |   |   |   |   |   VIAIDE.SYS
+    |   |   |   |   |   VIAMRAID.SYS
+    |   |   |   |   |   VIAPDSK.SYS
+    |   |   |   |   |   VIASRAID.SYS
+    |   |   |   |   |   VIDEOPRT.SYS
+    |   |   |   |   |   VMNET.SYS
+    |   |   |   |   |   VMNETX.SYS
+    |   |   |   |   |   VMSCSI.SYS
+    |   |   |   |   |   VMUSB.SYS
+    |   |   |   |   |   VOLSNAP.SYS
+    |   |   |   |   |   W70N51.SYS
+    |   |   |   |   |   W840ND.SYS
+    |   |   |   |   |   WANARP.SYS
+    |   |   |   |   |   WATCHDOG.SYS
+    |   |   |   |   |   WD.SYS
+    |   |   |   |   |   WLBS.SYS
+    |   |   |   |   |   WLDEL48B.SYS
+    |   |   |   |   |   WLLUC48.SYS
+    |   |   |   |   |   WMILIB.SYS
+    |   |   |   |   |   WS2IFSL.SYS
+    |   |   |   |   |   XEM336N5.SYS
+    |   |   |   |   |   YK51X86.SYS
+    |   |   |   |   |   
+    |   |   |   |   \---ETC
+    |   |   |   |           LMHOSTS.SAM
+    |   |   |   |           
+    |   |   |   \---MUI
+    |   |   |       \---0409
+    |   |   |               HHCTRLUI.DLL
+    |   |   |               
+    |   |   \---WINSXS
+    |   |       +---MANIFESTS
+    |   |       |       X86_MICROSOFT.TOOLS.VISUALCPLUSPLUS.RUNTIME-LIBRARIES_6595B64144CCF1DF_6.0.0.0_X-WW_FF9986D7.CAT
+    |   |       |       X86_MICROSOFT.TOOLS.VISUALCPLUSPLUS.RUNTIME-LIBRARIES_6595B64144CCF1DF_6.0.0.0_X-WW_FF9986D7.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_5.82.3790.1830_X-WW_1B6F474A.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_5.82.3790.1830_X-WW_1B6F474A.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_6.0.3790.1830_X-WW_7AE38CCF.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_6.0.3790.1830_X-WW_7AE38CCF.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.CPLUSPLUSRUNTIME_6595B64144CCF1DF_7.0.3790.1830_X-WW_84E4CBAF.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.CPLUSPLUSRUNTIME_6595B64144CCF1DF_7.0.3790.1830_X-WW_84E4CBAF.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.GDIPLUS_6595B64144CCF1DF_1.0.3790.1830_X-WW_24C40C58.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.GDIPLUS_6595B64144CCF1DF_1.0.3790.1830_X-WW_24C40C58.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION.PROXYSTUB_6595B64144CCF1DF_1.0.3790.1830_X-WW_14899.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION.PROXYSTUB_6595B64144CCF1DF_1.0.3790.1830_X-WW_148995C5.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION_6595B64144CCF1DF_1.0.3790.1830_X-WW_952C75B7.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION_6595B64144CCF1DF_1.0.3790.1830_X-WW_952C75B7.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.DXMRTP_6595B64144CCF1DF_5.2.2.1830_X-WW_C1F0CD1A.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.DXMRTP_6595B64144CCF1DF_5.2.2.1830_X-WW_C1F0CD1A.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.RTCDLL_6595B64144CCF1DF_5.2.2.1830_X-WW_5229F208.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.RTCDLL_6595B64144CCF1DF_5.2.2.1830_X-WW_5229F208.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.RTCRES_6595B64144CCF1DF_5.2.2.1830_EN_920EB233.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.NETWORKING.RTCRES_6595B64144CCF1DF_5.2.2.1830_EN_920EB233.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.SYSTEMCOMPATIBLE_6595B64144CCF1DF_5.2.3790.1830_X-WW_F67CEE51.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.SYSTEMCOMPATIBLE_6595B64144CCF1DF_5.2.3790.1830_X-WW_F67CEE51.MANIFEST
+    |   |       |       X86_MICROSOFT.WINDOWS.WINHTTP_6595B64144CCF1DF_5.1.3790.1830_X-WW_74150EFB.CAT
+    |   |       |       X86_MICROSOFT.WINDOWS.WINHTTP_6595B64144CCF1DF_5.1.3790.1830_X-WW_74150EFB.MANIFEST
+    |   |       |       
+    |   |       +---SETUPPOLICIES
+    |   |       |   +---X86_POLICY.1.0.MICROSOFT.WINDOWS.GDIPLUS_6595B64144CCF1DF_X-WW_4E8510AC
+    |   |       |   |       5.1.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.1.0.MICROSOFT.WINDOWS.ISOLATIONAUTOMATION.PROXYSTUB_6595B64144CCF1DF_X-WW_B9986D7F
+    |   |       |   |       1.0.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.1.0.MICROSOFT.WINDOWS.ISOLATIONAUTOMATION_6595B64144CCF1DF_X-WW_A7E6FA8D
+    |   |       |   |       1.0.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.5.1.MICROSOFT.WINDOWS.WINHTTP_6595B64144CCF1DF_X-WW_7D68AE49
+    |   |       |   |       5.1.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.5.2.MICROSOFT.WINDOWS.NETWORKING.DXMRTP_6595B64144CCF1DF_X-WW_362E60DD
+    |   |       |   |       5.2.2.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.5.2.MICROSOFT.WINDOWS.NETWORKING.RTCDLL_6595B64144CCF1DF_X-WW_C7B7206F
+    |   |       |   |       5.2.2.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.5.2.MICROSOFT.WINDOWS.SYSTEMCOMPATIBLE_6595B64144CCF1DF_X-WW_92C6FB91
+    |   |       |   |       5.2.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.5.82.MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_X-WW_65777D82
+    |   |       |   |       5.82.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   +---X86_POLICY.6.0.MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_X-WW_5DDAD775
+    |   |       |   |       6.0.3790.1830.POLICY
+    |   |       |   |       
+    |   |       |   \---X86_POLICY.7.0.MICROSOFT.WINDOWS.CPLUSPLUSRUNTIME_6595B64144CCF1DF_X-WW_A317E4B3
+    |   |       |           7.0.3790.1830.POLICY
+    |   |       |           
+    |   |       +---X86_MICROSOFT.TOOLS.VISUALCPLUSPLUS.RUNTIME-LIBRARIES_6595B64144CCF1DF_6.0.0.0_X-WW_FF9986D7
+    |   |       |       ATL.DLL
+    |   |       |       MFC42.DLL
+    |   |       |       MFC42U.DLL
+    |   |       |       MSVCP60.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_5.82.3790.1830_X-WW_1B6F474A
+    |   |       |       COMCTL32.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.COMMON-CONTROLS_6595B64144CCF1DF_6.0.3790.1830_X-WW_7AE38CCF
+    |   |       |       COMCTL32.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.CPLUSPLUSRUNTIME_6595B64144CCF1DF_7.0.3790.1830_X-WW_84E4CBAF
+    |   |       |       MSVCIRT.DLL
+    |   |       |       MSVCRT.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.GDIPLUS_6595B64144CCF1DF_1.0.3790.1830_X-WW_24C40C58
+    |   |       |       GDIPLUS.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION.PROXYSTUB_6595B64144CCF1DF_1.0.3790.1830_X-WW_148995C5
+    |   |       |       SXSOAPS.DLL
+    |   |       |       SXSOAPS.TLB
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.ISOLATIONAUTOMATION_6595B64144CCF1DF_1.0.3790.1830_X-WW_952C75B7
+    |   |       |       SXSOA.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.NETWORKING.DXMRTP_6595B64144CCF1DF_5.2.2.1830_X-WW_C1F0CD1A
+    |   |       |       DXMRTP.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.NETWORKING.RTCDLL_6595B64144CCF1DF_5.2.2.1830_X-WW_5229F208
+    |   |       |       RTCDLL.DLL
+    |   |       |       
+    |   |       +---X86_MICROSOFT.WINDOWS.NETWORKING.RTCRES_6595B64144CCF1DF_5.2.2.1830_EN_920EB233
+    |   |       |       RTCRES.DLL
+    |   |       |       
+    |   |       \---X86_MICROSOFT.WINDOWS.WINHTTP_6595B64144CCF1DF_5.1.3790.1830_X-WW_74150EFB
+    |   |               WINHTTP.DLL
+    |   |               
+    |   +---SUPPORT
+    |   |   |   PARTINNT.EXE
+    |   |   |   PQBOOT32.EXE
+    |   |   |   PTEDIT32.EXE
+    |   |   |   RESTOREMBR.EXE
+    |   |   |   SEAST.EXE
+    |   |   |   SMEDUMP.EXE
+    |   |   |   
+    |   |   +---DOTNET
+    |   |   |       DOTNETFX.EXE
+    |   |   |       
+    |   |   +---LIVEREG
+    |   |   |       ADVISOR.EXE
+    |   |   |       CCWEBWND.DLL
+    |   |   |       DEFAULTS.LVR
+    |   |   |       IRADEFA2.DLL
+    |   |   |       IRALRSHL.EXE
+    |   |   |       IRALSCL2.DLL
+    |   |   |       IRALSCLT.DLL
+    |   |   |       IRALSUI.DLL
+    |   |   |       IRAVCLC3.DLL
+    |   |   |       IRAVCOBJ.DLL
+    |   |   |       LRCTRL.DLL
+    |   |   |       LRRES.DLL
+    |   |   |       LSCTRL.DLL
+    |   |   |       LSPLUGIN.DLL
+    |   |   |       LSSUPCTL.DLL
+    |   |   |       SHFOLDER.DLL
+    |   |   |       SYMCSUB.EXE
+    |   |   |       VCCLNUP.EXE
+    |   |   |       VCSETUP.EXE
+    |   |   |       
+    |   |   \---LUPDATE
+    |   |       |   LUSETUP.EXE
+    |   |       |   
+    |   |       \---EN
+    |   |               LUSETUP.EXE
+    |   |               
+    |   \---TOUR
+    |           TOUR.EXE
+    |           
+    \---ghost8
+        |   GhostCE75 floppy boot up.exe
+        |   NCDStart.exe
+        |   autorun.inf
+        |   readme.txt
+        |   
+        +---3Com
+        |       3Comdabs.txt
+        |       
+        +---AutoInstall
+        +---Documentation
+        |       DoDwipe.pdf
+        |       Getting_Started.pdf
+        |       Ghost_imp_guide.pdf
+        |       Ghost_ref_guide.pdf
+        |       Installing_a_boot_partition.pdf
+        |       
+        +---Extras
+        |   +---Acrobat
+        |   |   \---Win9x_NT_2K
+        |   +---OAKCDR
+        |   |   \---WinNT_2k_XP
+        |   +---Source
+        |   |   +---ConsoleAccount
+        |   |   |       account.wsf
+        |   |   |       readme.txt
+        |   |   |       
+        |   |   \---GenGhostFile
+        |   |           MachConf.h
+        |   |           StdAfx.cpp
+        |   |           StdAfx.h
+        |   |           genghostfile.cpp
+        |   |           genghostfile.sln
+        |   |           genghostfile.vcproj
+        |   |           readme.txt
+        |   |           
+        |   +---WMI
+        |   \---Winsock2
+        +---Install
+        |   |   0x0409.ini
+        |   |   Data1.cab
+        |   |   Ghost.ICO
+        |   |   Setup.ini
+        |   |   Symantec Ghost.msi
+        |   |   setup.exe
+        |   |   
+        |   \---Client
+        |           0x0409.ini
+        |           Client.msi
+        |           Setup.ini
+        |           
+        \---Tutorials

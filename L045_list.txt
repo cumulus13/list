@@ -1,0 +1,321 @@
+ Volume in drive G has no label.
+ Volume Serial Number is FF13-6DE6
+
+ Directory of G:\
+
+08/03/2003  10:05 AM    <DIR>          OOo
+08/04/2003  08:27 AM    <DIR>          apache
+07/28/2003  09:12 AM    <DIR>          clamav
+07/28/2003  11:45 AM    <DIR>          gambas
+07/31/2003  08:44 AM    <DIR>          lyx
+08/04/2003  08:27 AM    <DIR>          mysql
+07/28/2003  09:12 AM    <DIR>          phoenix
+08/04/2003  08:27 AM    <DIR>          php
+08/04/2003  08:27 AM    <DIR>          postgresql
+07/28/2003  11:45 AM    <DIR>          updates-rh9
+08/03/2003  08:26 AM    <DIR>          xine-rh9
+               0 File(s)              0 bytes
+
+ Directory of G:\OOo
+
+08/03/2003  10:05 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+07/23/2003  05:01 PM        76,193,188 OOo_1.1rc2_LinuxIntel_install.tar.gz
+               1 File(s)     76,193,188 bytes
+
+ Directory of G:\apache
+
+08/04/2003  08:27 AM    <DIR>          .
+08/04/2003  08:27 AM    <DIR>          ..
+07/25/2003  09:10 PM         1,680,656 apache-docs-1.3.23.pdf.zip
+10/03/2002  12:00 AM         2,306,052 apache_1.3.27.tar.gz
+10/03/2002  12:00 AM               175 apache_1.3.27.tar.gz.asc
+10/03/2002  12:00 AM                62 apache_1.3.27.tar.gz.md5
+07/25/2003  09:10 PM         9,253,393 apache_2.0.46-win32-x86-no_src.exe
+05/28/2003  05:12 AM         6,031,023 httpd-2.0.46.tar.gz
+05/28/2003  05:12 AM               186 httpd-2.0.46.tar.gz.asc
+05/28/2003  05:18 AM                59 httpd-2.0.46.tar.gz.md5
+07/25/2003  09:10 PM         1,449,341 httpd-docs-2.0.36.pdf.zip
+07/25/2003  09:10 PM         1,117,677 httpd-docs-2.0.46.en.chm
+              10 File(s)     21,838,624 bytes
+
+ Directory of G:\clamav
+
+07/28/2003  09:12 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+07/28/2003  09:12 AM            88,258 amavis-ng_0.1.6.4.orig.tar.gz
+07/28/2003  09:12 AM           985,170 clamav-0.54.tar.gz
+07/28/2003  09:12 AM                65 clamav-0.54.tar.gz.sig
+07/28/2003  09:12 AM         1,350,854 postfix-2.0.13.tar.gz
+07/28/2003  09:12 AM               152 postfix-2.0.13.tar.gz.sig
+               5 File(s)      2,424,499 bytes
+
+ Directory of G:\gambas
+
+07/28/2003  11:45 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+07/28/2003  09:12 AM            81,184 Ensiklopedi-Bahasa-Pemrograman-Gambas.jpg
+07/28/2003  09:12 AM         1,958,139 gambas-0.62-1mdk90.i586.rpm
+07/28/2003  09:12 AM         1,849,079 gambas-0.62-1mdk91.i586.rpm
+07/28/2003  09:12 AM         2,576,910 gambas-0.62a.tar.gz
+07/28/2003  09:12 AM           326,827 gambas-gui-0.62-1mdk90.i586.rpm
+07/28/2003  09:12 AM           326,897 gambas-gui-0.62-1mdk91.i586.rpm
+07/28/2003  09:12 AM           401,969 gambas-language-encyclopaedia-0.57.pdf.tar.gz
+07/28/2003  09:12 AM            45,341 gambas-language-encyclopaedia-0.57.sxw
+07/28/2003  09:12 AM         1,242,736 gambas-suse80.rpm
+07/28/2003  09:12 AM         1,181,575 gambas-suse81.rpm
+07/28/2003  09:12 AM         4,148,810 gambas-suse82.rpm
+              11 File(s)     14,139,467 bytes
+
+ Directory of G:\lyx
+
+07/31/2003  08:44 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+05/07/2003  03:01 PM         7,631,340 lyx-1.3.2-1_qt.src.rpm
+05/07/2003  03:01 PM         4,827,232 lyx-1.3.2-1mdk91-qt.i586.rpm
+05/14/2003  01:41 PM         5,084,059 lyx-1.3.2-1rh9-qt.i386.rpm
+05/07/2003  03:01 PM         5,123,753 lyx-1.3.2-1suse81-qt.i386.rpm
+05/07/2003  03:01 PM         5,130,329 lyx-1.3.2-1suse81-qt311.i386.rpm
+05/15/2003  02:13 PM         5,777,043 lyx-1.3.2-1suse82-qt.i386.rpm
+07/27/2003  09:34 PM         7,934,788 lyx-1.3.2-6-macos10.2.6-aqua.tar.gz
+05/25/2003  09:11 PM         5,091,328 lyx-1.3.2-macos10.2.6-xforms1.0.tar.gz
+07/31/2003  08:32 AM         5,469,070 lyx-1.3.2.tar.bz2
+07/31/2003  08:36 AM         7,528,733 lyx-1.3.2.tar.gz
+              10 File(s)     59,597,675 bytes
+
+ Directory of G:\mysql
+
+08/04/2003  08:27 AM    <DIR>          .
+08/04/2003  08:27 AM    <DIR>          ..
+06/08/2003  12:05 AM           822,981 manual-split.tar.gz
+07/25/2003  09:11 PM         1,389,031 manual.chm-2002-10-07.zip
+06/08/2003  12:05 AM         1,112,855 manual.hlp-2002-07-26.zip
+07/25/2003  09:11 PM         2,729,203 manual.pdf
+07/19/2003  05:26 PM           808,097 manual.tar.gz
+06/08/2003  12:05 AM           808,308 manual.zip
+03/14/2003  01:46 AM        11,434,746 mysql-3.23.56.tar.gz
+03/15/2003  04:52 AM               232 mysql-3.23.56.tar.gz.asc
+07/25/2003  09:11 PM        18,979,958 mysql-4.0.13-win.zip
+05/19/2003  08:41 PM        12,511,177 mysql-4.0.13.tar.gz
+05/19/2003  08:41 PM               232 mysql-4.0.13.tar.gz.asc
+06/08/2003  12:06 AM            31,322 mysqlfront.zip
+07/25/2003  08:44 PM    <DIR>          rpm
+              12 File(s)     50,628,142 bytes
+
+ Directory of G:\mysql\rpm
+
+07/25/2003  08:44 PM    <DIR>          .
+07/25/2003  10:00 PM    <DIR>          ..
+03/14/2003  03:17 AM        11,431,636 MySQL-3.23.56-1.src.rpm
+05/19/2003  08:45 PM        12,505,027 MySQL-4.0.13-0.src.rpm
+05/19/2003  01:45 PM         1,584,942 MySQL-Max-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM         1,808,094 MySQL-bench-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM         2,735,154 MySQL-client-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM           958,949 MySQL-devel-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM         1,785,771 MySQL-embedded-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM         9,080,211 MySQL-server-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM           266,260 MySQL-shared-4.0.13-0.i386.rpm
+05/19/2003  01:45 PM           494,925 MySQL-shared-compat-4.0.13-0.i386.rpm
+              10 File(s)     42,650,969 bytes
+
+ Directory of G:\phoenix
+
+07/28/2003  09:12 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+07/28/2003  09:12 AM         4,108,076 phoenix-1.5-6.i386.rpm
+               1 File(s)      4,108,076 bytes
+
+ Directory of G:\php
+
+08/04/2003  08:27 AM    <DIR>          .
+08/04/2003  08:27 AM    <DIR>          ..
+07/25/2003  09:12 PM         6,253,661 php-4.3.2-Win32.zip
+05/28/2003  08:54 PM         3,697,581 php-4.3.2.tar.bz2
+07/25/2003  09:12 PM         3,514,566 php_manual_en.chm
+06/08/2003  12:06 AM           872,322 php_manual_en.html.bz2
+06/08/2003  12:06 AM         1,120,770 php_manual_en.tar.bz2
+06/08/2003  12:07 AM         6,616,487 php_manual_sample_11.zip
+               6 File(s)     22,075,387 bytes
+
+ Directory of G:\postgresql
+
+08/04/2003  08:27 AM    <DIR>          .
+08/04/2003  08:27 AM    <DIR>          ..
+07/25/2003  10:06 PM    <DIR>          docs
+06/08/2003  12:31 AM         2,943,874 pgexplorer.exe
+07/25/2003  10:06 PM    <DIR>          redhat-9
+07/25/2003  10:06 PM    <DIR>          source
+               1 File(s)      2,943,874 bytes
+
+ Directory of G:\postgresql\docs
+
+07/25/2003  10:06 PM    <DIR>          .
+07/25/2003  09:51 PM    <DIR>          ..
+07/24/2003  09:47 PM         1,346,056 admin-7.3.2-US.pdf
+07/24/2003  09:47 PM            12,760 catalogs-7.3.2-US.pdf
+07/24/2003  09:47 PM             8,591 connections-7.3.2-US.pdf
+07/24/2003  09:47 PM           595,982 developer-7.3.2-US.pdf
+07/24/2003  09:47 PM         2,427,413 programmer-7.3.2-US.pdf
+07/24/2003  09:47 PM         2,293,894 reference-7.3.2-US.pdf
+07/24/2003  09:47 PM           268,995 sql1992.txt.gz
+07/24/2003  09:47 PM         1,120,391 sql1998.tar.gz
+07/24/2003  09:47 PM           287,448 tutorial-7.3.2-US.pdf
+07/24/2003  09:47 PM         1,456,519 user-7.3.2-US.pdf
+              10 File(s)      9,818,049 bytes
+
+ Directory of G:\postgresql\redhat-9
+
+07/25/2003  10:06 PM    <DIR>          .
+07/25/2003  09:51 PM    <DIR>          ..
+07/25/2003  09:43 PM         1,660,761 postgresql-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM           339,928 postgresql-contrib-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM           554,291 postgresql-devel-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM         1,131,059 postgresql-docs-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM           414,479 postgresql-jdbc-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM            86,465 postgresql-libs-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM           378,774 postgresql-pl-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM            38,730 postgresql-python-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM         2,686,641 postgresql-server-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM            21,932 postgresql-tcl-7.3.3-1PGDG.i386.rpm
+07/25/2003  09:43 PM         1,034,928 postgresql-test-7.3.3-1PGDG.i386.rpm
+              11 File(s)      8,347,988 bytes
+
+ Directory of G:\postgresql\source
+
+07/25/2003  10:06 PM    <DIR>          .
+07/25/2003  09:51 PM    <DIR>          ..
+07/24/2003  09:47 PM        11,210,071 postgresql-7.3.3.tar.gz
+07/24/2003  09:47 PM                65 postgresql-7.3.3.tar.gz.md5
+07/24/2003  09:47 PM         7,097,072 postgresql-base-7.3.3.tar.gz
+07/24/2003  09:47 PM                70 postgresql-base-7.3.3.tar.gz.md5
+07/24/2003  09:47 PM         2,647,573 postgresql-docs-7.3.3.tar.gz
+07/24/2003  09:47 PM                70 postgresql-docs-7.3.3.tar.gz.md5
+07/24/2003  09:47 PM           391,854 postgresql-opt-7.3.3.tar.gz
+07/24/2003  09:47 PM                69 postgresql-opt-7.3.3.tar.gz.md5
+07/24/2003  09:47 PM         1,073,556 postgresql-test-7.3.3.tar.gz
+07/24/2003  09:47 PM                70 postgresql-test-7.3.3.tar.gz.md5
+              10 File(s)     22,420,470 bytes
+
+ Directory of G:\updates-rh9
+
+07/28/2003  11:45 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+04/24/2003  07:31 PM           996,093 LPRng-3.8.19-3.1.i386.rpm
+04/03/2003  04:44 PM         1,702,272 balsa-2.0.6-2.i386.rpm
+06/09/2003  10:45 PM           755,065 bash-2.05b-20.1.i386.rpm
+06/09/2003  10:45 PM           786,121 bash-doc-2.05b-20.1.i386.rpm
+05/19/2003  05:04 PM         2,463,788 cups-1.1.17-13.3.i386.rpm
+05/19/2003  05:04 PM           123,450 cups-devel-1.1.17-13.3.i386.rpm
+05/19/2003  05:04 PM            91,108 cups-libs-1.1.17-13.3.i386.rpm
+04/02/2003  11:42 PM           306,662 eog-2.2.0-2.i386.rpm
+04/23/2003  06:28 PM         2,840,080 ethereal-0.9.11-0.90.1.i386.rpm
+06/30/2003  03:26 PM         3,032,840 ethereal-0.9.13-1.90.1.i386.rpm
+04/23/2003  06:28 PM         2,149,096 ethereal-gnome-0.9.11-0.90.1.i386.rpm
+06/30/2003  03:26 PM         2,291,268 ethereal-gnome-0.9.13-1.90.1.i386.rpm
+03/20/2003  10:54 PM         9,536,122 evolution-1.2.2-5.i386.rpm
+06/06/2003  07:19 PM         1,412,401 foomatic-2.0.2-15.1.i386.rpm
+05/28/2003  02:03 AM         7,873,048 ghostscript-7.05-32.1.i386.rpm
+05/28/2003  02:03 AM            30,210 ghostscript-devel-7.05-32.1.i386.rpm
+04/09/2003  04:13 PM         3,299,860 glibc-2.3.2-27.9.i386.rpm
+04/09/2003  04:13 PM        12,439,795 glibc-common-2.3.2-27.9.i386.rpm
+04/09/2003  04:13 PM        23,406,535 glibc-debug-2.3.2-27.9.i386.rpm
+04/09/2003  04:13 PM         2,340,628 glibc-devel-2.3.2-27.9.i386.rpm
+04/09/2003  04:13 PM         1,004,854 glibc-profile-2.3.2-27.9.i386.rpm
+04/09/2003  04:13 PM            56,137 glibc-utils-2.3.2-27.9.i386.rpm
+05/20/2003  11:16 PM         1,238,746 gnupg-1.2.1-4.i386.rpm
+04/09/2003  07:04 PM           639,631 gtkhtml-1.1.9-0.9.i386.rpm
+04/09/2003  07:04 PM           348,635 gtkhtml-devel-1.1.9-0.9.i386.rpm
+05/28/2003  02:03 AM           143,449 hpijs-1.3-32.1.i386.rpm
+05/27/2003  07:53 PM         1,058,749 httpd-2.0.40-21.3.i386.rpm
+05/27/2003  07:53 PM           260,566 httpd-devel-2.0.40-21.3.i386.rpm
+05/27/2003  07:53 PM           833,972 httpd-manual-2.0.40-21.3.i386.rpm
+07/28/2003  08:22 AM            16,732 index.html
+03/13/2003  08:52 PM           572,751 initscripts-7.14-1.i386.rpm
+04/28/2003  07:39 PM        18,566,276 kdebase-3.1-13.i386.rpm
+04/28/2003  07:39 PM            87,032 kdebase-devel-3.1-13.i386.rpm
+04/28/2003  07:40 PM         5,302,462 kdegraphics-3.1-5.i386.rpm
+04/28/2003  07:40 PM            24,144 kdegraphics-devel-3.1-5.i386.rpm
+04/28/2003  07:41 PM        11,953,992 kdelibs-3.1-11.i386.rpm
+04/28/2003  07:41 PM         9,959,323 kdelibs-devel-3.1-11.i386.rpm
+06/02/2003  03:34 PM        13,312,766 kernel-2.4.20-18.9.i386.rpm
+07/18/2003  06:49 PM        13,317,482 kernel-2.4.20-19.9.i386.rpm
+06/02/2003  03:34 PM         6,494,376 kernel-BOOT-2.4.20-18.9.i386.rpm
+07/18/2003  06:49 PM         6,498,995 kernel-BOOT-2.4.20-19.9.i386.rpm
+06/02/2003  03:34 PM         1,802,707 kernel-doc-2.4.20-18.9.i386.rpm
+07/18/2003  06:49 PM         1,803,094 kernel-doc-2.4.20-19.9.i386.rpm
+06/02/2003  03:34 PM        38,912,691 kernel-source-2.4.20-18.9.i386.rpm
+07/18/2003  06:49 PM        38,933,375 kernel-source-2.4.20-19.9.i386.rpm
+05/30/2003  09:57 PM           106,301 kon2-0.3.9b-16.9.i386.rpm
+05/30/2003  09:57 PM           121,164 kon2-fonts-0.3.9b-16.9.i386.rpm
+04/01/2003  08:20 PM           730,798 krb5-devel-1.2.7-14.i386.rpm
+04/01/2003  08:20 PM           420,597 krb5-libs-1.2.7-14.i386.rpm
+04/01/2003  08:20 PM           629,324 krb5-server-1.2.7-14.i386.rpm
+04/01/2003  08:20 PM           686,874 krb5-workstation-1.2.7-14.i386.rpm
+05/09/2003  11:45 PM           519,985 lv-4.49.4-9.9.1.i386.rpm
+05/27/2003  07:53 PM            78,153 mod_ssl-2.0.40-21.3.i386.rpm
+04/03/2003  04:45 PM         1,170,012 mutt-1.4.1-1.i386.rpm
+05/01/2003  06:56 PM         5,379,403 mysql-3.23.56-1.9.i386.rpm
+05/01/2003  06:56 PM           580,700 mysql-devel-3.23.56-1.9.i386.rpm
+05/01/2003  06:56 PM         1,121,532 mysql-server-3.23.56-1.9.i386.rpm
+07/09/2003  12:50 PM           195,375 nfs-utils-1.0.1-3.9.i386.rpm
+04/09/2003  04:13 PM            53,532 nscd-2.3.2-27.9.i386.rpm
+03/29/2003  01:30 AM         1,125,578 openssl-0.9.7a-5.i386.rpm
+03/29/2003  01:30 AM         1,648,157 openssl-devel-0.9.7a-5.i386.rpm
+03/29/2003  01:30 AM            24,017 openssl-perl-0.9.7a-5.i386.rpm
+03/29/2003  01:31 AM           594,849 openssl096-0.9.6-17.i386.rpm
+03/29/2003  01:31 AM           627,384 openssl096b-0.9.6b-6.i386.rpm
+07/01/2003  04:29 PM         1,359,821 php-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM           276,286 php-devel-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM           421,018 php-imap-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM            38,300 php-ldap-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM        13,740,343 php-manual-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM            37,701 php-mysql-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM            44,638 php-odbc-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM            42,281 php-pgsql-4.2.2-17.2.i386.rpm
+07/01/2003  04:29 PM            29,025 php-snmp-4.2.2-17.2.i386.rpm
+07/02/2003  06:49 PM           197,018 printman-0.0.1-0.20021202.12.1.i386.rpm
+07/02/2003  06:19 PM           801,237 redhat-config-printer-0.6.47.9-1.i386.rpm
+07/02/2003  06:19 PM            89,083 redhat-config-printer-gui-0.6.47.9-1.i386.rpm
+03/13/2003  06:19 PM           236,620 rhn-applet-2.0.9-0.9.0.1.i386.rpm
+04/07/2003  07:01 PM         3,147,900 samba-2.2.7a-8.9.0.i386.rpm
+04/07/2003  07:01 PM         2,172,433 samba-client-2.2.7a-8.9.0.i386.rpm
+04/07/2003  07:01 PM         2,231,674 samba-common-2.2.7a-8.9.0.i386.rpm
+04/07/2003  07:02 PM         2,029,811 samba-swat-2.2.7a-8.9.0.i386.rpm
+03/31/2003  03:08 PM         1,091,747 sendmail-8.12.8-5.90.i386.rpm
+03/31/2003  03:08 PM           291,922 sendmail-cf-8.12.8-5.90.i386.rpm
+03/31/2003  03:08 PM            95,835 sendmail-devel-8.12.8-5.90.i386.rpm
+03/31/2003  03:08 PM           603,993 sendmail-doc-8.12.8-5.90.i386.rpm
+05/13/2003  10:59 PM           306,739 tcpdump-3.7.2-1.9.1.i386.rpm
+06/30/2003  07:35 PM           138,350 unzip-5.50-14.i386.rpm
+03/13/2003  09:50 PM            76,611 vsftpd-1.1.3-8.i386.rpm
+05/13/2003  01:05 AM           125,442 xinetd-2.3.11-1.9.0.i386.rpm
+07/15/2003  10:43 PM         4,160,945 xpdf-2.01-11.i386.rpm
+06/18/2003  04:20 AM         4,159,691 xpdf-2.01-9.i386.rpm
+06/20/2003  07:09 PM           121,312 ypserv-2.8-0.9E.i386.rpm
+              92 File(s)    304,900,890 bytes
+
+ Directory of G:\xine-rh9
+
+08/03/2003  08:26 AM    <DIR>          .
+08/03/2003  10:06 AM    <DIR>          ..
+03/31/2003  09:44 AM           216,929 aalib-1.4rc5-fr2.i386.rpm
+06/19/2003  05:02 AM           280,231 alsa-driver-0.9.4-fr2.i386.rpm
+06/13/2003  12:35 AM           301,356 alsa-lib-0.9.4-fr1.i386.rpm
+06/13/2003  12:37 AM           109,543 alsa-utils-0.9.4-fr1.i386.rpm
+03/31/2003  09:44 AM           921,436 flac-1.1.0-fr3.i386.rpm
+07/28/2003  09:12 AM           459,468 gxine-0.3.3-fr1.i386.rpm
+04/09/2003  10:00 PM            32,114 libavc1394-0.4.1-fr1.i386.rpm
+03/31/2003  09:44 AM           229,792 libdv-0.99-fr2.i386.rpm
+03/31/2003  09:44 AM           168,248 libfame-0.9.0-fr2.i386.rpm
+08/01/2003  11:47 PM           202,157 libquicktime-0.9.2pre1-1.i386.rpm
+07/28/2003  09:12 AM            84,205 oxine-0.2-fr2.i386.rpm
+07/28/2003  09:12 AM           657,824 vcdimager-0.7.14-fr1.i386.rpm
+07/28/2003  09:12 AM         1,779,800 xine-0.9.21-fr1.i386.rpm
+07/28/2003  09:12 AM         2,073,115 xine-lib-1.0.0-fr0.beta12.1.i386.rpm
+07/28/2003  09:12 AM         1,383,518 xine-skins-1.5-fr2.noarch.rpm
+04/08/2003  07:19 PM           147,713 xvidcore-0.9.1-fr2.i386.rpm
+              16 File(s)      9,047,449 bytes
+
+     Total Files Listed:
+             206 File(s)    651,134,747 bytes
+              45 Dir(s)               0 bytes free

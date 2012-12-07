@@ -1,0 +1,22 @@
+Folder PATH listing for volume KNOPPIX
+Volume serial number is 9716-CD42
+J:\
+|   index.html
+|   
++---KNOPPIX
+|       KNOPPIX
+|       
++---boot
+|   \---isolinux
+|           boot.cat
+|           boot.msg
+|           f2
+|           f3
+|           german.kbd
+|           isolinux.bin
+|           isolinux.cfg
+|           linux24
+|           logo.16
+|           minirt24.gz
+|           
+\---lost+found

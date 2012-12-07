@@ -1,0 +1,68 @@
+ Volume in drive G is KNOPPIX
+ Volume Serial Number is CEDE-CBD3
+
+ Directory of G:\
+
+11/04/2001  07:02 AM    <DIR>          Demos
+11/01/2002  04:42 AM    <DIR>          KNOPPIX
+10/06/2002  06:25 AM    <DIR>          Talks
+06/17/2001  03:50 PM                54 autorun.bat
+08/29/2002  02:59 AM                47 autorun.inf
+08/29/2002  03:06 AM             2,290 index.html
+08/29/2002  02:57 AM             3,262 knoppix.ico
+               4 File(s)          5,653 bytes
+
+ Directory of G:\Demos
+
+11/04/2001  07:02 AM    <DIR>          .
+08/29/2002  03:07 AM    <DIR>          ..
+10/05/2002  12:56 AM    <DIR>          Audio
+               0 File(s)              0 bytes
+
+ Directory of G:\Demos\Audio
+
+10/05/2002  12:56 AM    <DIR>          .
+11/04/2001  07:02 AM    <DIR>          ..
+08/14/2001  04:19 AM               323 README.txt
+05/15/2002  05:41 AM             6,421 green_openmusic_license.txt
+10/05/2002  12:54 AM         3,162,962 inside.ogg
+10/05/2002  12:53 AM         3,170,106 opensource.ogg
+10/05/2002  12:56 AM         3,441,945 penguinplanet.ogg
+               5 File(s)      9,781,757 bytes
+
+ Directory of G:\KNOPPIX
+
+11/01/2002  04:42 AM    <DIR>          .
+08/29/2002  03:07 AM    <DIR>          ..
+11/01/2002  04:42 AM       716,149,430 KNOPPIX
+09/05/2002  02:51 AM            10,387 KNOPPIX-FAQ-EN.txt
+09/05/2002  02:51 AM            11,697 KNOPPIX-FAQ.txt
+08/24/2001  07:15 AM             2,530 README_Security.txt
+07/01/2002  01:19 AM           287,741 background.gif
+11/01/2002  02:18 AM         1,474,560 boot-de.img
+11/01/2002  02:18 AM         1,474,560 boot-en.img
+11/01/2002  04:42 AM             2,048 boot.cat
+11/01/2002  02:18 AM         1,474,560 boot.img
+08/29/2002  05:50 AM            10,462 index.html
+08/29/2002  05:51 AM             9,983 index_en.html
+10/06/2002  10:58 PM             6,047 knoppix-cheatcodes.txt
+07/01/2002  01:34 AM            31,326 knoppix-header.gif
+06/05/2001  10:17 AM                27 mkfloppy.bat
+06/05/2001  10:17 AM             1,669 rawrite2-readme.txt
+06/05/2001  10:17 AM            17,863 rawrite2.exe
+05/16/2002  08:52 AM           138,803 web-background.gif
+              17 File(s)    721,103,693 bytes
+
+ Directory of G:\Talks
+
+10/06/2002  06:25 AM    <DIR>          .
+08/29/2002  03:07 AM    <DIR>          ..
+05/15/2002  05:33 AM           121,958 freesoftware-paper.pdf
+05/15/2002  05:30 AM           952,733 freesoftware-screen.pdf
+10/06/2002  06:25 AM           213,521 knoppix-vortrag-10-2002-paper.pdf
+10/06/2002  06:25 AM           265,828 knoppix-vortrag-10-2002-screen.pdf
+               4 File(s)      1,554,040 bytes
+
+     Total Files Listed:
+              30 File(s)    732,445,143 bytes
+              12 Dir(s)               0 bytes free

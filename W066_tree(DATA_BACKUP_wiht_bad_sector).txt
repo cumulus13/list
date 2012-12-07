@@ -1,0 +1,274 @@
+Folder PATH listing for volume W066
+Volume serial number is 9D22-8005
+J:\
+|   @FruityLoops Studio Producer Edition 5.0.1.iso
+|   MATLAB_6.5.zip
+|   Dellta Force Extreme X2.iso
+|   WALLPAPER.zip
+|   HaloTrialSetup.exe
+|   
++---SPSS v12
+|   |   0x0409.ini
+|   |   Bas.cab
+|   |   BasBsc.cab
+|   |   BasBscSys.cab
+|   |   BasDat.cab
+|   |   BasPdM.cab
+|   |   BasPdmSys.cab
+|   |   BasSyn.cab
+|   |   BasSysFont.cab
+|   |   Picasa.ini
+|   |   SPSS 12.0 for Windows.msi
+|   |   Sentinel System Driver 5.41.1 (32-bit).msi
+|   |   Serial.txt
+|   |   Setup.ini
+|   |   instmsia.exe
+|   |   instmsiw.exe
+|   |   isscript.msi
+|   |   setup.bmp
+|   |   setup.exe
+|   |   
+|   +---Flags
+|   |       Austria.bmp
+|   |       Canada.bmp
+|   |       China.bmp
+|   |       Denmark.bmp
+|   |       Europe.bmp
+|   |       France.bmp
+|   |       Germany.bmp
+|   |       Greece.bmp
+|   |       Holland.bmp
+|   |       Ireland.bmp
+|   |       Italy.bmp
+|   |       Japan.bmp
+|   |       Mexico.bmp
+|   |       Norway.bmp
+|   |       Picasa.ini
+|   |       Poland.bmp
+|   |       Russia.bmp
+|   |       Skorea.bmp
+|   |       Spain.bmp
+|   |       Sweden.bmp
+|   |       Swiss.bmp
+|   |       UK.bmp
+|   |       USA.bmp
+|   |       israel.bmp
+|   |       
+|   +---Fonts
+|   |       arial.ttf
+|   |       mapis___.ttf
+|   |       mapsym.ttf
+|   |       spssms__.ttf
+|   |       ttmiar__.ttf
+|   |       ttmicg__.ttf
+|   |       ttmimi__.ttf
+|   |       ttmiog__.ttf
+|   |       ttmios__.ttf
+|   |       ttmire__.ttf
+|   |       ttmitc__.ttf
+|   |       ttmiwe__.ttf
+|   |       
+|   +---OSL
+|   |       osl.txt
+|   |       
+|   \---developer
+|       |   SPSS 12.0 for Windows Developer's Guide.pdf
+|       |   
+|       +---IO_DLL
+|       |   |   spssdio.bas
+|       |   |   spssdio.h
+|       |   |   spssio32.dll
+|       |   |   spssio32.lib
+|       |   |   
+|       |   +---Smpl_cpp
+|       |   |       dict_res.h
+|       |   |       dictafx.cpp
+|       |   |       dictafx.h
+|       |   |       dictdoc.cpp
+|       |   |       dictdoc.h
+|       |   |       dictdoc.ico
+|       |   |       dictlist.cpp
+|       |   |       dictlist.h
+|       |   |       dictls32.mak
+|       |   |       dictls32.rc
+|       |   |       dictmain.ico
+|       |   |       smpl_cpp.doc
+|       |   |       
+|       |   \---Smpl_vb
+|       |           dictabou.frm
+|       |           dictabou.frx
+|       |           dictchld(2).frx
+|       |           dictchld.frm
+|       |           dictchld.frx
+|       |           dictlist(2).vbp
+|       |           dictlist.vbp
+|       |           dictmdi(2).frm
+|       |           dictmdi.frm
+|       |           dictmdi.frx
+|       |           smpl_vb.doc
+|       |           
+|       +---Programs
+|       |   +---Microsoft Excel VBA
+|       |   |       Dkexcel.xls
+|       |   |       Employee data.xls
+|       |   |       
+|       |   +---Microsoft Word VBA
+|       |   |       books.wmf
+|       |   |       mexpense.dot
+|       |   |       mexpense.sav
+|       |   |       wdsample.exe
+|       |   |       wdsample.frm
+|       |   |       wdsample.vbp
+|       |   |       
+|       |   +---OLE Quickstart
+|       |   |       spssole.exe
+|       |   |       spssole.frm
+|       |   |       spssole.vbp
+|       |   |       
+|       |   +---Payroll
+|       |   |       Expopt.frm
+|       |   |       Picasa.ini
+|       |   |       analysis.bmp
+|       |   |       ceridian.sav
+|       |   |       chart.bmp
+|       |   |       eeocat2.sct
+|       |   |       main.frm
+|       |   |       payrate.sct
+|       |   |       payroll.bas
+|       |   |       payroll.dat
+|       |   |       payroll.exe
+|       |   |       payroll.tlo
+|       |   |       payroll.vbp
+|       |   |       print.frm
+|       |   |       selvar.frm
+|       |   |       sick.sct
+|       |   |       table.bmp
+|       |   |       title.bmp
+|       |   |       vacation.sct
+|       |   |       
+|       |   +---SPSS Script
+|       |   |       Edit all pivot tables.sbs
+|       |   |       Export output.sbs
+|       |   |       Modify starter script.sbs
+|       |   |       Modify starter script.spo
+|       |   |       
+|       |   \---Visual Basic
+|       |       +---Correlations diagonal
+|       |       |       corrdiag.exe
+|       |       |       corrdiag.frm
+|       |       |       corrdiag.frx
+|       |       |       corrdiag.vbp
+|       |       |       registry.bas
+|       |       |       
+|       |       +---List Index
+|       |       |       lstindex.exe
+|       |       |       lstindex.frm
+|       |       |       lstindex.frx
+|       |       |       lstindex.vbp
+|       |       |       testole.spo
+|       |       |       
+|       |       +---Load SPSS data files
+|       |       |       LoadSPSS.exe
+|       |       |       LoadSPSS.frm
+|       |       |       LoadSPSS.frx
+|       |       |       LoadSPSS.vbp
+|       |       |       LoadSPSS.vbw
+|       |       |       
+|       |       +---Make pivot tables narrow
+|       |       |       4dimens.spo
+|       |       |       narrow.exe
+|       |       |       narrow.frm
+|       |       |       narrow.frx
+|       |       |       narrow.vbp
+|       |       |       
+|       |       +---Manipulate nodes in the Viewer
+|       |       |       nav1.spo
+|       |       |       nav2.spo
+|       |       |       navmanip.bas
+|       |       |       navmanip.exe
+|       |       |       navmanip.frm
+|       |       |       navmanip.vbp
+|       |       |       
+|       |       +---Pivot table exerciser
+|       |       |       pvtxrsiz.exe
+|       |       |       pvtxrsiz.frm
+|       |       |       pvtxrsiz.frx
+|       |       |       pvtxrsiz.vbp
+|       |       |       pvtxrsz1.spo
+|       |       |       pvtxrsz1.sps
+|       |       |       pvtxrsz2.spo
+|       |       |       pvtxrsz2.sps
+|       |       |       pvtxrsz3.sps
+|       |       |       pvtxrsz4.sps
+|       |       |       registry.bas
+|       |       |       
+|       |       +---Shorten percentage labels in crosstabulation
+|       |       |       percent.exe
+|       |       |       percent.frm
+|       |       |       percent.frx
+|       |       |       percent.sav
+|       |       |       percent.spo
+|       |       |       percent.sps
+|       |       |       percent.vbp
+|       |       |       registry.bas
+|       |       |       
+|       |       +---Source code for Runsyntx.exe
+|       |       |       runsyntx.bas
+|       |       |       runsyntx.vbp
+|       |       |       
+|       |       \---Source code for SPSS Production Facility
+|       |               about.frm
+|       |               about.frx
+|       |               createdr.frm
+|       |               createdr.frx
+|       |               expopt.frm
+|       |               expopt.frx
+|       |               frmopt.frm
+|       |               frmopt.frx
+|       |               main.bas
+|       |               mdimain.frm
+|       |               mdimain.frx
+|       |               output.frm
+|       |               output.frx
+|       |               prnstat.frm
+|       |               prnstat.frx
+|       |               prodres.h
+|       |               prodres.rc
+|       |               project.frm
+|       |               project.frx
+|       |               prompt.frm
+|       |               prompt.frx
+|       |               publogin.frm
+|       |               pubtoweb.frm
+|       |               run.frm
+|       |               runalert.frm
+|       |               runalert.frx
+|       |               spss.bas
+|       |               spssprod.res
+|       |               spssprod.vbp
+|       |               struct.frm
+|       |               subdial.frm
+|       |               subdial.frx
+|       |               vbreg.bas
+|       |               
+|       \---include
+|               ispssgrf.h
+|               ispssnav.h
+|               ispsspvt.h
+|               ispssrtf.h
+|               ispsswin.h
+|               ivischart.h
+|               
++---Ship_Simulator
+|       Shipsim2008.iso
+|       
+\---Solaris
+        Solaris 10 (experimental).nvram
+        Solaris 10 (experimental).vmdk
+        Solaris 10 (experimental).vmsd
+        Solaris 10 (experimental).vmx
+        vmware-0.log
+        vmware-1.log
+        vmware-2.log
+        vmware.log
+        

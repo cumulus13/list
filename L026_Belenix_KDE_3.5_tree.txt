@@ -1,0 +1,720 @@
+Folder PATH listing for volume belenix
+Volume serial number is 69E2-F638
+G:\
+|   .catalog
+|   .livecd
+|   AUTORUN.INF
+|   archive.tar.7z
+|   belenix.zlib
+|   jdk.7z
+|   man
+|   noautoshutdown
+|   reconfigure
+|   root.home.tar.bz2
+|   
++---.cdrom
++---LICENSES
+|       APERTURE.LICENSE
+|       ARTISTIC
+|       BSD.LICENSE
+|       DLJ-v1.1.txt
+|       FBSD.COPYRIGHT
+|       FLEX.COPYING
+|       GPL
+|       ISC.LICENSE
+|       LGPL
+|       MASAYUKI.LICENSE
+|       OPENSOLARIS.BINARY.LICENSE
+|       OPENSOLARIS.LICENSE
+|       OPENSOLARIS.THIRDPARTYLICENSE
+|       OPENSSL.LICENSE
+|       README.DEVPROMAKESCCSBINAR.i386
+|       README.XAW3D
+|       SUNPRO.LICENSE
+|       VOSTROM.LICENSE
+|       
++---Misc
+|   +---database
+|   \---jumpstart_sample
+|       \---x86-begin.conf
++---boot
+|   |   x86.microroot
+|   |   
+|   +---acpi
+|   |   \---tables
+|   +---grub
+|   |   |   belenixboot.xpm.gz
+|   |   |   default
+|   |   |   e2fs_stage1_5
+|   |   |   fat_stage1_5
+|   |   |   ffs_stage1_5
+|   |   |   install_menu
+|   |   |   iso9660_stage1_5
+|   |   |   jfs_stage1_5
+|   |   |   menu.lst
+|   |   |   menu.lst.default
+|   |   |   minix_stage1_5
+|   |   |   nbgrub
+|   |   |   pxegrub
+|   |   |   reiserfs_stage1_5
+|   |   |   splash.xpm.gz
+|   |   |   stage1
+|   |   |   stage2
+|   |   |   stage2_eltorito
+|   |   |   ufs2_stage1_5
+|   |   |   ufs_stage1_5
+|   |   |   vstafs_stage1_5
+|   |   |   xfs_stage1_5
+|   |   |   
+|   |   \---bin
+|   |           grub
+|   |           
+|   \---solaris
+|       |   bootenv.rc
+|       |   filelist.ramdisk
+|       |   
+|       +---bin
+|       |       create_diskmap
+|       |       create_ramdisk
+|       |       mbr
+|       |       root_archive
+|       |       
+|       \---devicedb
+|               master
+|               
++---dev
+|   +---dsk
+|   +---fd
+|   +---pts
+|   +---rdsk
+|   +---rmt
+|   +---sad
+|   +---swap
+|   \---term
++---devices
+|   \---pseudo
++---export
++---home
++---info
+|       1.gif
+|       16.gif
+|       4.gif
+|       Intro.htm
+|       bg.jpg
+|       bicon.png
+|       innov.gif
+|       
++---lib
+|   \---svc
+|       \---seed
+|               nonglobal.db
+|               
++---mnt
++---opt
+|   +---DTT
+|   |   |   Guide
+|   |   |   License
+|   |   |   README
+|   |   |   Version
+|   |   |   dappprof
+|   |   |   dapptrace
+|   |   |   dexplorer
+|   |   |   dtruss
+|   |   |   dvmstat
+|   |   |   errinfo
+|   |   |   execsnoop
+|   |   |   iosnoop
+|   |   |   iotop
+|   |   |   opensnoop
+|   |   |   procsystime
+|   |   |   rwsnoop
+|   |   |   rwtop
+|   |   |   
+|   |   +---Bin
+|   |   |       anonpgpid.d
+|   |   |       bitesize.d
+|   |   |       connections
+|   |   |       cpudists
+|   |   |       cputimes
+|   |   |       cputypes.d
+|   |   |       cpuwalk.d
+|   |   |       crap.d
+|   |   |       creatbyproc.d
+|   |   |       cswstat.d
+|   |   |       dappprof
+|   |   |       dapptrace
+|   |   |       dexplorer
+|   |   |       diskhits
+|   |   |       dispqlen.d
+|   |   |       dnlcps.d
+|   |   |       dnlcsnoop.d
+|   |   |       dnlcstat
+|   |   |       dtruss
+|   |   |       dvmstat
+|   |   |       errinfo
+|   |   |       execsnoop
+|   |   |       fddist
+|   |   |       filebyproc.d
+|   |   |       guess.d
+|   |   |       hotspot.d
+|   |   |       icmpstat.d
+|   |   |       intbycpu.d
+|   |   |       intoncpu.d
+|   |   |       inttimes.d
+|   |   |       iofile.d
+|   |   |       iopattern
+|   |   |       iosnoop
+|   |   |       iotop
+|   |   |       kill.d
+|   |   |       lastwords
+|   |   |       loads.d
+|   |   |       lockbydist.d
+|   |   |       lockbyproc.d
+|   |   |       minfbypid.d
+|   |   |       minfbyproc.d
+|   |   |       newproc.d
+|   |   |       opensnoop
+|   |   |       pathopens.d
+|   |   |       pgpginbypid.d
+|   |   |       pgpginbyproc.d
+|   |   |       pidpersec.d
+|   |   |       pridist.d
+|   |   |       procsystime
+|   |   |       readbytes.d
+|   |   |       readdist.d
+|   |   |       rwbbypid.d
+|   |   |       rwbypid.d
+|   |   |       rwsnoop
+|   |   |       rwtop
+|   |   |       sampleproc
+|   |   |       sar-c.d
+|   |   |       seeksize.d
+|   |   |       setuids.d
+|   |   |       shortlived.d
+|   |   |       sigdist.d
+|   |   |       swapinfo.d
+|   |   |       sysbypid.d
+|   |   |       syscallbypid.d
+|   |   |       syscallbyproc.d
+|   |   |       syscallbysysc.d
+|   |   |       tcpsnoop
+|   |   |       tcpsnoop.d
+|   |   |       tcpstat.d
+|   |   |       tcptop
+|   |   |       tcpwdist.d
+|   |   |       threaded.d
+|   |   |       topsyscall
+|   |   |       topsysproc
+|   |   |       udpstat.d
+|   |   |       uname-a.d
+|   |   |       vmbypid.d
+|   |   |       vmstat.d
+|   |   |       vmstat-p.d
+|   |   |       writebytes.d
+|   |   |       writedist.d
+|   |   |       xcallsbypid.d
+|   |   |       xvmstat
+|   |   |       zvmstat
+|   |   |       
+|   |   +---Cpu
+|   |   |       Readme
+|   |   |       cputypes.d
+|   |   |       cpuwalk.d
+|   |   |       dispqlen.d
+|   |   |       intbycpu.d
+|   |   |       intoncpu.d
+|   |   |       inttimes.d
+|   |   |       loads.d
+|   |   |       xcallsbypid.d
+|   |   |       
+|   |   +---Disk
+|   |   |       bitesize.d
+|   |   |       diskhits
+|   |   |       hotspot.d
+|   |   |       iofile.d
+|   |   |       iopattern
+|   |   |       pathopens.d
+|   |   |       seeksize.d
+|   |   |       
+|   |   +---Docs
+|   |   |   |   Contents
+|   |   |   |   Contrib
+|   |   |   |   Faq
+|   |   |   |   History
+|   |   |   |   Index
+|   |   |   |   Links
+|   |   |   |   Maintainer
+|   |   |   |   Readme
+|   |   |   |   ToDo
+|   |   |   |   Who
+|   |   |   |   cddl1.txt
+|   |   |   |   oneliners.txt
+|   |   |   |   
+|   |   |   +---Examples
+|   |   |   |       anonpgpid_example.txt
+|   |   |   |       bitesize_example.txt
+|   |   |   |       connections_example.txt
+|   |   |   |       cpudists_example.txt
+|   |   |   |       cputimes_example.txt
+|   |   |   |       cputypes_example.txt
+|   |   |   |       cpuwalk_example.txt
+|   |   |   |       crap_example.txt
+|   |   |   |       creatbyproc_example.txt
+|   |   |   |       cswstat_example.txt
+|   |   |   |       dappprof_example.txt
+|   |   |   |       dapptrace_example.txt
+|   |   |   |       dexplorer_example.txt
+|   |   |   |       diskhits_example.txt
+|   |   |   |       dispqlen_example.txt
+|   |   |   |       dnlcps_example.txt
+|   |   |   |       dnlcsnoop_example.txt
+|   |   |   |       dnlcstat_example.txt
+|   |   |   |       dtruss_example.txt
+|   |   |   |       dvmstat_example.txt
+|   |   |   |       errinfo_example.txt
+|   |   |   |       execsnoop_example.txt
+|   |   |   |       fddist_example.txt
+|   |   |   |       filebyproc_example.txt
+|   |   |   |       guess_example.txt
+|   |   |   |       hotspot_example.txt
+|   |   |   |       icmpstat_example.txt
+|   |   |   |       intbycpu_example.txt
+|   |   |   |       intoncpu_example.txt
+|   |   |   |       inttimes_example.txt
+|   |   |   |       iofile_example.txt
+|   |   |   |       iopattern_example.txt
+|   |   |   |       iosnoop_example.txt
+|   |   |   |       iotop_example.txt
+|   |   |   |       kill_example.txt
+|   |   |   |       lastwords_example.txt
+|   |   |   |       loads_example.txt
+|   |   |   |       lockbydist_example.txt
+|   |   |   |       lockbyproc_example.txt
+|   |   |   |       minfbypid_example.txt
+|   |   |   |       minfbyproc_example.txt
+|   |   |   |       newproc_example.txt
+|   |   |   |       oneliners_examples.txt
+|   |   |   |       opensnoop_example.txt
+|   |   |   |       pathopens_example.txt
+|   |   |   |       pgpginbypid_example.txt
+|   |   |   |       pgpginbyproc_example.txt
+|   |   |   |       pidpersec_example.txt
+|   |   |   |       pridist_example.txt
+|   |   |   |       procsystime_example.txt
+|   |   |   |       readbytes_example.txt
+|   |   |   |       readdist_example.txt
+|   |   |   |       rwbbypid_example.txt
+|   |   |   |       rwbypid_example.txt
+|   |   |   |       rwsnoop_example.txt
+|   |   |   |       rwtop_example.txt
+|   |   |   |       sampleproc_example.txt
+|   |   |   |       sar-c_example.txt
+|   |   |   |       seeksize_example.txt
+|   |   |   |       setuids_example.txt
+|   |   |   |       shortlived_example.txt
+|   |   |   |       sigdist_example.txt
+|   |   |   |       swapinfo_example.txt
+|   |   |   |       sysbypid_example.txt
+|   |   |   |       syscallbypid_example.txt
+|   |   |   |       syscallbyproc_example.txt
+|   |   |   |       syscallbysysc_example.txt
+|   |   |   |       tcpsnoop_d_example.txt
+|   |   |   |       tcpsnoop_example.txt
+|   |   |   |       tcpstat_example.txt
+|   |   |   |       tcptop_example.txt
+|   |   |   |       tcpwdist_example.txt
+|   |   |   |       threaded_example.txt
+|   |   |   |       topsyscall_example.txt
+|   |   |   |       topsysproc_example.txt
+|   |   |   |       udpstat_example.txt
+|   |   |   |       uname-a_example.txt
+|   |   |   |       vmbypid_example.txt
+|   |   |   |       vmstat-p_example.txt
+|   |   |   |       vmstat_example.txt
+|   |   |   |       writebytes_example.txt
+|   |   |   |       writedist_example.txt
+|   |   |   |       xcallsbypid_example.txt
+|   |   |   |       xvmstat_example.txt
+|   |   |   |       zvmstat_example.txt
+|   |   |   |       
+|   |   |   +---Notes
+|   |   |   |       cputimes_notes.txt
+|   |   |   |       dappprof_notes.txt
+|   |   |   |       dapptrace_notes.txt
+|   |   |   |       dtruss_notes.txt
+|   |   |   |       iosnoop_notes.txt
+|   |   |   |       procsystime_notes.txt
+|   |   |   |       
+|   |   |   \---Template
+|   |   |       |   Checklist
+|   |   |       |   Readme
+|   |   |       |   
+|   |   |       +---Bin
+|   |   |       |       basic.d
+|   |   |       |       
+|   |   |       +---Docs
+|   |   |       |   +---Examples
+|   |   |       |   |       basic_example.txt
+|   |   |       |   |       
+|   |   |       |   \---Notes
+|   |   |       |           basic_notes.txt
+|   |   |       |           
+|   |   |       +---Man
+|   |   |       |   \---man1s
+|   |   |       |           basic.d.1m
+|   |   |       |           
+|   |   |       \---User
+|   |   |               basic.d
+|   |   |               
+|   |   +---Extra
+|   |   |       guess.d
+|   |   |       
+|   |   +---Kernel
+|   |   |       cpudists
+|   |   |       cputimes
+|   |   |       cswstat.d
+|   |   |       dnlcps.d
+|   |   |       dnlcsnoop.d
+|   |   |       dnlcstat
+|   |   |       pridist.d
+|   |   |       
+|   |   +---Locks
+|   |   |       lockbydist.d
+|   |   |       lockbyproc.d
+|   |   |       
+|   |   +---Man
+|   |   |   \---man1m
+|   |   |           anonpgpid.d.1m
+|   |   |           bitesize.d.1m
+|   |   |           connections.1m
+|   |   |           cpudists.1m
+|   |   |           cputimes.1m
+|   |   |           cputypes.d.1m
+|   |   |           cpuwalk.d.1m
+|   |   |           crap.d.1m
+|   |   |           creatbyproc.d.1m
+|   |   |           cswstat.d.1m
+|   |   |           dappprof.1m
+|   |   |           dapptrace.1m
+|   |   |           dexplorer.1m
+|   |   |           diskhits.1m
+|   |   |           dispqlen.d.1m
+|   |   |           dnlcps.d.1m
+|   |   |           dnlcsnoop.d.1m
+|   |   |           dnlcstat.1m
+|   |   |           dtruss.1m
+|   |   |           dvmstat.1m
+|   |   |           errinfo.1m
+|   |   |           execsnoop.1m
+|   |   |           fddist.1m
+|   |   |           filebyproc.d.1m
+|   |   |           guess.d.1m
+|   |   |           hotspot.d.1m
+|   |   |           icmpstat.d.1m
+|   |   |           intbycpu.d.1m
+|   |   |           intoncpu.d.1m
+|   |   |           inttimes.d.1m
+|   |   |           iofile.d.1m
+|   |   |           iopattern.1m
+|   |   |           iosnoop.1m
+|   |   |           iotop.1m
+|   |   |           kill.d.1m
+|   |   |           lastwords.1m
+|   |   |           loads.d.1m
+|   |   |           lockbydist.d.1m
+|   |   |           lockbyproc.d.1m
+|   |   |           minfbypid.d.1m
+|   |   |           minfbyproc.d.1m
+|   |   |           newproc.d.1m
+|   |   |           opensnoop.1m
+|   |   |           pathopens.d.1m
+|   |   |           pgpginbypid.d.1m
+|   |   |           pgpginbyproc.d.1m
+|   |   |           pidpersec.d.1m
+|   |   |           pridist.d.1m
+|   |   |           procsystime.1m
+|   |   |           readbytes.d.1m
+|   |   |           readdist.d.1m
+|   |   |           rwbbypid.d.1m
+|   |   |           rwbypid.d.1m
+|   |   |           rwsnoop.1m
+|   |   |           rwtop.1m
+|   |   |           sampleproc.1m
+|   |   |           sar-c.d.1m
+|   |   |           seeksize.d.1m
+|   |   |           setuids.d.1m
+|   |   |           shortlived.d.1m
+|   |   |           sigdist.d.1m
+|   |   |           swapinfo.d.1m
+|   |   |           sysbypid.d.1m
+|   |   |           syscallbypid.d.1m
+|   |   |           syscallbyproc.d.1m
+|   |   |           syscallbysysc.d.1m
+|   |   |           tcpsnoop.1m
+|   |   |           tcpsnoop.d.1m
+|   |   |           tcpstat.d.1m
+|   |   |           tcptop.1m
+|   |   |           tcpwdist.d.1m
+|   |   |           threaded.d.1m
+|   |   |           topsyscall.1m
+|   |   |           topsysproc.1m
+|   |   |           udpstat.d.1m
+|   |   |           uname-a.d.1m
+|   |   |           vmbypid.d.1m
+|   |   |           vmstat.d.1m
+|   |   |           vmstat-p.d.1m
+|   |   |           writebytes.d.1m
+|   |   |           writedist.d.1m
+|   |   |           xcallsbypid.d.1m
+|   |   |           xvmstat.1m
+|   |   |           zvmstat.1m
+|   |   |           
+|   |   +---Mem
+|   |   |       anonpgpid.d
+|   |   |       minfbypid.d
+|   |   |       minfbyproc.d
+|   |   |       pgpginbypid.d
+|   |   |       pgpginbyproc.d
+|   |   |       swapinfo.d
+|   |   |       vmbypid.d
+|   |   |       vmstat.d
+|   |   |       vmstat-p.d
+|   |   |       xvmstat
+|   |   |       
+|   |   +---Net
+|   |   |       connections
+|   |   |       icmpstat.d
+|   |   |       tcpsnoop
+|   |   |       tcpsnoop.d
+|   |   |       tcpstat.d
+|   |   |       tcptop
+|   |   |       tcpwdist.d
+|   |   |       udpstat.d
+|   |   |       
+|   |   +---Proc
+|   |   |       Readme
+|   |   |       crap.d
+|   |   |       creatbyproc.d
+|   |   |       fddist
+|   |   |       filebyproc.d
+|   |   |       kill.d
+|   |   |       lastwords
+|   |   |       newproc.d
+|   |   |       pidpersec.d
+|   |   |       readbytes.d
+|   |   |       readdist.d
+|   |   |       rwbbypid.d
+|   |   |       rwbypid.d
+|   |   |       sampleproc
+|   |   |       shortlived.d
+|   |   |       sigdist.d
+|   |   |       sysbypid.d
+|   |   |       syscallbypid.d
+|   |   |       syscallbyproc.d
+|   |   |       threaded.d
+|   |   |       topsysproc
+|   |   |       writebytes.d
+|   |   |       writedist.d
+|   |   |       
+|   |   +---System
+|   |   |       Readme
+|   |   |       sar-c.d
+|   |   |       syscallbysysc.d
+|   |   |       topsyscall
+|   |   |       uname-a.d
+|   |   |       
+|   |   +---User
+|   |   |       Readme
+|   |   |       setuids.d
+|   |   |       
+|   |   \---Zones
+|   |           Readme
+|   |           zvmstat
+|   |           
+|   \---csw
+|       +---bin
+|       |       pkg-get
+|       |       
+|       +---etc
+|       |       pkg-get.conf.csw
+|       |       
+|       \---share
+|           \---man
+|               \---man1m
+|                       pkg-get.1m
+|                       
++---package
++---platform
+|   \---i86pc
+|       |   biosint
+|       |   multiboot
+|       |   
+|       \---kernel
+|           +---cpu
+|           +---drv
+|           |       amd64_gart
+|           |       
+|           +---kmdb
+|           +---mach
+|           +---misc
+|           +---strmod
+|           \---sys
++---proc
++---products
++---system
+|   +---contract
+|   \---object
++---tmp
++---var
+|   \---svc
+|       +---log
+|       \---manifest
+|           +---application
+|           |   |   xserver.xml
+|           |   |   
+|           |   +---management
+|           |   +---print
+|           |   |       cleanup.xml
+|           |   |       rfc1179.xml
+|           |   |       server.xml
+|           |   |       
+|           |   \---security
+|           +---device
+|           +---milestone
+|           |       multi-user.xml
+|           |       multi-user-server.xml
+|           |       name-services.xml
+|           |       network.xml
+|           |       single-user.xml
+|           |       sysconfig.xml
+|           |       
+|           +---network
+|           |   |   chargen.xml
+|           |   |   comsat.xml
+|           |   |   daytime.xml
+|           |   |   dhcp-server.xml
+|           |   |   discard.xml
+|           |   |   echo.xml
+|           |   |   finger.xml
+|           |   |   ftp.xml
+|           |   |   inetd.xml
+|           |   |   inetd-upgrade.xml
+|           |   |   inetmenu.xml
+|           |   |   ipfilter.xml
+|           |   |   login.xml
+|           |   |   network-initial.xml
+|           |   |   network-loopback.xml
+|           |   |   network-physical.xml
+|           |   |   network-service.xml
+|           |   |   ntp.xml
+|           |   |   pfil.xml
+|           |   |   rarp.xml
+|           |   |   rexec.xml
+|           |   |   shell.xml
+|           |   |   slp.xml
+|           |   |   smtp-sendmail.xml
+|           |   |   ssh.xml
+|           |   |   talk.xml
+|           |   |   telnet.xml
+|           |   |   time.xml
+|           |   |   tname.xml
+|           |   |   uucp.xml
+|           |   |   
+|           |   +---dns
+|           |   |       client.xml
+|           |   |       
+|           |   +---ldap
+|           |   |       client.xml
+|           |   |       
+|           |   +---nfs
+|           |   |       cbd.xml
+|           |   |       client.xml
+|           |   |       mapid.xml
+|           |   |       nlockmgr.xml
+|           |   |       rquota.xml
+|           |   |       server.xml
+|           |   |       status.xml
+|           |   |       
+|           |   +---nis
+|           |   |       client.xml
+|           |   |       passwd.xml
+|           |   |       update.xml
+|           |   |       xfr.xml
+|           |   |       
+|           |   +---rpc
+|           |   |       bind.xml
+|           |   |       bootparams.xml
+|           |   |       gss.xml
+|           |   |       keyserv.xml
+|           |   |       nisplus.xml
+|           |   |       rex.xml
+|           |   |       rstat.xml
+|           |   |       rusers.xml
+|           |   |       sgi_fam_1-2-rpc_tcp.xml
+|           |   |       smserver.xml
+|           |   |       spray.xml
+|           |   |       wall.xml
+|           |   |       
+|           |   +---security
+|           |   |       kadmin.xml
+|           |   |       krb5_prop.xml
+|           |   |       krb5kdc.xml
+|           |   |       ktkt_warn.xml
+|           |   |       
+|           |   \---ssl
+|           |           kssl-proxy.xml
+|           |           
+|           +---platform
+|           |   +---i86pc
+|           |   |       eeprom.xml
+|           |   |       
+|           |   \---sun4u
+|           +---site
+|           |       powernow.xml
+|           |       
+|           \---system
+|               |   auditd.xml
+|               |   boot-archive.xml
+|               |   consadm.xml
+|               |   console-login.xml
+|               |   coreadm.xml
+|               |   cron.xml
+|               |   cryptosvc.xml
+|               |   dumpadm.xml
+|               |   fmd.xml
+|               |   identity.xml
+|               |   intrd.xml
+|               |   keymap.xml
+|               |   manifest-import.xml
+|               |   name-service-cache.xml
+|               |   picl.xml
+|               |   poold.xml
+|               |   pools.xml
+|               |   power.xml
+|               |   rcap.xml
+|               |   rmtmpfiles.xml
+|               |   sac.xml
+|               |   sar.xml
+|               |   scheduler.xml
+|               |   sysconfigure.xml
+|               |   sysevent.xml
+|               |   system-log.xml
+|               |   utmp.xml
+|               |   zones.xml
+|               |   
+|               +---device
+|               |       devices-local.xml
+|               |       
+|               +---filesystem
+|               |       autofs.xml
+|               |       local-fs.xml
+|               |       minimal-fs.xml
+|               |       root-fs.xml
+|               |       usr-fs.xml
+|               |       volfs.xml
+|               |       
+|               +---security
+|               \---svc
+|                       restarter.xml
+|                       
+\---vol

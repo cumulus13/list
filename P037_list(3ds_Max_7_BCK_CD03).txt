@@ -1,0 +1,1957 @@
+ Volume in drive T is 3DSMAX7 TUTORIAL
+ Volume Serial Number is D1B4-D472
+
+ Directory of T:\
+
+09/15/2004  09:42 PM               120 3dsmaxcd3.mid
+10/05/2004  04:50 AM    <DIR>          Tutorials
+               1 File(s)            120 bytes
+
+ Directory of T:\Tutorials
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  04:50 AM    <DIR>          adv_lighting
+10/05/2004  04:50 AM    <DIR>          arch
+10/05/2004  04:50 AM    <DIR>          camera_tracker
+10/05/2004  04:50 AM    <DIR>          camera_shake
+10/05/2004  04:50 AM    <DIR>          camera_match
+10/05/2004  04:50 AM    <DIR>          camera_map
+10/05/2004  04:50 AM    <DIR>          character_animation
+10/05/2004  04:50 AM    <DIR>          designviz
+10/05/2004  04:50 AM    <DIR>          edit_poly
+10/05/2004  04:50 AM    <DIR>          full_house
+10/05/2004  04:50 AM    <DIR>          high_rise
+10/05/2004  04:50 AM    <DIR>          hourglass
+10/05/2004  04:50 AM    <DIR>          intro_to_animation
+10/05/2004  04:50 AM    <DIR>          intro_to_rendering
+10/05/2004  04:50 AM    <DIR>          intro_to_modeling
+10/05/2004  04:50 AM    <DIR>          intro_to_materials
+10/05/2004  04:50 AM    <DIR>          intro_to_design_visualization
+10/05/2004  04:50 AM    <DIR>          land
+10/05/2004  04:50 AM    <DIR>          lens_flares
+10/05/2004  04:50 AM    <DIR>          level_design
+10/05/2004  04:50 AM    <DIR>          lights
+10/05/2004  04:50 AM    <DIR>          low_polygon_modeling
+10/05/2004  04:50 AM    <DIR>          materials_and_rendering
+10/05/2004  04:50 AM    <DIR>          mech_design
+10/05/2004  04:50 AM    <DIR>          mental_ray
+10/05/2004  04:50 AM    <DIR>          normal_bump
+10/05/2004  04:50 AM    <DIR>          nurbs_modeling
+10/05/2004  04:50 AM    <DIR>          p38_lightning
+10/05/2004  04:50 AM    <DIR>          parameter_collector
+10/05/2004  04:50 AM    <DIR>          particle_effects
+10/05/2004  04:50 AM    <DIR>          radiosity
+10/05/2004  04:50 AM    <DIR>          reaction_manager
+10/05/2004  04:50 AM    <DIR>          reactor
+10/05/2004  04:50 AM    <DIR>          schematic_view
+10/05/2004  04:50 AM    <DIR>          scripting_fx
+10/05/2004  04:50 AM    <DIR>          shockwave3d
+10/05/2004  04:50 AM    <DIR>          space
+10/05/2004  04:50 AM    <DIR>          sss_fast_skin
+10/05/2004  04:50 AM    <DIR>          still_life
+10/05/2004  04:50 AM    <DIR>          tutorial_scripts
+10/05/2004  04:50 AM    <DIR>          vertex_color
+10/05/2004  04:50 AM    <DIR>          worldwide_designs
+               0 File(s)              0 bytes
+
+ Directory of T:\Tutorials\adv_lighting
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/12/2001  11:38 AM             7,950 BOOKS1.JPG
+10/04/2004  10:40 PM           424,960 civic_center.max
+10/04/2004  10:40 PM           424,448 civic_center_daylight.max
+12/12/2001  11:38 AM               569 cooper.ies
+10/04/2004  10:40 PM           232,960 desert_house_no_sun.max
+10/04/2004  10:40 PM         5,939,712 gallery.max
+10/04/2004  10:40 PM         5,855,232 gallery_no_override.max
+12/12/2001  11:37 AM           260,474 GRASS2.JPG
+04/21/1997  04:41 PM            11,173 GS.1.siding-vertical.wide.jpg
+12/12/2001  10:38 AM           696,056 ill_tut_land_arcade_texture2.bmp
+12/12/2001  10:38 AM           696,056 ill_tut_land_arcade_texture3.bmp
+10/04/2004  10:41 PM            73,216 interior_unfinished_std_lights.max
+10/04/2004  10:45 PM         7,120,896 library_direct_render.max
+10/04/2004  10:45 PM           735,744 library_rendering_intro.max
+10/04/2004  10:48 PM        10,499,072 library_with_radiosity.max
+04/21/1997  04:41 PM            39,777 masonry.1.concrete.holes.jpg
+12/12/2001  10:38 AM         2,690,126 mcc_aerial_w_contours.bmp
+12/12/2001  10:38 AM           906,456 painted_aerial.bmp
+04/21/1997  04:42 PM            16,365 stone.1.granite.Verde Ubatuba.jpg
+12/12/2001  11:37 AM             6,495 WOOD02.JPG
+07/21/1997  06:08 PM             9,175 Wood.2.mahogany quartered.jpg
+01/16/2003  12:27 PM             4,850 woodfloor2.jpg
+              22 File(s)     36,651,762 bytes
+
+ Directory of T:\Tutorials\arch
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  10:49 PM            64,512 building1_complete.max
+10/04/2004  10:49 PM            64,512 building_nowalls.max
+12/12/2001  10:38 AM            72,737 Chromic.jpg
+12/12/2001  10:38 AM             2,745 GLASBLKB.GIF
+10/04/2004  10:49 PM            57,344 modelfromsketch_01.max
+10/04/2004  10:49 PM            57,344 modelfromsketch_02.max
+09/01/2003  02:03 AM            39,110 OAKLEAF.TGA
+10/04/2004  10:49 PM            61,952 rotunda.max
+10/04/2004  10:49 PM            67,072 shadow_study.max
+12/12/2001  11:38 AM           139,587 Site-r.jpg
+12/12/2001  10:38 AM         1,345,318 sketch.gif
+12/12/2001  10:38 AM           178,738 SKY.JPG
+12/12/2001  10:38 AM           388,777 Steelplt.jpg
+              13 File(s)      2,539,748 bytes
+
+ Directory of T:\Tutorials\camera_tracker
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  10:51 PM           429,056 deskrino.max
+10/04/2004  10:51 PM            52,224 merge_points.max
+10/20/1997  02:00 AM           120,908 RHINO.JPG
+01/15/2001  01:00 AM         4,774,912 rinodesk.avi
+01/15/2001  01:00 AM            25,106 tabl0000.jpg
+01/15/2001  01:00 AM            24,868 tabl0001.jpg
+01/15/2001  01:00 AM            24,885 tabl0002.jpg
+01/15/2001  01:00 AM            24,894 tabl0003.jpg
+01/15/2001  01:00 AM            24,882 tabl0004.jpg
+01/15/2001  01:00 AM            24,926 tabl0005.jpg
+01/15/2001  01:00 AM            24,613 tabl0006.jpg
+01/15/2001  01:00 AM            23,621 tabl0007.jpg
+01/15/2001  01:00 AM            23,149 tabl0008.jpg
+01/15/2001  01:00 AM            23,068 tabl0009.jpg
+01/15/2001  01:00 AM            23,466 tabl0010.jpg
+01/15/2001  01:00 AM            24,469 tabl0011.jpg
+01/15/2001  01:00 AM            25,060 tabl0012.jpg
+01/15/2001  01:00 AM            24,981 tabl0013.jpg
+01/15/2001  01:00 AM            24,168 tabl0014.jpg
+01/15/2001  01:00 AM            23,673 tabl0015.jpg
+01/15/2001  01:00 AM            23,532 tabl0016.jpg
+01/15/2001  01:00 AM            23,634 tabl0017.jpg
+01/15/2001  01:00 AM            24,212 tabl0018.jpg
+01/15/2001  01:00 AM            25,271 tabl0019.jpg
+01/15/2001  01:00 AM            25,776 tabl0020.jpg
+01/15/2001  01:00 AM            25,249 tabl0021.jpg
+01/15/2001  01:00 AM            24,378 tabl0022.jpg
+01/15/2001  01:00 AM            23,559 tabl0023.jpg
+01/15/2001  01:00 AM            23,221 tabl0024.jpg
+01/15/2001  01:00 AM            23,375 tabl0025.jpg
+01/15/2001  01:00 AM            24,454 tabl0026.jpg
+01/15/2001  01:00 AM            24,959 tabl0027.jpg
+01/15/2001  01:00 AM            25,580 tabl0028.jpg
+01/15/2001  01:00 AM            25,613 tabl0029.jpg
+01/15/2001  01:00 AM            25,995 tabl0030.jpg
+01/15/2001  01:00 AM            25,455 tabl0031.jpg
+01/15/2001  01:00 AM            24,478 tabl0032.jpg
+01/15/2001  01:00 AM            23,135 tabl0033.jpg
+01/15/2001  01:00 AM            22,732 tabl0034.jpg
+01/15/2001  01:00 AM            22,502 tabl0035.jpg
+01/15/2001  01:00 AM            22,423 tabl0036.jpg
+01/15/2001  01:00 AM            22,603 tabl0037.jpg
+01/15/2001  01:00 AM            23,061 tabl0038.jpg
+01/15/2001  01:00 AM            24,511 tabl0039.jpg
+01/15/2001  01:00 AM            25,332 tabl0040.jpg
+01/15/2001  01:00 AM            25,380 tabl0041.jpg
+01/15/2001  01:00 AM            25,421 tabl0042.jpg
+01/15/2001  01:00 AM            25,282 tabl0043.jpg
+01/15/2001  01:00 AM            24,882 tabl0044.jpg
+01/15/2001  01:00 AM            24,424 tabl0045.jpg
+01/15/2001  01:00 AM            24,278 tabl0046.jpg
+01/15/2001  01:00 AM            24,054 tabl0047.jpg
+01/15/2001  01:00 AM            24,091 tabl0048.jpg
+01/15/2001  01:00 AM            23,979 tabl0049.jpg
+01/15/2001  01:00 AM            24,282 tabl0050.jpg
+01/15/2001  01:00 AM            24,473 tabl0051.jpg
+01/15/2001  01:00 AM            24,703 tabl0052.jpg
+01/15/2001  01:00 AM            25,331 tabl0053.jpg
+01/15/2001  01:00 AM            25,867 tabl0054.jpg
+01/15/2001  01:00 AM            26,320 tabl0055.jpg
+01/15/2001  01:00 AM            26,529 tabl0056.jpg
+01/15/2001  01:00 AM            26,320 tabl0057.jpg
+01/15/2001  01:00 AM            25,608 tabl0058.jpg
+01/15/2001  01:00 AM            25,813 tabl0059.jpg
+01/15/2001  01:00 AM            25,528 tabl0060.jpg
+01/15/2001  01:00 AM            25,572 tabl0061.jpg
+01/15/2001  01:00 AM            25,904 tabl0062.jpg
+01/15/2001  01:00 AM            25,359 tabl0063.jpg
+01/15/2001  01:00 AM            24,285 tabl0064.jpg
+01/15/2001  01:00 AM            23,816 tabl0065.jpg
+01/15/2001  01:00 AM            23,751 tabl0066.jpg
+01/15/2001  01:00 AM            23,939 tabl0067.jpg
+01/15/2001  01:00 AM            24,367 tabl0068.jpg
+01/15/2001  01:00 AM            25,029 tabl0069.jpg
+01/15/2001  01:00 AM            25,564 tabl0070.jpg
+01/15/2001  01:00 AM            26,515 tabl0071.jpg
+01/15/2001  01:00 AM            27,225 tabl0072.jpg
+01/15/2001  01:00 AM            27,192 tabl0073.jpg
+01/15/2001  01:00 AM            26,881 tabl0074.jpg
+01/15/2001  01:00 AM            26,776 tabl0075.jpg
+01/15/2001  01:00 AM            26,526 tabl0076.jpg
+01/15/2001  01:00 AM            25,945 tabl0077.jpg
+01/15/2001  01:00 AM            25,697 tabl0078.jpg
+01/15/2001  01:00 AM            25,753 tabl0079.jpg
+01/15/2001  01:00 AM            25,508 tabl0080.jpg
+01/15/2001  01:00 AM            25,459 tabl0081.jpg
+01/15/2001  01:00 AM            25,411 tabl0082.jpg
+01/15/2001  01:00 AM            25,131 tabl0083.jpg
+01/15/2001  01:00 AM            25,330 tabl0084.jpg
+01/15/2001  01:00 AM            25,422 tabl0085.jpg
+01/15/2001  01:00 AM            25,676 tabl0086.jpg
+01/15/2001  01:00 AM            25,534 tabl0087.jpg
+01/15/2001  01:00 AM            25,587 tabl0088.jpg
+01/15/2001  01:00 AM            25,998 tabl0089.jpg
+01/15/2001  01:00 AM            26,348 tabl0090.jpg
+01/15/2001  01:00 AM            27,228 tabl0091.jpg
+01/15/2001  01:00 AM            27,750 tabl0092.jpg
+01/15/2001  01:00 AM            27,764 tabl0093.jpg
+01/15/2001  01:00 AM            27,308 tabl0094.jpg
+01/15/2001  01:00 AM            27,156 tabl0095.jpg
+01/15/2001  01:00 AM            27,147 tabl0096.jpg
+01/15/2001  01:00 AM            26,908 tabl0097.jpg
+01/15/2001  01:00 AM            26,765 tabl0098.jpg
+01/15/2001  01:00 AM            26,232 tabl0099.jpg
+01/15/2001  01:00 AM            25,758 tabl0100.jpg
+01/15/2001  01:00 AM            25,668 tabl0101.jpg
+01/15/2001  01:00 AM            25,707 tabl0102.jpg
+01/15/2001  01:00 AM            26,498 tabl0103.jpg
+01/15/2001  01:00 AM            27,169 tabl0104.jpg
+01/15/2001  01:00 AM            27,478 tabl0105.jpg
+01/15/2001  01:00 AM            27,708 tabl0106.jpg
+01/15/2001  01:00 AM            27,635 tabl0107.jpg
+01/15/2001  01:00 AM            27,751 tabl0108.jpg
+01/15/2001  01:00 AM            27,647 tabl0109.jpg
+01/15/2001  01:00 AM            27,467 tabl0110.jpg
+01/15/2001  01:00 AM            27,343 tabl0111.jpg
+01/15/2001  01:00 AM            27,344 tabl0112.jpg
+01/15/2001  01:00 AM            27,317 tabl0113.jpg
+01/15/2001  01:00 AM            27,452 tabl0114.jpg
+01/15/2001  01:00 AM            27,426 tabl0115.jpg
+01/15/2001  01:00 AM            27,455 tabl0116.jpg
+01/15/2001  01:00 AM            27,416 tabl0117.jpg
+01/15/2001  01:00 AM            27,479 tabl0118.jpg
+01/15/2001  01:00 AM            27,448 tabl0119.jpg
+01/15/2001  01:00 AM            27,602 tabl0120.jpg
+01/15/2001  01:00 AM            27,614 tabl0121.jpg
+01/15/2001  01:00 AM            27,480 tabl0122.jpg
+01/15/2001  01:00 AM            27,606 tabl0123.jpg
+01/15/2001  01:00 AM            27,655 tabl0124.jpg
+01/15/2001  01:00 AM            27,681 tabl0125.jpg
+01/15/2001  01:00 AM            27,677 tabl0126.jpg
+01/15/2001  01:00 AM            27,604 tabl0127.jpg
+01/15/2001  01:00 AM            27,660 tabl0128.jpg
+01/15/2001  01:00 AM            27,709 tabl0129.jpg
+01/15/2001  01:00 AM            27,579 tabl0130.jpg
+01/15/2001  01:00 AM            27,590 tabl0131.jpg
+01/15/2001  01:00 AM            27,576 tabl0132.jpg
+01/15/2001  01:00 AM            27,460 tabl0133.jpg
+01/15/2001  01:00 AM            27,316 tabl0134.jpg
+01/15/2001  01:00 AM            27,322 tabl0135.jpg
+01/15/2001  01:00 AM            27,277 tabl0136.jpg
+01/15/2001  01:00 AM            27,213 tabl0137.jpg
+01/15/2001  01:00 AM            26,919 tabl0138.jpg
+01/15/2001  01:00 AM            26,673 tabl0139.jpg
+01/15/2001  01:00 AM            26,895 tabl0140.jpg
+01/15/2001  01:00 AM            27,090 tabl0141.jpg
+01/15/2001  01:00 AM            27,298 tabl0142.jpg
+01/15/2001  01:00 AM            27,467 tabl0143.jpg
+01/15/2001  01:00 AM            27,579 tabl0144.jpg
+01/15/2001  01:00 AM            27,401 tabl0145.jpg
+01/15/2001  01:00 AM            27,338 tabl0146.jpg
+01/15/2001  01:00 AM            27,274 tabl0147.jpg
+01/15/2001  01:00 AM            27,312 tabl0148.jpg
+01/15/2001  01:00 AM            27,223 tabl0149.jpg
+01/15/2001  01:00 AM            27,122 tabl0150.jpg
+01/15/2001  01:00 AM            27,199 tabl0151.jpg
+01/15/2001  01:00 AM            27,198 tabl0152.jpg
+01/15/2001  01:00 AM            27,091 tabl0153.jpg
+01/15/2001  01:00 AM            27,169 tabl0154.jpg
+01/15/2001  01:00 AM            27,024 tabl0155.jpg
+01/15/2001  01:00 AM            27,049 tabl0156.jpg
+01/15/2001  01:00 AM            26,887 tabl0157.jpg
+01/15/2001  01:00 AM            27,063 tabl0158.jpg
+01/15/2001  01:00 AM            27,091 tabl0159.jpg
+01/15/2001  01:00 AM            27,071 tabl0160.jpg
+01/15/2001  01:00 AM            26,641 tabl0161.jpg
+01/15/2001  01:00 AM            25,972 tabl0162.jpg
+01/15/2001  01:00 AM            25,296 tabl0163.jpg
+01/15/2001  01:00 AM            24,933 tabl0164.jpg
+01/15/2001  01:00 AM            24,604 tabl0165.jpg
+01/15/2001  01:00 AM            24,786 tabl0166.jpg
+01/15/2001  01:00 AM            24,967 tabl0167.jpg
+01/15/2001  01:00 AM            25,062 tabl0168.jpg
+01/15/2001  01:00 AM            25,646 tabl0169.jpg
+01/15/2001  01:00 AM            25,858 tabl0170.jpg
+01/15/2001  01:00 AM            25,667 tabl0171.jpg
+01/15/2001  01:00 AM            25,572 tabl0172.jpg
+01/15/2001  01:00 AM            25,300 tabl0173.jpg
+01/15/2001  01:00 AM            25,036 tabl0174.jpg
+01/15/2001  01:00 AM            24,806 tabl0175.jpg
+01/15/2001  01:00 AM            24,439 tabl0176.jpg
+01/15/2001  01:00 AM            24,222 tabl0177.jpg
+01/15/2001  01:00 AM            24,010 tabl0178.jpg
+01/15/2001  01:00 AM            23,876 tabl0179.jpg
+01/15/2001  01:00 AM            24,130 tabl0180.jpg
+01/15/2001  01:00 AM            24,437 tabl0181.jpg
+01/15/2001  01:00 AM            24,450 tabl0182.jpg
+01/15/2001  01:00 AM            24,527 tabl0183.jpg
+01/15/2001  01:00 AM            24,386 tabl0184.jpg
+01/15/2001  01:00 AM            23,871 tabl0185.jpg
+01/15/2001  01:00 AM            23,525 tabl0186.jpg
+01/15/2001  01:00 AM            23,052 tabl0187.jpg
+01/15/2001  01:00 AM            22,985 tabl0188.jpg
+01/15/2001  01:00 AM            23,108 tabl0189.jpg
+01/15/2001  01:00 AM            23,311 tabl0190.jpg
+01/15/2001  01:00 AM            23,627 tabl0191.jpg
+01/15/2001  01:00 AM            23,849 tabl0192.jpg
+01/15/2001  01:00 AM            23,780 tabl0193.jpg
+01/15/2001  01:00 AM            23,767 tabl0194.jpg
+01/15/2001  01:00 AM            23,424 tabl0195.jpg
+01/15/2001  01:00 AM            23,545 tabl0196.jpg
+01/15/2001  01:00 AM            23,671 tabl0197.jpg
+01/15/2001  01:00 AM            23,574 tabl0198.jpg
+01/15/2001  01:00 AM            23,614 tabl0199.jpg
+01/15/2001  01:00 AM            23,697 tabl0200.jpg
+01/15/2001  01:00 AM            23,503 tabl0201.jpg
+01/15/2001  01:00 AM            23,105 tabl0202.jpg
+01/15/2001  01:00 AM            22,565 tabl0203.jpg
+01/15/2001  01:00 AM            22,319 tabl0204.jpg
+01/15/2001  01:00 AM            21,910 tabl0205.jpg
+01/15/2001  01:00 AM            22,106 tabl0206.jpg
+01/15/2001  01:00 AM            22,295 tabl0207.jpg
+01/15/2001  01:00 AM            22,470 tabl0208.jpg
+01/15/2001  01:00 AM            22,654 tabl0209.jpg
+01/15/2001  01:00 AM            22,372 tabl0210.jpg
+01/15/2001  01:00 AM            21,717 tabl0211.jpg
+01/15/2001  01:00 AM            21,221 tabl0212.jpg
+01/15/2001  01:00 AM            20,654 tabl0213.jpg
+01/15/2001  01:00 AM            20,816 tabl0214.jpg
+01/15/2001  01:00 AM            20,844 tabl0215.jpg
+01/15/2001  01:00 AM            21,194 tabl0216.jpg
+01/15/2001  01:00 AM            21,492 tabl0217.jpg
+01/15/2001  01:00 AM            21,427 tabl0218.jpg
+01/15/2001  01:00 AM            21,792 tabl0219.jpg
+01/15/2001  01:00 AM            21,809 tabl0220.jpg
+01/15/2001  01:00 AM            21,748 tabl0221.jpg
+01/15/2001  01:00 AM            21,923 tabl0222.jpg
+01/15/2001  01:00 AM            21,639 tabl0223.jpg
+01/15/2001  01:00 AM            21,686 tabl0224.jpg
+01/15/2001  01:00 AM            21,939 tabl0225.jpg
+01/15/2001  01:00 AM            21,872 tabl0226.jpg
+01/15/2001  01:00 AM            21,411 tabl0227.jpg
+01/15/2001  01:00 AM            20,891 tabl0228.jpg
+01/15/2001  01:00 AM            20,411 tabl0229.jpg
+01/15/2001  01:00 AM            19,897 tabl0230.jpg
+01/15/2001  01:00 AM            19,573 tabl0231.jpg
+01/15/2001  01:00 AM            19,441 tabl0232.jpg
+01/15/2001  01:00 AM            19,401 tabl0233.jpg
+01/15/2001  01:00 AM            19,761 tabl0234.jpg
+01/15/2001  01:00 AM            20,567 tabl0235.jpg
+01/15/2001  01:00 AM            21,184 tabl0236.jpg
+01/15/2001  01:00 AM            21,802 tabl0237.jpg
+01/15/2001  01:00 AM            22,718 tabl0238.jpg
+01/15/2001  01:00 AM            23,423 tabl0239.jpg
+01/15/2001  01:00 AM            24,032 tabl0240.jpg
+01/15/2001  01:00 AM            24,009 tabl0241.jpg
+01/15/2001  01:00 AM            23,593 tabl0242.jpg
+01/15/2001  01:00 AM             3,402 table.ifl
+01/15/2001  01:00 AM             3,402 table_track.ifl
+01/15/2001  01:00 AM            97,362 table_correct.mot
+             250 File(s)     11,539,887 bytes
+
+ Directory of T:\Tutorials\camera_shake
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  10:50 PM            54,272 collision1.max
+10/04/2004  10:51 PM            54,784 collision2.max
+10/04/2004  10:51 PM            56,320 collision_finished.max
+01/15/2001  01:00 AM           315,621 MOON.JPG
+               4 File(s)        480,997 bytes
+
+ Directory of T:\Tutorials\camera_match
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+01/15/2001  01:00 AM           589,312 CAMMAP.AVI
+01/15/2001  01:00 AM         7,348,224 JOYSTIK.AVI
+10/04/2004  10:50 PM            51,712 Match1.max
+10/04/2004  10:50 PM            53,248 Match2.max
+10/04/2004  10:50 PM            53,248 Match3.max
+10/04/2004  10:50 PM            52,224 Match4.max
+01/15/2001  01:00 AM           611,840 MATTE3E.AVI
+               7 File(s)      8,759,808 bytes
+
+ Directory of T:\Tutorials\camera_map
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+01/15/2001  01:00 AM           589,312 CAMMAP.AVI
+01/15/2001  01:00 AM         7,348,224 JOYSTIK.AVI
+10/04/2004  10:49 PM            53,760 Match6.max
+10/04/2004  10:50 PM            54,784 Match6b.max
+10/04/2004  10:50 PM            57,856 Match8.max
+10/04/2004  10:50 PM            58,368 Match9.max
+01/15/2001  01:00 AM           611,840 MATTE3E.AVI
+               7 File(s)      8,774,144 bytes
+
+ Directory of T:\Tutorials\character_animation
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  04:50 AM    <DIR>          advanced_physique
+10/05/2004  04:50 AM    <DIR>          biped_crowds
+10/05/2004  04:50 AM    <DIR>          character_rigging
+10/05/2004  04:50 AM    <DIR>          character_bones
+10/05/2004  04:50 AM    <DIR>          character_animation
+10/05/2004  04:50 AM    <DIR>          crowd_basics
+10/05/2004  04:50 AM    <DIR>          footstep_animation
+10/05/2004  04:50 AM    <DIR>          freeform_animation
+10/05/2004  04:50 AM    <DIR>          interacting_with_objects
+10/05/2004  04:50 AM    <DIR>          intro_to_rigging
+10/05/2004  04:50 AM    <DIR>          motion_mixer
+10/05/2004  04:50 AM    <DIR>          motion_flow
+10/05/2004  04:50 AM    <DIR>          motion_capture
+10/05/2004  04:50 AM    <DIR>          physique_basics
+10/05/2004  04:50 AM    <DIR>          quadruped
+10/05/2004  04:50 AM    <DIR>          quick_start
+10/05/2004  04:50 AM    <DIR>          skin_flex
+10/05/2004  04:50 AM    <DIR>          workbench
+               0 File(s)              0 bytes
+
+ Directory of T:\Tutorials\character_animation\advanced_physique
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  10:51 PM           373,760 adjust_vertex_complete.max
+10/04/2004  10:51 PM           452,608 adjust_vertex_start.max
+06/24/2001  09:05 PM             3,128 arm_left_CL.bmp
+06/24/2001  09:05 PM             3,128 arm_right_CL.bmp
+06/24/2001  10:05 PM           751,758 Bees.bip
+06/24/2001  10:05 PM             5,759 ear.jpg
+01/08/2003  12:28 AM           280,418 eyecolor.tif
+06/24/2001  10:05 PM            79,941 eyeglass.JPG
+09/04/2004  12:07 AM               722 eyeglass copy.jpg
+06/24/2001  10:05 PM             6,731 eyeglass_copy.jpg
+06/24/2001  10:05 PM             9,409 faceside.jpg
+06/24/2001  09:05 PM            49,208 face_CL.bmp
+06/24/2001  09:05 PM            49,208 foot_left_CL.bmp
+06/24/2001  09:05 PM            49,208 foot_right_CL.bmp
+10/04/2004  10:51 PM           199,680 girl_face.max
+06/24/2001  10:05 PM            51,785 glove.JPG
+06/24/2001  10:05 PM             5,540 glove2.jpg
+06/24/2001  10:05 PM             6,516 goggles.JPG
+06/24/2001  10:05 PM            57,718 Hair_blend.JPG
+06/24/2001  09:05 PM            12,344 hand_left_CL.bmp
+06/24/2001  09:05 PM            12,344 hand_right_CL.bmp
+06/24/2001  09:05 PM            49,208 hat_CL.bmp
+06/24/2001  10:05 PM             9,008 jacket.JPG
+10/04/2004  10:51 PM           448,512 JOE2.MAX
+06/24/2001  10:05 PM             7,144 pantleg.JPG
+06/24/2001  09:05 PM            49,208 pants_back_CL.bmp
+06/24/2001  09:05 PM            49,208 pants_front_CL.bmp
+10/04/2004  10:51 PM            94,208 quad_pose_complete.max
+10/04/2004  10:52 PM            81,920 quad_pose_start.max
+06/24/2001  09:05 PM            49,208 shirt_back_CL.bmp
+06/24/2001  09:05 PM            49,208 shirt_front_CL.bmp
+06/24/2001  10:05 PM             6,333 shoe.JPG
+09/03/2004  10:12 PM             1,062 Shortcut to eyecolor.tif.lnk
+06/24/2001  10:05 PM            11,454 sidehair.JPG
+06/24/2001  10:05 PM           133,004 tophair.JPG
+09/04/2004  12:07 AM             1,752 TRASHED EYE.jpg
+06/24/2001  10:05 PM            12,740 TRASHED_EYE.JPG
+10/04/2004  10:52 PM           554,496 Tut_DrX_Mesh.max
+10/04/2004  10:52 PM           372,224 Tut_DrX_05.max
+10/04/2004  10:52 PM         1,022,464 Tut_drx_beaker.max
+10/04/2004  10:52 PM           160,768 Tut_DrX_01.max
+10/04/2004  10:52 PM           173,568 Tut_DrX_02.max
+10/04/2004  10:52 PM           522,240 Tut_DrX_03.max
+10/04/2004  10:52 PM           373,248 Tut_DrX_04.max
+10/04/2004  10:53 PM           280,576 tut_tubby.max
+              45 File(s)      6,973,674 bytes
+
+ Directory of T:\Tutorials\character_animation\biped_crowds
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/24/2001  10:05 PM             5,770 biped_crowds.mfe
+06/24/2001  10:05 PM             5,770 biped_crowds_multiple.mfe
+06/24/2001  10:05 PM           353,054 loiter.bip
+06/24/2001  10:05 PM            21,142 rtswimforward.bip
+10/04/2004  10:53 PM            65,024 swimming.max
+10/04/2004  10:53 PM           449,024 tut_biped_crowds05.max
+10/04/2004  10:53 PM           449,024 tut_biped_crowds01.max
+10/04/2004  10:53 PM           449,024 tut_biped_crowds02.max
+10/04/2004  10:53 PM           449,024 tut_biped_crowds03.max
+10/04/2004  10:53 PM           449,024 tut_biped_crowds04.max
+10/04/2004  10:53 PM           179,712 tut_black_papa.max
+06/24/2001  10:05 PM           131,658 walk.bip
+10/04/2004  10:55 PM           325,120 walkers.max
+06/24/2001  10:05 PM           260,138 walk_180.bip
+06/24/2001  10:05 PM           232,106 walk_L45.bip
+06/24/2001  10:05 PM           232,106 walk_L90.bip
+06/24/2001  10:05 PM           232,106 walk_L135.bip
+06/24/2001  10:05 PM           211,082 walk_R45.bip
+06/24/2001  10:05 PM           211,082 walk_R90.bip
+06/24/2001  10:05 PM           211,082 walk_R135.bip
+06/24/2001  10:05 PM           274,154 walk_start.bip
+06/24/2001  10:05 PM           278,826 walk_stop.bip
+              22 File(s)      5,475,052 bytes
+
+ Directory of T:\Tutorials\character_animation\character_rigging
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:02 PM           138,240 char_rigging03.0.max
+10/04/2004  11:02 PM           136,704 char_rigging02.1.max
+10/04/2004  11:03 PM           147,968 char_rigging04.0.max
+10/04/2004  11:02 PM           141,312 char_rigging03.1.max
+10/04/2004  11:03 PM           147,968 char_rigging05.0.max
+10/04/2004  11:02 PM           135,680 char_rigging02.0.max
+10/04/2004  11:02 PM           138,240 char_rigging02.2.max
+10/04/2004  11:03 PM           148,992 char_rigging04.1.max
+10/04/2004  11:06 PM           150,528 char_rigging06.0.max
+10/04/2004  11:01 PM           130,560 char_rigging01.5.max
+10/04/2004  11:03 PM           144,896 char_rigging03.4.max
+10/04/2004  11:06 PM           152,064 char_rigging05.3.max
+10/04/2004  11:06 PM           154,624 char_rigging06.3.max
+10/04/2004  11:01 PM           130,560 char_rigging01.6.max
+10/04/2004  11:03 PM           147,968 char_rigging03.5.max
+10/04/2004  11:02 PM           140,288 char_rigging02.4.max
+10/04/2004  11:06 PM           154,624 char_rigging06.2.max
+10/04/2004  11:05 PM           158,720 char_rigging08.1.max
+10/04/2004  11:02 PM           143,872 char_rigging03.2.max
+10/04/2004  11:03 PM           151,040 char_rigging05.1.max
+10/04/2004  11:06 PM           157,184 char_rigging07.0.max
+10/04/2004  11:02 PM           138,240 char_rigging02.3.max
+10/04/2004  11:06 PM           153,600 char_rigging06.1.max
+10/04/2004  11:05 PM           158,208 char_rigging08.0.max
+10/04/2004  11:01 PM           129,024 char_rigging01.4.max
+10/04/2004  11:03 PM           144,896 char_rigging03.3.max
+10/04/2004  11:03 PM           152,064 char_rigging05.2.max
+10/04/2004  11:05 PM           158,208 char_rigging07.1.max
+10/04/2004  11:06 PM           156,160 char_rigging06.4.max
+10/04/2004  11:01 PM           135,680 char_rigging01.9.max
+10/04/2004  11:06 PM           157,184 char_rigging06.6.max
+10/04/2004  11:01 PM           131,584 char_rigging01.7.max
+10/04/2004  11:06 PM           156,672 char_rigging06.5.max
+10/04/2004  11:01 PM           136,192 char_rigging01.8.max
+10/04/2004  11:00 PM           128,000 char_rigging01.0.max
+10/04/2004  11:00 PM           127,488 char_rigging01.1.max
+10/04/2004  11:00 PM           128,000 char_rigging01.2.max
+10/04/2004  11:01 PM           129,024 char_rigging01.3.max
+10/04/2004  11:05 PM           176,640 char_rigging_advanced.max
+07/09/2003  07:08 PM               909 handDef.ms
+06/27/2003  07:58 AM             1,388 handDefFinal.ms
+11/17/2002  06:24 PM             9,409 PEN_Attribute_holder_2.ms
+10/04/2004  11:04 PM         1,063,936 tut_handrig_start.max
+10/04/2004  11:03 PM            60,416 tut_shoulder_rig05.max
+10/04/2004  11:04 PM         1,068,544 tut_handrig_10.max
+10/04/2004  11:05 PM         1,068,544 tut_handrig_06.max
+10/04/2004  11:04 PM         1,068,544 tut_handrig_09.max
+10/04/2004  11:04 PM         1,068,544 tut_handrig_07.max
+10/04/2004  11:04 PM         1,068,544 tut_handrig_08.max
+10/04/2004  11:05 PM         1,064,448 tut_handrig_02.max
+10/04/2004  11:05 PM         1,065,472 tut_handrig_03.max
+10/04/2004  11:05 PM         1,068,032 tut_handrig_04.max
+10/04/2004  11:05 PM         1,068,032 tut_handrig_05.max
+10/04/2004  11:04 PM            55,296 tut_shoulder_rig01.max
+10/04/2004  11:04 PM            57,856 tut_shoulder_rig02.max
+10/04/2004  11:03 PM            58,368 tut_shoulder_rig03.max
+10/04/2004  11:03 PM            59,392 tut_shoulder_rig04.max
+              57 File(s)     16,624,570 bytes
+
+ Directory of T:\Tutorials\character_animation\character_bones
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:00 PM           126,464 tut_char_bone_file04.max
+10/04/2004  11:00 PM           128,512 tut_char_bone_complete.max
+10/04/2004  11:00 PM           109,568 tut_char_bone_file01.max
+10/04/2004  11:00 PM           112,128 tut_char_bone_file02.max
+10/04/2004  11:00 PM           117,248 tut_char_bone_file03.max
+               5 File(s)        593,920 bytes
+
+ Directory of T:\Tutorials\character_animation\character_animation
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  10:55 PM           269,312 animated_bones.max
+03/30/1999  01:25 PM           174,080 beetletalk.avi
+10/04/2004  10:56 PM            63,488 beetlesound_notalk.max
+03/29/1999  10:58 PM         2,156,032 beetle_walk_fridge1.avi
+10/04/2004  10:56 PM            64,000 beetlesound_withtalk.max
+10/04/2004  10:55 PM            64,000 beetle_talk_nosound.max
+10/04/2004  10:55 PM           121,856 beetle_walk.max
+06/29/1997  09:28 AM           167,280 BroccoliA.jpg
+07/02/1997  12:01 PM           127,824 BugSKIN.TGA
+07/02/1997  02:32 PM           443,136 BugSKINB2.TGA
+07/02/1997  02:31 PM           443,136 BugSKINBl.TGA
+07/02/1997  12:02 PM           127,824 BugSkinBW.TGA
+07/08/1997  09:42 AM           127,824 BugSKINLite.TGA
+07/11/2002  01:15 PM         3,859,518 bugsnfrij.mov
+07/16/1997  08:21 PM         5,747,772 ByeBye.avi
+06/30/1996  10:48 PM            21,130 CanTop.jpg
+07/09/1998  11:54 PM           114,190 Coke-tex.jpg
+01/23/1999  09:47 AM         7,694,336 Commander_Lake.avi
+10/04/2004  10:56 PM         1,329,152 Commander_Lake_Tut_1.max
+01/16/1999  05:26 AM         1,457,298 Commander_Lake_new 100.wav
+10/04/2004  10:56 PM         1,451,008 Commander_Lake_Tut_2.max
+06/29/1996  09:27 PM             2,709 ContlKnob.jpg
+10/04/2004  10:56 PM           107,520 dynamic_walk.max
+07/02/1997  01:58 PM           502,104 EyeTex.tga
+06/29/1996  09:25 PM            14,539 FridgeControls.jpg
+10/04/2004  10:57 PM           472,064 fridge2002.max
+06/29/1996  11:32 PM             6,760 FridgeDisp.jpg
+07/03/1997  07:18 AM            24,537 FridgeDoorTex.jpg
+07/16/1998  10:38 PM           119,062 HeadTex.jpg
+10/20/1997  03:00 AM           132,245 LAKEDUSK.JPG
+07/10/1998  07:54 PM           119,349 Milk.jpg
+07/03/1997  07:44 AM            43,079 Milk1.jpg
+06/29/1997  08:09 AM            73,731 MushroomA.jpg
+07/10/1998  09:34 PM            28,638 Must.jpg
+06/29/1997  09:38 AM            66,417 OrangeBmp.jpg
+06/29/1997  10:15 AM            25,650 OrangeTex2.jpg
+07/18/2002  10:59 PM            24,515 REFMAP.GIF
+10/04/2004  10:57 PM           348,160 skin_and_bones.max
+11/19/2001  07:41 PM           321,004 Snake Skin.tga
+06/29/1997  10:55 AM            28,145 StrawBry.jpg
+06/29/1997  11:15 AM             5,899 StrawBryBmp.jpg
+06/29/1997  11:48 AM             4,651 StrawBryTex.jpg
+06/29/1997  11:30 AM            16,201 StrawBryTop.jpg
+06/29/1997  08:55 AM            21,765 Tomat-Disp.jpg
+06/29/1997  08:53 AM           188,444 TomatoeSide.jpg
+06/29/1997  08:39 AM            62,195 TomatoeTopA.jpg
+10/04/2004  10:58 PM           138,752 tut_chefdance_start.max
+10/04/2004  10:57 PM           140,288 tut_chefdance_appended.max
+10/04/2004  10:58 PM           143,872 tut_chefdance_finished.max
+09/04/2003  05:34 PM           259,584 tut_chefdance.anm
+10/04/2004  10:57 PM           136,704 tut_charassm_appended.max
+10/04/2004  10:57 PM           136,192 tut_charassm_dance.max
+10/04/2004  10:57 PM           216,576 tut_charwalk_finished.max
+10/04/2004  10:57 PM           215,040 tut_charwalk_start.max
+10/04/2004  10:58 PM            57,856 tut_IK_FK_finish1.max
+10/04/2004  10:58 PM            59,904 tut_IK_FK_finish2.max
+10/04/2004  10:58 PM            60,416 tut_IK_FK_finish3.max
+10/04/2004  10:58 PM            57,856 tut_IK_FK_start.max
+10/04/2004  10:58 PM           168,960 tut_pose_start.max
+10/04/2004  10:58 PM           210,944 tut_skinalien_finished.max
+10/04/2004  10:58 PM           156,160 tut_skinalien_start.max
+10/04/2004  10:58 PM           146,432 tut_soccer_dance.max
+10/04/2004  10:58 PM           142,336 tut_soccer_rig.max
+10/04/2004  10:59 PM           145,408 walk_cycle_arms.max
+              64 File(s)     31,376,859 bytes
+
+ Directory of T:\Tutorials\character_animation\crowd_basics
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:19 PM            55,808 crowd_basics01.max
+10/04/2004  11:19 PM           117,760 crowd_basics02.max
+10/04/2004  11:19 PM            54,784 crowd_basics03.max
+10/04/2004  11:19 PM           215,040 crowd_basics04.max
+10/04/2004  11:19 PM           303,616 party.max
+06/24/2001  09:05 PM               102 test_dist.ms
+09/19/2002  07:25 PM           222,440 walk.bip
+09/19/2002  07:25 PM           350,877 walk_180.bip
+09/19/2002  07:26 PM           323,200 walk_L90.bip
+09/19/2002  07:26 PM           301,582 walk_R90.bip
+09/19/2002  07:26 PM           360,589 walk_start.bip
+09/19/2002  11:42 PM           372,852 walk_stop.bip
+              12 File(s)      2,678,650 bytes
+
+ Directory of T:\Tutorials\character_animation\footstep_animation
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+11/07/2002  08:09 PM           124,704 distinctive_walk_final.bip
+10/04/2004  11:20 PM            70,656 distinctive_walk.max
+10/04/2004  11:20 PM            74,240 flip_start.max
+10/06/2002  10:33 PM           167,350 footstep_jump_final.bip
+10/04/2004  11:20 PM            83,968 footsteps_jump_final.max
+10/04/2004  11:20 PM            84,480 footsteps_jump_middle.max
+10/04/2004  11:20 PM            82,944 footsteps_jump_start.max
+10/04/2004  11:20 PM            67,072 footstep_keys_start.max
+10/04/2002  08:57 PM           124,744 head_rotate_against.bip
+10/04/2002  08:55 PM           124,372 head_rotate_with.bip
+10/06/2002  09:41 PM           167,340 makejump_final.bip
+10/04/2002  09:49 PM           145,455 paste_footsteps_final.bip
+10/04/2004  11:20 PM            75,776 paste_footsteps_final.max
+10/04/2004  11:20 PM            71,680 paste_footsteps_start.max
+10/04/2004  11:20 PM            68,608 slip_continue.max
+10/04/2004  11:20 PM            72,192 slip_convert_final.max
+10/04/2004  11:21 PM            75,264 slip_convert_start.max
+10/04/2004  11:21 PM            72,192 slip_final.max
+10/04/2004  11:21 PM            68,608 slip_start.max
+10/08/2002  09:05 PM           132,036 slip_with_bounce.bip
+10/04/2004  11:21 PM            74,240 slip_with_bounce.max
+10/04/2004  11:21 PM            75,264 slip_with_box.max
+10/04/2004  11:20 PM            72,704 slip__with_controllers_final.max
+10/04/2004  11:21 PM            70,144 springystep.max
+10/04/2004  11:21 PM            69,120 standstill_final.max
+10/04/2004  11:21 PM            69,120 standstill_start.max
+10/04/2004  11:21 PM            58,368 walk_start.max
+              27 File(s)      2,442,641 bytes
+
+ Directory of T:\Tutorials\character_animation\freeform_animation
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:21 PM           674,304 createbones_final.max
+10/04/2004  11:21 PM           226,304 createbones_start.max
+10/25/2002  03:11 PM           100,327 cs4_tut_rtswim.bip
+06/24/2001  09:05 PM             6,357 cs4_tut_rtgame.fig
+10/04/2004  11:22 PM            59,904 cs4_tut_rtswim.max
+10/06/2002  11:25 PM           122,486 flip2.bip
+10/06/2002  11:43 PM           123,339 flip3.bip
+10/07/2002  12:41 AM           127,137 flip4.bip
+10/07/2002  05:12 PM           129,113 flip5.bip
+10/07/2002  05:23 PM           126,560 flip6.bip
+10/07/2002  06:21 PM           126,447 flip7.bip
+10/04/2004  11:22 PM            74,240 flip_start.max
+10/04/2004  11:22 PM            81,408 shake_and_walk_collapsed.max
+10/04/2004  11:22 PM            69,632 shake_and_walk_finished.max
+10/04/2004  11:22 PM            69,120 shake_and_walk_start.max
+10/04/2004  11:22 PM            84,480 stretchyleg_final.max
+10/04/2004  11:22 PM            83,456 stretchyleg_start.max
+              17 File(s)      2,284,614 bytes
+
+ Directory of T:\Tutorials\character_animation\interacting_with_objects
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:22 PM            64,000 balancefactor_final.max
+10/04/2004  11:22 PM            63,488 balancefactor_start.max
+10/04/2004  11:22 PM            83,968 basketball_bounce_final.max
+10/04/2004  11:23 PM            81,920 basketball_bounce_start.max
+01/15/2001  10:20 PM           427,715 CEDFENCE.JPG
+10/04/2004  11:23 PM            84,480 climb_ladder_final.max
+10/04/2004  11:23 PM            82,432 climb_ladder_start.max
+01/15/2001  10:20 PM           464,323 GRYCON3.JPG
+10/04/2004  11:23 PM            79,872 Inplace_start.max
+10/04/2004  11:23 PM           208,384 ironing_complete.max
+10/04/2004  11:23 PM           208,384 ironing_handpose.max
+10/04/2004  11:23 PM           207,360 ironing_start.max
+10/04/2004  11:23 PM           473,088 ladder_swing.max
+10/04/2004  11:23 PM           474,112 ladder_swing_final.max
+10/04/2004  11:24 PM            66,048 lookat_table_tennis_final.max
+10/04/2004  11:24 PM            61,440 lookat_table_tennis_start.max
+01/15/2001  10:20 PM            37,926 OLDMETAL.JPG
+10/04/2004  11:24 PM            97,280 pickup_briefcase_end.max
+10/04/2004  11:24 PM            97,280 pickup_briefcase_start.max
+07/19/2002  05:59 AM            33,187 pooltop.jpg
+10/04/2004  11:24 PM            86,528 pushbox_final.max
+10/04/2004  11:24 PM            86,528 pushbox_start.max
+10/04/2004  11:24 PM            68,608 samurai_final.max
+10/04/2004  11:24 PM            67,584 samurai_start.max
+10/04/2004  11:24 PM           238,080 saw_wood_final.max
+10/04/2004  11:24 PM           237,056 saw_wood_start.max
+10/04/2004  11:24 PM           205,824 skating_complete.max
+10/04/2004  11:24 PM           204,800 skating_start.max
+10/13/2002  06:52 PM           110,592 switch_hands_start.bip
+10/13/2002  07:01 PM           106,496 swordplay.bip
+              30 File(s)      4,808,783 bytes
+
+ Directory of T:\Tutorials\character_animation\intro_to_rigging
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+11/19/2001  07:41 PM           321,004 Snake Skin.tga
+10/04/2004  11:25 PM            79,872 tut_introrig_spinebend.max
+10/04/2004  11:25 PM            79,360 tut_introrig_wired.max
+10/04/2004  11:25 PM            76,288 tut_introrig_ik.max
+10/04/2004  11:25 PM            71,168 tut_introrig_start.max
+10/04/2004  11:25 PM            75,776 tut_introrig_swivel.max
+10/04/2004  11:25 PM            77,824 tut_introrig_shapes.max
+10/04/2004  11:25 PM            83,968 tut_introrig_skin.max
+10/04/2004  11:25 PM            87,040 tut_introrig_sample.max
+10/04/2004  11:25 PM            79,360 tut_introrig_toewiring.max
+10/04/2004  11:25 PM            51,712 tut_introrig_controlshape.max
+07/18/2003  07:27 PM           394,240 tut_introrig_sample.avi
+10/04/2004  11:24 PM            74,240 tut_introrig_bones.max
+10/04/2004  11:24 PM            84,480 tut_introrig_complete.max
+10/04/2004  11:25 PM            79,872 tut_introrig_controllers.max
+10/04/2004  11:25 PM            77,824 tut_introrig_controls.max
+10/04/2004  11:25 PM            55,808 tut_mirror_ik_finished.max
+10/04/2004  11:26 PM            56,832 tut_mirror_ik_start.max
+10/04/2004  11:26 PM           131,072 tut_splineikpath_finished.max
+10/04/2004  11:26 PM           129,024 tut_splineikpath_start.max
+10/04/2004  11:26 PM           130,560 tut_splineik_finished.max
+10/04/2004  11:26 PM           126,976 tut_splineik_start.max
+              22 File(s)      2,424,300 bytes
+
+ Directory of T:\Tutorials\character_animation\motion_mixer
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/22/2002  05:16 PM           297,570 Banana.bip
+10/25/2002  12:38 AM            85,707 DnArmDnBow.bip
+10/25/2002  12:38 AM            86,337 DnArmUpBow.bip
+10/29/2002  12:41 AM         3,010,402 dynamic_3.bip
+10/25/2002  03:02 AM         1,335,296 fiddler_playing.avi
+10/04/2004  11:27 PM            71,680 fiddler_complete.max
+10/09/2002  01:36 PM           621,464 FiddleShort.wav
+10/04/2004  11:27 PM            70,656 fiddler_legs.max
+10/04/2004  11:27 PM            71,168 fiddler_start.max
+10/28/2002  05:01 PM           621,107 frantic.bip
+10/25/2002  12:36 AM            99,100 HeadShake.bip
+10/04/2004  11:27 PM            66,048 locomotion_balance.max
+10/29/2002  02:23 AM               902 locomotion.mix
+10/04/2004  11:28 PM            58,368 locomotion_mixdown.max
+10/29/2002  12:10 AM           735,420 scared.bip
+10/28/2002  04:09 PM           544,680 sneak.bip
+10/25/2002  12:24 AM            87,101 SpineBendLeft.bip
+10/25/2002  12:30 AM            86,319 SpineBendRight.bip
+10/25/2002  12:32 AM            84,516 SpineSitUp.bip
+10/04/2004  11:28 PM            59,904 time_warps_complete.max
+10/04/2004  11:28 PM            59,904 time_warps_start.max
+10/24/2002  09:38 PM           106,869 ToeTap.bip
+10/25/2002  12:39 AM            86,606 UpArmDnBow.bip
+10/25/2002  12:39 AM            86,823 UpArmUpBow.bip
+10/04/2004  11:28 PM            71,168 weight_curves_complete.max
+10/04/2004  11:28 PM            71,168 weight_curves_start.max
+              26 File(s)      8,576,283 bytes
+
+ Directory of T:\Tutorials\character_animation\motion_flow
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/11/2000  10:28 AM           280,982 AxeKick.bip
+10/11/2000  10:28 AM           236,514 BackKick.bip
+10/04/2004  11:26 PM            58,880 cs4_tut_MoFlow01.max
+10/04/2004  11:26 PM            98,816 cs4_tut_MoFlow02.max
+10/04/2004  11:27 PM           115,712 cs4_tut_MoFlow03.max
+06/24/2001  09:05 PM            50,134 HATSOFF.BIP
+06/24/2001  09:05 PM           117,458 LAUGH.BIP
+06/24/2001  09:05 PM           124,682 SHOCKED.BIP
+06/24/2001  09:05 PM            30,902 SkateLoop.bip
+06/24/2001  09:05 PM            74,302 SkateSpin.bip
+06/24/2001  09:05 PM            45,702 SkateStart.bip
+06/24/2001  09:05 PM           147,050 Skateup.bip
+06/24/2001  09:05 PM            49,018 SNEEZE.BIP
+06/24/2001  09:05 PM           146,430 Walk2Loop.bip
+06/24/2001  09:05 PM            56,750 WAVE.BIP
+              15 File(s)      1,633,332 bytes
+
+ Directory of T:\Tutorials\character_animation\motion_capture
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/24/2001  10:05 PM         1,127,616 fashion1.csm
+06/24/2001  10:05 PM            32,896 JEZ.SPRINT.CSM
+07/21/2000  10:26 PM           149,475 Prop01.csm
+07/21/2000  10:24 PM           193,594 Prop02.csm
+07/21/2000  10:31 PM           224,202 Prop03.csm
+               5 File(s)      1,727,783 bytes
+
+ Directory of T:\Tutorials\character_animation\physique_basics
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:29 PM           107,520 align_wilson_start.max
+10/04/2004  11:29 PM           123,392 align_wilson_arms.max
+10/04/2004  11:29 PM           120,320 align_wilson_complete.max
+10/04/2004  11:29 PM           123,392 align_wilson_fingers.max
+10/04/2004  11:29 PM           122,880 align_wilson_legs.max
+10/04/2004  11:29 PM           196,096 envelopes_wilson_complete.max
+10/04/2004  11:29 PM           195,072 envelopes_wilson_start.max
+10/04/2004  11:29 PM           198,656 hips_wilson_complete.max
+10/04/2004  11:29 PM           196,608 hips_wilson_start.max
+10/04/2004  11:29 PM           195,072 physique_wilson_complete.max
+10/04/2004  11:29 PM           120,320 physique_wilson_start.max
+              11 File(s)      1,699,328 bytes
+
+ Directory of T:\Tutorials\character_animation\quadruped
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:30 PM           137,216 cs4_tut_quad_WallyStart.max
+10/04/2004  11:29 PM            59,904 cs4_tut_quad01.max
+10/04/2004  11:29 PM            60,928 cs4_tut_quad02.max
+10/04/2004  11:29 PM            61,440 cs4_tut_quad03.max
+10/04/2004  11:30 PM            72,192 cs4_tut_quad_finished.max
+10/04/2004  11:30 PM           332,800 cs4_tut_quad_WallyFinal.max
+10/25/2002  03:26 PM         3,242,496 WallyShow320.avi
+               7 File(s)      3,966,976 bytes
+
+ Directory of T:\Tutorials\character_animation\quick_start
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:30 PM           159,744 cs4_qs_DrX01.max
+10/04/2004  11:30 PM           170,496 cs4_qs_DrX02.max
+10/04/2004  11:30 PM           330,240 cs4_qs_DrX03.max
+10/04/2004  11:30 PM           330,240 cs4_qs_DrX04.max
+10/07/2002  06:58 PM           553,472 DrXKneeBends.avi
+10/08/2002  04:51 PM           745,472 DrXWalk.avi
+10/08/2002  04:48 PM           127,664 DrXWalk.bip
+06/24/2001  09:05 PM             5,759 ear.jpg
+06/24/2001  09:05 PM            79,941 eyeglass.JPG
+09/04/2004  12:07 AM               722 eyeglass copy.jpg
+06/24/2001  09:05 PM             6,731 eyeglass_copy.jpg
+06/24/2001  09:05 PM             9,409 faceside.jpg
+06/24/2001  09:05 PM            51,785 glove.JPG
+06/24/2001  09:05 PM             5,540 glove2.jpg
+06/24/2001  09:05 PM             6,516 goggles.JPG
+06/24/2001  09:05 PM            57,718 Hair_blend.JPG
+06/24/2001  09:05 PM             9,008 jacket.JPG
+10/10/2002  01:07 AM             9,986 KneeBends.bip
+06/24/2001  09:05 PM             7,144 pantleg.JPG
+06/24/2001  09:05 PM             6,333 shoe.JPG
+06/24/2001  09:05 PM            11,454 sidehair.JPG
+06/24/2001  09:05 PM           133,004 tophair.JPG
+09/04/2004  12:07 AM             1,752 TRASHED EYE.jpg
+06/24/2001  09:05 PM            12,740 TRASHED_EYE.JPG
+              24 File(s)      2,832,870 bytes
+
+ Directory of T:\Tutorials\character_animation\skin_flex
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+07/18/2002  10:59 PM           300,044 2Leg.tga
+07/18/2002  10:59 PM           240,044 2Leg_Arm.TGA
+01/15/2001  04:20 PM           480,044 2Leg_Eye.TGA
+07/18/2002  10:59 PM            59,741 2Leg_Finger.tga
+07/18/2002  10:59 PM           146,577 2Leg_Foot.tga
+07/18/2002  10:59 PM           750,044 2Leg_Head.TGA
+07/18/2002  10:59 PM           270,044 2Leg_Neck.TGA
+07/18/2002  10:59 PM            60,191 2Leg_Thumb.tga
+07/18/2002  10:59 PM           744,422 2Leg_Torso.tga
+07/18/2002  10:59 PM         1,080,044 2Leg_Waist.TGA
+07/02/1997  01:58 PM           502,104 EyeTex.tga
+10/04/2004  11:31 PM            69,632 tut_beetle_flex.max
+10/04/2004  11:31 PM            64,000 tut_beetle_noflex.max
+10/04/2004  11:31 PM           193,024 tut_skinalien_envadjust.max
+10/04/2004  11:31 PM           198,656 tut_skinalien_finished.max
+10/04/2004  11:31 PM           156,160 tut_skinalien_start.max
+10/04/2004  11:31 PM           524,288 tut_skinarm_start.max
+              17 File(s)      5,839,059 bytes
+
+ Directory of T:\Tutorials\character_animation\workbench
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:31 PM           231,424 fix_nightclub_final01.max
+10/04/2004  11:32 PM           232,448 fix_nightclub_start01.max
+10/04/2004  11:32 PM            64,512 super_final.max
+10/04/2004  11:32 PM            64,000 super_start.max
+10/04/2004  11:32 PM            75,776 workbench_filters_final.max
+10/04/2004  11:32 PM            81,408 workbench_filters_start.max
+               6 File(s)        749,568 bytes
+
+ Directory of T:\Tutorials\designviz
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/04/2001  11:22 PM               886 Bega.8176MH.IES
+12/12/2001  06:38 PM             7,950 BOOKS1.JPG
+10/04/2004  11:32 PM            74,752 bookshelf.max
+02/20/2004  04:06 AM         2,028,753 canopy.dwg
+09/05/2003  04:58 PM         6,115,310 canopy_r14.dwg
+10/04/2004  11:32 PM           220,160 chairs.max
+10/04/2004  11:32 PM           217,600 chairsgroup.max
+10/04/2004  11:32 PM           218,112 chairs_assigned.max
+10/04/2004  11:32 PM            74,240 chairx.max
+12/12/2001  11:38 AM               569 cooper.ies
+07/13/2003  07:54 AM             2,708 fn-makeBillboard.ms
+10/19/1997  05:00 PM             2,745 GLASBLKB.GIF
+12/12/2001  11:37 AM           260,474 GRASS2.JPG
+04/21/1997  11:41 PM            11,173 GS.1.siding-vertical.wide.jpg
+11/02/2001  03:04 PM            27,083 Image38.jpg
+10/04/2004  11:33 PM         1,688,064 kitchen.max
+10/04/2004  11:33 PM         1,691,648 kitchen_with_brick.max
+10/04/2004  11:33 PM         1,694,208 kitchen_with_tile_floor.max
+10/04/2004  11:33 PM         1,689,600 kitchen_with_wood.max
+08/05/2003  01:54 PM         2,906,624 library.drf
+10/04/2004  11:34 PM           728,576 library_grass.max
+10/04/2004  11:34 PM           101,376 lum_spotlight.max
+01/30/1998  05:59 AM           262,034 MAN.CAPT.PALM.JPG
+04/21/1997  11:41 PM            39,777 masonry.1.concrete.holes.jpg
+08/15/2003  10:00 AM           778,476 Normals.DWG
+08/13/2003  02:20 PM           133,518 oak.tif
+08/13/2003  02:21 PM            92,734 oak2.tif
+10/04/2004  11:34 PM           145,920 pendant3.max
+04/21/1997  11:42 PM            16,365 stone.1.granite.Verde Ubatuba.jpg
+07/21/1997  04:08 PM            14,370 stone.2.limestone.Jura Beige Vaine.jpg
+07/13/2003  08:15 AM               761 Template-Dialog.ms
+08/07/2003  07:50 AM            93,469 TS_CAD_1.dwg
+08/07/2003  09:24 AM            90,242 TS_CAD_2.dwg
+08/14/2003  11:16 AM            99,741 TS_CAD_1_r14.dwg
+08/14/2003  11:17 AM           101,558 TS_CAD_2_ r14.dwg
+02/20/2004  05:37 PM            66,675 TS_CAD_File_Link.dwg
+10/04/2004  11:35 PM           735,744 tut_billboard_facing.max
+08/13/2003  06:51 PM         2,862,013 tut_billboards.mov
+08/13/2003  05:53 PM             4,755 tut_billboard_01.ms
+10/04/2004  11:35 PM           735,744 tut_billboard_shadows.max
+08/13/2003  05:54 PM             4,349 tut_billboard_02.ms
+10/04/2004  11:35 PM           735,232 tut_billboard_start.max
+12/12/2001  11:37 AM             6,495 WOOD02.JPG
+07/22/1997  01:08 AM             9,175 Wood.2.mahogany quartered.jpg
+01/16/2003  07:27 PM             4,850 woodfloor2.jpg
+10/04/2004  11:36 PM           114,176 WW_CAD_Drawing5.max
+10/04/2004  11:36 PM           107,008 WW_CAD_Drawings.max
+08/06/2003  10:57 AM         1,061,953 WW_CAD_Drawings1_r14.dwg
+02/16/2004  06:31 AM           464,423 WW_CAD_Drawings2_Clean.dwg
+08/06/2003  10:57 AM           810,657 WW_CAD_Drawings1_Clean.dwg
+08/06/2003  03:51 PM           813,464 WW_CAD_Drawings2 Clean.dwg
+10/04/2004  11:36 PM            96,768 WW_CAD_File_Link.max
+02/20/2004  03:04 AM           489,984 WW_CAD_Drawing2Link.dwg
+10/04/2004  11:36 PM           105,472 WW_CAD_Drawing.max
+08/06/2003  10:57 AM           810,657 WW_CAD_Drawings1 Clean.dwg
+10/04/2004  11:35 PM           111,104 WW_CAD_Drawing2.max
+08/06/2003  10:57 AM         1,061,953 WW_CAD_Drawings1 r14.dwg
+10/04/2004  11:35 PM           109,568 WW_CAD_Drawing3.max
+08/06/2003  10:56 AM           811,177 WW_CAD_Drawings1.dwg
+10/04/2004  11:35 PM           112,640 WW_CAD_Drawing4.max
+              60 File(s)     33,877,612 bytes
+
+ Directory of T:\Tutorials\edit_poly
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:36 PM            54,784 Spaceship05.max
+10/04/2004  11:36 PM            55,808 Spaceship06.max
+10/04/2004  11:36 PM            51,712 Spaceship01.max
+10/04/2004  11:36 PM            53,248 Spaceship02.max
+10/04/2004  11:36 PM            54,272 Spaceship03.max
+10/04/2004  11:36 PM            54,272 Spaceship04.max
+10/04/2004  11:36 PM            57,344 Spaceship_final.max
+               7 File(s)        381,440 bytes
+
+ Directory of T:\Tutorials\full_house
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+02/26/2000  01:39 PM            26,076 2buddahs.jpg
+01/11/2000  10:25 PM            42,544 appearenceofthevirgin.jpg
+05/27/1998  12:22 PM             7,950 BOOKS1.JPG
+12/16/2000  05:44 PM            81,100 daydear[1].jpg
+01/24/2003  01:07 PM               213 exterior with rad.prf
+04/21/1997  03:41 PM            42,317 fabric.1.wicker.jpg
+04/21/1997  03:41 PM           311,340 fabric.1.Persian.b.tga
+01/18/2003  03:23 PM            18,450 finish.3.panelling.horizontal.jpg
+07/21/1997  06:10 PM            28,839 finish.3.stucco.troweled.jpg
+12/20/2002  12:35 PM            19,013 Flooring.Wood.Hardwood.1.jpg
+02/10/2003  11:53 PM         1,341,952 flyaround.avi
+10/04/2004  11:43 PM        24,677,888 full_house_walkin_start_render.max
+10/04/2004  11:39 PM         1,904,128 full_house_start_walkin.max
+10/04/2004  11:39 PM         1,905,664 full_house_start_walkin_path.max
+10/04/2004  11:40 PM         1,904,128 full_house_walkin_path.max
+10/04/2004  11:38 PM         1,917,952 full_house_start_switch_camera.max
+10/04/2004  11:37 PM         1,913,344 full_house_end_camera_flyaround.max
+10/04/2004  11:37 PM         1,889,792 full_house_end_walkin.max
+10/04/2004  11:38 PM         1,912,832 full_house_start_camera_animation.max
+10/04/2004  11:38 PM         1,913,344 full_house_start_camera_flyaround.max
+02/06/2003  04:24 PM           120,669 house.dwg
+02/02/2003  11:16 PM             1,840 interior.night.1200.adaptive.regather.prf
+01/11/2000  10:27 PM            46,338 inthegarden.jpg
+04/21/1997  04:41 PM            22,345 ls.1.soil.jpg
+01/29/1998  10:59 PM           224,917 MAN.SORA.ARSE.JPG
+04/21/1997  04:41 PM            39,777 masonry.1.concrete.holes.jpg
+12/20/2002  12:35 PM             3,296 Ornamental.Chrome.Satin.jpg
+01/28/2003  06:20 PM               803 point_recessed_medium_75W.ies
+02/03/2003  12:28 PM               453 Readme.txt
+11/14/2019  03:54 PM            31,339 romera.jpg
+02/06/2003  04:27 PM           921,656 SE_Petaluma.bmp
+12/20/2002  12:36 PM            16,449 Shingles & Roofing Tiles.Asphault.Shingles.1.bump.jpg
+02/27/2003  01:04 PM         7,229,952 tut_living_room06.drf
+02/09/2003  06:47 PM           410,708 tut_materials_rug1.tif
+02/24/2003  12:46 PM             3,870 walkend.ifl
+02/24/2003  12:48 PM         4,962,304 walkin.avi
+04/21/1997  04:42 PM            12,150 wood.1.Lacewood.jpg
+04/21/1997  04:42 PM            15,589 wood.1.Larelian Burl.jpg
+07/21/1997  06:08 PM             6,508 wood.2.Madrone Burl.jpg
+07/21/1997  06:08 PM             6,308 wood.2.Maple.Curly.jpg
+07/21/1997  06:08 PM             9,467 wood.2.Purpleheart.jpg
+              41 File(s)     55,945,604 bytes
+
+ Directory of T:\Tutorials\high_rise
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:44 PM         1,865,728 cityscape.max
+02/11/2003  06:48 PM           192,792 GRYCON3.JPG
+02/07/2003  01:16 PM         1,758,720 shadow_study.avi
+07/21/1997  09:08 AM             9,175 WOOD.2.MAHOGANY QUARTERED.JPG
+               4 File(s)      3,826,415 bytes
+
+ Directory of T:\Tutorials\hourglass
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+07/18/2002  11:00 PM           189,060 BURLOAK.JPG
+07/18/2002  10:59 PM           150,761 Lakerem2.jpg
+10/04/2004  11:45 PM            60,928 sands_of_time_finished.max
+06/17/2003  09:21 AM           768,512 sands_of_time.avi
+10/04/2004  11:44 PM            52,736 sands_of_time1.max
+06/17/2003  09:17 AM         2,865,645 sands_of_time.mov
+10/04/2004  11:44 PM            55,808 sands_of_time2.max
+10/04/2004  11:45 PM            58,880 sands_of_time3.max
+10/04/2004  11:45 PM            60,416 sands_of_time4.max
+               9 File(s)      4,262,746 bytes
+
+ Directory of T:\Tutorials\intro_to_animation
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:45 PM         2,005,504 Battleship.max
+10/04/2004  11:46 PM            40,448 bounce_reverse.max
+10/04/2004  11:46 PM            59,904 bounce_text.max
+10/04/2004  11:48 PM            54,784 bounce_start.max
+10/04/2004  11:45 PM            40,448 bounce_back.max
+10/04/2004  11:45 PM            59,392 bounce_dummy.max
+10/04/2004  11:45 PM            40,448 bounce_multiplied.max
+10/04/2004  11:46 PM            52,224 bounce_repeat.max
+01/15/2001  04:20 PM            46,325 BUBING_2.GIF
+06/13/2002  03:51 PM            31,278 Chessboard_wood.jpg
+01/15/2001  01:00 AM            71,976 deimos.jpg
+10/04/2004  11:46 PM           137,728 FlyingSpaceFighter06.max
+10/04/2004  11:46 PM           138,240 FlyingSpaceFighter07.max
+10/04/2004  11:46 PM           136,704 FlyingSpaceFighter05.max
+10/04/2004  11:46 PM            83,456 FlyingSpaceFighter.max
+10/04/2004  11:46 PM            84,480 FlyingSpaceFighter02.max
+10/04/2004  11:46 PM           135,680 FlyingSpaceFighter03.max
+10/04/2004  11:46 PM           135,680 FlyingSpaceFighter04.max
+01/15/2001  08:20 AM           574,589 fx3_Panels_5.jpg
+01/15/2001  08:20 AM           125,551 fx3_Panels_Bump1.jpg
+01/15/2001  01:00 AM           149,687 mars.jpg
+10/04/2004  11:47 PM            57,856 marsandsun.max
+01/15/2001  04:20 PM           995,372 Oak1.tga
+01/15/2001  01:00 AM           138,689 phobos.jpg
+10/04/2004  11:47 PM            55,808 pingpong_layered_animation.max
+10/04/2004  11:47 PM            55,808 pingpong_volley.max
+01/15/2001  01:00 AM            39,716 PolyShipPaint_LowRes.jpg
+12/08/1998  12:01 PM            33,187 pooltop.jpg
+10/04/2004  11:47 PM           803,840 Quickest_checkmate.max
+01/15/2001  08:20 AM           851,855 SALMNSKN.TGA
+01/15/2001  01:00 AM           532,955 ShivaBattleShipPlate.JPG
+01/15/2001  01:00 AM           218,731 ShivaBattleShipPlateBump.JPG
+01/15/2001  01:00 AM           431,580 ShivaBattleShipPlatewindow.JPG
+01/15/2001  01:00 AM            81,266 ShivaBattleShipPlatewindows_ILM.JPG
+01/15/2001  08:20 AM            73,512 SPACEPLT.GIF
+10/04/2004  11:47 PM            83,968 SpaceStation.max
+10/04/2004  11:47 PM           689,152 tut_morph_finished.max
+10/04/2004  11:47 PM           387,072 tut_morph_start.max
+10/04/2004  11:47 PM           845,312 wood_chess_set.max
+10/04/2004  11:48 PM           105,472 write_on_growline.max
+10/04/2004  11:48 PM           103,936 write_on_start.max
+10/04/2004  11:48 PM           104,960 write_on_yes.max
+10/04/2004  11:48 PM           107,008 write_on_yes_anim_complete.max
+              43 File(s)     11,001,581 bytes
+
+ Directory of T:\Tutorials\intro_to_rendering
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+01/07/2003  06:28 PM            31,717 AppleTex.jpg
+07/10/2003  07:32 AM            42,245 AppleTexGrn.jpg
+04/27/2003  03:14 AM             7,828 black.png
+08/26/2003  12:44 PM         1,817,154 cec22km.wav
+05/01/2003  06:52 PM         1,228,844 credits.tga
+10/20/1997  10:00 AM            43,920 DAISY.TIF
+04/26/2003  11:41 PM           921,644 frame0_sepia.tga
+04/26/2003  11:42 PM           921,644 frame720_sepia.tga
+04/26/2003  01:44 AM           175,077 gradient.png
+10/04/2004  11:57 PM            92,160 rendering_still_images_start.max
+05/01/2003  06:53 PM         1,228,844 title.tga
+10/04/2004  11:58 PM            54,272 tut_basic_VP_scene.max
+04/26/2003  01:08 AM           568,051 tut_main_VP_anim.mov
+10/04/2004  11:58 PM            60,928 tut_video_post_final.max
+05/02/2003  01:12 PM           953,710 tut_video_post_final.mov
+08/06/2003  12:15 PM             5,120 tut_video_post_final.vpx
+              16 File(s)      8,153,158 bytes
+
+ Directory of T:\Tutorials\intro_to_modeling
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/29/1997  08:55 AM             3,254 AppleDis.jpg
+06/29/1997  08:49 AM            31,717 AppleTex.jpg
+10/04/2004  11:52 PM            55,808 asteroid1.max
+10/04/2004  11:52 PM           144,896 bishop_base.max
+10/04/2004  11:52 PM           161,280 bishop_final.max
+07/21/2004  01:10 AM           202,990 bloblabel.tif
+07/18/2002  11:00 PM            46,325 BUBING_2.GIF
+01/15/2001  01:00 AM            71,976 deimos.jpg
+06/12/2002  09:15 AM           412,424 ill_tut_knight_ref.bmp
+10/04/2004  11:52 PM            78,336 LogoAnimated.max
+10/04/2004  11:52 PM            55,808 LogoBeveled.max
+10/04/2004  11:53 PM            78,336 LogoComplete.max
+10/04/2004  11:53 PM            78,336 LogoSeparated.max
+10/04/2004  11:53 PM            55,296 LogoShape.max
+06/12/2003  06:34 PM         1,949,054 logo_shiny.mov
+01/15/2001  01:00 AM           149,687 mars.jpg
+10/04/2004  11:53 PM            53,760 mars_texturemapped.max
+01/15/2001  01:00 AM           315,621 MOON.JPG
+10/04/2004  11:53 PM            68,096 moon.max
+07/18/2002  11:00 PM           995,372 Oak1.tga
+10/04/2004  11:53 PM            51,200 pawn_final.max
+10/04/2004  11:53 PM            51,712 pawn_outline_completed.max
+10/04/2004  11:53 PM            51,200 pawn_outline_edited.max
+01/15/2001  01:00 AM           138,689 phobos.jpg
+10/04/2004  11:53 PM            52,224 rook_base.max
+10/04/2004  11:54 PM            92,160 rook_final.max
+05/30/2001  02:13 PM           343,400 starfighterfront.bmp
+05/30/2001  02:59 PM           343,400 starfighterleft.bmp
+05/29/2001  12:34 PM           343,400 starfightertop.bmp
+07/17/2003  06:56 PM            55,262 strawbump.jpg
+07/17/2003  06:40 PM            63,137 strawtex.jpg
+10/04/2004  11:56 PM            56,320 telephone_receiver_3D.max
+10/04/2004  11:56 PM            56,320 telephone_receiver.max
+10/04/2004  11:54 PM            56,832 telephone_3D.max
+10/04/2004  11:54 PM            77,824 telephone_3D_finished.max
+10/04/2004  11:56 PM            55,296 telephone_base.max
+10/04/2004  11:56 PM            56,832 telephone_base_3D.max
+05/30/2002  04:07 PM            41,165 timegrey.jpg
+10/04/2004  11:57 PM            51,712 tut_knight_matched.max
+10/04/2004  11:57 PM           112,128 tut_knight_start.max
+10/04/2004  11:56 PM            75,264 tut_apple_complete.max
+10/04/2004  11:56 PM            53,248 tut_apple_start.max
+10/04/2004  11:56 PM           126,464 tut_blobmesh_finish.max
+10/04/2004  11:57 PM           126,464 tut_blobmesh_start.max
+10/04/2004  11:57 PM            68,096 tut_copter_body_final.max
+10/04/2004  11:57 PM            65,536 tut_copter_body_start.max
+10/04/2004  11:57 PM           449,536 tut_knight.max
+10/04/2004  11:57 PM            71,168 tut_knight_base.max
+10/04/2004  11:57 PM            55,296 tut_knight_connected.max
+10/04/2004  11:57 PM           107,008 tut_knight_finished.max
+10/04/2004  11:56 PM            55,808 tut_paw_final.max
+10/04/2004  11:56 PM            54,272 tut_paw_rough.max
+10/04/2004  11:56 PM            55,808 tut_paw_smooth.max
+10/04/2004  11:56 PM            51,712 tut_paw_start.max
+08/20/2003  08:35 AM         7,383,467 tut_whippedcream.mov
+              55 File(s)     15,957,732 bytes
+
+ Directory of T:\Tutorials\intro_to_materials
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/29/1997  08:55 AM             3,254 AppleDis.jpg
+06/29/1997  08:49 AM            31,717 AppleTex.jpg
+01/15/2001  01:00 AM            57,499 ASHSEN_2.GIF
+10/04/2004  11:51 PM            87,552 bottlematerials.max
+07/18/2002  11:00 PM            46,325 BUBING_2.GIF
+07/18/2002  10:59 PM           250,224 CARPTTAN.JPG
+01/15/2001  01:00 AM           225,902 CONCGREN.JPG
+01/15/2001  01:00 AM           152,104 DFLEAF7.JPG
+01/15/2001  01:00 AM             7,661 DFLEAF7O.GIF
+01/15/2001  01:00 AM            18,268 EyeBump.tif
+01/15/2001  01:00 AM           280,418 EyeColor.tif
+01/15/2001  01:00 AM            35,909 gluggo.jpg
+01/15/2001  01:00 AM            10,085 gulpco.jpg
+10/31/2000  12:10 AM         1,440,044 helmet_reflectionm.tga
+10/04/2004  11:51 PM            75,776 intro_materials.max
+10/04/2004  11:50 PM            83,968 intro_materials2.max
+10/04/2004  11:51 PM            83,968 intro_materials3.max
+10/04/2004  11:51 PM            87,552 intro_materials4.max
+10/30/2000  11:28 PM         2,359,340 max_racinglogo.tga
+01/15/2001  01:00 AM           315,621 MOON.JPG
+10/04/2004  11:51 PM            68,096 moon.max
+01/15/2001  08:20 AM           995,372 Oak1.tga
+01/15/2001  01:00 AM           197,610 OAKQRTRT.TGA
+01/15/2001  01:00 AM            25,924 OrangeTex.jpg
+01/15/2001  01:00 AM            24,658 PAT0039.TGA
+10/04/2004  11:52 PM            55,296 polyfighterunwrap.max
+01/15/2001  01:00 AM            39,716 PolyShipPaint_LowRes.jpg
+10/04/2004  11:52 PM           148,480 skin_material_assign.max
+10/04/2004  11:52 PM           147,968 skin_material_finished.max
+10/04/2004  11:52 PM           113,152 skin_material_start.max
+01/15/2001  01:00 AM            21,777 skin_tile.jpg
+01/07/2003  06:28 PM            81,920 stillife.mat
+10/04/2004  11:52 PM           450,048 tut_knight.max
+01/15/2001  08:20 AM           995,372 WALNUT3.TGA
+              34 File(s)      9,018,576 bytes
+
+ Directory of T:\Tutorials\intro_to_design_visualization
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/04/2004  11:48 PM            53,760 add_door.max
+10/04/2004  11:48 PM            55,808 add_door_materials.max
+12/12/2001  10:38 AM           655,680 entranceway.DWG
+10/04/2004  11:48 PM            62,464 entranceway.max
+10/04/2004  11:49 PM            56,832 revolving_door.max
+10/04/2004  11:49 PM            53,248 revolving_door_enclosure.max
+10/04/2004  11:49 PM            69,120 revolving_door_final.max
+10/04/2004  11:49 PM            52,224 revolving_door_hub.max
+10/04/2004  11:49 PM            56,832 start_door_clone.max
+10/04/2004  11:49 PM            56,832 start_door_link.max
+              10 File(s)      1,172,800 bytes
+
+ Directory of T:\Tutorials\land
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/12/2001  10:38 AM           680,997 3hills.dwg
+10/04/2004  11:59 PM           570,368 add_arcade1.max
+10/04/2004  11:59 PM           561,152 add_arches.max
+10/04/2004  11:59 PM           558,080 add_buildings.max
+10/04/2004  11:59 PM           611,840 add_daylight1.max
+10/04/2004  11:59 PM           608,256 add_flyaround.max
+10/04/2004  11:59 PM           562,176 add_prow.max
+10/05/2004  12:00 AM           559,104 add_roof.max
+10/05/2004  12:00 AM           561,152 add_spire.max
+10/05/2004  12:00 AM           410,112 add_terrain_materials.max
+12/12/2001  10:38 AM           168,774 civic_center_bump.bmp
+12/12/2001  10:38 AM           696,056 ill_tut_land_arcade_texture2.bmp
+12/12/2001  10:38 AM           696,056 ill_tut_land_arcade_texture3.bmp
+10/05/2004  12:00 AM           234,496 make_terrain.max
+12/12/2001  10:38 AM         2,690,126 mcc_aerial_w_contours.bmp
+12/12/2001  10:38 AM           906,456 painted_aerial.bmp
+              16 File(s)     11,075,201 bytes
+
+ Directory of T:\Tutorials\lens_flares
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+11/30/1998  11:27 AM            71,976 deimos.jpg
+11/30/1998  01:24 PM           149,687 mars.jpg
+11/30/1998  11:26 AM           138,689 phobos.jpg
+10/05/2004  12:00 AM            54,272 tut_marsandsun.max
+               4 File(s)        414,624 bytes
+
+ Directory of T:\Tutorials\level_design
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+01/15/2001  01:00 AM            10,896 AtlanticAve.jpg
+01/15/2001  01:00 AM           279,296 BARK5.jpg
+01/15/2001  01:00 AM            16,385 BFrontOrange.jpg
+01/15/2001  01:00 AM            17,649 BFrontApart.jpg
+01/15/2001  01:00 AM            16,664 BFrontGarage.jpg
+06/15/2002  08:51 PM             4,976 BFrontGarageMask.jpg
+01/15/2001  01:00 AM            15,768 BFrontGeneric.jpg
+01/15/2001  01:00 AM            10,493 BlackYellowStripes.jpg
+01/07/2003  06:28 PM           786,488 body.bmp
+01/15/2001  01:00 AM            14,908 BSFFront.jpg
+01/15/2001  01:00 AM            14,528 BSFSide.jpg
+01/15/2001  01:00 AM            18,067 BSideApart.jpg
+01/15/2001  01:00 AM            16,477 BSideGarage.jpg
+01/15/2001  01:00 AM            16,366 BSideGeneric.jpg
+01/15/2001  01:00 AM            17,636 BSideOrange.jpg
+10/05/2004  12:01 AM           110,080 City.max
+10/05/2004  12:01 AM           182,784 City_noforest.max
+10/05/2004  12:01 AM            65,536 City_tree1.max
+10/05/2004  12:01 AM           169,984 City_vertex_color.max
+10/05/2004  12:01 AM           180,736 City_vertex_paint.max
+10/05/2004  12:02 AM           181,760 City_vertex_paint_test.max
+10/05/2004  12:02 AM           183,296 City_withtrees.max
+01/15/2001  01:00 AM            30,773 Concrete.jpg
+01/15/2001  01:00 AM            32,848 ConcreteWdSide.jpg
+01/15/2001  01:00 AM            35,430 ConcreteWoodCrnr.jpg
+10/05/2004  12:02 AM            65,536 ForestObjects.max
+10/05/2004  12:02 AM            74,240 Garage.max
+01/15/2001  01:00 AM            48,381 GarageSign.jpg
+01/15/2001  01:00 AM           262,188 GarageSign.tga
+01/15/2001  01:00 AM           552,326 GRASS2.JPG
+01/07/2003  06:28 PM           786,488 head4.bmp
+01/15/2001  01:00 AM            24,306 Lamp.jpg
+01/07/2003  06:28 PM           786,488 legs.bmp
+11/20/2002  06:00 PM             1,773 Macro_ObjectPaint.mcr
+01/15/2001  01:00 AM           387,116 MetalGrate.tga
+10/05/2004  12:02 AM            58,880 mystreetlight.max
+01/15/2001  01:00 AM            17,922 OilDrum.jpg
+01/15/2001  01:00 AM            11,163 PacificDrv.jpg
+01/15/2001  01:00 AM            13,931 SandFloor.jpg
+01/15/2001  01:00 AM             8,342 ScallopAwning.jpg
+01/15/2001  01:00 AM             8,139 ScallopAwning2.jpg
+01/15/2001  01:00 AM            11,209 SeaweedWay.jpg
+01/15/2001  01:00 AM            55,390 Stones.jpg
+01/15/2001  01:00 AM            11,837 StonesSmall.jpg
+10/05/2004  12:02 AM            59,392 StreetLamp.max
+10/05/2004  12:02 AM            59,392 streetlight.max
+01/15/2001  01:00 AM             8,990 Tire copy.jpg
+10/05/2004  12:02 AM           115,712 Toonstreet.max
+01/15/2001  01:00 AM         1,228,844 tree.tga
+01/15/2001  01:00 AM            12,332 tree1.tga
+01/15/2001  01:00 AM            12,332 tree1_o.tga
+01/15/2001  01:00 AM            15,611 WoodPilons.jpg
+01/15/2001  01:00 AM            37,255 WoodPilons2.jpg
+              53 File(s)      7,165,339 bytes
+
+ Directory of T:\Tutorials\lights
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:02 AM            60,928 ceiling.pendant.max
+10/05/2004  12:03 AM            96,256 instanced_light_array.max
+10/05/2004  12:03 AM            71,168 interior_unfinished.max
+10/05/2004  12:03 AM            84,992 interior_with_lights.max
+10/05/2004  12:03 AM           678,912 interior_with_lights_and_radiosity.max
+10/05/2004  12:03 AM            97,280 light_array.max
+10/05/2004  12:03 AM           465,408 memorial.max
+10/05/2004  12:03 AM           467,456 memorial_finished.max
+10/05/2004  12:03 AM           220,160 pito_head_shot.max
+10/05/2004  12:03 AM           221,184 pito_head_shot_final.max
+10/05/2004  12:03 AM           719,872 shadows.max
+10/05/2004  12:03 AM           107,520 tut_luminaire_assembly_finish.max
+10/05/2004  12:03 AM           105,472 tut_luminaire_assembly_start.max
+              13 File(s)      3,396,608 bytes
+
+ Directory of T:\Tutorials\low_polygon_modeling
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:04 AM           192,000 tubby_final.max
+               1 File(s)        192,000 bytes
+
+ Directory of T:\Tutorials\materials_and_rendering
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/04/2002  09:46 AM           499,887 biplane_texture.jpg
+11/07/2000  05:07 PM           275,770 castlec1_0066.png
+10/05/2004  12:04 AM            67,584 clown_head.max
+10/05/2004  12:04 AM            60,928 octopus.max
+10/05/2004  12:04 AM           111,104 octopus01.max
+10/05/2004  12:04 AM           112,128 octopus_final.max
+10/05/2004  12:04 AM            97,280 octopus_morph.max
+10/05/2004  12:04 AM           210,432 octopus_morph_final.max
+10/05/2004  12:04 AM            81,408 ostrich.max
+10/05/2004  12:04 AM           107,520 ostrich_final.max
+10/05/2004  12:04 AM            51,712 tut_inknpaint_start.max
+10/05/2004  12:05 AM            68,096 tut_translucent_shader_finish.max
+10/05/2004  12:05 AM            67,584 tut_translucent_shader_start.max
+10/05/2004  12:05 AM           135,680 tut_unwrap_start.max
+              14 File(s)      1,947,113 bytes
+
+ Directory of T:\Tutorials\mech_design
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/12/2001  10:38 AM         3,170,304 Assy_Nar.avi
+10/05/2004  12:05 AM           393,728 Mech_01.max
+10/05/2004  12:05 AM           393,216 Mech_02.max
+10/05/2004  12:05 AM           392,192 Mech_03.max
+10/05/2004  12:05 AM           391,680 Mech_03b.max
+10/05/2004  12:05 AM           393,216 Mech_03c.max
+10/05/2004  12:05 AM           392,704 Mech_04.max
+12/12/2001  10:38 AM         4,117,504 Suspen3.avi
+10/05/2004  12:06 AM            70,656 VizGasFlow_start.max
+10/05/2004  12:05 AM            78,848 VizGasFlow_finished.max
+10/05/2004  12:05 AM            79,872 VizGasFlow_Blobs.max
+10/05/2004  12:05 AM            74,752 VizGasFlow_create_branching.max
+10/05/2004  12:05 AM            73,216 VizGasFlow_create_motion.max
+10/05/2004  12:05 AM            77,824 VizGasFlow_final_touches_start.max
+              14 File(s)     10,099,712 bytes
+
+ Directory of T:\Tutorials\mental_ray
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:06 AM            58,880 adaptive_sampling.max
+10/05/2004  12:07 AM            55,296 area_light_omni.max
+10/05/2004  12:07 AM            55,808 area_light_spot.max
+10/05/2004  12:07 AM            68,096 caustics_two_lights.max
+05/07/2000  07:47 PM             2,077 cracks.gif
+08/12/2003  01:29 PM           654,848 depth_of_field.avi
+10/05/2004  12:07 AM            64,512 depth_of_field.max
+12/29/1998  01:17 AM           716,426 Faux_Wall_Cream.jpg
+09/26/2000  03:13 AM           230,558 fence_tile.tga
+10/05/2004  12:07 AM           176,128 gargoyle.max
+10/05/2004  12:08 AM           177,152 gargoyle_environment.max
+09/18/2000  10:20 PM            54,814 glass_transparency.png
+03/26/1998  10:00 PM           401,402 GRYCON6.JPG
+09/15/2003  10:30 PM           810,347 hotel_and_church.tif
+10/20/1997  07:00 AM           132,245 Lakerem.jpg
+04/19/1998  04:17 AM           152,104 LeafGreen.jpg
+09/23/2000  05:22 PM             8,471 lines_ground_sign.png
+10/05/2004  12:08 AM           906,240 loft_and_spotlight.max
+10/05/2004  12:08 AM           906,240 loft_with_art.max
+10/05/2004  12:08 AM            64,512 martini.max
+03/26/1998  11:00 PM           476,159 MEADOW1.JPG
+03/26/1998  09:32 PM           593,523 MEDRUST3.JPG
+10/05/2004  12:08 AM            56,832 mirrors.max
+08/12/2003  01:42 AM           943,104 motion_blur.avi
+10/05/2004  12:08 AM            88,064 motion_blur.max
+01/06/1998  08:18 PM           610,070 oakply2.jpg
+10/20/1997  07:00 AM           197,610 OAKQRTRT.TGA
+12/29/1998  02:20 AM           674,887 Oatmeal_Light.jpg
+08/19/2004  10:56 PM         1,295,872 ocean_animated.avi
+10/05/2004  12:08 AM            63,488 ocean_animated.max
+10/05/2004  12:08 AM            61,440 ocean_start.max
+09/23/2000  08:22 PM             6,851 park_ground_sign.png
+11/18/1999  03:10 PM             3,884 Patern.jpg
+11/18/1999  03:12 PM            58,463 PeachTex.jpg
+08/18/2003  03:59 PM         1,142,272 reflective_caustics.avi
+10/05/2004  12:08 AM            68,608 refractive_caustics.max
+09/20/2000  02:31 AM           191,547 shop_back_dirtmap.png
+10/05/2004  12:09 AM         1,067,520 shop_daylight.max
+09/20/2000  02:34 AM           181,657 shop_front_dirtmap.png
+09/19/2000  12:32 AM           131,116 shop_ice_cream_text.tga
+09/20/2000  03:23 AM            73,786 shop_left_dirtmap.png
+09/20/2000  03:03 AM            65,445 shop_right_dirtmap.png
+09/20/2000  02:35 AM            28,530 shop_seethrough1.png
+09/20/2000  03:33 AM            16,119 shop_seethrough2.png
+10/20/1997  07:00 AM           388,777 STEELPLT.JPG
+09/23/2000  04:58 PM             9,793 stop_ground_sign.png
+10/05/2004  12:09 AM         1,106,944 streetlight.max
+10/05/2004  12:09 AM           110,592 swim_pool.max
+10/05/2004  12:09 AM           110,592 swim_pool_dgs.max
+10/05/2004  12:10 AM         1,673,728 throne_room.max
+11/18/1999  03:11 PM            58,874 Tiles.jpg
+11/18/1999  03:13 PM           731,466 Tiretred.tga
+10/05/2004  12:10 AM            56,832 trace_depth.max
+10/20/1997  10:00 AM           194,560 TRAVERTN.TGA
+11/18/1999  03:12 PM            43,960 TUTASH.JPG
+10/05/2004  12:10 AM            61,952 water_glass_final.max
+10/05/2004  12:10 AM            60,928 water_glass_start.max
+10/05/2004  12:10 AM            60,928 water_material_final.max
+10/05/2004  12:10 AM            56,832 water_material_start.max
+              59 File(s)     18,519,761 bytes
+
+ Directory of T:\Tutorials\normal_bump
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+08/22/2004  07:50 PM           153,048 Hi-res source pawn.png
+08/22/2004  07:48 PM           152,670 Lo-res pawn with normal bump map and TurboSmooth modifier.png
+10/05/2004  12:12 AM           183,808 PAWN_NormalBump_final.max
+10/05/2004  12:12 AM           183,808 PAWN_NormalBump_05.max
+08/18/2004  08:22 PM         2,259,865 Pawn_LowRESNormalsMap.tga
+10/05/2004  12:11 AM           176,640 PAWN_NormalBump_01.max
+10/05/2004  12:11 AM           178,176 PAWN_NormalBump_02.max
+10/05/2004  12:11 AM           184,832 PAWN_NormalBump_03.max
+10/05/2004  12:11 AM           183,296 PAWN_NormalBump_04.max
+               9 File(s)      3,656,143 bytes
+
+ Directory of T:\Tutorials\nurbs_modeling
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+02/21/1999  08:53 PM           210,995 Head_Front.png
+02/21/1999  08:53 PM           207,824 Head_Side.png
+10/05/2004  12:13 AM           115,200 tut_Goco_05.max
+10/05/2004  12:13 AM           115,200 tut_Goco_04.max
+10/05/2004  12:12 AM            66,048 tut_goco_00.max
+10/05/2004  12:12 AM            71,168 tut_Goco_01.max
+10/05/2004  12:12 AM            99,840 tut_Goco_02.max
+10/05/2004  12:13 AM           100,864 tut_Goco_03.max
+               8 File(s)        987,139 bytes
+
+ Directory of T:\Tutorials\p38_lightning
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:14 AM            83,968 low_poly_p38_05.max
+10/05/2004  12:14 AM            99,328 low_poly_p38_06.max
+10/05/2004  12:14 AM            83,456 low_poly_p38_04.max
+10/05/2004  12:13 AM            78,848 low_poly_p19.max
+10/05/2004  12:13 AM            94,720 low_poly_p38.max
+10/05/2004  12:13 AM            79,360 low_poly_p38_02.max
+10/05/2004  12:13 AM            82,944 low_poly_p38_03.max
+10/05/2004  12:14 AM            54,272 newprops.max
+07/18/2003  03:01 PM            46,942 p38frontview.jpg
+07/18/2003  02:57 PM            50,267 p38leftview.jpg
+07/18/2003  03:04 PM            82,248 p38topview.jpg
+10/05/2004  12:14 AM            76,288 p38_build_gondola.max
+10/05/2004  12:14 AM            58,368 p38_wing.max
+10/05/2004  12:14 AM            63,488 p38_wing_and_tail.max
+01/15/2001  08:20 AM            24,515 REFMAP.GIF
+              15 File(s)      1,059,012 bytes
+
+ Directory of T:\Tutorials\parameter_collector
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+04/23/1999  06:34 PM           367,146 DANGER.TIF
+02/14/2001  01:54 AM           596,564 realsky_p1.jpg
+10/05/2004  12:14 AM           102,912 RobotSpot01.max
+10/05/2004  12:14 AM           102,400 RobotSpot02.max
+10/05/2004  12:15 AM           102,912 RobotSpot_complete.max
+07/31/2004  11:27 PM            95,341 Til03.jpg
+05/24/1999  12:44 AM            34,631 TIL03-bmp.jpg
+05/24/1999  12:43 AM            47,670 Til03-ref.jpg
+               8 File(s)      1,449,576 bytes
+
+ Directory of T:\Tutorials\particle_effects
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/20/1997  12:00 AM            57,499 ASHSEN_2.GIF
+10/05/2004  12:15 AM            65,536 asteroid_impact_final.max
+10/05/2004  12:15 AM            61,440 asteroid_impact_part2.max
+10/05/2004  12:15 AM            64,000 asteroid_impact_part3.max
+10/05/2004  12:15 AM            56,320 asteroid_impact_start.max
+01/08/2003  01:28 AM            74,032 BENEDETI.JPG
+03/28/2003  02:21 PM           436,565 biplane_map.jpg
+10/05/2004  12:15 AM            75,264 boatsplash_final.max
+08/05/2004  07:47 PM        23,853,056 boat_splash.avi
+10/05/2004  12:15 AM            70,144 boat_splash_part2.max
+10/05/2004  12:15 AM            72,192 boat_splash_part3.max
+10/05/2004  12:15 AM            67,072 boat_splash_start.max
+10/05/2004  12:16 AM           113,152 car_particles_start.max
+10/05/2004  12:16 AM           143,872 car_particles_final.max
+04/08/2003  02:34 AM           567,199 car_particles.mov
+10/05/2004  12:16 AM           122,880 car_particles_part2.max
+10/05/2004  12:16 AM           130,560 car_particles_part3.max
+10/05/2004  12:16 AM           141,312 car_particles_part4.max
+12/07/2000  07:09 PM         2,143,744 cigarette_smoke.avi
+10/05/2004  12:16 AM           124,416 cigarette_smoke.max
+10/05/2004  12:16 AM           129,536 cigarette_smoke_completed.max
+10/05/2004  12:17 AM            78,336 Fountain_Complete.max
+10/05/2004  12:17 AM            76,800 Fountain05.max
+10/07/2003  08:18 PM           959,666 fountain.mov
+10/05/2004  12:16 AM            68,608 Fountain01.max
+10/05/2004  12:16 AM            69,632 Fountain02.max
+10/05/2004  12:16 AM            69,632 Fountain03.max
+10/05/2004  12:17 AM            74,240 Fountain04.max
+10/05/2004  12:17 AM           189,952 guided_missile_trails_start.max
+10/05/2004  12:17 AM           194,560 guided_missiles_render.max
+03/31/2003  10:20 PM         1,052,439 guided_missile.mov
+10/05/2004  12:17 AM           193,024 guided_missile_explosion_start.max
+10/05/2004  12:17 AM           185,856 guided_missile_start.max
+10/05/2004  12:17 AM           191,488 guided_missile_target_start.max
+12/07/2000  06:13 PM         7,302,656 gushing_water.avi
+10/05/2004  12:18 AM            79,360 gushing_water.max
+10/05/2004  12:18 AM            81,408 gushing_water_completed.max
+06/24/2001  02:05 PM           132,245 Lakerem.jpg
+11/30/2000  03:58 PM         1,761,792 sub_scene.avi
+10/05/2004  12:18 AM            75,264 sub_scene.max
+10/05/2004  12:18 AM            79,872 sub_scene_completed.max
+10/05/2004  12:18 AM            60,416 tut_teapot_explosion.max
+10/05/2004  12:18 AM            64,512 tut_teapot_explosion01.max
+10/05/2004  12:18 AM            66,048 tut_teapot_explosion02.max
+10/05/2004  12:18 AM            69,120 tut_teapot_explosion03.max
+              45 File(s)     41,746,717 bytes
+
+ Directory of T:\Tutorials\radiosity
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/12/2001  06:38 PM             7,950 BOOKS1.JPG
+10/05/2004  12:18 AM           425,472 civic_center.max
+10/05/2004  12:18 AM           425,472 civic_center_daylight.max
+12/12/2001  11:38 AM               569 cooper.ies
+10/05/2004  12:19 AM           247,808 desert_house_no_sun.max
+10/05/2004  12:19 AM         5,855,232 gallery_no_override.max
+04/21/1997  04:41 PM            11,173 GS.1.siding-vertical.wide.jpg
+12/12/2001  10:38 AM           696,056 ill_tut_land_arcade_texture3.bmp
+10/05/2004  12:19 AM            73,216 interior_unfinished_std_lights.max
+10/05/2004  12:19 AM         6,942,720 library_direct_render.max
+10/05/2004  12:20 AM           735,232 library_rendering_intro.max
+10/05/2004  12:23 AM         7,059,968 library_with_radiosity.max
+04/21/1997  04:41 PM            39,777 masonry.1.concrete.holes.jpg
+12/12/2001  10:38 AM           906,456 painted_aerial.bmp
+04/21/1997  04:42 PM            16,365 stone.1.granite.Verde Ubatuba.jpg
+12/12/2001  11:37 AM             6,495 WOOD02.JPG
+07/21/1997  06:08 PM             9,175 Wood.2.mahogany quartered.jpg
+01/16/2003  12:27 PM             4,850 woodfloor2.jpg
+              18 File(s)     23,463,986 bytes
+
+ Directory of T:\Tutorials\reaction_manager
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:23 AM            70,656 HAND_Reactions05.max
+10/05/2004  12:23 AM            67,072 HAND_Reactions01.max
+10/05/2004  12:23 AM            68,096 HAND_Reactions02.max
+10/05/2004  12:23 AM            70,144 HAND_Reactions03.max
+10/05/2004  12:23 AM            70,144 HAND_Reactions04.max
+               5 File(s)        346,112 bytes
+
+ Directory of T:\Tutorials\reactor
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  04:50 AM    <DIR>          deformable
+10/05/2004  04:50 AM    <DIR>          fracture
+10/05/2004  04:50 AM    <DIR>          introduction
+10/05/2004  04:50 AM    <DIR>          ragdoll
+               0 File(s)              0 bytes
+
+ Directory of T:\Tutorials\reactor\deformable
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:27 AM         4,426,240 deformable_tutorial_rope_end.max
+10/05/2004  12:27 AM         3,384,832 deformable_tutorial_rope_start.max
+10/05/2004  12:28 AM         4,377,600 deformable_tutorial_softbody_start.max
+10/05/2004  12:28 AM         9,495,040 deformable_tutorial_softbody_end.max
+10/05/2004  12:24 AM         1,502,208 deformable_tutorial_cloth_end.max
+10/05/2004  12:24 AM           175,104 deformable_tutorial_cloth_start.max
+10/05/2004  12:27 AM        11,184,640 deformable_tutorial_deforming_mesh_start.max
+10/05/2004  12:27 AM        14,169,600 deformable_tutorial_final.max
+10/05/2004  04:50 AM    <DIR>          textures
+               8 File(s)     48,715,264 bytes
+
+ Directory of T:\Tutorials\reactor\deformable\textures
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+08/11/2003  11:34 AM           427,715 CEDFENCE.JPG
+08/11/2003  11:34 AM            13,962 PAT0019.TGA
+               2 File(s)        441,677 bytes
+
+ Directory of T:\Tutorials\reactor\fracture
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:28 AM            58,880 fracture_1.max
+10/05/2004  12:28 AM            61,952 fracture_2.max
+10/05/2004  12:28 AM            62,464 fracture_3.max
+               3 File(s)        183,296 bytes
+
+ Directory of T:\Tutorials\reactor\introduction
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:28 AM            53,760 reactor_intro_1.max
+10/05/2004  12:29 AM           185,344 reactor_intro_10.max
+10/05/2004  12:29 AM           185,344 reactor_intro_11.max
+10/05/2004  12:29 AM         1,846,784 reactor_intro_12.max
+10/05/2004  12:30 AM         1,478,656 reactor_intro_final.max
+10/05/2004  12:29 AM            54,784 reactor_intro_3.max
+10/05/2004  12:29 AM            56,320 reactor_intro_7.max
+10/05/2004  12:29 AM            54,784 reactor_intro_4.max
+10/05/2004  12:29 AM           133,632 reactor_intro_8.max
+10/05/2004  12:29 AM            55,296 reactor_intro_5.max
+10/05/2004  12:29 AM           133,632 reactor_intro_9.max
+10/05/2004  12:29 AM            54,784 reactor_intro_2.max
+10/05/2004  12:29 AM            55,296 reactor_intro_6.max
+              13 File(s)      4,348,416 bytes
+
+ Directory of T:\Tutorials\reactor\ragdoll
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:30 AM           671,232 characterEnd.max
+10/05/2004  12:30 AM           129,536 character.max
+10/05/2004  12:30 AM           130,048 character01.max
+10/05/2004  12:30 AM           133,632 character02.max
+10/05/2004  12:30 AM           136,704 character03.max
+10/05/2004  04:50 AM    <DIR>          textures
+               5 File(s)      1,201,152 bytes
+
+ Directory of T:\Tutorials\reactor\ragdoll\textures
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+08/07/2003  07:51 PM            57,499 ASHSEN_2.GIF
+08/07/2003  07:51 PM             5,172 boot.bmp
+08/07/2003  07:51 PM             3,124 boot_back.bmp
+08/07/2003  07:51 PM             3,112 boot_fr.bmp
+08/07/2003  07:51 PM             5,172 boot_front_test.bmp
+08/07/2003  07:51 PM             1,780 boot_tip.bmp
+08/07/2003  07:51 PM             5,172 boot_test_side.bmp
+08/07/2003  07:51 PM             3,124 bottom_pants.bmp
+08/07/2003  07:51 PM           427,715 CEDFENCE.JPG
+08/07/2003  07:51 PM             5,172 front_top_pants.bmp
+08/07/2003  07:51 PM             1,096 hand_back.bmp
+08/07/2003  07:51 PM             2,000 hand_palm.bmp
+08/07/2003  07:51 PM             5,172 head_swat.bmp
+08/07/2003  07:51 PM             3,124 kneepad.bmp
+08/07/2003  07:51 PM             3,128 MASk.bmp
+08/07/2003  07:51 PM             3,124 Swat_goggles.bmp
+08/07/2003  07:51 PM             3,124 test_arm1.bmp
+08/07/2003  07:51 PM             4,996 vest_bk.bmp
+08/07/2003  07:51 PM             5,040 vest_fr.bmp
+              19 File(s)        547,846 bytes
+
+ Directory of T:\Tutorials\schematic_view
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:31 AM            86,016 tut_schematic_explore.max
+10/05/2004  12:31 AM            64,000 tut_schematic_view_animated.max
+10/05/2004  12:31 AM            62,464 tut_schematic_view_fix_anim.max
+10/05/2004  12:31 AM            64,000 tut_schematic_view_script_tools.max
+               4 File(s)        276,480 bytes
+
+ Directory of T:\Tutorials\scripting_fx
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+12/12/2001  06:38 PM             7,950 BOOKS1.JPG
+08/07/2003  01:45 PM               776 Camera_Manager_16a.bmp
+08/07/2003  02:17 PM               776 Camera_Manager_16i.bmp
+08/07/2003  01:43 PM             1,784 Camera_Manager_24a.bmp
+08/07/2003  02:17 PM             1,784 Camera_Manager_24i.bmp
+07/13/2003  02:54 PM             2,708 fn-makeBillboard.ms
+12/12/2001  06:37 PM           260,474 GRASS2.JPG
+02/11/2004  11:48 PM             1,377 HelpInVp.ms
+08/13/2003  09:20 PM           133,518 oak.tif
+08/13/2003  09:21 PM            92,734 oak2.tif
+09/05/2003  08:51 AM               898 Template-Utility.ms
+03/04/2004  05:41 PM               783 Template_Dialog.ms
+10/05/2004  12:31 AM           729,600 tut_billboard_facing.max
+08/14/2003  01:51 AM         2,862,013 tut_billboards.mov
+08/14/2003  12:53 AM             4,755 tut_billboard_01.ms
+10/05/2004  12:32 AM           729,600 tut_billboard_shadows.max
+08/14/2003  12:54 AM             4,349 tut_billboard_02.ms
+10/05/2004  12:32 AM           729,088 tut_billboard_start.max
+10/05/2004  12:32 AM            51,200 tut_camera_manager_start.max
+08/13/2003  08:55 AM             2,911 tut_camera_manager.ms
+08/13/2003  08:56 AM             2,997 tut_camera_manager_mod.ms
+08/13/2003  08:56 AM             3,209 tut_camera_manager_update.ms
+10/05/2004  12:32 AM            52,224 tut_unhide_plus.max
+08/22/2003  11:14 AM             3,989 UnhidePLUS-Dialog.ms
+07/25/2003  08:50 AM             3,064 UnhidePLUS-fn.ms
+08/22/2003  10:45 AM             4,036 UnhidePLUS-Utility.ms
+12/12/2001  06:37 PM             6,495 WOOD02.JPG
+              27 File(s)      5,695,092 bytes
+
+ Directory of T:\Tutorials\shockwave3d
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:32 AM           107,008 fan.max
+10/05/2004  12:33 AM           218,112 helga.max
+               2 File(s)        325,120 bytes
+
+ Directory of T:\Tutorials\space
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+10/05/2004  12:33 AM            53,760 asteroid1.max
+10/05/2004  12:33 AM            54,272 asteroid2.max
+10/05/2004  12:33 AM            53,760 collision1.max
+10/05/2004  12:33 AM            53,760 collision2.max
+10/05/2004  12:33 AM            54,784 collision3.max
+04/10/2002  08:02 AM           120,054 earthmap.bmp
+10/05/2004  12:34 AM            55,808 exploding_asteroid_with_particles.max
+10/05/2004  12:34 AM            56,320 exploding_asteroid_with_lights.max
+10/05/2004  12:34 AM            56,320 exploding_asteroid_with_motionblur.max
+11/13/2002  08:10 AM           794,112 exploding_asteroid_final.avi
+10/05/2004  12:33 AM            52,224 exploding_asteroid1.max
+10/05/2004  12:33 AM            58,880 exploding_asteroid_final.max
+10/05/2004  12:33 AM            54,784 exploding_asteroid_with_2planes.max
+10/05/2004  12:34 AM            57,856 exploding_asteroid_with_laserglow.max
+01/15/2001  01:00 AM         2,293,248 Explosion.avi
+01/15/2001  01:00 AM         2,350,592 Hercules.avi
+01/15/2001  01:00 AM         1,533,952 HerculesM.avi
+07/18/2002  11:00 PM           315,621 MOON.JPG
+10/05/2004  12:34 AM            67,584 moon.max
+01/15/2001  01:00 AM         3,780,096 MoonComp_tut2.avi
+10/05/2004  12:34 AM            52,736 rotating_asteroid.max
+01/15/2001  01:00 AM         2,799,303 Stars10.jpg
+10/05/2004  12:34 AM            68,096 startstars.max
+              23 File(s)     14,837,922 bytes
+
+ Directory of T:\Tutorials\sss_fast_skin
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+07/25/2004  07:06 PM            45,429 EYE_Bump.png
+07/25/2004  07:07 PM            90,604 EYE_Color.png
+07/25/2004  06:32 PM           316,612 Face_Bump.png
+07/25/2004  05:31 PM            11,648 Face_color.png
+07/25/2004  06:43 PM           350,101 Face_Spec.png
+10/05/2004  12:35 AM           380,928 Maki1_01.max
+10/05/2004  12:36 AM           381,952 Maki1_02.max
+10/05/2004  12:35 AM           385,024 Maki1_03.max
+10/05/2004  12:35 AM           385,536 Maki1_04.max
+10/05/2004  12:35 AM           386,048 Maki1_05.max
+10/05/2004  12:35 AM           385,536 Maki1_06.max
+              11 File(s)      3,119,418 bytes
+
+ Directory of T:\Tutorials\still_life
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+06/29/1997  08:55 AM             3,254 AppleDis.jpg
+06/29/1997  08:49 AM            31,717 AppleTex.jpg
+10/20/1997  02:00 AM            57,499 ASHSEN_2.GIF
+10/20/1997  02:00 AM           367,979 BEEBEES.JPG
+10/20/1997  03:00 AM           250,224 CARPTTAN.JPG
+10/20/1997  03:00 AM           264,307 CONCGRAY.JPG
+10/20/1997  02:00 AM           225,902 CONCGREN.JPG
+10/20/1997  03:00 AM           306,579 CONCTAN.JPG
+04/18/1998  09:17 PM           152,104 DFLEAF7.JPG
+04/18/1998  09:17 PM             7,661 DFLEAF7O.GIF
+04/13/1999  11:11 AM            35,909 gluggo.jpg
+03/16/1999  03:54 PM            10,085 gulpco.jpg
+10/20/1997  02:00 AM           197,610 OAKQRTRT.TGA
+06/29/1997  10:13 AM            25,924 OrangeTex.jpg
+10/20/1997  03:00 AM            24,658 PAT0039.TGA
+01/07/2003  06:28 PM            81,920 stillife.mat
+06/12/2002  05:47 PM         2,167,808 still_life_animated_flyin._big.avi
+10/05/2004  12:36 AM            79,360 Still_life_animated.max
+06/12/2002  06:30 PM         3,418,112 still_life_animated_loop_big.avi
+10/05/2004  12:36 AM            77,824 Still_life_start.max
+10/05/2004  12:36 AM            77,824 Still_life_with_orange.max
+              21 File(s)      7,864,260 bytes
+
+ Directory of T:\Tutorials\tutorial_scripts
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+07/13/2003  07:54 AM             2,708 fn-makeBillboard.ms
+07/09/2003  07:08 PM               909 handDef.ms
+06/27/2003  07:58 AM             1,388 handDefFinal.ms
+09/09/2004  05:28 PM             1,319 HelpInVp.ms
+09/01/2003  02:03 AM             1,754 Macro_ObjectPaint.mcr
+09/01/2003  02:03 AM            17,957 Macro_SchematicViewTools.mcr
+11/17/2002  06:24 PM             9,409 PEN_Attribute_holder_2.ms
+07/13/2003  08:15 AM               761 Template-Dialog.ms
+07/25/2003  05:42 PM               924 Template-Utility.ms
+08/13/2003  05:53 PM             4,755 tut_billboard_01.ms
+08/13/2003  05:54 PM             4,349 tut_billboard_02.ms
+08/13/2003  08:55 AM             2,911 tut_camera_manager.ms
+08/13/2003  08:56 AM             2,997 tut_camera_manager_mod.ms
+08/13/2003  08:56 AM             3,209 tut_camera_manager_update.ms
+08/22/2003  11:14 AM             3,989 UnhidePLUS-Dialog.ms
+07/25/2003  08:50 AM             3,064 UnhidePLUS-fn.ms
+08/22/2003  10:45 AM             4,036 UnhidePLUS-Utility.ms
+              17 File(s)         66,439 bytes
+
+ Directory of T:\Tutorials\vertex_color
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+03/03/2003  09:58 AM           207,880 BARREL_METAL_256.tif
+06/04/2002  09:46 AM           499,887 biplane_texture.jpg
+07/15/2002  07:00 PM               150 black.bmp
+03/02/2003  06:55 AM           210,652 BRICK_256.tif
+03/02/2003  12:05 PM           208,760 CONCRETE_FLOOR_256.tif
+02/01/2003  07:10 PM           795,624 CRATE_COMBO.TIF
+06/16/2002  01:28 PM           464,296 FuselageCompleteMap.tga
+10/01/2004  06:04 PM           305,195 FuselageMyCompleteMap.tga
+03/03/2003  06:47 AM           196,662 GARAGE_PILLAR_BUMP_FINAL.bmp
+03/02/2003  10:53 AM           262,683 GARAGE_LightingMap.tga
+03/03/2003  02:55 PM           786,450 GARAGE_PILLAR_DIFFUSE_FINAL.tga
+07/15/2002  07:00 PM               374 Gradient.bmp
+07/15/2002  07:00 PM               150 GreywC.bmp
+09/08/2002  07:00 PM             2,168 highlight.bmp
+07/15/2002  07:00 PM             2,166 OMW.bmp
+07/15/2002  07:00 PM               150 Orange.bmp
+03/03/2003  06:14 AM           206,592 PILLAR_METAL_256.tif
+03/02/2003  06:52 AM           206,024 ROOF_DARK_256.tif
+09/02/2002  07:00 PM               636 sign1.bmp
+09/02/2002  07:00 PM             1,148 sign2.bmp
+10/05/2004  12:38 AM           720,384 tut_vertexpaint_garage_start01.max
+10/05/2004  12:37 AM           788,480 tut_vertexpaint_garage_blur02.max
+10/05/2004  12:37 AM           775,680 tut_vertexpaint_garage_blur03.max
+10/05/2004  12:37 AM           785,920 tut_vertexpaint_garage_blur01.max
+10/05/2004  12:38 AM           177,152 tut_vertexpaint_garage_start.max
+10/05/2004  12:36 AM           180,224 tut_texturebake_finish.max
+10/05/2004  12:37 AM           135,680 tut_texturebake_start.max
+10/05/2004  12:37 AM           956,416 tut_vertexpaint_anim_start.max
+10/05/2004  12:37 AM         1,541,632 tut_vertexpaint_anim_start01.max
+10/05/2004  12:37 AM         1,055,744 tut_vertexpaint_anim_start02.max
+10/05/2004  12:37 AM           785,408 tut_vertexpaint_garage_blur.max
+              31 File(s)     12,260,367 bytes
+
+ Directory of T:\Tutorials\worldwide_designs
+
+10/05/2004  04:50 AM    <DIR>          .
+10/05/2004  04:50 AM    <DIR>          ..
+01/07/2003  06:28 PM           228,005 CHRMWARP.JPG
+01/07/2003  06:28 PM           183,356 DROPLETS.TGA
+04/10/2002  08:02 AM           120,054 earthmap.bmp
+01/07/2003  06:28 PM           216,131 GOLDFOIL.GIF
+06/24/2001  02:05 PM           150,761 Lakerem2.jpg
+12/11/1998  11:59 AM         4,135,636 Stars10.JPG
+10/05/2004  12:39 AM            69,120 tut_wwdesigns_globe_text_rotating.max
+10/05/2004  12:38 AM            51,712 tut_wwdesigns_globe_rotating.max
+10/05/2004  12:39 AM            71,168 tut_wwdesigns_globe_text_bground.max
+10/05/2004  12:39 AM            64,512 tut_wwdesigns_globe_fog.max
+10/05/2004  12:38 AM            51,712 tut_wwdesigns_globe.max
+10/05/2004  12:39 AM            73,216 tut_wwdesigns_globe_add_vol_fog.max
+10/05/2004  12:39 AM            55,296 tut_wwdesigns_globe_add_vol_lite.max
+10/05/2004  12:39 AM            58,880 tut_wwdesigns_globe_flare_start.max
+10/05/2004  12:39 AM            82,432 wwdesigns_finished.max
+              15 File(s)      5,611,991 bytes
+
+     Total Files Listed:
+            1478 File(s)    546,066,175 bytes
+             201 Dir(s)               0 bytes free

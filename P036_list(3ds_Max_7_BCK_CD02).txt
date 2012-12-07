@@ -1,0 +1,1638 @@
+ Volume in drive T is 3DSMAX7 PARTNERS
+ Volume Serial Number is B812-013F
+
+ Directory of T:\
+
+09/15/2004  09:42 PM               129 3dsmaxcd2.mid
+09/24/2004  09:31 PM                46 autorun.inf
+10/05/2004  08:09 PM    <DIR>          Bin
+10/05/2004  08:09 PM    <DIR>          Installs
+09/24/2004  06:50 PM            17,574 maxicon.ico
+08/24/2004  06:19 PM           126,976 partners.exe
+08/24/2004  06:19 PM               393 partners.ini
+10/05/2004  08:09 PM    <DIR>          Samples
+               5 File(s)        145,118 bytes
+
+ Directory of T:\Bin
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+08/03/2004  06:29 PM            10,256 AdskButton2-pressed.bmp
+08/03/2004  06:29 PM            10,256 AdskButton2-unpressed.bmp
+08/03/2004  06:29 PM            10,256 AdskButton1-on.bmp
+08/03/2004  06:29 PM            10,256 AdskButton1-pressed.bmp
+08/03/2004  06:29 PM            10,256 AdskButton1-unpressed.bmp
+08/03/2004  06:29 PM            10,256 AdskButton2-on.bmp
+08/03/2004  06:29 PM         1,440,056 Adsk_Back_Acad.BMP
+08/03/2004  06:29 PM           481,076 Adsk_Splash_Acad.bmp
+08/24/2004  06:19 PM           503,808 demo32.exe
+03/28/2004  03:12 AM           247,716 Dialog1.bmp
+03/28/2004  03:12 AM             6,776 Dialogbutton-on.bmp
+03/28/2004  03:12 AM             6,776 Dialogbutton-pressed.bmp
+03/28/2004  03:12 AM             6,776 Dialogbutton-unpressed.bmp
+10/05/2004  08:07 PM            18,424 Partners.dbd
+09/16/2004  08:58 PM             1,177 Partners.dsj
+06/17/2004  06:56 PM               129 Partners.INI
+              16 File(s)      2,774,250 bytes
+
+ Directory of T:\Installs
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          DCP
+10/05/2004  08:09 PM    <DIR>          Partners
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\DCP
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/17/2004  06:53 AM        11,726,062 ACT1.6_DEMO_MAX7ONLY.EXE
+07/17/2004  08:07 AM         6,992,598 AfterBurn31_DEMO_MAX7ONLY.EXE
+07/20/2004  09:22 PM        10,945,442 clothfx_DEMO_MAX7ONLY.EXE
+07/17/2004  08:37 AM         8,927,546 DreamScape21_DEMO_MAX7ONLY.EXE
+07/17/2004  06:52 AM        11,544,428 finalToon_DEMO_MAX7ONLY.EXE
+08/25/2004  12:43 AM         2,747,907 FlightStudio_DEMO_MAX7ONLY.EXE
+07/17/2004  07:44 AM        13,944,977 Kaldera_DEMO_MAX7ONLY.EXE
+08/07/2004  03:55 AM         5,569,384 PFTBox1_DEMO_MAX7ONLY.EXE
+07/17/2004  08:09 AM        29,659,309 rtre_MAX7ONLY_DEMO.EXE
+07/17/2004  08:00 AM        31,815,825 Stage1SP2b_DEMO_MAX7ONLY.EXE
+              10 File(s)    133,873,478 bytes
+
+ Directory of T:\Installs\Partners
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          EASYnatv2.5
+09/15/2004  10:03 PM        14,449,874 okino_plugins_superinstaller_demo.exe
+09/15/2004  10:01 PM        67,869,211 okino_nugraf_and_polytrans_full_demo.exe
+09/15/2004  10:03 PM         5,088,252 pt4max_openflight.exe
+10/05/2004  08:09 PM    <DIR>          rpc
+               3 File(s)     87,407,337 bytes
+
+ Directory of T:\Installs\Partners\EASYnatv2.5
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+08/11/2004  08:36 PM         1,582,792 data1.cab
+08/11/2004  08:36 PM            61,853 data1.hdr
+08/11/2004  08:36 PM         5,232,069 data2.cab
+08/11/2003  11:00 PM         1,930,727 EASYnatMAX.pdf
+07/26/2002  12:07 AM           346,602 ikernel.ex_
+08/11/2004  08:36 PM               435 layout.bin
+08/05/2004  11:47 PM            15,167 license.txt
+08/05/2004  11:47 PM             7,466 Readme.txt
+04/22/2004  08:22 PM           493,016 Setup.bmp
+09/05/2001  12:23 PM            56,320 Setup.exe
+08/11/2004  08:36 PM               139 Setup.ini
+08/11/2004  08:36 PM           148,535 Setup.inx
+              12 File(s)      9,875,121 bytes
+
+ Directory of T:\Installs\Partners\rpc
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/03/2004  12:42 AM         1,738,125 data1.cab
+09/03/2004  12:42 AM            11,929 data1.hdr
+09/03/2004  12:42 AM        45,146,312 data2.cab
+07/25/2002  10:07 PM           346,602 ikernel.ex_
+09/03/2004  12:42 AM               434 layout.bin
+09/03/2004  12:20 AM           240,056 setup.bmp
+01/08/2000  01:40 PM            46,080 Setup.exe
+09/03/2004  12:42 AM               147 Setup.ini
+09/03/2004  12:42 AM           129,948 setup.inx
+               9 File(s)     47,659,633 bytes
+
+ Directory of T:\Samples
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Biped
+10/05/2004  08:09 PM    <DIR>          Crowd
+10/05/2004  08:09 PM    <DIR>          LandXML
+10/05/2004  08:09 PM    <DIR>          Scenes
+10/05/2004  08:09 PM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Biped
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          CustomScripts
+10/05/2004  08:09 PM    <DIR>          Docs
+10/05/2004  08:09 PM    <DIR>          Motions
+10/05/2004  08:09 PM    <DIR>          Scenes
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+01/09/2003  07:19 PM                84 readme.txt
+10/05/2004  08:09 PM    <DIR>          Scripts
+10/05/2004  08:09 PM    <DIR>          stdplugs
+               1 File(s)             84 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts\Scripts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Startup
+10/05/2004  08:09 PM    <DIR>          Utilities
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts\Scripts\Startup
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+06/24/2001  09:05 PM            10,406 CS3convertBips.ms
+07/12/2000  08:16 AM             1,414 CS3CustomKeys-presets.ini
+10/03/2000  02:17 AM            30,662 CS3Customkeys.ms
+               3 File(s)         42,482 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts\Scripts\Utilities
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+06/14/1998  11:25 PM             2,256 csmxport.ms
+03/22/1999  03:29 AM            14,581 Readcsm.ms
+               2 File(s)         16,837 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts\stdplugs
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          stdscripts
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Biped\CustomScripts\stdplugs\stdscripts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/12/2000  09:50 AM               118 CS3CustomKeysPresetFloater.ms
+               1 File(s)            118 bytes
+
+ Directory of T:\Samples\Biped\Docs
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+04/28/1998  12:01 PM               105 About.txt
+06/17/1999  04:54 PM            34,346 BVH.rtf
+10/04/2004  11:58 PM            63,488 Csm.max
+06/17/1999  04:45 PM            52,680 CSM.rtf
+02/09/1998  07:26 AM            58,895 CSM1.jpg
+02/09/1998  07:25 AM            56,516 CSM2.jpg
+06/14/1998  11:25 PM             2,256 csmxport.ms
+03/22/1999  03:29 AM            14,581 Readcsm.ms
+05/05/1998  05:11 PM             6,670 STP.rtf
+               9 File(s)        289,537 bytes
+
+ Directory of T:\Samples\Biped\Motions
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+01/07/2003  08:16 PM        33,245,611 Bip.zip
+01/09/2003  02:19 PM         7,383,069 BVH.zip
+01/09/2003  02:20 PM        13,570,029 CSM.zip
+               3 File(s)     54,198,709 bytes
+
+ Directory of T:\Samples\Biped\Scenes
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Biped
+10/04/2004  10:48 PM           214,016 biped_reactor.max
+10/05/2004  08:09 PM    <DIR>          Mixer
+10/05/2004  08:09 PM    <DIR>          MoFlow
+10/05/2004  08:09 PM    <DIR>          Physique
+               1 File(s)        214,016 bytes
+
+ Directory of T:\Samples\Biped\Scenes\Biped
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  10:45 PM            79,360 handwalk.max
+10/04/2004  10:45 PM            74,240 Juggle with Props.max
+               2 File(s)        153,600 bytes
+
+ Directory of T:\Samples\Biped\Scenes\Mixer
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  10:46 PM            50,176 BalanceBigMix.max
+09/16/2003  12:01 AM           836,311 celphone.bip
+09/16/2003  12:01 AM         3,016,385 dynamic_3.bip
+09/16/2003  12:01 AM           621,456 frantic.bip
+09/16/2003  12:01 AM           955,125 highwire.bip
+09/16/2003  12:01 AM           893,085 loiter_point.bip
+09/16/2003  12:01 AM           744,133 loiter_scratch1.bip
+09/16/2003  12:01 AM           544,153 loiter_twist.bip
+09/16/2003  12:01 AM         1,022,934 loiter_watch.bip
+10/04/2004  10:46 PM            52,736 MixBalancePropagation.max
+10/04/2004  10:47 PM           227,328 MixdownConstraints.max
+10/04/2004  10:47 PM         1,185,792 MixDynamicBalance.max
+10/04/2004  10:47 PM            46,080 MixOpt+Focus.max
+09/16/2003  12:01 AM         1,510,063 modern_2.bip
+09/16/2003  12:01 AM           614,447 sneak.bip
+10/04/2004  10:48 PM            50,176 Trans+Layer.max
+09/16/2003  12:02 AM           442,649 walk_to_jog_Lfoot.bip
+09/16/2003  12:02 AM           320,301 wild05.bip
+09/16/2003  12:02 AM           935,981 w_L90_Rfoot.bip
+              19 File(s)     14,069,311 bytes
+
+ Directory of T:\Samples\Biped\Scenes\MoFlow
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  10:50 PM           117,760 1FLOBEES.max
+10/13/2000  07:22 PM             1,835 1FLOBEES.mfe
+10/04/2004  10:51 PM           140,800 5FLOSKAT.max
+10/13/2000  07:25 PM             1,040 5floskat.mfe
+10/13/2000  02:46 PM               801 About.txt
+09/15/2003  10:38 PM           838,160 Bees.bip
+09/15/2003  10:38 PM           332,308 DragByDog.bip
+09/15/2003  10:38 PM           214,550 jog.bip
+09/15/2003  10:38 PM           288,911 JogLoop.bip
+09/15/2003  10:38 PM           350,759 jog_L135.bip
+09/15/2003  10:38 PM           336,199 jog_L180.bip
+09/15/2003  10:38 PM           326,090 jog_L45.bip
+09/15/2003  10:38 PM           377,442 jog_R180.bip
+09/15/2003  10:38 PM           320,892 jog_R90.bip
+09/15/2003  10:38 PM           358,425 jog_start.bip
+09/15/2003  10:38 PM           228,260 jog_stop_lfoot.bip
+09/15/2003  10:39 PM         1,215,831 loiter_11.bip
+09/15/2003  10:39 PM           446,751 SkateSpin.bip
+09/15/2003  10:39 PM           295,305 SkateStart.bip
+09/15/2003  10:39 PM           969,072 Skateup.bip
+09/15/2003  10:39 PM           528,739 Tantrum.bip
+09/15/2003  10:39 PM           140,584 test.bip
+10/04/2004  10:51 PM            78,336 TheJogger.max
+10/12/2000  05:27 PM            10,199 TheJogger.mfe
+09/15/2003  10:39 PM           219,733 walk.bip
+10/04/2004  10:51 PM            86,016 WalkerJogger.max
+10/13/2000  07:56 PM            14,496 WalkerJogger.mfe
+09/15/2003  10:39 PM           349,712 walk_180.bip
+09/15/2003  10:39 PM           322,135 walk_L90.bip
+09/15/2003  10:39 PM           299,887 walk_R90.bip
+09/15/2003  10:39 PM           360,683 walk_start.bip
+09/15/2003  10:39 PM           370,012 walk_stop.bip
+              32 File(s)      9,941,723 bytes
+
+ Directory of T:\Samples\Biped\Scenes\Physique
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+05/05/1998  09:26 PM            18,147 24wmlips.JPG
+05/05/1998  05:42 PM             4,461 24_eyeb.JPG
+10/04/2004  10:49 PM         1,236,480 Babysumo.max
+               3 File(s)      1,259,088 bytes
+
+ Directory of T:\Samples\Crowd
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          BipedCrowd
+10/05/2004  08:09 PM    <DIR>          MotionClips
+10/05/2004  08:09 PM    <DIR>          Sample_Animation
+10/05/2004  08:09 PM    <DIR>          SimpleCrowd
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Crowd\BipedCrowd
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  10:54 PM           118,272 ArriveWithBiped.max
+11/26/2002  12:07 AM             2,369 bipcrwd.txt
+10/04/2004  10:54 PM           626,688 BipedsThroughDoorway.max
+10/04/2004  10:54 PM           544,768 CogControlledBipeds.max
+09/16/2003  12:00 AM           215,557 jog.bip
+09/16/2003  12:00 AM           196,768 jogbendleft.bip
+09/16/2003  12:00 AM           196,064 jogbendright.bip
+10/04/2004  10:55 PM         2,558,976 Joggers.max
+09/16/2003  12:00 AM           351,354 jog_L135.bip
+09/16/2003  12:00 AM           338,365 jog_L180.bip
+09/16/2003  12:00 AM           325,996 jog_L45.bip
+09/16/2003  12:00 AM           378,315 jog_R180.bip
+09/16/2003  12:00 AM           328,614 jog_R45.bip
+09/16/2003  12:00 AM           321,067 jog_R90.bip
+09/16/2003  12:00 AM           359,255 jog_start.bip
+09/16/2003  12:00 AM           225,088 jog_stop_lfoot.bip
+09/16/2003  12:00 AM           299,555 loiter01.bip
+09/16/2003  12:00 AM           323,332 loiter02.bip
+09/16/2003  12:00 AM           325,626 loiter03.bip
+10/04/2004  10:56 PM           108,544 PathFollowWithBiped.max
+10/04/2004  10:56 PM           127,488 SingleJogger.max
+10/04/2004  10:56 PM           163,328 SpeedVaryWithBiped.max
+10/04/2004  10:57 PM           113,152 SurfaceFollowWithBiped.max
+09/16/2003  12:00 AM           220,009 walk.bip
+09/16/2003  12:00 AM           349,618 walk_180.bip
+09/16/2003  12:00 AM           219,534 walk_bendleft.bip
+09/16/2003  12:00 AM           220,728 walk_bendright.bip
+09/16/2003  12:00 AM           294,162 walk_L45.bip
+09/16/2003  12:00 AM           321,667 walk_L90.bip
+09/16/2003  12:00 AM           306,068 walk_R45.bip
+09/16/2003  12:00 AM           299,391 walk_R90.bip
+09/16/2003  12:00 AM           360,000 walk_start.bip
+09/16/2003  12:00 AM           369,009 walk_stop.bip
+10/04/2004  10:57 PM            84,992 WallSeekWithBiped.max
+10/04/2004  10:57 PM           105,472 WanderWithBiped.max
+              35 File(s)     11,699,191 bytes
+
+ Directory of T:\Samples\Crowd\MotionClips
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+04/18/1998  05:17 PM           110,639 BARK4.JPG
+10/04/2004  11:01 PM           148,992 Bird.max
+10/04/2004  11:01 PM           117,248 Butterfly.max
+10/04/2004  11:01 PM         1,835,520 ButterflyLandingBig.max
+11/19/2002  06:19 PM           206,848 eagle.ant
+10/04/2004  10:59 PM         3,147,264 Eagles.max
+10/04/2004  10:58 PM         1,132,544 FishTank.max
+10/04/2004  10:58 PM            59,904 MotionClipIK.max
+10/04/2004  10:58 PM           175,616 MotionClipMan.max
+09/20/1997  11:29 PM            16,068 ptiab22.jpg
+10/04/2004  10:58 PM           337,408 SimpleBirds.max
+11/19/2002  06:19 PM           289,792 swimmer.ant
+              12 File(s)      7,577,843 bytes
+
+ Directory of T:\Samples\Crowd\Sample_Animation
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Clips
+09/15/2003  11:58 PM           102,331 handsignal.bip
+09/15/2003  11:59 PM            93,965 lookaround.bip
+09/15/2003  11:59 PM           108,091 Lturn45.bip
+10/05/2004  08:09 PM    <DIR>          Models
+09/15/2003  11:59 PM           106,518 Rturn45.bip
+09/15/2003  11:59 PM           123,916 run.bip
+09/15/2003  11:59 PM           124,333 runleft.bip
+09/15/2003  11:59 PM           122,947 runright.bip
+09/15/2003  11:59 PM           132,835 runstart.bip
+09/15/2003  11:59 PM           120,229 runstop.bip
+09/15/2003  11:59 PM           123,704 run_L30.bip
+09/15/2003  11:59 PM           123,631 run_L90.bip
+09/15/2003  11:59 PM           122,976 run_norot.bip
+09/15/2003  11:59 PM           124,187 run_R30.bip
+09/15/2003  11:59 PM           123,572 run_R90.bip
+09/15/2003  11:59 PM           123,791 run_rotfix.bip
+10/04/2004  11:07 PM         4,932,096 sample_animation.max
+12/12/2002  06:28 AM         2,026,786 sample_animation.mov
+12/13/2002  11:13 PM           748,441 sample_animation_guide.pdf
+09/15/2003  11:59 PM           116,981 sniff.bip
+09/15/2003  11:59 PM           109,288 standup.bip
+09/15/2003  11:59 PM           120,932 takeoff.bip
+10/04/2004  11:03 PM           196,096 walier_crowd_moflow.max
+01/07/2003  05:35 PM            17,625 walier_running_crowd.mfe
+10/04/2004  11:03 PM         4,070,400 walier_crowd_setup.max
+09/15/2003  11:59 PM           129,931 walk2.bip
+09/15/2003  11:59 PM           138,732 walk4.bip
+              26 File(s)     14,384,334 bytes
+
+ Directory of T:\Samples\Crowd\Sample_Animation\Clips
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/15/2003  11:58 PM           102,331 handsignal.bip
+09/15/2003  11:59 PM            93,965 lookaround.bip
+09/15/2003  11:59 PM           108,091 Lturn45.bip
+09/15/2003  11:59 PM           106,518 Rturn45.bip
+09/15/2003  11:59 PM           123,916 run.bip
+09/15/2003  11:59 PM           124,333 runleft.bip
+09/15/2003  11:59 PM           122,947 runright.bip
+09/15/2003  11:59 PM           132,835 runstart.bip
+09/15/2003  11:59 PM           120,229 runstop.bip
+09/15/2003  11:59 PM           123,704 run_L30.bip
+09/15/2003  11:59 PM           123,631 run_L90.bip
+09/15/2003  11:59 PM           122,976 run_norot.bip
+09/15/2003  11:59 PM           124,187 run_R30.bip
+09/15/2003  11:59 PM           123,572 run_R90.bip
+09/15/2003  11:59 PM           123,791 run_rotfix.bip
+09/15/2003  11:59 PM           116,981 sniff.bip
+09/15/2003  11:59 PM           109,288 standup.bip
+09/15/2003  11:59 PM           120,932 takeoff.bip
+10/04/2004  11:11 PM           318,464 walier_clip_walk2_all.max
+10/04/2004  11:11 PM           109,568 walier_clip_walk4_all.max
+09/15/2003  11:59 PM           129,931 walk2.bip
+09/15/2003  11:59 PM           138,732 walk4.bip
+              22 File(s)      2,820,922 bytes
+
+ Directory of T:\Samples\Crowd\Sample_Animation\Models
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+12/04/2002  04:38 AM           223,387 irisbig.JPG
+08/10/1998  01:14 PM           136,144 irisbig_bw.JPG
+10/04/2004  11:10 PM           260,096 treepy_physique.max
+10/04/2004  11:10 PM           183,296 walier_skin.max
+               4 File(s)        802,923 bytes
+
+ Directory of T:\Samples\Crowd\SimpleCrowd
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:17 PM            95,232 AnimatedBehaviorWeights.max
+10/04/2004  11:17 PM           829,440 Ants_on_honey.max
+10/04/2004  11:17 PM           450,560 AvoidBehavior.max
+07/19/2002  05:59 AM           185,703 BrickWall.jpg
+07/19/2002  05:59 AM           434,111 Brkrun.JPG
+07/19/2002  05:59 AM           358,972 Brkrun_b.JPG
+10/04/2004  11:17 PM           151,040 CogControlBehavior.max
+10/04/2004  11:17 PM           561,664 ComplexSurfaceFollow.max
+10/04/2004  11:17 PM           595,968 Crowd_roaches.max
+01/15/2001  11:20 PM           432,331 GRYDIRT1.JPG
+10/04/2004  11:17 PM            70,656 OrientationBehavior.max
+10/04/2004  11:17 PM           138,240 PathFollowBehavior.max
+10/04/2004  11:16 PM            73,728 RepelBehavior.max
+10/04/2004  11:16 PM           163,840 ScriptedBehavior.max
+10/04/2004  11:16 PM            74,240 SeekBehavior.max
+10/04/2004  11:16 PM           111,616 SpaceWarpBehavior.max
+10/04/2004  11:16 PM            75,776 SpeedVaryBehavior.max
+10/04/2004  11:16 PM           168,448 SteerAround.max
+10/04/2004  11:16 PM            79,872 Steer+Seek1.max
+10/04/2004  11:16 PM           105,472 SurfaceArriveBehavior.max
+10/04/2004  11:15 PM           128,512 SurfaceFollowBehavior.max
+10/04/2004  11:15 PM           359,936 VectorField.max
+10/04/2004  11:12 PM           565,760 vfield+seek+avoid2.max
+10/04/2004  11:12 PM           175,616 WaitToGo.max
+10/04/2004  11:11 PM            81,408 WallRepelBehavior.max
+10/04/2004  11:11 PM            59,392 WallSeekBehavior.max
+10/04/2004  11:11 PM            73,216 WanderBehavior.max
+              27 File(s)      6,600,749 bytes
+
+ Directory of T:\Samples\LandXML
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+01/19/2003  04:45 PM         3,483,638 LongRoad.xml
+11/26/2002  03:17 PM           753,604 Olympus Subdivision.xml
+11/19/2002  02:41 PM            97,143 pipework.xml
+12/11/2002  02:13 AM           426,615 ROUTE202.xml
+12/17/2002  02:30 AM           893,168 Tutorial1.xml
+12/17/2002  02:53 AM           435,499 Tutorial2.xml
+11/04/2002  02:59 PM           547,177 XMLBound3.xml
+               7 File(s)      6,636,844 bytes
+
+ Directory of T:\Samples\Scenes
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Characters
+10/05/2004  08:09 PM    <DIR>          Effects
+10/05/2004  08:09 PM    <DIR>          Version7Features
+10/05/2004  08:09 PM    <DIR>          Version6Features
+10/05/2004  08:09 PM    <DIR>          Version5Features
+10/05/2004  08:09 PM    <DIR>          Version4Features
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Characters
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Complete
+10/05/2004  08:09 PM    <DIR>          Facial
+10/05/2004  08:09 PM    <DIR>          Meshes
+10/05/2004  08:09 PM    <DIR>          Rigs
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Characters\Complete
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  12:05 AM           574,464 Ape.max
+07/19/2002  05:59 AM            70,840 Background.jpg
+07/19/2002  05:59 AM           786,488 body.bmp
+07/19/2002  05:59 AM            13,066 cape_0498.jpg
+07/19/2002  05:59 AM           339,101 Cardboar.jpg
+07/19/2002  05:59 AM            27,066 displace.jpg
+10/05/2004  12:05 AM           166,912 Dragon_Character_Rig.max
+07/19/2002  05:59 AM           786,488 head4.bmp
+10/05/2004  12:05 AM           753,152 InkPaintChameleon.max
+07/19/2002  05:59 AM           502,175 kniitting_thickweave.jpg
+07/19/2002  05:59 AM           367,728 leather_b.jpg
+07/19/2002  05:59 AM           786,488 legs.bmp
+10/05/2004  12:05 AM           488,960 rabbit.max
+07/19/2002  05:59 AM            22,816 T-2ndToe.TGA
+07/19/2002  05:59 AM             7,544 T-2ndToeBMP.TGA
+07/19/2002  05:59 AM            22,815 T-3rdToe.TGA
+07/19/2002  05:59 AM             7,544 T-3rdToeBMP.TGA
+07/19/2002  05:59 AM            22,783 T-4thToe.TGA
+07/19/2002  05:59 AM             7,544 T-4thToeBMP.TGA
+07/19/2002  05:59 AM            22,826 T-5thToe.TGA
+07/19/2002  05:59 AM             7,544 T-5thToeBMP.TGA
+07/19/2002  05:59 AM         1,200,044 T-Arms.TGA
+07/19/2002  05:59 AM           400,044 T-ArmsBMP.TGA
+07/19/2002  05:59 AM            22,854 T-BigToe.TGA
+07/19/2002  05:59 AM             7,544 T-BigToeBMP.TGA
+07/19/2002  05:59 AM         1,080,044 T-Body.TGA
+07/19/2002  05:59 AM           360,044 T-BodyBMP.TGA
+07/19/2002  05:59 AM            77,162 T-BPMouth.TGA
+07/19/2002  05:59 AM           360,362 T-Eyeball.TGA
+07/19/2002  05:59 AM            62,544 T-EyeballBMP.TGA
+07/19/2002  05:59 AM            60,044 T-Foot.TGA
+07/19/2002  05:59 AM            20,044 T-FootBMP.TGA
+07/19/2002  05:59 AM           750,044 T-Head.TGA
+07/19/2002  05:59 AM           250,044 T-HeadBMP.TGA
+07/19/2002  05:59 AM           150,362 T-IBGums.TGA
+04/22/1997  08:08 PM           155,654 T- IFinger.TGA
+08/10/1997  01:14 AM            52,544 T- IFingerBMP.TGA
+07/19/2002  05:59 AM           150,362 T-ITGums.TGA
+04/22/1997  08:08 PM           155,836 T- MFinger.TGA
+08/10/1997  01:15 AM            52,544 T- MFingerBMP.TGA
+07/19/2002  05:59 AM            68,317 T-Nail.TGA
+07/19/2002  05:59 AM            22,544 T-NailBMP.TGA
+07/19/2002  05:59 AM           657,044 T-Neck.tga
+07/19/2002  05:59 AM           219,044 T-NeckBMP.TGA
+07/19/2002  05:59 AM            67,544 T-Nose.TGA
+07/19/2002  05:59 AM            22,544 T-NoseBMP.TGA
+07/19/2002  05:59 AM           150,362 T-OBGums.TGA
+07/19/2002  05:59 AM           126,362 T-OTGums.TGA
+04/22/1997  08:08 PM           155,845 T- Pinkey.TGA
+08/10/1997  01:15 AM            52,544 T- PinkeyBMP.TGA
+07/19/2002  05:59 AM            90,198 T-Scales.tga
+07/19/2002  05:59 AM           360,044 T-Shin.TGA
+07/19/2002  05:59 AM           120,044 T-ShinBMP.TGA
+07/19/2002  05:59 AM           532,548 T-Tail.TGA
+07/19/2002  05:59 AM           180,044 T-TailBMP.TGA
+07/19/2002  05:59 AM           480,044 T-Thigh.TGA
+07/19/2002  05:59 AM           160,044 T-ThighBMP.TGA
+04/22/1997  08:08 PM           111,655 T- Thumb.TGA
+08/10/1997  01:15 AM            37,544 T- ThumbBMP.TGA
+08/10/1997  12:23 AM           120,044 T-Top Head.tga
+08/10/1997  01:20 AM            40,044 T-Top HeadBMP.TGA
+07/19/2002  05:59 AM           101,162 T-TPMouth.TGA
+10/05/2004  12:06 AM         1,288,192 TarrasqueTextured.max
+07/19/2002  05:59 AM           108,044 tooth.tga
+              64 File(s)     16,424,265 bytes
+
+ Directory of T:\Samples\Scenes\Characters\Facial
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:18 PM           120,320 Angus Face.max
+10/04/2004  11:18 PM           958,976 Anibal (with manipulators).max
+               2 File(s)      1,079,296 bytes
+
+ Directory of T:\Samples\Scenes\Characters\Meshes
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM           300,044 2Leg.tga
+07/19/2002  05:59 AM           480,044 2Leg_Eye.TGA
+07/19/2002  05:59 AM           146,577 2Leg_Foot.tga
+10/04/2004  11:21 PM           580,608 CreatureSkinned.max
+10/04/2004  11:20 PM            94,720 CreatureSplines.max
+10/04/2004  11:20 PM           567,808 Creature_Rig.max
+10/04/2004  11:20 PM           115,200 NRK_Character_Rig.max
+07/19/2002  05:59 AM           227,851 nrk_hi.jpg
+11/22/1999  07:57 PM           786,488 sh'eskin7.bmp
+10/04/2004  11:20 PM           113,664 SheK_Character_Rig.max
+              10 File(s)      3,413,004 bytes
+
+ Directory of T:\Samples\Scenes\Characters\Rigs
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+06/24/2001  09:05 PM           480,044 2Leg_Eye.TGA
+07/19/2002  05:59 AM         1,357,049 BodyBump.jpg
+07/19/2002  05:59 AM           331,800 BodyDisplace.jpg
+07/19/2002  05:59 AM           740,628 BodyTexture2.jpg
+10/04/2004  11:20 PM           387,072 DinoWalking.max
+07/19/2002  05:59 AM           674,550 LegsTexture2.jpg
+07/19/2002  05:59 AM           108,044 tooth.tga
+               7 File(s)      4,079,187 bytes
+
+ Directory of T:\Samples\Scenes\Effects
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM               753 70MM.JPG
+07/19/2002  05:59 AM             9,179 AMMO.JPG
+10/04/2004  11:22 PM         1,944,576 Apache-FlyBye.max
+07/19/2002  06:00 AM            63,429 APBAN.JPG
+10/04/2004  11:22 PM         1,764,352 Apollo.max
+06/24/2001  09:05 PM            57,499 ASHSEN_2.GIF
+07/19/2002  05:59 AM           109,480 BUMPMASK.JPG
+07/19/2002  05:59 AM            72,737 CHROMIC.JPG
+10/04/2004  11:22 PM            65,536 CigSmoke.max
+07/19/2002  06:00 AM         2,251,231 CloudMap.jpg
+07/19/2002  05:59 AM            35,803 CONOPI.JPG
+07/19/2002  05:59 AM            22,139 CONOPIT.JPG
+07/19/2002  06:00 AM           362,229 DUSKCLD1.JPG
+10/04/2004  11:22 PM            58,880 Earth.max
+10/04/2004  11:22 PM         1,764,864 Earth-Apollo.max
+07/19/2002  06:00 AM         1,939,485 EarthMap.jpg
+07/19/2002  05:59 AM           613,329 EVGREEN.JPG
+07/19/2002  06:00 AM           574,589 fx3_Panels_5.jpg
+06/24/2001  09:05 PM           578,739 fx3_Panels_9F.jpg
+10/04/2004  11:22 PM           326,144 Islands.max
+07/19/2002  05:59 AM           132,245 LAKE3.JPG
+07/19/2002  05:59 AM           132,245 Lakerem.jpg
+07/19/2002  05:59 AM            84,745 LEFTBUMP.JPG
+07/19/2002  05:59 AM           166,106 LEFTTEXT.JPG
+07/19/2002  05:59 AM             3,274 LIGHT.JPG
+07/19/2002  05:59 AM            15,040 Mount1_Mask.jpg
+07/19/2002  05:59 AM            16,864 Mount2_Mask.jpg
+07/19/2002  05:59 AM            58,016 Mountains.jpg
+10/04/2004  11:22 PM            65,024 OceanSunset.max
+10/04/2004  11:21 PM            57,856 Particle_Butterfly.max
+07/19/2002  05:59 AM            16,068 ptiab22.jpg
+07/19/2002  05:59 AM           166,618 RIGHTTEX.JPG
+07/19/2002  05:59 AM             2,813 ROTOR.JPG
+07/19/2002  05:59 AM           272,622 SailBoat.jpg
+07/19/2002  05:59 AM             8,324 SIDEBUMP.JPG
+07/19/2002  05:59 AM            10,208 SIDEMASK.JPG
+07/19/2002  06:00 AM           201,089 SKYSUN2.JPG
+07/19/2002  06:00 AM         4,135,636 Stars10.JPG
+07/19/2002  05:59 AM            43,253 TEXTURA.JPG
+07/19/2002  05:59 AM             9,398 TUR1BUMP.JPG
+07/19/2002  05:59 AM            12,613 TUR1MASK.JPG
+07/19/2002  05:59 AM            16,443 TUR2BUMP.JPG
+07/19/2002  05:59 AM            17,675 TUR2MASK.JPG
+07/19/2002  05:59 AM            40,546 TUR3BUMP.JPG
+07/19/2002  05:59 AM            26,005 WakeBump.jpg
+07/19/2002  05:59 AM            18,918 WING2BUM.JPG
+07/19/2002  05:59 AM            23,291 WING2MAS.JPG
+07/19/2002  05:59 AM             9,098 WINGBUM.JPG
+07/19/2002  05:59 AM            11,005 WINGMASK.JPG
+              49 File(s)     18,388,011 bytes
+
+ Directory of T:\Samples\Scenes\Version7Features
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          CameraMap
+10/05/2004  08:09 PM    <DIR>          JSR
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version7Features\CameraMap
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/16/2004  11:11 PM           912,189 matte_left.jpg
+09/16/2004  11:10 PM            66,173 matte_left_alpha.jpg
+09/16/2004  11:12 PM           923,393 matte_right.jpg
+09/16/2004  11:11 PM            62,989 matte_right_alpha.jpg
+01/18/2002  06:39 PM           919,288 SpeedLimit55.png
+10/04/2004  11:51 PM           129,024 wall.max
+10/04/2004  11:51 PM           154,112 wall_after.max
+               7 File(s)      3,167,168 bytes
+
+ Directory of T:\Samples\Scenes\Version7Features\JSR
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/27/2004  05:23 PM             7,283 Demo_Boxes.html
+09/27/2004  05:23 PM            55,814 Demo_Boxes.m3g
+10/04/2004  11:51 PM            57,344 demo_boxes.max
+09/27/2004  05:12 PM             3,838 Demo_Skin.html
+09/27/2004  05:12 PM            61,567 Demo_Skin.m3g
+10/04/2004  11:51 PM            59,904 demo_skin.max
+09/27/2004  05:15 PM             2,862 Demo_Teapot.html
+09/27/2004  05:15 PM            64,182 Demo_Teapot.m3g
+10/04/2004  11:51 PM            56,320 Demo_Teapot.max
+10/05/2004  08:09 PM    <DIR>          Maps
+               9 File(s)        369,114 bytes
+
+ Directory of T:\Samples\Scenes\Version7Features\JSR\Maps
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+08/06/2004  05:04 AM             3,791 bg_disWhitejpg.jpg
+08/06/2004  05:28 AM             3,708 bg_Skinning.jpg
+05/25/2004  05:54 PM             2,113 MaxIcon.jpg
+               3 File(s)          9,612 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Animations
+10/05/2004  08:09 PM    <DIR>          Images
+10/05/2004  08:09 PM    <DIR>          Scenes
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Animations
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/03/2003  09:17 PM         1,222,570 520 Pencils_large.mov
+03/14/2003  07:22 AM         2,971,297 blood.mov
+05/19/2003  10:43 PM         3,364,352 Brokk.avi
+03/11/2003  03:38 AM         1,361,062 electric.mov
+09/05/2003  04:58 PM         4,655,874 Head_BonesRig.mov
+03/17/2003  06:01 AM         4,054,358 SinkTheTeapot.mov
+06/03/2003  04:17 AM           999,424 Stuntman Trampoline.avi
+09/01/2003  08:04 PM         1,765,381 tumbling.mov
+07/24/2003  03:16 AM         4,722,618 UFO Chase.wmv
+               9 File(s)     25,116,936 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Images
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+08/19/2003  07:39 PM           321,300 10.jpg
+08/15/2003  05:11 PM            69,681 Antok.jpg
+08/27/2003  09:40 PM           327,069 Brokk.jpg
+08/28/2003  12:10 AM           244,004 Brokk Light Tracer.jpg
+08/22/2003  08:00 PM            36,998 Bunnyboy.jpg
+08/07/2003  05:01 PM            19,633 carpaint.jpg
+01/09/2003  08:53 AM           541,968 Cartoon Field.jpg
+08/18/2003  04:30 PM           154,157 CausticsPool.jpg
+08/18/2003  04:30 PM           160,688 CausticsTeapot01.jpg
+08/07/2003  05:01 PM            42,115 COMPOSITING.JPG
+08/15/2003  03:15 AM            53,292 Dangel.jpg
+08/19/2003  07:50 PM            78,452 Discreet Glass.jpg
+08/18/2003  04:31 PM           424,805 Displacements01.jpg
+08/25/2003  11:32 PM         1,148,072 FultonStTransitCtrSectional.jpg
+09/10/2003  12:04 AM            39,045 fuzzy_tentacle_love_1.jpg
+08/07/2003  05:37 PM           138,854 GAMES01.jpg
+08/07/2003  05:37 PM            36,122 GSM.jpg
+08/07/2003  05:37 PM            26,009 gsmOPEN.jpg
+08/19/2003  07:30 PM           207,879 HDR_s600.jpg
+08/25/2003  11:32 PM           420,970 IndianRiverBridge.jpg
+09/02/2003  04:10 PM           131,695 LanceRender03.jpg
+08/28/2003  12:05 AM            46,630 Mental Ray Gallery_01.jpg
+08/28/2003  12:04 AM            46,622 Mental Ray Gallery_02.jpg
+08/07/2003  05:37 PM            28,861 mentalray 1.JPG
+09/09/2003  10:57 PM            86,131 Oumpahpah2.jpg
+08/07/2003  05:37 PM           144,524 PICTURE.JPG
+09/10/2003  12:17 AM           178,349 scs_woman1.jpg
+09/10/2003  12:38 AM           227,628 scs_woman2.jpg
+08/18/2003  04:31 PM           235,359 Splash01.jpg
+08/15/2003  04:03 PM           650,715 studio08_sm.jpg
+08/15/2003  04:04 PM           640,681 studio27_sm.jpg
+08/07/2003  05:01 PM            43,111 ‚tagere0000.jpg
+08/25/2003  11:32 PM         1,262,250 TappanZeeBridge.jpg
+08/18/2003  04:30 PM           137,383 TheBedroom.jpg
+08/07/2003  05:01 PM            60,076 Train - Final.jpg
+09/11/2003  09:51 PM         1,207,281 TransitCenterSectional2.jpg
+08/25/2003  11:32 PM           340,408 TrussSpan.jpg
+08/22/2003  07:35 PM            61,187 turtibyebye.jpg
+08/28/2003  12:08 AM            92,664 UFO Chase Still.jpg
+08/07/2003  05:01 PM            98,248 WONDERFULL LAND.JPG
+              40 File(s)     10,210,916 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Design Visualization
+10/05/2004  08:09 PM    <DIR>          Mental Ray
+10/05/2004  08:09 PM    <DIR>          Particle Flow
+10/05/2004  08:09 PM    <DIR>          Reactor2
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Design Visualization
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Arup
+12/18/2002  07:13 PM           273,097 Concrete.Cast-In-Place.Flat.Grey.2.jpg
+12/19/2002  12:16 AM            84,347 Concrete.Cast-In-Place.Flat.Grey.3.jpg
+01/07/2003  04:34 AM            51,020 Concrete.Cast-In-Place.Panels.Square.jpg
+06/12/2003  06:23 PM         1,001,984 dhouse.drf
+01/29/2003  10:46 PM           350,772 Doors & Windows.Wood Doors.Ash.jpg
+01/15/2003  02:48 AM           289,293 Finishes.Flooring.Wood.Hardwood.1.jpg
+01/30/2003  09:38 PM           475,566 Masonry.Unit Masonry.Brick.Modular.Running.jpg
+01/30/2003  10:47 PM           387,955 Masonry.Unit Masonry.CMU.Stretcher.Running.jpg
+03/07/2003  06:29 AM           167,775 OR-AP-SZ-SSC125-19390722.jpg
+08/19/2003  07:16 PM         2,948,096 ps2.drf
+02/09/2003  10:42 PM           261,215 Thermal & Moisture.Roofing & Siding Panels.Wood.Horizontal.jpg
+10/05/2004  08:09 PM    <DIR>          Use 3ds max Import to open
+10/04/2004  11:41 PM           377,344 vases.max
+              12 File(s)      6,668,464 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Design Visualization\Arup
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+05/08/2003  11:24 PM            22,352 Divider2.jpg
+09/05/2003  06:18 PM           657,367 footer.jpg
+05/12/2003  07:53 PM            38,491 footertop.jpg
+02/19/2003  01:41 AM            29,123 Lattice_65x665_Opacity.jpg
+10/04/2004  11:42 PM         1,105,408 Max6_TappanZeeMainSpan.max
+02/04/2003  05:31 PM            27,299 MS_Diag_30x20 Opacity Map HiRes.jpg
+04/29/2003  10:49 PM            75,014 MS_side rivets.jpg
+09/09/2003  08:42 PM            22,732 roadwayside rivets.jpg
+05/12/2003  10:58 PM           618,555 RoadwayLaneDifuse new2.jpg
+09/09/2003  08:42 PM            70,985 roadway divider2.jpg
+09/09/2003  08:42 PM            18,563 Roadway inside guardrail.jpg
+04/28/2003  09:05 PM            64,649 Roadway Railing Map.jpg
+04/28/2003  08:42 PM            45,255 Roadway Railing MapOP.jpg
+04/23/2003  12:40 AM            41,888 Sign_Cash.jpg
+04/23/2003  12:46 AM            49,930 Sign_EZPass.jpg
+04/23/2003  12:38 AM            31,796 Sign_Vehicles.jpg
+02/04/2003  10:03 PM            30,367 TCol Diag Opacity Map HiRes.jpg
+04/10/2003  11:41 PM            15,607 TCol Vert Opacity Map LoRes.jpg
+04/30/2003  07:40 PM            51,459 trestlefoot.jpg
+04/23/2003  12:17 AM            72,288 USFlag_pale.jpg
+09/10/2003  05:16 PM         7,259,814 WaterHudson21.jpg
+              21 File(s)     10,348,942 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Design Visualization\Use 3ds max Import to open
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+08/19/2003  07:24 PM           169,106 chest3.dwg
+06/16/2003  05:24 PM         5,022,245 model2-insert.dwg
+03/13/2003  07:05 PM           735,791 ps2.dwg
+               3 File(s)      5,927,142 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Mental Ray
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+02/28/2002  11:40 PM           672,468 concrete_wall.tif
+10/04/2004  11:42 PM            68,096 Displacement & DOF.max
+07/16/2003  04:47 PM         1,161,272 Green_Leather.bmp
+10/04/2004  11:42 PM           430,592 MR_LightGallery_Max6.max
+07/19/2002  05:59 AM           149,249 MtlPlat2_Bump.jpg
+07/15/2003  10:58 PM           785,272 WDNEW BROWN.tif
+               6 File(s)      3,266,949 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Bloodstream
+10/05/2004  08:09 PM    <DIR>          Explosions
+10/05/2004  08:09 PM    <DIR>          Fragments
+10/05/2004  08:09 PM    <DIR>          Gunfire and Water Bursts
+10/05/2004  08:09 PM    <DIR>          Heli Rotorwash
+10/05/2004  08:09 PM    <DIR>          Material Blending and Shape Animation
+10/05/2004  08:09 PM    <DIR>          Raindrops
+10/05/2004  08:09 PM    <DIR>          Scripted Direction
+10/05/2004  08:09 PM    <DIR>          Scripted Randomwalk
+10/05/2004  08:09 PM    <DIR>          Scripted Particle Scene from scratch
+10/05/2004  08:09 PM    <DIR>          Scripted Particle Manipulation
+10/05/2004  08:09 PM    <DIR>          Scripted Particle Length
+10/05/2004  08:09 PM    <DIR>          Sparks and Plasma Effects
+10/05/2004  08:09 PM    <DIR>          Spawning Flowers
+10/05/2004  08:09 PM    <DIR>          Timed Loops and Find Target
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Bloodstream
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:44 PM           586,752 blood.max
+               1 File(s)        586,752 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Explosions
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:44 PM            73,216 CP_FunWithSpawning01.max
+10/04/2004  11:44 PM            56,832 fuzzy_tentacle_love.max
+09/11/2003  11:13 PM               155 readme.txt
+               3 File(s)        130,203 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Fragments
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:44 PM            80,384 ScriptFragmentationWithCache_BulletTime03.max
+10/04/2004  11:43 PM            65,536 ScriptFragmentationWithCache_Corrected2.max
+               2 File(s)        145,920 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Gunfire and Water Bursts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:43 PM            82,432 WaterShots.max
+               1 File(s)         82,432 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Heli Rotorwash
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:43 PM           198,656 heli_rotorwash.max
+               1 File(s)        198,656 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Material Blending and Shape Animation
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:43 PM            71,168 bouncing_balls.max
+               1 File(s)         71,168 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Raindrops
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          raindrops
+10/04/2004  11:46 PM            72,192 raindrops puddles.max
+10/05/2004  08:09 PM    <DIR>          ripple
+10/05/2004  08:09 PM    <DIR>          wet
+               1 File(s)         72,192 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Raindrops\raindrops
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+03/04/2003  08:37 PM                64 raindrop00.ifl
+04/19/2001  05:32 AM             6,938 raindrop01.jpg
+04/19/2001  05:32 AM             7,568 raindrop02.jpg
+04/19/2001  05:32 AM             7,217 raindrop03.jpg
+04/19/2001  05:32 AM             6,799 raindrop04.jpg
+               5 File(s)         28,586 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Raindrops\ripple
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+03/06/2003  09:02 PM             2,439 ripple0010.jpg
+03/06/2003  09:02 PM             8,421 ripple0020.jpg
+03/06/2003  09:02 PM             9,750 ripple0030.jpg
+03/06/2003  09:02 PM             3,978 ripple0040.jpg
+03/06/2003  09:02 PM             3,845 ripple0013.jpg
+03/06/2003  09:02 PM             4,322 ripple0014.jpg
+03/06/2003  09:02 PM             2,741 ripple0011.jpg
+03/06/2003  09:02 PM             3,323 ripple0012.jpg
+03/06/2003  09:02 PM            10,100 ripple0023.jpg
+03/06/2003  09:02 PM             9,962 ripple0024.jpg
+03/06/2003  09:02 PM             8,722 ripple0021.jpg
+03/06/2003  09:02 PM             9,453 ripple0022.jpg
+03/06/2003  09:02 PM             8,316 ripple0033.jpg
+03/06/2003  09:02 PM             7,445 ripple0034.jpg
+03/06/2003  09:02 PM             9,142 ripple0031.jpg
+03/06/2003  09:02 PM             8,606 ripple0032.jpg
+03/06/2003  09:02 PM               867 ripple0004.jpg
+03/06/2003  09:02 PM             2,712 ripple0043.jpg
+03/06/2003  09:02 PM             2,545 ripple0044.jpg
+03/06/2003  09:02 PM             3,557 ripple0041.jpg
+03/06/2003  09:02 PM             3,073 ripple0042.jpg
+03/06/2003  09:02 PM             6,352 ripple0017.jpg
+03/06/2003  09:02 PM             7,021 ripple0018.jpg
+03/06/2003  09:02 PM             5,077 ripple0015.jpg
+03/06/2003  09:02 PM             5,496 ripple0016.jpg
+03/06/2003  09:02 PM            10,254 ripple0027.jpg
+03/06/2003  09:02 PM            10,456 ripple0028.jpg
+03/06/2003  09:02 PM            10,417 ripple0025.jpg
+03/06/2003  09:02 PM            10,401 ripple0026.jpg
+03/06/2003  09:02 PM             5,576 ripple0037.jpg
+03/06/2003  09:02 PM             5,116 ripple0038.jpg
+03/06/2003  09:02 PM             7,127 ripple0035.jpg
+03/06/2003  09:02 PM             6,369 ripple0036.jpg
+03/06/2003  09:02 PM             1,451 ripple0007.jpg
+03/06/2003  09:02 PM             1,645 ripple0008.jpg
+03/06/2003  09:02 PM               895 ripple0005.jpg
+03/06/2003  09:02 PM             1,133 ripple0006.jpg
+03/06/2003  09:02 PM             2,462 ripple0045.jpg
+03/06/2003  09:02 PM             7,418 ripple0019.jpg
+03/06/2003  09:02 PM             9,741 ripple0029.jpg
+03/06/2003  09:02 PM             4,582 ripple0039.jpg
+03/06/2003  09:02 PM             1,982 ripple0009.jpg
+03/06/2003  09:20 PM               736 ripple0000.ifl
+03/06/2003  09:02 PM               661 ripple0000.jpg
+03/06/2003  09:02 PM               669 ripple0001.jpg
+03/06/2003  09:02 PM               746 ripple0002.jpg
+03/06/2003  09:02 PM               824 ripple0003.jpg
+              47 File(s)        247,926 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Raindrops\wet
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+03/05/2003  05:31 PM             1,183 wet0000.ifl
+03/04/2003  10:33 PM             3,710 wet0000.jpg
+03/04/2003  10:33 PM             3,768 wet0001.jpg
+03/04/2003  10:33 PM             3,974 wet0002.jpg
+03/04/2003  10:33 PM             4,363 wet0003.jpg
+03/04/2003  10:33 PM             4,711 wet0004.jpg
+03/04/2003  10:33 PM             5,066 wet0005.jpg
+03/04/2003  10:33 PM             5,133 wet0006.jpg
+03/04/2003  10:33 PM             5,135 wet0007.jpg
+03/04/2003  10:33 PM             5,174 wet0008.jpg
+03/04/2003  10:33 PM             5,179 wet0009.jpg
+03/04/2003  10:33 PM             5,228 wet0010.jpg
+03/04/2003  10:33 PM             5,272 wet0011.jpg
+03/04/2003  10:33 PM             5,291 wet0012.jpg
+03/04/2003  10:33 PM             5,301 wet0013.jpg
+03/04/2003  10:33 PM             5,311 wet0014.jpg
+03/04/2003  10:33 PM             5,324 wet0015.jpg
+03/04/2003  10:33 PM             5,355 wet0016.jpg
+03/04/2003  10:33 PM             5,335 wet0017.jpg
+03/04/2003  10:33 PM             5,330 wet0018.jpg
+03/04/2003  10:33 PM             5,310 wet0019.jpg
+03/04/2003  10:33 PM             5,353 wet0020.jpg
+03/04/2003  10:33 PM             5,344 wet0021.jpg
+03/04/2003  10:33 PM             5,376 wet0022.jpg
+03/04/2003  10:33 PM             5,383 wet0023.jpg
+03/04/2003  10:33 PM             5,393 wet0024.jpg
+03/04/2003  10:33 PM             5,448 wet0025.jpg
+03/04/2003  10:33 PM             5,429 wet0026.jpg
+03/04/2003  10:33 PM             5,447 wet0027.jpg
+03/04/2003  10:33 PM             5,444 wet0028.jpg
+03/04/2003  10:33 PM             5,461 wet0029.jpg
+03/04/2003  10:33 PM             5,476 wet0030.jpg
+03/04/2003  10:33 PM             5,445 wet0031.jpg
+03/04/2003  10:33 PM             5,458 wet0032.jpg
+03/04/2003  10:33 PM             5,445 wet0033.jpg
+03/04/2003  10:33 PM             5,443 wet0034.jpg
+03/04/2003  10:33 PM             5,493 wet0035.jpg
+03/04/2003  10:33 PM             5,443 wet0036.jpg
+03/04/2003  10:33 PM             5,445 wet0037.jpg
+03/04/2003  10:33 PM             5,434 wet0038.jpg
+03/04/2003  10:33 PM             5,405 wet0039.jpg
+03/04/2003  10:33 PM             5,436 wet0040.jpg
+03/04/2003  10:33 PM             5,422 wet0041.jpg
+03/04/2003  10:33 PM             5,444 wet0042.jpg
+03/04/2003  10:33 PM             5,469 wet0043.jpg
+03/04/2003  10:33 PM             5,458 wet0044.jpg
+03/04/2003  10:33 PM             5,409 wet0045.jpg
+03/04/2003  10:33 PM             5,463 wet0046.jpg
+03/04/2003  10:33 PM             5,427 wet0047.jpg
+03/04/2003  10:33 PM             5,417 wet0048.jpg
+03/04/2003  10:33 PM             5,418 wet0049.jpg
+03/04/2003  10:33 PM             5,380 wet0050.jpg
+03/04/2003  10:33 PM             5,391 wet0051.jpg
+03/04/2003  10:33 PM             5,356 wet0052.jpg
+03/04/2003  10:33 PM             5,323 wet0053.jpg
+03/04/2003  10:33 PM             5,297 wet0054.jpg
+03/04/2003  10:33 PM             5,272 wet0055.jpg
+03/04/2003  10:33 PM             5,257 wet0056.jpg
+03/04/2003  10:33 PM             5,300 wet0057.jpg
+03/04/2003  10:33 PM             5,300 wet0058.jpg
+03/04/2003  10:33 PM             5,270 wet0059.jpg
+03/04/2003  10:33 PM             5,280 wet0060.jpg
+03/04/2003  10:33 PM             5,204 wet0061.jpg
+03/04/2003  10:33 PM             5,161 wet0062.jpg
+03/04/2003  10:33 PM             5,125 wet0063.jpg
+03/04/2003  10:33 PM             5,101 wet0064.jpg
+03/04/2003  10:33 PM             5,090 wet0065.jpg
+03/04/2003  10:33 PM             5,033 wet0066.jpg
+03/04/2003  10:33 PM             4,939 wet0067.jpg
+03/04/2003  10:33 PM             4,932 wet0068.jpg
+03/04/2003  10:33 PM             4,894 wet0069.jpg
+03/04/2003  10:33 PM             4,847 wet0070.jpg
+03/04/2003  10:33 PM             4,826 wet0071.jpg
+03/04/2003  10:33 PM             4,807 wet0072.jpg
+03/04/2003  10:33 PM             4,732 wet0073.jpg
+03/04/2003  10:33 PM             4,655 wet0074.jpg
+03/04/2003  10:33 PM             4,637 wet0075.jpg
+03/04/2003  10:33 PM             4,605 wet0076.jpg
+03/04/2003  10:33 PM             4,502 wet0077.jpg
+03/04/2003  10:33 PM             4,482 wet0078.jpg
+03/04/2003  10:33 PM             4,436 wet0079.jpg
+03/04/2003  10:33 PM             4,347 wet0080.jpg
+03/04/2003  10:33 PM             4,340 wet0081.jpg
+03/04/2003  10:34 PM             4,253 wet0082.jpg
+03/04/2003  10:34 PM             4,247 wet0083.jpg
+03/04/2003  10:34 PM             4,214 wet0084.jpg
+03/04/2003  10:34 PM             4,139 wet0085.jpg
+03/04/2003  10:34 PM             3,821 wet0086.jpg
+03/04/2003  10:34 PM             4,251 wet0087.jpg
+03/04/2003  10:34 PM             3,823 wet0088.jpg
+03/04/2003  10:34 PM             3,131 wet0089.jpg
+03/04/2003  10:34 PM             3,131 wet0090.jpg
+              92 File(s)        457,512 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Scripted Direction
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:46 PM            66,048 progressiveSpeedModify.max
+04/04/2003  11:42 PM               240 progressiveSpeedModify.txt
+               2 File(s)         66,288 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Scripted Randomwalk
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:45 PM            60,928 scripted_randomwalk_Corrected.max
+04/04/2003  10:19 PM               276 scripted_randomwalk.txt
+               2 File(s)         61,204 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Scripted Particle Scene from scratch
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+04/04/2003  10:46 PM               200 readme.txt
+03/05/2003  12:09 AM             3,839 VolumeDocking_scripted.ms
+               2 File(s)          4,039 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Scripted Particle Manipulation
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:46 PM            67,072 3DGrid.max
+04/25/2003  01:45 PM            26,164 PFlowScriptsConfig.ms
+04/28/2003  05:53 PM             4,444 PFlowScriptConfig Readme.txt
+               3 File(s)         97,680 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Scripted Particle Length
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:47 PM            59,904 ParticleLengthBySpeed.max
+04/04/2003  08:10 PM               734 ParticleLengthBySpeed.txt
+               2 File(s)         60,638 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Sparks and Plasma Effects
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:45 PM            77,312 electric thing.max
+               1 File(s)         77,312 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Spawning Flowers
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:45 PM           159,232 Animating_Flowers.max
+               1 File(s)        159,232 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Particle Flow\Timed Loops and Find Target
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+03/21/2003  01:06 AM               604 readme.txt
+10/04/2004  11:44 PM            60,928 reconfigure.max
+               2 File(s)         61,532 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Reactor2
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+01/07/2003  10:28 PM           450,706 Brkwea.JPG
+10/04/2004  11:49 PM           146,432 carwheel.max
+10/05/2004  08:09 PM    <DIR>          fun_in_a_dryer
+08/22/2003  08:04 PM            50,795 fursolid2.jpg
+10/04/2004  11:49 PM           984,576 HANGING_men.max
+10/04/2004  11:48 PM           665,600 Missle Building.max
+10/04/2004  11:48 PM           426,496 RAGDOLL_nutty.max
+10/04/2004  11:48 PM           926,208 RAGDOLL_rope.max
+07/17/2003  02:57 PM            49,208 smoke.bmp
+10/04/2004  11:48 PM           412,672 Suicide_New.max
+10/04/2004  11:48 PM           827,392 teapotwithROCKETS2!!!!!.max
+01/07/2003  10:28 PM           464,323 testmap.bmp
+01/07/2003  11:28 PM           282,458 Windows2.jpg
+01/07/2003  11:28 PM           999,166 Windows3.jpg
+01/07/2003  11:28 PM           811,513 Windows4.jpg
+              14 File(s)      7,497,545 bytes
+
+ Directory of T:\Samples\Scenes\Version6Features\Scenes\Reactor2\fun_in_a_dryer
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+09/01/2003  04:23 AM           112,348 bumpmap_with_noise.png
+10/04/2004  11:50 PM         1,080,832 fun_in_a_dryer.max
+09/01/2003  03:23 AM         1,302,380 LightBrownOfficeCarpet.jpg
+09/01/2003  03:22 AM           207,468 LightBrownOfficeCarpetBump.jpg
+               4 File(s)      2,703,028 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          AdvancedLighting
+10/05/2004  08:09 PM    <DIR>          AnimationIK
+10/05/2004  08:09 PM    <DIR>          BoneAdjustment
+10/05/2004  08:09 PM    <DIR>          CharacterAssemblies
+10/05/2004  08:09 PM    <DIR>          DirectXFeatures
+10/05/2004  08:09 PM    <DIR>          InknPaintMaterial
+10/05/2004  08:09 PM    <DIR>          ReactorDynamics
+10/05/2004  08:09 PM    <DIR>          SymmetryModifier
+10/05/2004  08:09 PM    <DIR>          TextureMapping
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\AdvancedLighting
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:35 PM         5,846,016 radiosity.max
+               1 File(s)      5,846,016 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\AnimationIK
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:31 PM           125,952 03 Ik-joe (Spline IK).max
+10/04/2004  11:30 PM           531,968 abix-fall-splineIK.max
+10/04/2004  11:30 PM            60,928 IK_FK_blend.max
+               3 File(s)        718,848 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\BoneAdjustment
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:30 PM           107,008 octopus07.max
+               1 File(s)        107,008 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\CharacterAssemblies
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:30 PM           122,368 skin_pose_define.max
+               1 File(s)        122,368 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\DirectXFeatures
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:36 PM           163,328 biplane.max
+07/19/2002  06:00 AM         2,053,450 biplane_map.jpg
+07/19/2002  05:59 AM           132,245 Lakerem.jpg
+11/20/2001  02:41 AM           321,004 Snake Skin.tga
+01/08/2003  12:28 AM           218,650 TigerTankDecal.jpg
+10/04/2004  11:36 PM            94,208 TigerTank.max
+01/08/2003  12:28 AM           786,476 TigerTankNormals.tga
+               7 File(s)      3,769,361 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\InknPaintMaterial
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:35 PM           614,400 InkPaintRobot.max
+10/04/2004  11:35 PM           107,008 InkPaintSnake.max
+11/20/2001  02:41 AM           321,004 Snake Skin.tga
+               3 File(s)      1,042,412 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\ReactorDynamics
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM           167,091 ABALONE.JPG
+07/19/2002  06:00 AM           110,639 BARK4.JPG
+07/19/2002  06:00 AM            74,032 BENEDETI.JPG
+10/04/2004  11:39 PM           354,304 Blobs.max
+07/19/2002  05:59 AM           450,706 Brkwea.JPG
+07/19/2002  05:59 AM           388,621 BRKWEA_B.GIF
+07/19/2002  05:59 AM           250,224 CARPTTAN.JPG
+07/19/2002  06:00 AM           427,715 CEDFENCE.JPG
+10/04/2004  11:39 PM            55,808 Chain.max
+07/19/2002  05:59 AM           264,307 CONCGRAY.JPG
+10/04/2004  11:38 PM            56,832 DefomingMesh.max
+01/08/2003  12:28 AM               237 DeformingMesh.txt
+07/19/2002  05:59 AM           669,937 DRYLEAVE.JPG
+07/19/2002  06:00 AM           362,229 DUSKCLD1.JPG
+07/19/2002  05:59 AM           511,021 GRYDIRT2.JPG
+07/19/2002  06:00 AM           393,317 GRYPLANK.JPG
+10/04/2004  11:38 PM            89,088 HavokSailBoat.max
+01/08/2003  12:28 AM               241 HavokSailboat.txt
+06/24/2001  09:05 PM           124,255 JUPITER2.JPG
+07/19/2002  05:59 AM           132,245 Lakerem.jpg
+07/19/2002  05:59 AM           150,761 Lakerem2.jpg
+07/19/2002  05:59 AM           379,552 LAKE_MT.JPG
+07/19/2002  06:00 AM           295,454 LIMESTO3.JPG
+10/04/2004  11:38 PM            59,904 LongChain.max
+10/04/2004  11:38 PM            57,856 LoopyPile.max
+01/08/2003  12:28 AM               200 LoopyPile.txt
+07/19/2002  05:59 AM           593,523 MEDRUST3.JPG
+07/19/2002  06:00 AM           197,610 OAKQRTRT.TGA
+07/19/2002  05:59 AM            37,926 OLDMETAL.JPG
+10/20/1997  05:00 PM           240,978 Oldwood.jpg
+07/19/2002  05:59 AM            13,962 PAT0019.TGA
+07/19/2002  05:59 AM            54,600 PLATEOX2.JPG
+10/04/2004  11:38 PM           313,344 PonytailWithConstraints.max
+01/08/2003  12:28 AM               310 PonytailWithConstraints.txt
+10/04/2004  11:37 PM            60,416 PullTheStrings.max
+01/08/2003  12:28 AM               317 PullTheStrings.txt
+07/19/2002  05:59 AM           272,622 SailBoat.jpg
+10/04/2004  11:37 PM            59,392 Sheltering.max
+01/08/2003  12:28 AM               428 Sheltering.txt
+10/04/2004  11:37 PM            54,784 SimpleComposite.max
+01/08/2003  12:28 AM                59 SimpleComposite.txt
+10/04/2004  11:37 PM            62,976 Snowmen.max
+01/08/2003  12:28 AM               298 Snowmen.txt
+07/19/2002  05:59 AM            12,693 Tiles.jpg
+10/04/2004  11:37 PM            58,880 VerySimple.max
+10/04/2004  11:37 PM            64,512 Wall.max
+07/19/2002  06:00 AM           995,372 WALNUT3.TGA
+10/04/2004  11:37 PM            65,024 Warehouse.max
+07/19/2002  05:59 AM           361,516 Yellobrk.JPG
+              49 File(s)      9,348,118 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\SymmetryModifier
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:40 PM           181,760 AnimatedSymmetry.max
+10/04/2004  11:39 PM            77,824 BallSymmetry.max
+07/19/2002  05:59 AM            34,692 CHROMBLU.JPG
+               3 File(s)        294,276 bytes
+
+ Directory of T:\Samples\Scenes\Version5Features\TextureMapping
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:39 PM           162,816 biplane.max
+07/19/2002  06:00 AM         2,053,450 biplane_map.jpg
+01/15/2001  10:20 PM           132,245 Lakerem.jpg
+               3 File(s)      2,348,511 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Bones
+10/05/2004  08:09 PM    <DIR>          CameraEffects
+10/05/2004  08:09 PM    <DIR>          Constraints
+10/05/2004  08:09 PM    <DIR>          Flex
+10/05/2004  08:09 PM    <DIR>          InverseKinematics
+10/05/2004  08:09 PM    <DIR>          Manipulators
+10/05/2004  08:09 PM    <DIR>          ParameterWiring
+10/05/2004  08:09 PM    <DIR>          PolygonObject
+10/05/2004  08:09 PM    <DIR>          RenderElements
+10/05/2004  08:09 PM    <DIR>          SpaceWarps
+10/05/2004  08:09 PM    <DIR>          SubDivSurfaces
+10/05/2004  08:09 PM    <DIR>          ViewportRendering
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\Bones
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:23 PM           390,144 Bones-FacialBonesAnim.max
+10/04/2004  11:23 PM            55,808 Bones-SimpleSquash.max
+07/19/2002  05:59 AM           280,418 EYECOLOR.TIF
+               3 File(s)        726,370 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\CameraEffects
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM           786,488 body.bmp
+07/19/2002  06:00 AM            84,357 CLOUD2.JPG
+07/19/2002  05:59 AM           786,488 head4.bmp
+07/19/2002  05:59 AM           786,488 legs.bmp
+10/04/2004  11:23 PM           165,376 MotionBlur-DragonFlying.max
+               5 File(s)      2,609,197 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\Constraints
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM         1,357,049 BodyBump.jpg
+07/19/2002  05:59 AM           331,800 BodyDisplace.jpg
+07/19/2002  05:59 AM           740,628 BodyTexture2.jpg
+10/04/2004  11:25 PM           390,144 Constraints-FacialBones.max
+10/04/2004  11:25 PM            74,752 Constraints-PosSpring.max
+10/04/2004  11:25 PM            56,320 Constraints-TeapotSpring.max
+10/04/2004  11:25 PM           130,560 Constraints-TheClaw.max
+07/19/2002  05:59 AM           280,418 EYECOLOR.TIF
+07/19/2002  05:59 AM           674,550 LegsTexture2.jpg
+07/19/2002  05:59 AM           108,044 tooth.tga
+              10 File(s)      4,144,265 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\Flex
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:25 PM           126,976 Flex-SimpleCloth.max
+10/04/2004  11:25 PM            59,392 Flex-SoftBody.max
+10/04/2004  11:24 PM            59,392 Flex-TeaPotBounce.max
+06/24/2001  02:05 PM           772,088 Simplecloth.pts
+06/24/2001  02:05 PM           772,088 Simplecloth2.pts
+               5 File(s)      1,789,936 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\InverseKinematics
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:24 PM            56,320 IK-3ChainFoot.max
+10/04/2004  11:24 PM            93,696 IK-SimpleExamples.max
+10/04/2004  11:24 PM            56,832 Reactor-IK CustAtrib.max
+               3 File(s)        206,848 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\Manipulators
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM            18,268 EYEBUMP.TIF
+07/19/2002  05:59 AM           280,418 EYECOLOR.TIF
+10/04/2004  11:24 PM           645,120 Sliders-Morphing.max
+               3 File(s)        943,806 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\ParameterWiring
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM           786,488 body.bmp
+07/19/2002  05:59 AM           786,488 head4.bmp
+07/19/2002  05:59 AM           786,488 legs.bmp
+10/04/2004  11:26 PM            56,832 Reactor-IK CustAtrib.max
+10/04/2004  11:26 PM            56,832 Sliders-IK.max
+10/04/2004  11:26 PM           192,512 Wiring-Beaker.max
+10/04/2004  11:26 PM           154,624 Wiring-Dragon.max
+10/04/2004  11:26 PM            60,928 Wiring-Landscape.max
+               8 File(s)      2,881,192 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\PolygonObject
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/04/2004  11:26 PM           261,632 PolyObject-Slayer.max
+07/19/2002  06:00 AM           201,089 SKYSUN2.JPG
+               2 File(s)        462,721 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\RenderElements
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM            56,363 BunBottom.jpg
+07/19/2002  05:59 AM            13,898 BunSide.jpg
+07/19/2002  05:59 AM            43,595 BunTop.jpg
+07/19/2002  05:59 AM            59,295 BurgerPatty.jpg
+07/19/2002  05:59 AM            78,020 Lettuce.jpg
+07/19/2002  05:59 AM           569,134 MicrowaveBackground.jpg
+10/04/2004  11:26 PM           641,536 RendElmnts-HamBurger.max
+07/19/2002  05:59 AM           268,290 TinFoil.jpg
+07/19/2002  05:59 AM            22,747 TomatoeDrops.jpg
+06/29/1997  08:53 AM           188,444 TomatoeSide.jpg
+              10 File(s)      1,941,322 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\SpaceWarps
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  06:00 AM            57,499 ASHSEN_2.GIF
+10/04/2004  11:27 PM            65,536 Drag-CigSmoke.max
+10/04/2004  11:27 PM            58,880 Vortex-Tornado.max
+               3 File(s)        181,915 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\SubDivSurfaces
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  05:59 AM            10,828 FLIPPER.JPG
+10/04/2004  11:28 PM            77,312 HSDS-Dolphin.max
+10/04/2004  11:28 PM            60,416 Meshsmooth-Doghead.max
+10/04/2004  11:28 PM            88,576 Meshsmooth-FishAnim .max
+10/04/2004  11:28 PM            53,248 Meshsmooth-Hammer.max
+10/04/2004  11:28 PM           149,504 Meshsmooth-JUR-JUR.max
+07/19/2002  05:59 AM           186,704 Tang.JPG
+               7 File(s)        626,588 bytes
+
+ Directory of T:\Samples\Scenes\Version4Features\ViewportRendering
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+07/19/2002  06:00 AM           279,296 BARK5.jpg
+07/19/2002  05:59 AM           786,488 body.bmp
+07/19/2002  05:59 AM           613,329 EVGREEN.JPG
+07/19/2002  05:59 AM            78,844 Fern.tga
+07/19/2002  05:59 AM           432,331 GRYDIRT1.JPG
+07/19/2002  05:59 AM           786,488 head4.bmp
+07/19/2002  05:59 AM           132,245 Lakerem.jpg
+07/19/2002  05:59 AM           786,488 legs.bmp
+07/19/2002  05:59 AM         1,228,844 tree.tga
+10/04/2004  11:27 PM           232,960 Viewport-Dragon.max
+              10 File(s)      5,357,313 bytes
+
+ Directory of T:\Samples\Scripts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+10/05/2004  08:09 PM    <DIR>          Examples
+10/05/2004  08:09 PM    <DIR>          MAXScriptTools
+10/05/2004  08:09 PM    <DIR>          ParticleFlow
+10/05/2004  08:09 PM    <DIR>          PluginScripts
+10/05/2004  08:09 PM    <DIR>          Samples
+10/05/2004  08:09 PM    <DIR>          Startup
+10/05/2004  08:09 PM    <DIR>          Utilities
+               0 File(s)              0 bytes
+
+ Directory of T:\Samples\Scripts\Examples
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+02/06/2004  08:31 PM               896 1Example_DialogBox.ms
+02/06/2004  08:31 PM               881 2Example_FloatingWindow.ms
+02/06/2004  08:31 PM               681 3Example_Utility.ms
+02/06/2004  08:31 PM               225 ASCII.dat
+02/06/2004  08:31 PM             1,025 Example_ExcelChart.ms
+02/06/2004  08:31 PM             2,788 Example_BoxArrayAnimation.ms
+02/06/2004  08:31 PM             6,286 Example_RandObjects.ms
+02/06/2004  08:31 PM             1,736 Example_RuledMesh.ms
+02/06/2004  08:31 PM             4,534 Example_ParticleObjects.ms
+02/06/2004  08:31 PM             2,799 Example_BitmapEllipse.ms
+02/06/2004  08:31 PM             1,196 Example_SphereHelix.ms
+02/06/2004  08:31 PM             2,085 Example_Tutorial9.ms
+02/06/2004  08:31 PM             1,261 Example_Tutorial1.ms
+02/06/2004  08:31 PM             1,021 Example_Reset Xform.ms
+02/06/2004  08:31 PM             1,906 Example_SchematicviewLayout.ms
+02/06/2004  08:31 PM             2,163 Example_BitmapCircle.ms
+02/06/2004  08:31 PM            36,317 Example_StartHere.ms
+02/06/2004  08:31 PM               741 Example_ASCII Read.ms
+02/06/2004  08:31 PM             1,737 Example_Bank and Turn.ms
+02/06/2004  08:31 PM               972 Example_BasicCommands.ms
+02/06/2004  08:31 PM             2,757 Example_BendHose.ms
+02/06/2004  08:31 PM             6,579 Example_SplineDesigner.ms
+02/06/2004  08:31 PM             3,240 Example_BitmapLine.ms
+02/06/2004  08:31 PM             1,614 Example_FLOCKING.ms
+02/06/2004  08:31 PM             1,317 foo.mzp
+02/06/2004  08:31 PM             8,623 foo2.mzp
+02/06/2004  08:31 PM               136 Function_RoundTo.ms
+02/06/2004  08:31 PM               914 Function_DetachMesh.ms
+02/06/2004  08:31 PM               616 Function_DumpProperties.ms
+02/06/2004  08:31 PM             2,165 Function_FLOCKFNS.ms
+02/06/2004  08:31 PM             1,553 Function_Objects.ms
+02/06/2004  08:31 PM            34,406 LODTester.ms
+02/06/2004  08:31 PM             4,620 Macro_KeyManager.mzp
+02/06/2004  08:31 PM             1,270 maxscript.reg
+02/06/2004  08:31 PM             2,112 OLE.ms
+02/06/2004  08:31 PM            14,336 OLEDemo.xls
+02/06/2004  08:31 PM            10,400 PaintCylinders.ms
+02/06/2004  08:31 PM             7,831 PaintCylindersConnect.ms
+02/06/2004  08:31 PM             7,319 PaintCylindersInsidePoly.ms
+02/06/2004  08:31 PM             8,454 PaintCylindersMotion.ms
+02/06/2004  08:31 PM             6,782 PaintLotsCylinders.ms
+02/06/2004  08:31 PM             6,082 PaintMeshSel.ms
+02/06/2004  08:31 PM            19,511 PaintToolsDoc.ms
+02/06/2004  08:31 PM            16,664 PlacementTool.ms
+02/06/2004  08:31 PM               739 ReadMe-Examples.txt
+              45 File(s)        241,290 bytes
+
+ Directory of T:\Samples\Scripts\MAXScriptTools
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+02/06/2004  08:31 PM             8,485 Macro_MXSExport.mcr
+02/06/2004  08:31 PM             2,678 Macro_PaintSpline.mcr
+02/06/2004  08:31 PM             8,031 Macro_RenderToRamPlayer.mcr
+05/11/2004  07:56 PM            12,619 Macro_LayerStates.mcr
+02/06/2004  08:31 PM            17,957 Macro_SchematicViewTools.mcr
+02/06/2004  08:31 PM             1,754 Macro_ObjectPaint.mcr
+02/06/2004  08:31 PM            22,316 Macro_BatchRender.mcr
+02/06/2004  08:31 PM             3,839 Macro_AproposGUI.ms
+02/06/2004  08:31 PM             8,701 Macro_BonePaint.mcr
+02/06/2004  08:31 PM            16,068 Macro_ReadCSM.ms
+02/06/2004  08:31 PM             1,262 Macro_Clusters.mcr
+02/06/2004  08:31 PM             9,130 Macro_FileBrowser.mcr
+04/26/2004  09:22 PM             7,374 Macro_UVWUnWrap.mcr
+02/06/2004  08:31 PM            25,144 Macro_HandSystem.mcr
+02/06/2004  08:31 PM           470,062 Mfht31.mzp
+02/06/2004  08:31 PM               408 ReadMe-MAXScript Tools.txt
+02/06/2004  08:31 PM            10,497 SuperManipulators.mzp
+              17 File(s)        626,325 bytes
+
+ Directory of T:\Samples\Scripts\ParticleFlow
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+02/06/2004  08:31 PM            11,564 Example-ScriptTest.ms
+02/06/2004  08:31 PM               675 Example-EveryStepUpdate.ms
+02/06/2004  08:31 PM               738 Example-FinalStepUpdate.ms
+02/06/2004  08:31 PM            11,152 Example-ScriptBirth.ms
+02/06/2004  08:31 PM            11,567 Example-ScriptOperator.ms
+               5 File(s)         35,696 bytes
+
+ Directory of T:\Samples\Scripts\PluginScripts
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+04/26/2004  09:22 PM             5,809 Material-RaytracedGlass.ms
+04/26/2004  09:22 PM             3,175 Modifier-MeshPull.ms
+02/06/2004  08:31 PM               890 Modifier-UVWLock.ms
+02/06/2004  08:31 PM            22,673 Object-GeoSphere2.ms
+04/26/2004  09:22 PM             4,888 Object-MathObject.ms
+02/06/2004  08:31 PM             3,185 RenderEffect-SpecularBloom.ms
+02/06/2004  08:31 PM             5,732 RenderEffect-FrameNumber.ms
+02/06/2004  08:31 PM             2,178 RenderEffect-TVFields.ms
+02/06/2004  08:31 PM             2,815 RenderEffect-Mosaic.ms
+02/06/2004  08:31 PM             2,411 RenderEffect-Monochrome.ms
+02/06/2004  08:31 PM             5,962 RenderEffect-HSVControl.ms
+02/06/2004  08:31 PM               385 ReadMe-PlugInScripts.txt
+02/06/2004  08:31 PM             1,189 RenderEffect-16x9.ms
+02/06/2004  08:31 PM             2,132 RenderEffect-Checkerize.ms
+02/06/2004  08:31 PM            33,597 RenderEffect-FilmAge.ms
+02/06/2004  08:31 PM             2,873 RenderEffect-FrameJitter.ms
+              16 File(s)         99,894 bytes
+
+ Directory of T:\Samples\Scripts\Samples
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+03/29/2004  01:44 AM             3,783 Macro_GeotiffLoader.mcr
+06/04/2002  01:51 AM            15,149 Macro_WalkAssist.mcr
+               2 File(s)         18,932 bytes
+
+ Directory of T:\Samples\Scripts\Startup
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+11/04/2000  11:11 PM            35,722 geom_manipulators.ms
+11/01/2000  09:26 PM             8,113 light_manipulators.ms
+02/06/2004  08:31 PM                 1 MAX.DIR
+11/02/2000  03:51 AM             9,143 mod_manipulators.ms
+11/01/2000  09:25 PM            10,065 ToggleManipulators.ms
+               5 File(s)         63,044 bytes
+
+ Directory of T:\Samples\Scripts\Utilities
+
+10/05/2004  08:09 PM    <DIR>          .
+10/05/2004  08:09 PM    <DIR>          ..
+02/06/2004  08:31 PM               860 licenseparameters.ms
+02/06/2004  08:31 PM            26,361 MakeIcon_4_55.ms
+02/06/2004  08:31 PM             4,532 MakeIcon_4_55.zip
+02/06/2004  08:31 PM               537 ReadMe-Utilities.txt
+02/06/2004  08:31 PM               236 Utility-ObjectID.ms
+               5 File(s)         32,526 bytes
+
+     Total Files Listed:
+             928 File(s)    580,308,197 bytes
+             300 Dir(s)               0 bytes free

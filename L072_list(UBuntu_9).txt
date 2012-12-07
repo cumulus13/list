@@ -1,0 +1,511 @@
+ Volume in drive F is Ubuntu 9.04 i386
+ Volume Serial Number is CD13-29A6
+
+ Directory of F:\
+
+04/20/2009  09:30 PM    <DIR>          .disk
+04/20/2009  09:30 PM               226 README.diskdefines
+04/20/2009  09:29 PM               143 autorun.inf
+04/20/2009  09:30 PM    <DIR>          casper
+04/20/2009  09:30 PM    <DIR>          dists
+04/20/2009  09:30 PM    <DIR>          install
+04/20/2009  09:30 PM    <DIR>          isolinux
+04/20/2009  09:30 PM             4,872 md5sum.txt
+04/20/2009  09:30 PM    <DIR>          pics
+04/20/2009  09:30 PM    <DIR>          pool
+04/20/2009  09:30 PM    <DIR>          preseed
+04/20/2009  09:30 PM                 0 ubuntu
+04/20/2009  03:39 PM         1,533,687 wubi.exe
+               5 File(s)      1,538,928 bytes
+
+ Directory of F:\.disk
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM                 0 base_installable
+04/20/2009  09:30 PM                37 casper-uuid-generic
+04/20/2009  09:30 PM                15 cd_type
+04/20/2009  09:30 PM                58 info
+04/20/2009  09:30 PM                77 release_notes_url
+               5 File(s)            187 bytes
+
+ Directory of F:\casper
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:12 PM            34,872 filesystem.manifest
+04/20/2009  09:09 PM            32,389 filesystem.manifest-desktop
+04/20/2009  09:17 PM       707,850,240 filesystem.squashfs
+04/20/2009  09:12 PM         7,747,987 initrd.gz
+04/17/2009  10:41 AM         3,501,776 vmlinuz
+               5 File(s)    719,167,264 bytes
+
+ Directory of F:\dists
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          jaunty
+04/20/2009  09:30 PM                 0 stable
+04/20/2009  09:30 PM                 0 unstable
+               2 File(s)              0 bytes
+
+ Directory of F:\dists\jaunty
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM             1,760 Release
+04/20/2009  09:30 PM               189 Release.gpg
+04/20/2009  09:30 PM    <DIR>          main
+04/20/2009  09:30 PM    <DIR>          restricted
+               2 File(s)          1,949 bytes
+
+ Directory of F:\dists\jaunty\main
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          binary-i386
+04/20/2009  09:30 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\jaunty\main\binary-i386
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM            10,203 Packages.gz
+04/20/2009  09:30 PM                94 Release
+               2 File(s)         10,297 bytes
+
+ Directory of F:\dists\jaunty\main\source
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\jaunty\restricted
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          binary-i386
+04/20/2009  09:30 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\jaunty\restricted\binary-i386
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM               524 Packages.gz
+04/20/2009  09:30 PM               100 Release
+               2 File(s)            624 bytes
+
+ Directory of F:\dists\jaunty\restricted\source
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\install
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+11/17/2008  02:18 PM             1,865 README.sbm
+03/28/2009  12:15 AM           128,796 mt86plus
+11/17/2008  02:18 PM         1,474,560 sbm.bin
+               3 File(s)      1,605,221 bytes
+
+ Directory of F:\isolinux
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/17/2009  04:24 PM            49,179 16x16.fnt
+04/20/2009  09:30 PM                 0 adtext.cfg
+04/17/2009  04:24 PM             1,871 am.tr
+04/17/2009  04:24 PM             7,500 back.jpg
+04/17/2009  04:24 PM             3,076 be.tr
+04/17/2009  04:24 PM             3,891 bg.tr
+04/20/2009  09:30 PM             2,048 boot.cat
+04/17/2009  04:24 PM            99,328 bootlogo
+04/17/2009  04:24 PM             1,821 bs.tr
+04/20/2009  09:30 PM             8,010 ca.hlp
+04/17/2009  04:24 PM             2,302 ca.tr
+04/17/2009  04:24 PM             2,293 cs.tr
+04/17/2009  04:24 PM             1,989 da.tr
+04/17/2009  04:24 PM             2,190 de.tr
+04/20/2009  09:30 PM            12,731 el.hlp
+04/17/2009  04:24 PM             4,251 el.tr
+04/20/2009  09:30 PM             6,510 en.hlp
+04/17/2009  04:24 PM             1,809 en.tr
+04/17/2009  04:24 PM             2,018 eo.tr
+04/20/2009  09:30 PM             7,510 es.hlp
+04/17/2009  04:24 PM             1,998 es.tr
+04/17/2009  04:24 PM             1,973 et.tr
+04/17/2009  04:24 PM             1,965 eu.tr
+04/20/2009  09:30 PM               870 f1.txt
+04/20/2009  09:30 PM               715 f10.txt
+04/20/2009  09:30 PM               506 f2.txt
+04/20/2009  09:30 PM               658 f3.txt
+04/20/2009  09:30 PM               554 f4.txt
+04/20/2009  09:30 PM               808 f5.txt
+04/20/2009  09:30 PM             1,071 f6.txt
+04/20/2009  09:30 PM               913 f7.txt
+04/20/2009  09:30 PM             1,005 f8.txt
+04/20/2009  09:30 PM               745 f9.txt
+04/20/2009  09:30 PM             6,979 fi.hlp
+04/17/2009  04:24 PM             2,010 fi.tr
+04/20/2009  09:30 PM             7,780 fr.hlp
+04/17/2009  04:24 PM             2,282 fr.tr
+04/17/2009  04:24 PM             1,931 ga.tr
+04/20/2009  09:30 PM               408 gfxboot.cfg
+04/20/2009  09:30 PM             7,415 gl.hlp
+04/17/2009  04:24 PM             2,175 gl.tr
+04/17/2009  04:24 PM             1,999 hr.tr
+04/20/2009  09:30 PM             7,764 hu.hlp
+04/17/2009  04:24 PM             2,398 hu.tr
+04/20/2009  09:30 PM             7,056 id.hlp
+04/17/2009  04:24 PM             1,864 id.tr
+07/15/2008  08:06 PM            14,739 isolinux.bin
+04/20/2009  09:30 PM                76 isolinux.cfg
+04/17/2009  04:24 PM             2,018 it.tr
+04/17/2009  04:24 PM             2,863 ja.tr
+04/17/2009  04:24 PM             4,892 ka.tr
+04/17/2009  04:24 PM             2,233 ko.tr
+04/17/2009  04:24 PM             2,106 ku.tr
+04/17/2009  04:24 PM               195 langlist
+04/17/2009  04:24 PM             2,116 lt.tr
+04/17/2009  04:24 PM             2,114 lv.tr
+04/17/2009  10:58 PM               428 menu.cfg
+04/17/2009  04:24 PM             3,201 mk.tr
+04/17/2009  04:24 PM             1,976 nb.tr
+04/17/2009  04:24 PM             2,076 nl.tr
+04/17/2009  04:24 PM             1,900 nn.tr
+04/17/2009  04:24 PM             2,328 pl.tr
+04/17/2009  10:58 PM               185 po4a.cfg
+04/20/2009  09:30 PM               155 prompt.cfg
+04/17/2009  04:24 PM             2,278 pt.tr
+04/20/2009  09:30 PM             7,335 pt_BR.hlp
+04/17/2009  04:24 PM             2,125 pt_BR.tr
+04/20/2009  09:30 PM             8,453 ro.hlp
+04/17/2009  04:24 PM             2,211 ro.tr
+04/20/2009  09:30 PM            11,310 ru.hlp
+04/17/2009  04:24 PM             3,618 ru.tr
+04/17/2009  04:24 PM             2,227 sk.tr
+04/17/2009  04:24 PM             2,007 sl.tr
+11/17/2008  02:18 PM            19,640 splash.pcx
+11/17/2008  02:18 PM            24,882 splash.png
+04/17/2009  04:24 PM             2,126 sq.tr
+04/17/2009  04:24 PM             3,676 sr.tr
+04/17/2009  10:58 PM               360 stdmenu.cfg
+04/20/2009  09:30 PM             7,165 sv.hlp
+04/17/2009  04:24 PM             2,101 sv.tr
+04/20/2009  09:30 PM               673 text.cfg
+04/17/2009  04:24 PM             1,833 tl.tr
+04/17/2009  04:24 PM             2,080 tr.tr
+04/17/2009  04:24 PM             3,594 uk.tr
+07/15/2008  08:06 PM           144,392 vesamenu.c32
+04/17/2009  04:24 PM             2,666 vi.tr
+04/20/2009  09:30 PM             6,319 zh_CN.hlp
+04/17/2009  04:24 PM             1,909 zh_CN.tr
+04/17/2009  04:24 PM             1,964 zh_TW.tr
+              89 File(s)        598,714 bytes
+
+ Directory of F:\pics
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+05/16/2006  08:48 PM               294 blue-lowerleft.png
+05/16/2006  08:48 PM               266 blue-lowerright.png
+05/16/2006  08:48 PM               280 blue-upperleft.png
+05/16/2006  08:48 PM               290 blue-upperright.png
+05/16/2006  08:48 PM             8,442 debian.jpg
+05/16/2006  08:48 PM             3,986 logo-50.jpg
+05/16/2006  08:48 PM               353 red-lowerleft.png
+05/16/2006  08:48 PM               299 red-lowerright.png
+05/16/2006  08:48 PM               321 red-upperleft.png
+05/16/2006  08:48 PM               344 red-upperright.png
+              10 File(s)         14,875 bytes
+
+ Directory of F:\pool
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          main
+04/20/2009  09:30 PM    <DIR>          restricted
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          b
+04/20/2009  09:30 PM    <DIR>          d
+04/20/2009  09:30 PM    <DIR>          f
+04/20/2009  09:30 PM    <DIR>          g
+04/20/2009  09:30 PM    <DIR>          i
+04/20/2009  09:30 PM    <DIR>          l
+04/20/2009  09:30 PM    <DIR>          m
+04/20/2009  09:30 PM    <DIR>          n
+04/20/2009  09:30 PM    <DIR>          o
+04/20/2009  09:30 PM    <DIR>          p
+04/20/2009  09:30 PM    <DIR>          s
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\b
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          b43-fwcutter
+04/20/2009  09:30 PM    <DIR>          bpalogin
+04/20/2009  09:30 PM    <DIR>          build-essential
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\b\b43-fwcutter
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+11/10/2008  10:04 AM            16,718 b43-fwcutter_011-5_i386.deb
+               1 File(s)         16,718 bytes
+
+ Directory of F:\pool\main\b\bpalogin
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+05/03/2008  09:24 AM            22,686 bpalogin_2.0.2-12_i386.deb
+               1 File(s)         22,686 bytes
+
+ Directory of F:\pool\main\b\build-essential
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+07/13/2008  04:04 AM             7,172 build-essential_11.4_i386.deb
+               1 File(s)          7,172 bytes
+
+ Directory of F:\pool\main\d
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          dpkg
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\d\dpkg
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+01/07/2009  08:05 PM           643,252 dpkg-dev_1.14.24ubuntu1_all.deb
+               1 File(s)        643,252 bytes
+
+ Directory of F:\pool\main\f
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          fakeroot
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\f\fakeroot
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+01/06/2009  05:04 AM           115,244 fakeroot_1.12.1ubuntu1_i386.deb
+               1 File(s)        115,244 bytes
+
+ Directory of F:\pool\main\g
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          gcc-4.3
+04/20/2009  09:30 PM    <DIR>          gcc-defaults
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\g\gcc-4.3
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+03/17/2009  08:04 AM         4,162,258 g++-4.3_4.3.3-5ubuntu4_i386.deb
+03/17/2009  08:04 AM         1,355,834 libstdc++6-4.3-dev_4.3.3-5ubuntu4_i386.deb
+               2 File(s)      5,518,092 bytes
+
+ Directory of F:\pool\main\g\gcc-defaults
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+03/29/2009  12:04 AM             1,438 g++_4.3.3-1ubuntu1_i386.deb
+               1 File(s)          1,438 bytes
+
+ Directory of F:\pool\main\i
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          isdnutils
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\i\isdnutils
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  07:04 AM            82,658 capiutils_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM           178,774 ipppd_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM           148,946 isdnutils-base_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM            48,026 isdnutils-xtools_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM            42,848 libcapi20-3_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM            28,580 libcapi20-dev_3.12.20071127-0ubuntu5_i386.deb
+04/20/2009  07:04 AM            61,798 pppdcapiplugin_3.12.20071127-0ubuntu5_i386.deb
+               7 File(s)        591,630 bytes
+
+ Directory of F:\pool\main\l
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          linux-atm
+04/20/2009  09:30 PM    <DIR>          linux-wlan-ng
+04/20/2009  09:30 PM    <DIR>          localechooser
+04/20/2009  09:30 PM    <DIR>          lupin
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\l\linux-atm
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+05/03/2008  02:05 PM            69,508 libatm1_2.4.1-17.2_i386.deb
+               1 File(s)         69,508 bytes
+
+ Directory of F:\pool\main\l\linux-wlan-ng
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+01/13/2009  04:04 AM            89,008 linux-wlan-ng-doc_0.2.9+dfsg-2ubuntu2_all.deb
+01/13/2009  04:04 AM           110,552 linux-wlan-ng_0.2.9+dfsg-2ubuntu2_i386.deb
+               2 File(s)        199,560 bytes
+
+ Directory of F:\pool\main\l\localechooser
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+02/27/2009  01:07 PM            25,790 localechooser-data_2.09ubuntu2_all.deb
+               1 File(s)         25,790 bytes
+
+ Directory of F:\pool\main\l\lupin
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+10/03/2008  03:04 PM             5,786 lupin-support_0.22_all.deb
+               1 File(s)          5,786 bytes
+
+ Directory of F:\pool\main\m
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          mouseemu
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\m\mouseemu
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+01/13/2009  05:04 AM            17,706 mouseemu_0.16-0ubuntu3_i386.deb
+               1 File(s)         17,706 bytes
+
+ Directory of F:\pool\main\n
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          ndisgtk
+04/20/2009  09:30 PM    <DIR>          ndiswrapper
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\n\ndisgtk
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+10/08/2008  06:04 AM            21,688 ndisgtk_0.8.4-1_i386.deb
+               1 File(s)         21,688 bytes
+
+ Directory of F:\pool\main\n\ndiswrapper
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+11/22/2008  10:04 PM            21,386 ndiswrapper-common_1.53-2ubuntu1_all.deb
+11/22/2008  10:04 PM            35,996 ndiswrapper-utils-1.9_1.53-2ubuntu1_i386.deb
+               2 File(s)         57,382 bytes
+
+ Directory of F:\pool\main\o
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          oem-config
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\o\oem-config
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/18/2009  03:07 AM            73,820 oem-config-gtk_1.54.13_i386.deb
+04/18/2009  03:07 AM         1,590,974 oem-config_1.54.13_i386.deb
+               2 File(s)      1,664,794 bytes
+
+ Directory of F:\pool\main\p
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          patch
+04/20/2009  09:30 PM    <DIR>          pptp-linux
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\p\patch
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+05/03/2008  04:05 PM           100,040 patch_2.5.9-5_i386.deb
+               1 File(s)        100,040 bytes
+
+ Directory of F:\pool\main\p\pptp-linux
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+06/02/2008  04:04 PM            49,278 pptp-linux_1.7.2-1_i386.deb
+               1 File(s)         49,278 bytes
+
+ Directory of F:\pool\main\s
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          setserial
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\s\setserial
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+11/06/2008  07:11 AM            51,596 setserial_2.17-45_i386.deb
+               1 File(s)         51,596 bytes
+
+ Directory of F:\pool\restricted
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          d
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\d
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+04/20/2009  09:30 PM    <DIR>          drdsl
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\d\drdsl
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+07/17/2006  09:10 PM            26,850 drdsl_1.2.0-1_i386.deb
+               1 File(s)         26,850 bytes
+
+ Directory of F:\preseed
+
+04/20/2009  09:30 PM    <DIR>          .
+04/20/2009  09:30 PM    <DIR>          ..
+03/03/2009  09:49 PM               369 cli.seed
+03/03/2009  09:49 PM               541 ltsp.seed
+03/16/2009  05:53 PM               555 ubuntu.seed
+               3 File(s)          1,465 bytes
+
+     Total Files Listed:
+             158 File(s)    732,145,734 bytes
+             147 Dir(s)               0 bytes free

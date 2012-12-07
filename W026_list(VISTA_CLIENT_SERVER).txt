@@ -1,0 +1,929 @@
+ Volume in drive F is Vista
+ Volume Serial Number is FDBA-8C88
+
+ Directory of F:\
+
+06/07/2006  09:05 PM    <DIR>          Crack
+03/24/2006  06:52 AM               896 SerialNo.txt
+02/28/2006  03:00 AM                43 autorun.inf
+06/07/2006  08:41 PM    <DIR>          boot
+02/28/2006  03:00 AM           409,980 bootmgr
+02/28/2006  03:00 AM           392,704 bootmgr.efi
+06/07/2006  08:41 PM    <DIR>          docs
+06/07/2006  08:41 PM    <DIR>          efi
+06/07/2006  08:41 PM    <DIR>          langpacks
+02/28/2006  03:00 AM            12,268 readme.htm
+02/28/2006  03:00 AM           131,295 readme.rtf
+02/28/2006  03:00 AM            39,936 setup.exe
+06/07/2006  09:01 PM    <DIR>          sources
+06/07/2006  09:04 PM    <DIR>          support
+06/07/2006  09:04 PM    <DIR>          upgrade
+               7 File(s)        987,122 bytes
+
+ Directory of F:\Crack
+
+06/07/2006  09:05 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+06/07/2006  09:05 PM    <DIR>          AMD64
+03/23/2006  06:55 PM            29,596 Crack.zip
+06/07/2006  09:05 PM    <DIR>          X86
+08/16/2005  10:20 PM             1,781 antiwpa-vista.cmd
+               2 File(s)         31,377 bytes
+
+ Directory of F:\Crack\AMD64
+
+06/07/2006  09:05 PM    <DIR>          .
+06/07/2006  09:05 PM    <DIR>          ..
+08/16/2005  10:06 PM            40,448 SLC.dll
+               1 File(s)         40,448 bytes
+
+ Directory of F:\Crack\X86
+
+06/07/2006  09:05 PM    <DIR>          .
+06/07/2006  09:05 PM    <DIR>          ..
+08/16/2005  04:34 PM            23,040 SLC.dll
+               1 File(s)         23,040 bytes
+
+ Directory of F:\boot
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+02/28/2006  03:00 AM           262,144 bcd
+02/28/2006  03:00 AM         3,166,208 boot.sdi
+02/28/2006  03:00 AM             1,024 bootfix.bin
+02/28/2006  03:00 AM            59,392 bootsect.exe
+02/28/2006  03:00 AM           249,856 cdboot.efi
+02/28/2006  03:00 AM             2,048 etfsboot.com
+06/07/2006  08:41 PM    <DIR>          fonts
+               6 File(s)      3,740,672 bytes
+
+ Directory of F:\boot\fonts
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  08:41 PM    <DIR>          ..
+02/28/2006  03:00 AM         3,687,344 chs_boot.ttf
+02/28/2006  03:00 AM         3,870,092 cht_boot.ttf
+02/28/2006  03:00 AM         1,977,304 jpn_boot.ttf
+02/28/2006  03:00 AM         2,364,432 kor_boot.ttf
+02/28/2006  03:00 AM            40,756 wgl4_boot.ttf
+               5 File(s)     11,939,928 bytes
+
+ Directory of F:\docs
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+02/28/2006  03:00 AM            23,147 relnotes.htm
+02/28/2006  03:00 AM            10,468 setup_vista.htm
+02/28/2006  03:00 AM            23,058 unattend_sample.xml
+02/28/2006  03:00 AM             4,626 unattend_sample_headless.xml
+               4 File(s)         61,299 bytes
+
+ Directory of F:\efi
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+06/07/2006  08:41 PM    <DIR>          microsoft
+               0 File(s)              0 bytes
+
+ Directory of F:\efi\microsoft
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  08:41 PM    <DIR>          ..
+06/07/2006  08:41 PM    <DIR>          boot
+               0 File(s)              0 bytes
+
+ Directory of F:\efi\microsoft\boot
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  08:41 PM    <DIR>          ..
+02/28/2006  03:00 AM           262,144 bcd
+06/07/2006  08:41 PM    <DIR>          fonts
+               1 File(s)        262,144 bytes
+
+ Directory of F:\efi\microsoft\boot\fonts
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  08:41 PM    <DIR>          ..
+02/28/2006  03:00 AM         3,687,344 chs_boot.ttf
+02/28/2006  03:00 AM         3,870,092 cht_boot.ttf
+02/28/2006  03:00 AM         1,977,304 jpn_boot.ttf
+02/28/2006  03:00 AM         2,364,432 kor_boot.ttf
+02/28/2006  03:00 AM            40,756 wgl4_boot.ttf
+               5 File(s)     11,939,928 bytes
+
+ Directory of F:\langpacks
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+06/07/2006  08:41 PM    <DIR>          en-us
+               0 File(s)              0 bytes
+
+ Directory of F:\langpacks\en-us
+
+06/07/2006  08:41 PM    <DIR>          .
+06/07/2006  08:41 PM    <DIR>          ..
+02/28/2006  03:00 AM       146,863,574 lp.cab
+               1 File(s)    146,863,574 bytes
+
+ Directory of F:\sources
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+02/28/2006  03:00 AM           145,408 actionqueue.dll
+06/07/2006  09:01 PM    <DIR>          adprep
+02/28/2006  03:00 AM             2,449 appcompat.xsl
+02/28/2006  03:00 AM         3,911,168 arunimg.dll
+02/28/2006  03:00 AM             4,608 arunres.dll
+02/28/2006  03:00 AM           163,840 autorun.dll
+02/28/2006  03:00 AM       136,759,330 boot.wim
+02/28/2006  03:00 AM           208,384 cmi2migxml.dll
+02/28/2006  03:00 AM           287,744 cmiagent.dll
+02/28/2006  03:00 AM         2,041,344 cmiv2.dll
+02/28/2006  03:00 AM           375,808 csiagent.dll
+02/28/2006  03:00 AM            98,816 diager.dll
+02/28/2006  03:00 AM           190,976 diagnostic.dll
+06/07/2006  09:01 PM    <DIR>          dlmanifests
+02/28/2006  03:00 AM           609,792 docagent.dll
+02/28/2006  03:00 AM            77,312 drvmgrtn.dll
+02/28/2006  03:00 AM           189,440 drvstore.dll
+06/07/2006  09:00 PM    <DIR>          en-us
+02/28/2006  03:00 AM             4,596 envmig.xml
+02/28/2006  03:00 AM            25,600 httpapi.dll
+02/28/2006  03:00 AM           195,584 hwcompat.dll
+02/28/2006  03:00 AM           412,923 hwcompat.txt
+02/28/2006  03:00 AM               123 idwbinfo.txt
+02/28/2006  03:00 AM           126,464 input.dll
+02/28/2006  03:00 AM     1,975,506,097 install.wim
+02/28/2006  03:00 AM                72 lang.ini
+02/28/2006  03:00 AM            40,156 license.rtf
+02/28/2006  03:00 AM         6,706,688 migcore.dll
+02/28/2006  03:00 AM           120,832 migisol.dll
+02/28/2006  03:00 AM            19,968 migtestplugin.dll
+02/28/2006  03:00 AM           186,368 mlang.dll
+02/28/2006  03:00 AM         2,362,880 mrt.exe
+02/28/2006  03:00 AM           251,904 mxeagent.dll
+02/28/2006  03:00 AM            11,386 offline.xml
+02/28/2006  03:00 AM           903,680 pidgenx.dll
+02/28/2006  03:00 AM            64,512 pk986v.dll
+02/28/2006  03:00 AM            91,266 pkeyconfig.xml
+02/28/2006  03:00 AM            87,552 pkgmgr.exe
+02/28/2006  03:00 AM            50,688 pnpibs.dll
+02/28/2006  03:00 AM               343 product.ini
+02/28/2006  03:00 AM         3,326,976 rollback.exe
+02/28/2006  03:00 AM            57,344 schema.dat
+02/28/2006  03:00 AM            94,720 sdbapiu.dll
+02/28/2006  03:00 AM           414,556 segoeui.ttf
+06/07/2006  09:00 PM    <DIR>          servicing
+02/28/2006  03:00 AM         3,299,328 setup.exe
+02/28/2006  03:00 AM         1,540,230 sflist03.dat
+02/28/2006  03:00 AM           835,700 sflist2k.dat
+02/28/2006  03:00 AM         1,172,508 sflistlh.dat
+02/28/2006  03:00 AM           987,836 sflistxp.dat
+02/28/2006  03:00 AM             8,093 sfpat.inf
+02/28/2006  03:00 AM             2,114 sfpat03.inf
+02/28/2006  03:00 AM             2,917 sfpatlh.inf
+02/28/2006  03:00 AM             2,811 sfpatxp.inf
+02/28/2006  03:00 AM           781,824 smiengine.dll
+02/28/2006  03:00 AM            58,880 spflvrnt.dll
+02/28/2006  03:00 AM            96,768 spprgrss.dll
+02/28/2006  03:00 AM           379,904 spwizeng.dll
+02/28/2006  03:00 AM         3,019,264 spwizimg.dll
+02/28/2006  03:00 AM             5,632 spwizres.dll
+02/28/2006  03:00 AM           126,464 sqmapi.dll
+02/28/2006  03:00 AM         2,096,886 sysmain.sdb
+02/28/2006  03:00 AM            82,944 testplugin.dll
+02/28/2006  03:00 AM           218,112 unattend.dll
+02/28/2006  03:00 AM           834,560 unbcl.dll
+02/28/2006  03:00 AM            11,357 upgcompat.inf
+02/28/2006  03:00 AM           670,208 upgdriver.dll
+02/28/2006  03:00 AM           174,592 upgloader.dll
+02/28/2006  03:00 AM               258 upgrade.ini
+02/28/2006  03:00 AM            68,804 upgrade_bulk.xml
+02/28/2006  03:00 AM           911,360 upgradeagent.dll
+02/28/2006  03:00 AM           329,216 upgreport.dll
+02/28/2006  03:00 AM            48,339 upgwow_bulk.xml
+02/28/2006  03:00 AM            91,518 vofflps.rtf
+02/28/2006  03:00 AM         6,940,160 w32uiimg.dll
+02/28/2006  03:00 AM           178,176 w32uires.dll
+02/28/2006  03:00 AM             1,047 wcmtypes.xsd
+02/28/2006  03:00 AM           215,040 wdsclient.dll
+02/28/2006  03:00 AM            79,872 wdsclientapi.dll
+02/28/2006  03:00 AM           287,744 wdscore.dll
+02/28/2006  03:00 AM            79,360 wdscsl.dll
+02/28/2006  03:00 AM           287,232 wdsimage.dll
+02/28/2006  03:00 AM            87,552 wdsutil.dll
+02/28/2006  03:00 AM           408,576 win32ui.dll
+02/28/2006  03:00 AM         1,248,256 winsetup.dll
+02/28/2006  03:00 AM               615 wsrr.hta
+02/28/2006  03:00 AM           116,224 xmllite.dll
+              83 File(s)  2,163,917,978 bytes
+
+ Directory of F:\sources\adprep
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            78,100 409.csv
+02/28/2006  03:00 AM           499,200 adprep.exe
+02/28/2006  03:00 AM         1,773,688 dcpromo.csv
+02/28/2006  03:00 AM            52,190 sch14.ldf
+02/28/2006  03:00 AM            27,939 sch15.ldf
+02/28/2006  03:00 AM            10,072 sch16.ldf
+02/28/2006  03:00 AM             5,715 sch17.ldf
+02/28/2006  03:00 AM            15,789 sch18.ldf
+02/28/2006  03:00 AM             4,744 sch19.ldf
+02/28/2006  03:00 AM             5,658 sch20.ldf
+02/28/2006  03:00 AM             3,650 sch21.ldf
+02/28/2006  03:00 AM             7,776 sch22.ldf
+02/28/2006  03:00 AM             1,884 sch23.ldf
+02/28/2006  03:00 AM             3,456 sch24.ldf
+02/28/2006  03:00 AM            26,842 sch25.ldf
+02/28/2006  03:00 AM             7,701 sch26.ldf
+02/28/2006  03:00 AM            28,186 sch27.ldf
+02/28/2006  03:00 AM             1,711 sch28.ldf
+02/28/2006  03:00 AM             1,456 sch29.ldf
+02/28/2006  03:00 AM             7,054 sch30.ldf
+02/28/2006  03:00 AM            70,661 sch31.ldf
+02/28/2006  03:00 AM             8,637 sch32.ldf
+02/28/2006  03:00 AM             6,165 sch33.ldf
+02/28/2006  03:00 AM            28,536 sch34.ldf
+02/28/2006  03:00 AM             5,888 sch35.cat
+02/28/2006  03:00 AM             3,035 sch35.ldf
+02/28/2006  03:00 AM             5,888 sch36.cat
+02/28/2006  03:00 AM             4,295 sch36.ldf
+02/28/2006  03:00 AM             5,888 sch37.cat
+02/28/2006  03:00 AM            24,469 sch37.ldf
+02/28/2006  03:00 AM           190,096 schema.ini
+              31 File(s)      2,916,369 bytes
+
+ Directory of F:\sources\dlmanifests
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM             3,796 accessibilitycpl-dl.man
+02/28/2006  03:00 AM             1,293 activedirectory-wmireplicationprovider-dl.man
+02/28/2006  03:00 AM             3,142 adfs-dl.man
+02/28/2006  03:00 AM             3,388 adsi-ldap-extensions-dl.man
+02/28/2006  03:00 AM             1,321 adsi-ldap-provider-dl.man
+02/28/2006  03:00 AM             1,552 adsi-router-dl.man
+02/28/2006  03:00 AM             1,287 adsi-winnt-provider-dl.man
+02/28/2006  03:00 AM             1,811 application_experience-infrastructure-dl.man
+02/28/2006  03:00 AM             4,176 browserservice-dl.man
+02/28/2006  03:00 AM             3,754 capi2_certs-dl.man
+02/28/2006  03:00 AM             1,307 coreos-dl.man
+02/28/2006  03:00 AM             2,140 credential-manager-dl.man
+02/28/2006  03:00 AM             3,373 crypto_keys-dl.man
+02/28/2006  03:00 AM             6,088 dfsserverservice-dl.man
+02/28/2006  03:00 AM             3,319 dhcpservermigplugin-dl.man
+02/28/2006  03:00 AM             2,020 directoryservices-adam-dl.man
+02/28/2006  03:00 AM             1,951 directoryservices-domain-dl.man
+02/28/2006  03:00 AM             3,456 dns-client-dl.man
+02/28/2006  03:00 AM             1,575 dns-server-service-dl.man
+02/28/2006  03:00 AM             1,574 dpapi_keys-dl.man
+02/28/2006  03:00 AM             1,015 drm-dl.man
+02/28/2006  03:00 AM             6,474 ehome-reg-inf-dl.man
+02/28/2006  03:00 AM             1,823 evntagnt-dl.man
+02/28/2006  03:00 AM             2,347 explorer-dl.man
+02/28/2006  03:00 AM             1,405 feclient-dl.man
+02/28/2006  03:00 AM             1,655 font-base_layer-dl.man
+02/28/2006  03:00 AM             1,562 gameuxmig-dl.man
+02/28/2006  03:00 AM             1,090 http-dl.man
+02/28/2006  03:00 AM             3,851 iasmigplugin-dl.man
+02/28/2006  03:00 AM             1,532 international-core-dl.man
+02/28/2006  03:00 AM             1,782 international-systemlocale-dl.man
+02/28/2006  03:00 AM            13,852 international-timezones-dl.man
+02/28/2006  03:00 AM            13,616 international-timezones-resources-dl.man
+02/28/2006  03:00 AM             1,328 international-userlocale-dl.man
+02/28/2006  03:00 AM             2,756 ipsec-svc-dl.man
+02/28/2006  03:00 AM             5,318 jet2x3x-dl.man
+02/28/2006  03:00 AM             6,267 jetcore-dl.man
+02/28/2006  03:00 AM             5,984 jetexcel-dl.man
+02/28/2006  03:00 AM             8,107 jetexchlotus-dl.man
+02/28/2006  03:00 AM             6,145 jettext-dl.man
+02/28/2006  03:00 AM            13,268 jetxbasepdx-dl.man
+02/28/2006  03:00 AM               929 kerberos-key-distribution-center-dl.man
+02/28/2006  03:00 AM             1,054 ldap-client-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-adfs-dl
+02/28/2006  03:00 AM             1,322 microsoft-windows-certificateservices-ca-dl.man
+02/28/2006  03:00 AM             1,168 microsoft-windows-certificateservices-mscep-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-com-complus-setup-dl
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-com-dtc-setup-dl
+02/28/2006  03:00 AM             2,354 microsoft-windows-dfsr-core-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-dhcpservermigplugin-dl
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-directoryservices-adam-dl
+02/28/2006  03:00 AM             1,115 microsoft-windows-dot3svc-dl.man
+02/28/2006  03:00 AM             3,623 microsoft-windows-fax-client-applications-dl.man
+02/28/2006  03:00 AM             4,095 microsoft-windows-fax-common-dl.man
+02/28/2006  03:00 AM             6,424 microsoft-windows-fax-service-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-gameuxmig-dl
+02/28/2006  03:00 AM               935 microsoft-windows-htmlhelp-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-iasserver-migplugin
+02/28/2006  03:00 AM            20,287 microsoft-windows-ie-clientnetworkprotocolimplementation-dl.man
+02/28/2006  03:00 AM             1,689 microsoft-windows-ie-internetexplorer-dl.man
+02/28/2006  03:00 AM             2,275 microsoft-windows-iis-asp-deployment-dl.man
+02/28/2006  03:00 AM             2,341 microsoft-windows-iis-basicauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,275 microsoft-windows-iis-cgi-deployment-dl.man
+02/28/2006  03:00 AM             2,421 microsoft-windows-iis-clientcertificatemappingauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-customlogging-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-defaultdocument-deployment-dl.man
+02/28/2006  03:00 AM             2,345 microsoft-windows-iis-digestauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,333 microsoft-windows-iis-directorybrowsing-deployment-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-iis-dl
+02/28/2006  03:00 AM             2,217 microsoft-windows-iis-ftpmanagement-deployment-dl.man
+02/28/2006  03:00 AM             2,304 microsoft-windows-iis-ftpserver-deployment-dl.man
+02/28/2006  03:00 AM             2,355 microsoft-windows-iis-httpcompressiondynamic-deployment-dl.man
+02/28/2006  03:00 AM             2,351 microsoft-windows-iis-httpcompressionstatic-deployment-dl.man
+02/28/2006  03:00 AM             2,305 microsoft-windows-iis-httperrors-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-httplogging-deployment-dl.man
+02/28/2006  03:00 AM             2,313 microsoft-windows-iis-httpredirect-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-httptracing-deployment-dl.man
+02/28/2006  03:00 AM             2,409 microsoft-windows-iis-iiscertificatemappingauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,305 microsoft-windows-iis-ipsecurity-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-isapiextensions-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-isapifilter-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-legacyscripts-deployment-dl.man
+02/28/2006  03:00 AM             2,215 microsoft-windows-iis-legacysnapin-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-logginglibraries-deployment-dl.man
+02/28/2006  03:00 AM             2,233 microsoft-windows-iis-managementconsole-deployment-dl.man
+02/28/2006  03:00 AM             2,363 microsoft-windows-iis-managementscriptingtools-deployment-dl.man
+02/28/2006  03:00 AM             2,333 microsoft-windows-iis-managementservice-deployment-dl.man
+02/28/2006  03:00 AM             2,541 microsoft-windows-iis-metabase-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-odbclogging-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-requestfiltering-deployment-dl.man
+02/28/2006  03:00 AM             2,321 microsoft-windows-iis-requestmonitor-deployment-dl.man
+02/28/2006  03:00 AM             2,339 microsoft-windows-iis-serversideincludes-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-staticcontent-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-urlauthorization-deployment-dl.man
+02/28/2006  03:00 AM             2,349 microsoft-windows-iis-windowsauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-wmicompatibility-deployment-dl.man
+02/28/2006  03:00 AM             1,478 microsoft-windows-mail-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-mediaplayer
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-mediaplayer-drm-dl
+02/28/2006  03:00 AM             4,865 microsoft-windows-mediaplayer-migration-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-msmq-messagingcoreservice
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-ndis
+02/28/2006  03:00 AM            56,108 microsoft-windows-netfxcorecomp-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-network-security-domain-clients-svc
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-offlinefiles-dl
+02/28/2006  03:00 AM             1,663 microsoft-windows-offlinefiles-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-performancecounterinfrastructure-dl
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-performancecounterinfrastructureconsumer-dl
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-rasapi
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-rasconnectionmanager
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-rasserver-migplugin
+02/28/2006  03:00 AM             1,726 microsoft-windows-sharedaccess-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-shmig-dl
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-sxs
+02/28/2006  03:00 AM               865 microsoft-windows-sxs-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-tapisetup
+02/28/2006  03:00 AM             2,320 microsoft-windows-tapisetup-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-unimodem-config
+02/28/2006  03:00 AM             1,348 microsoft-windows-wab-dl.man
+02/28/2006  03:00 AM             2,337 microsoft-windows-was-configurationapi-dl.man
+02/28/2006  03:00 AM             2,337 microsoft-windows-was-netfxenvironment-dl.man
+02/28/2006  03:00 AM             2,321 microsoft-windows-was-processmodel-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-winsock-core-infrastructure-upgrade
+02/28/2006  03:00 AM             4,400 microsoft-windows-wlansvc-dl.man
+06/07/2006  09:01 PM    <DIR>          microsoft-windows-wmi-core
+02/28/2006  03:00 AM             1,490 microsoft.windows.com.complus.setup.dl.man
+02/28/2006  03:00 AM             1,018 microsoft.windows.com.dtc.runtime-dl.man
+02/28/2006  03:00 AM             1,275 moviemaker-migration-dl.man
+02/28/2006  03:00 AM             1,130 msmq-cluster-dl.man
+02/28/2006  03:00 AM             2,017 msmq-domain-ic-dl.man
+02/28/2006  03:00 AM             1,607 msmq-downlevelclient-dl.man
+02/28/2006  03:00 AM             1,757 msmq-http-dl.man
+02/28/2006  03:00 AM             5,928 msmq-messagingcoreservice-dl.man
+02/28/2006  03:00 AM             1,525 msmq-routing-dl.man
+02/28/2006  03:00 AM             1,123 msmq-triggers-cluster-dl.man
+02/28/2006  03:00 AM             1,450 msmq-triggers-dl.man
+02/28/2006  03:00 AM             1,682 ndis-dl.man
+02/28/2006  03:00 AM             1,397 netlogon-dl.man
+06/07/2006  09:01 PM    <DIR>          networking-mpssvc-svc
+02/28/2006  03:00 AM             1,765 networking-mpssvc-svc-dl.man
+02/28/2006  03:00 AM             1,448 odbc32dll-dl.man
+02/28/2006  03:00 AM               969 peertopeeradmin-dl.man
+02/28/2006  03:00 AM             1,336 peertopeerbase-dl.man
+02/28/2006  03:00 AM             1,199 peertopeergraphing-dl.man
+02/28/2006  03:00 AM             1,486 peertopeergrouping-dl.man
+02/28/2006  03:00 AM               973 peertopeeridmanager-dl.man
+02/28/2006  03:00 AM             2,201 peertopeerpnrp-dl.man
+02/28/2006  03:00 AM             1,078 performancecounterinfrastructure-dl.man
+02/28/2006  03:00 AM             1,341 performancecounterinfrastructureconsumer-dl.man
+02/28/2006  03:00 AM             2,290 printing-spooler-core-dl.man
+02/28/2006  03:00 AM             1,976 printing-spooler-networkclient-dl.man
+02/28/2006  03:00 AM             2,048 psync-dl.man
+02/28/2006  03:00 AM             1,513 rasapi-dl.man
+02/28/2006  03:00 AM               938 rascmak-dl.man
+02/28/2006  03:00 AM             1,588 rasconnectionmanager-dl.man
+02/28/2006  03:00 AM            23,937 rasservermigplugin-dl.man
+02/28/2006  03:00 AM             1,778 remoteassistance-dl.man
+02/28/2006  03:00 AM             2,364 rights-management-client-v1-api-dl.man
+02/28/2006  03:00 AM             2,285 schannel-dl.man
+02/28/2006  03:00 AM             1,522 schedsvc-dl.man
+02/28/2006  03:00 AM               971 security-digest-dl.man
+02/28/2006  03:00 AM               941 security-kerberos-dl.man
+02/28/2006  03:00 AM             2,813 security-ntlm-dl.man
+02/28/2006  03:00 AM             5,392 shell32-dl.man
+02/28/2006  03:00 AM             1,044 shmig-dl.man
+02/28/2006  03:00 AM             1,082 shutdown-event-tracker-dl.man
+02/28/2006  03:00 AM            15,040 smbserver-dl.man
+02/28/2006  03:00 AM             1,531 snis-dl.man
+02/28/2006  03:00 AM             2,150 snmp-dl.man
+02/28/2006  03:00 AM             2,155 speechcommon-dl.man
+02/28/2006  03:00 AM             3,908 sua-dl.man
+02/28/2006  03:00 AM             1,198 tabletpc-tabbtn-dl.man
+02/28/2006  03:00 AM             1,122 tabletpcinputpanel-dl.man
+02/28/2006  03:00 AM             5,571 tcpip-dl.man
+02/28/2006  03:00 AM             4,520 telnet-server-dl.man
+02/28/2006  03:00 AM             2,140 temp-pacifictimezone-dl.man
+02/28/2006  03:00 AM            22,440 terminalservices-rdp-winstationextensions-dl.man
+02/28/2006  03:00 AM             1,606 terminalservices-terminalservicesclient-dl.man
+02/28/2006  03:00 AM             3,267 time-service-dl.man
+02/28/2006  03:00 AM             1,326 unimodem-config-dl.man
+02/28/2006  03:00 AM             1,629 web-services-for-management-core-dl.man
+02/28/2006  03:00 AM             1,151 webenroll-dl.man
+02/28/2006  03:00 AM             1,943 winhttp51-dl.man
+02/28/2006  03:00 AM             2,304 wmdmigration.man
+02/28/2006  03:00 AM               818 wmi-core-dl.man
+02/28/2006  03:00 AM             1,168 workstationservice-dl.man
+02/28/2006  03:00 AM             1,368 wsinfra-upgrade-dl.man
+02/28/2006  03:00 AM             5,105 wsrm-service-dl.man
+             162 File(s)        536,792 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-adfs-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            79,872 adfsmig.dll
+               1 File(s)         79,872 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-com-complus-setup-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           326,144 comsetup.dll
+               1 File(s)        326,144 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-com-dtc-setup-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            50,176 msdtcstp.dll
+               1 File(s)         50,176 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-dhcpservermigplugin-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           125,440 dhcpsrvmigplugin.dll
+               1 File(s)        125,440 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-directoryservices-adam-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           132,096 adammigrate.dll
+               1 File(s)        132,096 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-gameuxmig-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            12,288 gameuxmig.dll
+               1 File(s)         12,288 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-iasserver-migplugin
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           579,072 iasmigplugin.dll
+               1 File(s)        579,072 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-iis-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           117,248 iismig.dll
+               1 File(s)        117,248 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-mediaplayer
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           545,792 mediaplayer-dlmigplugin.dll
+               1 File(s)        545,792 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-mediaplayer-drm-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           248,320 drmmgrtn.dll
+               1 File(s)        248,320 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-msmq-messagingcoreservice
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           120,832 mqmigplugin.dll
+               1 File(s)        120,832 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-ndis
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           124,416 ndismigplugin.dll
+               1 File(s)        124,416 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-network-security-domain-clients-svc
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           322,048 polstore.dll
+               1 File(s)        322,048 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-offlinefiles-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           142,336 cscmig.dll
+               1 File(s)        142,336 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-performancecounterinfrastructure-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           120,320 cntrtextmig.dll
+               1 File(s)        120,320 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-performancecounterinfrastructureconsumer-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            91,648 plamig.dll
+               1 File(s)         91,648 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-rasapi
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           117,760 pbkmigr.dll
+               1 File(s)        117,760 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-rasconnectionmanager
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            46,080 cmmigr.dll
+               1 File(s)         46,080 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-rasserver-migplugin
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           168,448 rasmigplugin.dll
+               1 File(s)        168,448 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-shmig-dl
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM            50,176 shmig.dll
+               1 File(s)         50,176 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-sxs
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           131,072 sxsmigplugin.dll
+               1 File(s)        131,072 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-tapisetup
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           100,352 tapimigplugin.dll
+               1 File(s)        100,352 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-unimodem-config
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           135,168 modemmigplugin.dll
+               1 File(s)        135,168 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-winsock-core-infrastructure-upgrade
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           137,216 wsupgrade.dll
+               1 File(s)        137,216 bytes
+
+ Directory of F:\sources\dlmanifests\microsoft-windows-wmi-core
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           634,368 wmimigrationplugin.dll
+               1 File(s)        634,368 bytes
+
+ Directory of F:\sources\dlmanifests\networking-mpssvc-svc
+
+06/07/2006  09:01 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM           104,448 icfupgd.dll
+               1 File(s)        104,448 bytes
+
+ Directory of F:\sources\en-us
+
+06/07/2006  09:00 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+02/28/2006  03:00 AM             5,120 arunres.dll.mui
+02/28/2006  03:00 AM            23,552 input.dll.mui
+02/28/2006  03:00 AM             5,632 pkgmgr.exe.mui
+02/28/2006  03:00 AM             3,072 pnpibs.dll.mui
+06/07/2006  09:00 PM    <DIR>          servicing
+02/28/2006  03:00 AM             9,216 setup.exe.mui
+02/28/2006  03:00 AM             6,144 spwizres.dll.mui
+02/28/2006  03:00 AM           188,416 w32uires.dll.mui
+02/28/2006  03:00 AM             3,072 wdsclient.dll.mui
+02/28/2006  03:00 AM             3,584 wdsimage.dll.mui
+02/28/2006  03:00 AM            30,208 winsetup.dll.mui
+              10 File(s)        278,016 bytes
+
+ Directory of F:\sources\en-us\servicing
+
+06/07/2006  09:00 PM    <DIR>          .
+06/07/2006  09:00 PM    <DIR>          ..
+06/07/2006  09:00 PM    <DIR>          0.0.0.1
+02/28/2006  03:00 AM            90,112 msxml6r.dll.mui
+02/28/2006  03:00 AM             3,072 trustedinstaller.exe.mui
+               2 File(s)         93,184 bytes
+
+ Directory of F:\sources\en-us\servicing\0.0.0.1
+
+06/07/2006  09:00 PM    <DIR>          .
+06/07/2006  09:00 PM    <DIR>          ..
+02/28/2006  03:00 AM             4,608 cbscore.dll.mui
+02/28/2006  03:00 AM             3,072 wcp.dll.mui
+               2 File(s)          7,680 bytes
+
+ Directory of F:\sources\servicing
+
+06/07/2006  09:00 PM    <DIR>          .
+06/07/2006  09:01 PM    <DIR>          ..
+06/07/2006  09:00 PM    <DIR>          0.0.0.1
+02/28/2006  03:00 AM            13,312 cbsapi.dll
+02/28/2006  03:00 AM           231,424 dpx.dll
+02/28/2006  03:00 AM         1,318,912 msxml6.dll
+02/28/2006  03:00 AM             2,560 msxml6r.dll
+02/28/2006  03:00 AM           781,824 smiengine.dll
+02/28/2006  03:00 AM            20,992 trustedinstaller.exe
+               6 File(s)      2,369,024 bytes
+
+ Directory of F:\sources\servicing\0.0.0.1
+
+06/07/2006  09:00 PM    <DIR>          .
+06/07/2006  09:00 PM    <DIR>          ..
+02/28/2006  03:00 AM           337,920 cbscore.dll
+02/28/2006  03:00 AM            99,840 cmiadapter.dll
+02/28/2006  03:00 AM         2,041,344 cmiv2.dll
+02/28/2006  03:00 AM           211,456 cntrtextinstaller.dll
+02/28/2006  03:00 AM         1,898,700 globalinstallorder.xml
+02/28/2006  03:00 AM           226,304 rescinst.dll
+02/28/2006  03:00 AM            43,520 smipi.dll
+02/28/2006  03:00 AM         1,282,560 wcp.dll
+02/28/2006  03:00 AM           116,224 xmllite.dll
+               9 File(s)      6,257,868 bytes
+
+ Directory of F:\support
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+06/07/2006  09:04 PM    <DIR>          setup
+06/07/2006  09:04 PM    <DIR>          tools
+               0 File(s)              0 bytes
+
+ Directory of F:\support\setup
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:04 PM    <DIR>          ..
+06/07/2006  09:04 PM    <DIR>          usmt
+               0 File(s)              0 bytes
+
+ Directory of F:\support\setup\usmt
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:04 PM    <DIR>          ..
+02/28/2006  03:00 AM           208,384 cmi2migxml.dll
+02/28/2006  03:00 AM           375,808 csiagent.dll
+06/07/2006  09:04 PM    <DIR>          dlmanifests
+02/28/2006  03:00 AM           183,808 loadstate.exe
+02/28/2006  03:00 AM           488,562 migapp.xml
+02/28/2006  03:00 AM         6,706,688 migcore.dll
+02/28/2006  03:00 AM           120,832 migisol.dll
+02/28/2006  03:00 AM           257,024 migsys.dll
+02/28/2006  03:00 AM           145,355 migsys.xml
+02/28/2006  03:00 AM            28,536 miguser.xml
+02/28/2006  03:00 AM           251,904 mxeagent.dll
+02/28/2006  03:00 AM           182,784 scanstate.exe
+02/28/2006  03:00 AM           835,700 sflist2k.dat
+02/28/2006  03:00 AM         1,172,508 sflistlh.dat
+02/28/2006  03:00 AM           987,836 sflistxp.dat
+02/28/2006  03:00 AM             8,093 sfpat.inf
+02/28/2006  03:00 AM             2,917 sfpatlh.inf
+02/28/2006  03:00 AM             2,811 sfpatxp.inf
+02/28/2006  03:00 AM           834,560 unbcl.dll
+02/28/2006  03:00 AM           287,744 wdscore.dll
+              19 File(s)     13,081,854 bytes
+
+ Directory of F:\support\setup\usmt\dlmanifests
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:04 PM    <DIR>          ..
+02/28/2006  03:00 AM             3,796 accessibilitycpl-dl.man
+02/28/2006  03:00 AM             1,293 activedirectory-wmireplicationprovider-dl.man
+02/28/2006  03:00 AM             3,142 adfs-dl.man
+02/28/2006  03:00 AM             3,388 adsi-ldap-extensions-dl.man
+02/28/2006  03:00 AM             1,321 adsi-ldap-provider-dl.man
+02/28/2006  03:00 AM             1,552 adsi-router-dl.man
+02/28/2006  03:00 AM             1,287 adsi-winnt-provider-dl.man
+02/28/2006  03:00 AM             1,811 application_experience-infrastructure-dl.man
+02/28/2006  03:00 AM             4,176 browserservice-dl.man
+02/28/2006  03:00 AM             3,754 capi2_certs-dl.man
+02/28/2006  03:00 AM             1,307 coreos-dl.man
+02/28/2006  03:00 AM             2,140 credential-manager-dl.man
+02/28/2006  03:00 AM             3,373 crypto_keys-dl.man
+02/28/2006  03:00 AM             6,088 dfsserverservice-dl.man
+02/28/2006  03:00 AM             3,319 dhcpservermigplugin-dl.man
+02/28/2006  03:00 AM             2,020 directoryservices-adam-dl.man
+02/28/2006  03:00 AM             1,951 directoryservices-domain-dl.man
+02/28/2006  03:00 AM             3,456 dns-client-dl.man
+02/28/2006  03:00 AM             1,575 dns-server-service-dl.man
+02/28/2006  03:00 AM             1,574 dpapi_keys-dl.man
+02/28/2006  03:00 AM             1,015 drm-dl.man
+02/28/2006  03:00 AM             6,474 ehome-reg-inf-dl.man
+02/28/2006  03:00 AM             1,823 evntagnt-dl.man
+02/28/2006  03:00 AM             2,347 explorer-dl.man
+02/28/2006  03:00 AM             1,405 feclient-dl.man
+02/28/2006  03:00 AM             1,655 font-base_layer-dl.man
+02/28/2006  03:00 AM             1,562 gameuxmig-dl.man
+02/28/2006  03:00 AM             1,090 http-dl.man
+02/28/2006  03:00 AM             3,851 iasmigplugin-dl.man
+02/28/2006  03:00 AM             1,532 international-core-dl.man
+02/28/2006  03:00 AM             1,782 international-systemlocale-dl.man
+02/28/2006  03:00 AM            13,852 international-timezones-dl.man
+02/28/2006  03:00 AM            13,616 international-timezones-resources-dl.man
+02/28/2006  03:00 AM             1,328 international-userlocale-dl.man
+02/28/2006  03:00 AM             2,756 ipsec-svc-dl.man
+02/28/2006  03:00 AM             5,318 jet2x3x-dl.man
+02/28/2006  03:00 AM             6,267 jetcore-dl.man
+02/28/2006  03:00 AM             5,984 jetexcel-dl.man
+02/28/2006  03:00 AM             8,107 jetexchlotus-dl.man
+02/28/2006  03:00 AM             6,145 jettext-dl.man
+02/28/2006  03:00 AM            13,268 jetxbasepdx-dl.man
+02/28/2006  03:00 AM               929 kerberos-key-distribution-center-dl.man
+02/28/2006  03:00 AM             1,054 ldap-client-dl.man
+02/28/2006  03:00 AM             1,322 microsoft-windows-certificateservices-ca-dl.man
+02/28/2006  03:00 AM             1,168 microsoft-windows-certificateservices-mscep-dl.man
+02/28/2006  03:00 AM             2,354 microsoft-windows-dfsr-core-dl.man
+02/28/2006  03:00 AM             1,115 microsoft-windows-dot3svc-dl.man
+02/28/2006  03:00 AM             3,623 microsoft-windows-fax-client-applications-dl.man
+02/28/2006  03:00 AM             4,095 microsoft-windows-fax-common-dl.man
+02/28/2006  03:00 AM             6,424 microsoft-windows-fax-service-dl.man
+02/28/2006  03:00 AM               935 microsoft-windows-htmlhelp-dl.man
+02/28/2006  03:00 AM            20,287 microsoft-windows-ie-clientnetworkprotocolimplementation-dl.man
+02/28/2006  03:00 AM             1,689 microsoft-windows-ie-internetexplorer-dl.man
+02/28/2006  03:00 AM             2,275 microsoft-windows-iis-asp-deployment-dl.man
+02/28/2006  03:00 AM             2,341 microsoft-windows-iis-basicauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,275 microsoft-windows-iis-cgi-deployment-dl.man
+02/28/2006  03:00 AM             2,421 microsoft-windows-iis-clientcertificatemappingauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-customlogging-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-defaultdocument-deployment-dl.man
+02/28/2006  03:00 AM             2,345 microsoft-windows-iis-digestauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,333 microsoft-windows-iis-directorybrowsing-deployment-dl.man
+02/28/2006  03:00 AM             2,217 microsoft-windows-iis-ftpmanagement-deployment-dl.man
+02/28/2006  03:00 AM             2,304 microsoft-windows-iis-ftpserver-deployment-dl.man
+02/28/2006  03:00 AM             2,355 microsoft-windows-iis-httpcompressiondynamic-deployment-dl.man
+02/28/2006  03:00 AM             2,351 microsoft-windows-iis-httpcompressionstatic-deployment-dl.man
+02/28/2006  03:00 AM             2,305 microsoft-windows-iis-httperrors-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-httplogging-deployment-dl.man
+02/28/2006  03:00 AM             2,313 microsoft-windows-iis-httpredirect-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-httptracing-deployment-dl.man
+02/28/2006  03:00 AM             2,409 microsoft-windows-iis-iiscertificatemappingauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,305 microsoft-windows-iis-ipsecurity-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-isapiextensions-deployment-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-isapifilter-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-legacyscripts-deployment-dl.man
+02/28/2006  03:00 AM             2,215 microsoft-windows-iis-legacysnapin-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-logginglibraries-deployment-dl.man
+02/28/2006  03:00 AM             2,233 microsoft-windows-iis-managementconsole-deployment-dl.man
+02/28/2006  03:00 AM             2,363 microsoft-windows-iis-managementscriptingtools-deployment-dl.man
+02/28/2006  03:00 AM             2,333 microsoft-windows-iis-managementservice-deployment-dl.man
+02/28/2006  03:00 AM             2,541 microsoft-windows-iis-metabase-dl.man
+02/28/2006  03:00 AM             2,309 microsoft-windows-iis-odbclogging-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-requestfiltering-deployment-dl.man
+02/28/2006  03:00 AM             2,321 microsoft-windows-iis-requestmonitor-deployment-dl.man
+02/28/2006  03:00 AM             2,339 microsoft-windows-iis-serversideincludes-deployment-dl.man
+02/28/2006  03:00 AM             2,317 microsoft-windows-iis-staticcontent-deployment-dl.man
+02/28/2006  03:00 AM             2,325 microsoft-windows-iis-urlauthorization-deployment-dl.man
+02/28/2006  03:00 AM             2,349 microsoft-windows-iis-windowsauthentication-deployment-dl.man
+02/28/2006  03:00 AM             2,329 microsoft-windows-iis-wmicompatibility-deployment-dl.man
+02/28/2006  03:00 AM             1,478 microsoft-windows-mail-dl.man
+02/28/2006  03:00 AM             4,865 microsoft-windows-mediaplayer-migration-dl.man
+02/28/2006  03:00 AM            56,108 microsoft-windows-netfxcorecomp-dl.man
+02/28/2006  03:00 AM             1,663 microsoft-windows-offlinefiles-dl.man
+02/28/2006  03:00 AM             1,726 microsoft-windows-sharedaccess-dl.man
+02/28/2006  03:00 AM               865 microsoft-windows-sxs-dl.man
+02/28/2006  03:00 AM             2,320 microsoft-windows-tapisetup-dl.man
+02/28/2006  03:00 AM             1,348 microsoft-windows-wab-dl.man
+02/28/2006  03:00 AM             2,337 microsoft-windows-was-configurationapi-dl.man
+02/28/2006  03:00 AM             2,337 microsoft-windows-was-netfxenvironment-dl.man
+02/28/2006  03:00 AM             2,321 microsoft-windows-was-processmodel-dl.man
+02/28/2006  03:00 AM             4,400 microsoft-windows-wlansvc-dl.man
+02/28/2006  03:00 AM             1,490 microsoft.windows.com.complus.setup.dl.man
+02/28/2006  03:00 AM             1,018 microsoft.windows.com.dtc.runtime-dl.man
+02/28/2006  03:00 AM             1,275 moviemaker-migration-dl.man
+02/28/2006  03:00 AM             1,130 msmq-cluster-dl.man
+02/28/2006  03:00 AM             2,017 msmq-domain-ic-dl.man
+02/28/2006  03:00 AM             1,607 msmq-downlevelclient-dl.man
+02/28/2006  03:00 AM             1,757 msmq-http-dl.man
+02/28/2006  03:00 AM             5,928 msmq-messagingcoreservice-dl.man
+02/28/2006  03:00 AM             1,525 msmq-routing-dl.man
+02/28/2006  03:00 AM             1,123 msmq-triggers-cluster-dl.man
+02/28/2006  03:00 AM             1,450 msmq-triggers-dl.man
+02/28/2006  03:00 AM             1,682 ndis-dl.man
+02/28/2006  03:00 AM             1,397 netlogon-dl.man
+02/28/2006  03:00 AM             1,765 networking-mpssvc-svc-dl.man
+02/28/2006  03:00 AM             1,448 odbc32dll-dl.man
+02/28/2006  03:00 AM               969 peertopeeradmin-dl.man
+02/28/2006  03:00 AM             1,336 peertopeerbase-dl.man
+02/28/2006  03:00 AM             1,199 peertopeergraphing-dl.man
+02/28/2006  03:00 AM             1,486 peertopeergrouping-dl.man
+02/28/2006  03:00 AM               973 peertopeeridmanager-dl.man
+02/28/2006  03:00 AM             2,201 peertopeerpnrp-dl.man
+02/28/2006  03:00 AM             1,078 performancecounterinfrastructure-dl.man
+02/28/2006  03:00 AM             1,341 performancecounterinfrastructureconsumer-dl.man
+02/28/2006  03:00 AM             2,290 printing-spooler-core-dl.man
+02/28/2006  03:00 AM             1,976 printing-spooler-networkclient-dl.man
+02/28/2006  03:00 AM             2,048 psync-dl.man
+02/28/2006  03:00 AM             1,513 rasapi-dl.man
+02/28/2006  03:00 AM               938 rascmak-dl.man
+02/28/2006  03:00 AM             1,588 rasconnectionmanager-dl.man
+02/28/2006  03:00 AM            23,937 rasservermigplugin-dl.man
+02/28/2006  03:00 AM             1,778 remoteassistance-dl.man
+02/28/2006  03:00 AM             2,364 rights-management-client-v1-api-dl.man
+02/28/2006  03:00 AM             2,285 schannel-dl.man
+02/28/2006  03:00 AM             1,522 schedsvc-dl.man
+02/28/2006  03:00 AM               971 security-digest-dl.man
+02/28/2006  03:00 AM               941 security-kerberos-dl.man
+02/28/2006  03:00 AM             2,813 security-ntlm-dl.man
+02/28/2006  03:00 AM             5,392 shell32-dl.man
+02/28/2006  03:00 AM             1,044 shmig-dl.man
+02/28/2006  03:00 AM             1,082 shutdown-event-tracker-dl.man
+02/28/2006  03:00 AM            15,040 smbserver-dl.man
+02/28/2006  03:00 AM             1,531 snis-dl.man
+02/28/2006  03:00 AM             2,150 snmp-dl.man
+02/28/2006  03:00 AM             2,155 speechcommon-dl.man
+02/28/2006  03:00 AM             3,908 sua-dl.man
+02/28/2006  03:00 AM             1,198 tabletpc-tabbtn-dl.man
+02/28/2006  03:00 AM             1,122 tabletpcinputpanel-dl.man
+02/28/2006  03:00 AM             5,571 tcpip-dl.man
+02/28/2006  03:00 AM             4,520 telnet-server-dl.man
+02/28/2006  03:00 AM             2,140 temp-pacifictimezone-dl.man
+02/28/2006  03:00 AM            22,440 terminalservices-rdp-winstationextensions-dl.man
+02/28/2006  03:00 AM             1,606 terminalservices-terminalservicesclient-dl.man
+02/28/2006  03:00 AM             3,267 time-service-dl.man
+02/28/2006  03:00 AM             1,326 unimodem-config-dl.man
+02/28/2006  03:00 AM             1,629 web-services-for-management-core-dl.man
+02/28/2006  03:00 AM             1,151 webenroll-dl.man
+02/28/2006  03:00 AM             1,943 winhttp51-dl.man
+02/28/2006  03:00 AM             2,304 wmdmigration.man
+02/28/2006  03:00 AM               818 wmi-core-dl.man
+02/28/2006  03:00 AM             1,168 workstationservice-dl.man
+02/28/2006  03:00 AM             1,368 wsinfra-upgrade-dl.man
+02/28/2006  03:00 AM             5,105 wsrm-service-dl.man
+             162 File(s)        536,792 bytes
+
+ Directory of F:\support\tools
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:04 PM    <DIR>          ..
+02/28/2006  03:00 AM            30,208 gbunicnv.exe
+               1 File(s)         30,208 bytes
+
+ Directory of F:\upgrade
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:07 PM    <DIR>          ..
+06/07/2006  09:04 PM    <DIR>          netfx
+               0 File(s)              0 bytes
+
+ Directory of F:\upgrade\netfx
+
+06/07/2006  09:04 PM    <DIR>          .
+06/07/2006  09:04 PM    <DIR>          ..
+02/28/2006  03:00 AM         5,922,304 netfx.msi
+02/28/2006  03:00 AM        14,638,644 netfx1.cab
+               2 File(s)     20,560,948 bytes
+
+     Total Files Listed:
+             548 File(s)  2,391,239,381 bytes
+             159 Dir(s)               0 bytes free

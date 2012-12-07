@@ -1,0 +1,78 @@
+Folder PATH listing for volume Microsoft office
+Volume serial number is DAA5-3B3A
+J:\
+|   Keymaker.exe
+|   
+\---_OFFICE
+    |   OWC10.MSI
+    |   OWC11.MSI
+    |   PRO11.MSI
+    |   README.HTM
+    |   SETUP.EXE
+    |   SETUP.HTM
+    |   
+    +---FILES
+    |   +---ACCRT
+    |   |       ACCESSRT.MSI
+    |   |       
+    |   +---OWC10
+    |   |       SETUP.EXE
+    |   |       SETUP.INI
+    |   |       
+    |   +---OWC11
+    |   |       SETUP.EXE
+    |   |       SETUP.INI
+    |   |       
+    |   +---PFILES
+    |   |   +---COMMON
+    |   |   |   \---MSSHARED
+    |   |   |       \---DW
+    |   |   |           |   DW20.EXE
+    |   |   |           |   DWDCW20.DLL
+    |   |   |           |   DWTRIG20.EXE
+    |   |   |           |   
+    |   |   |           \---1033
+    |   |   |                   DWINTL20.DLL
+    |   |   |                   
+    |   |   \---MSOFFICE
+    |   |       \---OFFICE11
+    |   |           |   OCLEAN.DLL
+    |   |           |   OCLNCORE.OPC
+    |   |           |   OCLNCUST.OPC
+    |   |           |   OFFCLN.EXE
+    |   |           |   
+    |   |           \---1033
+    |   |                   ACREADME.HTM
+    |   |                   FILTERS.TXT
+    |   |                   INREADME.HTM
+    |   |                   OCLNINTL.OPC
+    |   |                   OFREADME.HTM
+    |   |                   OLREADME.HTM
+    |   |                   PBREADME.HTM
+    |   |                   PPREADME.HTM
+    |   |                   PSS10O.CHM
+    |   |                   PSS10R.CHM
+    |   |                   PVREADME.HTM
+    |   |                   SETUP.CHM
+    |   |                   WDREADME.HTM
+    |   |                   XLREADME.HTM
+    |   |                   
+    |   +---SETUP
+    |   |       OSE.EXE
+    |   |       OWC10.XML
+    |   |       OWC11.XML
+    |   |       PRO11.XML
+    |   |       SETUP.INI
+    |   |       
+    |   \---WINDOWS
+    |       \---INF
+    |               AER_1033.ADM
+    |               
+    +---MSDE2000
+    |       MSDE2KS3.EXE
+    |       
+    \---Up-Date
+            Office2003SP2-KB887616-Client-ENU.exe
+            Sounds.EXE
+            Visio2003SP2-KB887622-FullFile-ENU.exe
+            

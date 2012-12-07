@@ -1,0 +1,26 @@
+[Config]
+Relative path=1
+Compilator.FileName=C:\Python25\python.exe
+Compilator.DefaultDir=C:\Python25
+Compilator.SaveAll=1
+Compilator.Capture=1
+Compilator.HideOutput=0
+DefaultDir=E:\CD_DVD_LIST
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+DocumentRoot=E:\CD_DVD_LIST
+HTServer=localhost
+[Project tree]
+CDLIST
+	+Folder
+		MyFileBank.py
+[Open project files]
+0=MyFileBank.py
+[Selected Project Files]
+Main=
+Selected=MyFileBank.py
+[MyFileBank.py]
+TopLine=354
+Caret=48,369

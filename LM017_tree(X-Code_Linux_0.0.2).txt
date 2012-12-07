@@ -1,0 +1,41 @@
+Folder PATH listing for volume x-code_Linux
+Volume serial number is 072E-8ACD
+J:\
++---boot
+\---xcode
+    |   LICENSE
+    |   livecd.sgn
+    |   make_iso.bat
+    |   make_iso.sh
+    |   
+    +---base
+    |       bin.lzm
+    |       etc.lzm
+    |       home.lzm
+    |       lib.lzm
+    |       opt.lzm
+    |       root.lzm
+    |       sbin.lzm
+    |       srv.lzm
+    |       usr.lzm
+    |       var.lzm
+    |       
+    +---modules
+    +---optional
+    +---rootcopy
+    \---tools
+        |   activate
+        |   deactivate
+        |   deb2lzm
+        |   dir2lzm
+        |   liblinuxlive
+        |   lzm2dir
+        |   mksquashfs
+        |   tgz2lzm
+        |   unsquashfs
+        |   
+        \---WIN
+                config
+                cygwin1.dll
+                mkisofs.exe
+                

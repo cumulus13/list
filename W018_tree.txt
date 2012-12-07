@@ -1,0 +1,1707 @@
+Folder PATH listing for volume SoftwareDisc
+Volume serial number is 3D20-7D13
+G:\
+|   Autorun.inf
+|   Launcher.exe
+|   Nero.ico
+|   setup.exe
+|   setupx.exe
+|   
++---Common Files
+|   +---AudioPlugins
+|   |   |   Aac.dll.cab
+|   |   |   Aiff.dll.cab
+|   |   |   DefConvertor.dll.cab
+|   |   |   Downloaders.dll.cab
+|   |   |   TWINVQ2.CDB.cab
+|   |   |   Vqf.dll.cab
+|   |   |   VqfDecLib.dll.cab
+|   |   |   VqfEncLib.dll.cab
+|   |   |   VqfEncLib1.dll.cab
+|   |   |   aacenc32.dll.cab
+|   |   |   lame_enc.dll.cab
+|   |   |   midi.dll.cab
+|   |   |   mp3PP.dll.cab
+|   |   |   mp3PRO.dll.cab
+|   |   |   mp3PRO_dmo.dll.cab
+|   |   |   mp3PRO_hlp.dll.cab
+|   |   |   msa.dll.cab
+|   |   |   ogg.dll.cab
+|   |   |   video.dll.cab
+|   |   |   wav.dll.cab
+|   |   |   
+|   |   \---msa7
+|   |           msa.dll.cab
+|   |           
+|   +---DSFilters
+|   |       NDParser.ax.cab
+|   |       NeAMR.dll.cab
+|   |       NeAudCD.ax.cab
+|   |       NeAudio.ax.cab
+|   |       NeAudioConv.ax.cab
+|   |       NeCapture.ax.cab
+|   |       NeDVD.ax.cab
+|   |       NeDVSplitter.ax.cab
+|   |       NeFSource.ax.cab
+|   |       NeFileSourceAsync.ax.cab
+|   |       NeFileSrc.ax.cab
+|   |       NeNDAud.ax.cab
+|   |       NeNDGui.dll.cab
+|   |       NeNDMux.ax.cab
+|   |       NeNDVid.ax.cab
+|   |       NePSMuxer.ax.cab
+|   |       NePhotoSource.ax.cab
+|   |       NeQTDec.ax.cab
+|   |       NeRender.ax.cab
+|   |       NeSceneDetector.ax.cab
+|   |       NeSplitter.ax.cab
+|   |       NeVCR.ax.cab
+|   |       NeVcd.ax.cab
+|   |       NeVideo.ax.cab
+|   |       NeVideoAnalyzer.ax.cab
+|   |       NeroFormatConv.ax.cab
+|   |       NeroVideoProc.ax.cab
+|   |       aacplus.dll.cab
+|   |       dvddisc.dll.cab
+|   |       ndvddisc.dll.cab
+|   |       neroadb.dll.cab
+|   |       neroapl.dll.cab
+|   |       
+|   \---Lib
+|           AdvrCntr.dll.cab
+|           DriveLocker.dll.cab
+|           MultiChannel.dll.cab
+|           NeAcEnc.dll.cab
+|           NeEm2a.dll.cab
+|           NeVcr.dll.cab
+|           NeroCBUI.dll.cab
+|           NeroIPP.dll.cab
+|           NeroMediaCon.dll.cab
+|           apreg.dll.cab
+|           em2v.dll.cab
+|           specialoffer.exe.cab
+|           
++---InCD 4
+|   |   Setupx.cfg
+|   |   Setupx.exe
+|   |   
+|   +---InCD
+|   |       Error.log.cab
+|   |       InCD 4 - FAQ.html.cab
+|   |       InCD_chs.chm
+|   |       InCD_cht.chm
+|   |       InCD_deu.chm
+|   |       InCD_eng.chm
+|   |       InCD_esp.chm
+|   |       InCD_fra.chm
+|   |       InCD_ita.chm
+|   |       InCD_jpn.chm
+|   |       InCD_kor.chm
+|   |       InCD_nld.chm
+|   |       InCD_ptg.chm
+|   |       InCD_sve.chm
+|   |       dma.bin.cab
+|   |       gaa.bin.cab
+|   |       incd1252.txt.cab
+|   |       lgc.bin.cab
+|   |       shared.txt.cab
+|   |       
+|   +---Redist
+|   |       ShFolder.exe
+|   |       mfc42.dll
+|   |       msvcrt.dll
+|   |       
+|   +---Setup
+|   |       Eula_chs.txt
+|   |       Eula_cht.txt
+|   |       Eula_deu.txt
+|   |       Eula_eng.txt
+|   |       Eula_enu.txt
+|   |       Eula_esp.txt
+|   |       Eula_fra.txt
+|   |       Eula_ita.txt
+|   |       Eula_jpn.txt
+|   |       Eula_kor.txt
+|   |       Eula_nld.txt
+|   |       Eula_ptg.txt
+|   |       Eula_sve.txt
+|   |       shortcut.dll
+|   |       
+|   +---Sharedi386
+|   |       InCDL.exe.cab
+|   |       incdshx.dll.cab
+|   |       
+|   +---i386
+|   |       InCD.exe
+|   |       InCDFat.sys.cab
+|   |       InCDFatRec.sys.cab
+|   |       InCDfs.sys.cab
+|   |       InCDpass.sys.cab
+|   |       InCDrec.sys.cab
+|   |       InCDrm.sys
+|   |       InCDsrv.exe.cab
+|   |       SrvError.Log.cab
+|   |       incdapi.dll.cab
+|   |       
+|   \---w9x
+|           InCD.exe
+|           InCDrm.vxd
+|           bsudf.vxd.cab
+|           incdapi.dll.cab
+|           incdfs.vxd.cab
+|           incdpass.vxd.cab
+|           
++---InCD Reader
+|   |   Setupx.cfg
+|   |   Setupx.exe
+|   |   
+|   +---InCD
+|   |       incd1252.txt.cab
+|   |       shared.txt.cab
+|   |       
+|   +---Redist
+|   |       mfc42.dll
+|   |       msvcrt.dll
+|   |       
+|   +---Setup
+|   |       Eula_chs.txt
+|   |       Eula_cht.txt
+|   |       Eula_deu.txt
+|   |       Eula_eng.txt
+|   |       Eula_enu.txt
+|   |       Eula_esp.txt
+|   |       Eula_fra.txt
+|   |       Eula_ita.txt
+|   |       Eula_jpn.txt
+|   |       Eula_kor.txt
+|   |       Eula_nld.txt
+|   |       Eula_ptg.txt
+|   |       Eula_sve.txt
+|   |       
+|   +---Sharedi386
+|   |       incdshx.dll.cab
+|   |       
+|   +---W9x
+|   |       InCDpard.vxd
+|   |       InCDrm.vxd
+|   |       InCDudfr.vxd
+|   |       
+|   \---i386
+|           InCD.exe
+|           InCDFat.sys.cab
+|           InCDFatRec.sys.cab
+|           InCDfs.sys.cab
+|           InCDpass.sys.cab
+|           InCDrec.sys.cab
+|           InCDrm.sys
+|           InCDsrv.exe
+|           incdapi.dll.cab
+|           
++---Nero
+|   |   Setupx.cfg
+|   |   Setupx.exe
+|   |   
+|   +---CoverDesigner
+|   |   |   CoverDes.exe.cab
+|   |   |   CoverEdCtrl.ocx.cab
+|   |   |   NeroCoverDesigner_chs.chm
+|   |   |   NeroCoverDesigner_cht.chm
+|   |   |   NeroCoverDesigner_deu.chm
+|   |   |   NeroCoverDesigner_eng.chm
+|   |   |   NeroCoverDesigner_esp.chm
+|   |   |   NeroCoverDesigner_fra.chm
+|   |   |   NeroCoverDesigner_ita.chm
+|   |   |   NeroCoverDesigner_jpn.chm
+|   |   |   NeroCoverDesigner_kor.chm
+|   |   |   NeroCoverDesigner_nld.chm
+|   |   |   NeroCoverDesigner_ptg.chm
+|   |   |   NeroCoverDesigner_sve.chm
+|   |   |   covered-chs.nls.cab
+|   |   |   covered-cht.nls.cab
+|   |   |   covered-deu.nls.cab
+|   |   |   covered-esp.nls.cab
+|   |   |   covered-fra.nls.cab
+|   |   |   covered-ita.nls.cab
+|   |   |   covered-jpn.nls.cab
+|   |   |   covered-kor.nls.cab
+|   |   |   covered-nld.nls.cab
+|   |   |   covered-ptg.nls.cab
+|   |   |   covered-sve.nls.cab
+|   |   |   def.dat.cab
+|   |   |   stocks.dat.cab
+|   |   |   
+|   |   +---LSTemplates
+|   |   |       Audio_Content.nct
+|   |   |       Audio_Title.nct
+|   |   |       Audio_TitleMax.nct
+|   |   |       Data_Content.nct
+|   |   |       Data_Title.nct
+|   |   |       Data_TitleMax.nct
+|   |   |       
+|   |   \---Templates
+|   |           AudioData.nct
+|   |           AudioData_B&W.nct
+|   |           AudioData_Classic.nct
+|   |           Audio_Classic.nct
+|   |           Audio_Content.nct
+|   |           Audio_Title.nct
+|   |           Audio_TitleMax.nct
+|   |           DanceHiphop.nct
+|   |           DanceHiphop_B&W.nct
+|   |           Data.nct
+|   |           Data_B&W.nct
+|   |           Data_Classic.nct
+|   |           Data_Content.nct
+|   |           Data_Title.nct
+|   |           Data_TitleMax.nct
+|   |           Jazz_Classical.nct
+|   |           Rock.nct
+|   |           Vocal.nct
+|   |           disco.nct
+|   |           jazz.nct
+|   |           
+|   +---Nero
+|   |   |   AudioPluginMgr.dll.cab
+|   |   |   Boo.wav.cab
+|   |   |   CDCopy.dll.cab
+|   |   |   CDROM.CFG.cab
+|   |   |   CDROM.dll.cab
+|   |   |   DRWEBASE.VDB.cab
+|   |   |   DVDREALLOC.dll.cab
+|   |   |   DingDong.wav.cab
+|   |   |   DosBootimage.IMA.cab
+|   |   |   Drweb32.dll.cab
+|   |   |   Dws114x.dll.cab
+|   |   |   Equalize.dll.cab
+|   |   |   FATImporter.dll.cab
+|   |   |   GENCUSH.dll.cab
+|   |   |   GenFAT.dll.cab
+|   |   |   GenPCHy.dll.cab
+|   |   |   GenUDF.dll.cab
+|   |   |   Generatr.dll.cab
+|   |   |   ISOFS.dll.cab
+|   |   |   ImageGen.dll.cab
+|   |   |   KARAOKE.dll.cab
+|   |   |   MMC.dll.cab
+|   |   |   MPGEnc.dll.cab
+|   |   |   NRESTORE.EXE.cab
+|   |   |   NeHDBlkAccess.dll.cab
+|   |   |   NeMP3Dmo.dll.cab
+|   |   |   NeMP3Hlp.dll.cab
+|   |   |   NeVCDEngine.dll.cab
+|   |   |   Nero.txt.cab
+|   |   |   NeroBurningRom_chs.chm
+|   |   |   NeroBurningRom_cht.chm
+|   |   |   NeroBurningRom_deu.chm
+|   |   |   NeroBurningRom_eng.chm
+|   |   |   NeroBurningRom_esp.chm
+|   |   |   NeroBurningRom_fra.chm
+|   |   |   NeroBurningRom_ita.chm
+|   |   |   NeroBurningRom_jpn.chm
+|   |   |   NeroBurningRom_kor.chm
+|   |   |   NeroBurningRom_nld.chm
+|   |   |   NeroBurningRom_ptb.chm
+|   |   |   NeroBurningRom_ptg.chm
+|   |   |   NeroBurningRom_sve.chm
+|   |   |   NeroCmd.exe.cab
+|   |   |   NeroCom.dll.cab
+|   |   |   NeroExpress_chs.chm
+|   |   |   NeroExpress_cht.chm
+|   |   |   NeroExpress_deu.chm
+|   |   |   NeroExpress_eng.chm
+|   |   |   NeroExpress_esp.chm
+|   |   |   NeroExpress_fra.chm
+|   |   |   NeroExpress_ita.chm
+|   |   |   NeroExpress_jpn.chm
+|   |   |   NeroExpress_kor.chm
+|   |   |   NeroExpress_nld.chm
+|   |   |   NeroExpress_ptg.chm
+|   |   |   NeroExpress_sve.chm
+|   |   |   NeroNet.dll.cab
+|   |   |   Nero_LS_ENG.CHM
+|   |   |   Nerochs.nls.cab
+|   |   |   Nerochs.txt.cab
+|   |   |   Nerocht.nls.cab
+|   |   |   Nerocht.txt.cab
+|   |   |   Nerodeu.nls.cab
+|   |   |   Nerodeu.txt.cab
+|   |   |   Neroesp.nls.cab
+|   |   |   Neroesp.txt.cab
+|   |   |   Nerofra.nls.cab
+|   |   |   Nerofra.txt.cab
+|   |   |   Neroita.nls.cab
+|   |   |   Neroita.txt.cab
+|   |   |   Nerojpn.nls.cab
+|   |   |   Nerojpn.txt.cab
+|   |   |   Nerokor.nls.cab
+|   |   |   Nerokor.txt.cab
+|   |   |   Neronld.nls.cab
+|   |   |   Neronld.txt.cab
+|   |   |   Neroptg.nls.cab
+|   |   |   Neroptg.txt.cab
+|   |   |   Nerosve.nls.cab
+|   |   |   Nerosve.txt.cab
+|   |   |   NetRecorder.dll.cab
+|   |   |   READHD16.dll.cab
+|   |   |   ReadHD32.dll.cab
+|   |   |   TMPVImporter.dll.cab
+|   |   |   Trumpet1.wav.cab
+|   |   |   UDFImporter.dll.cab
+|   |   |   VCDMenu.dll.cab
+|   |   |   VMPEGEnc.dll.cab
+|   |   |   VMPEGEncNDX.dll.cab
+|   |   |   WNASPI32.DLL
+|   |   |   cdr100.dll.cab
+|   |   |   cdr50s.dll.cab
+|   |   |   cdu920.dll.cab
+|   |   |   cr2200cs.dll.cab
+|   |   |   geniso.dll.cab
+|   |   |   image.dll.cab
+|   |   |   ims.dll.cab
+|   |   |   neRSDB.dll.cab
+|   |   |   nero.exe
+|   |   |   neroAPI.dll.cab
+|   |   |   neroDB.dll.cab
+|   |   |   neroErr.dll.cab
+|   |   |   nerocd95.vxd.cab
+|   |   |   neroscsi.dll.cab
+|   |   |   neroshx.dll.cab
+|   |   |   newtrf.dll.cab
+|   |   |   nres_dan.msg.cab
+|   |   |   nres_deu.msg.cab
+|   |   |   nres_eng.msg.cab
+|   |   |   nres_esp.msg.cab
+|   |   |   nres_fin.msg.cab
+|   |   |   nres_fra.msg.cab
+|   |   |   nres_hun.msg.cab
+|   |   |   nres_ita.msg.cab
+|   |   |   nres_jpn.msg.cab
+|   |   |   nres_nld.msg.cab
+|   |   |   nres_nor.msg.cab
+|   |   |   nres_ptg.msg.cab
+|   |   |   nres_rus.msg.cab
+|   |   |   nres_sve.msg.cab
+|   |   |   nres_trk.msg.cab
+|   |   |   nrestore.cfg.cab
+|   |   |   ro1420c.dll.cab
+|   |   |   
+|   |   +---CDI
+|   |   |       CDI_IMAG.RTF.cab
+|   |   |       CDI_TEXT.FNT.cab
+|   |   |       CDI_VCD.APP.cab
+|   |   |       CDI_VCD.CFG
+|   |   |       
+|   |   \---Uninstall
+|   |           UNNero.cfg
+|   |           
+|   +---Nero BackItUp
+|   |       BackItUp-Jpn.nls.cab
+|   |       NBJ-Jpn.nls.cab
+|   |       NBR-Jpn.nls.cab
+|   |       NeroBackItUp_Jpn.chm
+|   |       
+|   +---Nero StartSmart
+|   |       NeroStartSmart.exe.cab
+|   |       NeroStartSmart_chs.chm
+|   |       NeroStartSmart_cht.chm
+|   |       NeroStartSmart_deu.chm
+|   |       NeroStartSmart_eng.chm
+|   |       NeroStartSmart_esp.chm
+|   |       NeroStartSmart_fra.chm
+|   |       NeroStartSmart_ita.chm
+|   |       NeroStartSmart_jpn.chm
+|   |       NeroStartSmart_kor.chm
+|   |       NeroStartSmart_nld.chm
+|   |       NeroStartSmart_ptg.chm
+|   |       NeroStartSmart_sve.chm
+|   |       Sony.oem.cab
+|   |       
+|   +---Nero Toolkit
+|   |       CDSpeed.exe.cab
+|   |       CDSpeed_eng.chm
+|   |       DriveSpeed.exe.cab
+|   |       InfoTool.exe.cab
+|   |       hwinfo.exe.cab
+|   |       
+|   +---Nero Wave Editor
+|   |   |   AudioControls2.ocx.cab
+|   |   |   Axis.ocx.cab
+|   |   |   DXBridge.wpl.cab
+|   |   |   DXEnum.exe.cab
+|   |   |   LEDMeter.ocx.cab
+|   |   |   NeroWaveEditor_chs.chm
+|   |   |   NeroWaveEditor_cht.chm
+|   |   |   NeroWaveEditor_deu.chm
+|   |   |   NeroWaveEditor_eng.chm
+|   |   |   NeroWaveEditor_esp.chm
+|   |   |   NeroWaveEditor_fra.chm
+|   |   |   NeroWaveEditor_ita.chm
+|   |   |   NeroWaveEditor_jpn.chm
+|   |   |   NeroWaveEditor_kor.chm
+|   |   |   NeroWaveEditor_nld.chm
+|   |   |   NeroWaveEditor_ptg.chm
+|   |   |   NeroWaveEditor_sve.chm
+|   |   |   VSTBridge.wpl.cab
+|   |   |   WaveEdit.exe.cab
+|   |   |   vPlugIns.wpl.cab
+|   |   |   vplugins-chs.nls.cab
+|   |   |   vplugins-cht.nls.cab
+|   |   |   vplugins-deu.nls.cab
+|   |   |   vplugins-esp.nls.cab
+|   |   |   vplugins-fra.nls.cab
+|   |   |   vplugins-ita.nls.cab
+|   |   |   vplugins-jpn.nls.cab
+|   |   |   vplugins-kor.nls.cab
+|   |   |   vplugins-nld.nls.cab
+|   |   |   vplugins-ptg.nls.cab
+|   |   |   vplugins-sve.nls.cab
+|   |   |   waveedit-chs.nls.cab
+|   |   |   waveedit-cht.nls.cab
+|   |   |   waveedit-deu.nls.cab
+|   |   |   waveedit-esp.nls.cab
+|   |   |   waveedit-fra.nls.cab
+|   |   |   waveedit-ita.nls.cab
+|   |   |   waveedit-jpn.nls.cab
+|   |   |   waveedit-kor.nls.cab
+|   |   |   waveedit-nld.nls.cab
+|   |   |   waveedit-ptg.nls.cab
+|   |   |   waveedit-sve.nls.cab
+|   |   |   waveedit.dll.cab
+|   |   |   
+|   |   \---Presets
+|   |           1e61b927-8c5044d4-ae889c51-dd586cd3.pre.cab
+|   |           2c7682e2-d38b40b0-afd3ab3f-1119f089.pre.cab
+|   |           36b69eab-4da7410e-a9233458-ff920a91.pre.cab
+|   |           3e837f70-d5764187-951f9de3-34cf0129.pre.cab
+|   |           53e09fcc-6dc04140-9f962ece-93584bc.pre.cab
+|   |           541c03d3-cbfb40c0-b0385740-afec9f4.pre.cab
+|   |           5d1f0052-f8114a9f-9deea25e-39d99e88.pre.cab
+|   |           6073de43-6e416f-90412ea3-2b56d0af.pre.cab
+|   |           73a712b4-d614426e-bd00e28a-2680e483.pre.cab
+|   |           73abe042-a4514a93-853113e3-8a42a686.pre.cab
+|   |           7c25acb5-fb1c458e-87732cad-5b483c26.pre.cab
+|   |           8c3d0948-7044dc-8325bbcd-3a3a56ce.pre.cab
+|   |           9568266b-fc044b76-aad47a1d-2a20fe2c.pre.cab
+|   |           9ccd71-dd314df9-b871a1b2-adb7d13c.pre.cab
+|   |           9d61817f-45664ed8-9445daa0-a46641de.pre.cab
+|   |           a1d2638d-b23f429f-b0afdee5-a3350131.pre.cab
+|   |           ac92b519-53b641d6-89c2ba98-44554b2c.pre.cab
+|   |           b12dd394-8ac74eb1-95c9d1ec-2bf2ee19.pre.cab
+|   |           b18df606-87964fc1-8b5c6414-bbe887a3.pre.cab
+|   |           c62798c7-f50a4226-a88470d-37015a98.pre.cab
+|   |           d8684a6c-a1a14e4a-93c59908-d63ba37e.pre.cab
+|   |           d9608ef8-5d0d4927-a0091465-535f57ed.pre.cab
+|   |           e450dd9d-ff584493-9bfcd356-9d10547c.pre.cab
+|   |           fed38076-c8f547a7-9f8e0da5-8e44486.pre.cab
+|   |           
+|   +---Redist
+|   |       50comupd.exe
+|   |       MSVCP60.DLL
+|   |       WMFADist.exe
+|   |       gdiplus.dll.cab
+|   |       mfc42.DLL
+|   |       msvcrt.dll
+|   |       shfolder.exe
+|   |       wmfdist.exe
+|   |       
+|   +---System
+|   |       ImagX7.dll.cab
+|   |       ImagXR7.dll.cab
+|   |       ImagXRA7.dll.cab
+|   |       ImagXpr7.dll.cab
+|   |       NeroCheck.exe.cab
+|   |       TwnLib20.dll.cab
+|   |       
+|   +---WMPBurn
+|   |       NeroBurnPlugin.dll.cab
+|   |       WMPBurn.exe.cab
+|   |       
+|   +---nero soundtrax
+|   |       EffectCtrl.ocx.cab
+|   |       SoundTrax.exe.cab
+|   |       
+|   \---setup
+|           Eula_chs.txt
+|           Eula_cht.txt
+|           Eula_deu.txt
+|           Eula_eng.txt
+|           Eula_esp.txt
+|           Eula_fra.txt
+|           Eula_ita.txt
+|           Eula_jpn.txt
+|           Eula_kor.txt
+|           Eula_nld.txt
+|           Eula_ptg.txt
+|           Eula_sve.txt
+|           shortcut.dll
+|           
++---Nero BurnRights
+|   |   Setup.cfg
+|   |   Setup.exe
+|   |   
+|   \---NeroBurnRights
+|           NeroBurnRights.cpl.cab
+|           NeroBurnRights.exe
+|           NeroBurnRightsHelp.dll.cab
+|           NeroBurnRights_deu.chm
+|           NeroBurnRights_eng.chm
+|           NeroCo.dll.cab
+|           
++---Nero Media Player
+|   |   Setup.cfg
+|   |   Setup.exe
+|   |   
+|   +---NeroMediaPlayer
+|   |   |   EQUA_ENG.PRF.cab
+|   |   |   NeroMediaPlayer.exe
+|   |   |   NmpChs.nls.cab
+|   |   |   NmpCht.nls.cab
+|   |   |   NmpEsp.nls.cab
+|   |   |   NmpFra.nls.cab
+|   |   |   NmpIta.nls.cab
+|   |   |   NmpJpn.nls.cab
+|   |   |   NmpKor.nls.cab
+|   |   |   NmpNld.nls.cab
+|   |   |   NmpPtg.nls.cab
+|   |   |   NmpSve.nls.cab
+|   |   |   Nmpdeu.nls.cab
+|   |   |   Stream.dll.cab
+|   |   |   dBicons.bmp.cab
+|   |   |   default.BMP.cab
+|   |   |   default.nps.cab
+|   |   |   nmp.spr.cab
+|   |   |   video.ani.cab
+|   |   |   
+|   |   +---Services
+|   |   |       AudioPluginMgr.dll.cab
+|   |   |       CompChs.nls.cab
+|   |   |       CompCht.nls.cab
+|   |   |       CompDeu.nls.cab
+|   |   |       CompEsp.nls.cab
+|   |   |       CompFra.nls.cab
+|   |   |       CompIta.nls.cab
+|   |   |       CompJpn.nls.cab
+|   |   |       CompKor.nls.cab
+|   |   |       CompMem.dll.cab
+|   |   |       CompNld.nls.cab
+|   |   |       CompPtg.nls.cab
+|   |   |       CompSve.nls.cab
+|   |   |       Compilation.exe.cab
+|   |   |       GDIRES16.DLL.cab
+|   |   |       GdiRes32.dll.cab
+|   |   |       InetCdDb.dll.cab
+|   |   |       NMPEqlz.dll.cab
+|   |   |       NeroDb.dll.cab
+|   |   |       
+|   |   +---Skins
+|   |   |       NMPStartSmart.bmp.cab
+|   |   |       NMPStartSmart.nps.cab
+|   |   |       
+|   |   \---api
+|   |           CDCopy.dll.cab
+|   |           CDROM.CFG.cab
+|   |           CDROM.dll.cab
+|   |           Dws114x.dll.cab
+|   |           Generatr.dll.cab
+|   |           ISOFS.dll.cab
+|   |           ImageGen.dll.cab
+|   |           MMC.dll.cab
+|   |           NEROESP.TXT.cab
+|   |           NeRSDB.dll.cab
+|   |           NeroAPI.dll.cab
+|   |           NeroErr.dll.cab
+|   |           NeroKor.txt.cab
+|   |           Nerochs.txt.cab
+|   |           WNASPI32.DLL.cab
+|   |           cdr100.dll.cab
+|   |           cdr50s.dll.cab
+|   |           cdu920.dll.cab
+|   |           cr2200cs.dll.cab
+|   |           geniso.dll.cab
+|   |           image.dll.cab
+|   |           ims.dll.cab
+|   |           nero.txt.cab
+|   |           neroCht.txt.cab
+|   |           neroPtg.txt.cab
+|   |           nerocd95.vxd.cab
+|   |           nerodeu.txt.cab
+|   |           nerofra.txt.cab
+|   |           neroita.txt.cab
+|   |           nerojpn.txt.cab
+|   |           neronld.txt.cab
+|   |           neroscsi.dll.cab
+|   |           nerosve.txt.cab
+|   |           newtrf.dll.cab
+|   |           ro1420c.dll.cab
+|   |           
+|   +---Redist
+|   |       ShFolder.exe
+|   |       WMFADist.exe
+|   |       mfc42.DLL
+|   |       msvcp60.DLL
+|   |       msvcrt.DLL
+|   |       wmfdist.exe
+|   |       
+|   \---Setup
+|           Eula_chs.txt
+|           Eula_cht.txt
+|           Eula_deu.txt
+|           Eula_eng.txt
+|           Eula_enu.txt
+|           Eula_esp.txt
+|           Eula_fra.txt
+|           Eula_ita.txt
+|           Eula_jpn.txt
+|           Eula_kor.txt
+|           Eula_nld.txt
+|           Eula_ptg.txt
+|           Eula_sve.txt
+|           ShortCut.dll
+|           
++---Redist
+|   |   trch._ex
+|   |   
+|   \---Images
+|       +---Bckg
+|       |       backgrnd.bmp
+|       |       nero.bmp
+|       |       unbackgrnd.bmp
+|       |       
+|       +---Info
+|       |       Cool_Main.png
+|       |       Main.png
+|       |       Prog.png
+|       |       
+|       \---Logo
+|           +---Default
+|           |       1.png
+|           |       
+|           +---NMP
+|           |       1.png
+|           |       
+|           \---Nero
+|                   1.png
+|                   2.png
+|                   4.png
+|                   5.png
+|                   6.png
+|                   7.png
+|                   9.png
+|                   99.png
+|                   
++---chinese_s
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222cs.gif
+|               00223cs.gif
+|               00230cs.gif
+|               00240cs.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020cs.gif
+|               i0030cs.gif
+|               i004000.gif
+|               i0050cs.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100cs.gif
+|               i0110cs.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590cs.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---chinese_t
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222ct.gif
+|               00223ct.gif
+|               00230ct.gif
+|               00240ct.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020ct.gif
+|               i0030ct.gif
+|               i004000.gif
+|               i0050ct.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100ct.gif
+|               i0110ct.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590ct.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---dutch
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222nl.gif
+|               00223nl.gif
+|               00230nl.gif
+|               00240nl.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020nl.gif
+|               i0030nl.gif
+|               i004000.gif
+|               i0050nl.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100nl.gif
+|               i0110nl.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590nl.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---english
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222gb.gif
+|               00223gb.gif
+|               00230gb.gif
+|               00240gb.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020gb.gif
+|               i0030gb.gif
+|               i004000.gif
+|               i0050gb.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100gb.gif
+|               i0110gb.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590gb.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---french
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222fr.gif
+|               00223fr.gif
+|               00230fr.gif
+|               00240fr.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020fr.gif
+|               i0030fr.gif
+|               i004000.gif
+|               i0050fr.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100fr.gif
+|               i0110fr.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590fr.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---german
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222de.gif
+|               00223de.gif
+|               00230de.gif
+|               00240de.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020de.gif
+|               i0030de.gif
+|               i004000.gif
+|               i0050de.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100de.gif
+|               i0110de.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590de.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---italian
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222it.gif
+|               00223it.gif
+|               00230it.gif
+|               00240it.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020it.gif
+|               i0030it.gif
+|               i004000.gif
+|               i0050it.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100it.gif
+|               i0110it.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590gb.gif
+|               i0590it.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---japanese
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222.gif
+|               00223.gif
+|               00230.gif
+|               00240.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               copyrght.htm
+|               crxj.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i002000.gif
+|               i003000.gif
+|               i004000.gif
+|               i005000.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i010000.gif
+|               i011000.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i059000.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i141000.gif
+|               i142000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---korean
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222kr.gif
+|               00223kr.gif
+|               00230kr.gif
+|               00240kr.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020kr.gif
+|               i0030kr.gif
+|               i004000.gif
+|               i0050kr.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100kr.gif
+|               i0110kr.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590kr.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---launchres
+|   +---1028
+|   |       LaunchRes.dll
+|   |       
+|   +---1031
+|   |       LaunchRes.dll
+|   |       
+|   +---1033
+|   |       LaunchRes.dll
+|   |       
+|   +---1034
+|   |       LaunchRes.dll
+|   |       
+|   +---1036
+|   |       LaunchRes.dll
+|   |       
+|   +---1040
+|   |       LaunchRes.dll
+|   |       
+|   +---1041
+|   |       LaunchRes.dll
+|   |       
+|   +---1042
+|   |       LaunchRes.dll
+|   |       
+|   +---1043
+|   |       LaunchRes.dll
+|   |       
+|   +---1053
+|   |       LaunchRes.dll
+|   |       
+|   +---2052
+|   |       LaunchRes.dll
+|   |       
+|   \---2070
+|           LaunchRes.dll
+|           
++---portuguese
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222pt.gif
+|               00223pt.gif
+|               00230pt.gif
+|               00240pt.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020pt.gif
+|               i0030pt.gif
+|               i004000.gif
+|               i0050pt.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100pt.gif
+|               i0110pt.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590pt.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---spanish
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222es.gif
+|               00223es.gif
+|               00230es.gif
+|               00240es.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020es.gif
+|               i0030es.gif
+|               i004000.gif
+|               i0050es.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100es.gif
+|               i0110es.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590es.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
++---swedish
+|   \---manuals
+|       |   bar.gif
+|       |   disk.gif
+|       |   head.gif
+|       |   index.htm
+|       |   point.gif
+|       |   spacer.gif
+|       |   
+|       \---atapi_users
+|               0.gif
+|               00221.gif
+|               00222se.gif
+|               00223se.gif
+|               00230se.gif
+|               00240se.gif
+|               52xresp.htm
+|               answer.gif
+|               arrow.gif
+|               atapi.gif
+|               care.htm
+|               caution.htm
+|               circle.gif
+|               compliance.htm
+|               copyrght.htm
+|               crx.css
+|               discs.htm
+|               frpanels.htm
+|               header.gif
+|               i001000.gif
+|               i0020se.gif
+|               i0030se.gif
+|               i004000.gif
+|               i0050se.gif
+|               i006000.gif
+|               i008000.gif
+|               i009000.gif
+|               i0100se.gif
+|               i0110se.gif
+|               i016000.gif
+|               i017000.gif
+|               i018000.gif
+|               i019000.gif
+|               i020000.gif
+|               i021000.gif
+|               i022000.gif
+|               i023000.gif
+|               i024000.gif
+|               i025000.gif
+|               i026000.gif
+|               i027000.gif
+|               i028000.gif
+|               i029000.gif
+|               i030000.gif
+|               i031000.gif
+|               i031000_2.gif
+|               i031100.gif
+|               i032000.gif
+|               i044000.gif
+|               i045000.gif
+|               i046000.gif
+|               i0590se.gif
+|               i060000.gif
+|               i131000.gif
+|               i132000.gif
+|               i133000.gif
+|               i134000.gif
+|               i135000.gif
+|               i137000.gif
+|               i1410gb.gif
+|               i1420gb.gif
+|               i161000.gif
+|               index.htm
+|               question.gif
+|               setupgd.htm
+|               shead.gif
+|               support.htm
+|               top_b.gif
+|               trouble.htm
+|               usage.htm
+|               warranty.htm
+|               
+\---usersupport
+        0.gif
+        crx.css
+        global_link.htm
+        header.gif
+        spacer.gif
+        

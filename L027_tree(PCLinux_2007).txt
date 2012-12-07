@@ -1,0 +1,87 @@
+Folder PATH listing for volume DVD-IL082007
+Volume serial number is 77F0-837E
+G:\
+|   MD5SUM
+|   livecd.sqfs
+|   
++---boot
+|   \---grub
++---indeks_debian_package
+|       Packages.gz
+|       
+\---isolinux
+        16x16.fnt
+        back.jpg
+        bg.hlp
+        bg.tr
+        boot.cat
+        bootlogo
+        bs.tr
+        cs.hlp
+        cs.tr
+        cy.tr
+        da.hlp
+        da.tr
+        de.hlp
+        de.tr
+        el.hlp
+        el.tr
+        en.hlp
+        en.tr
+        es.hlp
+        es.tr
+        et.tr
+        fi.hlp
+        fi.tr
+        fr.hlp
+        fr.tr
+        hu.hlp
+        hu.tr
+        id.tr
+        initrd.gz
+        is.tr
+        isolinux.bin
+        isolinux.cfg
+        it.hlp
+        it.tr
+        ja.hlp
+        ja.tr
+        lt.tr
+        ltg.tr
+        mediacheck
+        memtest
+        mk.tr
+        nb.hlp
+        nb.tr
+        nl.hlp
+        nl.tr
+        nn.tr
+        pclinuxos.pcx
+        pl.hlp
+        pl.tr
+        pt.hlp
+        pt.tr
+        pt_BR.hlp
+        pt_BR.tr
+        ro.tr
+        ru.hlp
+        ru.tr
+        sk.tr
+        sl.hlp
+        sl.tr
+        sr.tr
+        sr@Latn.tr
+        star.dat
+        sv.hlp
+        sv.tr
+        timer_a.jpg
+        uk.hlp
+        uk.tr
+        vmlinuz
+        wa.tr
+        welcome.jpg
+        zh_CN.hlp
+        zh_CN.tr
+        zh_TW.hlp
+        zh_TW.tr
+        

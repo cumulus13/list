@@ -1,0 +1,78 @@
+ Volume in drive J is POS 1.50
+ Volume Serial Number is 725B-B3BA
+
+ Directory of J:\
+
+01/25/2006  01:29 PM    <DIR>          Client
+01/25/2006  01:29 PM    <DIR>          DATA
+01/25/2006  01:29 PM    <DIR>          DirectX8.1
+01/25/2006  01:29 PM    <DIR>          Manual
+12/06/2003  01:30 AM             1,985 Readme.txt
+01/29/2006  06:49 PM        41,909,017 Setup.exe
+01/25/2006  01:30 PM    <DIR>          VBSupport
+01/03/2005  12:20 PM             7,024 autorun.apm
+10/19/2000  03:00 PM           532,480 autorun.exe
+09/25/1998  03:09 AM             1,078 autorun.ico
+01/03/2005  12:20 PM                47 autorun.inf
+               6 File(s)     42,451,631 bytes
+
+ Directory of J:\Client
+
+01/25/2006  01:29 PM    <DIR>          .
+01/25/2006  01:31 PM    <DIR>          ..
+01/29/2006  05:06 PM        39,908,363 Setup.exe
+               1 File(s)     39,908,363 bytes
+
+ Directory of J:\DATA
+
+01/25/2006  01:29 PM    <DIR>          .
+01/25/2006  01:31 PM    <DIR>          ..
+01/03/2005  12:20 PM           317,309 menu1.brh
+01/03/2005  12:20 PM            54,317 menu1.brl
+10/19/2000  03:00 PM            12,203 menu1.daw
+04/23/1999  10:22 PM           117,028 menu1.ttf
+10/19/2000  03:00 PM             1,830 menu2.daw
+05/05/1999  10:22 PM           128,244 menu2.ttf
+10/19/2000  03:00 PM             2,921 menu3.daw
+04/23/1999  10:22 PM           273,020 menu3.ttf
+10/19/2000  03:00 PM               291 menu4.daw
+               9 File(s)        907,163 bytes
+
+ Directory of J:\DirectX8.1
+
+01/25/2006  01:29 PM    <DIR>          .
+01/25/2006  01:31 PM    <DIR>          ..
+07/29/2002  01:00 AM           562,193 BDA.cab
+07/29/2002  01:00 AM           562,548 BDANT.cab
+07/29/2002  01:00 AM            35,328 DSETUP.dll
+07/29/2002  01:00 AM        14,382,402 DirectX.cab
+07/29/2002  01:00 AM            41,984 cfgmgr32.dll
+07/29/2002  01:00 AM         1,901,056 dsetup32.dll
+07/29/2002  01:00 AM         9,917,535 dxnt.cab
+07/29/2002  01:00 AM           140,288 dxsetup.exe
+07/29/2002  01:00 AM           341,264 setupapi.dll
+               9 File(s)     27,884,598 bytes
+
+ Directory of J:\Manual
+
+01/25/2006  01:29 PM    <DIR>          .
+01/25/2006  01:31 PM    <DIR>          ..
+09/22/2002  05:14 PM         6,370,213 Panduan DSS POS.pdf
+11/17/2005  10:25 AM        44,692,992 Panduan Pengoperasian.doc
+               2 File(s)     51,063,205 bytes
+
+ Directory of J:\VBSupport
+
+01/25/2006  01:30 PM    <DIR>          .
+01/25/2006  01:31 PM    <DIR>          ..
+06/24/1998  12:00 AM           200,496 DBLIST32.OCX
+07/15/2000  12:00 AM           118,784 MSSTDFMT.DLL
+02/24/2000  05:07 PM            77,878 MSVCIRT.DLL
+04/23/1999  10:22 PM           344,064 MSVCRT40.DLL
+06/22/1999  04:36 PM           140,288 comdlg32.ocx
+05/22/2000  12:00 AM         1,066,176 mscomctl.ocx
+               6 File(s)      1,947,686 bytes
+
+     Total Files Listed:
+              33 File(s)    164,162,646 bytes
+              15 Dir(s)               0 bytes free

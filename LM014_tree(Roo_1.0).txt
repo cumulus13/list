@@ -1,0 +1,331 @@
+Folder PATH listing for volume roo-1.0.hw-189
+Volume serial number is F1B5-1900
+J:\
+|   .discinfo
+|   CREDITS
+|   GPL
+|   README-en
+|   RELEASE-NOTES-en
+|   ROO_BASE_VERSION
+|   RPM-GPG-KEY
+|   RPM-GPG-KEY-beta
+|   RPM-GPG-KEY-fedora
+|   RPM-GPG-KEY-fedora-rawhide
+|   RPM-GPG-KEY-fedora-test
+|   RPM-GPG-KEY-rawhide
+|   RPM-GPG-KEY.atrpms
+|   RPM-GPG-KEY.honeynet.txt
+|   RPM-LIST-roo-1.0.hw-189
+|   TRANS.TBL
+|   autorun
+|   eula.txt
+|   hwconfig.cache
+|   hwconfig.defs
+|   hwconfig.defs.example
+|   ks.cfg
+|   roo-changelog
+|   unpack-iso.sh
+|   
++---Fedora
+|   |   TRANS.TBL
+|   |   
+|   +---RPMS
+|   |       MAKEDEV-3.13-1.i386.rpm
+|   |       SysVinit-2.85-34.i386.rpm
+|   |       TRANS.TBL
+|   |       apr-0.9.4-24.2.i386.rpm
+|   |       apr-util-0.9.4-17.i386.rpm
+|   |       argus-2.0-6.i386.rpm
+|   |       argus-clients-2.0.6-1.PU_IAS.1.i386.rpm
+|   |       atrpms-61-1.at.noarch.rpm
+|   |       basesystem-8.0-4.noarch.rpm
+|   |       bash-3.0-18.i386.rpm
+|   |       beecrypt-3.1.0-6.i386.rpm
+|   |       bind-libs-9.2.5-3.i386.rpm
+|   |       bind-utils-9.2.5-3.i386.rpm
+|   |       bridge-utils-1.0.4-4.i386.rpm
+|   |       bzip2-1.0.2-13.FC3.1.i386.rpm
+|   |       bzip2-libs-1.0.2-13.FC3.1.i386.rpm
+|   |       chkconfig-1.3.11.1-1.i386.rpm
+|   |       chkfontpath-1.10.0-2.i386.rpm
+|   |       coreutils-5.2.1-31.i386.rpm
+|   |       cpio-2.5-7.i386.rpm
+|   |       cracklib-2.7-28.i386.rpm
+|   |       cracklib-dicts-2.7-28.i386.rpm
+|   |       crontabs-1.10-7.noarch.rpm
+|   |       cyrus-sasl-2.1.19-3.i386.rpm
+|   |       cyrus-sasl-md5-2.1.19-3.i386.rpm
+|   |       cyrus-sasl-plain-2.1.19-3.i386.rpm
+|   |       db4-4.2.52-6.i386.rpm
+|   |       dbus-0.22-10.FC3.2.i386.rpm
+|   |       dbus-glib-0.22-10.FC3.2.i386.rpm
+|   |       device-mapper-1.00.19-2.i386.rpm
+|   |       dialog-1.0.20040731-3.i386.rpm
+|   |       diffutils-2.8.1-12.i386.rpm
+|   |       distcache-1.4.5-6.i386.rpm
+|   |       e2fsprogs-1.38-0.FC3.1.i386.rpm
+|   |       elfutils-0.96-1.i386.rpm
+|   |       elfutils-libelf-0.96-1.i386.rpm
+|   |       ethtool-1.8-4.i386.rpm
+|   |       expat-1.95.7-4.i386.rpm
+|   |       file-4.12-1.FC3.1.i386.rpm
+|   |       filesystem-2.3.0-1.i386.rpm
+|   |       findutils-4.1.20-7.i386.rpm
+|   |       fontconfig-2.2.3-5.i386.rpm
+|   |       freetype-2.1.9-1.2.1.fc3.rf.i386.rpm
+|   |       gawk-3.1.3-9.i386.rpm
+|   |       gd-2.0.28-1.30.1.i386.rpm
+|   |       gdbm-1.8.0-24.i386.rpm
+|   |       glib-1.2.10-15.i386.rpm
+|   |       glib2-2.4.8-1.fc3.i386.rpm
+|   |       glibc-2.3.5-0.fc3.1.i386.rpm
+|   |       glibc-2.3.5-0.fc3.1.i686.rpm
+|   |       glibc-common-2.3.5-0.fc3.1.i386.rpm
+|   |       gmp-4.1.4-3.i386.rpm
+|   |       gnupg-1.2.7-1.i386.rpm
+|   |       gpm-1.20.1-66.i386.rpm
+|   |       graphviz-2.2-3.i386.rpm
+|   |       grep-2.5.1-31.4.i386.rpm
+|   |       groff-1.18.1.1-3.i386.rpm
+|   |       grub-0.95-3.i386.rpm
+|   |       gzip-1.3.3-15.fc3.i386.rpm
+|   |       hal-0.4.7-1.FC3.i386.rpm
+|   |       hdparm-5.7-2.i386.rpm
+|   |       hesiod-3.0.2-30.i386.rpm
+|   |       hflowd-1.0-22.i386.rpm
+|   |       hotplug-2004_04_01-8.1.i386.rpm
+|   |       httpd-2.0.53-3.3.i386.rpm
+|   |       httpd-suexec-2.0.53-3.3.i386.rpm
+|   |       hw-utils-0.4.dad-5.noarch.rpm
+|   |       hwdata-0.146.1-1.noarch.rpm
+|   |       info-4.8-2.1.i386.rpm
+|   |       initscripts-7.93.7-1.i386.rpm
+|   |       iproute-2.6.9-3.i386.rpm
+|   |       iptables-1.2.11-3.1.FC3.i386.rpm
+|   |       iptables-devel-1.2.11-3.1.FC3.i386.rpm
+|   |       iptstate-1.4-1.1.fc3.rf.i386.rpm
+|   |       iputils-20020927-16.i386.rpm
+|   |       kbd-1.12-2.i386.rpm
+|   |       kernel-2.6.12-1.1378_FC3.i586.rpm
+|   |       kernel-2.6.12-1.1378_FC3.i686.rpm
+|   |       kernel-smp-2.6.12-1.1378_FC3.i586.rpm
+|   |       kernel-smp-2.6.12-1.1378_FC3.i686.rpm
+|   |       kernel-utils-2.4-13.1.49_FC3.i386.rpm
+|   |       krb5-libs-1.3.6-7.i386.rpm
+|   |       kudzu-1.1.95-1.i386.rpm
+|   |       less-382-4.i386.rpm
+|   |       libacl-2.2.23-5.i386.rpm
+|   |       libattr-2.4.16-3.i386.rpm
+|   |       libcap-1.10-20.i386.rpm
+|   |       libgcc-3.4.4-2.fc3.i386.rpm
+|   |       libgpg-error-1.0-1.i386.rpm
+|   |       libjpeg-6b-33.i386.rpm
+|   |       libpcap-0.8.3-9.FC3.i386.rpm
+|   |       libpng-1.2.8-1.fc3.i386.rpm
+|   |       libselinux-1.19.1-8.i386.rpm
+|   |       libsepol-1.1.1-2.i386.rpm
+|   |       libstdc++-3.4.4-2.fc3.i386.rpm
+|   |       libtermcap-2.0.8-39.i386.rpm
+|   |       libuser-0.52.5-1.i386.rpm
+|   |       libxml2-2.6.16-3.i386.rpm
+|   |       libxml2-python-2.6.16-3.i386.rpm
+|   |       lockdev-1.0.1-4.1.i386.rpm
+|   |       logrotate-3.7.1-2.i386.rpm
+|   |       lsof-4.72-2.2.i386.rpm
+|   |       ltrace-0.3.35-1.i386.rpm
+|   |       lvm2-2.00.25-1.01.i386.rpm
+|   |       m4-1.4.1-16.i386.rpm
+|   |       mailcap-2.1.17-1.noarch.rpm
+|   |       mailx-8.1.1-33.i386.rpm
+|   |       make-3.80-5.i386.rpm
+|   |       man-1.5o1-7.i386.rpm
+|   |       mingetty-1.07-3.i386.rpm
+|   |       mkinitrd-4.1.18.1-1.i386.rpm
+|   |       mktemp-1.5-10.i386.rpm
+|   |       mod_ssl-2.0.53-3.3.i386.rpm
+|   |       module-init-tools-3.1-0.pre5.3.i386.rpm
+|   |       monit-4.4-1.1.fc3.rf.i386.rpm
+|   |       mtools-3.9.9-9.i386.rpm
+|   |       mysql-3.23.58-16.FC3.1.i386.rpm
+|   |       mysql-server-3.23.58-16.FC3.1.i386.rpm
+|   |       ncurses-5.4-13.i386.rpm
+|   |       net-tools-1.60-37.FC3.1.i386.rpm
+|   |       newt-0.51.6-5.i386.rpm
+|   |       ntp-4.2.0.a.20040617-5.FC3.i386.rpm
+|   |       openldap-2.2.13-2.i386.rpm
+|   |       openssh-3.9p1-8.0.3.i386.rpm
+|   |       openssh-clients-3.9p1-8.0.3.i386.rpm
+|   |       openssh-server-3.9p1-8.0.3.i386.rpm
+|   |       openssl-0.9.7a-42.1.i386.rpm
+|   |       openssl-0.9.7a-42.1.i686.rpm
+|   |       p0f-2.0.5-1.1.fc3.rf.i386.rpm
+|   |       pam-0.77-66.2.i386.rpm
+|   |       pam_passwdqc-0.7.5-2.i386.rpm
+|   |       passwd-0.68-10.i386.rpm
+|   |       patch-2.5.4-20.i386.rpm
+|   |       pcap_api-1.0-5.i386.rpm
+|   |       pcre-4.5-3.1.1.fc3.i386.rpm
+|   |       perl-5.8.5-14.FC3.i386.rpm
+|   |       perl-AppConfig-1.56-2.1.fc3.rf.noarch.rpm
+|   |       perl-Bit-Vector-6.3-3.i386.rpm
+|   |       perl-CGI-Session-4.00_08-1.1.fc3.rf.noarch.rpm
+|   |       perl-DBD-MySQL-2.9003-5.i386.rpm
+|   |       perl-DBI-1.40-6.fc3.i386.rpm
+|   |       perl-Date-Calc-5.3-9.i386.rpm
+|   |       perl-DateManip-5.42a-3.noarch.rpm
+|   |       perl-Digest-HMAC-1.01-13.noarch.rpm
+|   |       perl-Digest-SHA1-2.10-1.1.fc3.rf.i386.rpm
+|   |       perl-File-Tail-0.99.1-1.1.fc3.rf.noarch.rpm
+|   |       perl-Filter-1.30-6.i386.rpm
+|   |       perl-FreezeThaw-0.43-1.noarch.rpm
+|   |       perl-GD-2.28-1.fc3.i386.rpm
+|   |       perl-GD-Graph-1.43-0.1.fc3.rf.i386.rpm
+|   |       perl-GD-Graph3d-0.63-2.1.fc3.rf.noarch.rpm
+|   |       perl-GD-Text-Util-0.86-0.1.fc3.rf.i386.rpm
+|   |       perl-HTML-CalendarMonthSimple-1.25-1.noarch.rpm
+|   |       perl-HTML-Parser-3.35-6.i386.rpm
+|   |       perl-HTML-Table-2.02-1.1.fc3.rf.noarch.rpm
+|   |       perl-HTML-Tagset-3.03-30.noarch.rpm
+|   |       perl-Mail-Sendmail-0.79-6.noarch.rpm
+|   |       perl-Net-DNS-0.48-1.1.fc3.rf.i386.rpm
+|   |       perl-Net-Netmask-1.9012-1.1.fc3.rf.noarch.rpm
+|   |       perl-Net-Whois-IP-0.50-1.noarch.rpm
+|   |       perl-Pod-POM-0.17-3.noarch.rpm
+|   |       perl-TeX-Hyphen-0.140-1.1.fc3.rf.noarch.rpm
+|   |       perl-Template-Toolkit-2.14-9.rhfc3.at.i386.rpm
+|   |       perl-Text-Autoformat-1.13-2.fc3.noarch.rpm
+|   |       perl-Text-Reform-1.11-3.noarch.rpm
+|   |       perl-Time-HiRes-1.55-3.i386.rpm
+|   |       perl-TimeDate-1.16-2.noarch.rpm
+|   |       perl-URI-1.30-4.noarch.rpm
+|   |       perl-XML-DOM-1.43-1.1.fc3.rf.noarch.rpm
+|   |       perl-XML-Parser-2.34-5_3.rhfc3.at.i386.rpm
+|   |       perl-XML-RSS-1.05-1.1.fc3.rf.noarch.rpm
+|   |       perl-XML-RegExp-0.03-1.1.fc3.rf.noarch.rpm
+|   |       perl-XML-Simple-2.14-2.1.fc3.rf.noarch.rpm
+|   |       perl-XML-XPath-1.13-2.1.fc3.rf.noarch.rpm
+|   |       perl-libwww-perl-5.79-5.noarch.rpm
+|   |       perl-rrdtool-1.0.50-1.1.fc3.rf.i386.rpm
+|   |       policycoreutils-1.18.1-2.12.i386.rpm
+|   |       popt-1.9.1-21.i386.rpm
+|   |       postfix-2.1.5-5.i386.rpm
+|   |       prelink-0.3.3-0.fc3.i386.rpm
+|   |       procmail-3.22-14.i386.rpm
+|   |       procps-3.2.3-5.3.i386.rpm
+|   |       psmisc-21.4-4.i386.rpm
+|   |       pyOpenSSL-0.6-1.p23.1.fc3.i386.rpm
+|   |       python-2.3.4-13.1.i386.rpm
+|   |       pyxf86config-0.3.19-1.i386.rpm
+|   |       readline-4.3-13.i386.rpm
+|   |       remove_rpms.txt
+|   |       rhpl-0.148.1-2.i386.rpm
+|   |       rootfiles-8-1.noarch.rpm
+|   |       rpm-4.3.2-21.i386.rpm
+|   |       rpm-libs-4.3.2-21.i386.rpm
+|   |       rpm-python-4.3.2-21.i386.rpm
+|   |       rrdtool-1.0.50-1.1.fc3.rf.i386.rpm
+|   |       sebekd-3.0-6.i386.rpm
+|   |       sed-4.1.2-4.i386.rpm
+|   |       selinux-policy-targeted-1.17.30-3.16.noarch.rpm
+|   |       setup-2.5.36-1.noarch.rpm
+|   |       shadow-utils-4.0.3-56.i386.rpm
+|   |       slang-1.4.9-13.i386.rpm
+|   |       slocate-2.7-12.fc3.1.i386.rpm
+|   |       snort-2.3.3-1.hw.i386.rpm
+|   |       snort-mysql-2.3.3-1.hw.i386.rpm
+|   |       strace-4.5.8-1.i386.rpm
+|   |       sudo-1.6.7p5-30.3.i386.rpm
+|   |       swatch-3.1.1-1.noarch.rpm
+|   |       symlinks-1.2-22.i386.rpm
+|   |       sysfsutils-1.2.0-1.i386.rpm
+|   |       sysklogd-1.4.1-26_FC3.i386.rpm
+|   |       system-config-mouse-1.2.9-1.noarch.rpm
+|   |       tar-1.14-5.FC3.i386.rpm
+|   |       tcp_wrappers-7.6-37.2.i386.rpm
+|   |       tcpdstat-uw-1.0-1.i386.rpm
+|   |       tcpdump-3.8.2-9.FC3.i386.rpm
+|   |       termcap-5.4-4fc3.noarch.rpm
+|   |       tethereal-0.10.12-1.hw.i386.rpm
+|   |       time-1.7-25.i386.rpm
+|   |       tmpwatch-2.9.1-1.i386.rpm
+|   |       tripwire-2.3.1-21.i386.rpm
+|   |       ttmkfdir-3.0.9-14.1.i386.rpm
+|   |       tzdata-2005m-1.fc3.noarch.rpm
+|   |       udev-039-10.FC3.7.i386.rpm
+|   |       urw-fonts-2.3-0.FC3.1.noarch.rpm
+|   |       usbutils-0.11-6.1.i386.rpm
+|   |       usermode-1.74-1.i386.rpm
+|   |       utempter-0.5.5-5.i386.rpm
+|   |       util-linux-2.12a-24.5.i386.rpm
+|   |       vim-minimal-6.3.086-0.fc3.1.i386.rpm
+|   |       vixie-cron-4.1-36.FC3.i386.rpm
+|   |       walleye-1.1-21.i386.rpm
+|   |       wget-1.9.1-17.i386.rpm
+|   |       which-2.16-4.i386.rpm
+|   |       words-3.0-2.3.noarch.rpm
+|   |       xinetd-2.3.13-4.i386.rpm
+|   |       xorg-x11-Mesa-libGL-6.8.2-1.FC3.45.2.i386.rpm
+|   |       xorg-x11-font-utils-6.8.2-1.FC3.45.2.i386.rpm
+|   |       xorg-x11-libs-6.8.2-1.FC3.45.2.i386.rpm
+|   |       xorg-x11-xfs-6.8.2-1.FC3.45.2.i386.rpm
+|   |       yum-2.2.2-1.noarch.rpm
+|   |       zlib-1.2.1.2-3.fc3.i386.rpm
+|   |       
+|   \---base
+|           TRANS.TBL
+|           comps.rpm
+|           comps.xml
+|           hdlist
+|           hdlist2
+|           hdstg2.img
+|           netstg2.img
+|           stage2.img
+|           
++---customization
+|   |   TRANS.TBL
+|   |   custom.sh
+|   |   
+|   \---ssh-keys
++---dev
+|       Makefile
+|       Makefile.in
+|       README
+|       TRANS.TBL
+|       ckdeps.sh
+|       hwconfig
+|       hwconfig.cache
+|       hwconfig.defs
+|       hwconfig.defs.example
+|       ks.cfg
+|       ks.cfg.in
+|       mkiso.sh
+|       mkkscfg.sh
+|       reorder.sh
+|       unpack-iso.sh
+|       
++---isolinux
+|       TRANS.TBL
+|       boot.cat
+|       boot.msg
+|       general.msg
+|       honey.msg
+|       honeywl.lss
+|       honeywl.rdz
+|       initrd.img
+|       isolinux.bin
+|       isolinux.cfg
+|       memtest
+|       options.msg
+|       param.msg
+|       rescue.msg
+|       snake.msg
+|       splash.lss
+|       vmlinuz
+|       
+\---roo
+        TRANS.TBL
+        bootcustom.sh
+        check_fs.sh
+        honeywall.conf.orig
+        roo-base-1.0.hw-383.noarch.rpm
+        

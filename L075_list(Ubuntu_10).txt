@@ -1,0 +1,554 @@
+ Volume in drive J is Ubuntu 10.04 LTS
+ Volume Serial Number is C9EE-4DD2
+
+ Directory of J:\
+
+04/29/2010  07:56 PM    <DIR>          .disk
+04/29/2010  07:55 PM               225 README.diskdefines
+04/29/2010  07:54 PM               143 autorun.inf
+04/29/2010  07:56 PM    <DIR>          casper
+04/29/2010  07:55 PM    <DIR>          dists
+04/29/2010  07:56 PM    <DIR>          install
+04/29/2010  07:56 PM    <DIR>          isolinux
+04/29/2010  07:56 PM             4,530 md5sum.txt
+04/29/2010  07:55 PM    <DIR>          pics
+04/29/2010  07:55 PM    <DIR>          pool
+04/29/2010  07:55 PM    <DIR>          preseed
+04/29/2010  07:56 PM                 0 ubuntu
+04/27/2010  12:06 AM         1,469,477 wubi.exe
+               5 File(s)      1,474,375 bytes
+
+ Directory of J:\.disk
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:55 PM                 0 base_installable
+04/29/2010  07:56 PM                37 casper-uuid-generic
+04/29/2010  07:55 PM                15 cd_type
+04/29/2010  07:55 PM                55 info
+04/29/2010  07:56 PM                78 release_notes_url
+               5 File(s)            185 bytes
+
+ Directory of J:\casper
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:33 PM            38,902 filesystem.manifest
+04/29/2010  07:29 PM            36,978 filesystem.manifest-desktop
+04/29/2010  07:34 PM                10 filesystem.size
+04/29/2010  07:38 PM       704,487,424 filesystem.squashfs
+04/29/2010  07:34 PM         9,365,872 initrd.lz
+04/16/2010  08:01 PM         4,029,792 vmlinuz
+               6 File(s)    717,958,978 bytes
+
+ Directory of J:\dists
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:56 PM    <DIR>          lucid
+04/29/2010  07:56 PM                 0 stable
+04/29/2010  07:56 PM                 0 unstable
+               2 File(s)              0 bytes
+
+ Directory of J:\dists\lucid
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:56 PM             1,759 Release
+04/29/2010  07:56 PM               189 Release.gpg
+04/29/2010  07:56 PM    <DIR>          main
+04/29/2010  07:56 PM    <DIR>          restricted
+               2 File(s)          1,948 bytes
+
+ Directory of J:\dists\lucid\main
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:56 PM    <DIR>          binary-i386
+04/29/2010  07:55 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of J:\dists\lucid\main\binary-i386
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:56 PM             9,379 Packages.gz
+04/29/2010  07:55 PM                94 Release
+               2 File(s)          9,473 bytes
+
+ Directory of J:\dists\lucid\main\source
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\dists\lucid\restricted
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:56 PM    <DIR>          binary-i386
+04/29/2010  07:55 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of J:\dists\lucid\restricted\binary-i386
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:56 PM             1,270 Packages.gz
+04/29/2010  07:55 PM               100 Release
+               2 File(s)          1,370 bytes
+
+ Directory of J:\dists\lucid\restricted\source
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\install
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+11/16/2009  06:56 AM             1,865 README.sbm
+03/23/2010  04:37 PM           160,280 mt86plus
+11/16/2009  06:56 AM         1,474,560 sbm.bin
+               3 File(s)      1,636,705 bytes
+
+ Directory of J:\isolinux
+
+04/29/2010  07:56 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/19/2010  08:39 AM            62,699 16x16.fnt
+03/09/2010  08:44 PM             3,404 access.pcx
+04/29/2010  07:56 PM                 0 adtext.cfg
+04/19/2010  08:39 AM             2,937 am.tr
+04/29/2010  07:56 PM             7,267 ast.hlp
+04/19/2010  08:39 AM             1,938 ast.tr
+04/19/2010  08:39 AM             7,500 back.jpg
+04/29/2010  07:56 PM                 0 be.hlp
+04/19/2010  08:39 AM             3,287 be.tr
+04/29/2010  07:56 PM            11,534 bg.hlp
+04/19/2010  08:39 AM             3,741 bg.tr
+04/19/2010  07:42 AM            11,457 blank.pcx
+04/29/2010  07:56 PM             2,048 boot.cat
+04/19/2010  08:39 AM           102,400 bootlogo
+04/19/2010  08:39 AM             1,867 bs.tr
+04/29/2010  07:56 PM             8,058 ca.hlp
+04/19/2010  08:39 AM             2,164 ca.tr
+04/19/2010  08:39 AM             2,065 cs.tr
+04/29/2010  07:56 PM                 0 da.hlp
+04/19/2010  08:39 AM             1,912 da.tr
+04/29/2010  07:56 PM             7,752 de.hlp
+04/19/2010  08:39 AM             2,126 de.tr
+04/29/2010  07:56 PM            12,730 el.hlp
+04/19/2010  08:39 AM             3,890 el.tr
+04/29/2010  07:56 PM             6,509 en.hlp
+04/19/2010  08:39 AM             1,693 en.tr
+04/29/2010  07:56 PM             6,813 eo.hlp
+04/19/2010  08:39 AM             1,882 eo.tr
+04/29/2010  07:56 PM             7,588 es.hlp
+04/19/2010  08:39 AM             1,957 es.tr
+04/29/2010  07:56 PM             6,750 et.hlp
+04/19/2010  08:39 AM             1,887 et.tr
+04/29/2010  07:56 PM             7,185 eu.hlp
+04/19/2010  08:39 AM             1,861 eu.tr
+04/29/2010  07:56 PM               869 f1.txt
+04/29/2010  07:56 PM               715 f10.txt
+04/29/2010  07:56 PM               506 f2.txt
+04/29/2010  07:56 PM               658 f3.txt
+04/29/2010  07:56 PM               554 f4.txt
+04/29/2010  07:56 PM               808 f5.txt
+04/29/2010  07:56 PM             1,071 f6.txt
+04/29/2010  07:56 PM               913 f7.txt
+04/29/2010  07:56 PM             1,005 f8.txt
+04/29/2010  07:56 PM               745 f9.txt
+04/29/2010  07:56 PM             7,153 fi.hlp
+04/19/2010  08:39 AM             1,938 fi.tr
+04/29/2010  07:56 PM             7,975 fr.hlp
+04/19/2010  08:39 AM             2,078 fr.tr
+04/19/2010  08:39 AM             1,890 ga.tr
+04/29/2010  07:56 PM               369 gfxboot.cfg
+04/29/2010  07:56 PM             7,473 gl.hlp
+04/19/2010  08:39 AM             1,959 gl.tr
+04/29/2010  07:56 PM                 0 he.hlp
+04/19/2010  08:39 AM             2,769 he.tr
+04/29/2010  07:56 PM                 0 hi.hlp
+04/19/2010  08:39 AM             1,941 hr.tr
+04/29/2010  07:56 PM             7,813 hu.hlp
+04/19/2010  08:39 AM             2,256 hu.tr
+04/29/2010  07:56 PM             7,094 id.hlp
+04/19/2010  08:39 AM             1,694 id.tr
+07/15/2008  08:06 PM            14,739 isolinux.bin
+04/29/2010  07:56 PM                75 isolinux.cfg
+04/29/2010  07:56 PM             7,140 it.hlp
+04/19/2010  08:39 AM             1,930 it.tr
+04/29/2010  07:56 PM             9,417 ja.hlp
+04/19/2010  08:39 AM             2,842 ja.tr
+04/19/2010  08:39 AM             4,884 ka.tr
+04/29/2010  07:56 PM            13,128 kk.hlp
+04/19/2010  08:39 AM             3,622 kk.tr
+04/29/2010  07:56 PM                 0 ko.hlp
+04/19/2010  08:39 AM             2,200 ko.tr
+04/19/2010  08:39 AM             1,917 ku.tr
+04/19/2010  08:39 AM               211 langlist
+04/19/2010  08:39 AM             2,074 lt.tr
+04/29/2010  07:56 PM             7,880 lv.hlp
+04/19/2010  08:39 AM             2,099 lv.tr
+04/26/2010  05:56 AM               428 menu.cfg
+04/19/2010  08:39 AM             3,323 mk.tr
+04/29/2010  07:56 PM             6,970 nb.hlp
+04/19/2010  08:39 AM             1,864 nb.tr
+04/29/2010  07:56 PM             7,166 nl.hlp
+04/19/2010  08:39 AM             2,074 nl.tr
+04/29/2010  07:56 PM             7,222 nn.hlp
+04/19/2010  08:39 AM             1,838 nn.tr
+04/29/2010  07:56 PM                 0 pl.hlp
+04/19/2010  08:39 AM             2,094 pl.tr
+04/26/2010  05:56 AM               185 po4a.cfg
+04/29/2010  07:56 PM               154 prompt.cfg
+04/29/2010  07:56 PM             7,477 pt.hlp
+04/19/2010  08:39 AM             2,061 pt.tr
+04/29/2010  07:56 PM             7,459 pt_BR.hlp
+04/19/2010  08:39 AM             2,077 pt_BR.tr
+04/29/2010  07:56 PM             8,514 ro.hlp
+04/19/2010  08:39 AM             2,120 ro.tr
+04/29/2010  07:56 PM            12,033 ru.hlp
+04/19/2010  08:39 AM             3,434 ru.tr
+04/29/2010  07:56 PM             7,554 sk.hlp
+04/19/2010  08:39 AM             2,224 sk.tr
+04/19/2010  08:39 AM             1,901 sl.tr
+03/09/2010  08:44 PM            14,160 splash.pcx
+12/09/2009  05:49 AM            17,333 splash.png
+04/29/2010  07:56 PM             8,037 sq.hlp
+04/19/2010  08:39 AM             1,944 sq.tr
+04/29/2010  07:56 PM            11,391 sr.hlp
+04/19/2010  08:39 AM             3,489 sr.tr
+04/26/2010  05:56 AM               360 stdmenu.cfg
+04/29/2010  07:56 PM             7,286 sv.hlp
+04/19/2010  08:39 AM             1,960 sv.tr
+04/29/2010  07:56 PM               656 text.cfg
+04/19/2010  08:39 AM             1,740 tl.tr
+04/29/2010  07:56 PM                 0 tr.hlp
+04/19/2010  08:39 AM             1,850 tr.tr
+04/29/2010  07:56 PM                 0 uk.hlp
+04/19/2010  08:39 AM             3,850 uk.tr
+07/15/2008  08:06 PM           144,392 vesamenu.c32
+04/29/2010  07:56 PM             9,433 vi.hlp
+04/19/2010  08:39 AM             2,557 vi.tr
+04/29/2010  07:56 PM             6,275 zh_CN.hlp
+04/19/2010  08:39 AM             1,805 zh_CN.tr
+04/29/2010  07:56 PM             6,245 zh_TW.hlp
+04/19/2010  08:39 AM             1,936 zh_TW.tr
+             121 File(s)        780,176 bytes
+
+ Directory of J:\pics
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+05/16/2006  08:48 PM               294 blue-lowerleft.png
+05/16/2006  08:48 PM               266 blue-lowerright.png
+05/16/2006  08:48 PM               280 blue-upperleft.png
+05/16/2006  08:48 PM               290 blue-upperright.png
+05/16/2006  08:48 PM             8,442 debian.jpg
+05/16/2006  08:48 PM             3,986 logo-50.jpg
+05/16/2006  08:48 PM               353 red-lowerleft.png
+05/16/2006  08:48 PM               299 red-lowerright.png
+05/16/2006  08:48 PM               321 red-upperleft.png
+05/16/2006  08:48 PM               344 red-upperright.png
+              10 File(s)         14,875 bytes
+
+ Directory of J:\pool
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          main
+04/29/2010  07:55 PM    <DIR>          restricted
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          b
+04/29/2010  07:55 PM    <DIR>          d
+04/29/2010  07:55 PM    <DIR>          f
+04/29/2010  07:55 PM    <DIR>          g
+04/29/2010  07:55 PM    <DIR>          l
+04/29/2010  07:55 PM    <DIR>          m
+04/29/2010  07:55 PM    <DIR>          n
+04/29/2010  07:55 PM    <DIR>          p
+04/29/2010  07:55 PM    <DIR>          s
+04/29/2010  07:55 PM    <DIR>          u
+04/29/2010  07:55 PM    <DIR>          w
+04/29/2010  07:55 PM    <DIR>          x
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\b
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          b43-fwcutter
+04/29/2010  07:55 PM    <DIR>          build-essential
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\b\b43-fwcutter
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/06/2010  07:05 AM            17,886 b43-fwcutter_012-1build1_i386.deb
+               1 File(s)         17,886 bytes
+
+ Directory of J:\pool\main\b\build-essential
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/06/2010  07:05 AM             7,278 build-essential_11.4build1_i386.deb
+               1 File(s)          7,278 bytes
+
+ Directory of J:\pool\main\d
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          dkms
+04/29/2010  07:55 PM    <DIR>          dpkg
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\d\dkms
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/28/2010  01:05 PM            70,126 dkms_2.1.1.2-2fakesync1_all.deb
+               1 File(s)         70,126 bytes
+
+ Directory of J:\pool\main\d\dpkg
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/16/2010  01:08 AM           652,698 dpkg-dev_1.15.5.6ubuntu4_all.deb
+               1 File(s)        652,698 bytes
+
+ Directory of J:\pool\main\f
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          fakeroot
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\f\fakeroot
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+01/08/2010  03:04 PM           117,500 fakeroot_1.14.4-1ubuntu1_i386.deb
+               1 File(s)        117,500 bytes
+
+ Directory of J:\pool\main\g
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          gcc-4.4
+04/29/2010  07:55 PM    <DIR>          gcc-defaults
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\g\gcc-4.4
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/27/2010  06:05 AM         4,949,970 g++-4.4_4.4.3-4ubuntu5_i386.deb
+03/27/2010  06:05 AM         1,491,106 libstdc++6-4.4-dev_4.4.3-4ubuntu5_i386.deb
+               2 File(s)      6,441,076 bytes
+
+ Directory of J:\pool\main\g\gcc-defaults
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/20/2010  01:05 AM             1,442 g++_4.4.3-1ubuntu1_i386.deb
+               1 File(s)          1,442 bytes
+
+ Directory of J:\pool\main\l
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          linux-wlan-ng
+04/29/2010  07:55 PM    <DIR>          lupin
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\l\linux-wlan-ng
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+02/23/2010  02:05 AM            88,148 linux-wlan-ng-doc_0.2.9+dfsg-4_all.deb
+02/23/2010  02:05 AM           110,276 linux-wlan-ng_0.2.9+dfsg-4_i386.deb
+               2 File(s)        198,424 bytes
+
+ Directory of J:\pool\main\l\lupin
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/23/2010  05:05 PM             9,876 lupin-support_0.29_all.deb
+               1 File(s)          9,876 bytes
+
+ Directory of J:\pool\main\m
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          mouseemu
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\m\mouseemu
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/31/2010  01:28 PM            18,522 mouseemu_0.16-0ubuntu6_i386.deb
+               1 File(s)         18,522 bytes
+
+ Directory of J:\pool\main\n
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          ndisgtk
+04/29/2010  07:55 PM    <DIR>          ndiswrapper
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\n\ndisgtk
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+02/03/2010  07:05 AM            21,354 ndisgtk_0.8.5-1_i386.deb
+               1 File(s)         21,354 bytes
+
+ Directory of J:\pool\main\n\ndiswrapper
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/30/2009  11:04 PM            21,668 ndiswrapper-common_1.54-2ubuntu1_all.deb
+04/30/2009  11:04 PM            36,464 ndiswrapper-utils-1.9_1.54-2ubuntu1_i386.deb
+               2 File(s)         58,132 bytes
+
+ Directory of J:\pool\main\p
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          patch
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\p\patch
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/05/2010  08:04 AM           122,946 patch_2.6-2ubuntu1_i386.deb
+               1 File(s)        122,946 bytes
+
+ Directory of J:\pool\main\s
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          setserial
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\s\setserial
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+01/19/2010  04:05 PM            52,404 setserial_2.17-45.2_i386.deb
+               1 File(s)         52,404 bytes
+
+ Directory of J:\pool\main\u
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          ubiquity
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\u\ubiquity
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  05:29 PM           104,774 oem-config-gtk_2.2.24_all.deb
+04/29/2010  05:29 PM           112,682 oem-config_2.2.24_all.deb
+               2 File(s)        217,456 bytes
+
+ Directory of J:\pool\main\w
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          wvdial
+04/29/2010  07:55 PM    <DIR>          wvstreams
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\w\wvdial
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+01/11/2010  11:06 PM           174,596 wvdial_1.60.3_i386.deb
+               1 File(s)        174,596 bytes
+
+ Directory of J:\pool\main\w\wvstreams
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+01/05/2010  02:06 PM           183,292 libuniconf4.6_4.6.1-1_i386.deb
+01/05/2010  02:06 PM           258,602 libwvstreams4.6-base_4.6.1-1_i386.deb
+01/05/2010  02:06 PM           490,454 libwvstreams4.6-extras_4.6.1-1_i386.deb
+               3 File(s)        932,348 bytes
+
+ Directory of J:\pool\main\x
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          xz-utils
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\main\x\xz-utils
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+12/22/2009  04:06 PM           228,052 xz-utils_4.999.9beta+20091116-1_i386.deb
+               1 File(s)        228,052 bytes
+
+ Directory of J:\pool\restricted
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          b
+04/29/2010  07:55 PM    <DIR>          s
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\restricted\b
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          bcmwl
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\restricted\b\bcmwl
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/23/2010  02:05 AM           894,608 bcmwl-kernel-source_5.60.48.36+bdcom-0ubuntu3_i386.deb
+               1 File(s)        894,608 bytes
+
+ Directory of J:\pool\restricted\s
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+04/29/2010  07:55 PM    <DIR>          sl-modem
+               0 File(s)              0 bytes
+
+ Directory of J:\pool\restricted\s\sl-modem
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:55 PM    <DIR>          ..
+03/23/2010  07:05 AM           517,564 sl-modem-daemon_2.9.11~20100303-2_i386.deb
+               1 File(s)        517,564 bytes
+
+ Directory of J:\preseed
+
+04/29/2010  07:55 PM    <DIR>          .
+04/29/2010  07:56 PM    <DIR>          ..
+04/29/2010  07:55 PM               212 cli.seed
+04/29/2010  07:55 PM               435 ltsp.seed
+04/29/2010  07:55 PM               398 ubuntu.seed
+               3 File(s)          1,045 bytes
+
+     Total Files Listed:
+             187 File(s)    732,633,418 bytes
+             153 Dir(s)               0 bytes free

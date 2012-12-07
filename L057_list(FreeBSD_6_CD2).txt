@@ -1,0 +1,1276 @@
+ Volume in drive G is FreeBSD_Packages
+ Volume Serial Number is 016C-F602
+
+ Directory of G:\
+
+01/12/2007  06:33 PM                39 cdrom.inf
+01/12/2007  08:47 PM    <DIR>          packages
+               1 File(s)             39 bytes
+
+ Directory of G:\packages
+
+01/12/2007  08:47 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM    <DIR>          All
+01/12/2007  08:39 PM           396,396 INDEX
+01/12/2007  08:39 PM    <DIR>          accessibility
+01/12/2007  08:39 PM    <DIR>          afterstep
+01/12/2007  08:39 PM    <DIR>          archivers
+01/12/2007  08:39 PM    <DIR>          astro
+01/12/2007  08:39 PM    <DIR>          audio
+01/12/2007  08:39 PM    <DIR>          comms
+01/12/2007  08:39 PM    <DIR>          converters
+01/12/2007  08:39 PM    <DIR>          databases
+01/12/2007  08:39 PM    <DIR>          deskutils
+01/12/2007  08:39 PM    <DIR>          devel
+01/12/2007  08:39 PM    <DIR>          dns
+01/12/2007  08:39 PM    <DIR>          editors
+01/12/2007  08:39 PM    <DIR>          emulators
+01/12/2007  08:39 PM    <DIR>          ftp
+01/12/2007  08:39 PM    <DIR>          games
+01/12/2007  08:39 PM    <DIR>          gnome
+01/12/2007  08:39 PM    <DIR>          graphics
+01/12/2007  08:39 PM    <DIR>          ipv6
+01/12/2007  08:39 PM    <DIR>          irc
+01/12/2007  08:39 PM    <DIR>          kde
+01/12/2007  08:39 PM    <DIR>          lang
+01/12/2007  08:39 PM    <DIR>          mail
+01/12/2007  08:39 PM    <DIR>          math
+01/12/2007  08:39 PM    <DIR>          misc
+01/12/2007  08:39 PM    <DIR>          multimedia
+01/12/2007  08:39 PM    <DIR>          net
+01/12/2007  08:39 PM    <DIR>          net-mgmt
+01/12/2007  08:39 PM    <DIR>          news
+01/12/2007  08:39 PM    <DIR>          palm
+01/12/2007  08:39 PM    <DIR>          perl5
+01/12/2007  08:39 PM    <DIR>          print
+01/12/2007  08:39 PM    <DIR>          python
+01/12/2007  08:39 PM    <DIR>          ruby
+01/12/2007  08:39 PM    <DIR>          scheme
+01/12/2007  08:39 PM    <DIR>          security
+01/12/2007  08:39 PM    <DIR>          shells
+01/12/2007  08:39 PM    <DIR>          sysutils
+01/12/2007  08:39 PM    <DIR>          textproc
+01/12/2007  08:39 PM    <DIR>          windowmaker
+01/12/2007  08:39 PM    <DIR>          www
+01/12/2007  08:39 PM    <DIR>          x11
+01/12/2007  08:39 PM    <DIR>          x11-clocks
+01/12/2007  08:39 PM    <DIR>          x11-fm
+01/12/2007  08:39 PM    <DIR>          x11-fonts
+01/12/2007  08:39 PM    <DIR>          x11-themes
+01/12/2007  08:39 PM    <DIR>          x11-toolkits
+01/12/2007  08:39 PM    <DIR>          x11-wm
+               1 File(s)        396,396 bytes
+
+ Directory of G:\packages\All
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM           406,175 ORBit2-2.14.3.tbz
+01/12/2007  08:39 PM           698,874 OpenEXR-1.2.2_1.tbz
+01/12/2007  08:39 PM           312,997 Xaw3d-1.5E_1.tbz
+01/12/2007  08:39 PM           628,238 a2ps-letter-4.13b_3.tbz
+01/12/2007  08:39 PM           166,794 aalib-1.4.r5_2.tbz
+01/12/2007  08:39 PM           486,622 afterstep-1.0_1.tbz
+01/12/2007  08:39 PM           103,617 akode-2.0.1,1.tbz
+01/12/2007  08:39 PM            38,590 akode-plugins-mpc-2.0.1,1.tbz
+01/12/2007  08:39 PM            13,490 akode-plugins-mpeg-2.0.1,1.tbz
+01/12/2007  08:39 PM             9,684 akode-plugins-oss-2.0.1,1.tbz
+01/12/2007  08:39 PM             9,307 akode-plugins-resampler-2.0.1,1.tbz
+01/12/2007  08:39 PM            28,416 akode-plugins-xiph-2.0.1,1.tbz
+01/12/2007  08:39 PM           153,960 alacarte-0.10.1.tbz
+01/12/2007  08:39 PM           686,593 apr-db42-1.2.7_1.tbz
+01/12/2007  08:39 PM           254,693 apsfilter-7.2.8.tbz
+01/12/2007  08:39 PM         2,308,974 arts-1.5.4,1.tbz
+01/12/2007  08:39 PM             4,276 artswrapper-1.5.3.tbz
+01/12/2007  08:39 PM            12,227 asclock-1.0.tbz
+01/12/2007  08:39 PM         2,426,365 aspell-0.60.4_4.tbz
+01/12/2007  08:39 PM           387,145 at-spi-1.7.12.tbz
+01/12/2007  08:39 PM           219,435 atk-1.12.3.tbz
+01/12/2007  08:39 PM           388,271 avahi-0.6.14.tbz
+01/12/2007  08:39 PM           729,549 bash-2.05b.007_6.tbz
+01/12/2007  08:39 PM           582,418 bash-3.1.17.tbz
+01/12/2007  08:39 PM         8,402,923 boost-python-1.33.1_2.tbz
+01/12/2007  08:39 PM           301,884 bug-buddy-2.16.0_2.tbz
+01/12/2007  08:39 PM            74,776 ca-roots-1.2.tbz
+01/12/2007  08:39 PM           358,890 cairo-1.2.4.tbz
+01/12/2007  08:39 PM            79,726 cdparanoia-3.9.8_8.tbz
+01/12/2007  08:39 PM           701,485 cdrtools-2.01_5.tbz
+01/12/2007  08:39 PM         3,595,362 cups-base-1.2.2.tbz
+01/12/2007  08:39 PM         1,046,825 curl-7.15.5.tbz
+01/12/2007  08:39 PM           771,825 cvsup-without-gui-16.1h_2.tbz
+01/12/2007  08:39 PM           534,097 cyrus-sasl-2.1.22.tbz
+01/12/2007  08:39 PM         4,976,946 dasher-4.2.0,1.tbz
+01/12/2007  08:39 PM         1,653,792 db4-4.0.14_1,1.tbz
+01/12/2007  08:39 PM         1,889,777 db41-4.1.25_3.tbz
+01/12/2007  08:39 PM         3,135,845 db42-4.2.52_4.tbz
+01/12/2007  08:39 PM           292,571 dbus-0.93_3.tbz
+01/12/2007  08:39 PM           110,873 dbus-glib-0.71.tbz
+01/12/2007  08:39 PM           430,191 deskbar-applet-2.16.1.tbz
+01/12/2007  08:39 PM            33,143 desktop-file-utils-0.11.tbz
+01/12/2007  08:39 PM            57,211 dmidecode-2.8.tbz
+01/12/2007  08:39 PM            51,624 docbook-sk-4.1.2_3.tbz
+01/12/2007  08:39 PM            53,307 docbook-xml-4.2_1.tbz
+01/12/2007  08:39 PM            57,017 docbook-xml-4.3.tbz
+01/12/2007  08:39 PM            60,347 docbook-xml-4.4.tbz
+01/12/2007  08:39 PM         1,171,930 docbook-xsl-1.70.1.tbz
+01/12/2007  08:39 PM            78,405 dvd+rw-tools-6.1.tbz
+01/12/2007  08:39 PM           545,251 eel-2.16.0_1.tbz
+01/12/2007  08:39 PM         4,677,989 ekiga-2.0.2_5.tbz
+01/12/2007  08:39 PM        12,520,877 emacs-21.3_9.tbz
+01/12/2007  08:39 PM           470,914 eog-2.16.1.tbz
+01/12/2007  08:39 PM         3,377,076 epiphany-2.16.1_1.tbz
+01/12/2007  08:39 PM            94,537 esound-0.2.36_1.tbz
+01/12/2007  08:39 PM           795,455 evince-0.6.1.tbz
+01/12/2007  08:39 PM        11,019,241 evolution-2.8.1.1.tbz
+01/12/2007  08:39 PM         4,115,641 evolution-data-server-1.8.1_1.tbz
+01/12/2007  08:39 PM           501,574 evolution-exchange-2.8.1.tbz
+01/12/2007  08:39 PM            63,822 evolution-webcal-2.8.0.tbz
+01/12/2007  08:39 PM         1,066,720 exim-4.63.tbz
+01/12/2007  08:39 PM           420,860 fast-user-switch-applet-2.16.0.tbz
+01/12/2007  08:39 PM           432,952 fetchmail-6.3.4_3.tbz
+01/12/2007  08:39 PM           502,986 fftw3-3.1.2.tbz
+01/12/2007  08:39 PM           734,575 file-roller-2.16.1,1.tbz
+01/12/2007  08:39 PM        11,494,387 firefox-1.5.0.8,1.tbz
+01/12/2007  08:39 PM           711,914 flac-1.1.2_1.tbz
+01/12/2007  08:39 PM            48,674 fribidi-0.10.7.tbz
+01/12/2007  08:39 PM         1,290,883 fvwm-2.4.19.tbz
+01/12/2007  08:39 PM           349,067 gail-1.9.3.tbz
+01/12/2007  08:39 PM            78,714 gamin-0.1.7_2.tbz
+01/12/2007  08:39 PM           753,897 gcalctool-5.8.24,2.tbz
+01/12/2007  08:39 PM           219,378 gconf-editor-2.16.0,1.tbz
+01/12/2007  08:39 PM         1,004,363 gconf2-2.16.0.tbz
+01/12/2007  08:39 PM            39,259 gdbm-1.8.3_2.tbz
+01/12/2007  08:39 PM           224,353 gdl-0.6.1_1.tbz
+01/12/2007  08:39 PM         2,547,943 gdm-2.16.1_1.tbz
+01/12/2007  08:39 PM         2,653,601 gedit-2.16.1.tbz
+01/12/2007  08:39 PM         1,743,541 gettext-0.14.5_2.tbz
+01/12/2007  08:39 PM         2,410,234 ghostscript-gnu-7.07_15.tbz
+01/12/2007  08:39 PM         2,393,021 ghostscript-gnu-nox11-7.07_15.tbz
+01/12/2007  08:39 PM           541,517 gle-3.1.0.tbz
+01/12/2007  08:39 PM           162,003 glib-1.2.10_12.tbz
+01/12/2007  08:39 PM           961,708 glib-2.12.4.tbz
+01/12/2007  08:39 PM           350,950 gmake-3.81_1.tbz
+01/12/2007  08:39 PM           326,616 gmime-2.2.3.tbz
+01/12/2007  08:39 PM            40,166 gmime-sharp-2.2.3.tbz
+01/12/2007  08:39 PM         6,063,905 gnome-applets-2.16.1_1.tbz
+01/12/2007  08:39 PM         1,394,076 gnome-audio-2.0.0_1.tbz
+01/12/2007  08:39 PM         1,070,318 gnome-backgrounds-2.16.1.tbz
+01/12/2007  08:39 PM         1,809,752 gnome-control-center-2.16.1.tbz
+01/12/2007  08:39 PM           783,041 gnome-desktop-2.16.1.tbz
+01/12/2007  08:39 PM           162,095 gnome-doc-utils-0.7.2_1.tbz
+01/12/2007  08:39 PM         4,742,359 gnome-games-2.16.1.tbz
+01/12/2007  08:39 PM         2,286,826 gnome-icon-theme-2.16.0.1_1.tbz
+01/12/2007  08:39 PM           143,874 gnome-keyring-0.6.0.tbz
+01/12/2007  08:39 PM           151,464 gnome-keyring-manager-2.16.0.tbz
+01/12/2007  08:39 PM           180,727 gnome-mag-0.13.1_1.tbz
+01/12/2007  08:39 PM         2,592,474 gnome-media-2.16.0.tbz
+01/12/2007  08:39 PM           163,247 gnome-menus-2.16.1.tbz
+01/12/2007  08:39 PM           448,227 gnome-mime-data-2.4.2_2.tbz
+01/12/2007  08:39 PM            29,936 gnome-mount-0.4_1.tbz
+01/12/2007  08:39 PM           189,232 gnome-netstatus-2.12.0_3.tbz
+01/12/2007  08:39 PM           229,299 gnome-nettool-2.16.0,1.tbz
+01/12/2007  08:39 PM         2,255,007 gnome-panel-2.16.1.tbz
+01/12/2007  08:39 PM         1,896,033 gnome-power-manager-2.16.1.tbz
+01/12/2007  08:39 PM         1,760,508 gnome-screensaver-2.16.1_1.tbz
+01/12/2007  08:39 PM         1,664,363 gnome-session-2.16.1_1.tbz
+01/12/2007  08:39 PM            42,820 gnome-speech-0.4.4.tbz
+01/12/2007  08:39 PM            75,165 gnome-spell-1.0.7_2.tbz
+01/12/2007  08:39 PM         1,268,723 gnome-system-monitor-2.16.1_1.tbz
+01/12/2007  08:39 PM         1,749,852 gnome-system-tools-2.14.0_1.tbz
+01/12/2007  08:39 PM         1,560,078 gnome-terminal-2.16.1_1.tbz
+01/12/2007  08:39 PM         1,935,145 gnome-themes-2.16.1.1.tbz
+01/12/2007  08:39 PM         6,900,660 gnome-user-docs-2.16.1.tbz
+01/12/2007  08:39 PM         2,762,616 gnome-utils-2.16.1,1.tbz
+01/12/2007  08:39 PM         1,055,867 gnome-vfs-2.16.1.tbz
+01/12/2007  08:39 PM           279,345 gnome-volume-manager-2.15.0.tbz
+01/12/2007  08:39 PM             5,352 gnome2-2.16.1_2.tbz
+01/12/2007  08:39 PM             3,404 gnomehier-2.2.tbz
+01/12/2007  08:39 PM           425,568 gnu-autoconf-2.59.tbz
+01/12/2007  08:39 PM           358,705 gnu-automake-1.9.6.tbz
+01/12/2007  08:39 PM         1,348,331 gnupg-1.4.5_1.tbz
+01/12/2007  08:39 PM         1,161,353 gnutls-1.4.4_1.tbz
+01/12/2007  08:39 PM           929,193 gok-1.2.0_1,1.tbz
+01/12/2007  08:39 PM           227,905 gpgme-1.1.2_1.tbz
+01/12/2007  08:39 PM         4,380,638 gsfonts-8.11_2.tbz
+01/12/2007  08:39 PM         2,298,223 gstreamer-0.10.10_1.tbz
+01/12/2007  08:39 PM         1,258,075 gstreamer-ffmpeg-0.10.1_1.tbz
+01/12/2007  08:39 PM         2,181,681 gstreamer-plugins-0.10.10,2.tbz
+01/12/2007  08:39 PM            45,644 gstreamer-plugins-a52dec-0.10.4_1,2.tbz
+01/12/2007  08:39 PM            55,404 gstreamer-plugins-cdparanoia-0.10.10_2,2.tbz
+01/12/2007  08:39 PM             2,635 gstreamer-plugins-core-0.10_7.tbz
+01/12/2007  08:39 PM           139,651 gstreamer-plugins-dts-0.10.3_1,2.tbz
+01/12/2007  08:39 PM           156,676 gstreamer-plugins-dvd-0.10.4,2.tbz
+01/12/2007  08:39 PM            44,853 gstreamer-plugins-esound-0.10.4_1,2.tbz
+01/12/2007  08:39 PM           114,208 gstreamer-plugins-flac-0.10.4_1,2.tbz
+01/12/2007  08:39 PM            90,236 gstreamer-plugins-gconf-0.10.4_3,2.tbz
+01/12/2007  08:39 PM            90,422 gstreamer-plugins-gnomevfs-0.10.10_1,2.tbz
+01/12/2007  08:39 PM         2,171,043 gstreamer-plugins-good-0.10.4_4,2.tbz
+01/12/2007  08:39 PM            52,184 gstreamer-plugins-hal-0.10.4,2.tbz
+01/12/2007  08:39 PM            82,214 gstreamer-plugins-libpng-0.10.4_1,2.tbz
+01/12/2007  08:39 PM           115,118 gstreamer-plugins-mad-0.10.4_2,2.tbz
+01/12/2007  08:39 PM            68,162 gstreamer-plugins-mpeg2dec-0.10.4_1,2.tbz
+01/12/2007  08:39 PM           224,477 gstreamer-plugins-ogg-0.10.10_1,2.tbz
+01/12/2007  08:39 PM           118,491 gstreamer-plugins-pango-0.10.10_1,2.tbz
+01/12/2007  08:39 PM           124,125 gstreamer-plugins-theora-0.10.10_2,2.tbz
+01/12/2007  08:39 PM           478,068 gstreamer-plugins-ugly-0.10.4_2,2.tbz
+01/12/2007  08:39 PM           128,333 gstreamer-plugins-vorbis-0.10.10_1,2.tbz
+01/12/2007  08:39 PM            65,884 gstreamer-plugins-xvid-0.10.3,2.tbz
+01/12/2007  08:39 PM         2,851,109 gstreamer80-0.8.12_2.tbz
+01/12/2007  08:39 PM           397,630 gtar-1.15.1_2.tbz
+01/12/2007  08:39 PM         6,827,429 gtk-2.10.6_2.tbz
+01/12/2007  08:39 PM           203,090 gtk-engines2-2.8.1.tbz
+01/12/2007  08:39 PM         2,960,724 gtk-sharp-2.8.2.tbz
+01/12/2007  08:39 PM         1,172,700 gtkhtml3-3.12.1.tbz
+01/12/2007  08:39 PM           451,684 gtksourceview-1.8.1.tbz
+01/12/2007  08:39 PM            22,820 gtkspell-2.0.11_4.tbz
+01/12/2007  08:39 PM         2,285,290 gucharmap-gnome-1.8.0.tbz
+01/12/2007  08:39 PM         1,293,293 guile-1.6.8.tbz
+01/12/2007  08:39 PM           126,640 gv-3.6.1.tbz
+01/12/2007  08:39 PM           238,658 hal-0.5.8.20060917_2.tbz
+01/12/2007  08:39 PM             6,054 hicolor-icon-theme-0.9_2.tbz
+01/12/2007  08:39 PM         2,047,885 hpijs-2.1.4.tbz
+01/12/2007  08:39 PM            44,711 intltool-0.35.0.tbz
+01/12/2007  08:39 PM           998,723 iso-codes-0.53.tbz
+01/12/2007  08:39 PM         2,603,505 ispell-3.2.06_15.tbz
+01/12/2007  08:39 PM           251,918 jackit-0.101.1_1.tbz
+01/12/2007  08:39 PM           686,987 jasper-1.701.0_1.tbz
+01/12/2007  08:39 PM           279,960 jpeg-6b_4.tbz
+01/12/2007  08:39 PM             3,971 kde-3.5.4.tbz
+01/12/2007  08:39 PM             2,238 kde-xdg-env-1.0_1,1.tbz
+01/12/2007  08:39 PM         9,230,025 kdeaccessibility-3.5.4.tbz
+01/12/2007  08:39 PM         1,878,670 kdeadmin-3.5.4.tbz
+01/12/2007  08:39 PM        16,583,045 kdeartwork-3.5.4_2.tbz
+01/12/2007  08:39 PM        36,141,985 kdebase-3.5.4_4.tbz
+01/12/2007  08:39 PM            20,070 kdebase-kompmgr-3.5.4.tbz
+01/12/2007  08:39 PM        30,953,918 kdeedu-3.5.4.tbz
+01/12/2007  08:39 PM        11,929,684 kdegames-3.5.4.tbz
+01/12/2007  08:39 PM        13,290,201 kdegraphics-3.5.4.tbz
+01/12/2007  08:39 PM             5,189 kdehier-1.0_11.tbz
+01/12/2007  08:39 PM        28,728,635 kdelibs-3.5.4_4.tbz
+01/12/2007  08:39 PM        11,299,118 kdemultimedia-3.5.4_1.tbz
+01/12/2007  08:39 PM         6,914,825 kdenetwork-3.5.4.tbz
+01/12/2007  08:39 PM        30,376,143 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM         7,832,146 kdesdk-3.5.4.tbz
+01/12/2007  08:39 PM         3,178,383 kdetoys-3.5.4.tbz
+01/12/2007  08:39 PM         4,707,847 kdeutils-3.5.4.tbz
+01/12/2007  08:39 PM        20,818,136 kdevelop-3.3.4.tbz
+01/12/2007  08:39 PM         7,606,079 kdewebdev-3.5.4,2.tbz
+01/12/2007  08:39 PM        49,939,226 koffice-1.5.2,2.tbz
+01/12/2007  08:39 PM           230,963 lcms-1.15_1,1.tbz
+01/12/2007  08:39 PM           134,930 libIDL-0.8.7.tbz
+01/12/2007  08:39 PM            48,757 liba52-0.7.4_1.tbz
+01/12/2007  08:39 PM            89,182 libart_lgpl-2.3.17_1.tbz
+01/12/2007  08:39 PM           129,640 libaudiofile-0.2.6.tbz
+01/12/2007  08:39 PM           615,321 libbonobo-2.16.0_1.tbz
+01/12/2007  08:39 PM           485,137 libbonoboui-2.16.0.tbz
+01/12/2007  08:39 PM            63,212 libcddb-1.2.1_1.tbz
+01/12/2007  08:39 PM           294,192 libcdio-0.77_1.tbz
+01/12/2007  08:39 PM           179,647 libcroco-0.6.1.tbz
+01/12/2007  08:39 PM            19,421 libdaemon-0.10_1.tbz
+01/12/2007  08:39 PM            31,193 libdvdcss-1.2.9_2.tbz
+01/12/2007  08:39 PM           146,267 libdvdnav-0.1.10_1.tbz
+01/12/2007  08:39 PM            97,722 libdvdread-0.9.4_1.tbz
+01/12/2007  08:39 PM           169,239 libexif-0.6.13.tbz
+01/12/2007  08:39 PM            20,513 libgail-gnome-1.1.3_2.tbz
+01/12/2007  08:39 PM           325,762 libgcrypt-1.2.3_1.tbz
+01/12/2007  08:39 PM           518,448 libgda2-1.2.3_2,1.tbz
+01/12/2007  08:39 PM            33,473 libgksu-1.3.8.tbz
+01/12/2007  08:39 PM            22,479 libgksuui-1.0.7_1.tbz
+01/12/2007  08:39 PM            81,983 libglade2-2.6.0_2.tbz
+01/12/2007  08:39 PM           191,873 libglut-6.4.2.tbz
+01/12/2007  08:39 PM           331,638 libgmp-4.2.1_1.tbz
+01/12/2007  08:39 PM           626,556 libgnome-2.16.0.tbz
+01/12/2007  08:39 PM           258,786 libgnomecanvas-2.14.0_2.tbz
+01/12/2007  08:39 PM           528,763 libgnomeprint-2.12.1_3.tbz
+01/12/2007  08:39 PM           320,132 libgnomeprintui-2.12.1_2.tbz
+01/12/2007  08:39 PM           966,442 libgnomeui-2.16.1.tbz
+01/12/2007  08:39 PM            54,503 libgpg-error-1.4.tbz
+01/12/2007  08:39 PM           230,887 libgsf-1.14.2.tbz
+01/12/2007  08:39 PM           382,901 libgtkhtml-2.11.0_2.tbz
+01/12/2007  08:39 PM           134,103 libgtop-2.14.4.tbz
+01/12/2007  08:39 PM         1,436,010 libiconv-1.9.2_2.tbz
+01/12/2007  08:39 PM            56,817 libid3tag-0.15.1b.tbz
+01/12/2007  08:39 PM           234,591 libidn-0.6.7.tbz
+01/12/2007  08:39 PM            31,406 libltdl-1.5.22.tbz
+01/12/2007  08:39 PM           102,528 libmad-0.15.1b_2.tbz
+01/12/2007  08:39 PM           225,449 libmal-0.42_1.tbz
+01/12/2007  08:39 PM           258,829 libmng-1.0.9.tbz
+01/12/2007  08:39 PM            88,957 libmpeg2-0.4.0b_3.tbz
+01/12/2007  08:39 PM           167,569 libmusicbrainz-2.1.4.tbz
+01/12/2007  08:39 PM            39,276 libnotify-0.4.2_2.tbz
+01/12/2007  08:39 PM            65,368 libogg-1.1.3,3.tbz
+01/12/2007  08:39 PM           305,812 liboil-0.3.9_1.tbz
+01/12/2007  08:39 PM            21,736 libpaper-1.1.14.3_1.tbz
+01/12/2007  08:39 PM           216,974 librsvg2-2.16.0_1.tbz
+01/12/2007  08:39 PM           184,535 libsamplerate-0.1.2_2.tbz
+01/12/2007  08:39 PM           493,450 libslang-1.4.9.tbz
+01/12/2007  08:39 PM           367,277 libsndfile-1.0.17.tbz
+01/12/2007  08:39 PM           157,116 libsoup-2.2.96.tbz
+01/12/2007  08:39 PM           440,733 libtasn1-0.3.6.tbz
+01/12/2007  08:39 PM           764,653 libthai-0.1.5_1.tbz
+01/12/2007  08:39 PM           151,109 libtheora-1.0.a7.tbz
+01/12/2007  08:39 PM           182,665 libungif-4.1.4_1.tbz
+01/12/2007  08:39 PM            40,286 libusb-0.1.12_1.tbz
+01/12/2007  08:39 PM           577,369 libvorbis-1.1.2,3.tbz
+01/12/2007  08:39 PM           194,773 libwnck-2.16.1.tbz
+01/12/2007  08:39 PM           181,461 libwpd-0.8.4_1.tbz
+01/12/2007  08:39 PM           105,649 libxklavier-2.91_4,1.tbz
+01/12/2007  08:39 PM         1,125,200 libxml2-2.6.26.tbz
+01/12/2007  08:39 PM           243,186 libxslt-1.1.17.tbz
+01/12/2007  08:39 PM            29,321 linc-1.0.3_6.tbz
+01/12/2007  08:39 PM         1,939,243 links-2.1.p21,1.tbz
+01/12/2007  08:39 PM           973,985 lynx-2.8.5_2.tbz
+01/12/2007  08:39 PM            73,508 m4-1.4.4.tbz
+01/12/2007  08:39 PM           232,612 mDNSResponder-108.tbz
+01/12/2007  08:39 PM         1,412,334 metacity-2.16.3.tbz
+01/12/2007  08:39 PM            14,391 mime-support-3.37.1.tbz
+01/12/2007  08:39 PM        25,125,734 mono-1.1.13.8.1.tbz
+01/12/2007  08:39 PM         4,886,432 monodoc-1.1.13.tbz
+01/12/2007  08:39 PM           179,105 mtools-3.9.10.tbz
+01/12/2007  08:39 PM         1,063,706 mutt-1.4.2.2.tbz
+01/12/2007  08:39 PM           846,082 mysql-client-5.0.27.tbz
+01/12/2007  08:39 PM           479,775 nas-1.8.tbz
+01/12/2007  08:39 PM         3,024,963 nautilus-2.16.1.tbz
+01/12/2007  08:39 PM           436,445 nautilus-cd-burner-2.16.1.tbz
+01/12/2007  08:39 PM           193,072 neon-0.25.5.tbz
+01/12/2007  08:39 PM         2,060,639 net-snmp-5.2.3_3.tbz
+01/12/2007  08:39 PM           432,370 nspr-4.6.3.tbz
+01/12/2007  08:39 PM         2,674,985 nss-3.11.3.tbz
+01/12/2007  08:39 PM         4,418,377 opal-2.2.2.tbz
+01/12/2007  08:39 PM         1,274,507 openldap-client-2.3.27.tbz
+01/12/2007  08:39 PM           282,493 openslp-1.2.1_2.tbz
+01/12/2007  08:39 PM           565,011 orca-1.0.0.tbz
+01/12/2007  08:39 PM           217,424 p5-XML-LibXML-1.61003_1.tbz
+01/12/2007  08:39 PM            13,097 p5-XML-LibXML-Common-0.13.tbz
+01/12/2007  08:39 PM            13,211 p5-XML-NamespaceSupport-1.09_1.tbz
+01/12/2007  08:39 PM           180,738 p5-XML-Parser-2.34_2.tbz
+01/12/2007  08:39 PM            67,021 p5-XML-SAX-0.14.tbz
+01/12/2007  08:39 PM           493,246 pango-1.14.7.tbz
+01/12/2007  08:39 PM           209,079 pciids-20060929.tbz
+01/12/2007  08:39 PM           434,137 pcre-6.7.tbz
+01/12/2007  08:39 PM           356,922 pdksh-5.2.14p2_1.tbz
+01/12/2007  08:39 PM            90,389 pico-4.64.tbz
+01/12/2007  08:39 PM           545,411 pilot-link-0.12.1_1,1.tbz
+01/12/2007  08:39 PM         2,562,136 pine-4.64.tbz
+01/12/2007  08:39 PM            32,111 policykit-0.1.20060514_2.tbz
+01/12/2007  08:39 PM            81,434 popd-2.2.2a_4.tbz
+01/12/2007  08:39 PM         1,240,803 poppler-0.5.4_1.tbz
+01/12/2007  08:39 PM         2,331,193 poppler-data-0.1.tbz
+01/12/2007  08:39 PM            85,328 poppler-gtk-0.5.4.tbz
+01/12/2007  08:39 PM            50,479 poppler-qt-0.5.4.tbz
+01/12/2007  08:39 PM            53,471 popt-1.7_1.tbz
+01/12/2007  08:39 PM            27,930 portaudio-18.1_2.tbz
+01/12/2007  08:39 PM            10,529 portaudit-0.5.11.tbz
+01/12/2007  08:39 PM           125,339 portupgrade-2.1.3.3_1,2.tbz
+01/12/2007  08:39 PM         2,251,343 postfix-2.3.3,1.tbz
+01/12/2007  08:39 PM         1,388,622 postgresql-client-7.4.13.tbz
+01/12/2007  08:39 PM           340,992 postgresql-libpqxx-2.6.7.tbz
+01/12/2007  08:39 PM            69,222 psutils-letter-1.17_2.tbz
+01/12/2007  08:39 PM         2,016,276 pwlib-1.10.1_2,1.tbz
+01/12/2007  08:39 PM            26,409 py24-cairo-1.2.2.tbz
+01/12/2007  08:39 PM           197,983 py24-gnome-2.16.0.tbz
+01/12/2007  08:39 PM           182,756 py24-gnome-desktop-2.16.0.tbz
+01/12/2007  08:39 PM           126,043 py24-gnome-extras-2.14.2.tbz
+01/12/2007  08:39 PM           106,740 py24-gobject-2.12.2.tbz
+01/12/2007  08:39 PM         1,197,544 py24-gtk-2.10.3.tbz
+01/12/2007  08:39 PM           342,223 py24-libxml2-2.6.26.tbz
+01/12/2007  08:39 PM         1,261,512 py24-numeric-24.2.tbz
+01/12/2007  08:39 PM            38,985 py24-orbit-2.14.1.tbz
+01/12/2007  08:39 PM         7,616,495 python24-2.4.3_3.tbz
+01/12/2007  08:39 PM        13,388,642 qt-3.3.6_3.tbz
+01/12/2007  08:39 PM           214,619 rsync-2.6.8_2.tbz
+01/12/2007  08:39 PM         2,985,147 ruby-1.8.5_3,1.tbz
+01/12/2007  08:39 PM           193,228 ruby18-bdb-0.5.9_2.tbz
+01/12/2007  08:39 PM            56,565 rxvt-2.6.4_2.tbz
+01/12/2007  08:39 PM        23,958,783 samba-3.0.23c_2,1.tbz
+01/12/2007  08:39 PM         1,385,633 samba-libsmbclient-3.0.23c.tbz
+01/12/2007  08:39 PM           186,011 scrollkeeper-0.3.14_5,1.tbz
+01/12/2007  08:39 PM           854,949 sdl-1.2.11,2.tbz
+01/12/2007  08:39 PM            16,899 sdocbook-xml-4.1.2.5_2.tbz
+01/12/2007  08:39 PM           312,833 shared-mime-info-0.19.tbz
+01/12/2007  08:39 PM           571,668 slrn-0.9.8.1.tbz
+01/12/2007  08:39 PM           852,185 sound-juicer-2.16.1.tbz
+01/12/2007  08:39 PM           107,549 speex-1.0.5_1,1.tbz
+01/12/2007  08:39 PM            29,980 startup-notification-0.8_3.tbz
+01/12/2007  08:39 PM         3,795,284 subversion-1.4.0_1.tbz
+01/12/2007  08:39 PM           101,705 sudo-1.6.8.12_1.tbz
+01/12/2007  08:39 PM           697,404 svgalib-1.4.3_5.tbz
+01/12/2007  08:39 PM           419,124 system-tools-backends-1.4.2_2.tbz
+01/12/2007  08:39 PM           155,188 taglib-1.4_2.tbz
+01/12/2007  08:39 PM            92,565 tidy-20000804_2.tbz
+01/12/2007  08:39 PM           817,420 tiff-3.8.2.tbz
+01/12/2007  08:39 PM           493,560 tin-1.8.2.tbz
+01/12/2007  08:39 PM           517,390 tomboy-0.4.1_2.tbz
+01/12/2007  08:39 PM         1,531,809 totem-gstreamer-2.16.2_2.tbz
+01/12/2007  08:39 PM           123,397 unzip-5.52_2.tbz
+01/12/2007  08:39 PM            12,909 urlview-0.9_2.tbz
+01/12/2007  08:39 PM           154,450 uulib-0.5.20_1.tbz
+01/12/2007  08:39 PM         5,315,063 vim-lite-7.0.94.tbz
+01/12/2007  08:39 PM           258,599 vino-2.16.0.tbz
+01/12/2007  08:39 PM           910,851 vte-0.14.1_1.tbz
+01/12/2007  08:39 PM         1,915,794 windowmaker-0.92.0_2.tbz
+01/12/2007  08:39 PM         1,575,470 wmicons-1.0.tbz
+01/12/2007  08:39 PM           291,179 wv2-0.2.2_3.tbz
+01/12/2007  08:39 PM           648,835 xchat-2.6.6_3.tbz
+01/12/2007  08:39 PM           119,969 xearth-1.1.tbz
+01/12/2007  08:39 PM           833,787 xfmail-1.5.5_5.tbz
+01/12/2007  08:39 PM           820,793 xforms-1.0_3,1.tbz
+01/12/2007  08:39 PM            23,514 xmlcatmgr-2.2.tbz
+01/12/2007  08:39 PM         4,387,301 xscreensaver-gnome-hacks-4.24_1.tbz
+01/12/2007  08:39 PM         1,112,269 xv-3.10a_6.tbz
+01/12/2007  08:39 PM           462,354 xvid-1.1.0,1.tbz
+01/12/2007  08:39 PM           474,508 yelp-2.16.1_1.tbz
+01/12/2007  08:39 PM         1,176,667 zenity-2.16.1.tbz
+01/12/2007  08:39 PM         2,544,891 zsh-4.3.2_1.tbz
+             357 File(s)    668,575,027 bytes
+
+ Directory of G:\packages\accessibility
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 at-spi-1.7.12.tbz
+01/12/2007  08:39 PM                 0 atk-1.12.3.tbz
+01/12/2007  08:39 PM                 0 dasher-4.2.0,1.tbz
+01/12/2007  08:39 PM                 0 gail-1.9.3.tbz
+01/12/2007  08:39 PM                 0 gnome-mag-0.13.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-speech-0.4.4.tbz
+01/12/2007  08:39 PM                 0 gok-1.2.0_1,1.tbz
+01/12/2007  08:39 PM                 0 kdeaccessibility-3.5.4.tbz
+01/12/2007  08:39 PM                 0 orca-1.0.0.tbz
+               9 File(s)              0 bytes
+
+ Directory of G:\packages\afterstep
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 afterstep-1.0_1.tbz
+01/12/2007  08:39 PM                 0 asclock-1.0.tbz
+               2 File(s)              0 bytes
+
+ Directory of G:\packages\archivers
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 file-roller-2.16.1,1.tbz
+01/12/2007  08:39 PM                 0 gtar-1.15.1_2.tbz
+01/12/2007  08:39 PM                 0 unzip-5.52_2.tbz
+               3 File(s)              0 bytes
+
+ Directory of G:\packages\astro
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 xearth-1.1.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\audio
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 akode-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-mpc-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-mpeg-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-oss-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-resampler-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-xiph-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 arts-1.5.4,1.tbz
+01/12/2007  08:39 PM                 0 artswrapper-1.5.3.tbz
+01/12/2007  08:39 PM                 0 cdparanoia-3.9.8_8.tbz
+01/12/2007  08:39 PM                 0 cdrtools-2.01_5.tbz
+01/12/2007  08:39 PM                 0 esound-0.2.36_1.tbz
+01/12/2007  08:39 PM                 0 flac-1.1.2_1.tbz
+01/12/2007  08:39 PM                 0 gnome-audio-2.0.0_1.tbz
+01/12/2007  08:39 PM                 0 gnome-media-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gnome-speech-0.4.4.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-0.10.10,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-a52dec-0.10.4_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-cdparanoia-0.10.10_2,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-core-0.10_7.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-esound-0.10.4_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-flac-0.10.4_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-mad-0.10.4_2,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-ogg-0.10.10_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-vorbis-0.10.10_1,2.tbz
+01/12/2007  08:39 PM                 0 jackit-0.101.1_1.tbz
+01/12/2007  08:39 PM                 0 liba52-0.7.4_1.tbz
+01/12/2007  08:39 PM                 0 libaudiofile-0.2.6.tbz
+01/12/2007  08:39 PM                 0 libcddb-1.2.1_1.tbz
+01/12/2007  08:39 PM                 0 libid3tag-0.15.1b.tbz
+01/12/2007  08:39 PM                 0 libmad-0.15.1b_2.tbz
+01/12/2007  08:39 PM                 0 libmusicbrainz-2.1.4.tbz
+01/12/2007  08:39 PM                 0 libogg-1.1.3,3.tbz
+01/12/2007  08:39 PM                 0 libsamplerate-0.1.2_2.tbz
+01/12/2007  08:39 PM                 0 libsndfile-1.0.17.tbz
+01/12/2007  08:39 PM                 0 libvorbis-1.1.2,3.tbz
+01/12/2007  08:39 PM                 0 nas-1.8.tbz
+01/12/2007  08:39 PM                 0 portaudio-18.1_2.tbz
+01/12/2007  08:39 PM                 0 sound-juicer-2.16.1.tbz
+01/12/2007  08:39 PM                 0 speex-1.0.5_1,1.tbz
+01/12/2007  08:39 PM                 0 taglib-1.4_2.tbz
+              40 File(s)              0 bytes
+
+ Directory of G:\packages\comms
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 pilot-link-0.12.1_1,1.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\converters
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 fribidi-0.10.7.tbz
+01/12/2007  08:39 PM                 0 libiconv-1.9.2_2.tbz
+01/12/2007  08:39 PM                 0 uulib-0.5.20_1.tbz
+               3 File(s)              0 bytes
+
+ Directory of G:\packages\databases
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 db4-4.0.14_1,1.tbz
+01/12/2007  08:39 PM                 0 db41-4.1.25_3.tbz
+01/12/2007  08:39 PM                 0 db42-4.2.52_4.tbz
+01/12/2007  08:39 PM                 0 evolution-data-server-1.8.1_1.tbz
+01/12/2007  08:39 PM                 0 gdbm-1.8.3_2.tbz
+01/12/2007  08:39 PM                 0 libgda2-1.2.3_2,1.tbz
+01/12/2007  08:39 PM                 0 mysql-client-5.0.27.tbz
+01/12/2007  08:39 PM                 0 openldap-client-2.3.27.tbz
+01/12/2007  08:39 PM                 0 postgresql-client-7.4.13.tbz
+01/12/2007  08:39 PM                 0 postgresql-libpqxx-2.6.7.tbz
+01/12/2007  08:39 PM                 0 ruby18-bdb-0.5.9_2.tbz
+              11 File(s)              0 bytes
+
+ Directory of G:\packages\deskutils
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 alacarte-0.10.1.tbz
+01/12/2007  08:39 PM                 0 deskbar-applet-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-utils-2.16.1,1.tbz
+01/12/2007  08:39 PM                 0 gucharmap-gnome-1.8.0.tbz
+01/12/2007  08:39 PM                 0 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 tomboy-0.4.1_2.tbz
+               6 File(s)              0 bytes
+
+ Directory of G:\packages\devel
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 ORBit2-2.14.3.tbz
+01/12/2007  08:39 PM                 0 OpenEXR-1.2.2_1.tbz
+01/12/2007  08:39 PM                 0 apr-db42-1.2.7_1.tbz
+01/12/2007  08:39 PM                 0 atk-1.12.3.tbz
+01/12/2007  08:39 PM                 0 boost-python-1.33.1_2.tbz
+01/12/2007  08:39 PM                 0 bug-buddy-2.16.0_2.tbz
+01/12/2007  08:39 PM                 0 cvsup-without-gui-16.1h_2.tbz
+01/12/2007  08:39 PM                 0 dbus-0.93_3.tbz
+01/12/2007  08:39 PM                 0 dbus-glib-0.71.tbz
+01/12/2007  08:39 PM                 0 desktop-file-utils-0.11.tbz
+01/12/2007  08:39 PM                 0 gamin-0.1.7_2.tbz
+01/12/2007  08:39 PM                 0 gconf2-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gettext-0.14.5_2.tbz
+01/12/2007  08:39 PM                 0 glib-1.2.10_12.tbz
+01/12/2007  08:39 PM                 0 glib-2.12.4.tbz
+01/12/2007  08:39 PM                 0 gmake-3.81_1.tbz
+01/12/2007  08:39 PM                 0 gnome-vfs-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnu-autoconf-2.59.tbz
+01/12/2007  08:39 PM                 0 gnu-automake-1.9.6.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-gconf-0.10.4_3,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-gnomevfs-0.10.10_1,2.tbz
+01/12/2007  08:39 PM                 0 kdesdk-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdevelop-3.3.4.tbz
+01/12/2007  08:39 PM                 0 libIDL-0.8.7.tbz
+01/12/2007  08:39 PM                 0 libbonobo-2.16.0_1.tbz
+01/12/2007  08:39 PM                 0 libdaemon-0.10_1.tbz
+01/12/2007  08:39 PM                 0 libglade2-2.6.0_2.tbz
+01/12/2007  08:39 PM                 0 libgmp-4.2.1_1.tbz
+01/12/2007  08:39 PM                 0 libgpg-error-1.4.tbz
+01/12/2007  08:39 PM                 0 libgsf-1.14.2.tbz
+01/12/2007  08:39 PM                 0 libgtop-2.14.4.tbz
+01/12/2007  08:39 PM                 0 libiconv-1.9.2_2.tbz
+01/12/2007  08:39 PM                 0 libltdl-1.5.22.tbz
+01/12/2007  08:39 PM                 0 libnotify-0.4.2_2.tbz
+01/12/2007  08:39 PM                 0 liboil-0.3.9_1.tbz
+01/12/2007  08:39 PM                 0 libslang-1.4.9.tbz
+01/12/2007  08:39 PM                 0 libsoup-2.2.96.tbz
+01/12/2007  08:39 PM                 0 libthai-0.1.5_1.tbz
+01/12/2007  08:39 PM                 0 libusb-0.1.12_1.tbz
+01/12/2007  08:39 PM                 0 m4-1.4.4.tbz
+01/12/2007  08:39 PM                 0 monodoc-1.1.13.tbz
+01/12/2007  08:39 PM                 0 nspr-4.6.3.tbz
+01/12/2007  08:39 PM                 0 pcre-6.7.tbz
+01/12/2007  08:39 PM                 0 popt-1.7_1.tbz
+01/12/2007  08:39 PM                 0 pwlib-1.10.1_2,1.tbz
+01/12/2007  08:39 PM                 0 py24-gobject-2.12.2.tbz
+01/12/2007  08:39 PM                 0 py24-orbit-2.14.1.tbz
+01/12/2007  08:39 PM                 0 sdl-1.2.11,2.tbz
+01/12/2007  08:39 PM                 0 subversion-1.4.0_1.tbz
+01/12/2007  08:39 PM                 0 svgalib-1.4.3_5.tbz
+              50 File(s)              0 bytes
+
+ Directory of G:\packages\dns
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 avahi-0.6.14.tbz
+01/12/2007  08:39 PM                 0 libidn-0.6.7.tbz
+01/12/2007  08:39 PM                 0 mDNSResponder-108.tbz
+               3 File(s)              0 bytes
+
+ Directory of G:\packages\editors
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 dasher-4.2.0,1.tbz
+01/12/2007  08:39 PM                 0 emacs-21.3_9.tbz
+01/12/2007  08:39 PM                 0 gedit-2.16.1.tbz
+01/12/2007  08:39 PM                 0 koffice-1.5.2,2.tbz
+01/12/2007  08:39 PM                 0 pico-4.64.tbz
+01/12/2007  08:39 PM                 0 vim-lite-7.0.94.tbz
+               6 File(s)              0 bytes
+
+ Directory of G:\packages\emulators
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 mtools-3.9.10.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\ftp
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 curl-7.15.5.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\games
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 gnome-games-2.16.1.tbz
+01/12/2007  08:39 PM                 0 kdegames-3.5.4.tbz
+               2 File(s)              0 bytes
+
+ Directory of G:\packages\gnome
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 ORBit2-2.14.3.tbz
+01/12/2007  08:39 PM                 0 alacarte-0.10.1.tbz
+01/12/2007  08:39 PM                 0 bug-buddy-2.16.0_2.tbz
+01/12/2007  08:39 PM                 0 dasher-4.2.0,1.tbz
+01/12/2007  08:39 PM                 0 dbus-0.93_3.tbz
+01/12/2007  08:39 PM                 0 dbus-glib-0.71.tbz
+01/12/2007  08:39 PM                 0 deskbar-applet-2.16.1.tbz
+01/12/2007  08:39 PM                 0 eel-2.16.0_1.tbz
+01/12/2007  08:39 PM                 0 ekiga-2.0.2_5.tbz
+01/12/2007  08:39 PM                 0 eog-2.16.1.tbz
+01/12/2007  08:39 PM                 0 epiphany-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 evince-0.6.1.tbz
+01/12/2007  08:39 PM                 0 evolution-2.8.1.1.tbz
+01/12/2007  08:39 PM                 0 evolution-data-server-1.8.1_1.tbz
+01/12/2007  08:39 PM                 0 evolution-exchange-2.8.1.tbz
+01/12/2007  08:39 PM                 0 evolution-webcal-2.8.0.tbz
+01/12/2007  08:39 PM                 0 fast-user-switch-applet-2.16.0.tbz
+01/12/2007  08:39 PM                 0 file-roller-2.16.1,1.tbz
+01/12/2007  08:39 PM                 0 gcalctool-5.8.24,2.tbz
+01/12/2007  08:39 PM                 0 gconf-editor-2.16.0,1.tbz
+01/12/2007  08:39 PM                 0 gconf2-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gdl-0.6.1_1.tbz
+01/12/2007  08:39 PM                 0 gdm-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gedit-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-applets-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-audio-2.0.0_1.tbz
+01/12/2007  08:39 PM                 0 gnome-backgrounds-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-control-center-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-desktop-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-doc-utils-0.7.2_1.tbz
+01/12/2007  08:39 PM                 0 gnome-games-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-icon-theme-2.16.0.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-keyring-0.6.0.tbz
+01/12/2007  08:39 PM                 0 gnome-keyring-manager-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gnome-mag-0.13.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-media-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gnome-menus-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-mime-data-2.4.2_2.tbz
+01/12/2007  08:39 PM                 0 gnome-mount-0.4_1.tbz
+01/12/2007  08:39 PM                 0 gnome-netstatus-2.12.0_3.tbz
+01/12/2007  08:39 PM                 0 gnome-nettool-2.16.0,1.tbz
+01/12/2007  08:39 PM                 0 gnome-panel-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-power-manager-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-screensaver-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-session-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-speech-0.4.4.tbz
+01/12/2007  08:39 PM                 0 gnome-spell-1.0.7_2.tbz
+01/12/2007  08:39 PM                 0 gnome-system-monitor-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-system-tools-2.14.0_1.tbz
+01/12/2007  08:39 PM                 0 gnome-terminal-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-themes-2.16.1.1.tbz
+01/12/2007  08:39 PM                 0 gnome-user-docs-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-utils-2.16.1,1.tbz
+01/12/2007  08:39 PM                 0 gnome-vfs-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-volume-manager-2.15.0.tbz
+01/12/2007  08:39 PM                 0 gnome2-2.16.1_2.tbz
+01/12/2007  08:39 PM                 0 gnomehier-2.2.tbz
+01/12/2007  08:39 PM                 0 gok-1.2.0_1,1.tbz
+01/12/2007  08:39 PM                 0 gtkhtml3-3.12.1.tbz
+01/12/2007  08:39 PM                 0 gtksourceview-1.8.1.tbz
+01/12/2007  08:39 PM                 0 gtkspell-2.0.11_4.tbz
+01/12/2007  08:39 PM                 0 gucharmap-gnome-1.8.0.tbz
+01/12/2007  08:39 PM                 0 hicolor-icon-theme-0.9_2.tbz
+01/12/2007  08:39 PM                 0 intltool-0.35.0.tbz
+01/12/2007  08:39 PM                 0 libbonoboui-2.16.0.tbz
+01/12/2007  08:39 PM                 0 libcroco-0.6.1.tbz
+01/12/2007  08:39 PM                 0 libgda2-1.2.3_2,1.tbz
+01/12/2007  08:39 PM                 0 libglade2-2.6.0_2.tbz
+01/12/2007  08:39 PM                 0 libgnome-2.16.0.tbz
+01/12/2007  08:39 PM                 0 libgnomecanvas-2.14.0_2.tbz
+01/12/2007  08:39 PM                 0 libgnomeprint-2.12.1_3.tbz
+01/12/2007  08:39 PM                 0 libgnomeprintui-2.12.1_2.tbz
+01/12/2007  08:39 PM                 0 libgnomeui-2.16.1.tbz
+01/12/2007  08:39 PM                 0 libgtkhtml-2.11.0_2.tbz
+01/12/2007  08:39 PM                 0 libgtop-2.14.4.tbz
+01/12/2007  08:39 PM                 0 libnotify-0.4.2_2.tbz
+01/12/2007  08:39 PM                 0 librsvg2-2.16.0_1.tbz
+01/12/2007  08:39 PM                 0 libsoup-2.2.96.tbz
+01/12/2007  08:39 PM                 0 libwnck-2.16.1.tbz
+01/12/2007  08:39 PM                 0 libxml2-2.6.26.tbz
+01/12/2007  08:39 PM                 0 libxslt-1.1.17.tbz
+01/12/2007  08:39 PM                 0 monodoc-1.1.13.tbz
+01/12/2007  08:39 PM                 0 nautilus-2.16.1.tbz
+01/12/2007  08:39 PM                 0 nautilus-cd-burner-2.16.1.tbz
+01/12/2007  08:39 PM                 0 orca-1.0.0.tbz
+01/12/2007  08:39 PM                 0 policykit-0.1.20060514_2.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-desktop-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-extras-2.14.2.tbz
+01/12/2007  08:39 PM                 0 py24-libxml2-2.6.26.tbz
+01/12/2007  08:39 PM                 0 scrollkeeper-0.3.14_5,1.tbz
+01/12/2007  08:39 PM                 0 shared-mime-info-0.19.tbz
+01/12/2007  08:39 PM                 0 sound-juicer-2.16.1.tbz
+01/12/2007  08:39 PM                 0 startup-notification-0.8_3.tbz
+01/12/2007  08:39 PM                 0 system-tools-backends-1.4.2_2.tbz
+01/12/2007  08:39 PM                 0 tomboy-0.4.1_2.tbz
+01/12/2007  08:39 PM                 0 totem-gstreamer-2.16.2_2.tbz
+01/12/2007  08:39 PM                 0 vino-2.16.0.tbz
+01/12/2007  08:39 PM                 0 vte-0.14.1_1.tbz
+01/12/2007  08:39 PM                 0 xchat-2.6.6_3.tbz
+01/12/2007  08:39 PM                 0 xscreensaver-gnome-hacks-4.24_1.tbz
+01/12/2007  08:39 PM                 0 yelp-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 zenity-2.16.1.tbz
+             103 File(s)              0 bytes
+
+ Directory of G:\packages\graphics
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 OpenEXR-1.2.2_1.tbz
+01/12/2007  08:39 PM                 0 aalib-1.4.r5_2.tbz
+01/12/2007  08:39 PM                 0 cairo-1.2.4.tbz
+01/12/2007  08:39 PM                 0 eog-2.16.1.tbz
+01/12/2007  08:39 PM                 0 evince-0.6.1.tbz
+01/12/2007  08:39 PM                 0 gle-3.1.0.tbz
+01/12/2007  08:39 PM                 0 gnome-backgrounds-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-libpng-0.10.4_1,2.tbz
+01/12/2007  08:39 PM                 0 jasper-1.701.0_1.tbz
+01/12/2007  08:39 PM                 0 jpeg-6b_4.tbz
+01/12/2007  08:39 PM                 0 kdegraphics-3.5.4.tbz
+01/12/2007  08:39 PM                 0 lcms-1.15_1,1.tbz
+01/12/2007  08:39 PM                 0 libart_lgpl-2.3.17_1.tbz
+01/12/2007  08:39 PM                 0 libexif-0.6.13.tbz
+01/12/2007  08:39 PM                 0 libglut-6.4.2.tbz
+01/12/2007  08:39 PM                 0 libgnomecanvas-2.14.0_2.tbz
+01/12/2007  08:39 PM                 0 libmng-1.0.9.tbz
+01/12/2007  08:39 PM                 0 librsvg2-2.16.0_1.tbz
+01/12/2007  08:39 PM                 0 libungif-4.1.4_1.tbz
+01/12/2007  08:39 PM                 0 poppler-0.5.4_1.tbz
+01/12/2007  08:39 PM                 0 poppler-data-0.1.tbz
+01/12/2007  08:39 PM                 0 poppler-gtk-0.5.4.tbz
+01/12/2007  08:39 PM                 0 poppler-qt-0.5.4.tbz
+01/12/2007  08:39 PM                 0 py24-cairo-1.2.2.tbz
+01/12/2007  08:39 PM                 0 svgalib-1.4.3_5.tbz
+01/12/2007  08:39 PM                 0 tiff-3.8.2.tbz
+01/12/2007  08:39 PM                 0 wmicons-1.0.tbz
+01/12/2007  08:39 PM                 0 xforms-1.0_3,1.tbz
+01/12/2007  08:39 PM                 0 xv-3.10a_6.tbz
+              29 File(s)              0 bytes
+
+ Directory of G:\packages\ipv6
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 curl-7.15.5.tbz
+01/12/2007  08:39 PM                 0 cyrus-sasl-2.1.22.tbz
+01/12/2007  08:39 PM                 0 emacs-21.3_9.tbz
+01/12/2007  08:39 PM                 0 fetchmail-6.3.4_3.tbz
+01/12/2007  08:39 PM                 0 lynx-2.8.5_2.tbz
+01/12/2007  08:39 PM                 0 mutt-1.4.2.2.tbz
+01/12/2007  08:39 PM                 0 net-snmp-5.2.3_3.tbz
+01/12/2007  08:39 PM                 0 pine-4.64.tbz
+01/12/2007  08:39 PM                 0 postfix-2.3.3,1.tbz
+01/12/2007  08:39 PM                 0 python24-2.4.3_3.tbz
+01/12/2007  08:39 PM                 0 qt-3.3.6_3.tbz
+01/12/2007  08:39 PM                 0 rsync-2.6.8_2.tbz
+01/12/2007  08:39 PM                 0 ruby-1.8.5_3,1.tbz
+01/12/2007  08:39 PM                 0 slrn-0.9.8.1.tbz
+01/12/2007  08:39 PM                 0 tin-1.8.2.tbz
+01/12/2007  08:39 PM                 0 xchat-2.6.6_3.tbz
+              16 File(s)              0 bytes
+
+ Directory of G:\packages\irc
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 xchat-2.6.6_3.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\kde
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 akode-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-mpc-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-mpeg-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-oss-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-resampler-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 akode-plugins-xiph-2.0.1,1.tbz
+01/12/2007  08:39 PM                 0 arts-1.5.4,1.tbz
+01/12/2007  08:39 PM                 0 kde-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kde-xdg-env-1.0_1,1.tbz
+01/12/2007  08:39 PM                 0 kdeaccessibility-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdeadmin-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdeartwork-3.5.4_2.tbz
+01/12/2007  08:39 PM                 0 kdebase-3.5.4_4.tbz
+01/12/2007  08:39 PM                 0 kdebase-kompmgr-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdeedu-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdegames-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdegraphics-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdehier-1.0_11.tbz
+01/12/2007  08:39 PM                 0 kdelibs-3.5.4_4.tbz
+01/12/2007  08:39 PM                 0 kdemultimedia-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 kdenetwork-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 kdesdk-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdetoys-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdeutils-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdevelop-3.3.4.tbz
+01/12/2007  08:39 PM                 0 kdewebdev-3.5.4,2.tbz
+01/12/2007  08:39 PM                 0 koffice-1.5.2,2.tbz
+              28 File(s)              0 bytes
+
+ Directory of G:\packages\lang
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 guile-1.6.8.tbz
+01/12/2007  08:39 PM                 0 mono-1.1.13.8.1.tbz
+01/12/2007  08:39 PM                 0 python24-2.4.3_3.tbz
+01/12/2007  08:39 PM                 0 ruby-1.8.5_3,1.tbz
+               4 File(s)              0 bytes
+
+ Directory of G:\packages\mail
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 evolution-2.8.1.1.tbz
+01/12/2007  08:39 PM                 0 evolution-exchange-2.8.1.tbz
+01/12/2007  08:39 PM                 0 exim-4.63.tbz
+01/12/2007  08:39 PM                 0 fetchmail-6.3.4_3.tbz
+01/12/2007  08:39 PM                 0 gmime-2.2.3.tbz
+01/12/2007  08:39 PM                 0 gmime-sharp-2.2.3.tbz
+01/12/2007  08:39 PM                 0 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 mutt-1.4.2.2.tbz
+01/12/2007  08:39 PM                 0 pine-4.64.tbz
+01/12/2007  08:39 PM                 0 popd-2.2.2a_4.tbz
+01/12/2007  08:39 PM                 0 postfix-2.3.3,1.tbz
+01/12/2007  08:39 PM                 0 xfmail-1.5.5_5.tbz
+              12 File(s)              0 bytes
+
+ Directory of G:\packages\math
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 fftw3-3.1.2.tbz
+01/12/2007  08:39 PM                 0 gcalctool-5.8.24,2.tbz
+01/12/2007  08:39 PM                 0 libgmp-4.2.1_1.tbz
+01/12/2007  08:39 PM                 0 py24-numeric-24.2.tbz
+               4 File(s)              0 bytes
+
+ Directory of G:\packages\misc
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 gnome-icon-theme-2.16.0.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-mime-data-2.4.2_2.tbz
+01/12/2007  08:39 PM                 0 gnome-user-docs-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnomehier-2.2.tbz
+01/12/2007  08:39 PM                 0 hicolor-icon-theme-0.9_2.tbz
+01/12/2007  08:39 PM                 0 iso-codes-0.53.tbz
+01/12/2007  08:39 PM                 0 kde-xdg-env-1.0_1,1.tbz
+01/12/2007  08:39 PM                 0 kdeedu-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdehier-1.0_11.tbz
+01/12/2007  08:39 PM                 0 kdetoys-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdeutils-3.5.4.tbz
+01/12/2007  08:39 PM                 0 mime-support-3.37.1.tbz
+01/12/2007  08:39 PM                 0 pciids-20060929.tbz
+01/12/2007  08:39 PM                 0 shared-mime-info-0.19.tbz
+              14 File(s)              0 bytes
+
+ Directory of G:\packages\multimedia
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 gstreamer-0.10.10_1.tbz
+01/12/2007  08:39 PM                 0 gstreamer-ffmpeg-0.10.1_1.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-0.10.10,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-core-0.10_7.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-dts-0.10.3_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-dvd-0.10.4,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-good-0.10.4_4,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-mpeg2dec-0.10.4_1,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-theora-0.10.10_2,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-ugly-0.10.4_2,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-xvid-0.10.3,2.tbz
+01/12/2007  08:39 PM                 0 gstreamer80-0.8.12_2.tbz
+01/12/2007  08:39 PM                 0 kdemultimedia-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 libdvdcss-1.2.9_2.tbz
+01/12/2007  08:39 PM                 0 libdvdnav-0.1.10_1.tbz
+01/12/2007  08:39 PM                 0 libdvdread-0.9.4_1.tbz
+01/12/2007  08:39 PM                 0 libmpeg2-0.4.0b_3.tbz
+01/12/2007  08:39 PM                 0 libtheora-1.0.a7.tbz
+01/12/2007  08:39 PM                 0 totem-gstreamer-2.16.2_2.tbz
+01/12/2007  08:39 PM                 0 xvid-1.1.0,1.tbz
+              20 File(s)              0 bytes
+
+ Directory of G:\packages\net
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 avahi-0.6.14.tbz
+01/12/2007  08:39 PM                 0 cvsup-without-gui-16.1h_2.tbz
+01/12/2007  08:39 PM                 0 ekiga-2.0.2_5.tbz
+01/12/2007  08:39 PM                 0 gnome-netstatus-2.12.0_3.tbz
+01/12/2007  08:39 PM                 0 gnome-nettool-2.16.0,1.tbz
+01/12/2007  08:39 PM                 0 gnutls-1.4.4_1.tbz
+01/12/2007  08:39 PM                 0 kdenetwork-3.5.4.tbz
+01/12/2007  08:39 PM                 0 linc-1.0.3_6.tbz
+01/12/2007  08:39 PM                 0 mDNSResponder-108.tbz
+01/12/2007  08:39 PM                 0 opal-2.2.2.tbz
+01/12/2007  08:39 PM                 0 openldap-client-2.3.27.tbz
+01/12/2007  08:39 PM                 0 openslp-1.2.1_2.tbz
+01/12/2007  08:39 PM                 0 rsync-2.6.8_2.tbz
+01/12/2007  08:39 PM                 0 samba-3.0.23c_2,1.tbz
+01/12/2007  08:39 PM                 0 samba-libsmbclient-3.0.23c.tbz
+01/12/2007  08:39 PM                 0 vino-2.16.0.tbz
+              16 File(s)              0 bytes
+
+ Directory of G:\packages\net-mgmt
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 net-snmp-5.2.3_3.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\news
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 pine-4.64.tbz
+01/12/2007  08:39 PM                 0 slrn-0.9.8.1.tbz
+01/12/2007  08:39 PM                 0 tin-1.8.2.tbz
+               4 File(s)              0 bytes
+
+ Directory of G:\packages\palm
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 kdepim-3.5.4_1.tbz
+01/12/2007  08:39 PM                 0 libmal-0.42_1.tbz
+01/12/2007  08:39 PM                 0 pilot-link-0.12.1_1,1.tbz
+               3 File(s)              0 bytes
+
+ Directory of G:\packages\perl5
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 p5-XML-LibXML-1.61003_1.tbz
+01/12/2007  08:39 PM                 0 p5-XML-LibXML-Common-0.13.tbz
+01/12/2007  08:39 PM                 0 p5-XML-NamespaceSupport-1.09_1.tbz
+01/12/2007  08:39 PM                 0 p5-XML-Parser-2.34_2.tbz
+01/12/2007  08:39 PM                 0 p5-XML-SAX-0.14.tbz
+               5 File(s)              0 bytes
+
+ Directory of G:\packages\print
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 a2ps-letter-4.13b_3.tbz
+01/12/2007  08:39 PM                 0 apsfilter-7.2.8.tbz
+01/12/2007  08:39 PM                 0 cups-base-1.2.2.tbz
+01/12/2007  08:39 PM                 0 evince-0.6.1.tbz
+01/12/2007  08:39 PM                 0 ghostscript-gnu-7.07_15.tbz
+01/12/2007  08:39 PM                 0 ghostscript-gnu-nox11-7.07_15.tbz
+01/12/2007  08:39 PM                 0 gsfonts-8.11_2.tbz
+01/12/2007  08:39 PM                 0 gv-3.6.1.tbz
+01/12/2007  08:39 PM                 0 hpijs-2.1.4.tbz
+01/12/2007  08:39 PM                 0 libgnomeprint-2.12.1_3.tbz
+01/12/2007  08:39 PM                 0 libpaper-1.1.14.3_1.tbz
+01/12/2007  08:39 PM                 0 poppler-0.5.4_1.tbz
+01/12/2007  08:39 PM                 0 poppler-gtk-0.5.4.tbz
+01/12/2007  08:39 PM                 0 poppler-qt-0.5.4.tbz
+01/12/2007  08:39 PM                 0 psutils-letter-1.17_2.tbz
+              15 File(s)              0 bytes
+
+ Directory of G:\packages\python
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 py24-cairo-1.2.2.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-desktop-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-extras-2.14.2.tbz
+01/12/2007  08:39 PM                 0 py24-gobject-2.12.2.tbz
+01/12/2007  08:39 PM                 0 py24-gtk-2.10.3.tbz
+01/12/2007  08:39 PM                 0 py24-libxml2-2.6.26.tbz
+01/12/2007  08:39 PM                 0 py24-numeric-24.2.tbz
+01/12/2007  08:39 PM                 0 py24-orbit-2.14.1.tbz
+01/12/2007  08:39 PM                 0 python24-2.4.3_3.tbz
+              10 File(s)              0 bytes
+
+ Directory of G:\packages\ruby
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 ruby-1.8.5_3,1.tbz
+01/12/2007  08:39 PM                 0 ruby18-bdb-0.5.9_2.tbz
+               2 File(s)              0 bytes
+
+ Directory of G:\packages\scheme
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 guile-1.6.8.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\security
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 ca-roots-1.2.tbz
+01/12/2007  08:39 PM                 0 cyrus-sasl-2.1.22.tbz
+01/12/2007  08:39 PM                 0 gnome-keyring-0.6.0.tbz
+01/12/2007  08:39 PM                 0 gnome-keyring-manager-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gnupg-1.4.5_1.tbz
+01/12/2007  08:39 PM                 0 gnutls-1.4.4_1.tbz
+01/12/2007  08:39 PM                 0 gpgme-1.1.2_1.tbz
+01/12/2007  08:39 PM                 0 libgcrypt-1.2.3_1.tbz
+01/12/2007  08:39 PM                 0 libgpg-error-1.4.tbz
+01/12/2007  08:39 PM                 0 libtasn1-0.3.6.tbz
+01/12/2007  08:39 PM                 0 nss-3.11.3.tbz
+01/12/2007  08:39 PM                 0 portaudit-0.5.11.tbz
+01/12/2007  08:39 PM                 0 sudo-1.6.8.12_1.tbz
+              13 File(s)              0 bytes
+
+ Directory of G:\packages\shells
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 bash-2.05b.007_6.tbz
+01/12/2007  08:39 PM                 0 bash-3.1.17.tbz
+01/12/2007  08:39 PM                 0 pdksh-5.2.14p2_1.tbz
+01/12/2007  08:39 PM                 0 zsh-4.3.2_1.tbz
+               4 File(s)              0 bytes
+
+ Directory of G:\packages\sysutils
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 cdparanoia-3.9.8_8.tbz
+01/12/2007  08:39 PM                 0 cdrtools-2.01_5.tbz
+01/12/2007  08:39 PM                 0 dmidecode-2.8.tbz
+01/12/2007  08:39 PM                 0 dvd+rw-tools-6.1.tbz
+01/12/2007  08:39 PM                 0 gconf-editor-2.16.0,1.tbz
+01/12/2007  08:39 PM                 0 gnome-control-center-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-mount-0.4_1.tbz
+01/12/2007  08:39 PM                 0 gnome-power-manager-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-system-monitor-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-system-tools-2.14.0_1.tbz
+01/12/2007  08:39 PM                 0 gnome-volume-manager-2.15.0.tbz
+01/12/2007  08:39 PM                 0 gok-1.2.0_1,1.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-hal-0.10.4,2.tbz
+01/12/2007  08:39 PM                 0 gtar-1.15.1_2.tbz
+01/12/2007  08:39 PM                 0 hal-0.5.8.20060917_2.tbz
+01/12/2007  08:39 PM                 0 kdeadmin-3.5.4.tbz
+01/12/2007  08:39 PM                 0 libcdio-0.77_1.tbz
+01/12/2007  08:39 PM                 0 libgksu-1.3.8.tbz
+01/12/2007  08:39 PM                 0 libgksuui-1.0.7_1.tbz
+01/12/2007  08:39 PM                 0 nautilus-cd-burner-2.16.1.tbz
+01/12/2007  08:39 PM                 0 policykit-0.1.20060514_2.tbz
+01/12/2007  08:39 PM                 0 portupgrade-2.1.3.3_1,2.tbz
+01/12/2007  08:39 PM                 0 system-tools-backends-1.4.2_2.tbz
+              23 File(s)              0 bytes
+
+ Directory of G:\packages\textproc
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 aspell-0.60.4_4.tbz
+01/12/2007  08:39 PM                 0 docbook-sk-4.1.2_3.tbz
+01/12/2007  08:39 PM                 0 docbook-xml-4.2_1.tbz
+01/12/2007  08:39 PM                 0 docbook-xml-4.3.tbz
+01/12/2007  08:39 PM                 0 docbook-xml-4.4.tbz
+01/12/2007  08:39 PM                 0 docbook-xsl-1.70.1.tbz
+01/12/2007  08:39 PM                 0 gnome-doc-utils-0.7.2_1.tbz
+01/12/2007  08:39 PM                 0 gnome-spell-1.0.7_2.tbz
+01/12/2007  08:39 PM                 0 gtkspell-2.0.11_4.tbz
+01/12/2007  08:39 PM                 0 intltool-0.35.0.tbz
+01/12/2007  08:39 PM                 0 ispell-3.2.06_15.tbz
+01/12/2007  08:39 PM                 0 libcroco-0.6.1.tbz
+01/12/2007  08:39 PM                 0 libwpd-0.8.4_1.tbz
+01/12/2007  08:39 PM                 0 libxml2-2.6.26.tbz
+01/12/2007  08:39 PM                 0 libxslt-1.1.17.tbz
+01/12/2007  08:39 PM                 0 p5-XML-LibXML-1.61003_1.tbz
+01/12/2007  08:39 PM                 0 p5-XML-LibXML-Common-0.13.tbz
+01/12/2007  08:39 PM                 0 p5-XML-NamespaceSupport-1.09_1.tbz
+01/12/2007  08:39 PM                 0 p5-XML-Parser-2.34_2.tbz
+01/12/2007  08:39 PM                 0 p5-XML-SAX-0.14.tbz
+01/12/2007  08:39 PM                 0 py24-libxml2-2.6.26.tbz
+01/12/2007  08:39 PM                 0 scrollkeeper-0.3.14_5,1.tbz
+01/12/2007  08:39 PM                 0 sdocbook-xml-4.1.2.5_2.tbz
+01/12/2007  08:39 PM                 0 urlview-0.9_2.tbz
+01/12/2007  08:39 PM                 0 wv2-0.2.2_3.tbz
+01/12/2007  08:39 PM                 0 xmlcatmgr-2.2.tbz
+              26 File(s)              0 bytes
+
+ Directory of G:\packages\windowmaker
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 windowmaker-0.92.0_2.tbz
+01/12/2007  08:39 PM                 0 wmicons-1.0.tbz
+               2 File(s)              0 bytes
+
+ Directory of G:\packages\www
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 curl-7.15.5.tbz
+01/12/2007  08:39 PM                 0 epiphany-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 evolution-webcal-2.8.0.tbz
+01/12/2007  08:39 PM                 0 firefox-1.5.0.8,1.tbz
+01/12/2007  08:39 PM                 0 gtkhtml3-3.12.1.tbz
+01/12/2007  08:39 PM                 0 kdewebdev-3.5.4,2.tbz
+01/12/2007  08:39 PM                 0 libgtkhtml-2.11.0_2.tbz
+01/12/2007  08:39 PM                 0 links-2.1.p21,1.tbz
+01/12/2007  08:39 PM                 0 lynx-2.8.5_2.tbz
+01/12/2007  08:39 PM                 0 neon-0.25.5.tbz
+01/12/2007  08:39 PM                 0 tidy-20000804_2.tbz
+01/12/2007  08:39 PM                 0 urlview-0.9_2.tbz
+              12 File(s)              0 bytes
+
+ Directory of G:\packages\x11
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 dasher-4.2.0,1.tbz
+01/12/2007  08:39 PM                 0 fast-user-switch-applet-2.16.0.tbz
+01/12/2007  08:39 PM                 0 gdm-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-applets-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-desktop-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-menus-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-panel-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-screensaver-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-session-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome-terminal-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 gnome2-2.16.1_2.tbz
+01/12/2007  08:39 PM                 0 kde-3.5.4.tbz
+01/12/2007  08:39 PM                 0 kdebase-3.5.4_4.tbz
+01/12/2007  08:39 PM                 0 kdelibs-3.5.4_4.tbz
+01/12/2007  08:39 PM                 0 libgnome-2.16.0.tbz
+01/12/2007  08:39 PM                 0 libxklavier-2.91_4,1.tbz
+01/12/2007  08:39 PM                 0 orca-1.0.0.tbz
+01/12/2007  08:39 PM                 0 rxvt-2.6.4_2.tbz
+01/12/2007  08:39 PM                 0 startup-notification-0.8_3.tbz
+01/12/2007  08:39 PM                 0 xscreensaver-gnome-hacks-4.24_1.tbz
+01/12/2007  08:39 PM                 0 yelp-2.16.1_1.tbz
+01/12/2007  08:39 PM                 0 zenity-2.16.1.tbz
+              22 File(s)              0 bytes
+
+ Directory of G:\packages\x11-clocks
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 asclock-1.0.tbz
+01/12/2007  08:39 PM                 0 kdetoys-3.5.4.tbz
+               2 File(s)              0 bytes
+
+ Directory of G:\packages\x11-fm
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 nautilus-2.16.1.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\x11-fonts
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 gsfonts-8.11_2.tbz
+               1 File(s)              0 bytes
+
+ Directory of G:\packages\x11-themes
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 gnome-backgrounds-2.16.1.tbz
+01/12/2007  08:39 PM                 0 gnome-themes-2.16.1.1.tbz
+01/12/2007  08:39 PM                 0 gtk-engines2-2.8.1.tbz
+01/12/2007  08:39 PM                 0 kdeartwork-3.5.4_2.tbz
+               4 File(s)              0 bytes
+
+ Directory of G:\packages\x11-toolkits
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 Xaw3d-1.5E_1.tbz
+01/12/2007  08:39 PM                 0 at-spi-1.7.12.tbz
+01/12/2007  08:39 PM                 0 eel-2.16.0_1.tbz
+01/12/2007  08:39 PM                 0 gail-1.9.3.tbz
+01/12/2007  08:39 PM                 0 gdl-0.6.1_1.tbz
+01/12/2007  08:39 PM                 0 gstreamer-plugins-pango-0.10.10_1,2.tbz
+01/12/2007  08:39 PM                 0 gtk-2.10.6_2.tbz
+01/12/2007  08:39 PM                 0 gtk-sharp-2.8.2.tbz
+01/12/2007  08:39 PM                 0 gtksourceview-1.8.1.tbz
+01/12/2007  08:39 PM                 0 libbonoboui-2.16.0.tbz
+01/12/2007  08:39 PM                 0 libgail-gnome-1.1.3_2.tbz
+01/12/2007  08:39 PM                 0 libgnomeprintui-2.12.1_2.tbz
+01/12/2007  08:39 PM                 0 libgnomeui-2.16.1.tbz
+01/12/2007  08:39 PM                 0 libwnck-2.16.1.tbz
+01/12/2007  08:39 PM                 0 pango-1.14.7.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-desktop-2.16.0.tbz
+01/12/2007  08:39 PM                 0 py24-gnome-extras-2.14.2.tbz
+01/12/2007  08:39 PM                 0 py24-gtk-2.10.3.tbz
+01/12/2007  08:39 PM                 0 qt-3.3.6_3.tbz
+01/12/2007  08:39 PM                 0 vte-0.14.1_1.tbz
+01/12/2007  08:39 PM                 0 xforms-1.0_3,1.tbz
+              22 File(s)              0 bytes
+
+ Directory of G:\packages\x11-wm
+
+01/12/2007  08:39 PM    <DIR>          .
+01/12/2007  08:47 PM    <DIR>          ..
+01/12/2007  08:39 PM                 0 afterstep-1.0_1.tbz
+01/12/2007  08:39 PM                 0 fvwm-2.4.19.tbz
+01/12/2007  08:39 PM                 0 kdebase-kompmgr-3.5.4.tbz
+01/12/2007  08:39 PM                 0 metacity-2.16.3.tbz
+01/12/2007  08:39 PM                 0 windowmaker-0.92.0_2.tbz
+               5 File(s)              0 bytes
+
+     Total Files Listed:
+             923 File(s)    668,971,462 bytes
+             147 Dir(s)               0 bytes free

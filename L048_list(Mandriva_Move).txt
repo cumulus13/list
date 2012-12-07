@@ -1,0 +1,40 @@
+ Volume in drive G is Move
+ Volume Serial Number is C9C3-8BD3
+
+ Directory of G:\
+
+10/04/2004  03:47 PM    <DIR>          isolinux
+10/04/2004  03:47 PM       471,374,168 live_tree.clp
+10/04/2004  03:20 PM        16,615,937 live_tree_always.clp
+10/04/2004  03:25 PM           698,910 live_tree_always_i18n_de.clp
+10/04/2004  03:22 PM           916,183 live_tree_always_i18n_en.clp
+10/04/2004  03:27 PM           676,245 live_tree_always_i18n_es.clp
+10/04/2004  03:24 PM           692,975 live_tree_always_i18n_fr.clp
+10/04/2004  03:26 PM           677,909 live_tree_always_i18n_it.clp
+10/04/2004  03:21 PM        12,729,992 live_tree_boot.clp
+10/04/2004  03:25 PM        39,511,850 live_tree_i18n_de.clp
+10/04/2004  03:22 PM        24,821,701 live_tree_i18n_en.clp
+10/04/2004  03:27 PM        33,795,323 live_tree_i18n_es.clp
+10/04/2004  03:24 PM        47,602,017 live_tree_i18n_fr.clp
+10/04/2004  03:26 PM        26,227,710 live_tree_i18n_it.clp
+10/04/2004  03:21 PM         5,583,549 live_tree_totem.clp
+              14 File(s)    681,924,469 bytes
+
+ Directory of G:\isolinux
+
+10/04/2004  03:47 PM    <DIR>          .
+10/04/2004  03:47 PM    <DIR>          ..
+04/02/2004  08:14 PM                38 .cvsignore
+10/04/2004  03:18 PM         3,472,497 all.rdz
+10/04/2004  03:47 PM             2,048 boot.cat
+10/04/2004  03:18 PM            50,805 boot.msg
+07/31/2004  01:02 AM             1,361 help.msg
+10/04/2004  03:18 PM             9,660 isolinux.bin
+06/02/2004  05:31 PM               277 isolinux.cfg
+07/31/2004  01:02 AM             1,452 make.pl
+10/04/2004  03:18 PM         1,441,446 vmlinuz
+               9 File(s)      4,979,584 bytes
+
+     Total Files Listed:
+              23 File(s)    686,904,053 bytes
+               3 Dir(s)               0 bytes free

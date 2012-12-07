@@ -1,0 +1,3004 @@
+ Volume in drive F is BORLAND C++ BUIL
+ Volume Serial Number is 14E9-1213
+
+ Directory of F:\
+
+08/03/2007  10:26 PM            15,557 readme.txt
+08/03/2007  10:26 PM            21,366 readme.rtf
+08/03/2007  10:26 PM             4,220 privacy.txt
+08/03/2007  10:26 PM             5,412 privacy.rtf
+08/03/2007  10:26 PM            35,027 license.txt
+08/03/2007  10:26 PM            66,618 license.rtf
+08/03/2007  10:26 PM             9,347 install.txt
+08/03/2007  10:26 PM            15,535 install.rtf
+08/03/2007  10:26 PM    <DIR>          ib7
+08/03/2007  10:26 PM    <DIR>          dotNETSDK
+08/03/2007  10:26 PM    <DIR>          dotNETRedist
+08/03/2007  10:26 PM    <DIR>          dotNETJSharp
+08/03/2007  10:26 PM             6,537 deploy.txt
+08/03/2007  10:26 PM            31,889 deploy.rtf
+08/03/2007  10:26 PM               549 csharpbuild.slip
+08/03/2007  10:26 PM                49 autorun.inf
+08/03/2007  10:26 PM             1,209 MSDEInfo.txt
+08/03/2007  10:26 PM             6,251 MSDEInfo.rtf
+08/03/2007  10:26 PM    <DIR>          MDAC27SP1
+08/03/2007  10:26 PM    <DIR>          Launcher
+08/03/2007  10:26 PM    <DIR>          Janeva
+08/03/2007  10:26 PM    <DIR>          JRE1.4
+08/03/2007  10:26 PM               397 Install.ini
+08/03/2007  10:26 PM           126,976 Install.exe
+08/03/2007  10:26 PM    <DIR>          Install
+08/03/2007  10:26 PM    <DIR>          IE60SP1
+08/03/2007  10:26 PM            31,901 EULA_Crystal Reports.rtf
+08/03/2007  10:26 PM    <DIR>          Demeanor PE
+08/03/2007  10:26 PM    <DIR>          Crack
+08/03/2007  10:26 PM    <DIR>          Component One
+08/03/2007  10:26 PM             4,150 C#BUILDER.ICO
+              18 File(s)        382,990 bytes
+
+ Directory of F:\ib7
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          IBDocs
+08/03/2007  10:26 PM               787 index.html
+08/03/2007  10:26 PM    <DIR>          setup
+08/03/2007  10:26 PM    <DIR>          win32
+               1 File(s)            787 bytes
+
+ Directory of F:\ib7\IBDocs
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Doc
+08/03/2007  10:26 PM             2,643 Install.txt
+08/03/2007  10:26 PM            33,292 License.txt
+08/03/2007  10:26 PM             5,635 Readme.txt
+08/03/2007  10:26 PM           304,982 ReleaseNotes.pdf
+08/03/2007  10:26 PM           338,192 SETUPAPI.DLL
+08/03/2007  10:26 PM            23,552 cfgmgr32.dll
+08/03/2007  10:26 PM           167,936 ibinstall.dll
+               7 File(s)        876,232 bytes
+
+ Directory of F:\ib7\IBDocs\Doc
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            32,047 2AllBooks.pdf
+08/03/2007  10:26 PM         2,308,141 APIGuide.pdf
+08/03/2007  10:26 PM         1,528,529 DataDef.pdf
+08/03/2007  10:26 PM         1,761,112 DevGuide.pdf
+08/03/2007  10:26 PM         1,792,958 EmbedSQL.pdf
+08/03/2007  10:26 PM    <DIR>          Ft3index
+08/03/2007  10:26 PM               901 Ft3index.pdx
+08/03/2007  10:26 PM         1,589,365 LangRef.pdf
+08/03/2007  10:26 PM         2,287,382 OpGuide.pdf
+08/03/2007  10:26 PM           304,982 ReleaseNotes.pdf
+               9 File(s)     11,605,417 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          assists
+08/03/2007  10:26 PM    <DIR>          morgue
+08/03/2007  10:26 PM    <DIR>          parts
+08/03/2007  10:26 PM    <DIR>          pdd
+08/03/2007  10:26 PM    <DIR>          style
+08/03/2007  10:26 PM    <DIR>          temp
+08/03/2007  10:26 PM    <DIR>          topicidx
+08/03/2007  10:26 PM    <DIR>          trans
+08/03/2007  10:26 PM    <DIR>          work
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\assists
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               773 00000000.abt
+08/03/2007  10:26 PM           181,248 00000000.wld
+08/03/2007  10:26 PM             1,138 00000001.abt
+08/03/2007  10:26 PM             1,138 00000002.abt
+08/03/2007  10:26 PM             1,138 00000003.abt
+08/03/2007  10:26 PM             1,138 00000004.abt
+08/03/2007  10:26 PM                 3 acrocat.cat
+               7 File(s)        186,576 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\morgue
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                 3 acrocat.cat
+               1 File(s)              3 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\parts
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            16,384 00000001.ddd
+08/03/2007  10:26 PM         1,148,928 00000001.did
+               2 File(s)      1,165,312 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\pdd
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             7,168 00000000.pdd
+               1 File(s)          7,168 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\style
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,916 style.ddd
+08/03/2007  10:26 PM               768 style.did
+08/03/2007  10:26 PM               373 style.pdd
+08/03/2007  10:26 PM             1,767 style.plc
+08/03/2007  10:26 PM                31 style.stp
+08/03/2007  10:26 PM               561 style.wld
+               6 File(s)          5,416 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\temp
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                 3 acrocat.cat
+               1 File(s)              3 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\topicidx
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                 3 acrocat.cat
+               1 File(s)              3 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\trans
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                 3 acrocat.cat
+08/03/2007  10:26 PM               100 data.trn
+               2 File(s)            103 bytes
+
+ Directory of F:\ib7\IBDocs\Doc\Ft3index\work
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                 3 acrocat.cat
+               1 File(s)              3 bytes
+
+ Directory of F:\ib7\setup
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,371 categories.html
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM             2,827 license_info.html
+08/03/2007  10:26 PM             3,370 main.html
+08/03/2007  10:26 PM             1,769 setup.css
+08/03/2007  10:26 PM               554 topbanner.html
+               5 File(s)          9,891 bytes
+
+ Directory of F:\ib7\setup\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,055 header2_ib70.gif
+08/03/2007  10:26 PM            63,930 header3_ib70.gif
+08/03/2007  10:26 PM            12,052 header_ib65.gif
+08/03/2007  10:26 PM            11,087 header_ib70.gif
+               4 File(s)         97,124 bytes
+
+ Directory of F:\ib7\win32
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Adobe
+08/03/2007  10:26 PM    <DIR>          Client
+08/03/2007  10:26 PM    <DIR>          IBX
+08/03/2007  10:26 PM             2,995 Install.txt
+08/03/2007  10:26 PM    <DIR>          InterClient
+08/03/2007  10:26 PM            33,077 License.txt
+08/03/2007  10:26 PM    <DIR>          ODBC
+08/03/2007  10:26 PM             6,195 Readme.txt
+08/03/2007  10:26 PM           338,192 SETUPAPI.DLL
+08/03/2007  10:26 PM    <DIR>          Server
+08/03/2007  10:26 PM           877,568 Setup.exe
+08/03/2007  10:26 PM            23,552 cfgmgr32.dll
+08/03/2007  10:26 PM           401,408 gds32.dll
+08/03/2007  10:26 PM           167,936 ibinstall.dll
+08/03/2007  10:26 PM           674,304 ibuninst.exe
+08/03/2007  10:26 PM           277,776 msvcrt.dll
+08/03/2007  10:26 PM    <DIR>          type3
+              10 File(s)      2,803,003 bytes
+
+ Directory of F:\ib7\win32\Adobe
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM        10,432,544 rp505enu.exe
+               1 File(s)     10,432,544 bytes
+
+ Directory of F:\ib7\win32\Client
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Doc
+08/03/2007  10:26 PM    <DIR>          HtmlRef
+08/03/2007  10:26 PM             2,996 Install.txt
+08/03/2007  10:26 PM            33,292 License.txt
+08/03/2007  10:26 PM    <DIR>          Microsoft
+08/03/2007  10:26 PM             6,195 Readme.txt
+08/03/2007  10:26 PM           304,982 ReleaseNotes.pdf
+08/03/2007  10:26 PM    <DIR>          SDK
+08/03/2007  10:26 PM    <DIR>          bin
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM           401,408 gds32.dll
+08/03/2007  10:26 PM               126 ib_license.dat
+08/03/2007  10:26 PM           167,936 ibinstall.dll
+08/03/2007  10:26 PM           131,724 interbase.msg
+08/03/2007  10:26 PM           277,776 msvcrt.dll
+               9 File(s)      1,326,435 bytes
+
+ Directory of F:\ib7\win32\Client\Doc
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               653 How2GetDocs.txt
+               1 File(s)            653 bytes
+
+ Directory of F:\ib7\win32\Client\HtmlRef
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           689,236 APIFunctionRef.html
+08/03/2007  10:26 PM           647,345 SqlRef.html
+               2 File(s)      1,336,581 bytes
+
+ Directory of F:\ib7\win32\Client\Microsoft
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           429,672 401comupd.exe
+               1 File(s)        429,672 bytes
+
+ Directory of F:\ib7\win32\Client\SDK
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          include
+08/03/2007  10:26 PM    <DIR>          lib
+08/03/2007  10:26 PM    <DIR>          lib_ms
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\Client\SDK\include
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             8,435 IBInstall.pas
+08/03/2007  10:26 PM               307 ib_util.h
+08/03/2007  10:26 PM               697 ib_util.pas
+08/03/2007  10:26 PM           101,893 ibase.h
+08/03/2007  10:26 PM            39,854 iberror.h
+08/03/2007  10:26 PM            10,887 ibinstall.h
+08/03/2007  10:26 PM             3,606 ibxml.h
+08/03/2007  10:26 PM             1,811 ibxml_proto.h
+               8 File(s)        167,490 bytes
+
+ Directory of F:\ib7\win32\Client\SDK\lib
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            31,232 gds32.lib
+08/03/2007  10:26 PM             1,024 ib_util.lib
+08/03/2007  10:26 PM             1,536 ibinstall.lib
+08/03/2007  10:26 PM             1,536 ibxml.lib
+               4 File(s)         35,328 bytes
+
+ Directory of F:\ib7\win32\Client\SDK\lib_ms
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            64,828 gds32_ms.lib
+08/03/2007  10:26 PM             2,162 ib_util_ms.lib
+08/03/2007  10:26 PM             7,532 ibinstall_ms.lib
+08/03/2007  10:26 PM             3,200 ibxml_ms.lib
+               4 File(s)         77,722 bytes
+
+ Directory of F:\ib7\win32\Client\bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,906 IBConsole.cnt
+08/03/2007  10:26 PM         2,941,440 IBConsole.exe
+08/03/2007  10:26 PM            96,211 IBConsole.hlp
+08/03/2007  10:26 PM           209,000 IBRepl.exe
+08/03/2007  10:26 PM           468,584 IBReplServer.exe
+08/03/2007  10:26 PM           367,208 IBReplSrvcInstall.exe
+08/03/2007  10:26 PM             2,501 IBRplManager.cnt
+08/03/2007  10:26 PM         2,136,680 IBRplManager.exe
+08/03/2007  10:26 PM            24,187 IBRplManager.gid
+08/03/2007  10:26 PM            58,514 IBRplManager.hlp
+08/03/2007  10:26 PM           582,248 IBScheduler.exe
+08/03/2007  10:26 PM           219,024 SQLREF.HLP
+08/03/2007  10:26 PM             1,864 SqlRef.cnt
+08/03/2007  10:26 PM           217,088 gbak.exe
+08/03/2007  10:26 PM           401,408 gds32.dll
+08/03/2007  10:26 PM            45,056 gfix.exe
+08/03/2007  10:26 PM           376,832 gpre.exe
+08/03/2007  10:26 PM            40,960 gsec.exe
+08/03/2007  10:26 PM             2,355 ib32.cnt
+08/03/2007  10:26 PM            58,058 ib32.hlp
+08/03/2007  10:26 PM                86 ibgloss.cnt
+08/03/2007  10:26 PM            25,445 ibgloss.hlp
+08/03/2007  10:26 PM            36,864 iblicense.dll
+08/03/2007  10:26 PM            45,056 iblicense.exe
+08/03/2007  10:26 PM            36,864 ibxml.dll
+08/03/2007  10:26 PM            20,480 instreg.exe
+08/03/2007  10:26 PM           172,032 isql.exe
+08/03/2007  10:26 PM               982 perform.cnt
+08/03/2007  10:26 PM            33,168 perform.hlp
+              29 File(s)      8,627,101 bytes
+
+ Directory of F:\ib7\win32\Client\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,205 Readme.txt
+08/03/2007  10:26 PM    <DIR>          api
+08/03/2007  10:26 PM    <DIR>          gpre
+08/03/2007  10:26 PM    <DIR>          services
+               1 File(s)          6,205 bytes
+
+ Directory of F:\ib7\win32\Client\examples\api
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM             1,889 align.h
+08/03/2007  10:26 PM             4,809 api1.c
+08/03/2007  10:26 PM             6,581 api10.c
+08/03/2007  10:26 PM             6,581 api11.c
+08/03/2007  10:26 PM            11,600 api12.c
+08/03/2007  10:26 PM             6,596 api13.c
+08/03/2007  10:26 PM             7,253 api15.c
+08/03/2007  10:26 PM             7,657 api16.c
+08/03/2007  10:26 PM             5,571 api16t.c
+08/03/2007  10:26 PM             5,288 api2.c
+08/03/2007  10:26 PM             5,035 api3.c
+08/03/2007  10:26 PM             5,042 api4.c
+08/03/2007  10:26 PM             4,241 api5.c
+08/03/2007  10:26 PM             7,956 api6.c
+08/03/2007  10:26 PM             6,007 api7.c
+08/03/2007  10:26 PM             5,314 api8.c
+08/03/2007  10:26 PM            14,420 apifull.c
+08/03/2007  10:26 PM             2,327 employe2.sql
+08/03/2007  10:26 PM             1,331 example.h
+08/03/2007  10:26 PM             8,184 xml_api_buffer.c
+08/03/2007  10:26 PM             7,979 xml_api_file.c
+              23 File(s)        152,763 bytes
+
+ Directory of F:\ib7\win32\Client\examples\gpre
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM             6,767 api14.e
+08/03/2007  10:26 PM             3,403 dyn1.e
+08/03/2007  10:26 PM             4,026 dyn2.e
+08/03/2007  10:26 PM             3,745 dyn3.e
+08/03/2007  10:26 PM             4,120 dyn4.e
+08/03/2007  10:26 PM             3,446 dyn5.e
+08/03/2007  10:26 PM            10,317 dynfull.e
+08/03/2007  10:26 PM             2,327 employe2.sql
+08/03/2007  10:26 PM             2,425 stat1.e
+08/03/2007  10:26 PM             4,309 stat10.e
+08/03/2007  10:26 PM             4,166 stat11.e
+08/03/2007  10:26 PM             3,549 stat12.e
+08/03/2007  10:26 PM             2,422 stat12t.e
+08/03/2007  10:26 PM             2,286 stat2.e
+08/03/2007  10:26 PM             2,764 stat3.e
+08/03/2007  10:26 PM             3,839 stat4.e
+08/03/2007  10:26 PM             3,097 stat5.e
+08/03/2007  10:26 PM             2,977 stat6.e
+08/03/2007  10:26 PM             2,809 stat7.e
+08/03/2007  10:26 PM             3,554 stat8.e
+08/03/2007  10:26 PM             4,054 stat9.e
+              23 File(s)        101,504 bytes
+
+ Directory of F:\ib7\win32\Client\examples\services
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,071 get_log.c
+08/03/2007  10:26 PM             2,779 gstat.c
+08/03/2007  10:26 PM            12,925 isc_info_svc_all.c
+08/03/2007  10:26 PM             2,649 query_database_info.c
+08/03/2007  10:26 PM             2,728 start_backup.c
+08/03/2007  10:26 PM             3,407 start_backup_1.c
+08/03/2007  10:26 PM             2,972 start_backup_split.c
+08/03/2007  10:26 PM             1,703 start_license_add.c
+08/03/2007  10:26 PM             2,896 start_restore.c
+08/03/2007  10:26 PM             2,923 start_restore_join.c
+08/03/2007  10:26 PM             3,683 start_user_add.c
+08/03/2007  10:26 PM             3,189 start_user_delete.c
+08/03/2007  10:26 PM             5,175 start_user_display.c
+08/03/2007  10:26 PM             3,416 start_user_modify.c
+              14 File(s)         52,516 bytes
+
+ Directory of F:\ib7\win32\IBX
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             8,785 FrenchResources_45.zip
+08/03/2007  10:26 PM            13,353 GermanResource_45.zip
+08/03/2007  10:26 PM         2,158,126 IBXBCB504Upd.EXE
+08/03/2007  10:26 PM         2,410,660 IBXBCB605.EXE
+08/03/2007  10:26 PM         1,812,835 IBXDP504Upd.EXE
+08/03/2007  10:26 PM         2,007,950 IBXDP605.EXE
+08/03/2007  10:26 PM         1,962,354 IBXDP705.EXE
+               7 File(s)     10,374,063 bytes
+
+ Directory of F:\ib7\win32\InterClient
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          docs
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM           167,936 ibinstall.dll
+08/03/2007  10:26 PM           184,153 interclient.jar
+08/03/2007  10:26 PM    <DIR>          jbuilder_help
+               2 File(s)        352,089 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,158 alldocs-frame.html
+08/03/2007  10:26 PM               968 docs.html
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM    <DIR>          help
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM               628 index.html
+08/03/2007  10:26 PM    <DIR>          introduction
+08/03/2007  10:26 PM    <DIR>          readmes
+08/03/2007  10:26 PM    <DIR>          slide_show
+08/03/2007  10:26 PM    <DIR>          specifications
+               3 File(s)          2,754 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,266 DataSourceExample.txt
+08/03/2007  10:26 PM            19,959 DriverExample.txt
+08/03/2007  10:26 PM             5,615 ExampleTests.txt
+08/03/2007  10:26 PM             4,348 JNDIExample.txt
+08/03/2007  10:26 PM            47,533 PerformanceTests.txt
+08/03/2007  10:26 PM             1,459 ServerManagerExample.txt
+               6 File(s)         81,180 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\help
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,757 help.html
+08/03/2007  10:26 PM             3,246 icAccessingExtensions.html
+08/03/2007  10:26 PM            11,207 icArray.html
+08/03/2007  10:26 PM             4,257 icCharacters.html
+08/03/2007  10:26 PM            11,545 icConnectionProperties.html
+08/03/2007  10:26 PM             3,308 icDeveloperSystemRequirements.html
+08/03/2007  10:26 PM             2,842 icDistributingYourJavaApplication.html
+08/03/2007  10:26 PM             2,776 icEndUserRequirements.html
+08/03/2007  10:26 PM            54,405 icExtensions.html
+08/03/2007  10:26 PM             4,479 icExternalResources.html
+08/03/2007  10:26 PM             6,125 icGettingAConnection.html
+08/03/2007  10:26 PM             4,410 icJDBCTypes.html
+08/03/2007  10:26 PM             2,616 icJarFiles.html
+08/03/2007  10:26 PM             3,651 icJavadoc.html
+08/03/2007  10:26 PM             2,604 icResources.html
+08/03/2007  10:26 PM            15,688 icSQLStates.html
+08/03/2007  10:26 PM             3,280 icSystemConfiguration.html
+08/03/2007  10:26 PM             2,994 icTechSupport.html
+08/03/2007  10:26 PM            15,844 icTroubleShooting.html
+08/03/2007  10:26 PM             4,910 icURLSyntax.html
+08/03/2007  10:26 PM             2,653 icUninstallingInterClient.html
+08/03/2007  10:26 PM             5,021 icUsingTheInterServerConfigurationUtility.html
+              22 File(s)        171,618 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            12,163 background.jpg
+08/03/2007  10:26 PM            36,902 customHierarchy.gif
+               2 File(s)         49,065 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\introduction
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,829 PROGGcon.html
+08/03/2007  10:26 PM             7,980 PROGGov.html
+08/03/2007  10:26 PM             4,264 PROGGprf.html
+08/03/2007  10:26 PM             5,571 PROGGsp.html
+08/03/2007  10:26 PM            12,522 PROGGsql.html
+08/03/2007  10:26 PM             2,185 PROGGts.html
+08/03/2007  10:26 PM             5,100 PROGdepl.html
+08/03/2007  10:26 PM             3,129 PROGdrvr.html
+08/03/2007  10:26 PM             5,542 PROGjdbc.html
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM             2,333 introduction.html
+              10 File(s)         55,455 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\introduction\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,513 fig1.gif
+08/03/2007  10:26 PM             4,853 fig2.gif
+08/03/2007  10:26 PM             3,583 fig3.gif
+08/03/2007  10:26 PM             3,107 fig5.gif
+               4 File(s)         15,056 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\readmes
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,934 Install.txt
+08/03/2007  10:26 PM             4,345 JBuilderNotes.txt
+08/03/2007  10:26 PM            21,652 License.txt
+08/03/2007  10:26 PM             2,092 Readme.txt
+08/03/2007  10:26 PM               595 Relnotes.txt
+               5 File(s)         31,618 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\slide_show
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,594 agenda.html
+08/03/2007  10:26 PM             2,703 bdeArch.html
+08/03/2007  10:26 PM             3,249 class1JdbcArch.html
+08/03/2007  10:26 PM             3,332 class2JdbcArch.html
+08/03/2007  10:26 PM             4,150 class3JdbcArch.html
+08/03/2007  10:26 PM             4,904 class4JdbcArch.html
+08/03/2007  10:26 PM             3,466 corba.html
+08/03/2007  10:26 PM             4,007 coverPage.html
+08/03/2007  10:26 PM             2,874 demoPerformance.html
+08/03/2007  10:26 PM             5,409 driverPerformance.html
+08/03/2007  10:26 PM             2,938 driversTested.html
+08/03/2007  10:26 PM             2,215 featureDemos.html
+08/03/2007  10:26 PM             5,392 features.html
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM             8,098 jdbc2core.html
+08/03/2007  10:26 PM            10,188 jdbc2extensions.html
+08/03/2007  10:26 PM             2,704 jdbcBasics.html
+08/03/2007  10:26 PM             3,342 jdbcBasicsGettingAConnection.html
+08/03/2007  10:26 PM             2,656 jdbcBasicsRetrievingResults.html
+08/03/2007  10:26 PM             3,033 jdbcBasicsSubmittingSQL.html
+08/03/2007  10:26 PM             3,548 jdbcBasicsSummary.html
+08/03/2007  10:26 PM             3,877 networkCapableDrivers.html
+08/03/2007  10:26 PM             3,297 odbcArch.html
+08/03/2007  10:26 PM             2,829 performanceHints.html
+08/03/2007  10:26 PM             4,046 rpcVsMom.html
+08/03/2007  10:26 PM             2,597 theEnd.html
+08/03/2007  10:26 PM             4,717 tieredArch.html
+08/03/2007  10:26 PM             2,304 usingADriverExtension.html
+08/03/2007  10:26 PM             2,180 usingIcWithJBuilder.html
+08/03/2007  10:26 PM             4,943 whatIsJdbc.html
+08/03/2007  10:26 PM             2,901 whatsComing.html
+08/03/2007  10:26 PM             3,929 wheresTheBeef.html
+              31 File(s)        119,422 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\slide_show\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,113 2tierArch.gif
+08/03/2007  10:26 PM             4,085 3tierArch.gif
+08/03/2007  10:26 PM             4,423 archTemplate.gif
+08/03/2007  10:26 PM             5,873 bdeArch.gif
+08/03/2007  10:26 PM             6,196 class1JdbcArch.gif
+08/03/2007  10:26 PM             5,534 class2JdbcArch.gif
+08/03/2007  10:26 PM             4,980 class3JdbcArch.gif
+08/03/2007  10:26 PM             3,417 class4JdbcArch.gif
+08/03/2007  10:26 PM            31,649 dts.gif
+08/03/2007  10:26 PM            14,996 jdbcapi1.gif
+08/03/2007  10:26 PM            20,561 jdbcapi2.gif
+08/03/2007  10:26 PM            33,626 jdbcapi3.gif
+08/03/2007  10:26 PM            11,819 momvsrpc.gif
+08/03/2007  10:26 PM             5,578 odbcArch.gif
+              14 File(s)        155,850 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\specifications
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             7,389 allclasses-frame.html
+08/03/2007  10:26 PM             9,594 deprecated-list.html
+08/03/2007  10:26 PM             7,484 help-doc.html
+08/03/2007  10:26 PM           259,465 index-all.html
+08/03/2007  10:26 PM               785 index.html
+08/03/2007  10:26 PM    <DIR>          interbase
+08/03/2007  10:26 PM             1,180 overview-frame.html
+08/03/2007  10:26 PM             5,969 overview-summary.html
+08/03/2007  10:26 PM            18,182 overview-tree.html
+08/03/2007  10:26 PM                52 package-list
+08/03/2007  10:26 PM               671 packages.html
+08/03/2007  10:26 PM            24,264 serialized-form.html
+08/03/2007  10:26 PM             1,269 stylesheet.css
+              12 File(s)        336,304 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\specifications\interbase
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          interclient
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\specifications\interbase\interclient
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            17,905 Adaptor.html
+08/03/2007  10:26 PM            38,025 Array.html
+08/03/2007  10:26 PM            11,548 BadInstallationException.html
+08/03/2007  10:26 PM            17,515 Blob.html
+08/03/2007  10:26 PM            11,016 BlobIOException.html
+08/03/2007  10:26 PM            11,175 BugCheckException.html
+08/03/2007  10:26 PM            81,912 CallableStatement.html
+08/03/2007  10:26 PM            11,482 CharacterEncodingException.html
+08/03/2007  10:26 PM            36,227 CharacterEncodings.html
+08/03/2007  10:26 PM            19,409 Clob.html
+08/03/2007  10:26 PM            11,499 ColumnConversionException.html
+08/03/2007  10:26 PM            11,459 ColumnIndexOutOfBoundsException.html
+08/03/2007  10:26 PM            12,722 CommunicationException.html
+08/03/2007  10:26 PM            95,392 Connection.html
+08/03/2007  10:26 PM            13,471 ConnectionCache.html
+08/03/2007  10:26 PM            20,258 ConnectionPoolDataSource.html
+08/03/2007  10:26 PM            24,083 ConnectionPoolModule.html
+08/03/2007  10:26 PM            20,572 ConnectionProperties.html
+08/03/2007  10:26 PM            10,920 CorruptDatabaseException.html
+08/03/2007  10:26 PM            11,451 DataConversionException.html
+08/03/2007  10:26 PM            62,499 DataSource.html
+08/03/2007  10:26 PM           353,111 DatabaseMetaData.html
+08/03/2007  10:26 PM            23,347 DatabaseStatistics.html
+08/03/2007  10:26 PM            12,996 DeadlockException.html
+08/03/2007  10:26 PM            37,980 Driver.html
+08/03/2007  10:26 PM            11,087 DriverNotCapableException.html
+08/03/2007  10:26 PM            14,557 ErrorCodes.html
+08/03/2007  10:26 PM            11,350 EscapeSyntaxException.html
+08/03/2007  10:26 PM            11,360 ExpiredDriverException.html
+08/03/2007  10:26 PM            12,246 ExpiredDriverWarning.html
+08/03/2007  10:26 PM            11,734 InvalidArgumentException.html
+08/03/2007  10:26 PM            11,492 InvalidOperationException.html
+08/03/2007  10:26 PM            10,967 LockConflictException.html
+08/03/2007  10:26 PM            13,077 ObjectFactory.html
+08/03/2007  10:26 PM            11,025 OutOfMemoryException.html
+08/03/2007  10:26 PM            11,514 ParameterConversionException.html
+08/03/2007  10:26 PM            11,500 ParameterIndexOutOfBoundsException.html
+08/03/2007  10:26 PM            18,224 ParameterMetaData.html
+08/03/2007  10:26 PM            14,226 PooledConnection.html
+08/03/2007  10:26 PM            89,655 PreparedStatement.html
+08/03/2007  10:26 PM            11,889 RemoteProtocolException.html
+08/03/2007  10:26 PM            17,781 Resources.html
+08/03/2007  10:26 PM            13,738 Resources_ru.html
+08/03/2007  10:26 PM           262,508 ResultSet.html
+08/03/2007  10:26 PM            48,848 ResultSetMetaData.html
+08/03/2007  10:26 PM            12,442 SQLDialectAdjustmentWarning.html
+08/03/2007  10:26 PM            11,880 SQLDialectException.html
+08/03/2007  10:26 PM           118,825 ServerManager.html
+08/03/2007  10:26 PM            11,059 SocketTimeoutException.html
+08/03/2007  10:26 PM            57,377 Statement.html
+08/03/2007  10:26 PM            11,169 URLSyntaxException.html
+08/03/2007  10:26 PM            10,876 UnauthorizedUserException.html
+08/03/2007  10:26 PM            10,961 UnavailableDatabaseFileException.html
+08/03/2007  10:26 PM            12,708 UnavailableInterBaseServerException.html
+08/03/2007  10:26 PM            11,373 UnknownHostException.html
+08/03/2007  10:26 PM            11,554 UnlicensedComponentException.html
+08/03/2007  10:26 PM            11,346 UnsupportedCharacterSetException.html
+08/03/2007  10:26 PM            11,153 UpdateConflictException.html
+08/03/2007  10:26 PM            12,303 XAConnection.html
+08/03/2007  10:26 PM            19,830 XADataSource.html
+08/03/2007  10:26 PM            32,693 XAResource.html
+08/03/2007  10:26 PM             6,290 package-frame.html
+08/03/2007  10:26 PM            19,424 package-summary.html
+08/03/2007  10:26 PM            17,417 package-tree.html
+08/03/2007  10:26 PM    <DIR>          utils
+              64 File(s)      2,007,432 bytes
+
+ Directory of F:\ib7\win32\InterClient\docs\specifications\interbase\interclient\utils
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            45,815 CommDiag.html
+08/03/2007  10:26 PM            17,718 Resources.html
+08/03/2007  10:26 PM            13,684 Resources_ru.html
+08/03/2007  10:26 PM               945 package-frame.html
+08/03/2007  10:26 PM             5,634 package-summary.html
+08/03/2007  10:26 PM             6,343 package-tree.html
+               6 File(s)         90,139 bytes
+
+ Directory of F:\ib7\win32\InterClient\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,266 DataSourceExample.java
+08/03/2007  10:26 PM            19,959 DriverExample.java
+08/03/2007  10:26 PM             5,615 ExampleTests.java
+08/03/2007  10:26 PM             4,348 JNDIExample.java
+08/03/2007  10:26 PM            47,533 PerformanceTests.java
+08/03/2007  10:26 PM             1,459 ServerManagerExample.java
+               6 File(s)         81,180 bytes
+
+ Directory of F:\ib7\win32\InterClient\jbuilder_help
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            32,768 interclient.dat
+08/03/2007  10:26 PM         3,044,422 interclient.zip
+               2 File(s)      3,077,190 bytes
+
+ Directory of F:\ib7\win32\ODBC
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               118 DATA.TAG
+08/03/2007  10:26 PM            32,256 IB7ODBC.ZIP
+08/03/2007  10:26 PM               101 SETUP.INI
+08/03/2007  10:26 PM            71,248 Setup.exe
+08/03/2007  10:26 PM           297,989 _INST32I.EX_
+08/03/2007  10:26 PM            27,632 _ISDel.exe
+08/03/2007  10:26 PM            34,816 _Setup.dll
+08/03/2007  10:26 PM           181,565 _sys1.cab
+08/03/2007  10:26 PM             4,024 _sys1.hdr
+08/03/2007  10:26 PM           398,936 _user1.cab
+08/03/2007  10:26 PM             4,897 _user1.hdr
+08/03/2007  10:26 PM         2,052,448 data1.cab
+08/03/2007  10:26 PM             8,426 data1.hdr
+08/03/2007  10:26 PM             4,679 lang.dat
+08/03/2007  10:26 PM               609 layout.bin
+08/03/2007  10:26 PM               450 os.dat
+08/03/2007  10:26 PM           192,056 setup.bmp
+08/03/2007  10:26 PM            78,316 setup.ins
+08/03/2007  10:26 PM                49 setup.lid
+              19 File(s)      3,390,615 bytes
+
+ Directory of F:\ib7\win32\Server
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Doc
+08/03/2007  10:26 PM             2,996 Install.txt
+08/03/2007  10:26 PM            33,292 License.txt
+08/03/2007  10:26 PM    <DIR>          Microsoft
+08/03/2007  10:26 PM             6,195 Readme.txt
+08/03/2007  10:26 PM           304,982 ReleaseNotes.pdf
+08/03/2007  10:26 PM    <DIR>          SDK
+08/03/2007  10:26 PM    <DIR>          UDF
+08/03/2007  10:26 PM           737,280 admin.ib
+08/03/2007  10:26 PM            15,872 admin.ibk
+08/03/2007  10:26 PM    <DIR>          bin
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM           401,408 gds32.dll
+08/03/2007  10:26 PM               168 ib_license.dat
+08/03/2007  10:26 PM             5,424 ibconfig
+08/03/2007  10:26 PM           167,936 ibinstall.dll
+08/03/2007  10:26 PM           131,724 interbase.msg
+08/03/2007  10:26 PM    <DIR>          intl
+08/03/2007  10:26 PM           277,776 msvcrt.dll
+              12 File(s)      2,085,053 bytes
+
+ Directory of F:\ib7\win32\Server\Doc
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               653 How2GetDocs.txt
+               1 File(s)            653 bytes
+
+ Directory of F:\ib7\win32\Server\Microsoft
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           429,672 401comupd.exe
+               1 File(s)        429,672 bytes
+
+ Directory of F:\ib7\win32\Server\SDK
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          include
+08/03/2007  10:26 PM    <DIR>          lib
+08/03/2007  10:26 PM    <DIR>          lib_ms
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\Server\SDK\include
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             8,435 IBInstall.pas
+08/03/2007  10:26 PM               307 ib_util.h
+08/03/2007  10:26 PM               697 ib_util.pas
+08/03/2007  10:26 PM           101,893 ibase.h
+08/03/2007  10:26 PM            39,854 iberror.h
+08/03/2007  10:26 PM            10,887 ibinstall.h
+08/03/2007  10:26 PM             3,606 ibxml.h
+08/03/2007  10:26 PM             1,811 ibxml_proto.h
+               8 File(s)        167,490 bytes
+
+ Directory of F:\ib7\win32\Server\SDK\lib
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            31,232 gds32.lib
+08/03/2007  10:26 PM             1,024 ib_util.lib
+08/03/2007  10:26 PM             1,536 ibinstall.lib
+08/03/2007  10:26 PM             1,536 ibxml.lib
+               4 File(s)         35,328 bytes
+
+ Directory of F:\ib7\win32\Server\SDK\lib_ms
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            64,828 gds32_ms.lib
+08/03/2007  10:26 PM             2,162 ib_util_ms.lib
+08/03/2007  10:26 PM             7,532 ibinstall_ms.lib
+08/03/2007  10:26 PM             3,200 ibxml_ms.lib
+               4 File(s)         77,722 bytes
+
+ Directory of F:\ib7\win32\Server\UDF
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            24,576 ib_udf.dll
+               1 File(s)         24,576 bytes
+
+ Directory of F:\ib7\win32\Server\bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           209,000 IBRepl.exe
+08/03/2007  10:26 PM           468,584 IBReplServer.exe
+08/03/2007  10:26 PM           367,208 IBReplSrvcInstall.exe
+08/03/2007  10:26 PM             2,501 IBRplManager.cnt
+08/03/2007  10:26 PM         2,136,680 IBRplManager.exe
+08/03/2007  10:26 PM            24,187 IBRplManager.gid
+08/03/2007  10:26 PM            58,514 IBRplManager.hlp
+08/03/2007  10:26 PM           582,248 IBScheduler.exe
+08/03/2007  10:26 PM           217,088 gbak.exe
+08/03/2007  10:26 PM           401,408 gds32.dll
+08/03/2007  10:26 PM            45,056 gfix.exe
+08/03/2007  10:26 PM           376,832 gpre.exe
+08/03/2007  10:26 PM            40,960 gsec.exe
+08/03/2007  10:26 PM            36,864 gstat.exe
+08/03/2007  10:26 PM             2,355 ib32.cnt
+08/03/2007  10:26 PM            58,058 ib32.hlp
+08/03/2007  10:26 PM            24,576 ib_util.dll
+08/03/2007  10:26 PM                86 ibgloss.cnt
+08/03/2007  10:26 PM            25,445 ibgloss.hlp
+08/03/2007  10:26 PM            32,768 ibguard.exe
+08/03/2007  10:26 PM            36,864 iblicense.dll
+08/03/2007  10:26 PM            45,056 iblicense.exe
+08/03/2007  10:26 PM            98,304 iblockpr.exe
+08/03/2007  10:26 PM           430,080 ibmgr.cpl
+08/03/2007  10:26 PM               817 ibserver.cnt
+08/03/2007  10:26 PM         1,880,064 ibserver.exe
+08/03/2007  10:26 PM            21,468 ibserver.hlp
+08/03/2007  10:26 PM            36,864 ibxml.dll
+08/03/2007  10:26 PM            20,480 instreg.exe
+08/03/2007  10:26 PM            20,480 instsvc.exe
+08/03/2007  10:26 PM           172,032 isql.exe
+08/03/2007  10:26 PM               982 perform.cnt
+08/03/2007  10:26 PM            33,168 perform.hlp
+              33 File(s)      7,907,077 bytes
+
+ Directory of F:\ib7\win32\Server\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,205 Readme.txt
+08/03/2007  10:26 PM    <DIR>          api
+08/03/2007  10:26 PM    <DIR>          database
+08/03/2007  10:26 PM    <DIR>          filter
+08/03/2007  10:26 PM    <DIR>          gpre
+08/03/2007  10:26 PM    <DIR>          jdbc
+08/03/2007  10:26 PM    <DIR>          security
+08/03/2007  10:26 PM    <DIR>          services
+08/03/2007  10:26 PM    <DIR>          udf
+               1 File(s)          6,205 bytes
+
+ Directory of F:\ib7\win32\Server\examples\api
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM             1,889 align.h
+08/03/2007  10:26 PM             4,809 api1.c
+08/03/2007  10:26 PM             6,581 api10.c
+08/03/2007  10:26 PM             6,581 api11.c
+08/03/2007  10:26 PM            11,600 api12.c
+08/03/2007  10:26 PM             6,596 api13.c
+08/03/2007  10:26 PM             7,253 api15.c
+08/03/2007  10:26 PM             7,657 api16.c
+08/03/2007  10:26 PM             5,571 api16t.c
+08/03/2007  10:26 PM             5,288 api2.c
+08/03/2007  10:26 PM             5,035 api3.c
+08/03/2007  10:26 PM             5,042 api4.c
+08/03/2007  10:26 PM             4,241 api5.c
+08/03/2007  10:26 PM             7,956 api6.c
+08/03/2007  10:26 PM             6,007 api7.c
+08/03/2007  10:26 PM             5,314 api8.c
+08/03/2007  10:26 PM            14,420 apifull.c
+08/03/2007  10:26 PM             2,327 employe2.sql
+08/03/2007  10:26 PM             1,331 example.h
+08/03/2007  10:26 PM             8,184 xml_api_buffer.c
+08/03/2007  10:26 PM             7,979 xml_api_file.c
+              23 File(s)        152,763 bytes
+
+ Directory of F:\ib7\win32\Server\examples\database
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            84,992 employee.gbk
+08/03/2007  10:26 PM         1,142,784 employee.gdb
+08/03/2007  10:26 PM            93,184 intlemp.gbk
+08/03/2007  10:26 PM         1,150,976 intlemp.gdb
+               4 File(s)      2,471,936 bytes
+
+ Directory of F:\ib7\win32\Server\examples\filter
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM             5,453 api9.c
+08/03/2007  10:26 PM             8,226 api9f.c
+08/03/2007  10:26 PM               981 api9f.def
+08/03/2007  10:26 PM             1,236 api9f.sql
+               6 File(s)         36,998 bytes
+
+ Directory of F:\ib7\win32\Server\examples\gpre
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM             6,767 api14.e
+08/03/2007  10:26 PM             3,403 dyn1.e
+08/03/2007  10:26 PM             4,026 dyn2.e
+08/03/2007  10:26 PM             3,745 dyn3.e
+08/03/2007  10:26 PM             4,120 dyn4.e
+08/03/2007  10:26 PM             3,446 dyn5.e
+08/03/2007  10:26 PM            10,317 dynfull.e
+08/03/2007  10:26 PM             2,327 employe2.sql
+08/03/2007  10:26 PM             2,425 stat1.e
+08/03/2007  10:26 PM             4,309 stat10.e
+08/03/2007  10:26 PM             4,166 stat11.e
+08/03/2007  10:26 PM             3,549 stat12.e
+08/03/2007  10:26 PM             2,422 stat12t.e
+08/03/2007  10:26 PM             2,286 stat2.e
+08/03/2007  10:26 PM             2,764 stat3.e
+08/03/2007  10:26 PM             3,839 stat4.e
+08/03/2007  10:26 PM             3,097 stat5.e
+08/03/2007  10:26 PM             2,977 stat6.e
+08/03/2007  10:26 PM             2,809 stat7.e
+08/03/2007  10:26 PM             3,554 stat8.e
+08/03/2007  10:26 PM             4,054 stat9.e
+              23 File(s)        101,504 bytes
+
+ Directory of F:\ib7\win32\Server\examples\jdbc
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,266 DataSourceExample.java
+08/03/2007  10:26 PM            19,959 DriverExample.java
+08/03/2007  10:26 PM             5,615 ExampleTests.java
+08/03/2007  10:26 PM             4,348 JNDIExample.java
+08/03/2007  10:26 PM            47,533 PerformanceTests.java
+08/03/2007  10:26 PM             1,459 ServerManagerExample.java
+               6 File(s)         81,180 bytes
+
+ Directory of F:\ib7\win32\Server\examples\security
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,052 blindmeta.sql
+08/03/2007  10:26 PM             3,948 readmeta.sql
+08/03/2007  10:26 PM             2,020 writemeta.sql
+               3 File(s)          8,020 bytes
+
+ Directory of F:\ib7\win32\Server\examples\services
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,071 get_log.c
+08/03/2007  10:26 PM             2,779 gstat.c
+08/03/2007  10:26 PM            12,925 isc_info_svc_all.c
+08/03/2007  10:26 PM             2,649 query_database_info.c
+08/03/2007  10:26 PM             2,728 start_backup.c
+08/03/2007  10:26 PM             3,407 start_backup_1.c
+08/03/2007  10:26 PM             2,972 start_backup_split.c
+08/03/2007  10:26 PM             1,703 start_license_add.c
+08/03/2007  10:26 PM             2,896 start_restore.c
+08/03/2007  10:26 PM             2,923 start_restore_join.c
+08/03/2007  10:26 PM             3,683 start_user_add.c
+08/03/2007  10:26 PM             3,189 start_user_delete.c
+08/03/2007  10:26 PM             5,175 start_user_display.c
+08/03/2007  10:26 PM             3,416 start_user_modify.c
+              14 File(s)         52,516 bytes
+
+ Directory of F:\ib7\win32\Server\examples\udf
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            10,595 Makefile.bc
+08/03/2007  10:26 PM            10,507 Makefile.msc
+08/03/2007  10:26 PM            16,314 ib_udf.sql
+08/03/2007  10:26 PM             3,515 udf.sql
+08/03/2007  10:26 PM            12,501 udflib.c
+08/03/2007  10:26 PM             1,044 udflib.def
+               6 File(s)         54,476 bytes
+
+ Directory of F:\ib7\win32\Server\intl
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           614,400 gdsintl.dll
+               1 File(s)        614,400 bytes
+
+ Directory of F:\ib7\win32\type3
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           893,440 ICSetup.exe
+08/03/2007  10:26 PM             5,901 Install.txt
+08/03/2007  10:26 PM    <DIR>          InterClient
+08/03/2007  10:26 PM            21,652 License.txt
+08/03/2007  10:26 PM             4,155 Readme.txt
+08/03/2007  10:26 PM           338,192 SETUPAPI.DLL
+08/03/2007  10:26 PM            23,552 cfgmgr32.dll
+08/03/2007  10:26 PM           177,152 ibinstall.dll
+08/03/2007  10:26 PM           652,344 ibuninst.exe
+08/03/2007  10:26 PM           277,776 msvcrt.dll
+               9 File(s)      2,394,164 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               867 CommDiag.html
+08/03/2007  10:26 PM    <DIR>          bin
+08/03/2007  10:26 PM    <DIR>          classes
+08/03/2007  10:26 PM    <DIR>          docs
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM           177,152 ibinstall.dll
+08/03/2007  10:26 PM                60 ic_license.dat
+08/03/2007  10:26 PM           293,735 interclient-core.jar
+08/03/2007  10:26 PM            30,253 interclient-res.jar
+08/03/2007  10:26 PM            22,071 interclient-utils.jar
+08/03/2007  10:26 PM           345,437 interclient.jar
+08/03/2007  10:26 PM    <DIR>          jbuilder_help
+               7 File(s)        869,575 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           118,784 interserver.exe
+08/03/2007  10:26 PM           433,152 isconfig.exe
+               2 File(s)        551,936 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          borland
+08/03/2007  10:26 PM    <DIR>          com
+08/03/2007  10:26 PM    <DIR>          interbase
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\borland
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          jdbc
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\borland\jdbc
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               346 SQLAdapter.class
+               1 File(s)            346 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\com
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          inprise
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\com\inprise
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          sql
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\com\inprise\sql
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               349 SQLAdapter.class
+               1 File(s)            349 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\interbase
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          interclient
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\interbase\interclient
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               312 Adaptor.class
+08/03/2007  10:26 PM            15,097 Array.class
+08/03/2007  10:26 PM             2,263 ArrayDescriptor.class
+08/03/2007  10:26 PM               544 BadInstallationException.class
+08/03/2007  10:26 PM               786 Blob.class
+08/03/2007  10:26 PM               755 BlobIOException.class
+08/03/2007  10:26 PM             1,235 BlobInput.class
+08/03/2007  10:26 PM             2,127 BlobInputStream.class
+08/03/2007  10:26 PM             5,043 BlobOutput.class
+08/03/2007  10:26 PM             1,988 BufferCache.class
+08/03/2007  10:26 PM               706 BugCheckException.class
+08/03/2007  10:26 PM             1,622 ByteToUnicodeConverterStream.class
+08/03/2007  10:26 PM             2,716 CallableStatement.class
+08/03/2007  10:26 PM               689 CharacterEncodingException.class
+08/03/2007  10:26 PM             3,243 CharacterEncodings.class
+08/03/2007  10:26 PM               910 Clob.class
+08/03/2007  10:26 PM               555 ColumnConversionException.class
+08/03/2007  10:26 PM               482 ColumnIndexOutOfBoundsException.class
+08/03/2007  10:26 PM               841 CommunicationException.class
+08/03/2007  10:26 PM            12,739 Connection.class
+08/03/2007  10:26 PM             1,503 ConnectionProperties.class
+08/03/2007  10:26 PM               349 CorruptDatabaseException.class
+08/03/2007  10:26 PM             1,373 Crypter.class
+08/03/2007  10:26 PM               361 DataConversionException.class
+08/03/2007  10:26 PM             5,221 DataSource.class
+08/03/2007  10:26 PM            31,561 DatabaseMetaData.class
+08/03/2007  10:26 PM             1,237 DatabaseStatistics.class
+08/03/2007  10:26 PM               335 DeadlockException.class
+08/03/2007  10:26 PM             5,462 Driver.class
+08/03/2007  10:26 PM               650 DriverNotCapableException.class
+08/03/2007  10:26 PM             1,262 ErrorCodes.class
+08/03/2007  10:26 PM            11,149 ErrorKey.class
+08/03/2007  10:26 PM               199 EscapeClauseParser.class
+08/03/2007  10:26 PM               869 EscapeClauseParserTable.class
+08/03/2007  10:26 PM             1,430 EscapeDateParser.class
+08/03/2007  10:26 PM             1,322 EscapeEscapeParser.class
+08/03/2007  10:26 PM             1,690 EscapeFunctionParser.class
+08/03/2007  10:26 PM             2,299 EscapeLexer.class
+08/03/2007  10:26 PM               698 EscapeOuterJoinParser.class
+08/03/2007  10:26 PM             1,345 EscapeProcedureCallParser.class
+08/03/2007  10:26 PM               585 EscapeProcedureCallWithResultParser.class
+08/03/2007  10:26 PM             2,014 EscapeProcessor.class
+08/03/2007  10:26 PM             1,090 EscapeSymbols.class
+08/03/2007  10:26 PM               410 EscapeSyntaxException.class
+08/03/2007  10:26 PM             1,547 EscapeTimeParser.class
+08/03/2007  10:26 PM             1,580 EscapeTimestampParser.class
+08/03/2007  10:26 PM               466 ExpiredDriverException.class
+08/03/2007  10:26 PM               444 ExpiredDriverWarning.class
+08/03/2007  10:26 PM             2,761 Globals.class
+08/03/2007  10:26 PM               498 IBTimestamp$InnerCalendar.class
+08/03/2007  10:26 PM             3,070 IBTimestamp.class
+08/03/2007  10:26 PM             2,121 IBTypes.class
+08/03/2007  10:26 PM               752 InvalidArgumentException.class
+08/03/2007  10:26 PM               716 InvalidOperationException.class
+08/03/2007  10:26 PM            10,868 JDBCNet.class
+08/03/2007  10:26 PM               381 LockConflictException.class
+08/03/2007  10:26 PM             3,315 MessageBufferOutputStream.class
+08/03/2007  10:26 PM             1,751 MessageCodes.class
+08/03/2007  10:26 PM             1,849 ObjectFactory.class
+08/03/2007  10:26 PM               417 OutOfMemoryException.class
+08/03/2007  10:26 PM               653 ParameterConversionException.class
+08/03/2007  10:26 PM               488 ParameterIndexOutOfBoundsException.class
+08/03/2007  10:26 PM             2,421 ParameterMetaData.class
+08/03/2007  10:26 PM            20,201 PreparedStatement.class
+08/03/2007  10:26 PM             8,436 RecvMessage.class
+08/03/2007  10:26 PM               710 RemoteProtocolException.class
+08/03/2007  10:26 PM             8,263 ResourceKeys.class
+08/03/2007  10:26 PM            16,091 Resources.class
+08/03/2007  10:26 PM            22,748 Resources_ru.class
+08/03/2007  10:26 PM            25,561 ResultSet.class
+08/03/2007  10:26 PM             6,956 ResultSetMetaData.class
+08/03/2007  10:26 PM               376 SQLDialectAdjustmentWarning.class
+08/03/2007  10:26 PM               549 SQLDialectException.class
+08/03/2007  10:26 PM             1,711 SQLException.class
+08/03/2007  10:26 PM             1,412 SQLWarning.class
+08/03/2007  10:26 PM             8,556 ServerManager.class
+08/03/2007  10:26 PM               374 ServerVersionInformation.class
+08/03/2007  10:26 PM               402 SocketTimeoutException.class
+08/03/2007  10:26 PM             8,318 Statement.class
+08/03/2007  10:26 PM               404 URLSyntaxException.class
+08/03/2007  10:26 PM               351 UnauthorizedUserException.class
+08/03/2007  10:26 PM               365 UnavailableDatabaseFileException.class
+08/03/2007  10:26 PM               371 UnavailableInterBaseServerException.class
+08/03/2007  10:26 PM               396 UnknownHostException.class
+08/03/2007  10:26 PM               865 UnlicensedComponentException.class
+08/03/2007  10:26 PM               598 UnsupportedCharacterSetException.class
+08/03/2007  10:26 PM               356 UpdateConflictException.class
+08/03/2007  10:26 PM             1,104 Utils.class
+08/03/2007  10:26 PM    <DIR>          utils
+              88 File(s)        300,639 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\classes\interbase\interclient\utils
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,286 CommDiag.class
+08/03/2007  10:26 PM             3,879 CommDiagGUI.class
+08/03/2007  10:26 PM             1,789 CommDiagListener.class
+08/03/2007  10:26 PM             4,968 InstallationVerifier.class
+08/03/2007  10:26 PM             2,610 ResourceKeys.class
+08/03/2007  10:26 PM             5,212 Resources.class
+08/03/2007  10:26 PM             6,870 Resources_ru.class
+               7 File(s)         27,614 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,158 alldocs-frame.html
+08/03/2007  10:26 PM               968 docs.html
+08/03/2007  10:26 PM    <DIR>          examples
+08/03/2007  10:26 PM    <DIR>          help
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM               628 index.html
+08/03/2007  10:26 PM    <DIR>          introduction
+08/03/2007  10:26 PM    <DIR>          readmes
+08/03/2007  10:26 PM    <DIR>          slide_show
+08/03/2007  10:26 PM    <DIR>          specifications
+               3 File(s)          2,754 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,266 DataSourceExample.txt
+08/03/2007  10:26 PM            19,959 DriverExample.txt
+08/03/2007  10:26 PM             5,615 ExampleTests.txt
+08/03/2007  10:26 PM             4,348 JNDIExample.txt
+08/03/2007  10:26 PM            47,533 PerformanceTests.txt
+08/03/2007  10:26 PM             1,459 ServerManagerExample.txt
+               6 File(s)         81,180 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\help
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,757 help.html
+08/03/2007  10:26 PM             3,246 icAccessingExtensions.html
+08/03/2007  10:26 PM            11,207 icArray.html
+08/03/2007  10:26 PM             4,257 icCharacters.html
+08/03/2007  10:26 PM            11,545 icConnectionProperties.html
+08/03/2007  10:26 PM             3,308 icDeveloperSystemRequirements.html
+08/03/2007  10:26 PM             2,842 icDistributingYourJavaApplication.html
+08/03/2007  10:26 PM             2,776 icEndUserRequirements.html
+08/03/2007  10:26 PM            54,405 icExtensions.html
+08/03/2007  10:26 PM             4,479 icExternalResources.html
+08/03/2007  10:26 PM             6,125 icGettingAConnection.html
+08/03/2007  10:26 PM             4,410 icJDBCTypes.html
+08/03/2007  10:26 PM             2,616 icJarFiles.html
+08/03/2007  10:26 PM             3,651 icJavadoc.html
+08/03/2007  10:26 PM             2,604 icResources.html
+08/03/2007  10:26 PM            15,688 icSQLStates.html
+08/03/2007  10:26 PM             3,280 icSystemConfiguration.html
+08/03/2007  10:26 PM             2,994 icTechSupport.html
+08/03/2007  10:26 PM            15,844 icTroubleShooting.html
+08/03/2007  10:26 PM             4,910 icURLSyntax.html
+08/03/2007  10:26 PM             2,653 icUninstallingInterClient.html
+08/03/2007  10:26 PM             5,021 icUsingTheInterServerConfigurationUtility.html
+              22 File(s)        171,618 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            12,163 background.jpg
+               1 File(s)         12,163 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\introduction
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,829 PROGGcon.html
+08/03/2007  10:26 PM             7,980 PROGGov.html
+08/03/2007  10:26 PM             4,264 PROGGprf.html
+08/03/2007  10:26 PM             5,571 PROGGsp.html
+08/03/2007  10:26 PM            12,522 PROGGsql.html
+08/03/2007  10:26 PM             2,185 PROGGts.html
+08/03/2007  10:26 PM             5,100 PROGdepl.html
+08/03/2007  10:26 PM             3,129 PROGdrvr.html
+08/03/2007  10:26 PM             5,542 PROGjdbc.html
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM             2,333 introduction.html
+              10 File(s)         55,455 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\introduction\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,513 fig1.gif
+08/03/2007  10:26 PM             4,853 fig2.gif
+08/03/2007  10:26 PM             3,583 fig3.gif
+08/03/2007  10:26 PM             3,107 fig5.gif
+               4 File(s)         15,056 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\readmes
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             5,898 Install.txt
+08/03/2007  10:26 PM            14,371 JBuilderNotes.txt
+08/03/2007  10:26 PM            21,652 License.txt
+08/03/2007  10:26 PM             4,149 Readme.txt
+08/03/2007  10:26 PM             9,032 Relnotes.txt
+               5 File(s)         55,102 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\slide_show
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,594 agenda.html
+08/03/2007  10:26 PM             2,703 bdeArch.html
+08/03/2007  10:26 PM             3,249 class1JdbcArch.html
+08/03/2007  10:26 PM             3,332 class2JdbcArch.html
+08/03/2007  10:26 PM             4,150 class3JdbcArch.html
+08/03/2007  10:26 PM             4,904 class4JdbcArch.html
+08/03/2007  10:26 PM             3,466 corba.html
+08/03/2007  10:26 PM             4,007 coverPage.html
+08/03/2007  10:26 PM             2,874 demoPerformance.html
+08/03/2007  10:26 PM             5,409 driverPerformance.html
+08/03/2007  10:26 PM             2,938 driversTested.html
+08/03/2007  10:26 PM             2,215 featureDemos.html
+08/03/2007  10:26 PM             5,392 features.html
+08/03/2007  10:26 PM    <DIR>          images
+08/03/2007  10:26 PM             8,098 jdbc2core.html
+08/03/2007  10:26 PM            10,188 jdbc2extensions.html
+08/03/2007  10:26 PM             2,704 jdbcBasics.html
+08/03/2007  10:26 PM             3,342 jdbcBasicsGettingAConnection.html
+08/03/2007  10:26 PM             2,656 jdbcBasicsRetrievingResults.html
+08/03/2007  10:26 PM             3,033 jdbcBasicsSubmittingSQL.html
+08/03/2007  10:26 PM             3,548 jdbcBasicsSummary.html
+08/03/2007  10:26 PM             3,877 networkCapableDrivers.html
+08/03/2007  10:26 PM             3,297 odbcArch.html
+08/03/2007  10:26 PM             2,829 performanceHints.html
+08/03/2007  10:26 PM             4,046 rpcVsMom.html
+08/03/2007  10:26 PM             2,597 theEnd.html
+08/03/2007  10:26 PM             4,717 tieredArch.html
+08/03/2007  10:26 PM             2,304 usingADriverExtension.html
+08/03/2007  10:26 PM             2,180 usingIcWithJBuilder.html
+08/03/2007  10:26 PM             4,943 whatIsJdbc.html
+08/03/2007  10:26 PM             2,901 whatsComing.html
+08/03/2007  10:26 PM             3,929 wheresTheBeef.html
+              31 File(s)        119,422 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\slide_show\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,113 2tierArch.gif
+08/03/2007  10:26 PM             4,085 3tierArch.gif
+08/03/2007  10:26 PM             4,423 archTemplate.gif
+08/03/2007  10:26 PM             5,873 bdeArch.gif
+08/03/2007  10:26 PM             6,196 class1JdbcArch.gif
+08/03/2007  10:26 PM             5,534 class2JdbcArch.gif
+08/03/2007  10:26 PM             4,980 class3JdbcArch.gif
+08/03/2007  10:26 PM             4,901 class4JdbcArch.gif
+08/03/2007  10:26 PM            31,649 dts.gif
+08/03/2007  10:26 PM            14,996 jdbcapi1.gif
+08/03/2007  10:26 PM            20,561 jdbcapi2.gif
+08/03/2007  10:26 PM            33,626 jdbcapi3.gif
+08/03/2007  10:26 PM            11,819 momvsrpc.gif
+08/03/2007  10:26 PM             5,578 odbcArch.gif
+              14 File(s)        157,334 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\specifications
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             7,390 allclasses-frame.html
+08/03/2007  10:26 PM             9,607 deprecated-list.html
+08/03/2007  10:26 PM             7,488 help-doc.html
+08/03/2007  10:26 PM           259,719 index-all.html
+08/03/2007  10:26 PM               785 index.html
+08/03/2007  10:26 PM    <DIR>          interbase
+08/03/2007  10:26 PM             1,182 overview-frame.html
+08/03/2007  10:26 PM             5,974 overview-summary.html
+08/03/2007  10:26 PM            18,186 overview-tree.html
+08/03/2007  10:26 PM                52 package-list
+08/03/2007  10:26 PM               671 packages.html
+08/03/2007  10:26 PM            24,313 serialized-form.html
+08/03/2007  10:26 PM             1,269 stylesheet.css
+              12 File(s)        336,636 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\specifications\interbase
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          interclient
+               0 File(s)              0 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\specifications\interbase\interclient
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            18,042 Adaptor.html
+08/03/2007  10:26 PM            38,236 Array.html
+08/03/2007  10:26 PM            11,574 BadInstallationException.html
+08/03/2007  10:26 PM            17,544 Blob.html
+08/03/2007  10:26 PM            11,053 BlobIOException.html
+08/03/2007  10:26 PM            11,191 BugCheckException.html
+08/03/2007  10:26 PM            82,224 CallableStatement.html
+08/03/2007  10:26 PM            11,506 CharacterEncodingException.html
+08/03/2007  10:26 PM            36,361 CharacterEncodings.html
+08/03/2007  10:26 PM            19,438 Clob.html
+08/03/2007  10:26 PM            11,512 ColumnConversionException.html
+08/03/2007  10:26 PM            11,470 ColumnIndexOutOfBoundsException.html
+08/03/2007  10:26 PM            12,770 CommunicationException.html
+08/03/2007  10:26 PM            95,889 Connection.html
+08/03/2007  10:26 PM            13,498 ConnectionCache.html
+08/03/2007  10:26 PM            20,309 ConnectionPoolDataSource.html
+08/03/2007  10:26 PM            24,151 ConnectionPoolModule.html
+08/03/2007  10:26 PM            20,627 ConnectionProperties.html
+08/03/2007  10:26 PM            10,932 CorruptDatabaseException.html
+08/03/2007  10:26 PM            11,462 DataConversionException.html
+08/03/2007  10:26 PM            62,714 DataSource.html
+08/03/2007  10:26 PM           354,463 DatabaseMetaData.html
+08/03/2007  10:26 PM            23,381 DatabaseStatistics.html
+08/03/2007  10:26 PM            13,048 DeadlockException.html
+08/03/2007  10:26 PM            38,164 Driver.html
+08/03/2007  10:26 PM            11,097 DriverNotCapableException.html
+08/03/2007  10:26 PM            14,572 ErrorCodes.html
+08/03/2007  10:26 PM            11,360 EscapeSyntaxException.html
+08/03/2007  10:26 PM            11,376 ExpiredDriverException.html
+08/03/2007  10:26 PM            12,269 ExpiredDriverWarning.html
+08/03/2007  10:26 PM            11,744 InvalidArgumentException.html
+08/03/2007  10:26 PM            11,509 InvalidOperationException.html
+08/03/2007  10:26 PM            10,977 LockConflictException.html
+08/03/2007  10:26 PM            13,114 ObjectFactory.html
+08/03/2007  10:26 PM            11,037 OutOfMemoryException.html
+08/03/2007  10:26 PM            11,527 ParameterConversionException.html
+08/03/2007  10:26 PM            11,511 ParameterIndexOutOfBoundsException.html
+08/03/2007  10:26 PM            18,257 ParameterMetaData.html
+08/03/2007  10:26 PM            14,238 PooledConnection.html
+08/03/2007  10:26 PM            89,960 PreparedStatement.html
+08/03/2007  10:26 PM            11,923 RemoteProtocolException.html
+08/03/2007  10:26 PM            17,877 Resources.html
+08/03/2007  10:26 PM            13,750 Resources_ru.html
+08/03/2007  10:26 PM           263,449 ResultSet.html
+08/03/2007  10:26 PM            48,986 ResultSetMetaData.html
+08/03/2007  10:26 PM            12,464 SQLDialectAdjustmentWarning.html
+08/03/2007  10:26 PM            11,899 SQLDialectException.html
+08/03/2007  10:26 PM           119,737 ServerManager.html
+08/03/2007  10:26 PM            11,073 SocketTimeoutException.html
+08/03/2007  10:26 PM            57,709 Statement.html
+08/03/2007  10:26 PM            11,179 URLSyntaxException.html
+08/03/2007  10:26 PM            10,886 UnauthorizedUserException.html
+08/03/2007  10:26 PM            10,971 UnavailableDatabaseFileException.html
+08/03/2007  10:26 PM            12,762 UnavailableInterBaseServerException.html
+08/03/2007  10:26 PM            11,394 UnknownHostException.html
+08/03/2007  10:26 PM            11,572 UnlicensedComponentException.html
+08/03/2007  10:26 PM            11,356 UnsupportedCharacterSetException.html
+08/03/2007  10:26 PM            11,164 UpdateConflictException.html
+08/03/2007  10:26 PM            12,317 XAConnection.html
+08/03/2007  10:26 PM            19,881 XADataSource.html
+08/03/2007  10:26 PM            32,820 XAResource.html
+08/03/2007  10:26 PM             6,293 package-frame.html
+08/03/2007  10:26 PM            19,463 package-summary.html
+08/03/2007  10:26 PM            17,421 package-tree.html
+08/03/2007  10:26 PM    <DIR>          utils
+              64 File(s)      2,014,453 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\docs\specifications\interbase\interclient\utils
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            45,853 CommDiag.html
+08/03/2007  10:26 PM            17,810 Resources.html
+08/03/2007  10:26 PM            13,696 Resources_ru.html
+08/03/2007  10:26 PM               946 package-frame.html
+08/03/2007  10:26 PM             5,640 package-summary.html
+08/03/2007  10:26 PM             6,347 package-tree.html
+               6 File(s)         90,292 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,266 DataSourceExample.java
+08/03/2007  10:26 PM            19,959 DriverExample.java
+08/03/2007  10:26 PM             5,615 ExampleTests.java
+08/03/2007  10:26 PM             4,348 JNDIExample.java
+08/03/2007  10:26 PM            47,533 PerformanceTests.java
+08/03/2007  10:26 PM             1,459 ServerManagerExample.java
+               6 File(s)         81,180 bytes
+
+ Directory of F:\ib7\win32\type3\InterClient\jbuilder_help
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            32,768 interclient.dat
+08/03/2007  10:26 PM         3,044,422 interclient.zip
+               2 File(s)      3,077,190 bytes
+
+ Directory of F:\dotNETSDK
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM       111,366,152 setup.exe
+               1 File(s)    111,366,152 bytes
+
+ Directory of F:\dotNETRedist
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM        24,265,736 dotnetfx.exe
+               1 File(s)     24,265,736 bytes
+
+ Directory of F:\dotNETJSharp
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM         6,926,344 vjredist.exe
+               1 File(s)      6,926,344 bytes
+
+ Directory of F:\MDAC27SP1
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM         5,388,160 mdac_typ.exe
+               1 File(s)      5,388,160 bytes
+
+ Directory of F:\Launcher
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM         1,025,206 C#builder.dbd
+08/03/2007  10:26 PM            37,184 C#builder.txt
+08/03/2007  10:26 PM           495,616 demo32.exe
+               3 File(s)      1,558,006 bytes
+
+ Directory of F:\Janeva
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM         5,178,880 JanevaSetup.msi
+               1 File(s)      5,178,880 bytes
+
+ Directory of F:\JRE1.4
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM        10,237,888 j2re-1_4_1_03-windows-i586-i.exe
+               1 File(s)     10,237,888 bytes
+
+ Directory of F:\Install
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             4,632 0x0409.ini
+08/03/2007  10:26 PM         6,139,240 Borland C#Builder 1.0.msi
+08/03/2007  10:26 PM    <DIR>          Common
+08/03/2007  10:26 PM    <DIR>          GlobalAssemblyCache
+08/03/2007  10:26 PM             1,215 Setup.ini
+08/03/2007  10:26 PM         1,708,856 instmsia.exe
+08/03/2007  10:26 PM         1,822,520 instmsiw.exe
+08/03/2007  10:26 PM           521,216 prereqs.exe
+08/03/2007  10:26 PM    <DIR>          program files
+08/03/2007  10:26 PM           225,280 setup.exe
+               7 File(s)     10,422,959 bytes
+
+ Directory of F:\Install\Common
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Borland Shared
+08/03/2007  10:26 PM    <DIR>          Crystal Decisions
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Borland Shared
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          BDS
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Borland Shared\BDS
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Shared Assemblies
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Borland Shared\BDS\Shared Assemblies
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          1.0
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Borland Shared\BDS\Shared Assemblies\1.0
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            65,536 Borland.Data.Common.dll
+08/03/2007  10:26 PM            53,248 Borland.Data.Db2.dll
+08/03/2007  10:26 PM           253,952 Borland.Data.Explorer.dll
+08/03/2007  10:26 PM            61,440 Borland.Data.Interbase.dll
+08/03/2007  10:26 PM            57,344 Borland.Data.Mssql.dll
+08/03/2007  10:26 PM            61,440 Borland.Data.Oracle.dll
+08/03/2007  10:26 PM           593,920 Borland.Data.Provider.dll
+               7 File(s)      1,146,880 bytes
+
+ Directory of F:\Install\Common\Crystal Decisions
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          1.0
+08/03/2007  10:26 PM    <DIR>          1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Crystal Decisions\1.0
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          bin
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Crystal Decisions\1.0\bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           430,080 CRDESIGNERCTRL.DLL
+08/03/2007  10:26 PM         8,917,059 craxddrt20.dll
+08/03/2007  10:26 PM           942,080 regwiz.exe
+               3 File(s)     10,289,219 bytes
+
+ Directory of F:\Install\Common\Crystal Decisions\1.1
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Managed
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\Common\Crystal Decisions\1.1\Managed
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           483,328 CrystalDecisions.CrystalReports.Engine.dll
+08/03/2007  10:26 PM            36,864 CrystalDecisions.ReportSource.dll
+08/03/2007  10:26 PM           319,488 CrystalDecisions.Shared.dll
+08/03/2007  10:26 PM           151,552 CrystalDecisions.Web.dll
+08/03/2007  10:26 PM           237,568 CrystalDecisions.Windows.Forms.dll
+08/03/2007  10:26 PM            45,056 CrystalEnterpriseLib.dll
+08/03/2007  10:26 PM            57,344 CrystalInfoStoreLib.dll
+08/03/2007  10:26 PM            19,968 CrystalKeyCodeLib.dll
+08/03/2007  10:26 PM             9,216 CrystalPluginMgrLib.dll
+08/03/2007  10:26 PM            57,344 CrystalReportPluginLib.dll
+              10 File(s)      1,417,728 bytes
+
+ Directory of F:\Install\GlobalAssemblyCache
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            65,536 Borland.Data.Common.dll
+08/03/2007  10:26 PM            53,248 Borland.Data.Db2.dll
+08/03/2007  10:26 PM            61,440 Borland.Data.Interbase.dll
+08/03/2007  10:26 PM            57,344 Borland.Data.Mssql.dll
+08/03/2007  10:26 PM            61,440 Borland.Data.Oracle.dll
+08/03/2007  10:26 PM           593,920 Borland.Data.Provider.dll
+               6 File(s)        892,928 bytes
+
+ Directory of F:\Install\program files
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Borland
+08/03/2007  10:26 PM    <DIR>          Common Files
+08/03/2007  10:26 PM    <DIR>          Microsoft Visual Studio .NET 2003
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          BDS
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          1.0
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Bin
+08/03/2007  10:26 PM            31,901 EULA_Crystal Reports.rtf
+08/03/2007  10:26 PM    <DIR>          Examples
+08/03/2007  10:26 PM    <DIR>          Help
+08/03/2007  10:26 PM             6,251 MSDEInfo.rtf
+08/03/2007  10:26 PM             1,209 MSDEInfo.txt
+08/03/2007  10:26 PM    <DIR>          Objrepos
+08/03/2007  10:26 PM    <DIR>          Schemas
+08/03/2007  10:26 PM    <DIR>          Welcomepage
+08/03/2007  10:26 PM               549 csharpbuild.slip
+08/03/2007  10:26 PM            31,889 deploy.rtf
+08/03/2007  10:26 PM             6,537 deploy.txt
+08/03/2007  10:26 PM            15,535 install.rtf
+08/03/2007  10:26 PM             9,347 install.txt
+08/03/2007  10:26 PM            66,618 license.rtf
+08/03/2007  10:26 PM            35,027 license.txt
+08/03/2007  10:26 PM             5,412 privacy.rtf
+08/03/2007  10:26 PM             4,220 privacy.txt
+08/03/2007  10:26 PM            21,366 readme.rtf
+08/03/2007  10:26 PM            15,557 readme.txt
+08/03/2007  10:26 PM                40 uninstall.ini
+              15 File(s)        251,458 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,144 BlankReport.rpt
+08/03/2007  10:26 PM           397,312 Borland.CSharp.dll
+08/03/2007  10:26 PM             5,632 Borland.Globalization.dll
+08/03/2007  10:26 PM            36,864 Borland.SCI.dll
+08/03/2007  10:26 PM            59,712 Borland.SCI.tlb
+08/03/2007  10:26 PM            98,304 Borland.Studio.AspHost.dll
+08/03/2007  10:26 PM             3,212 Borland.Studio.AspHost.tlb
+08/03/2007  10:26 PM            61,440 Borland.Studio.AspInterop.dll
+08/03/2007  10:26 PM            17,504 Borland.Studio.AspInterop.tlb
+08/03/2007  10:26 PM            36,864 Borland.Studio.Caliber.dll
+08/03/2007  10:26 PM           458,752 Borland.Studio.Host.dll
+08/03/2007  10:26 PM           331,776 Borland.Studio.Interop.dll
+08/03/2007  10:26 PM            36,336 Borland.Studio.Interop.tlb
+08/03/2007  10:26 PM            36,864 Borland.Studio.Together.dll
+08/03/2007  10:26 PM             3,232 Borland.Studio.Together.tlb
+08/03/2007  10:26 PM            69,632 Borland.Studio.ToolsAPI.dll
+08/03/2007  10:26 PM           105,420 Borland.Studio.ToolsAPI.tlb
+08/03/2007  10:26 PM           409,600 Borland.Studio.TypeMappings.dll
+08/03/2007  10:26 PM           143,360 Borland.Together.Actions.dll
+08/03/2007  10:26 PM            16,896 Borland.Together.Config.dll
+08/03/2007  10:26 PM           323,584 Borland.Together.Core.dll
+08/03/2007  10:26 PM            40,960 Borland.Together.CoreResources.dll
+08/03/2007  10:26 PM            53,248 Borland.Together.DesignModel.dll
+08/03/2007  10:26 PM           753,664 Borland.Together.DesignPatterns.dll
+08/03/2007  10:26 PM           204,800 Borland.Together.DiagramBasics.dll
+08/03/2007  10:26 PM            61,440 Borland.Together.DiagramClass.dll
+08/03/2007  10:26 PM            86,016 Borland.Together.DiagramCore.dll
+08/03/2007  10:26 PM            65,536 Borland.Together.DiagramExtensions.dll
+08/03/2007  10:26 PM           593,920 Borland.Together.DiagramLayout.dll
+08/03/2007  10:26 PM            18,944 Borland.Together.Hyperlinks.dll
+08/03/2007  10:26 PM            94,208 Borland.Together.Model3.dll
+08/03/2007  10:26 PM            57,344 Borland.Together.ModelBasics.dll
+08/03/2007  10:26 PM            61,440 Borland.Together.ModelPerformers.dll
+08/03/2007  10:26 PM            57,344 Borland.Together.ModelView.dll
+08/03/2007  10:26 PM           126,976 Borland.Together.OpenAPI3.dll
+08/03/2007  10:26 PM            14,336 Borland.Together.Platform.dll
+08/03/2007  10:26 PM             7,168 Borland.Together.ResManager.dll
+08/03/2007  10:26 PM             4,608 Borland.Together.Util.dll
+08/03/2007  10:26 PM         8,085,504 Borland.mshtml.dll
+08/03/2007  10:26 PM            10,752 CSharpBuilder.exe
+08/03/2007  10:26 PM           114,688 CaliberRMAddin.Control.dll
+08/03/2007  10:26 PM            53,248 CaliberRMAddin.Util.dll
+08/03/2007  10:26 PM           283,864 CaliberRMSDK30.NET.dll
+08/03/2007  10:26 PM             3,749 Classic Undocked.dst
+08/03/2007  10:26 PM            36,864 CrystalDecisions.BorlandShell.dll
+08/03/2007  10:26 PM             3,280 CrystalDecisions.BorlandShell.tlb
+08/03/2007  10:26 PM            45,056 CrystalDecisions.CrystalReports.Design.CodeGen.dll
+08/03/2007  10:26 PM            28,672 CrystalDecisions.VSShell.dll
+08/03/2007  10:26 PM           262,144 DataExplore.exe
+08/03/2007  10:26 PM           153,088 DataExplorer71.bpl
+08/03/2007  10:26 PM             4,840 Debug Layout.dst
+08/03/2007  10:26 PM             5,525 Default Layout.dst
+08/03/2007  10:26 PM           807,424 DotnetCoreAssemblies71.bpl
+08/03/2007  10:26 PM            67,584 HTMLDlgs71.bpl
+08/03/2007  10:26 PM           597,504 LicenseManager.exe
+08/03/2007  10:26 PM           397,312 MagicLibrary.dll
+08/03/2007  10:26 PM         1,027,072 Reflection.exe
+08/03/2007  10:26 PM            49,152 RequirementTreeControl.dll
+08/03/2007  10:26 PM            89,600 SCIDE71.bpl
+08/03/2007  10:26 PM           620,544 SrcManIDE71.bpl
+08/03/2007  10:26 PM           792,064 StudioConverter.exe
+08/03/2007  10:26 PM            47,104 TREGSVR.EXE
+08/03/2007  10:26 PM            12,200 TgNet.config
+08/03/2007  10:26 PM            22,322 VSExport.xsl
+08/03/2007  10:26 PM            31,805 VSImport.xsl
+08/03/2007  10:26 PM           239,104 asmview71.bpl
+08/03/2007  10:26 PM           338,432 aspcside71.bpl
+08/03/2007  10:26 PM           110,592 bccide.dll
+08/03/2007  10:26 PM             1,702 bdpConnections.xml
+08/03/2007  10:26 PM             1,570 bdpDataSources.xml
+08/03/2007  10:26 PM            71,680 bdpdb2.dll
+08/03/2007  10:26 PM            87,040 bdpint.dll
+08/03/2007  10:26 PM            91,648 bdpmss.dll
+08/03/2007  10:26 PM           110,080 bdpora.dll
+08/03/2007  10:26 PM         1,019,904 bds.exe
+08/03/2007  10:26 PM         1,291,776 bdsreg.exe
+08/03/2007  10:26 PM           653,824 bordbk71.dll
+08/03/2007  10:26 PM           153,088 boreditu.dll
+08/03/2007  10:26 PM         1,323,104 borl_dll.dll
+08/03/2007  10:26 PM            22,528 borlndmm.dll
+08/03/2007  10:26 PM            69,632 caliberide71.bpl
+08/03/2007  10:26 PM         1,355,264 comp32p.dll
+08/03/2007  10:26 PM         2,830,336 coreide71.bpl
+08/03/2007  10:26 PM           176,640 coreproide71.bpl
+08/03/2007  10:26 PM             2,881 countrylist.txt
+08/03/2007  10:26 PM           275,968 crystalide71.bpl
+08/03/2007  10:26 PM           513,536 cside71.bpl
+08/03/2007  10:26 PM            83,456 csinsite71.bpl
+08/03/2007  10:26 PM            97,792 dbkpro71.dll
+08/03/2007  10:26 PM           246,784 dbkwmc71.exe
+08/03/2007  10:26 PM            97,792 demeanoride71.bpl
+08/03/2007  10:26 PM           671,744 designide71.bpl
+08/03/2007  10:26 PM            27,648 dotnetaspide71.bpl
+08/03/2007  10:26 PM           619,008 dotnetcoreide71.bpl
+08/03/2007  10:26 PM           425,472 dotnetdebugide71.bpl
+08/03/2007  10:26 PM           195,584 dotnetdebugproide71.bpl
+08/03/2007  10:26 PM           437,248 htmide71.bpl
+08/03/2007  10:26 PM            97,280 htmlfmt71.bpl
+08/03/2007  10:26 PM            73,728 htmlhelp271.bpl
+08/03/2007  10:26 PM           159,232 htmltidy71.bpl
+08/03/2007  10:26 PM            72,192 idefilefilters71.bpl
+08/03/2007  10:26 PM           103,424 idetools71.bpl
+08/03/2007  10:26 PM         1,012,224 indy71.bpl
+08/03/2007  10:26 PM           122,880 inet71.bpl
+08/03/2007  10:26 PM           110,080 janevaide71.bpl
+08/03/2007  10:26 PM           274,432 libtidy.dll
+08/03/2007  10:26 PM           185,344 mlcc71.bpl
+08/03/2007  10:26 PM            80,896 optimizeitide71.bpl
+08/03/2007  10:26 PM               805 phone.txt
+08/03/2007  10:26 PM           158,208 plugview71.bpl
+08/03/2007  10:26 PM         4,082,688 qtintf70.dll
+08/03/2007  10:26 PM           794,624 rtl71.bpl
+08/03/2007  10:26 PM           147,456 soapide71.bpl
+08/03/2007  10:26 PM           131,584 startpageide71.bpl
+08/03/2007  10:26 PM               788 statelist.txt
+08/03/2007  10:26 PM            88,576 tgide71.bpl
+08/03/2007  10:26 PM           234,496 tlbview71.bpl
+08/03/2007  10:26 PM           482,816 tlib71.bpl
+08/03/2007  10:26 PM           227,840 vbide71.bpl
+08/03/2007  10:26 PM         1,549,824 vcl71.bpl
+08/03/2007  10:26 PM           287,744 vclactnband71.bpl
+08/03/2007  10:26 PM         1,036,288 vclide71.bpl
+08/03/2007  10:26 PM           528,384 vclie71.bpl
+08/03/2007  10:26 PM            97,792 vcljpg71.bpl
+08/03/2007  10:26 PM            52,224 vcltest3.dll
+08/03/2007  10:26 PM           194,048 vclx71.bpl
+08/03/2007  10:26 PM           853,504 xmlrtl71.bpl
+             127 File(s)     45,497,611 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          C#
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Applications
+08/03/2007  10:26 PM    <DIR>          Cassini
+08/03/2007  10:26 PM    <DIR>          EJBExamples
+08/03/2007  10:26 PM    <DIR>          Graphics
+08/03/2007  10:26 PM    <DIR>          Open Tools API
+08/03/2007  10:26 PM    <DIR>          Web Services
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          AX Web Browser
+08/03/2007  10:26 PM    <DIR>          Bitwise
+08/03/2007  10:26 PM    <DIR>          CalendarQuery
+08/03/2007  10:26 PM    <DIR>          Custom Control
+08/03/2007  10:26 PM    <DIR>          Dice
+08/03/2007  10:26 PM    <DIR>          DotNETCube
+08/03/2007  10:26 PM    <DIR>          Find
+08/03/2007  10:26 PM    <DIR>          Grep
+08/03/2007  10:26 PM    <DIR>          HTML Host
+08/03/2007  10:26 PM    <DIR>          InstallWiz
+08/03/2007  10:26 PM    <DIR>          Licensing
+08/03/2007  10:26 PM    <DIR>          MDI Form
+08/03/2007  10:26 PM    <DIR>          Netrix
+08/03/2007  10:26 PM    <DIR>          Process View
+08/03/2007  10:26 PM    <DIR>          Puzzle
+08/03/2007  10:26 PM    <DIR>          Remoting
+08/03/2007  10:26 PM    <DIR>          Temp Converter
+08/03/2007  10:26 PM    <DIR>          Text Edit
+08/03/2007  10:26 PM    <DIR>          Text Search
+08/03/2007  10:26 PM    <DIR>          Threads
+08/03/2007  10:26 PM    <DIR>          Transformer
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\AX Web Browser
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          ComImports
+08/03/2007  10:26 PM             6,896 WebBrowser.bdsproj
+08/03/2007  10:26 PM             7,058 WebBrowserImpl.cs
+08/03/2007  10:26 PM            10,441 WebBrowserImpl.resx
+               3 File(s)         24,395 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\AX Web Browser\ComImports
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            45,056 AxInterop.SHDocVw.dll
+08/03/2007  10:26 PM           126,976 Interop.SHDocVw.dll
+               2 File(s)        172,032 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Bitwise
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,403 WinForm.cs
+08/03/2007  10:26 PM             6,909 bitwise.bdsproj
+08/03/2007  10:26 PM             1,502 bitwiseclass.cs
+               4 File(s)         17,240 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\CalendarQuery
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM         1,040,384 EMPLOYEE.GDB
+08/03/2007  10:26 PM            10,154 WinForm.cs
+08/03/2007  10:26 PM            11,784 WinForm.resx
+08/03/2007  10:26 PM             7,147 bdpwincal.bdsproj
+08/03/2007  10:26 PM             3,458 csharpbuilder.gif
+08/03/2007  10:26 PM               634 readme.txt
+               7 File(s)      1,075,987 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Custom Control
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,273 Action.bdsproj
+08/03/2007  10:26 PM             5,787 ActionControl.cs
+08/03/2007  10:26 PM             6,480 ActionDemo.bdsproj
+08/03/2007  10:26 PM             4,899 WinForm.cs
+08/03/2007  10:26 PM             8,422 WinForm.resx
+               5 File(s)         31,861 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Dice
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,354 Dice.bdsproj
+08/03/2007  10:26 PM             7,182 Dice1.cs
+08/03/2007  10:26 PM            13,139 Dice1.resx
+08/03/2007  10:26 PM               729 Dicegame.bdsgroup
+08/03/2007  10:26 PM             6,183 Die.bdsproj
+08/03/2007  10:26 PM            15,872 Die.dll
+08/03/2007  10:26 PM               318 Die.ico
+08/03/2007  10:26 PM             6,972 Die1.cs
+08/03/2007  10:26 PM            13,139 Die1.resx
+08/03/2007  10:26 PM             4,231 WinForm1.cs
+08/03/2007  10:26 PM             8,326 WinForm1.resx
+08/03/2007  10:26 PM               246 point.bmp
+              12 File(s)         82,691 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\DotNETCube
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,444 dotNETCub.bdsproj
+08/03/2007  10:26 PM            15,579 dotNETCub.cs
+08/03/2007  10:26 PM             9,427 dotNETCub.resx
+               4 File(s)         33,876 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Find
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            10,318 WinForm.cs
+08/03/2007  10:26 PM             8,034 WinForm.resx
+08/03/2007  10:26 PM             6,450 findonpaths.bdsproj
+08/03/2007  10:26 PM               823 readme.txt
+               5 File(s)         28,051 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Grep
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,078 App.ico
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            10,707 Form1.cs
+08/03/2007  10:26 PM             9,844 Form1.resx
+08/03/2007  10:26 PM             7,094 Grep.bdsproj
+08/03/2007  10:26 PM             1,040 readme.txt
+               6 File(s)         32,189 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\HTML Host
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          DemoHtmlApp
+08/03/2007  10:26 PM    <DIR>          HTMLEditor
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\HTML Host\DemoHtmlApp
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,468 About.cs
+08/03/2007  10:26 PM             7,262 About.resx
+08/03/2007  10:26 PM             1,078 App.ico
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             7,934 DemoHtmlApp.bdsproj
+08/03/2007  10:26 PM             5,265 DemoHtmlApp.csproj
+08/03/2007  10:26 PM             1,803 DemoHtmlApp.csproj.user
+08/03/2007  10:26 PM            14,160 Form1.cs
+08/03/2007  10:26 PM            11,274 Form1.resx
+08/03/2007  10:26 PM             7,262 WinForm.resx
+              10 File(s)         61,932 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\HTML Host\HTMLEditor
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM               441 CSnap.cs
+08/03/2007  10:26 PM             1,456 ComStream.cs
+08/03/2007  10:26 PM             1,396 DownloadOnlySite.cs
+08/03/2007  10:26 PM             2,085 EventHandlers.cs
+08/03/2007  10:26 PM             1,009 HtmlEditor.bdsgroup
+08/03/2007  10:26 PM             9,033 HtmlEditor.bdsproj
+08/03/2007  10:26 PM            20,573 HtmlEditor.cs
+08/03/2007  10:26 PM             1,733 HtmlEditor.resx
+08/03/2007  10:26 PM               589 HtmlEditorException.cs
+08/03/2007  10:26 PM            21,794 HtmlSite.cs
+08/03/2007  10:26 PM            92,273 comsupport.cs
+08/03/2007  10:26 PM             6,408 utils.cs
+              13 File(s)        161,216 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\InstallWiz
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM               766 FACTORY.ICO
+08/03/2007  10:26 PM             6,194 InstallWiz.bdsproj
+08/03/2007  10:26 PM             6,987 WinForm.cs
+08/03/2007  10:26 PM            10,879 WinForm.resx
+               5 File(s)         27,252 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Licensing
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          LicControl
+08/03/2007  10:26 PM    <DIR>          LicProject
+08/03/2007  10:26 PM               825 Licensing.bdsgroup
+08/03/2007  10:26 PM               157 readme.txt
+               2 File(s)            982 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Licensing\LicControl
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,489 AssemblyInfo.cs
+08/03/2007  10:26 PM             1,170 InheritedLicControl.cs
+08/03/2007  10:26 PM               230 LicControl.bmp
+08/03/2007  10:26 PM             3,243 LicControl.cs
+08/03/2007  10:26 PM             6,533 LicControl.resx
+08/03/2007  10:26 PM             7,029 LicControlDemo.bdsproj
+               6 File(s)         20,694 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Licensing\LicProject
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,705 LicProject.bdsproj
+08/03/2007  10:26 PM             2,215 WinForm.cs
+08/03/2007  10:26 PM             6,562 WinForm.resx
+08/03/2007  10:26 PM               105 licenses.licx
+               5 File(s)         18,013 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\MDI Form
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            15,360 FormDocument.cs
+08/03/2007  10:26 PM            12,151 FormDocument.resx
+08/03/2007  10:26 PM             8,458 FormEditor.cs
+08/03/2007  10:26 PM             9,276 FormEditor.resx
+08/03/2007  10:26 PM               826 Readme.txt
+08/03/2007  10:26 PM             6,771 TextEditor.bdsproj
+               7 File(s)         55,268 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Netrix
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            11,672 Class.cs
+08/03/2007  10:26 PM             6,604 Netrix.bdsproj
+08/03/2007  10:26 PM            11,160 WinForm.cs
+08/03/2007  10:26 PM            10,006 WinForm.resx
+               5 File(s)         41,868 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Process View
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             8,181 AboutForm.cs
+08/03/2007  10:26 PM            15,786 AboutForm.resx
+08/03/2007  10:26 PM             2,733 AssemblyInfo.cs
+08/03/2007  10:26 PM            11,867 MainForm.cs
+08/03/2007  10:26 PM            11,817 MainForm.resx
+08/03/2007  10:26 PM             7,684 ProcessChecker.bdsproj
+08/03/2007  10:26 PM             3,126 ProcessChecker.bmp
+08/03/2007  10:26 PM             8,173 ProcessChecker.cs
+08/03/2007  10:26 PM               766 ProcessChecker.ico
+08/03/2007  10:26 PM             4,842 ProcessCheckerSettings.cs
+08/03/2007  10:26 PM             3,372 ProcessClasses.cs
+08/03/2007  10:26 PM             6,394 ProcessDetailsForm.cs
+08/03/2007  10:26 PM            10,244 ProcessDetailsForm.resx
+08/03/2007  10:26 PM            24,165 SetupForm.cs
+08/03/2007  10:26 PM            15,413 SetupForm.resx
+              15 File(s)        134,563 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Puzzle
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,455 Puzzle.bdsproj
+08/03/2007  10:26 PM            17,920 Puzzle.pdb
+08/03/2007  10:26 PM             5,088 WinForm.cs
+08/03/2007  10:26 PM             6,174 WinForm.resx
+               5 File(s)         38,063 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Remoting
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Client
+08/03/2007  10:26 PM    <DIR>          Common
+08/03/2007  10:26 PM             2,172 Readme.txt
+08/03/2007  10:26 PM               987 Remoting.bdsgroup
+08/03/2007  10:26 PM    <DIR>          Server
+               2 File(s)          3,159 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Remoting\Client
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            14,604 FormClient.cs
+08/03/2007  10:26 PM            13,475 FormClient.resx
+08/03/2007  10:26 PM             6,902 RemotingClient.bdsproj
+08/03/2007  10:26 PM               766 RemotingServer.ico
+               5 File(s)         38,173 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Remoting\Common
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             4,918 FormMessage.cs
+08/03/2007  10:26 PM            10,444 FormMessage.resx
+08/03/2007  10:26 PM             6,783 RemoteBoss.bdsproj
+08/03/2007  10:26 PM             7,382 RemoteBoss.cs
+08/03/2007  10:26 PM               766 RemotingServer.ico
+               6 File(s)         32,719 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Remoting\Server
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,616 FormServer.cs
+08/03/2007  10:26 PM            10,701 FormServer.resx
+08/03/2007  10:26 PM             6,878 RemotingServer.bdsproj
+08/03/2007  10:26 PM               766 RemotingServer.ico
+               5 File(s)         27,387 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Temp Converter
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             5,833 Celsius.bdsproj
+08/03/2007  10:26 PM               606 Celsius42.cs
+08/03/2007  10:26 PM               531 Class1.cs
+08/03/2007  10:26 PM             5,974 UseCelsius.bdsproj
+08/03/2007  10:26 PM             1,823 eBob42.gif
+08/03/2007  10:26 PM               350 readme.txt
+               6 File(s)         15,117 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Text Edit
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             6,433 TXTEditor.bdsproj
+08/03/2007  10:26 PM            17,551 WinForm.cs
+08/03/2007  10:26 PM            19,788 WinForm.resx
+08/03/2007  10:26 PM               822 copy.bmp
+08/03/2007  10:26 PM               822 cut.bmp
+08/03/2007  10:26 PM               246 new.bmp
+08/03/2007  10:26 PM               246 open.bmp
+08/03/2007  10:26 PM               822 paste.bmp
+08/03/2007  10:26 PM               246 save.bmp
+08/03/2007  10:26 PM               822 undo.bmp
+              11 File(s)         50,224 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Text Search
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM         1,040,384 EMPLOYEE.GDB
+08/03/2007  10:26 PM             7,265 FulltextKeywordsSearch.bdsproj
+08/03/2007  10:26 PM             1,616 Strings.cs
+08/03/2007  10:26 PM            10,215 WinForm.cs
+08/03/2007  10:26 PM            10,886 WinForm.resx
+               6 File(s)      1,072,792 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Threads
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             4,151 ThrdDemo.bdsproj
+08/03/2007  10:26 PM            11,985 ThrdDemo.cs
+08/03/2007  10:26 PM            10,447 ThrdDemo.resx
+               3 File(s)         26,583 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Applications\Transformer
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM               953 RM_HTML.xslt
+08/03/2007  10:26 PM               489 RM_Text.xslt
+08/03/2007  10:26 PM               476 ReadMe.xml
+08/03/2007  10:26 PM             6,052 Transmogrify.bdsproj
+08/03/2007  10:26 PM             3,221 Transmogrify.cs
+               6 File(s)         13,617 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Cassini
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,049 AssemblyInfo.cs
+08/03/2007  10:26 PM             1,647 ByteParser.cs
+08/03/2007  10:26 PM             3,465 ByteString.cs
+08/03/2007  10:26 PM             6,391 Cassini.bdsproj
+08/03/2007  10:26 PM               596 Cassini.snk
+08/03/2007  10:26 PM             6,450 CassiniWebServer.bdsproj
+08/03/2007  10:26 PM             4,710 CassiniWebServer.ico
+08/03/2007  10:26 PM            11,497 CassiniWebServerMain.cs
+08/03/2007  10:26 PM             6,106 Connection.cs
+08/03/2007  10:26 PM             7,122 Host.cs
+08/03/2007  10:26 PM             4,993 Messages.cs
+08/03/2007  10:26 PM                16 ReadMe.bat
+08/03/2007  10:26 PM             1,302 ReadMe.txt
+08/03/2007  10:26 PM            23,937 Request.cs
+08/03/2007  10:26 PM             7,024 Server.cs
+08/03/2007  10:26 PM             1,987 build.bat
+08/03/2007  10:26 PM                27 t.bat
+              17 File(s)         88,319 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\EJBExamples
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          EJBCartPro
+08/03/2007  10:26 PM    <DIR>          EJBEuroCliPro
+08/03/2007  10:26 PM    <DIR>          EJBOne2Many
+08/03/2007  10:26 PM             2,168 README.txt
+               1 File(s)          2,168 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\EJBExamples\EJBCartPro
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM             2,792 CartClient.cs
+08/03/2007  10:26 PM             6,875 ShoppingCartClient.bdsproj
+08/03/2007  10:26 PM               220 ShoppingCartClient.janeva.ini
+08/03/2007  10:26 PM            95,460 cart_beans.cs
+08/03/2007  10:26 PM            30,918 cart_beans.jar
+               6 File(s)        138,691 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\EJBExamples\EJBEuroCliPro
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            19,838 CurrencyConverter.cs
+08/03/2007  10:26 PM            21,009 CurrencyConverter.jar
+08/03/2007  10:26 PM            19,838 CurrencyConverter1.cs
+08/03/2007  10:26 PM             7,100 CurrencyConverterClient.bdsproj
+08/03/2007  10:26 PM               125 CurrencyConverterClient.janeva.ini
+08/03/2007  10:26 PM             4,562 wnfrmMain.cs
+08/03/2007  10:26 PM             7,984 wnfrmMain.resx
+               8 File(s)         82,882 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\EJBExamples\EJBOne2Many
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM               347 Class.cs
+08/03/2007  10:26 PM             1,658 Client.cs
+08/03/2007  10:26 PM             1,470 MappingOverrides.cs
+08/03/2007  10:26 PM            18,092 One2Many.cs
+08/03/2007  10:26 PM            21,531 One2Many.jar
+08/03/2007  10:26 PM             6,592 One2ManyClient.bdsproj
+08/03/2007  10:26 PM               103 One2ManyClient.janeva.ini
+               8 File(s)         52,219 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          DirectX Audio
+08/03/2007  10:26 PM    <DIR>          HexView
+08/03/2007  10:26 PM    <DIR>          Image View
+08/03/2007  10:26 PM    <DIR>          Mandelbrot
+08/03/2007  10:26 PM    <DIR>          PCX
+08/03/2007  10:26 PM    <DIR>          Shapes
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\DirectX Audio
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Simple Media Player
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\DirectX Audio\Simple Media Player
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             3,527 AboutBox.cs
+08/03/2007  10:26 PM             7,798 AboutBox.resx
+08/03/2007  10:26 PM             6,354 Project4.bdsproj
+08/03/2007  10:26 PM             7,695 SimpleMediaPlayer.bdsproj
+08/03/2007  10:26 PM             9,559 SimplePlayer.cs
+08/03/2007  10:26 PM             9,416 SimplePlayer.resx
+08/03/2007  10:26 PM             3,058 WinForm.cs
+08/03/2007  10:26 PM             7,798 WinForm.resx
+               8 File(s)         55,205 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\HexView
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            36,930 PICI1_20X300_2.JPG
+08/03/2007  10:26 PM             6,477 PictureHEXView.bdsproj
+08/03/2007  10:26 PM             8,715 PictureHEXView.cs
+08/03/2007  10:26 PM            17,919 PictureHEXView.cs.html
+08/03/2007  10:26 PM             9,265 PictureHEXView.resx
+               6 File(s)         81,732 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\Image View
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             6,337 ImageView.bdsproj
+08/03/2007  10:26 PM             5,565 WinForm1.cs
+08/03/2007  10:26 PM             9,343 WinForm1.resx
+               3 File(s)         21,245 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\Mandelbrot
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,428 AssemblyInfo.cs
+08/03/2007  10:26 PM             7,845 Form1.cs
+08/03/2007  10:26 PM             8,589 Form1.resx
+08/03/2007  10:26 PM             8,046 Mandelbrot.bdsproj
+08/03/2007  10:26 PM             2,022 mbrot.ico
+08/03/2007  10:26 PM             1,026 readme.txt
+               6 File(s)         29,956 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\PCX
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,454 AssemblyInfo1.cs
+08/03/2007  10:26 PM            24,847 PCXClass.cs
+08/03/2007  10:26 PM             6,756 PCXView.bdsproj
+08/03/2007  10:26 PM             6,332 WinForm1.cs
+08/03/2007  10:26 PM             8,909 WinForm1.resx
+08/03/2007  10:26 PM            11,258 golden16.pcx
+08/03/2007  10:26 PM            18,664 golden2.pcx
+08/03/2007  10:26 PM            18,048 golden24b.pcx
+08/03/2007  10:26 PM             9,050 golden256.pcx
+               9 File(s)        106,318 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Graphics\Shapes
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            24,022 BrushForm.cs
+08/03/2007  10:26 PM            16,631 BrushForm.resx
+08/03/2007  10:26 PM            12,982 MainForm.cs
+08/03/2007  10:26 PM            12,676 MainForm.resx
+08/03/2007  10:26 PM             7,564 Shapes.cs
+08/03/2007  10:26 PM             6,883 ShapesDemo.bdsproj
+               7 File(s)         83,184 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          OTA Add Component
+08/03/2007  10:26 PM    <DIR>          ResxBuilder
+08/03/2007  10:26 PM    <DIR>          SharpBuilderTools
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\OTA Add Component
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM               628 Class.cs
+08/03/2007  10:26 PM             5,099 MainForm.cs
+08/03/2007  10:26 PM             6,536 MainForm.resx
+08/03/2007  10:26 PM               604 ReadMe.txt
+08/03/2007  10:26 PM             7,221 ToolsAPIAddIn.bdsproj
+08/03/2007  10:26 PM             3,337 UserControl.cs
+08/03/2007  10:26 PM             7,788 UserControl.resx
+               8 File(s)         33,639 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\ResxBuilder
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfo.cs
+08/03/2007  10:26 PM            41,708 Example.resx
+08/03/2007  10:26 PM             6,955 ResXBuilder.bdsproj
+08/03/2007  10:26 PM            21,451 ResXChildForm.cs
+08/03/2007  10:26 PM            13,851 ResXChildForm.resx
+08/03/2007  10:26 PM             9,277 ResXMainForm.cs
+08/03/2007  10:26 PM             9,516 ResXMainForm.resx
+               7 File(s)        105,184 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               999 ReadMe.Txt
+08/03/2007  10:26 PM            13,175 SharpBuilderTools.bdsproj
+08/03/2007  10:26 PM    <DIR>          src
+               2 File(s)         14,174 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          bewise
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src\bewise
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,464 AssemblyInfo.cs
+08/03/2007  10:26 PM               393 BaseOTA.cs
+08/03/2007  10:26 PM               992 Configuration.cs
+08/03/2007  10:26 PM             1,026 Consts.cs
+08/03/2007  10:26 PM               245 Enums.cs
+08/03/2007  10:26 PM             6,516 Main.cs
+08/03/2007  10:26 PM               240 OTAAddFrameworkReference.cs
+08/03/2007  10:26 PM             8,713 OTAAnt.cs
+08/03/2007  10:26 PM             5,308 OTAClipboard.cs
+08/03/2007  10:26 PM             3,162 OTACodeBeautifier.cs
+08/03/2007  10:26 PM            13,065 OTAMenuEnhancement.cs
+08/03/2007  10:26 PM             1,626 OTAOptions.cs
+08/03/2007  10:26 PM             3,434 OTAShell.cs
+08/03/2007  10:26 PM             3,608 OTAViewFiles.cs
+08/03/2007  10:26 PM             5,025 OTAViewMethods.cs
+08/03/2007  10:26 PM    <DIR>          ant
+08/03/2007  10:26 PM    <DIR>          gui
+08/03/2007  10:26 PM    <DIR>          helpers
+08/03/2007  10:26 PM    <DIR>          utils
+              15 File(s)         55,817 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src\bewise\ant
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,468 Ant.cs
+08/03/2007  10:26 PM             1,009 AntProject.cs
+08/03/2007  10:26 PM               424 AntProperty.cs
+08/03/2007  10:26 PM               433 AntTarget.cs
+08/03/2007  10:26 PM             2,806 BaseAnt.cs
+08/03/2007  10:26 PM             6,339 BaseAntProject.cs
+08/03/2007  10:26 PM             1,073 BaseAntProperty.cs
+08/03/2007  10:26 PM             1,301 BaseAntTarget.cs
+08/03/2007  10:26 PM             1,437 NAnt.cs
+08/03/2007  10:26 PM             1,010 NAntProject.cs
+08/03/2007  10:26 PM               408 NAntProperty.cs
+08/03/2007  10:26 PM               435 NAntTarget.cs
+              12 File(s)         18,143 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src\bewise\gui
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             9,709 FrmBaseView.cs
+08/03/2007  10:26 PM             7,931 FrmClipBoardView.cs
+08/03/2007  10:26 PM             9,426 FrmClipBoardView.resx
+08/03/2007  10:26 PM             4,796 FrmCreateRegion.cs
+08/03/2007  10:26 PM             8,533 FrmCreateRegion.resx
+08/03/2007  10:26 PM            10,744 FrmNAntMultipleRunner.cs
+08/03/2007  10:26 PM             6,189 FrmNAntRunner.cs
+08/03/2007  10:26 PM            30,661 FrmOptions.cs
+08/03/2007  10:26 PM            24,294 FrmOptions.resx
+08/03/2007  10:26 PM             5,304 FrmSortOptions.cs
+08/03/2007  10:26 PM             8,917 FrmSortOptions.resx
+08/03/2007  10:26 PM            28,968 FrmViewFiles.cs
+08/03/2007  10:26 PM            20,898 FrmViewFiles.resx
+08/03/2007  10:26 PM             2,568 FrmViewMethods.cs
+              14 File(s)        178,938 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src\bewise\helpers
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,314 SortHelpers.cs
+08/03/2007  10:26 PM            13,426 ViewFileHelpers.cs
+               2 File(s)         14,740 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Open Tools API\SharpBuilderTools\src\bewise\utils
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               456 ClassInfo.cs
+08/03/2007  10:26 PM               481 FieldInfo.cs
+08/03/2007  10:26 PM               506 MemberInfo.cs
+08/03/2007  10:26 PM             1,061 MethodInfo.cs
+08/03/2007  10:26 PM            11,819 OTAUtils.cs
+08/03/2007  10:26 PM             3,715 RunProcess.cs
+08/03/2007  10:26 PM               482 ViewFileInfo.cs
+08/03/2007  10:26 PM               716 WinAPI.cs
+               8 File(s)         19,236 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Number Conversion
+08/03/2007  10:26 PM    <DIR>          Tic Tac Toe
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Number Conversion
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             7,399 RomanClient.bdsproj
+08/03/2007  10:26 PM    <DIR>          Web References
+08/03/2007  10:26 PM             4,396 WinForm1.cs
+08/03/2007  10:26 PM             8,330 WinForm1.resx
+08/03/2007  10:26 PM             1,823 eBob42.gif
+08/03/2007  10:26 PM               298 readme.txt
+               5 File(s)         22,246 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Number Conversion\Web References
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          com.ebob42.www
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Number Conversion\Web References\com.ebob42.www
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,505 IRomanservice.wsdl
+08/03/2007  10:26 PM             3,207 Reference.cs
+08/03/2007  10:26 PM               409 Reference.map
+               3 File(s)          6,121 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Tic Tac Toe
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             7,202 TicTacToe.bdsproj
+08/03/2007  10:26 PM    <DIR>          Web References
+08/03/2007  10:26 PM            12,261 WinForm1.cs
+08/03/2007  10:26 PM            12,323 WinForm1.resx
+08/03/2007  10:26 PM             1,823 eBob42.gif
+08/03/2007  10:26 PM               766 eBob42.ico
+08/03/2007  10:26 PM               278 readme.txt
+               6 File(s)         34,653 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Tic Tac Toe\Web References
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          com.ebob42.www
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Examples\C#\Web Services\Tic Tac Toe\Web References\com.ebob42.www
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             5,394 ITicTacToeservice.wsdl
+08/03/2007  10:26 PM             6,238 Reference.cs
+08/03/2007  10:26 PM               417 Reference.map
+               3 File(s)         12,049 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          C#
+08/03/2007  10:26 PM    <DIR>          Common
+08/03/2007  10:26 PM    <DIR>          Thirdparty
+08/03/2007  10:26 PM    <DIR>          Tutorials
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\C#
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            36,386 csbapi.HxI
+08/03/2007  10:26 PM           812,484 csbapi.HxS
+08/03/2007  10:26 PM            17,302 csbguide.HxI
+08/03/2007  10:26 PM           796,182 csbguide.HxS
+08/03/2007  10:26 PM            22,008 csbtasks.HxI
+08/03/2007  10:26 PM           769,010 csbtasks.HxS
+08/03/2007  10:26 PM            20,856 csbui.HxI
+08/03/2007  10:26 PM           796,946 csbui.HxS
+               8 File(s)      3,271,174 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Common
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,633 bds.HxA
+08/03/2007  10:26 PM             1,345 bds.HxC
+08/03/2007  10:26 PM             2,722 bds.HxT
+08/03/2007  10:26 PM               167 bds_A.HxK
+08/03/2007  10:26 PM               167 bds_F.HxK
+08/03/2007  10:26 PM               167 bds_K.HxK
+08/03/2007  10:26 PM             1,465 bds_NamedURL.HxK
+08/03/2007  10:26 PM            14,732 bdsstart.HxI
+08/03/2007  10:26 PM            36,834 bdsstart.HxS
+               9 File(s)         59,232 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Thirdparty
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           112,384 crystlmn.hxi
+08/03/2007  10:26 PM           438,934 crystlmn.hxs
+08/03/2007  10:26 PM           470,470 crystlrf.hxi
+08/03/2007  10:26 PM           754,040 crystlrf.hxs
+               4 File(s)      1,775,828 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Tutorials
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          SoftSteel
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Tutorials\SoftSteel
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          csharp
+08/03/2007  10:26 PM    <DIR>          layout
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Tutorials\SoftSteel\csharp
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            17,787 index.html
+08/03/2007  10:26 PM             9,598 lesson1.html
+08/03/2007  10:26 PM            19,359 lesson10.html
+08/03/2007  10:26 PM            12,689 lesson10P.html
+08/03/2007  10:26 PM            19,172 lesson11.html
+08/03/2007  10:26 PM            12,503 lesson11P.html
+08/03/2007  10:26 PM            12,814 lesson12.html
+08/03/2007  10:26 PM             6,308 lesson12P.html
+08/03/2007  10:26 PM            24,307 lesson13.html
+08/03/2007  10:26 PM            17,372 lesson13P.html
+08/03/2007  10:26 PM            16,335 lesson14.html
+08/03/2007  10:26 PM             9,795 lesson14P.html
+08/03/2007  10:26 PM            24,096 lesson15.html
+08/03/2007  10:26 PM            17,322 lesson15P.html
+08/03/2007  10:26 PM            22,215 lesson16.html
+08/03/2007  10:26 PM            15,289 lesson16P.html
+08/03/2007  10:26 PM            14,547 lesson17.html
+08/03/2007  10:26 PM             8,220 lesson17P.html
+08/03/2007  10:26 PM            19,206 lesson18.html
+08/03/2007  10:26 PM            12,483 lesson18P.html
+08/03/2007  10:26 PM            16,894 lesson19.html
+08/03/2007  10:26 PM            10,414 lesson19P.html
+08/03/2007  10:26 PM             3,407 lesson1P.html
+08/03/2007  10:26 PM            10,577 lesson2.html
+08/03/2007  10:26 PM             4,611 lesson2P.html
+08/03/2007  10:26 PM            13,046 lesson3.html
+08/03/2007  10:26 PM             6,606 lesson3P.html
+08/03/2007  10:26 PM            18,835 lesson4.html
+08/03/2007  10:26 PM            11,663 lesson4P.html
+08/03/2007  10:26 PM            23,565 lesson5.html
+08/03/2007  10:26 PM            16,650 lesson5P.html
+08/03/2007  10:26 PM            14,783 lesson6.html
+08/03/2007  10:26 PM             8,186 lesson6P.html
+08/03/2007  10:26 PM            15,623 lesson7.html
+08/03/2007  10:26 PM             9,153 lesson7P.html
+08/03/2007  10:26 PM            15,319 lesson8.html
+08/03/2007  10:26 PM             8,559 lesson8P.html
+08/03/2007  10:26 PM            13,111 lesson9.html
+08/03/2007  10:26 PM             6,719 lesson9P.html
+              39 File(s)        539,138 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Help\Tutorials\SoftSteel\layout
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             1,434 3aslices_2.gif
+08/03/2007  10:26 PM               842 3aslices_3.gif
+08/03/2007  10:26 PM               946 3aslices_4.gif
+08/03/2007  10:26 PM               173 3aslices_4a.gif
+08/03/2007  10:26 PM               881 3aslices_5.gif
+08/03/2007  10:26 PM            16,384 Thumbs.db
+08/03/2007  10:26 PM             7,235 cLess11a.JPG
+08/03/2007  10:26 PM               801 greenfill.GIF
+08/03/2007  10:26 PM             1,751 logo.JPG
+08/03/2007  10:26 PM               911 pixel.GIF
+08/03/2007  10:26 PM             2,358 softsteel.css
+08/03/2007  10:26 PM             2,294 softsteelNN.css
+08/03/2007  10:26 PM               939 softsteelarrow.GIF
+08/03/2007  10:26 PM               911 transp.GIF
+              14 File(s)         37,860 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Objrepos
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            11,448 ApplicationSettings.xml
+08/03/2007  10:26 PM             4,576 BorlandUDDI.html
+08/03/2007  10:26 PM    <DIR>          CSharp
+08/03/2007  10:26 PM             1,119 CodeSnippets.xml
+08/03/2007  10:26 PM             1,010 HTMLFormatterTagInfo.xml
+08/03/2007  10:26 PM             2,692 HtmlSnippets.xml
+08/03/2007  10:26 PM    <DIR>          Markup
+08/03/2007  10:26 PM               139 TypeMappings.xml
+08/03/2007  10:26 PM    <DIR>          VB
+08/03/2007  10:26 PM             7,255 bds.dci
+08/03/2007  10:26 PM            47,209 searcher2.jpg
+08/03/2007  10:26 PM             4,912 soapwebservice.asmx
+               9 File(s)         80,360 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Objrepos\CSharp
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM             2,426 AssemblyInfoTemplate.cs
+08/03/2007  10:26 PM               338 ClassTemplate.cs
+08/03/2007  10:26 PM             1,638 ComponentTemplate.cs
+08/03/2007  10:26 PM               359 ConsoleAppTemplate.cs
+08/03/2007  10:26 PM               118 Control.ascx
+08/03/2007  10:26 PM               963 Control.ascx.cs
+08/03/2007  10:26 PM                85 Global.asax
+08/03/2007  10:26 PM             1,265 Global.asax.cs
+08/03/2007  10:26 PM             1,252 InheritedWinFormTemplate.cs
+08/03/2007  10:26 PM               419 Page.aspx
+08/03/2007  10:26 PM             1,074 Page.aspx.cs
+08/03/2007  10:26 PM             1,733 ResourceTemplate.resx
+08/03/2007  10:26 PM             1,251 UserControlTemplate.cs
+08/03/2007  10:26 PM             3,125 Web.config
+08/03/2007  10:26 PM               889 WebCustomControl.cs
+08/03/2007  10:26 PM               108 WebService.asmx
+08/03/2007  10:26 PM             1,523 WebService.asmx.cs
+08/03/2007  10:26 PM             1,701 WinFormTemplate.cs
+              18 File(s)         20,267 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Objrepos\Markup
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               224 HTMLPageTemplate.htm
+08/03/2007  10:26 PM               273 XHTMLTemplate.htm
+               2 File(s)            497 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Objrepos\VB
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                44 ClassTemplate.vb
+08/03/2007  10:26 PM                69 ConsoleAppTemplate.vb
+08/03/2007  10:26 PM             1,189 FormTemplate.vb
+08/03/2007  10:26 PM             1,177 UserControlTemplate.vb
+               4 File(s)          2,479 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Schemas
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            18,796 HTML2-strict.dtd
+08/03/2007  10:26 PM            18,140 HTML2.dtd
+08/03/2007  10:26 PM            21,875 HTML3.2.dtd
+08/03/2007  10:26 PM            11,956 HTMLlat1.ent
+08/03/2007  10:26 PM             4,114 HTMLspecial.ent
+08/03/2007  10:26 PM            14,447 HTMLsymbol.ent
+08/03/2007  10:26 PM            94,917 asp.xsd
+08/03/2007  10:26 PM             5,988 asp_directives.xsd
+08/03/2007  10:26 PM             1,355 frameset.dtd
+08/03/2007  10:26 PM            46,991 loose.dtd
+08/03/2007  10:26 PM            35,840 strict.dtd
+08/03/2007  10:26 PM             9,119 wml12.dtd
+08/03/2007  10:26 PM            11,789 xhtml-lat1.ent
+08/03/2007  10:26 PM             4,144 xhtml-special.ent
+08/03/2007  10:26 PM            14,127 xhtml-symbol.ent
+08/03/2007  10:26 PM            34,007 xhtml1-frameset.dtd
+08/03/2007  10:26 PM            26,769 xhtml1-strict.dtd
+08/03/2007  10:26 PM            33,230 xhtml1-transitional.dtd
+08/03/2007  10:26 PM             7,726 xsl.dtd
+              19 File(s)        415,330 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Welcomepage
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Images
+08/03/2007  10:26 PM             5,805 bdshome.css
+08/03/2007  10:26 PM             7,592 bdshome.js
+08/03/2007  10:26 PM            60,635 bdshome.xsl
+08/03/2007  10:26 PM             1,918 borland_logo.gif
+08/03/2007  10:26 PM            13,849 default.htm
+08/03/2007  10:26 PM            12,685 start1.gif
+08/03/2007  10:26 PM           140,965 start1.psp
+08/03/2007  10:26 PM             2,168 start2.gif
+08/03/2007  10:26 PM               915 start2_bar.gif
+08/03/2007  10:26 PM             1,687 start2_bar.psp
+              10 File(s)        248,219 bytes
+
+ Directory of F:\Install\program files\Borland\BDS\1.0\Welcomepage\Images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               132 bluepage.gif
+08/03/2007  10:26 PM               334 define.gif
+08/03/2007  10:26 PM               204 deploy.gif
+08/03/2007  10:26 PM               275 design.gif
+08/03/2007  10:26 PM               227 develop.gif
+08/03/2007  10:26 PM                84 dropshadow.gif
+08/03/2007  10:26 PM             2,142 droptab.gif
+08/03/2007  10:26 PM               229 droptabfill.gif
+08/03/2007  10:26 PM               123 greenfolder.gif
+08/03/2007  10:26 PM               126 greenfoldero.gif
+08/03/2007  10:26 PM                77 inrTab.gif
+08/03/2007  10:26 PM                58 inrTabDn.gif
+08/03/2007  10:26 PM                70 inrTabUp.gif
+08/03/2007  10:26 PM               345 manage.gif
+08/03/2007  10:26 PM               494 openAsNewNo.gif
+08/03/2007  10:26 PM               507 openAsNewYes.gif
+08/03/2007  10:26 PM               133 project.gif
+08/03/2007  10:26 PM               128 project_group.gif
+08/03/2007  10:26 PM               314 showHPNo.gif
+08/03/2007  10:26 PM               496 showHPYes.gif
+08/03/2007  10:26 PM             1,826 start_nav_01_dn.png
+08/03/2007  10:26 PM             1,308 start_nav_03_dn.png
+08/03/2007  10:26 PM             1,310 start_nav_03_up.png
+08/03/2007  10:26 PM             1,317 start_nav_04_dn.png
+08/03/2007  10:26 PM             1,327 start_nav_04_up.png
+08/03/2007  10:26 PM             1,195 start_nav_05_dn.png
+08/03/2007  10:26 PM             1,203 start_nav_05_up.png
+08/03/2007  10:26 PM             1,089 start_nav_06_dn.png
+08/03/2007  10:26 PM             1,096 start_nav_06_up.png
+08/03/2007  10:26 PM             1,161 start_nav_07_dn.png
+08/03/2007  10:26 PM             1,168 start_nav_07_up.png
+08/03/2007  10:26 PM             1,478 start_nav_08_dn.png
+08/03/2007  10:26 PM             1,493 start_nav_08_up.png
+08/03/2007  10:26 PM               826 tabwidth.gif
+08/03/2007  10:26 PM               100 test.gif
+08/03/2007  10:26 PM            21,908 thinking_man.png
+08/03/2007  10:26 PM               613 update.gif
+              37 File(s)         46,916 bytes
+
+ Directory of F:\Install\program files\Common Files
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Crystal Decisions
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Common Files\Crystal Decisions
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          1.0
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Common Files\Crystal Decisions\1.0
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Bin
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Common Files\Crystal Decisions\1.0\Bin
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           292,864 CRDDT32.dll
+08/03/2007  10:26 PM            53,248 Cdo32.dll
+08/03/2007  10:26 PM           413,696 ExportModeller.dll
+08/03/2007  10:26 PM            19,456 Implode.dll
+08/03/2007  10:26 PM             6,664 Rule1.dfa
+08/03/2007  10:26 PM            14,316 Rule1.llr
+08/03/2007  10:26 PM           838,218 SACommonControls.dll
+08/03/2007  10:26 PM         1,849,246 Sscdlg.hlp
+08/03/2007  10:26 PM           153,088 Sstree32.dll
+08/03/2007  10:26 PM           344,064 crdb_ado.dll
+08/03/2007  10:26 PM           495,616 crdb_adoplus.dll
+08/03/2007  10:26 PM           139,264 crdb_cdo.dll
+08/03/2007  10:26 PM           233,472 crdb_dao.dll
+08/03/2007  10:26 PM           139,264 crdb_fielddef.dll
+08/03/2007  10:26 PM           309,248 crdb_odbc.dll
+08/03/2007  10:26 PM         5,345,340 crpe32.dll
+08/03/2007  10:26 PM         1,187,840 crqe.dll
+08/03/2007  10:26 PM            24,576 crtowords_en.dll
+08/03/2007  10:26 PM           294,912 crxf_pdf.dll
+08/03/2007  10:26 PM           155,703 crxf_rtf.dll
+08/03/2007  10:26 PM           155,705 crxf_wordw.dll
+08/03/2007  10:26 PM           217,088 crxf_xls.dll
+08/03/2007  10:26 PM           915,456 datadefmodel.dll
+08/03/2007  10:26 PM           188,416 keycodeV2.dll
+08/03/2007  10:26 PM           401,462 msvcp60.dll
+08/03/2007  10:26 PM           103,424 pg32conv.dll
+08/03/2007  10:26 PM           180,224 querybuilder.dll
+08/03/2007  10:26 PM            90,112 s2sqlprs.dll
+08/03/2007  10:26 PM           129,024 saxmlserialize.dll
+08/03/2007  10:26 PM             7,259 sscdlg.cnt
+08/03/2007  10:26 PM           786,432 sscdlg.dll
+08/03/2007  10:26 PM             8,033 sscdlg.hpt
+08/03/2007  10:26 PM         2,498,560 sscrc.dll
+08/03/2007  10:26 PM         1,236,992 sscsdk80.dll
+08/03/2007  10:26 PM            49,223 tslv.dll
+08/03/2007  10:26 PM            24,576 u252000.dll
+08/03/2007  10:26 PM            24,576 u25dts.dll
+08/03/2007  10:26 PM            36,864 u2ddisk.dll
+08/03/2007  10:26 PM            53,248 u2dmapi.dll
+08/03/2007  10:26 PM           114,688 u2dpost.dll
+08/03/2007  10:26 PM           196,608 u2fcompress.dll
+08/03/2007  10:26 PM            69,632 u2fcr.dll
+08/03/2007  10:26 PM            24,576 u2l2000.dll
+08/03/2007  10:26 PM           135,168 u2lcom.dll
+08/03/2007  10:26 PM            24,576 u2ldts.dll
+08/03/2007  10:26 PM            28,672 u2lexch.dll
+08/03/2007  10:26 PM            69,632 u2lfinra.dll
+08/03/2007  10:26 PM            24,576 u2lsamp1.dll
+08/03/2007  10:26 PM           237,936 unicows.dll
+              49 File(s)     20,342,833 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Crystal Reports
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          Crystal.NET
+08/03/2007  10:26 PM    <DIR>          Viewers
+08/03/2007  10:26 PM            90,112 confiis4.exe
+               1 File(s)         90,112 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports\Crystal.NET
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           483,328 CrystalDecisions.CrystalReports.Engine.dll
+08/03/2007  10:26 PM            36,864 CrystalDecisions.ReportSource.dll
+08/03/2007  10:26 PM           319,488 CrystalDecisions.Shared.dll
+08/03/2007  10:26 PM           151,552 CrystalDecisions.Web.dll
+08/03/2007  10:26 PM           237,568 CrystalDecisions.Windows.Forms.dll
+08/03/2007  10:26 PM            45,056 CrystalEnterpriseLib.dll
+08/03/2007  10:26 PM            57,344 CrystalInfoStoreLib.dll
+08/03/2007  10:26 PM            19,968 CrystalKeyCodeLib.dll
+08/03/2007  10:26 PM             9,216 CrystalPluginMgrLib.dll
+08/03/2007  10:26 PM            57,344 CrystalReportPluginLib.dll
+              10 File(s)      1,417,728 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports\Viewers
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               324 crystalimagehandler.aspx
+08/03/2007  10:26 PM    <DIR>          images
+               1 File(s)            324 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports\Viewers\images
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM    <DIR>          ToolBar
+08/03/2007  10:26 PM    <DIR>          Tree
+               0 File(s)              0 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports\Viewers\images\ToolBar
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM               930 First.gif
+08/03/2007  10:26 PM               935 Firstd.gif
+08/03/2007  10:26 PM               927 Last.gif
+08/03/2007  10:26 PM               934 Lastd.gif
+08/03/2007  10:26 PM               921 Next.gif
+08/03/2007  10:26 PM               918 Nextd.gif
+08/03/2007  10:26 PM               920 Prev.gif
+08/03/2007  10:26 PM               922 Prevd.gif
+08/03/2007  10:26 PM               938 Refresh.gif
+08/03/2007  10:26 PM               947 Search.gif
+08/03/2007  10:26 PM               189 gotopage.gif
+08/03/2007  10:26 PM             2,181 logo.gif
+08/03/2007  10:26 PM               986 up.gif
+08/03/2007  10:26 PM               977 upd.gif
+              14 File(s)         13,625 bytes
+
+ Directory of F:\Install\program files\Microsoft Visual Studio .NET 2003\Crystal Reports\Viewers\images\Tree
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM                55 Emptybox.gif
+08/03/2007  10:26 PM                96 Magnify.gif
+08/03/2007  10:26 PM                72 Minubox.gif
+08/03/2007  10:26 PM                76 Plusbox.gif
+08/03/2007  10:26 PM               852 begindots.gif
+08/03/2007  10:26 PM               118 beginminus.gif
+08/03/2007  10:26 PM               123 beginplus.gif
+08/03/2007  10:26 PM                94 blank.gif
+08/03/2007  10:26 PM                65 blankdots.gif
+08/03/2007  10:26 PM               106 dots.gif
+08/03/2007  10:26 PM               102 lastdots.gif
+08/03/2007  10:26 PM               117 lastminus.gif
+08/03/2007  10:26 PM                83 lastplus.gif
+08/03/2007  10:26 PM                79 minus.gif
+08/03/2007  10:26 PM               126 plus.gif
+08/03/2007  10:26 PM               869 singleminus.gif
+08/03/2007  10:26 PM               873 singleplus.gif
+              17 File(s)          3,906 bytes
+
+ Directory of F:\IE60SP1
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            47,213 ADVAUTH.CAB
+08/03/2007  10:26 PM           170,905 AOLSUPP.CAB
+08/03/2007  10:26 PM             8,246 BRANDING.CAB
+08/03/2007  10:26 PM           282,353 GSETUP95.CAB
+08/03/2007  10:26 PM           262,095 GSETUPNT.CAB
+08/03/2007  10:26 PM           357,155 HELPCONT.CAB
+08/03/2007  10:26 PM            15,102 IECIF.CAB
+08/03/2007  10:26 PM            66,982 IEDATA.CAB
+08/03/2007  10:26 PM         1,403,594 IEMIL_1.CAB
+08/03/2007  10:26 PM         2,182,142 IEMIL_2.CAB
+08/03/2007  10:26 PM         2,115,270 IEMIL_3.CAB
+08/03/2007  10:26 PM         1,317,021 IEMIL_4.CAB
+08/03/2007  10:26 PM         1,818,300 IEW2K_1.CAB
+08/03/2007  10:26 PM         1,718,235 IEW2K_2.CAB
+08/03/2007  10:26 PM         1,877,533 IEW2K_3.CAB
+08/03/2007  10:26 PM         2,195,004 IEW2K_4.CAB
+08/03/2007  10:26 PM           141,680 IE_EXTRA.CAB
+08/03/2007  10:26 PM           367,999 MOBILE95.CAB
+08/03/2007  10:26 PM           357,660 MOBILENT.CAB
+08/03/2007  10:26 PM            19,990 OEEXCEP.CAB
+08/03/2007  10:26 PM           133,450 actsetup.CAB
+08/03/2007  10:26 PM           656,426 axa.cab
+08/03/2007  10:26 PM           207,529 axa3.cab
+08/03/2007  10:26 PM            12,984 crlupd.cab
+08/03/2007  10:26 PM                22 filelist.dat
+08/03/2007  10:26 PM           762,249 fontcore.cab
+08/03/2007  10:26 PM           643,814 fontsup.cab
+08/03/2007  10:26 PM           704,025 hhupd.cab
+08/03/2007  10:26 PM           480,135 icw.cab
+08/03/2007  10:26 PM           477,247 icwcon.cab
+08/03/2007  10:26 PM         1,107,861 ie4shlnt.cab
+08/03/2007  10:26 PM           487,536 ie6oem.exe
+08/03/2007  10:26 PM           490,608 ie6setup.exe
+08/03/2007  10:26 PM         1,525,813 ie_s1.CAB
+08/03/2007  10:26 PM         1,458,213 ie_s2.CAB
+08/03/2007  10:26 PM         1,458,213 ie_s3.CAB
+08/03/2007  10:26 PM         1,458,213 ie_s4.CAB
+08/03/2007  10:26 PM         1,458,213 ie_s5.CAB
+08/03/2007  10:26 PM           258,071 ie_s6.CAB
+08/03/2007  10:26 PM         2,686,576 ieak6.exe
+08/03/2007  10:26 PM         2,710,128 ieak6cd.exe
+08/03/2007  10:26 PM         3,328,748 ieak6opt.CAB
+08/03/2007  10:26 PM           110,162 iedom.cab
+08/03/2007  10:26 PM            25,165 ieexinst.CAB
+08/03/2007  10:26 PM           122,295 ielpkad.cab
+08/03/2007  10:26 PM           305,214 ielpkar.cab
+08/03/2007  10:26 PM           312,913 ielpkiw.cab
+08/03/2007  10:26 PM         2,885,870 ielpkja.cab
+08/03/2007  10:26 PM         2,296,003 ielpkko.cab
+08/03/2007  10:26 PM         1,936,091 ielpkpe.cab
+08/03/2007  10:26 PM           411,248 ielpkth.cab
+08/03/2007  10:26 PM           444,709 ielpkvi.cab
+08/03/2007  10:26 PM         2,869,539 ielpkzhc.cab
+08/03/2007  10:26 PM         4,125,349 ielpkzht.cab
+08/03/2007  10:26 PM         1,324,551 ient_s1.CAB
+08/03/2007  10:26 PM         1,458,215 ient_s2.CAB
+08/03/2007  10:26 PM         1,458,215 ient_s3.CAB
+08/03/2007  10:26 PM         1,458,215 ient_s4.CAB
+08/03/2007  10:26 PM         1,458,215 ient_s5.CAB
+08/03/2007  10:26 PM           461,439 ient_s6.CAB
+08/03/2007  10:26 PM               104 iesetup.ini
+08/03/2007  10:26 PM         3,820,622 jaaime.cab
+08/03/2007  10:26 PM           232,925 koaime.cab
+08/03/2007  10:26 PM         1,935,979 mailnews.cab
+08/03/2007  10:26 PM           567,271 mpcdcs.cab
+08/03/2007  10:26 PM           762,176 mplay2a.cab
+08/03/2007  10:26 PM           848,155 mplay2u.cab
+08/03/2007  10:26 PM         1,673,555 mplayer2.cab
+08/03/2007  10:26 PM           475,470 oainst.cab
+08/03/2007  10:26 PM            28,448 readme.CAB
+08/03/2007  10:26 PM            41,224 readme.txt
+08/03/2007  10:26 PM         2,377,395 scaime.cab
+08/03/2007  10:26 PM           800,365 scr56en.cab
+08/03/2007  10:26 PM           800,234 scripten.cab
+08/03/2007  10:26 PM           737,619 setupnt.CAB
+08/03/2007  10:26 PM           928,786 setupw95.CAB
+08/03/2007  10:26 PM           226,762 swflash.cab
+08/03/2007  10:26 PM           658,724 tcaime.cab
+08/03/2007  10:26 PM           159,493 ts95.cab
+08/03/2007  10:26 PM           162,552 tsnt.cab
+08/03/2007  10:26 PM           173,563 usp10.cab
+08/03/2007  10:26 PM         1,056,592 vgx.cab
+08/03/2007  10:26 PM           594,321 wab.cab
+              83 File(s)     81,756,296 bytes
+
+ Directory of F:\Demeanor PE
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM           507,392 Wise Owl Demeanor for Borland C#Builder Setup.msi
+               1 File(s)        507,392 bytes
+
+ Directory of F:\Crack
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM            51,591 keygen.exe
+08/03/2007  10:26 PM               672 readme.txt
+               2 File(s)         52,263 bytes
+
+ Directory of F:\Component One
+
+08/03/2007  10:26 PM    <DIR>          .
+08/03/2007  10:26 PM        52,904,960 C1StudioEnterprise.msi
+               1 File(s)     52,904,960 bytes
+
+     Total Files Listed:
+            1734 File(s)    488,021,093 bytes
+             420 Dir(s)               0 bytes free

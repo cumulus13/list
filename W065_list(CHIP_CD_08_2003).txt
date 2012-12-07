@@ -1,0 +1,914 @@
+ Volume in drive G is CHIP_08_2003
+ Volume Serial Number is D4C0-DD07
+
+ Directory of G:\
+
+09/12/2001  01:32 PM                39 AUTORUN.INF
+09/12/2001  01:32 PM           700,944 CHIP.EXE
+09/12/2001  01:32 PM               766 CHIP.ICO
+05/08/2003  01:15 PM    <DIR>          Chip
+05/21/2003  10:56 AM    <DIR>          Game
+05/21/2003  10:56 AM    <DIR>          Lib
+08/11/2003  10:31 AM    <DIR>          Online
+06/19/2003  01:33 PM    <DIR>          Program
+05/21/2003  10:56 AM    <DIR>          QCam
+07/21/2003  08:02 AM             4,207 Readme.txt
+06/26/2003  08:01 AM    <DIR>          Spesial
+               4 File(s)        705,956 bytes
+
+ Directory of G:\Chip
+
+01/15/1601  02:57 AM    <DIR>          .
+01/15/1601  02:57 AM    <DIR>          ..
+05/08/2003  01:15 PM    <DIR>          chip-lab
+05/08/2003  01:15 PM    <DIR>          chip-tip
+05/08/2003  01:15 PM    <DIR>          chip-tv
+05/08/2003  01:15 PM    <DIR>          digital
+05/08/2003  01:15 PM    <DIR>          service
+               0 File(s)              0 bytes
+
+ Directory of G:\Chip\chip-lab
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+08/21/2003  08:24 AM         9,146,191 08_2k3.zip
+08/21/2003  09:00 AM               299 chip.txt
+09/12/2001  01:32 PM           121,080 scrshot.bmp
+               3 File(s)      9,267,570 bytes
+
+ Directory of G:\Chip\chip-tip
+
+09/12/2001  06:59 AM    <DIR>          .
+09/12/2001  06:59 AM    <DIR>          ..
+08/19/2003  11:14 AM               367 List.rtf
+08/21/2003  08:59 AM               544 chip.txt
+               2 File(s)            911 bytes
+
+ Directory of G:\Chip\chip-tv
+
+08/21/2003  07:00 AM    <DIR>          .
+08/21/2003  07:00 AM    <DIR>          ..
+08/21/2003  11:31 AM               434 chip.txt
+02/16/2003  11:43 PM        10,965,781 lxg.mov
+08/21/2003  11:25 AM           183,120 scrshot.bmp
+               3 File(s)     11,149,335 bytes
+
+ Directory of G:\Chip\digital
+
+09/03/17537  06:56 AM    <DIR>          .
+09/03/17537  06:56 AM    <DIR>          ..
+07/21/2003  07:43 AM         5,911,370 07_2003.pdf
+08/19/2003  11:36 AM               217 chip.txt
+08/21/2003  09:02 AM           241,688 scrshot.bmp
+               3 File(s)      6,153,275 bytes
+
+ Directory of G:\Chip\service
+
+02/28/16712  06:56 AM    <DIR>          .
+02/28/16712  06:56 AM    <DIR>          ..
+05/08/2003  01:15 PM    <DIR>          Acread6
+05/08/2003  01:15 PM    <DIR>          Dx9a
+05/08/2003  01:15 PM    <DIR>          Qt6
+05/08/2003  01:15 PM    <DIR>          VFW
+05/08/2003  01:15 PM    <DIR>          WINZIP
+08/21/2003  11:13 AM    <DIR>          Wm99xme
+05/08/2003  01:15 PM    <DIR>          Wmc8
+               0 File(s)              0 bytes
+
+ Directory of G:\Chip\service\Acread6
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+06/08/2003  07:15 PM        16,051,496 AdRdr6.exe
+07/11/2003  09:48 AM               583 chip.txt
+07/14/2003  10:32 AM           208,080 scrshot.bmp
+               3 File(s)     16,260,159 bytes
+
+ Directory of G:\Chip\service\Dx9a
+
+07/14/2003  10:55 AM    <DIR>          .
+07/14/2003  10:55 AM    <DIR>          ..
+06/05/2003  01:35 PM               395 chip.txt
+12/17/2002  12:42 AM        33,372,760 dx90a.exe
+01/22/2003  10:04 AM           193,104 scrshot.bmp
+               3 File(s)     33,566,259 bytes
+
+ Directory of G:\Chip\service\Qt6
+
+01/22/2003  10:58 AM    <DIR>          .
+01/22/2003  10:58 AM    <DIR>          ..
+07/24/2002  08:07 PM        11,022,019 QT6.exe
+10/10/2002  09:21 AM               469 chip.txt
+07/24/2002  09:26 AM           171,880 scrshot.bmp
+               3 File(s)     11,194,368 bytes
+
+ Directory of G:\Chip\service\VFW
+
+07/24/2002  10:56 AM    <DIR>          .
+07/24/2002  10:56 AM    <DIR>          ..
+09/12/2001  01:32 PM             6,864 ACMCMPRS.DL_
+09/12/2001  01:32 PM            39,985 AVICAP.DL_
+09/12/2001  01:32 PM            52,476 AVIFILE.DL_
+09/12/2001  01:32 PM                92 CLEANUP.RE_
+09/12/2001  01:32 PM            54,527 COMPOBJ.DL_
+09/12/2001  01:32 PM             8,269 CTL3D.DL_
+09/12/2001  01:32 PM             3,722 DISPDIB.DL_
+09/12/2001  01:32 PM             1,580 DVA.38_
+09/12/2001  01:32 PM            32,485 ICCVID.DR_
+09/12/2001  01:32 PM             9,621 IMAADPCM.AC_
+09/12/2001  01:32 PM            28,074 INIUPD.DL_
+09/12/2001  01:32 PM            24,204 IR21_R.DL_
+09/12/2001  01:32 PM            73,048 IR32.DL_
+09/12/2001  01:32 PM             7,669 MAP_WIN.HL_
+09/12/2001  01:32 PM            41,004 MCIAVI.DR_
+09/12/2001  01:32 PM             5,326 MCIOLE.DL_
+09/12/2001  01:32 PM            55,904 MPLAYER.EX_
+09/12/2001  01:32 PM            33,303 MPLAYER.HL_
+09/12/2001  01:32 PM               412 MPLAYER.RE_
+09/12/2001  01:32 PM            30,274 MSACM.DL_
+09/12/2001  01:32 PM            12,743 MSACM.DR_
+09/12/2001  01:32 PM             8,046 MSADPCM.AC_
+09/12/2001  01:32 PM            37,722 MSCOMSTF.DL_
+09/12/2001  01:32 PM             6,911 MSCPYDIS.DL_
+09/12/2001  01:32 PM             1,728 MSCPYDIS.IN_
+09/12/2001  01:32 PM            11,560 MSCUISTF.DL_
+09/12/2001  01:32 PM             3,742 MSDETECT.IN_
+09/12/2001  01:32 PM            13,519 MSDETSTF.DL_
+09/12/2001  01:32 PM            36,858 MSINSSTF.DL_
+09/12/2001  01:32 PM             5,284 MSRLE.DR_
+09/12/2001  01:32 PM             8,234 MSSHLSTF.DL_
+09/12/2001  01:32 PM             3,611 MSUILSTF.DL_
+09/12/2001  01:32 PM            20,291 MSVIDC.DR_
+09/12/2001  01:32 PM            65,647 MSVIDEO.DL_
+09/12/2001  01:32 PM            67,614 MSVIDEO.NT_
+09/12/2001  01:32 PM           169,656 OLE2.DL_
+09/12/2001  01:32 PM             3,710 OLE2.RE_
+09/12/2001  01:32 PM            32,201 OLE2CONV.DL_
+09/12/2001  01:32 PM            50,769 OLE2DISP.DL_
+09/12/2001  01:32 PM            52,746 OLE2NLS.DL_
+09/12/2001  01:32 PM            22,307 OLE2PROX.DL_
+09/12/2001  01:32 PM             2,490 PROFDISP.EX_
+09/12/2001  01:32 PM             5,412 README.TXT
+09/12/2001  01:32 PM            24,624 SETUP.EXE
+09/12/2001  01:32 PM               149 SETUP.INI
+09/12/2001  01:32 PM             1,334 SETUP.IN_
+09/12/2001  01:32 PM               686 SETUP.LST
+09/12/2001  01:32 PM            10,882 SETUP.MST
+09/12/2001  01:32 PM            11,015 SETUPAPI.IN_
+09/12/2001  01:32 PM             2,066 STDOLE.TL_
+09/12/2001  01:32 PM            81,328 STORAGE.DL_
+09/12/2001  01:32 PM            86,967 TYPELIB.DL_
+09/12/2001  01:32 PM             6,622 _MSSETUP.EX_
+09/12/2001  01:32 PM            49,647 _MSTEST.EX_
+09/12/2001  01:32 PM               229 chip.txt
+              55 File(s)      1,427,189 bytes
+
+ Directory of G:\Chip\service\WINZIP
+
+09/12/2001  10:56 AM    <DIR>          .
+09/12/2001  10:56 AM    <DIR>          ..
+05/08/2003  01:15 PM    <DIR>          WIN31
+05/08/2003  01:15 PM    <DIR>          WIN9X
+               0 File(s)              0 bytes
+
+ Directory of G:\Chip\service\WINZIP\WIN31
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+09/12/2001  01:32 PM           629,038 WINZIP31.EXE
+09/12/2001  01:32 PM               250 chip.txt
+               2 File(s)        629,288 bytes
+
+ Directory of G:\Chip\service\WINZIP\WIN9X
+
+09/12/2001  02:53 PM    <DIR>          .
+09/12/2001  02:53 PM    <DIR>          ..
+12/23/2001  04:37 PM           181,000 Scrshot.bmp
+12/23/2001  04:33 PM               546 chip.txt
+12/23/2001  04:16 PM         1,803,848 winzip81.exe
+               3 File(s)      1,985,394 bytes
+
+ Directory of G:\Chip\service\Wm99xme
+
+11/15/1621  10:52 AM    <DIR>          .
+11/15/1621  10:52 AM    <DIR>          ..
+12/12/2002  06:56 PM        13,951,112 MPSetup.exe
+01/21/2003  08:40 AM               614 chip.txt
+01/22/2003  08:32 AM           201,080 scrshot.bmp
+               3 File(s)     14,152,806 bytes
+
+ Directory of G:\Chip\service\Wmc8
+
+10/06/7752  10:52 AM    <DIR>          .
+10/06/7752  10:52 AM    <DIR>          ..
+01/22/2003  08:38 AM               487 chip.txt
+01/22/2003  11:39 AM           193,896 scrshot.bmp
+01/21/2003  09:16 AM           793,536 wmpcdcs8.exe
+               3 File(s)        987,919 bytes
+
+ Directory of G:\Game
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+05/21/2003  10:57 AM    <DIR>          topgame
+               0 File(s)              0 bytes
+
+ Directory of G:\Game\topgame
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+06/03/2003  12:45 PM        29,252,070 Pirates.mov
+08/21/2003  11:16 AM               647 chip.txt
+08/21/2003  11:33 AM           283,320 scrshot.bmp
+               3 File(s)     29,536,037 bytes
+
+ Directory of G:\Lib
+
+07/22/1620  02:57 AM    <DIR>          .
+07/22/1620  02:57 AM    <DIR>          ..
+05/21/2003  10:56 AM    <DIR>          BUTTONS
+05/21/2003  10:56 AM    <DIR>          ICONS
+05/21/2003  10:56 AM    <DIR>          IMAGES
+05/21/2003  10:56 AM    <DIR>          SPLSHAVI
+05/21/2003  10:56 AM    <DIR>          WAV
+08/22/2003  10:34 AM            11,557 chip.ini
+               1 File(s)         11,557 bytes
+
+ Directory of G:\Lib\BUTTONS
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+10/27/1998  11:52 AM             3,840 BUTT10A.BMP
+10/27/1998  11:52 AM             3,840 BUTT10B.BMP
+10/27/1998  11:52 AM             3,748 BUTT11A.BMP
+10/27/1998  11:52 AM             3,840 BUTT11B.BMP
+10/27/1998  11:52 AM             3,840 BUTT12A.BMP
+10/27/1998  11:52 AM             3,840 BUTT12B.BMP
+07/24/1999  12:57 PM             6,608 BUTT1A.BMP
+07/24/1999  01:01 PM             6,608 BUTT1B.BMP
+09/28/1999  06:20 AM             6,608 BUTT2A.BMP
+09/28/1999  06:21 AM             6,608 BUTT2B.BMP
+09/28/1999  06:22 AM             6,608 BUTT3A.BMP
+09/28/1999  06:22 AM             6,608 BUTT3B.BMP
+08/28/1999  05:21 AM             6,608 BUTT4A.BMP
+08/28/1999  05:21 AM             6,608 BUTT4B.BMP
+08/28/1999  05:24 AM             6,608 BUTT7A.BMP
+08/28/1999  05:24 AM             6,608 BUTT7B.BMP
+08/28/1999  05:25 AM             6,608 BUTT8A.BMP
+08/28/1999  05:25 AM             6,608 BUTT8B.BMP
+08/28/1999  05:26 AM             6,608 BUTT9A.BMP
+08/28/1999  05:26 AM             6,608 BUTT9B.BMP
+07/24/1999  07:14 AM             6,608 BUTTBM.BMP
+10/27/1998  11:53 AM             3,840 BUTTMM.BMP
+01/20/2003  02:07 PM             6,608 Butt5a.bmp
+01/20/2003  02:06 PM             6,608 Butt5b.bmp
+09/12/2001  01:32 PM             6,608 Butt6a.bmp
+09/12/2001  01:32 PM             6,608 Butt6b.bmp
+              26 File(s)        152,340 bytes
+
+ Directory of G:\Lib\ICONS
+
+09/12/2001  06:59 AM    <DIR>          .
+09/12/2001  06:59 AM    <DIR>          ..
+09/12/2001  01:32 PM             3,680 ICON11.BMP
+09/12/2001  01:32 PM             3,680 ICON11M.BMP
+09/12/2001  01:32 PM             3,680 ICON12.BMP
+09/12/2001  01:32 PM             3,680 ICON12M.BMP
+09/12/2001  01:32 PM             3,680 ICON13.BMP
+09/12/2001  01:32 PM             3,680 ICON13M.BMP
+09/12/2001  01:32 PM             3,680 ICON14.BMP
+09/12/2001  01:32 PM             3,680 ICON14M.BMP
+09/12/2001  01:32 PM             3,680 ICON15.BMP
+09/12/2001  01:32 PM             3,680 ICON21.BMP
+09/12/2001  01:32 PM             3,680 ICON21M.BMP
+09/12/2001  01:32 PM             3,680 ICON22.BMP
+09/12/2001  01:32 PM             3,680 ICON22M.BMP
+09/12/2001  01:32 PM             3,680 ICON23.BMP
+09/12/2001  01:32 PM             3,680 ICON23M.BMP
+09/12/2001  01:32 PM             3,680 ICON24.BMP
+09/12/2001  01:32 PM             3,680 ICON24M.BMP
+09/12/2001  01:32 PM             3,680 ICON25.BMP
+09/12/2001  01:32 PM             2,640 ICON31.BMP
+09/12/2001  01:32 PM             2,640 ICON31M.BMP
+09/12/2001  01:32 PM             2,640 ICON32.BMP
+09/12/2001  01:32 PM             2,640 ICON32M.BMP
+09/12/2001  01:32 PM             2,640 ICON33.BMP
+09/12/2001  01:32 PM             2,640 ICON33M.BMP
+09/12/2001  01:32 PM             2,640 ICON34.BMP
+09/12/2001  01:32 PM             2,640 ICON34M.BMP
+09/12/2001  01:32 PM             2,640 ICON35.BMP
+09/12/2001  01:32 PM             2,424 ICON41.BMP
+09/12/2001  01:32 PM             2,424 ICON41M.BMP
+09/12/2001  01:32 PM             2,424 ICON42.BMP
+09/12/2001  01:32 PM             2,424 ICON42M.BMP
+09/12/2001  01:32 PM             2,424 ICON43.BMP
+09/12/2001  01:32 PM             2,424 ICON43M.BMP
+09/12/2001  01:32 PM             2,424 ICON44.BMP
+09/12/2001  01:32 PM             2,424 ICON44M.BMP
+              35 File(s)        109,392 bytes
+
+ Directory of G:\Lib\IMAGES
+
+09/12/2001  06:59 AM    <DIR>          .
+09/12/2001  06:59 AM    <DIR>          ..
+08/21/2003  04:04 PM           921,656 0000.bmp
+08/21/2003  04:06 PM           921,656 1000.bmp
+08/21/2003  04:05 PM           921,656 2000.bmp
+08/21/2003  04:05 PM           921,656 3000.bmp
+08/21/2003  04:13 PM           921,656 3Danim.bmp
+08/21/2003  04:05 PM           921,656 4000.bmp
+08/21/2003  04:04 PM           921,656 5000.bmp
+08/21/2003  04:06 PM           921,656 6000.bmp
+08/22/2003  10:29 AM           921,656 7000.bmp
+08/21/2003  04:03 PM           921,656 8000.bmp
+08/21/2003  04:03 PM           921,656 9000.bmp
+08/21/2003  04:06 PM           707,492 Chipstrt.bmp
+              12 File(s)     10,845,708 bytes
+
+ Directory of G:\Lib\SPLSHAVI
+
+08/21/2003  06:58 AM    <DIR>          .
+08/21/2003  06:58 AM    <DIR>          ..
+09/12/2001  01:32 PM         3,758,080 CHIP.AVI
+               1 File(s)      3,758,080 bytes
+
+ Directory of G:\Lib\WAV
+
+09/12/2001  06:59 AM    <DIR>          .
+09/12/2001  06:59 AM    <DIR>          ..
+09/12/2001  01:32 PM            23,402 BANKRUPT.WAV
+09/12/2001  01:32 PM         1,016,108 CHIP.WAV
+09/12/2001  01:32 PM             7,758 CLICK.WAV
+09/12/2001  01:32 PM             7,452 DOORSLAM.WAV
+09/12/2001  01:32 PM           659,682 EASTREGG.WAV
+09/12/2001  01:32 PM             6,926 TING.WAV
+               6 File(s)      1,721,328 bytes
+
+ Directory of G:\Online
+
+07/29/1620  02:57 AM    <DIR>          .
+07/29/1620  02:57 AM    <DIR>          ..
+08/19/2003  12:48 PM    <DIR>          Coffee
+08/19/2003  12:47 PM    <DIR>          Eminem
+08/19/2003  12:47 PM    <DIR>          IntChat
+08/19/2003  12:47 PM    <DIR>          NetGrab
+08/19/2003  04:05 PM    <DIR>          NetLimit
+08/19/2003  04:05 PM    <DIR>          Trilian
+08/19/2003  04:05 PM    <DIR>          VNCMan
+               0 File(s)              0 bytes
+
+ Directory of G:\Online\Coffee
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+07/03/2003  11:14 PM         3,976,169 Coffee.exe
+08/19/2003  08:57 AM               565 chip.txt
+08/21/2003  11:47 AM           308,280 scrshot.bmp
+               3 File(s)      4,285,014 bytes
+
+ Directory of G:\Online\Eminem
+
+07/28/18287  06:56 AM    <DIR>          .
+07/28/18287  06:56 AM    <DIR>          ..
+08/21/2003  11:17 AM               351 chip.txt
+07/05/2003  06:48 PM         3,183,448 eminem.exe
+08/21/2003  11:34 AM           308,280 scrshot.bmp
+               3 File(s)      3,492,079 bytes
+
+ Directory of G:\Online\IntChat
+
+08/21/2003  06:58 AM    <DIR>          .
+08/21/2003  06:58 AM    <DIR>          ..
+08/21/2003  09:10 AM               445 chip.txt
+06/13/2003  10:05 AM           740,861 inchat3.exe
+08/21/2003  11:22 AM           298,680 scrshot.bmp
+               3 File(s)      1,039,986 bytes
+
+ Directory of G:\Online\NetGrab
+
+08/21/2003  07:00 AM    <DIR>          .
+08/21/2003  07:00 AM    <DIR>          ..
+08/19/2003  09:35 AM               438 chip.txt
+07/01/2003  12:55 AM         1,419,524 netgrab.exe
+08/21/2003  11:48 AM           246,200 scrshot.bmp
+               3 File(s)      1,666,162 bytes
+
+ Directory of G:\Online\NetLimit
+
+05/08/29992  06:58 AM    <DIR>          .
+05/08/29992  06:58 AM    <DIR>          ..
+07/30/2003  02:27 PM           626,375 NetLimit.exe
+08/21/2003  02:18 PM               200 chip.txt
+08/21/2003  11:49 AM           263,280 scrshot.bmp
+               3 File(s)        889,855 bytes
+
+ Directory of G:\Online\Trilian
+
+08/21/2003  06:59 AM    <DIR>          .
+08/21/2003  06:59 AM    <DIR>          ..
+08/19/2003  04:52 PM               257 chip.txt
+07/29/2003  08:56 AM         6,759,908 trillian.exe
+               2 File(s)      6,760,165 bytes
+
+ Directory of G:\Online\VNCMan
+
+07/29/2003  06:59 AM    <DIR>          .
+07/29/2003  06:59 AM    <DIR>          ..
+08/21/2003  02:18 PM               127 chip.txt
+08/21/2003  01:22 PM           237,480 scrshot.bmp
+06/13/2003  07:24 AM         2,853,866 vncmana.exe
+               3 File(s)      3,091,473 bytes
+
+ Directory of G:\Program
+
+07/22/1620  02:57 AM    <DIR>          .
+07/22/1620  02:57 AM    <DIR>          ..
+08/04/2003  11:45 AM    <DIR>          Utility
+06/03/2003  10:54 AM    <DIR>          anvirpr
+07/07/2003  12:39 PM    <DIR>          mmedia
+08/21/2003  09:23 AM    <DIR>          pockpc
+               0 File(s)              0 bytes
+
+ Directory of G:\Program\Utility
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+08/19/2003  03:40 PM    <DIR>          AudioL
+08/19/2003  03:40 PM    <DIR>          MacroEx
+08/19/2003  12:47 PM    <DIR>          PCMEdik
+08/19/2003  12:47 PM    <DIR>          WinRAR
+08/19/2003  12:47 PM    <DIR>          WordWeb
+08/19/2003  12:47 PM    <DIR>          X1
+08/04/2003  12:05 PM    <DIR>          cache
+08/19/2003  03:40 PM    <DIR>          eCover
+08/04/2003  11:45 AM    <DIR>          ramturbo
+08/04/2003  12:01 PM    <DIR>          winspee
+               0 File(s)              0 bytes
+
+ Directory of G:\Program\Utility\AudioL
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+06/18/2003  11:01 AM         2,644,637 Audiol.exe
+08/19/2003  08:21 AM               353 chip.txt
+08/21/2003  01:18 PM           262,680 scrshot.bmp
+               3 File(s)      2,907,670 bytes
+
+ Directory of G:\Program\Utility\MacroEx
+
+12/29/4478  10:52 AM    <DIR>          .
+12/29/4478  10:52 AM    <DIR>          ..
+08/21/2003  01:59 PM               566 chip.txt
+07/05/2003  06:55 PM         7,341,612 macex3.exe
+08/21/2003  01:21 PM           271,624 scrshot.bmp
+               3 File(s)      7,613,802 bytes
+
+ Directory of G:\Program\Utility\PCMEdik
+
+07/29/29249  10:55 AM    <DIR>          .
+07/29/29249  10:55 AM    <DIR>          ..
+08/21/2003  01:59 PM               603 chip.txt
+06/12/2003  09:02 AM           945,565 pcmedik.exe
+08/21/2003  01:16 PM           177,080 scrshot.bmp
+               3 File(s)      1,123,248 bytes
+
+ Directory of G:\Program\Utility\WinRAR
+
+08/21/2003  10:57 AM    <DIR>          .
+08/21/2003  10:57 AM    <DIR>          ..
+06/05/2003  12:19 PM           988,398 Wrar320.exe
+08/19/2003  08:59 AM               514 chip.txt
+08/21/2003  01:24 PM           163,520 scrshot.bmp
+               3 File(s)      1,152,432 bytes
+
+ Directory of G:\Program\Utility\WordWeb
+
+08/21/2003  10:58 AM    <DIR>          .
+08/21/2003  10:58 AM    <DIR>          ..
+08/19/2003  09:31 AM               576 chip.txt
+08/21/2003  01:26 PM           271,080 scrshot.bmp
+07/05/2003  07:13 PM         5,418,385 wordweb.exe
+               3 File(s)      5,690,041 bytes
+
+ Directory of G:\Program\Utility\X1
+
+07/05/2003  10:58 AM    <DIR>          .
+07/05/2003  10:58 AM    <DIR>          ..
+08/19/2003  08:54 AM               462 chip.txt
+08/21/2003  01:27 PM           271,080 scrshot.bmp
+07/04/2003  01:14 AM           922,200 x1.zip
+               3 File(s)      1,193,742 bytes
+
+ Directory of G:\Program\Utility\cache
+
+07/04/2003  10:58 AM    <DIR>          .
+07/04/2003  10:58 AM    <DIR>          ..
+08/04/2003  12:08 PM           945,890 cach550.zip
+08/21/2003  02:00 PM               417 chip.txt
+08/21/2003  01:36 PM           248,880 scrshot.bmp
+               3 File(s)      1,195,187 bytes
+
+ Directory of G:\Program\Utility\eCover
+
+12/23/29930  10:55 AM    <DIR>          .
+12/23/29930  10:55 AM    <DIR>          ..
+08/21/2003  02:04 PM               464 chip.txt
+02/05/2003  10:14 AM         2,128,384 eCover.msi
+08/21/2003  01:20 PM           271,080 scrshot.bmp
+               3 File(s)      2,399,928 bytes
+
+ Directory of G:\Program\Utility\ramturbo
+
+03/15/18089  10:54 AM    <DIR>          .
+03/15/18089  10:54 AM    <DIR>          ..
+08/21/2003  02:00 PM               521 chip.txt
+08/04/2003  12:16 PM           497,232 ramturb.exe
+08/21/2003  01:23 PM           130,312 scrshot.bmp
+               3 File(s)        628,065 bytes
+
+ Directory of G:\Program\Utility\winspee
+
+08/21/2003  10:57 AM    <DIR>          .
+08/21/2003  10:57 AM    <DIR>          ..
+08/21/2003  02:01 PM               467 chip.txt
+08/21/2003  01:25 PM           129,080 scrshot.bmp
+08/08/2003  07:59 AM         4,015,130 winspee.exe
+               3 File(s)      4,144,677 bytes
+
+ Directory of G:\Program\anvirpr
+
+11/15/1621  06:54 AM    <DIR>          .
+11/15/1621  06:54 AM    <DIR>          ..
+08/07/2003  10:35 AM    <DIR>          fprot
+               0 File(s)              0 bytes
+
+ Directory of G:\Program\anvirpr\fprot
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+08/21/2003  02:05 PM               516 chip.txt
+08/07/2003  02:27 PM         7,486,976 fp-win.exe
+08/21/2003  11:55 AM           255,900 scrshot.bmp
+               3 File(s)      7,743,392 bytes
+
+ Directory of G:\Program\mmedia
+
+06/13/1620  06:54 AM    <DIR>          .
+06/13/1620  06:54 AM    <DIR>          ..
+08/19/2003  12:48 PM    <DIR>          3DCanv
+08/19/2003  12:48 PM    <DIR>          Actdraw
+08/19/2003  02:35 PM    <DIR>          CCEnc
+08/19/2003  02:35 PM    <DIR>          GSpot
+08/19/2003  12:48 PM    <DIR>          GuiTun
+08/19/2003  02:35 PM    <DIR>          IsoBustr
+08/19/2003  02:35 PM    <DIR>          TVTool
+08/19/2003  02:35 PM    <DIR>          WinDVD
+               0 File(s)              0 bytes
+
+ Directory of G:\Program\mmedia\3DCanv
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+07/14/2003  01:46 AM         7,348,206 3DCanv.zip
+08/19/2003  08:50 AM               420 chip.txt
+08/21/2003  11:56 AM           262,680 scrshot.bmp
+               3 File(s)      7,611,306 bytes
+
+ Directory of G:\Program\mmedia\Actdraw
+
+08/21/2003  10:56 AM    <DIR>          .
+08/21/2003  10:56 AM    <DIR>          ..
+06/08/2003  12:07 AM         5,016,318 ActDr.exe
+08/21/2003  02:04 PM               847 chip.txt
+08/21/2003  11:57 AM           262,680 scrshot.bmp
+               3 File(s)      5,279,845 bytes
+
+ Directory of G:\Program\mmedia\CCEnc
+
+08/21/2003  10:57 AM    <DIR>          .
+08/21/2003  10:57 AM    <DIR>          ..
+07/23/2003  02:03 PM         2,781,272 ccspt.exe
+08/21/2003  02:01 PM               262 chip.txt
+08/19/2003  01:33 PM           203,534 scrshot.bmp
+               3 File(s)      2,985,068 bytes
+
+ Directory of G:\Program\mmedia\GSpot
+
+08/19/2003  10:57 AM    <DIR>          .
+08/19/2003  10:57 AM    <DIR>          ..
+08/21/2003  02:01 PM               320 chip.txt
+07/12/2003  06:35 AM           217,329 gspot221.exe
+08/19/2003  01:54 PM           144,982 scrshot.bmp
+               3 File(s)        362,631 bytes
+
+ Directory of G:\Program\mmedia\GuiTun
+
+08/19/2003  10:57 AM    <DIR>          .
+08/19/2003  10:57 AM    <DIR>          ..
+08/19/2003  09:28 AM               455 chip.txt
+07/16/2003  09:38 PM         2,812,416 gutuner.exe
+08/21/2003  01:15 PM           271,800 scrshot.bmp
+               3 File(s)      3,084,671 bytes
+
+ Directory of G:\Program\mmedia\IsoBustr
+
+08/21/2003  10:55 AM    <DIR>          .
+08/21/2003  10:55 AM    <DIR>          ..
+05/09/2003  07:43 PM         2,546,711 IsoBust.exe
+08/21/2003  02:01 PM               670 chip.txt
+08/19/2003  01:24 PM            94,058 scrshot.bmp
+               3 File(s)      2,641,439 bytes
+
+ Directory of G:\Program\mmedia\TVTool
+
+08/19/2003  10:56 AM    <DIR>          .
+08/19/2003  10:56 AM    <DIR>          ..
+08/17/2003  04:14 PM           303,005 TVTool.exe
+08/21/2003  02:02 PM               329 chip.txt
+08/19/2003  01:45 PM            98,446 scrshot.bmp
+               3 File(s)        401,780 bytes
+
+ Directory of G:\Program\mmedia\WinDVD
+
+08/22/29956  10:55 AM    <DIR>          .
+08/22/29956  10:55 AM    <DIR>          ..
+07/19/2003  12:57 AM        13,117,815 WinDVD5.exe
+08/21/2003  02:03 PM               388 chip.txt
+08/19/2003  11:57 AM           275,894 scrshot.bmp
+               3 File(s)     13,394,097 bytes
+
+ Directory of G:\Program\pockpc
+
+06/13/1620  06:54 AM    <DIR>          .
+06/13/1620  06:54 AM    <DIR>          ..
+08/19/2003  12:47 PM    <DIR>          SimpSMS
+08/19/2003  12:47 PM    <DIR>          mphon
+               0 File(s)              0 bytes
+
+ Directory of G:\Program\pockpc\SimpSMS
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+06/28/2002  04:00 AM           151,080 SimSMS.zip
+08/19/2003  09:37 AM               487 chip.txt
+08/21/2003  11:20 AM            84,996 scrshot.bmp
+               3 File(s)        236,563 bytes
+
+ Directory of G:\Program\pockpc\mphon
+
+08/21/2003  10:55 AM    <DIR>          .
+08/21/2003  10:55 AM    <DIR>          ..
+08/19/2003  09:41 AM               758 chip.txt
+03/08/2003  02:06 AM         3,215,780 mphon.zip
+08/21/2003  11:19 AM            84,996 scrshot.bmp
+               3 File(s)      3,301,534 bytes
+
+ Directory of G:\QCam
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+08/21/2003  10:46 AM    <DIR>          01
+08/21/2003  10:46 AM    <DIR>          02
+08/21/2003  10:46 AM    <DIR>          03_1
+08/21/2003  10:48 AM    <DIR>          03_2
+08/21/2003  10:46 AM    <DIR>          04
+08/21/2003  10:46 AM    <DIR>          05
+08/21/2003  10:46 AM    <DIR>          06
+               0 File(s)              0 bytes
+
+ Directory of G:\QCam\01
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+08/21/2003  10:54 AM           558,776 Intro.bmp
+08/21/2003  10:58 AM               711 chip.txt
+08/21/2003  10:54 AM           558,776 scrshot.bmp
+               3 File(s)      1,118,263 bytes
+
+ Directory of G:\QCam\02
+
+08/21/2003  07:01 AM    <DIR>          .
+08/21/2003  07:01 AM    <DIR>          ..
+08/17/2000  07:00 PM        10,232,561 02.exe
+08/21/2003  10:58 AM               509 chip.txt
+08/21/2003  10:54 AM           558,776 scrshot.bmp
+               3 File(s)     10,791,846 bytes
+
+ Directory of G:\QCam\03_1
+
+08/21/2003  07:01 AM    <DIR>          .
+08/21/2003  07:01 AM    <DIR>          ..
+08/17/2000  07:00 PM        47,533,958 03_1.exe
+08/21/2003  10:59 AM               696 chip.txt
+08/21/2003  11:01 AM           558,776 scrshot.bmp
+               3 File(s)     48,093,430 bytes
+
+ Directory of G:\QCam\03_2
+
+08/21/2003  07:01 AM    <DIR>          .
+08/21/2003  07:01 AM    <DIR>          ..
+08/21/2003  10:42 AM        42,264,496 03_2.exe
+08/21/2003  10:59 AM               696 chip.txt
+08/21/2003  11:01 AM           558,776 scrshot.bmp
+               3 File(s)     42,823,968 bytes
+
+ Directory of G:\QCam\04
+
+08/21/2003  07:01 AM    <DIR>          .
+08/21/2003  07:01 AM    <DIR>          ..
+08/17/2000  07:00 PM        20,537,059 04.exe
+08/21/2003  10:58 AM               338 chip.txt
+08/21/2003  11:03 AM           664,376 scrshot.bmp
+               3 File(s)     21,201,773 bytes
+
+ Directory of G:\QCam\05
+
+06/13/8349  06:55 AM    <DIR>          .
+06/13/8349  06:55 AM    <DIR>          ..
+08/17/2000  07:00 PM        23,074,085 05.exe
+08/21/2003  10:58 AM               295 chip.txt
+08/21/2003  11:03 AM           558,776 scrshot.bmp
+               3 File(s)     23,633,156 bytes
+
+ Directory of G:\QCam\06
+
+04/30/13521  06:56 AM    <DIR>          .
+04/30/13521  06:56 AM    <DIR>          ..
+08/17/2000  07:00 PM        24,744,791 06.exe
+08/21/2003  10:59 AM               641 chip.txt
+08/21/2003  11:05 AM           892,856 scrshot.bmp
+               3 File(s)     25,638,288 bytes
+
+ Directory of G:\Spesial
+
+07/29/1620  02:57 AM    <DIR>          .
+07/29/1620  02:57 AM    <DIR>          ..
+07/28/2003  08:19 AM    <DIR>          Nero
+08/19/2003  02:56 PM    <DIR>          photoma
+08/11/2003  10:47 AM    <DIR>          proxy
+08/11/2003  10:31 AM    <DIR>          xboxlad
+               0 File(s)              0 bytes
+
+ Directory of G:\Spesial\Nero
+
+01/15/1601  06:54 AM    <DIR>          .
+01/15/1601  06:54 AM    <DIR>          ..
+08/11/2003  08:52 AM             1,164 chip.txt
+07/28/2003  11:54 AM        21,734,668 nero6009.exe
+08/21/2003  01:29 PM           252,480 scrshot.bmp
+               3 File(s)     21,988,312 bytes
+
+ Directory of G:\Spesial\photoma
+
+08/21/2003  06:58 AM    <DIR>          .
+08/21/2003  06:58 AM    <DIR>          ..
+08/19/2003  02:56 PM    <DIR>          Compu
+08/19/2003  02:56 PM    <DIR>          Phomeis
+08/19/2003  02:56 PM    <DIR>          PhotAlb
+08/19/2003  02:56 PM    <DIR>          paiPho
+               0 File(s)              0 bytes
+
+ Directory of G:\Spesial\photoma\Compu
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+08/19/2003  08:01 AM               345 chip.txt
+07/25/2003  11:23 AM         6,279,774 cpro32.exe
+08/21/2003  02:03 PM           262,680 scrshot.bmp
+               3 File(s)      6,542,799 bytes
+
+ Directory of G:\Spesial\photoma\Phomeis
+
+06/13/22855  10:54 AM    <DIR>          .
+06/13/22855  10:54 AM    <DIR>          ..
+06/25/2003  05:46 PM        10,335,150 PhoMeis.exe
+08/19/2003  08:12 AM               441 chip.txt
+08/21/2003  01:44 PM           262,680 scrshot.bmp
+               3 File(s)     10,598,271 bytes
+
+ Directory of G:\Spesial\photoma\PhotAlb
+
+08/21/2003  10:56 AM    <DIR>          .
+08/21/2003  10:56 AM    <DIR>          ..
+08/19/2003  08:17 AM               493 chip.txt
+08/05/2003  01:01 PM       141,492,712 phoalb.exe
+08/21/2003  02:03 PM           262,680 scrshot.bmp
+               3 File(s)    141,755,885 bytes
+
+ Directory of G:\Spesial\photoma\paiPho
+
+05/20/18772  10:54 AM    <DIR>          .
+05/20/18772  10:54 AM    <DIR>          ..
+08/21/2003  01:58 PM               436 chip.txt
+07/23/2003  04:15 PM        40,791,032 paints.exe
+08/21/2003  01:43 PM           227,280 scrshot.bmp
+               3 File(s)     41,018,748 bytes
+
+ Directory of G:\Spesial\proxy
+
+06/13/1620  06:54 AM    <DIR>          .
+06/13/1620  06:54 AM    <DIR>          ..
+08/11/2003  11:07 AM    <DIR>          Anony
+08/11/2003  11:01 AM    <DIR>          CCProx
+08/11/2003  10:49 AM    <DIR>          FreeProx
+08/11/2003  10:54 AM    <DIR>          MulProx
+08/11/2003  11:10 AM    <DIR>          NetProxy
+08/11/2003  11:03 AM    <DIR>          ProxPro
+08/11/2003  11:06 AM    <DIR>          Proxy
+08/11/2003  10:51 AM    <DIR>          Sygate
+08/11/2003  10:47 AM    <DIR>          ezProxy
+               0 File(s)              0 bytes
+
+ Directory of G:\Spesial\proxy\Anony
+
+01/15/1601  10:52 AM    <DIR>          .
+01/15/1601  10:52 AM    <DIR>          ..
+08/11/2003  11:22 AM         1,051,588 a4proxy.zip
+08/11/2003  11:43 AM               451 chip.txt
+08/21/2003  01:44 PM           236,268 scrshot.bmp
+               3 File(s)      1,288,307 bytes
+
+ Directory of G:\Spesial\proxy\CCProx
+
+08/21/2003  10:56 AM    <DIR>          .
+08/21/2003  10:56 AM    <DIR>          ..
+08/11/2003  11:49 AM           834,820 ccproxy.exe
+08/11/2003  01:29 PM               368 chip.txt
+08/21/2003  01:46 PM           269,880 scrshot.bmp
+               3 File(s)      1,105,068 bytes
+
+ Directory of G:\Spesial\proxy\FreeProx
+
+02/22/2303  10:52 AM    <DIR>          .
+02/22/2303  10:52 AM    <DIR>          ..
+08/11/2003  01:35 PM               388 chip.txt
+08/11/2003  10:53 AM         2,730,954 freeprox.zip
+08/21/2003  01:48 PM           177,612 scrshot.bmp
+               3 File(s)      2,908,954 bytes
+
+ Directory of G:\Spesial\proxy\MulProx
+
+07/30/17546  10:54 AM    <DIR>          .
+07/30/17546  10:54 AM    <DIR>          ..
+08/11/2003  01:38 PM               433 chip.txt
+08/11/2003  11:02 AM           171,656 mproxy12.zip
+08/21/2003  01:49 PM           118,080 scrshot.bmp
+               3 File(s)        290,169 bytes
+
+ Directory of G:\Spesial\proxy\NetProxy
+
+09/13/25712  10:55 AM    <DIR>          .
+09/13/25712  10:55 AM    <DIR>          ..
+08/11/2003  01:42 PM               440 chip.txt
+08/11/2003  12:08 PM         3,559,446 np403.exe
+08/21/2003  01:51 PM           178,224 scrshot.bmp
+               3 File(s)      3,738,110 bytes
+
+ Directory of G:\Spesial\proxy\ProxPro
+
+08/21/2003  10:56 AM    <DIR>          .
+08/21/2003  10:56 AM    <DIR>          ..
+08/11/2003  12:44 PM         6,124,032 ProxyPro.exe
+08/11/2003  01:46 PM               413 chip.txt
+08/21/2003  01:53 PM           157,912 scrshot.bmp
+               3 File(s)      6,282,357 bytes
+
+ Directory of G:\Spesial\proxy\Proxy
+
+08/21/2003  10:58 AM    <DIR>          .
+08/21/2003  10:58 AM    <DIR>          ..
+08/11/2003  01:50 PM               354 chip.txt
+08/11/2003  11:35 AM           926,418 pplus.zip
+08/21/2003  01:54 PM            55,992 scrshot.bmp
+               3 File(s)        982,764 bytes
+
+ Directory of G:\Spesial\proxy\Sygate
+
+11/18/5365  10:52 AM    <DIR>          .
+11/18/5365  10:52 AM    <DIR>          ..
+08/11/2003  01:54 PM               430 chip.txt
+08/21/2003  01:55 PM           135,980 scrshot.bmp
+08/11/2003  11:18 AM         4,462,675 shn.exe
+               3 File(s)      4,599,085 bytes
+
+ Directory of G:\Spesial\proxy\ezProxy
+
+08/11/2003  10:56 AM    <DIR>          .
+08/11/2003  10:56 AM    <DIR>          ..
+08/11/2003  01:32 PM               413 chip.txt
+08/11/2003  12:21 PM         1,862,697 ezproxy.zip
+08/21/2003  01:47 PM            64,080 scrshot.bmp
+               3 File(s)      1,927,190 bytes
+
+ Directory of G:\Spesial\xboxlad
+
+06/13/1620  06:54 AM    <DIR>          .
+06/13/1620  06:54 AM    <DIR>          ..
+08/11/2003  10:51 AM           943,104 XboxLad.msi
+08/21/2003  01:57 PM               314 chip.txt
+08/21/2003  01:40 PM           262,080 scrshot.bmp
+               3 File(s)      1,205,498 bytes
+
+     Total Files Listed:
+             323 File(s)    669,462,964 bytes
+             249 Dir(s)               0 bytes free

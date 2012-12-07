@@ -1,0 +1,1283 @@
+ Volume in drive G is infolinux-01-200
+ Volume Serial Number is 2D86-570C
+
+ Directory of G:\
+
+12/05/2004  06:36 AM    <DIR>          Desktop
+12/05/2004  06:37 AM    <DIR>          Development
+12/05/2004  06:37 AM    <DIR>          Driver
+12/05/2004  06:38 AM    <DIR>          Games
+12/05/2004  06:39 AM    <DIR>          Grafis
+09/06/2004  08:42 PM    <DIR>          KNOPPIX
+12/05/2004  06:39 AM    <DIR>          Multimedia
+12/05/2004  06:39 AM    <DIR>          Networking
+12/05/2004  06:39 AM    <DIR>          Office
+12/02/2004  02:33 PM    <DIR>          PENTING
+12/05/2004  06:40 AM    <DIR>          Scientific
+12/05/2004  06:40 AM    <DIR>          Search_Tools
+12/05/2004  06:40 AM    <DIR>          Server
+12/05/2004  06:40 AM    <DIR>          Update
+05/22/2004  12:25 PM                54 autorun.bat
+05/22/2004  12:25 PM                45 autorun.inf
+07/25/2004  03:13 PM    <DIR>          boot
+08/09/2004  07:25 AM               391 index-dsl.html
+12/05/2004  08:48 AM             3,858 index.html
+12/05/2004  08:35 AM             4,122 index.html~
+12/05/2004  08:17 AM            15,745 logo-640.png
+               6 File(s)         24,215 bytes
+
+ Directory of G:\Desktop
+
+12/05/2004  06:36 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  07:44 AM    <DIR>          LookingGlass3D
+               0 File(s)              0 bytes
+
+ Directory of G:\Desktop\LookingGlass3D
+
+12/05/2004  07:44 AM    <DIR>          .
+12/05/2004  06:36 AM    <DIR>          ..
+11/05/2004  05:34 PM         2,674,372 jai-1_1_2-lib-linux-i586-jdk.bin
+11/04/2004  04:39 PM         1,212,274 java3d-1_3_2-build7-1-i586.rpm
+11/03/2004  08:08 PM        45,635,523 jdk-1_5_0-doc.zip
+11/02/2004  09:45 PM        44,566,787 jdk-1_5_0-linux-i586-rpm.bin
+11/02/2004  09:20 PM        15,976,321 jre-1_5_0-linux-i586-rpm.bin
+11/04/2004  05:20 PM        19,945,798 lg3d-rel-0-5-1.tar.gz
+               6 File(s)    130,011,075 bytes
+
+ Directory of G:\Development
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          Doxygen-1.3.9.1
+12/05/2004  06:37 AM    <DIR>          GStreamer-0.8.7
+12/05/2004  06:37 AM    <DIR>          PDFLib_Lite-6.0.0p1
+12/05/2004  06:37 AM    <DIR>          WxWidgets-2.4.2
+               0 File(s)              0 bytes
+
+ Directory of G:\Development\Doxygen-1.3.9.1
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+10/12/2004  06:55 PM         2,713,070 doxygen-1.3.9.1.src.tar.gz
+               1 File(s)      2,713,070 bytes
+
+ Directory of G:\Development\GStreamer-0.8.7
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+10/12/2004  06:39 PM         1,385,405 gstreamer-0.8.7.tar.bz2
+               1 File(s)      1,385,405 bytes
+
+ Directory of G:\Development\PDFLib_Lite-6.0.0p1
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+10/12/2004  07:21 PM         3,494,524 PDFlib-Lite-6.0.0p1.tar.gz
+               1 File(s)      3,494,524 bytes
+
+ Directory of G:\Development\WxWidgets-2.4.2
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+10/18/2004  07:12 PM        12,679,307 wxAll-2.4.2.tar.gz
+               1 File(s)     12,679,307 bytes
+
+ Directory of G:\Driver
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          Modem
+12/05/2004  06:37 AM    <DIR>          Videocard
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          HSF_Conexant
+12/05/2004  06:37 AM    <DIR>          NetoDragon
+12/05/2004  06:37 AM    <DIR>          SmartLinkV90-92
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          FedoraCore2
+12/05/2004  06:38 AM    <DIR>          Generic
+12/05/2004  06:38 AM    <DIR>          Mandrakelinux
+12/05/2004  06:37 AM    <DIR>          RedHat
+12/05/2004  06:37 AM    <DIR>          suse
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          i586
+12/05/2004  06:38 AM    <DIR>          i686
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          2.6.5-1.358
+12/05/2004  06:38 AM    <DIR>          2.6.5-1.358smp
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521.stk16
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521.stk16smp
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521smp
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.5-1.358
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:42 PM           540,134 hcfpcimodem-1.01lnxt04082400full_k2.6.5_1.358-1fdr.i586.rpm.zip
+               1 File(s)        540,134 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.5-1.358smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:43 PM           541,139 hcfpcimodem-1.01lnxt04082400full_k2.6.5_1.i586.rpm.zip
+               1 File(s)        541,139 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.8-1.521
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:54 PM           545,739 hcfpcimodem-1.01lnxt04082400full_k2.6.8.i586.rpm.zip
+               1 File(s)        545,739 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.8-1.521.stk16
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:56 PM           547,749 hcfpcimodem-1.01lnxt04082400full_k2.6.8_.i586.rpm.zip
+               1 File(s)        547,749 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.8-1.521.stk16smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:47 PM           543,907 hcfpcimodem-1.01lnxt04082400full_k2.6.8_1.521.i586.rpm.zip
+               1 File(s)        543,907 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i586\2.6.8-1.521smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:48 PM           544,210 hcfpcimodem-1.01lnxt04082400full_k2.6.8_1-1fdr.i586.rpm.zip
+               1 File(s)        544,210 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          2.6.5-1.358
+12/05/2004  06:38 AM    <DIR>          2.6.5-1.358smp
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521.stk16
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521.stk16smp
+12/05/2004  06:38 AM    <DIR>          2.6.8-1.521smp
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.5-1.358
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:45 PM           541,313 hcfpcimodem-1.01lnxt04082400full_k2.6.5_.i686.rpm.zip
+               1 File(s)        541,313 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.5-1.358smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:46 PM           541,842 hcfpcimodem-1.01lnxt04082400full_k2.6.5_1.i686.rpm.zip
+               1 File(s)        541,842 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.8-1.521
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:54 PM           546,736 hcfpcimodem-1.01lnxt04082400full_k2.6.8_1.521-1fdr.i686.rpm.zip
+               1 File(s)        546,736 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.8-1.521.stk16
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:56 PM           547,102 hcfpcimodem-1.01lnxt04082400full_k2.6.8_.i686.rpm.zip
+               1 File(s)        547,102 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.8-1.521.stk16smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:53 PM           545,130 hcfpcimodem-1.01lnxt04082400full_k2.6.8_1.521-1fdr.i686.rpm.zip
+               1 File(s)        545,130 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\FedoraCore2\i686\2.6.8-1.521smp
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:51 PM           544,930 hcfpcimodem-1.01lnxt04082400full_k2.6.8.i686.rpm.zip
+               1 File(s)        544,930 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Generic
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:55 PM           634,816 hcfpcimodem-1.01lnxt04082400full-1.i386.rpm.zip
+11/05/2004  06:55 PM           623,645 hcfpcimodem-1.01lnxt04082400full.tar.gz
+11/05/2004  06:57 PM           669,298 hcfpcimodem_1.01lnxt04082400full_i386.deb
+11/05/2004  06:54 PM           572,528 hcfusbmodem-1.01lnxt04082400powerpcfull.tar.gz
+               4 File(s)      2,500,287 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          2.4.18-6mdk
+12/05/2004  06:38 AM    <DIR>          2.4.19-16mdk
+12/05/2004  06:38 AM    <DIR>          2.4.19-35mdk
+12/05/2004  06:38 AM    <DIR>          2.4.19-38mdk
+12/05/2004  06:38 AM    <DIR>          2.4.21-0.13mdk
+12/05/2004  06:38 AM    <DIR>          2.4.21-0.33mdk
+12/05/2004  06:38 AM    <DIR>          2.4.22-10mdk
+12/05/2004  06:38 AM    <DIR>          2.4.22-37mdk
+12/05/2004  06:38 AM    <DIR>          2.6.3-19mdk
+12/05/2004  06:38 AM    <DIR>          2.6.3-4mdk
+12/05/2004  06:38 AM    <DIR>          2.6.3-7mdk
+12/05/2004  06:38 AM    <DIR>          2.6.8.1-10mdk
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.18-6mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:21 PM           549,100 hcfpcimodem-1.01lnxt04082400full_k2.4.18_6mdk-1mdk.i586.rpm.zip
+               1 File(s)        549,100 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.19-16mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:40 PM           549,443 hcfpcimodem-1.01lnxt04082400full_k2.4.19_16mdk-1mdk.i586.rpm.zip
+               1 File(s)        549,443 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.19-35mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:59 PM           548,093 hcfpcimodem-1.01lnxt04082400full_k2.4.19_35mdk-1mdk.i586.rpm.zip
+               1 File(s)        548,093 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.19-38mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:37 PM           549,399 hcfpcimodem-1.01lnxt04082400full_k2.4.19_38mdk-1mdk.i586.rpm.zip
+               1 File(s)        549,399 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.21-0.13mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:26 PM           549,272 hcfpcimodem-1.01lnxt04082400full_k2.4.21.i586.rpm.zip
+               1 File(s)        549,272 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.21-0.33mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:29 PM           549,304 hcfpcimodem-1.01lnxt04082400full_k2.4.21.i586.rpm.zip
+               1 File(s)        549,304 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.22-10mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:33 PM           549,350 hcfpcimodem-1.01lnxt04082400full_k2.4.22_10mdk-1mdk.i586.rpm.zip
+               1 File(s)        549,350 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.4.22-37mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:18 PM           549,042 hcfpcimodem-1.01lnxt04082400full_k2.4.22_37mdk-1mdk.i586.rpm.zip
+               1 File(s)        549,042 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.6.3-19mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:51 PM           544,945 hcfpcimodem-1.01lnxt04082400full_k2.6.3_19mdk-1mdk.i586.rpm.zip
+               1 File(s)        544,945 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.6.3-4mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:48 PM           544,221 hcfpcimodem-1.01lnxt04082400full_k2.6.3_4mdk-1mdk.i586.rpm.zip
+               1 File(s)        544,221 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.6.3-7mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:49 PM           544,784 hcfpcimodem-1.01lnxt04082400full_k2.6.3_7mdk-1mdk.i586.rpm.zip
+               1 File(s)        544,784 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\Mandrakelinux\2.6.8.1-10mdk
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  05:44 PM           541,209 hcfpcimodem-1.01lnxt04082400full_k2.6.8.1.i586.rpm.zip
+               1 File(s)        541,209 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          Athlon
+12/05/2004  06:37 AM    <DIR>          i386
+12/05/2004  06:37 AM    <DIR>          i586
+12/05/2004  06:37 AM    <DIR>          i686
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          2.4.18-14
+12/05/2004  06:38 AM    <DIR>          2.4.18-3
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.7
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.8
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.9
+12/05/2004  06:38 AM    <DIR>          2.4.20-30.8.legacy
+12/05/2004  06:38 AM    <DIR>          2.4.20-30.9
+12/05/2004  06:38 AM    <DIR>          2.4.20-31.9
+12/05/2004  06:38 AM    <DIR>          2.4.20-37.7.legacy
+12/05/2004  06:38 AM    <DIR>          2.4.20-37.9.legacy
+12/05/2004  06:38 AM    <DIR>          2.4.20-8
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.18-14
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:41 PM           549,456 hcfpcimodem-1.01lnxt04082400full_k2.4.18_14-1rh.athlon.rpm.zip
+               1 File(s)        549,456 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.18-3
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:03 PM           548,158 hcfpcimodem-1.01lnxt04082400full_k2.4.18_3-1rh.athlon.rpm.zip
+               1 File(s)        548,158 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-28.7
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:04 PM           548,207 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.7-1rh.athlon.rpm.zip
+               1 File(s)        548,207 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-28.8
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:30 PM           549,313 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.8-1rh.athlon.rpm.zip
+               1 File(s)        549,313 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-28.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:44 PM           549,493 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.9-1rh.athlon.rpm.zip
+               1 File(s)        549,493 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-30.8.legacy
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:17 PM           549,028 hcfpcimodem-1.01lnxt04082400full.rpm.zip
+               1 File(s)        549,028 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-30.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:46 PM           549,646 hcfpcimodem-1.01lnxt04082400full_k2.4.20_30.9-1rh.athlon.rpm.zip
+               1 File(s)        549,646 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-31.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:38 PM           549,399 hcfpcimodem-1.01lnxt04082400full_k2.4.20_31.9-1rh.athlon.rpm.zip
+               1 File(s)        549,399 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-37.7.legacy
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:11 PM           548,632 hcfpcimodem-1.01lnxt04082400full_k2.rpm.zip
+               1 File(s)        548,632 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-37.9.legacy
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:24 PM           549,269 hcfpcimodem-1.01lnxt04082400full_k2.rpm.zip
+               1 File(s)        549,269 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\Athlon\2.4.20-8
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/05/2004  06:39 PM           549,435 hcfpcimodem-1.01lnxt04082400full_k2.4.20_8-1rh.athlon.rpm.zip
+               1 File(s)        549,435 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:38 AM    <DIR>          2.4.18-14
+12/05/2004  06:38 AM    <DIR>          2.4.18-3
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.7
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.8
+12/05/2004  06:38 AM    <DIR>          2.4.20-28.9
+12/05/2004  06:38 AM    <DIR>          2.4.20-30.8.legacy
+12/05/2004  06:38 AM    <DIR>          2.4.20-30.9
+12/05/2004  06:38 AM    <DIR>          2.4.20-31.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.7.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.9.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-8
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.18-14
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:43 PM           549,475 hcfpcimodem-1.01lnxt04082400full_k2.4.18_14-1rh.i386.rpm.zip
+               1 File(s)        549,475 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.18-3
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:13 PM           548,815 hcfpcimodem-1.01lnxt04082400full_k2.4.18_3-1rh.i386.rpm.zip
+               1 File(s)        548,815 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-28.7
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:10 PM           548,520 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.7-1rh.i386.rpm.zip
+               1 File(s)        548,520 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-28.8
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:47 PM           549,663 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.8-1rh.i386.rpm.zip
+               1 File(s)        549,663 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-28.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:50 PM           549,741 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.9-1rh.i386.rpm.zip
+               1 File(s)        549,741 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-30.8.legacy
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:45 PM           549,547 hcfpcimodem-1.01lnxt04082400full_k2.i386.rpm.zip
+               1 File(s)        549,547 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-30.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:51 PM           549,761 hcfpcimodem-1.01lnxt04082400full_k2.4.20_30.9-1rh.i386.rpm.zip
+               1 File(s)        549,761 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-31.9
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:31 PM           549,317 hcfpcimodem-1.01lnxt04082400full_k2.4.20_31.9-1rh.i386.rpm.zip
+               1 File(s)        549,317 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-37.7.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:12 PM           548,736 hcfpcimodem-1.01lnxt04082400full_k2.i386.rpm.zip
+               1 File(s)        548,736 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-37.9.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:22 PM           549,100 hcfpcimodem-1.01lnxt04082400full_k2.i386.rpm.zip
+               1 File(s)        549,100 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i386\2.4.20-8
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:53 PM           550,049 hcfpcimodem-1.01lnxt04082400full_k2.4.20_8-1rh.i386.rpm.zip
+               1 File(s)        550,049 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          2.4.18-14
+12/05/2004  06:37 AM    <DIR>          2.4.18-3
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.7
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.8
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-30.8.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-30.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-31.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.7.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.9.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-8
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.18-14
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:31 PM           549,327 hcfpcimodem-1.01lnxt04082400full_k2.4.18_14-1rh.i586.rpm.zip
+               1 File(s)        549,327 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.18-3
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:06 PM           548,238 hcfpcimodem-1.01lnxt04082400full_k2.4.18_3-1rh.i586.rpm.zip
+               1 File(s)        548,238 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-28.7
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:00 PM           548,135 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.7-1rh.i586.rpm.zip
+               1 File(s)        548,135 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-28.8
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:36 PM           549,397 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.8-1rh.i586.rpm.zip
+               1 File(s)        549,397 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-28.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:35 PM           549,356 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.9-1rh.i586.rpm.zip
+               1 File(s)        549,356 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-30.8.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:19 PM           549,069 hcfpcimodem-1.01lnxt04082400full_k2.i586.rpm.zip
+               1 File(s)        549,069 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-30.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:43 PM           549,487 hcfpcimodem-1.01lnxt04082400full_k2.4.20_30.9-1rh.i586.rpm.zip
+               1 File(s)        549,487 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-31.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:52 PM           549,845 hcfpcimodem-1.01lnxt04082400full_k2.4.20_31.9-1rh.i586.rpm.zip
+               1 File(s)        549,845 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-37.7.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:57 PM           547,798 hcfpcimodem-1.01lnxt04082400full_k2.4.20_37.7.i586.rpm.zip
+               1 File(s)        547,798 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-37.9.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:16 PM           549,007 hcfpcimodem-1.01lnxt04082400full_k2.4.20_37.9.i586.rpm.zip
+               1 File(s)        549,007 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i586\2.4.20-8
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:49 PM           549,734 hcfpcimodem-1.01lnxt04082400full_k2.4.20_8-1rh.i586.rpm.zip
+               1 File(s)        549,734 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          2.4.18-14
+12/05/2004  06:37 AM    <DIR>          2.4.18-3
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.7
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.8
+12/05/2004  06:37 AM    <DIR>          2.4.20-28.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-30.8.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-30.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-31.9
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.7.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-37.9.legacy
+12/05/2004  06:37 AM    <DIR>          2.4.20-8
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.18-14
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:15 PM           549,005 hcfpcimodem-1.01lnxt04082400full_k2.4.18_14-1rh.i686.rpm.zip
+               1 File(s)        549,005 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.18-3
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:07 PM           548,309 hcfpcimodem-1.01lnxt04082400full_k2.4.18_3-1rh.i686.rpm.zip
+               1 File(s)        548,309 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-28.7
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:58 PM           548,067 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.7-1rh.i686.rpm.zip
+               1 File(s)        548,067 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-28.8
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:32 PM           549,327 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.8-1rh.i686.rpm.zip
+               1 File(s)        549,327 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-28.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:45 PM           549,521 hcfpcimodem-1.01lnxt04082400full_k2.4.20_28.9-1rh.i686.rpm.zip
+               1 File(s)        549,521 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-30.8.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:14 PM           548,974 hcfpcimodem-1.01lnxt04082400full_k2.4.20.i686.rpm.zip
+               1 File(s)        548,974 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-30.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:27 PM           549,287 hcfpcimodem-1.01lnxt04082400full_k2.4.20_30.9-1rh.i686.rpm.zip
+               1 File(s)        549,287 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-31.9
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:34 PM           549,351 hcfpcimodem-1.01lnxt04082400full_k2.4.20_31.9-1rh.i686.rpm.zip
+               1 File(s)        549,351 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-37.7.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:01 PM           548,136 hcfpcimodem-1.01lnxt04082400full_k2.4.20_37.7.i686.rpm.zip
+               1 File(s)        548,136 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-37.9.legacy
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:23 PM           549,173 hcfpcimodem-1.01lnxt04082400full_k2.4.20.i686.rpm.zip
+               1 File(s)        549,173 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\RedHat\i686\2.4.20-8
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:41 PM           549,457 hcfpcimodem-1.01lnxt04082400full_k2.4.20_8-1rh.i686.rpm.zip
+               1 File(s)        549,457 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          2.4.18-4GB
+12/05/2004  06:37 AM    <DIR>          2.4.19-4GB
+12/05/2004  06:37 AM    <DIR>          2.4.20-4GB
+12/05/2004  06:37 AM    <DIR>          2.4.20-4GB-athlon
+12/05/2004  06:37 AM    <DIR>          2.4.21-251-athlon
+12/05/2004  06:37 AM    <DIR>          2.4.21-251-default
+12/05/2004  06:37 AM    <DIR>          2.4.21-99-athlon
+12/05/2004  06:37 AM    <DIR>          2.4.21-99-default
+12/05/2004  06:37 AM    <DIR>          2.6.4-52-default
+12/05/2004  06:37 AM    <DIR>          2.6.5-7.111-default
+12/05/2004  06:37 AM    <DIR>          2.6.5-7.111-smp
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.18-4GB
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:55 PM           546,935 hcfpcimodem-1.01lnxt04082400full_k2.4.18_4GB-1suse.i386.rpm.zip
+               1 File(s)        546,935 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.19-4GB
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:09 PM           548,507 hcfpcimodem-1.01lnxt04082400full_k2.4.19_4GB-1suse.i586.rpm.zip
+               1 File(s)        548,507 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.20-4GB
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:08 PM           548,462 hcfpcimodem-1.01lnxt04082400full_k2.4.20_4GB-1suse.i586.rpm.zip
+               1 File(s)        548,462 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.20-4GB-athlon
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:10 PM           548,538 hcfpcimodem-1.01lnxt04082400full_k2.4.20.i586.rpm.zip
+               1 File(s)        548,538 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.21-251-athlon
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:48 PM           549,671 hcfpcimodem-1.01lnxt04082400full_k2.4.21.i586.rpm.zip
+               1 File(s)        549,671 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.21-251-default
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:13 PM           548,802 hcfpcimodem-1.01lnxt04082400full_k2.4.21.i586.rpm.zip
+               1 File(s)        548,802 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.21-99-athlon
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:42 PM           549,469 hcfpcimodem-1.01lnxt04082400full_k2.4.21.i586.rpm.zip
+               1 File(s)        549,469 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.4.21-99-default
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  06:25 PM           549,270 hcfpcimodem-1.01lnxt04082400full_k2.4.21_99.i586.rpm.zip
+               1 File(s)        549,270 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.6.4-52-default
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:46 PM           543,107 hcfpcimodem-1.01lnxt04082400full_k2.i586.rpm.zip
+               1 File(s)        543,107 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.6.5-7.111-default
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:50 PM           544,862 hcfpcimodem-1.01lnxt04082400full_k2.6.5_7.111.i586.rpm.zip
+               1 File(s)        544,862 bytes
+
+ Directory of G:\Driver\Modem\HSF_Conexant\suse\2.6.5-7.111-smp
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  05:52 PM           545,033 hcfpcimodem-1.01lnxt04082400full_k2.6.5.i586.rpm.zip
+               1 File(s)        545,033 bytes
+
+ Directory of G:\Driver\Modem\NetoDragon
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  07:02 PM           879,671 slmdm-2.7.10_debug.tar.gz
+11/05/2004  06:59 PM           804,426 slmodem-2.9.10_netodragon.tar.gz
+               2 File(s)      1,684,097 bytes
+
+ Directory of G:\Driver\Modem\SmartLinkV90-92
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  01:02 PM               395 File_Info.rtf
+11/05/2004  07:00 PM           806,884 slmodem-2.9.10.tar.gz
+               2 File(s)        807,279 bytes
+
+ Directory of G:\Driver\Videocard
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          Ati-3.14.6
+12/05/2004  06:37 AM    <DIR>          Nvidia-6629
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Videocard\Ati-3.14.6
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+12/05/2004  06:37 AM    <DIR>          Livna
+12/05/2004  06:37 AM    <DIR>          Xfree-4.1.0
+12/05/2004  06:37 AM    <DIR>          Xfree-4.2.0
+12/05/2004  06:37 AM    <DIR>          Xfree-4.3.0
+               0 File(s)              0 bytes
+
+ Directory of G:\Driver\Videocard\Ati-3.14.6\Livna
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/10/2004  05:56 AM         4,180,856 ati-driver-3.14.6-0.src.rpm
+11/10/2004  05:56 AM         2,788,719 ati-glx-3.14.6-0.i386.rpm
+11/24/2004  03:34 PM            12,631 check.sh
+11/24/2004  03:33 PM             3,136 device_xf86.txt
+11/10/2004  05:56 AM           102,490 kernel-module-ati-2.6.9-1.667-3.14.6-0.i386.rpm
+11/21/2004  07:37 AM           102,527 kernel-module-ati-2.6.9-1.678_FC3-3.14.6-0.i386.rpm
+11/23/2004  06:38 AM           102,528 kernel-module-ati-2.6.9-1.681_FC3-3.14.6-0.i386.rpm
+               7 File(s)      7,292,887 bytes
+
+ Directory of G:\Driver\Videocard\Ati-3.14.6\Xfree-4.1.0
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/09/2004  07:30 PM         3,389,945 fglrx-4.1.0-3.14.6.i386.rpm
+               1 File(s)      3,389,945 bytes
+
+ Directory of G:\Driver\Videocard\Ati-3.14.6\Xfree-4.2.0
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/09/2004  07:30 PM         3,085,242 fglrx-4.2.0-3.14.6.i386.rpm
+               1 File(s)      3,085,242 bytes
+
+ Directory of G:\Driver\Videocard\Ati-3.14.6\Xfree-4.3.0
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/09/2004  07:30 PM         4,223,256 fglrx-4.3.0-3.14.6.i386.rpm
+               1 File(s)      4,223,256 bytes
+
+ Directory of G:\Driver\Videocard\Nvidia-6629
+
+12/05/2004  06:37 AM    <DIR>          .
+12/05/2004  06:37 AM    <DIR>          ..
+11/05/2004  10:09 PM         8,725,221 NVIDIA-Linux-x86-1.0-6629-pkg1.run
+11/21/2004  12:23 AM         3,468,269 NVIDIA_GLX-1.0-6629.src.rpm
+11/21/2004  12:24 AM         1,222,464 NVIDIA_kernel-1.0-6629.src.rpm
+11/23/2004  01:30 PM           152,655 readme.txt
+11/23/2004  01:32 PM             5,847 readme2.txt
+               5 File(s)     13,574,456 bytes
+
+ Directory of G:\Games
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:39 AM    <DIR>          Holotz's Castle
+12/05/2004  06:39 AM    <DIR>          Jet_Ducks-1.0
+12/05/2004  06:38 AM    <DIR>          Unreal Tournament 2004
+               0 File(s)              0 bytes
+
+ Directory of G:\Games\Holotz's Castle
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/08/2004  07:14 PM         3,174,888 HC_JLib_Linux_Win32-1.2.tar.gz
+               1 File(s)      3,174,888 bytes
+
+ Directory of G:\Games\Jet_Ducks-1.0
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+10/18/2004  12:18 AM         4,578,697 duckshooter_lin.tgz
+               1 File(s)      4,578,697 bytes
+
+ Directory of G:\Games\Unreal Tournament 2004
+
+12/05/2004  06:38 AM    <DIR>          .
+12/05/2004  06:38 AM    <DIR>          ..
+11/09/2004  12:20 AM       288,950,743 ut2004-lnx-demo3334.run
+               1 File(s)    288,950,743 bytes
+
+ Directory of G:\Grafis
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:39 AM    <DIR>          GQview-1.4.5
+12/05/2004  06:39 AM    <DIR>          Gnofract-4D 2.2
+12/05/2004  06:39 AM    <DIR>          Imgv-2.9.6
+12/05/2004  06:39 AM    <DIR>          Tux_Paint-0.9.14
+               0 File(s)              0 bytes
+
+ Directory of G:\Grafis\GQview-1.4.5
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/18/2004  06:35 PM         1,222,801 gqview-1.4.5.tar.gz
+               1 File(s)      1,222,801 bytes
+
+ Directory of G:\Grafis\Gnofract-4D 2.2
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/19/2004  06:15 PM           424,918 download.tar.gz
+               1 File(s)        424,918 bytes
+
+ Directory of G:\Grafis\Imgv-2.9.6
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/19/2004  06:15 PM           170,632 download.tar.gz
+               1 File(s)        170,632 bytes
+
+ Directory of G:\Grafis\Tux_Paint-0.9.14
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/18/2004  06:34 PM           358,121 fltk-1.1.4-0.i386.rpm
+10/18/2004  06:57 PM         2,950,597 tuxpaint-0.9.14-1.fc2.i386.rpm
+10/18/2004  06:46 PM         2,853,125 tuxpaint-0.9.14-i386-1.tgz
+10/18/2004  06:33 PM           214,516 tuxpaint-config-0.0.5-1.i386.rpm
+10/18/2004  06:33 PM           176,712 tuxpaint-config-0.0.5-i386-1.tgz
+10/18/2004  06:40 PM         1,699,764 tuxpaint-data_0.9.12-0.woody.1_all.deb
+10/18/2004  06:59 PM         6,257,185 tuxpaint-stamps-2004.10.03-1.noarch.rpm
+10/18/2004  06:52 PM         6,160,158 tuxpaint-stamps-2004.10.03-i386-1.tgz
+10/18/2004  09:46 PM           418,030 tuxpaint_0.9.12-0.woody.1_i386.deb
+               9 File(s)     21,088,208 bytes
+
+ Directory of G:\KNOPPIX
+
+09/06/2004  08:42 PM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+09/29/2004  08:27 PM        49,215,687 KNOPPIX
+08/16/2004  03:16 AM         1,474,560 boot-rus.img
+06/01/2004  07:58 AM             2,048 boot.cat
+07/11/2004  09:33 AM         1,474,560 boot.img
+               4 File(s)     52,166,855 bytes
+
+ Directory of G:\Multimedia
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:39 AM    <DIR>          OSS 3.99.1i
+12/05/2004  06:39 AM    <DIR>          Solfege-2.1.8
+               0 File(s)              0 bytes
+
+ Directory of G:\Multimedia\OSS 3.99.1i
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+11/08/2004  12:41 PM           106,492 oss3991i-linux-x86-v26-regparm.tar.gz
+               1 File(s)        106,492 bytes
+
+ Directory of G:\Multimedia\Solfege-2.1.8
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+11/08/2004  05:36 PM           554,448 download.tar.gz
+               1 File(s)        554,448 bytes
+
+ Directory of G:\Networking
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:39 AM    <DIR>          Sylpheed-0.9.99
+               0 File(s)              0 bytes
+
+ Directory of G:\Networking\Sylpheed-0.9.99
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/12/2004  07:12 PM         3,460,523 sylpheed-0.9.99.tar.gz
+               1 File(s)      3,460,523 bytes
+
+ Directory of G:\Office
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:40 AM    <DIR>          LyX-1.3.5
+12/05/2004  06:39 AM    <DIR>          Osmose-0.1.36
+               0 File(s)              0 bytes
+
+ Directory of G:\Office\LyX-1.3.5
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/12/2004  08:02 PM         7,412,737 lyx-1.3.5.tar.gz
+               1 File(s)      7,412,737 bytes
+
+ Directory of G:\Office\Osmose-0.1.36
+
+12/05/2004  06:39 AM    <DIR>          .
+12/05/2004  06:39 AM    <DIR>          ..
+10/19/2004  06:24 PM         6,542,104 Osmose-en-0.1.36.zip
+               1 File(s)      6,542,104 bytes
+
+ Directory of G:\PENTING
+
+12/02/2004  02:33 PM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/02/2004  02:33 PM    <DIR>          Enscript-1.6.1
+12/02/2004  02:33 PM    <DIR>          FreeType-1.3.1
+12/02/2004  02:33 PM    <DIR>          GTK2-2.4.13
+12/02/2004  02:33 PM    <DIR>          GV-3.6
+12/02/2004  02:33 PM    <DIR>          Ghostscript-8.14
+12/02/2004  02:33 PM    <DIR>          Id3lib-3.8.3
+12/02/2004  02:33 PM    <DIR>          Lua-5.0.2
+12/02/2004  02:33 PM    <DIR>          MusicBrainz-2.1.1
+12/02/2004  02:33 PM    <DIR>          Python-2.3.4
+12/02/2004  02:33 PM    <DIR>          Qt_Toolkit-3.3
+12/02/2004  02:33 PM    <DIR>          SDL-1.2.7
+12/02/2004  02:33 PM    <DIR>          SDL_Image-1.2.3
+12/02/2004  02:33 PM    <DIR>          SDL_Mixer-1.2.5
+12/02/2004  02:33 PM    <DIR>          SDL_Net-1.2.5
+12/02/2004  02:33 PM    <DIR>          SDL_Ttf-2.0.6
+12/02/2004  02:33 PM    <DIR>          Taglib-1.2
+               0 File(s)              0 bytes
+
+ Directory of G:\PENTING\Enscript-1.6.1
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:01 PM           645,856 enscript-1.6.1.tar.gz
+               1 File(s)        645,856 bytes
+
+ Directory of G:\PENTING\FreeType-1.3.1
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/24/2004  06:16 PM         1,427,072 freetype-1.3.1.tar.gz
+               1 File(s)      1,427,072 bytes
+
+ Directory of G:\PENTING\GTK2-2.4.13
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+10/18/2004  07:23 PM        14,030,477 gtk+-2.4.13.tar.gz
+               1 File(s)     14,030,477 bytes
+
+ Directory of G:\PENTING\GV-3.6
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:00 PM           404,576 Gsview-3.6.tar.gz
+               1 File(s)        404,576 bytes
+
+ Directory of G:\PENTING\Ghostscript-8.14
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:11 PM         7,017,101 ghostscript-8.14.tar.gz
+               1 File(s)      7,017,101 bytes
+
+ Directory of G:\PENTING\Id3lib-3.8.3
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:02 PM           950,726 id3lib-3.8.3.tar.gz
+               1 File(s)        950,726 bytes
+
+ Directory of G:\PENTING\Lua-5.0.2
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/14/2004  02:28 PM            95,220 lua-5.0.2-3.i386.rpm
+08/12/2004  05:28 PM           190,442 lua-5.0.2.tar.gz
+09/14/2004  02:28 PM           400,643 lua-devel-5.0.2-3.i386.rpm
+               3 File(s)        686,305 bytes
+
+ Directory of G:\PENTING\MusicBrainz-2.1.1
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  01:57 PM           528,162 libmusicbrainz-2.1.1.tar.tar
+               1 File(s)        528,162 bytes
+
+ Directory of G:\PENTING\Python-2.3.4
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+10/20/2004  07:03 PM         8,502,738 Python-2.3.4.tgz
+               1 File(s)      8,502,738 bytes
+
+ Directory of G:\PENTING\Qt_Toolkit-3.3
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:25 PM        14,424,812 qt-x11-free-3.3.3.tar.bz2
+               1 File(s)     14,424,812 bytes
+
+ Directory of G:\PENTING\SDL-1.2.7
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+08/12/2004  06:14 PM         2,470,936 SDL-1.2.7.tar.gz
+               1 File(s)      2,470,936 bytes
+
+ Directory of G:\PENTING\SDL_Image-1.2.3
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+08/12/2004  05:31 PM           636,747 SDL_image-1.2.3.tar.gz
+               1 File(s)        636,747 bytes
+
+ Directory of G:\PENTING\SDL_Mixer-1.2.5
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+08/12/2004  05:34 PM           936,765 SDL_mixer-1.2.5.tar.gz
+               1 File(s)        936,765 bytes
+
+ Directory of G:\PENTING\SDL_Net-1.2.5
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+08/12/2004  05:27 PM           169,238 SDL_net-1.2.5.tar.gz
+               1 File(s)        169,238 bytes
+
+ Directory of G:\PENTING\SDL_Ttf-2.0.6
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/14/2004  02:44 PM            22,542 SDL_ttf-2.0.6-0.1.fc2.fr.i386.rpm
+09/14/2004  03:15 PM            30,598 SDL_ttf-2.0.6-215.suse91.i586.rpm
+08/12/2004  05:36 PM         1,114,118 SDL_ttf-2.0.6.tar.gz
+09/14/2004  02:44 PM            12,578 SDL_ttf-devel-2.0.6-0.1.fc2.fr.i386.rpm
+               4 File(s)      1,179,836 bytes
+
+ Directory of G:\PENTING\Taglib-1.2
+
+12/02/2004  02:33 PM    <DIR>          .
+12/02/2004  02:33 PM    <DIR>          ..
+09/09/2004  07:01 PM           710,514 taglib-1.2.tar.gz
+               1 File(s)        710,514 bytes
+
+ Directory of G:\Scientific
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:40 AM    <DIR>          Tnimage-3.3.16d
+               0 File(s)              0 bytes
+
+ Directory of G:\Scientific\Tnimage-3.3.16d
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+10/12/2004  07:30 PM         4,043,525 tnimage-3.3.16d.src.tar.gz
+               1 File(s)      4,043,525 bytes
+
+ Directory of G:\Search_Tools
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:40 AM    <DIR>          DataparkSearch-4.26
+               0 File(s)              0 bytes
+
+ Directory of G:\Search_Tools\DataparkSearch-4.26
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+11/08/2004  05:54 PM         3,467,280 dpsearch-4.26.tar.gz
+               1 File(s)      3,467,280 bytes
+
+ Directory of G:\Server
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:40 AM    <DIR>          Apache-1.3.31
+12/05/2004  06:40 AM    <DIR>          Apache-2.0.52
+12/05/2004  06:40 AM    <DIR>          Flumotion_Streaming_Server-0.1.2
+               0 File(s)              0 bytes
+
+ Directory of G:\Server\Apache-1.3.31
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+10/06/2004  08:19 AM         2,467,371 apache_1.3.31.tar.gz
+               1 File(s)      2,467,371 bytes
+
+ Directory of G:\Server\Apache-2.0.52
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+10/06/2004  07:28 PM         5,187,776 httpd-2.0.52.tar.bz2
+               1 File(s)      5,187,776 bytes
+
+ Directory of G:\Server\Flumotion_Streaming_Server-0.1.2
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+11/08/2004  05:35 PM           476,678 flumotion-0.1.2.tar.bz2
+11/08/2004  11:26 AM                58 flumotion-0.1.2.tar.bz2.md5
+               2 File(s)        476,736 bytes
+
+ Directory of G:\Update
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  06:40 AM    <DIR>          FedoraCore3
+               0 File(s)              0 bytes
+
+ Directory of G:\Update\FedoraCore3
+
+12/05/2004  06:40 AM    <DIR>          .
+12/05/2004  06:40 AM    <DIR>          ..
+11/08/2004  03:04 PM           670,653 udev-039-10.FC3.1.i386.rpm
+11/17/2004  05:33 PM           633,137 udev-039-10.FC3.2.i386.rpm
+               2 File(s)      1,303,790 bytes
+
+ Directory of G:\boot
+
+07/25/2004  03:13 PM    <DIR>          .
+12/05/2004  08:49 AM    <DIR>          ..
+12/05/2004  07:31 AM    <DIR>          isolinux
+               0 File(s)              0 bytes
+
+ Directory of G:\boot\isolinux
+
+12/05/2004  07:31 AM    <DIR>          .
+07/25/2004  03:13 PM    <DIR>          ..
+12/05/2004  09:11 PM             2,048 boot.cat
+12/05/2004  07:31 AM               155 boot.msg
+09/29/2004  08:21 PM             1,592 f2
+07/25/2004  03:13 PM             1,675 f3
+07/25/2004  03:13 PM               256 german.kbd
+12/05/2004  08:51 AM             9,404 isolinux.bin
+08/22/2004  06:35 AM             2,023 isolinux.cfg
+08/15/2004  01:31 PM           994,807 linux24
+07/11/2004  02:33 PM            10,878 logo.16
+09/02/2004  10:23 AM           790,312 minirt24.gz
+              10 File(s)      1,813,150 bytes
+
+     Total Files Listed:
+             181 File(s)    693,482,089 bytes
+             468 Dir(s)               0 bytes free

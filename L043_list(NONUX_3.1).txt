@@ -1,0 +1,123 @@
+ Volume in drive G is nonux
+ Volume Serial Number is E2CB-EED7
+
+ Directory of G:\
+
+08/15/2006  06:59 PM            18,259 COPYING
+08/15/2006  06:59 PM               380 LICENSE
+08/15/2006  06:59 PM                58 autorun.inf
+08/15/2006  07:27 PM    <DIR>          base
+08/15/2006  07:00 PM    <DIR>          boot
+08/15/2006  06:59 PM            16,704 changelog.txt
+08/15/2006  06:59 PM               623 filelist.txt
+08/15/2006  06:59 PM               956 isolinux.cfg
+08/15/2006  06:59 PM               243 livecd.sgn
+08/15/2006  06:59 PM             1,096 make_disk.bat
+08/15/2006  06:59 PM               873 make_iso.bat
+08/15/2006  06:59 PM             1,117 make_iso.sh
+08/15/2006  06:59 PM    <DIR>          modules
+08/15/2006  06:59 PM             1,150 nonux.ico
+08/15/2006  06:59 PM           891,682 nonux_info.exe
+08/15/2006  06:59 PM    <DIR>          optional
+08/15/2006  06:59 PM             2,696 requirements.txt
+08/15/2006  06:59 PM    <DIR>          rootcopy
+08/15/2006  06:59 PM    <DIR>          tools
+08/15/2006  06:59 PM            12,065 unionfs.html
+              14 File(s)        947,902 bytes
+
+ Directory of G:\base
+
+08/15/2006  07:27 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+08/15/2006  07:00 PM         2,543,616 bin.mo
+08/15/2006  07:00 PM        14,614,528 etc.mo
+08/15/2006  07:27 PM         2,904,064 hd_install.mo
+08/15/2006  07:00 PM         4,104,192 home.mo
+08/15/2006  07:01 PM        21,221,376 lib.mo
+08/15/2006  07:27 PM             4,096 media.mo
+08/15/2006  07:05 PM       138,653,696 opt.mo
+08/15/2006  07:06 PM        14,913,536 root.mo
+08/15/2006  07:26 PM         3,170,304 sbin.mo
+08/15/2006  07:26 PM       496,431,104 usr.mo
+08/15/2006  07:27 PM         5,656,576 var.mo
+              11 File(s)    704,217,088 bytes
+
+ Directory of G:\boot
+
+08/15/2006  07:00 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+08/15/2006  06:59 PM    <DIR>          DOS
+08/15/2006  07:00 PM         1,413,093 initrd.gz
+08/15/2006  06:59 PM            10,648 isolinux.bi_
+08/15/2006  07:27 PM            10,648 isolinux.bin
+08/15/2006  07:27 PM             2,048 isolinux.boot
+08/15/2006  06:59 PM            99,784 memtest
+08/15/2006  06:59 PM             4,195 splash.bmp.gz
+08/15/2006  06:59 PM               103 splash.cfg
+08/15/2006  06:59 PM             7,846 splash.lss
+08/15/2006  06:59 PM               562 splash.txt
+08/15/2006  06:59 PM                77 start.txt
+08/15/2006  06:59 PM         2,025,275 vmlinuz
+08/15/2006  07:00 PM         2,025,275 vmnonux
+              12 File(s)      5,599,554 bytes
+
+ Directory of G:\boot\DOS
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  07:00 PM    <DIR>          ..
+08/15/2006  06:59 PM               589 config
+08/15/2006  06:59 PM               363 linux.bat
+08/15/2006  06:59 PM            32,225 loadlin.exe
+08/15/2006  06:59 PM               342 readme.txt
+               4 File(s)         33,519 bytes
+
+ Directory of G:\modules
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\optional
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\rootcopy
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\tools
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+08/15/2006  06:59 PM    <DIR>          WIN
+08/15/2006  06:59 PM             1,313 deb2mo
+08/15/2006  06:59 PM               527 dir2mo
+08/15/2006  06:59 PM               595 img2mo
+08/15/2006  06:59 PM            13,321 liblinuxlive
+08/15/2006  06:59 PM            86,313 mksquashfs
+08/15/2006  06:59 PM               821 mo2dir
+08/15/2006  06:59 PM               668 tgz2mo
+08/15/2006  06:59 PM            20,681 unionctl
+08/15/2006  06:59 PM            13,339 uniondbg
+08/15/2006  06:59 PM            24,996 unsquashfs
+08/15/2006  06:59 PM             1,980 uselivemod
+              11 File(s)        164,554 bytes
+
+ Directory of G:\tools\WIN
+
+08/15/2006  06:59 PM    <DIR>          .
+08/15/2006  06:59 PM    <DIR>          ..
+08/15/2006  06:59 PM               118 config
+08/15/2006  06:59 PM           454,537 cygwin1.dll
+08/15/2006  06:59 PM           231,249 mkisofs.exe
+08/15/2006  06:59 PM               165 syslinux.cfg
+08/15/2006  06:59 PM            30,208 syslinux.exe
+               5 File(s)        716,277 bytes
+
+     Total Files Listed:
+              57 File(s)    711,678,894 bytes
+              24 Dir(s)               0 bytes free

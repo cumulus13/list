@@ -1,0 +1,168 @@
+ Volume in drive F is BT4
+ Volume Serial Number is 6DEE-0036
+
+ Directory of F:\
+
+02/10/2009  02:59 AM    <DIR>          BT4
+02/10/2009  03:06 AM    <DIR>          boot
+               0 File(s)              0 bytes
+
+ Directory of F:\BT4
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:18 AM    <DIR>          base
+02/10/2009  03:00 AM               245 license
+02/10/2009  03:00 AM               437 livecd.sgn
+02/10/2009  03:06 AM               655 make_iso.bat
+02/10/2009  03:06 AM               931 make_iso.sh
+02/10/2009  02:59 AM    <DIR>          modules
+02/10/2009  02:59 AM    <DIR>          optional
+02/10/2009  02:59 AM    <DIR>          rootcopy
+02/10/2009  02:59 AM    <DIR>          tools
+               4 File(s)          2,268 bytes
+
+ Directory of F:\BT4\base
+
+02/10/2009  03:18 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+02/10/2009  03:00 AM         1,617,920 bin.lzm
+02/10/2009  03:17 AM         2,310,144 etc.lzm
+02/10/2009  03:00 AM             4,096 home.lzm
+02/10/2009  03:00 AM        16,797,696 lib.lzm
+02/10/2009  03:00 AM        62,357,504 opt.lzm
+02/10/2009  03:00 AM       134,602,752 pentest.lzm
+02/10/2009  03:00 AM        17,129,472 root.lzm
+02/10/2009  03:00 AM         2,744,320 sbin.lzm
+02/10/2009  03:00 AM       592,605,184 usr.lzm
+02/10/2009  03:00 AM        56,434,688 var.lzm
+              10 File(s)    886,603,776 bytes
+
+ Directory of F:\BT4\modules
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\BT4\optional
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\BT4\rootcopy
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\BT4\tools
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+02/10/2009  03:00 AM             2,388 activate
+02/10/2009  03:00 AM             2,428 deactivate
+02/10/2009  03:00 AM             1,286 deb2lzm
+02/10/2009  03:00 AM               484 dir2lzm
+02/10/2009  03:00 AM            30,808 liblinuxlive
+02/10/2009  03:00 AM               397 lzm2dir
+02/10/2009  03:00 AM           159,268 mksquashfs
+02/10/2009  03:00 AM               637 tgz2lzm
+02/10/2009  03:00 AM            60,764 unsquashfs
+02/10/2009  02:59 AM    <DIR>          win
+               9 File(s)        258,460 bytes
+
+ Directory of F:\BT4\tools\win
+
+02/10/2009  02:59 AM    <DIR>          .
+02/10/2009  02:59 AM    <DIR>          ..
+02/10/2009  03:00 AM               136 config
+02/10/2009  03:00 AM           454,537 cygwin1.dll
+02/10/2009  03:00 AM           231,249 mkisofs.exe
+               3 File(s)        685,922 bytes
+
+ Directory of F:\boot
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM             1,698 bootinst.bat
+02/10/2009  03:06 AM             2,245 bootinst.sh
+02/10/2009  03:06 AM            12,372 chain.c32
+02/10/2009  03:06 AM    <DIR>          dos
+02/10/2009  03:06 AM         2,539,567 initrd.gz
+02/10/2009  03:06 AM    <DIR>          isolinux
+02/10/2009  03:06 AM             2,586 liloinst.sh
+02/10/2009  03:06 AM             3,380 msramdmp.c32
+02/10/2009  03:06 AM           111,864 mt86p
+02/10/2009  03:06 AM    <DIR>          pxelinux.cfg
+02/10/2009  03:06 AM           256,230 splash.initrd
+02/10/2009  03:06 AM    <DIR>          syslinux
+02/10/2009  03:06 AM           140,580 vesamenu.c32
+02/10/2009  03:06 AM         4,391,408 vmlinuz
+              10 File(s)      7,461,930 bytes
+
+ Directory of F:\boot\dos
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM               389 bt4.bat
+02/10/2009  03:06 AM                87 config
+02/10/2009  03:06 AM             5,832 linld097.com
+02/10/2009  03:06 AM               340 readme.txt
+               4 File(s)          6,648 bytes
+
+ Directory of F:\boot\isolinux
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:07 AM            12,573 isolinux.bin
+02/10/2009  03:19 AM             2,048 isolinux.boot
+02/10/2009  03:06 AM               468 isolinux.cfg
+               3 File(s)         15,089 bytes
+
+ Directory of F:\boot\pxelinux.cfg
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM               218 default
+02/10/2009  03:06 AM            64,504 dnsmasq
+02/10/2009  03:06 AM            13,936 pxelinux.0
+02/10/2009  03:06 AM               970 start
+02/10/2009  03:06 AM    <DIR>          web
+               4 File(s)         79,628 bytes
+
+ Directory of F:\boot\pxelinux.cfg\web
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM    <DIR>          conf
+02/10/2009  03:06 AM            20,992 monkey
+02/10/2009  03:06 AM             1,220 start
+               2 File(s)         22,212 bytes
+
+ Directory of F:\boot\pxelinux.cfg\web\conf
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM                 0 modules.conf
+02/10/2009  03:06 AM               246 monkey.conf
+02/10/2009  03:06 AM                 0 monkey.deny
+02/10/2009  03:06 AM             3,107 monkey.mime
+               4 File(s)          3,353 bytes
+
+ Directory of F:\boot\syslinux
+
+02/10/2009  03:06 AM    <DIR>          .
+02/10/2009  03:06 AM    <DIR>          ..
+02/10/2009  03:06 AM            13,509 ldlinux.sys
+02/10/2009  03:06 AM            70,196 lilo
+02/10/2009  03:06 AM               404 mbr.bin
+02/10/2009  03:06 AM            24,592 syslinux
+02/10/2009  03:06 AM               468 syslinux.cfg
+02/10/2009  03:06 AM            21,528 syslinux.com
+02/10/2009  03:06 AM            26,624 syslinux.exe
+               7 File(s)        157,321 bytes
+
+     Total Files Listed:
+              60 File(s)    895,296,607 bytes
+              42 Dir(s)               0 bytes free

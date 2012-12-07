@@ -1,0 +1,3691 @@
+Folder PATH listing for volume O9PRMCD01
+Volume serial number is D534-0D6E
+G:\
+|   AUTORUN.INF
+|   DATA1.MSI
+|   LICENSE.TXT
+|   MSOWC.CAB
+|   MSOWC.MSI
+|   OFFICE1.CAB
+|   README.DOC
+|   SETUP.EXE
+|   SETUP.HLP
+|   SETUP.INI
+|   
++---IE5
+|   \---TW
+|           ACTSETUP.CAB
+|           ADVAUTH.CAB
+|           AOLSUPP.CAB
+|           AXA.CAB
+|           AXA2.CAB
+|           AXA3.CAB
+|           BRANDING.CAB
+|           DCOM95.EXE
+|           DXDDEX.CAB
+|           DXMINI.CAB
+|           FONTCORE.CAB
+|           FONTSUP.CAB
+|           FPESETUP.CAB
+|           GSETUP95.CAB
+|           GSETUPNT.CAB
+|           HELPCONT.CAB
+|           HHUPD.CAB
+|           ICW.CAB
+|           IE4MFC40.CAB
+|           IE4SHL95.CAB
+|           IE4SHLNT.CAB
+|           IE5COMP.EXE
+|           IE5SETUP.EXE
+|           IEAK5.EXE
+|           IEAK5CD.EXE
+|           IEAK5OPT.CAB
+|           IECIF.CAB
+|           IEDATA.CAB
+|           IEDATAJA.CAB
+|           IEJAVA.CAB
+|           IELPKAD.CAB
+|           IELPKAR.CAB
+|           IELPKIW.CAB
+|           IELPKJA.CAB
+|           IELPKKO.CAB
+|           IELPKPE.CAB
+|           IELPKTH.CAB
+|           IELPKVI.CAB
+|           IELPKZHC.CAB
+|           IELPKZHT.CAB
+|           IENT_S1.CAB
+|           IENT_S2.CAB
+|           IENT_S3.CAB
+|           IENT_S4.CAB
+|           IESETUP.INI
+|           IE_EXTRA.CAB
+|           IE_S1.CAB
+|           IE_S2.CAB
+|           IE_S3.CAB
+|           IE_S4.CAB
+|           JAAIME.CAB
+|           KOAIME.CAB
+|           MAILNEWS.CAB
+|           MDAC_IE5.CAB
+|           MOBILE95.CAB
+|           MOBILENT.CAB
+|           MPCDCS.CAB
+|           MPLAYER2.CAB
+|           MSCHAT25.CAB
+|           MSN_AUTH.CAB
+|           MSWALLET.CAB
+|           NM2.CAB
+|           SCAIME.CAB
+|           SETUPNT.CAB
+|           SETUPW95.CAB
+|           SWDIR.CAB
+|           SWFLASH.CAB
+|           TCAIME.CAB
+|           TS95.CAB
+|           TSNT.CAB
+|           USP10.CAB
+|           VBSCRIPT.CAB
+|           VGX.CAB
+|           VMX86_01.CAB
+|           VMX86_02.CAB
+|           VRML2C.EXE
+|           WAB.CAB
+|           WEBFLDRS.CAB
+|           WPIE5X86.CAB
+|           
++---MSI
+|       INSTMSI.EXE
+|       INSTMSIW.EXE
+|       
++---MSIME
+|       SETUP.EXE
+|       
++---PFILES
+|   +---COMMON
+|   |   |   IRAABOUT.DLL
+|   |   |   IRALPTTR.DLL
+|   |   |   IRAMDMTR.DLL
+|   |   |   IRAREG.DLL
+|   |   |   IRASRIAL.DLL
+|   |   |   IRAWEBTR.DLL
+|   |   |   
+|   |   +---DESIGNER
+|   |   |       MSADDNDR.DLL
+|   |   |       
+|   |   +---MSSHARED
+|   |   |   +---ARTGALRY
+|   |   |   |   |   ARTGALRY.CHM
+|   |   |   |   |   ARTGALRY.DLL
+|   |   |   |   |   ARTGALRY.EXE
+|   |   |   |   |   CAG.EXE
+|   |   |   |   |   MCANSI.DLL
+|   |   |   |   |   MCPS.DLL
+|   |   |   |   |   MEDCAT.DLL
+|   |   |   |   |   PICSTORE.DLL
+|   |   |   |   |   QARTGLRY.HLP
+|   |   |   |   |   QRYCTRL.DLL
+|   |   |   |   |   
+|   |   |   |   \---SDB4
+|   |   |   |           LEX4.SDB
+|   |   |   |           MMEDIA.SDB
+|   |   |   |           OFFICE.SDB
+|   |   |   |           PHOTOS.SDB
+|   |   |   |           POP97.SDB
+|   |   |   |           POWERPNT.SDB
+|   |   |   |           SCRBEANS.SDB
+|   |   |   |           TPOP97.SDB
+|   |   |   |           
+|   |   |   +---CLIPART
+|   |   |   |   +---AUTOSHAP
+|   |   |   |   |       AUTOSHAP.MMC
+|   |   |   |   |       BD18180_.WMF
+|   |   |   |   |       BD18181_.WMF
+|   |   |   |   |       BD18182_.WMF
+|   |   |   |   |       BD18184_.WMF
+|   |   |   |   |       BD18185_.WMF
+|   |   |   |   |       BD18187_.WMF
+|   |   |   |   |       BD18189_.WMF
+|   |   |   |   |       BD18190_.WMF
+|   |   |   |   |       BD18191_.WMF
+|   |   |   |   |       BD18192_.WMF
+|   |   |   |   |       BD18193_.WMF
+|   |   |   |   |       BD18194_.WMF
+|   |   |   |   |       BD18196_.WMF
+|   |   |   |   |       BD18197_.WMF
+|   |   |   |   |       BD18198_.WMF
+|   |   |   |   |       BD18199_.WMF
+|   |   |   |   |       BD18200_.WMF
+|   |   |   |   |       BD18201_.WMF
+|   |   |   |   |       BD18202_.WMF
+|   |   |   |   |       BD18203_.WMF
+|   |   |   |   |       BD18204_.WMF
+|   |   |   |   |       BD18205_.WMF
+|   |   |   |   |       BD18206_.WMF
+|   |   |   |   |       BD18207_.WMF
+|   |   |   |   |       BD18208_.WMF
+|   |   |   |   |       BD18209_.WMF
+|   |   |   |   |       BD18210_.WMF
+|   |   |   |   |       BD18211_.WMF
+|   |   |   |   |       BD18212_.WMF
+|   |   |   |   |       BD18213_.WMF
+|   |   |   |   |       BD18214_.WMF
+|   |   |   |   |       BD18215_.WMF
+|   |   |   |   |       BD18216_.WMF
+|   |   |   |   |       BD18217_.WMF
+|   |   |   |   |       BD18218_.WMF
+|   |   |   |   |       BD18219_.WMF
+|   |   |   |   |       BD18220_.WMF
+|   |   |   |   |       BD18221_.WMF
+|   |   |   |   |       BD18222_.WMF
+|   |   |   |   |       BD18223_.WMF
+|   |   |   |   |       BD18224_.WMF
+|   |   |   |   |       BD18225_.WMF
+|   |   |   |   |       BD18226_.WMF
+|   |   |   |   |       BD18227_.WMF
+|   |   |   |   |       BD18228_.WMF
+|   |   |   |   |       BD18229_.WMF
+|   |   |   |   |       BD18230_.WMF
+|   |   |   |   |       BD18231_.WMF
+|   |   |   |   |       BD18232_.WMF
+|   |   |   |   |       BD18233_.WMF
+|   |   |   |   |       BD18234_.WMF
+|   |   |   |   |       BD18235_.WMF
+|   |   |   |   |       BD18236_.WMF
+|   |   |   |   |       BD18237_.WMF
+|   |   |   |   |       BD18238_.WMF
+|   |   |   |   |       BD18239_.WMF
+|   |   |   |   |       BD18241_.WMF
+|   |   |   |   |       BD18242_.WMF
+|   |   |   |   |       BD18243_.WMF
+|   |   |   |   |       BD18244_.WMF
+|   |   |   |   |       BD18245_.WMF
+|   |   |   |   |       BD18246_.WMF
+|   |   |   |   |       BD18247_.WMF
+|   |   |   |   |       BD18248_.WMF
+|   |   |   |   |       BD18249_.WMF
+|   |   |   |   |       BD18250_.WMF
+|   |   |   |   |       BD18251_.WMF
+|   |   |   |   |       BD18252_.WMF
+|   |   |   |   |       BD18253_.WMF
+|   |   |   |   |       BD18254_.WMF
+|   |   |   |   |       BD18255_.WMF
+|   |   |   |   |       BD18256_.WMF
+|   |   |   |   |       BD18257_.WMF
+|   |   |   |   |       
+|   |   |   |   +---CAGCAT50
+|   |   |   |   |       AN01124_.WMF
+|   |   |   |   |       AN01695_.WMF
+|   |   |   |   |       AN02097_.WMF
+|   |   |   |   |       AN02479_.WMF
+|   |   |   |   |       AN02542_.WMF
+|   |   |   |   |       BD00010_.WMF
+|   |   |   |   |       BD00013_.WMF
+|   |   |   |   |       BD00017_.WMF
+|   |   |   |   |       BD00028_.WMF
+|   |   |   |   |       BD04897_.WMF
+|   |   |   |   |       BD04912_.WMF
+|   |   |   |   |       BD04914_.WMF
+|   |   |   |   |       BD04918_.WMF
+|   |   |   |   |       BD04924_.WMF
+|   |   |   |   |       BD04956_.WMF
+|   |   |   |   |       BD04972_.WMF
+|   |   |   |   |       BD05015_.WMF
+|   |   |   |   |       BD05158_.WMF
+|   |   |   |   |       BD05219_.WMF
+|   |   |   |   |       BD05296_.WMF
+|   |   |   |   |       BD05297_.WMF
+|   |   |   |   |       BD05299_.WMF
+|   |   |   |   |       BD05368_.WMF
+|   |   |   |   |       BD05515_.WMF
+|   |   |   |   |       BD05537_.WMF
+|   |   |   |   |       BD05545_.WMF
+|   |   |   |   |       BD05552_.WMF
+|   |   |   |   |       BD05584_.WMF
+|   |   |   |   |       BD05679_.WMF
+|   |   |   |   |       BD05680_.WMF
+|   |   |   |   |       BD06152_.WMF
+|   |   |   |   |       BD06288_.WMF
+|   |   |   |   |       BD06455_.WMF
+|   |   |   |   |       BD06517_.WMF
+|   |   |   |   |       BD06518_.WMF
+|   |   |   |   |       BD06529_.WMF
+|   |   |   |   |       BD06639_.WMF
+|   |   |   |   |       BD06662_.WMF
+|   |   |   |   |       BD06663_.WMF
+|   |   |   |   |       BD06670_.WMF
+|   |   |   |   |       BD06675_.WMF
+|   |   |   |   |       BD06711_.WMF
+|   |   |   |   |       BD06716_.WMF
+|   |   |   |   |       BD06784_.WMF
+|   |   |   |   |       BD06790_.WMF
+|   |   |   |   |       BD06982_.WMF
+|   |   |   |   |       BD06990_.WMF
+|   |   |   |   |       BD07153_.WMF
+|   |   |   |   |       BD07175_.WMF
+|   |   |   |   |       BD07270_.WMF
+|   |   |   |   |       BD07281_.WMF
+|   |   |   |   |       BD07304_.WMF
+|   |   |   |   |       BD07311_.WMF
+|   |   |   |   |       BD07832_.WMF
+|   |   |   |   |       BD08208_.WMF
+|   |   |   |   |       BD08911_.WMF
+|   |   |   |   |       BK00030_.WMF
+|   |   |   |   |       BL00347_.WMF
+|   |   |   |   |       BL00381_.WMF
+|   |   |   |   |       BL00393_.WMF
+|   |   |   |   |       BS00285_.WMF
+|   |   |   |   |       BS00508_.WMF
+|   |   |   |   |       BS00554_.WMF
+|   |   |   |   |       BS00559_.WMF
+|   |   |   |   |       BS00561_.WMF
+|   |   |   |   |       BS00580_.WMF
+|   |   |   |   |       BS00823_.WMF
+|   |   |   |   |       BS00975_.WMF
+|   |   |   |   |       BS01316_.WMF
+|   |   |   |   |       BS01580_.WMF
+|   |   |   |   |       BS02064_.WMF
+|   |   |   |   |       CAGCAT50.MMC
+|   |   |   |   |       DD00448_.WMF
+|   |   |   |   |       DD01009_.WMF
+|   |   |   |   |       DD01352_.WMF
+|   |   |   |   |       EN00349_.WMF
+|   |   |   |   |       EN00354_.WMF
+|   |   |   |   |       EN00378_.WMF
+|   |   |   |   |       EN00500_.WMF
+|   |   |   |   |       HH01669_.WMF
+|   |   |   |   |       HM00163_.WMF
+|   |   |   |   |       HM00361_.WMF
+|   |   |   |   |       HM00363_.WMF
+|   |   |   |   |       IN00357_.WMF
+|   |   |   |   |       IN00483_.WMF
+|   |   |   |   |       IN00561_.WMF
+|   |   |   |   |       IN01108_.WMF
+|   |   |   |   |       MP00640_.WMF
+|   |   |   |   |       NA00763_.WMF
+|   |   |   |   |       NA00826_.WMF
+|   |   |   |   |       NA00864_.WMF
+|   |   |   |   |       NA01062_.WMF
+|   |   |   |   |       NA01441_.WMF
+|   |   |   |   |       NA01607_.WMF
+|   |   |   |   |       PE00997_.WMF
+|   |   |   |   |       PE01000_.WMF
+|   |   |   |   |       PE01023_.WMF
+|   |   |   |   |       PE01027_.WMF
+|   |   |   |   |       PE01194_.WMF
+|   |   |   |   |       PE01460_.WMF
+|   |   |   |   |       PE01476_.WMF
+|   |   |   |   |       PE01496_.WMF
+|   |   |   |   |       PE01549_.WMF
+|   |   |   |   |       PE01561_.WMF
+|   |   |   |   |       PE01562_.WMF
+|   |   |   |   |       PE01605_.WMF
+|   |   |   |   |       PE01616_.WMF
+|   |   |   |   |       PE01659_.WMF
+|   |   |   |   |       PE01682_.WMF
+|   |   |   |   |       PE01686_.WMF
+|   |   |   |   |       PE01753_.WMF
+|   |   |   |   |       PE01832_.WMF
+|   |   |   |   |       PE01838_.WMF
+|   |   |   |   |       PE01846_.WMF
+|   |   |   |   |       PE01931_.WMF
+|   |   |   |   |       PE01981_.WMF
+|   |   |   |   |       PE02002_.WMF
+|   |   |   |   |       PE02043_.WMF
+|   |   |   |   |       PE02097_.WMF
+|   |   |   |   |       PE02364_.WMF
+|   |   |   |   |       PE02484_.WMF
+|   |   |   |   |       PE02622_.WMF
+|   |   |   |   |       PE02661_.WMF
+|   |   |   |   |       PE02716_.WMF
+|   |   |   |   |       PE02719_.WMF
+|   |   |   |   |       PE03166_.WMF
+|   |   |   |   |       PE03254_.WMF
+|   |   |   |   |       PE03255_.WMF
+|   |   |   |   |       PE03738_.WMF
+|   |   |   |   |       PE07677_.WMF
+|   |   |   |   |       SO01038_.WMF
+|   |   |   |   |       SO01380_.WMF
+|   |   |   |   |       SO01862_.WMF
+|   |   |   |   |       SO01871_.WMF
+|   |   |   |   |       SO02016_.WMF
+|   |   |   |   |       SO02464_.WMF
+|   |   |   |   |       SO02963_.WMF
+|   |   |   |   |       SY00451_.WMF
+|   |   |   |   |       SY01265_.WMF
+|   |   |   |   |       TN00332_.WMF
+|   |   |   |   |       TN00333_.WMF
+|   |   |   |   |       TN00561_.WMF
+|   |   |   |   |       TN00686_.WMF
+|   |   |   |   |       TN01329_.WMF
+|   |   |   |   |       
+|   |   |   |   \---THEMES1
+|   |   |   |       |   THEMES1.MMC
+|   |   |   |       |   THEMES2.MMC
+|   |   |   |       |   
+|   |   |   |       +---BULLETS
+|   |   |   |       |       BD10253_.GIF
+|   |   |   |       |       BD10254_.GIF
+|   |   |   |       |       BD10255_.GIF
+|   |   |   |       |       BD10263_.GIF
+|   |   |   |       |       BD10264_.GIF
+|   |   |   |       |       BD10265_.GIF
+|   |   |   |       |       BD10266_.GIF
+|   |   |   |       |       BD10267_.GIF
+|   |   |   |       |       BD10268_.GIF
+|   |   |   |       |       BD10297_.GIF
+|   |   |   |       |       BD10298_.GIF
+|   |   |   |       |       BD10299_.GIF
+|   |   |   |       |       BD10300_.GIF
+|   |   |   |       |       BD10301_.GIF
+|   |   |   |       |       BD10302_.GIF
+|   |   |   |       |       BD10335_.GIF
+|   |   |   |       |       BD10336_.GIF
+|   |   |   |       |       BD10337_.GIF
+|   |   |   |       |       BD14513_.GIF
+|   |   |   |       |       BD14514_.GIF
+|   |   |   |       |       BD14515_.GIF
+|   |   |   |       |       BD14528_.GIF
+|   |   |   |       |       BD14529_.GIF
+|   |   |   |       |       BD14530_.GIF
+|   |   |   |       |       BD14531_.GIF
+|   |   |   |       |       BD14532_.GIF
+|   |   |   |       |       BD14533_.GIF
+|   |   |   |       |       BD14565_.GIF
+|   |   |   |       |       BD14578_.GIF
+|   |   |   |       |       BD14579_.GIF
+|   |   |   |       |       BD14580_.GIF
+|   |   |   |       |       BD14581_.GIF
+|   |   |   |       |       BD14582_.GIF
+|   |   |   |       |       BD14583_.GIF
+|   |   |   |       |       BD14654_.GIF
+|   |   |   |       |       BD14655_.GIF
+|   |   |   |       |       BD14656_.GIF
+|   |   |   |       |       BD14691_.GIF
+|   |   |   |       |       BD14692_.GIF
+|   |   |   |       |       BD14693_.GIF
+|   |   |   |       |       BD14752_.GIF
+|   |   |   |       |       BD14753_.GIF
+|   |   |   |       |       BD14754_.GIF
+|   |   |   |       |       BD14755_.GIF
+|   |   |   |       |       BD14756_.GIF
+|   |   |   |       |       BD14757_.GIF
+|   |   |   |       |       BD14790_.GIF
+|   |   |   |       |       BD14791_.GIF
+|   |   |   |       |       BD14792_.GIF
+|   |   |   |       |       BD14793_.GIF
+|   |   |   |       |       BD14794_.GIF
+|   |   |   |       |       BD14795_.GIF
+|   |   |   |       |       BD14828_.GIF
+|   |   |   |       |       BD14829_.GIF
+|   |   |   |       |       BD14830_.GIF
+|   |   |   |       |       BD14831_.GIF
+|   |   |   |       |       BD14832_.GIF
+|   |   |   |       |       BD14833_.GIF
+|   |   |   |       |       BD14866_.GIF
+|   |   |   |       |       BD14867_.GIF
+|   |   |   |       |       BD14868_.GIF
+|   |   |   |       |       BD14869_.GIF
+|   |   |   |       |       BD14870_.GIF
+|   |   |   |       |       BD14871_.GIF
+|   |   |   |       |       BD14980_.GIF
+|   |   |   |       |       BD14981_.GIF
+|   |   |   |       |       BD14982_.GIF
+|   |   |   |       |       BD14983_.GIF
+|   |   |   |       |       BD14984_.GIF
+|   |   |   |       |       BD14985_.GIF
+|   |   |   |       |       BD15018_.GIF
+|   |   |   |       |       BD15019_.GIF
+|   |   |   |       |       BD15020_.GIF
+|   |   |   |       |       BD15021_.GIF
+|   |   |   |       |       BD15022_.GIF
+|   |   |   |       |       BD15023_.GIF
+|   |   |   |       |       BD15056_.GIF
+|   |   |   |       |       BD15057_.GIF
+|   |   |   |       |       BD15058_.GIF
+|   |   |   |       |       BD15059_.GIF
+|   |   |   |       |       BD15060_.GIF
+|   |   |   |       |       BD15061_.GIF
+|   |   |   |       |       BD15132_.GIF
+|   |   |   |       |       BD15133_.GIF
+|   |   |   |       |       BD15134_.GIF
+|   |   |   |       |       BD15135_.GIF
+|   |   |   |       |       BD15136_.GIF
+|   |   |   |       |       BD15168_.GIF
+|   |   |   |       |       BD15169_.GIF
+|   |   |   |       |       BD15170_.GIF
+|   |   |   |       |       BD15171_.GIF
+|   |   |   |       |       BD15172_.GIF
+|   |   |   |       |       BD15173_.GIF
+|   |   |   |       |       BD15272_.GIF
+|   |   |   |       |       BD15273_.GIF
+|   |   |   |       |       BD15274_.GIF
+|   |   |   |       |       BD15275_.GIF
+|   |   |   |       |       BD15276_.GIF
+|   |   |   |       |       BD15277_.GIF
+|   |   |   |       |       BD21294_.GIF
+|   |   |   |       |       BD21295_.GIF
+|   |   |   |       |       BD21296_.GIF
+|   |   |   |       |       BD21297_.GIF
+|   |   |   |       |       BD21298_.GIF
+|   |   |   |       |       BD21299_.GIF
+|   |   |   |       |       BD21300_.GIF
+|   |   |   |       |       BD21301_.GIF
+|   |   |   |       |       BD21302_.GIF
+|   |   |   |       |       BD21304_.GIF
+|   |   |   |       |       BD21306_.GIF
+|   |   |   |       |       BD21308_.GIF
+|   |   |   |       |       BD21310_.GIF
+|   |   |   |       |       BD21312_.GIF
+|   |   |   |       |       BD21314_.GIF
+|   |   |   |       |       BD21316_.GIF
+|   |   |   |       |       BD21327_.GIF
+|   |   |   |       |       BD21329_.GIF
+|   |   |   |       |       BD21331_.GIF
+|   |   |   |       |       BD21333_.GIF
+|   |   |   |       |       BD21335_.GIF
+|   |   |   |       |       BD21337_.GIF
+|   |   |   |       |       BD21339_.GIF
+|   |   |   |       |       BD21342_.GIF
+|   |   |   |       |       BD21343_.GIF
+|   |   |   |       |       BD21344_.GIF
+|   |   |   |       |       BD21364_.GIF
+|   |   |   |       |       BD21365_.GIF
+|   |   |   |       |       BD21366_.GIF
+|   |   |   |       |       BD21375_.GIF
+|   |   |   |       |       BD21376_.GIF
+|   |   |   |       |       BD21377_.GIF
+|   |   |   |       |       BD21398_.GIF
+|   |   |   |       |       BD21399_.GIF
+|   |   |   |       |       BD21400_.GIF
+|   |   |   |       |       BD21421_.GIF
+|   |   |   |       |       BD21422_.GIF
+|   |   |   |       |       BD21423_.GIF
+|   |   |   |       |       BD21433_.GIF
+|   |   |   |       |       BD21434_.GIF
+|   |   |   |       |       BD21435_.GIF
+|   |   |   |       |       BD21480_.GIF
+|   |   |   |       |       BD21481_.GIF
+|   |   |   |       |       BD21482_.GIF
+|   |   |   |       |       BD21503_.GIF
+|   |   |   |       |       BD21504_.GIF
+|   |   |   |       |       BD21505_.GIF
+|   |   |   |       |       BD21518_.GIF
+|   |   |   |       |       BD21519_.GIF
+|   |   |   |       |       BD21520_.GIF
+|   |   |   |       |       BD21533_.GIF
+|   |   |   |       |       BD21534_.GIF
+|   |   |   |       |       BD21535_.GIF
+|   |   |   |       |       J0115834.GIF
+|   |   |   |       |       J0115835.GIF
+|   |   |   |       |       J0115836.GIF
+|   |   |   |       |       J0115839.GIF
+|   |   |   |       |       J0115840.GIF
+|   |   |   |       |       J0115841.GIF
+|   |   |   |       |       J0115842.GIF
+|   |   |   |       |       J0115843.GIF
+|   |   |   |       |       J0115844.GIF
+|   |   |   |       |       J0115863.GIF
+|   |   |   |       |       J0115864.GIF
+|   |   |   |       |       J0115865.GIF
+|   |   |   |       |       J0115866.GIF
+|   |   |   |       |       J0115867.GIF
+|   |   |   |       |       J0115868.GIF
+|   |   |   |       |       
+|   |   |   |       \---LINES
+|   |   |   |               BD10219_.GIF
+|   |   |   |               BD10256_.GIF
+|   |   |   |               BD10289_.GIF
+|   |   |   |               BD10290_.GIF
+|   |   |   |               BD10307_.GIF
+|   |   |   |               BD10308_.GIF
+|   |   |   |               BD10358_.GIF
+|   |   |   |               BD14516_.GIF
+|   |   |   |               BD14538_.GIF
+|   |   |   |               BD14539_.GIF
+|   |   |   |               BD14594_.GIF
+|   |   |   |               BD14595_.GIF
+|   |   |   |               BD14677_.GIF
+|   |   |   |               BD14710_.GIF
+|   |   |   |               BD14711_.GIF
+|   |   |   |               BD14768_.GIF
+|   |   |   |               BD14769_.GIF
+|   |   |   |               BD14800_.GIF
+|   |   |   |               BD14801_.GIF
+|   |   |   |               BD14844_.GIF
+|   |   |   |               BD14845_.GIF
+|   |   |   |               BD14882_.GIF
+|   |   |   |               BD14883_.GIF
+|   |   |   |               BD14996_.GIF
+|   |   |   |               BD14997_.GIF
+|   |   |   |               BD15034_.GIF
+|   |   |   |               BD15035_.GIF
+|   |   |   |               BD15072_.GIF
+|   |   |   |               BD15073_.GIF
+|   |   |   |               BD15155_.GIF
+|   |   |   |               BD15156_.GIF
+|   |   |   |               BD15184_.GIF
+|   |   |   |               BD15185_.GIF
+|   |   |   |               BD15301_.GIF
+|   |   |   |               BD15302_.GIF
+|   |   |   |               BD21303_.GIF
+|   |   |   |               BD21305_.GIF
+|   |   |   |               BD21307_.GIF
+|   |   |   |               BD21309_.GIF
+|   |   |   |               BD21311_.GIF
+|   |   |   |               BD21313_.GIF
+|   |   |   |               BD21315_.GIF
+|   |   |   |               BD21318_.GIF
+|   |   |   |               BD21319_.GIF
+|   |   |   |               BD21320_.GIF
+|   |   |   |               BD21321_.GIF
+|   |   |   |               BD21322_.GIF
+|   |   |   |               BD21323_.GIF
+|   |   |   |               BD21324_.GIF
+|   |   |   |               BD21325_.GIF
+|   |   |   |               BD21326_.GIF
+|   |   |   |               BD21328_.GIF
+|   |   |   |               BD21330_.GIF
+|   |   |   |               BD21332_.GIF
+|   |   |   |               BD21334_.GIF
+|   |   |   |               BD21336_.GIF
+|   |   |   |               BD21338_.GIF
+|   |   |   |               BD21340_.GIF
+|   |   |   |               BD21348_.GIF
+|   |   |   |               BD21370_.GIF
+|   |   |   |               BD21390_.GIF
+|   |   |   |               BD21413_.GIF
+|   |   |   |               BD21427_.GIF
+|   |   |   |               BD21448_.GIF
+|   |   |   |               BD21495_.GIF
+|   |   |   |               BD21512_.GIF
+|   |   |   |               BD21527_.GIF
+|   |   |   |               BD21548_.GIF
+|   |   |   |               J0115855.GIF
+|   |   |   |               J0115856.GIF
+|   |   |   |               J0115875.GIF
+|   |   |   |               J0115876.GIF
+|   |   |   |               
+|   |   |   +---DAO
+|   |   |   |       DAO360.CHM
+|   |   |   |       DAO360.DLL
+|   |   |   |       DAOREAD.TXT
+|   |   |   |       
+|   |   |   +---DATAMAP
+|   |   |   |   |   DATAINS8.HLP
+|   |   |   |   |   DATAINST.EXE
+|   |   |   |   |   DIINTL.DLL
+|   |   |   |   |   DMINTL.DLL
+|   |   |   |   |   DMTMDL.DLL
+|   |   |   |   |   DMTMINTL.DLL
+|   |   |   |   |   EMPTYMAP.WMF
+|   |   |   |   |   MAPCAT8.HLP
+|   |   |   |   |   MAPSYM.TTF
+|   |   |   |   |   MAPXPRES.URL
+|   |   |   |   |   MIWWW.URL
+|   |   |   |   |   MSMAP.EXE
+|   |   |   |   |   MSMAP.PEN
+|   |   |   |   |   MSMAP.TLB
+|   |   |   |   |   MSMAP8.CNT
+|   |   |   |   |   MSMAP8.HLP
+|   |   |   |   |   VBAMAP8.CNT
+|   |   |   |   |   VBAMAP8.HLP
+|   |   |   |   |   
+|   |   |   |   \---DATA
+|   |   |   |           AUSAIRPT.DAT
+|   |   |   |           AUSAIRPT.ID
+|   |   |   |           AUSAIRPT.MAP
+|   |   |   |           AUSAIRPT.TAB
+|   |   |   |           AUSCITYA.DAT
+|   |   |   |           AUSCITYA.ID
+|   |   |   |           AUSCITYA.MAP
+|   |   |   |           AUSCITYA.TAB
+|   |   |   |           AUSCITYB.DAT
+|   |   |   |           AUSCITYB.ID
+|   |   |   |           AUSCITYB.MAP
+|   |   |   |           AUSCITYB.TAB
+|   |   |   |           AUSHIWAY.DAT
+|   |   |   |           AUSHIWAY.ID
+|   |   |   |           AUSHIWAY.MAP
+|   |   |   |           AUSHIWAY.TAB
+|   |   |   |           AUSSTATE.DAT
+|   |   |   |           AUSSTATE.ID
+|   |   |   |           AUSSTATE.IND
+|   |   |   |           AUSSTATE.MAP
+|   |   |   |           AUSSTATE.TAB
+|   |   |   |           AUSTRLIA.GST
+|   |   |   |           CANADA.GST
+|   |   |   |           CANAIRPT.DAT
+|   |   |   |           CANAIRPT.ID
+|   |   |   |           CANAIRPT.MAP
+|   |   |   |           CANAIRPT.TAB
+|   |   |   |           CANHIWAY.DAT
+|   |   |   |           CANHIWAY.ID
+|   |   |   |           CANHIWAY.MAP
+|   |   |   |           CANHIWAY.TAB
+|   |   |   |           CANLAKES.DAT
+|   |   |   |           CANLAKES.ID
+|   |   |   |           CANLAKES.MAP
+|   |   |   |           CANLAKES.TAB
+|   |   |   |           CAN_FSA.DAT
+|   |   |   |           CAN_FSA.ID
+|   |   |   |           CAN_FSA.IND
+|   |   |   |           CAN_FSA.MAP
+|   |   |   |           CAN_FSA.TAB
+|   |   |   |           CAN_PROV.DAT
+|   |   |   |           CAN_PROV.ID
+|   |   |   |           CAN_PROV.IND
+|   |   |   |           CAN_PROV.MAP
+|   |   |   |           CAN_PROV.TAB
+|   |   |   |           CNCITY_A.DAT
+|   |   |   |           CNCITY_A.ID
+|   |   |   |           CNCITY_A.MAP
+|   |   |   |           CNCITY_A.TAB
+|   |   |   |           CNCITY_B.DAT
+|   |   |   |           CNCITY_B.ID
+|   |   |   |           CNCITY_B.MAP
+|   |   |   |           CNCITY_B.TAB
+|   |   |   |           GEODICT.DCT
+|   |   |   |           GRID15.DAT
+|   |   |   |           GRID15.ID
+|   |   |   |           GRID15.MAP
+|   |   |   |           GRID15.TAB
+|   |   |   |           GRTLAKES.DAT
+|   |   |   |           GRTLAKES.ID
+|   |   |   |           GRTLAKES.MAP
+|   |   |   |           GRTLAKES.TAB
+|   |   |   |           MAPSTATS.XLS
+|   |   |   |           MEXICO.GST
+|   |   |   |           MXCITY_A.DAT
+|   |   |   |           MXCITY_A.ID
+|   |   |   |           MXCITY_A.MAP
+|   |   |   |           MXCITY_A.TAB
+|   |   |   |           MXCITY_B.DAT
+|   |   |   |           MXCITY_B.ID
+|   |   |   |           MXCITY_B.MAP
+|   |   |   |           MXCITY_B.TAB
+|   |   |   |           MX_AIRPT.DAT
+|   |   |   |           MX_AIRPT.ID
+|   |   |   |           MX_AIRPT.MAP
+|   |   |   |           MX_AIRPT.TAB
+|   |   |   |           MX_HIWAY.DAT
+|   |   |   |           MX_HIWAY.ID
+|   |   |   |           MX_HIWAY.MAP
+|   |   |   |           MX_HIWAY.TAB
+|   |   |   |           MX_STATE.DAT
+|   |   |   |           MX_STATE.ID
+|   |   |   |           MX_STATE.IND
+|   |   |   |           MX_STATE.MAP
+|   |   |   |           MX_STATE.TAB
+|   |   |   |           N_AMERCA.GST
+|   |   |   |           OCEAN.DAT
+|   |   |   |           OCEAN.ID
+|   |   |   |           OCEAN.MAP
+|   |   |   |           OCEAN.TAB
+|   |   |   |           SABNDS.DAT
+|   |   |   |           SABNDS.GST
+|   |   |   |           SABNDS.ID
+|   |   |   |           SABNDS.IND
+|   |   |   |           SABNDS.MAP
+|   |   |   |           SABNDS.TAB
+|   |   |   |           SAMTWNS.DAT
+|   |   |   |           SAMTWNS.ID
+|   |   |   |           SAMTWNS.IND
+|   |   |   |           SAMTWNS.MAP
+|   |   |   |           SAMTWNS.TAB
+|   |   |   |           UKCITY_A.DAT
+|   |   |   |           UKCITY_A.ID
+|   |   |   |           UKCITY_A.MAP
+|   |   |   |           UKCITY_A.TAB
+|   |   |   |           UKCITY_B.DAT
+|   |   |   |           UKCITY_B.ID
+|   |   |   |           UKCITY_B.MAP
+|   |   |   |           UKCITY_B.TAB
+|   |   |   |           UK_2DPC.DAT
+|   |   |   |           UK_2DPC.ID
+|   |   |   |           UK_2DPC.IND
+|   |   |   |           UK_2DPC.MAP
+|   |   |   |           UK_2DPC.TAB
+|   |   |   |           UK_AIRPT.DAT
+|   |   |   |           UK_AIRPT.ID
+|   |   |   |           UK_AIRPT.MAP
+|   |   |   |           UK_AIRPT.TAB
+|   |   |   |           UK_HIWAY.DAT
+|   |   |   |           UK_HIWAY.ID
+|   |   |   |           UK_HIWAY.MAP
+|   |   |   |           UK_HIWAY.TAB
+|   |   |   |           UK_REGNS.DAT
+|   |   |   |           UK_REGNS.GST
+|   |   |   |           UK_REGNS.ID
+|   |   |   |           UK_REGNS.IND
+|   |   |   |           UK_REGNS.MAP
+|   |   |   |           UK_REGNS.TAB
+|   |   |   |           US.GST
+|   |   |   |           USA.DAT
+|   |   |   |           USA.ID
+|   |   |   |           USA.IND
+|   |   |   |           USA.MAP
+|   |   |   |           USA.TAB
+|   |   |   |           USCITY_A.DAT
+|   |   |   |           USCITY_A.ID
+|   |   |   |           USCITY_A.MAP
+|   |   |   |           USCITY_A.TAB
+|   |   |   |           USCITY_B.DAT
+|   |   |   |           USCITY_B.ID
+|   |   |   |           USCITY_B.MAP
+|   |   |   |           USCITY_B.TAB
+|   |   |   |           US_AIRPT.DAT
+|   |   |   |           US_AIRPT.ID
+|   |   |   |           US_AIRPT.MAP
+|   |   |   |           US_AIRPT.TAB
+|   |   |   |           US_HIWAY.DAT
+|   |   |   |           US_HIWAY.ID
+|   |   |   |           US_HIWAY.MAP
+|   |   |   |           US_HIWAY.TAB
+|   |   |   |           US_NACTY.DAT
+|   |   |   |           US_NACTY.ID
+|   |   |   |           US_NACTY.MAP
+|   |   |   |           US_NACTY.TAB
+|   |   |   |           US_STATE.DAT
+|   |   |   |           US_STATE.ID
+|   |   |   |           US_STATE.IND
+|   |   |   |           US_STATE.MAP
+|   |   |   |           US_STATE.TAB
+|   |   |   |           ZIPCODES.CPF
+|   |   |   |           ZIPCODES.TAB
+|   |   |   |           
+|   |   |   +---DBREP
+|   |   |   |       REPLPROV.DLL
+|   |   |   |       REPLREC.DLL
+|   |   |   |       REPLRES.DLL
+|   |   |   |       WZCNFLCT.EXE
+|   |   |   |       
+|   |   |   +---EQUATION
+|   |   |   |   |   EQNEDT32.CNT
+|   |   |   |   |   EQNEDT32.EXE
+|   |   |   |   |   EQNEDT32.HLP
+|   |   |   |   |   MTEXTRA.TTF
+|   |   |   |   |   
+|   |   |   |   \---1028
+|   |   |   |           EEINTL.DLL
+|   |   |   |           
+|   |   |   +---EURO
+|   |   |   |       MSOEURO.DLL
+|   |   |   |       
+|   |   |   +---GRPHFLT
+|   |   |   |       BMPIMP32.FLT
+|   |   |   |       CDRIMP32.FLT
+|   |   |   |       CGMIMP32.CFG
+|   |   |   |       CGMIMP32.FLT
+|   |   |   |       CGMIMP32.FNT
+|   |   |   |       EMFIMP32.FLT
+|   |   |   |       EPSIMP32.FLT
+|   |   |   |       FPX32.FLT
+|   |   |   |       GIFIMP32.FLT
+|   |   |   |       JPEGIM32.FLT
+|   |   |   |       MS.BMP
+|   |   |   |       MS.CDR
+|   |   |   |       MS.CGM
+|   |   |   |       MS.EMF
+|   |   |   |       MS.EPS
+|   |   |   |       MS.FPX
+|   |   |   |       MS.GIF
+|   |   |   |       MS.JPG
+|   |   |   |       MS.PCX
+|   |   |   |       MS.PNG
+|   |   |   |       MS.TIF
+|   |   |   |       MS.WPG
+|   |   |   |       PCDIMP32.FLT
+|   |   |   |       PCXIMP32.FLT
+|   |   |   |       PICTIM32.FLT
+|   |   |   |       PNG32.FLT
+|   |   |   |       TIFFIM32.FLT
+|   |   |   |       WMFIMP32.FLT
+|   |   |   |       WPGEXP32.FLT
+|   |   |   |       WPGIMP32.FLT
+|   |   |   |       
+|   |   |   +---MSDESIGN
+|   |   |   |   |   MDT2DB.DLL
+|   |   |   |   |   MDT2DBNS.DLL
+|   |   |   |   |   MDT2DD.DLL
+|   |   |   |   |   MDT2DF.DLL
+|   |   |   |   |   MDT2DFX.DLL
+|   |   |   |   |   MDT2FREF.DLL
+|   |   |   |   |   MDT2FW.DLL
+|   |   |   |   |   MDT2G.DLL
+|   |   |   |   |   MDT2GDDO.DLL
+|   |   |   |   |   MDT2GDDR.DLL
+|   |   |   |   |   MDT2QD.DLL
+|   |   |   |   |   
+|   |   |   |   \---RESOURCE
+|   |   |   |       \---1028
+|   |   |   |               MDT2DBUI.DLL
+|   |   |   |               MDT2DDUI.DLL
+|   |   |   |               MDT2FWUI.DLL
+|   |   |   |               MDT2QDUI.DLL
+|   |   |   |               
+|   |   |   +---MSINFO
+|   |   |   |       EYEDOG.OCX
+|   |   |   |       MSIAV.OCX
+|   |   |   |       MSICDROM.OCX
+|   |   |   |       MSIHWNFO.OCX
+|   |   |   |       MSINFO32.CHM
+|   |   |   |       MSINFO32.EXE
+|   |   |   |       MSIOFF9.MOF
+|   |   |   |       MSIOFF9.OCX
+|   |   |   |       MSIOLERG.OCX
+|   |   |   |       MSIPRINT.OCX
+|   |   |   |       MSISYS.OCX
+|   |   |   |       OFFPROV.EXE
+|   |   |   |       OFFPRVPS.DLL
+|   |   |   |       TXTVIEW.OCX
+|   |   |   |       
+|   |   |   +---ORGCHART
+|   |   |   |       ORGCHART.CNT
+|   |   |   |       ORGCHART.EXE
+|   |   |   |       ORGCHART.HLP
+|   |   |   |       TEMPLATE.MSO
+|   |   |   |       
+|   |   |   +---PHOTOED
+|   |   |   |   |   CHALKCHA.DLL
+|   |   |   |   |   EMBOSS.DLL
+|   |   |   |   |   GRAPHICP.DLL
+|   |   |   |   |   NOTEPAPE.DLL
+|   |   |   |   |   PHOTOED.CNT
+|   |   |   |   |   PHOTOED.EXE
+|   |   |   |   |   PHOTOED.HLP
+|   |   |   |   |   STAINEDG.DLL
+|   |   |   |   |   STAMP.DLL
+|   |   |   |   |   TEXTURIZ.DLL
+|   |   |   |   |   WATERCOL.DLL
+|   |   |   |   |   
+|   |   |   |   \---1028
+|   |   |   |           PEINTL.DLL
+|   |   |   |           
+|   |   |   +---PROOF
+|   |   |   |   |   CHAPI3T1.DLL
+|   |   |   |   |   CSAPI3T1.DLL
+|   |   |   |   |   CTAPI3T2.DLL
+|   |   |   |   |   MSGR2EN.LEX
+|   |   |   |   |   MSHY2_EN.LEX
+|   |   |   |   |   MSHYPH2.DLL
+|   |   |   |   |   MSLID.DLL
+|   |   |   |   |   MSSP3EN.LEX
+|   |   |   |   |   MSSP3ENA.LEX
+|   |   |   |   |   MSSPELL3.DLL
+|   |   |   |   |   MSTH3AM.LEX
+|   |   |   |   |   MSTH3BR.LEX
+|   |   |   |   |   MSTHES3.DLL
+|   |   |   |   |   MSTR2TSC.DLL
+|   |   |   |   |   MSTR2TSC.LEX
+|   |   |   |   |   MSWDS_EN.LEX
+|   |   |   |   |   WDBRKCHT.DLL
+|   |   |   |   |   
+|   |   |   |   +---1028
+|   |   |   |   |       MSGR2EN.DLL
+|   |   |   |   |       
+|   |   |   |   \---1033
+|   |   |   |           MSGR2EN.DLL
+|   |   |   |           
+|   |   |   +---REFTITLE
+|   |   |   |       MSREFTL.DLL
+|   |   |   |       
+|   |   |   +---TEXTCONV
+|   |   |   |       COMET32.CNV
+|   |   |   |       EXCEL32.CNV
+|   |   |   |       HTML32.CNV
+|   |   |   |       LOTUS32.CNV
+|   |   |   |       MACWRD32.CNV
+|   |   |   |       MSCONV97.DLL
+|   |   |   |       MSWRD632.CNV
+|   |   |   |       MSWRD832.CNV
+|   |   |   |       NIMS32.DLL
+|   |   |   |       NLHTML.DLL
+|   |   |   |       OFFFILT.DLL
+|   |   |   |       PE232.CNV
+|   |   |   |       RECOVR32.CNV
+|   |   |   |       W6TCEX32.CNV
+|   |   |   |       WNWRD232.CNV
+|   |   |   |       WORKS432.CNV
+|   |   |   |       WPEQU532.DLL
+|   |   |   |       WPFT532.CNV
+|   |   |   |       WPFT632.CNV
+|   |   |   |       WRD6ER32.CNV
+|   |   |   |       WRD6EX32.CNV
+|   |   |   |       WWORD5.CNV
+|   |   |   |       
+|   |   |   +---THEMES
+|   |   |   |   |   THEMES.INF
+|   |   |   |   |   
+|   |   |   |   +---ARCS
+|   |   |   |   |       ARCS.ELM
+|   |   |   |   |       ARCS.INF
+|   |   |   |   |       
+|   |   |   |   +---ARTSY
+|   |   |   |   |       ARTSY.ELM
+|   |   |   |   |       ARTSY.INF
+|   |   |   |   |       
+|   |   |   |   +---AUTO
+|   |   |   |   |       AUTO.ELM
+|   |   |   |   |       AUTO.INF
+|   |   |   |   |       
+|   |   |   |   +---BALANCE
+|   |   |   |   |       BALANCE.ELM
+|   |   |   |   |       BALANCE.INF
+|   |   |   |   |       
+|   |   |   |   +---BARCODE
+|   |   |   |   |       BARCODE.ELM
+|   |   |   |   |       BARCODE.INF
+|   |   |   |   |       
+|   |   |   |   +---BARS
+|   |   |   |   |       BARS.ELM
+|   |   |   |   |       BARS.INF
+|   |   |   |   |       
+|   |   |   |   +---BLANK
+|   |   |   |   |       BLANK.ELM
+|   |   |   |   |       BLANK.INF
+|   |   |   |   |       
+|   |   |   |   +---BLENDS
+|   |   |   |   |       BLENDS.ELM
+|   |   |   |   |       BLENDS.INF
+|   |   |   |   |       
+|   |   |   |   +---BLITZ
+|   |   |   |   |       BLITZ.ELM
+|   |   |   |   |       BLITZ.INF
+|   |   |   |   |       
+|   |   |   |   +---BLOCKS
+|   |   |   |   |       BLOCKS.ELM
+|   |   |   |   |       BLOCKS.INF
+|   |   |   |   |       
+|   |   |   |   +---BLUEPRNT
+|   |   |   |   |       BLUEPRNT.ELM
+|   |   |   |   |       BLUEPRNT.INF
+|   |   |   |   |       
+|   |   |   |   +---BOLDSTRI
+|   |   |   |   |       BOLDSTRI.ELM
+|   |   |   |   |       BOLDSTRI.INF
+|   |   |   |   |       
+|   |   |   |   +---BUBBLES
+|   |   |   |   |       BUBBLES.ELM
+|   |   |   |   |       BUBBLES.INF
+|   |   |   |   |       
+|   |   |   |   +---CACTUS
+|   |   |   |   |       CACTUS.ELM
+|   |   |   |   |       CACTUS.INF
+|   |   |   |   |       
+|   |   |   |   +---CANVAS
+|   |   |   |   |       CANVAS.ELM
+|   |   |   |   |       CANVAS.INF
+|   |   |   |   |       
+|   |   |   |   +---CAPSULES
+|   |   |   |   |       CAPSULES.ELM
+|   |   |   |   |       CAPSULES.INF
+|   |   |   |   |       
+|   |   |   |   +---CHECKERS
+|   |   |   |   |       CHECKERS.ELM
+|   |   |   |   |       CHECKERS.INF
+|   |   |   |   |       
+|   |   |   |   +---CHLKBORD
+|   |   |   |   |       CHLKBORD.ELM
+|   |   |   |   |       CHLKBORD.INF
+|   |   |   |   |       
+|   |   |   |   +---CITRUS
+|   |   |   |   |       CITRUS.ELM
+|   |   |   |   |       CITRUS.INF
+|   |   |   |   |       
+|   |   |   |   +---CLASSIC
+|   |   |   |   |       CLASSIC.ELM
+|   |   |   |   |       CLASSIC.INF
+|   |   |   |   |       
+|   |   |   |   +---CLEARDAY
+|   |   |   |   |       CLEARDAY.ELM
+|   |   |   |   |       CLEARDAY.INF
+|   |   |   |   |       
+|   |   |   |   +---CONSTRUC
+|   |   |   |   |       CONSTRUC.ELM
+|   |   |   |   |       CONSTRUC.INF
+|   |   |   |   |       
+|   |   |   |   +---CORPORAT
+|   |   |   |   |       CORPORAT.ELM
+|   |   |   |   |       CORPORAT.INF
+|   |   |   |   |       
+|   |   |   |   +---CYPRESS
+|   |   |   |   |       CYPRESS.ELM
+|   |   |   |   |       CYPRESS.INF
+|   |   |   |   |       
+|   |   |   |   +---DOWNTOWN
+|   |   |   |   |       DOWNTOWN.ELM
+|   |   |   |   |       DOWNTOWN.INF
+|   |   |   |   |       
+|   |   |   |   +---EXPEDITN
+|   |   |   |   |       EXPEDITN.ELM
+|   |   |   |   |       EXPEDITN.INF
+|   |   |   |   |       
+|   |   |   |   +---FACTORY
+|   |   |   |   |       FACTORY.ELM
+|   |   |   |   |       FACTORY.INF
+|   |   |   |   |       
+|   |   |   |   +---FIESTA
+|   |   |   |   |       FIESTA.ELM
+|   |   |   |   |       FIESTA.INF
+|   |   |   |   |       
+|   |   |   |   +---FOLIO
+|   |   |   |   |       FOLIO.ELM
+|   |   |   |   |       FOLIO.INF
+|   |   |   |   |       
+|   |   |   |   +---GLACIER
+|   |   |   |   |       GLACIER.ELM
+|   |   |   |   |       GLACIER.INF
+|   |   |   |   |       
+|   |   |   |   +---GLOBAL
+|   |   |   |   |       GLOBAL.ELM
+|   |   |   |   |       GLOBAL.INF
+|   |   |   |   |       
+|   |   |   |   +---HIGHWAY
+|   |   |   |   |       HIGHWAY.ELM
+|   |   |   |   |       HIGHWAY.INF
+|   |   |   |   |       
+|   |   |   |   +---INDUST
+|   |   |   |   |       INDUST.ELM
+|   |   |   |   |       INDUST.INF
+|   |   |   |   |       
+|   |   |   |   +---INMOTION
+|   |   |   |   |       INMOTION.ELM
+|   |   |   |   |       INMOTION.INF
+|   |   |   |   |       
+|   |   |   |   +---KIDS
+|   |   |   |   |       KIDS.ELM
+|   |   |   |   |       KIDS.INF
+|   |   |   |   |       
+|   |   |   |   +---LAVERNE
+|   |   |   |   |       LAVERNE.ELM
+|   |   |   |   |       LAVERNE.INF
+|   |   |   |   |       
+|   |   |   |   +---LEAVES
+|   |   |   |   |       LEAVES.ELM
+|   |   |   |   |       LEAVES.INF
+|   |   |   |   |       
+|   |   |   |   +---LOOSEGST
+|   |   |   |   |       LOOSEGST.ELM
+|   |   |   |   |       LOOSEGST.INF
+|   |   |   |   |       
+|   |   |   |   +---MAIZE
+|   |   |   |   |       MAIZE.ELM
+|   |   |   |   |       MAIZE.INF
+|   |   |   |   |       
+|   |   |   |   +---MDSHAPES
+|   |   |   |   |       MDSHAPES.ELM
+|   |   |   |   |       MDSHAPES.INF
+|   |   |   |   |       
+|   |   |   |   +---MODULAR
+|   |   |   |   |       MODULAR.ELM
+|   |   |   |   |       MODULAR.INF
+|   |   |   |   |       
+|   |   |   |   +---NATURE
+|   |   |   |   |       NATURE.ELM
+|   |   |   |   |       NATURE.INF
+|   |   |   |   |       
+|   |   |   |   +---NEON
+|   |   |   |   |       NEON.ELM
+|   |   |   |   |       NEON.INF
+|   |   |   |   |       
+|   |   |   |   +---PASSPORT
+|   |   |   |   |       PASSPORT.ELM
+|   |   |   |   |       PASSPORT.INF
+|   |   |   |   |       
+|   |   |   |   +---PIECHART
+|   |   |   |   |       PIECHART.ELM
+|   |   |   |   |       PIECHART.INF
+|   |   |   |   |       
+|   |   |   |   +---POETIC
+|   |   |   |   |       POETIC.ELM
+|   |   |   |   |       POETIC.INF
+|   |   |   |   |       
+|   |   |   |   +---PSTMDRN
+|   |   |   |   |       PSTMDRN.ELM
+|   |   |   |   |       PSTMDRN.INF
+|   |   |   |   |       
+|   |   |   |   +---RADIUS
+|   |   |   |   |       RADIUS.ELM
+|   |   |   |   |       RADIUS.INF
+|   |   |   |   |       
+|   |   |   |   +---RICEPAPR
+|   |   |   |   |       RICEPAPR.ELM
+|   |   |   |   |       RICEPAPR.INF
+|   |   |   |   |       
+|   |   |   |   +---RMNSQUE
+|   |   |   |   |       RMNSQUE.ELM
+|   |   |   |   |       RMNSQUE.INF
+|   |   |   |   |       
+|   |   |   |   +---SAFARI
+|   |   |   |   |       SAFARI.ELM
+|   |   |   |   |       SAFARI.INF
+|   |   |   |   |       
+|   |   |   |   +---SANDSTON
+|   |   |   |   |       SANDSTON.ELM
+|   |   |   |   |       SANDSTON.INF
+|   |   |   |   |       
+|   |   |   |   +---SPIRAL
+|   |   |   |   |       SPIRAL.ELM
+|   |   |   |   |       SPIRAL.INF
+|   |   |   |   |       
+|   |   |   |   +---STRTEDGE
+|   |   |   |   |       STRTEDGE.ELM
+|   |   |   |   |       STRTEDGE.INF
+|   |   |   |   |       
+|   |   |   |   +---SUMIPNTG
+|   |   |   |   |       SUMIPNTG.ELM
+|   |   |   |   |       SUMIPNTG.INF
+|   |   |   |   |       
+|   |   |   |   +---SUNFLOWR
+|   |   |   |   |       SUNFLOWR.ELM
+|   |   |   |   |       SUNFLOWR.INF
+|   |   |   |   |       
+|   |   |   |   +---SWEETS
+|   |   |   |   |       SWEETS.ELM
+|   |   |   |   |       SWEETS.INF
+|   |   |   |   |       
+|   |   |   |   +---TABS
+|   |   |   |   |       TABS.ELM
+|   |   |   |   |       TABS.INF
+|   |   |   |   |       
+|   |   |   |   +---TECHNOLO
+|   |   |   |   |       TECHNOLO.ELM
+|   |   |   |   |       TECHNOLO.INF
+|   |   |   |   |       
+|   |   |   |   +---TIDEPOOL
+|   |   |   |   |       TIDEPOOL.ELM
+|   |   |   |   |       TIDEPOOL.INF
+|   |   |   |   |       
+|   |   |   |   +---TILT
+|   |   |   |   |       TILT.ELM
+|   |   |   |   |       TILT.INF
+|   |   |   |   |       
+|   |   |   |   +---TOPO
+|   |   |   |   |       TOPO.ELM
+|   |   |   |   |       TOPO.INF
+|   |   |   |   |       
+|   |   |   |   +---TRAVEL
+|   |   |   |   |       TRAVEL.ELM
+|   |   |   |   |       TRAVEL.INF
+|   |   |   |   |       
+|   |   |   |   +---TVTOONS
+|   |   |   |   |       TVTOONS.ELM
+|   |   |   |   |       TVTOONS.INF
+|   |   |   |   |       
+|   |   |   |   +---WAVES
+|   |   |   |   |       WAVES.ELM
+|   |   |   |   |       WAVES.INF
+|   |   |   |   |       
+|   |   |   |   +---WILLOW
+|   |   |   |   |       WILLOW.ELM
+|   |   |   |   |       WILLOW.INF
+|   |   |   |   |       
+|   |   |   |   \---ZERO
+|   |   |   |           ZERO.ELM
+|   |   |   |           ZERO.INF
+|   |   |   |           
+|   |   |   +---TRIEDIT
+|   |   |   |       DTCRT.DLL
+|   |   |   |       
+|   |   |   +---VBA
+|   |   |   |   \---VBA6
+|   |   |   |       |   VBACV10.DLL
+|   |   |   |       |   VBACV10D.DLL
+|   |   |   |       |   VBACV20.DLL
+|   |   |   |       |   VBE6.DLL
+|   |   |   |       |   VBE6EXT.OLB
+|   |   |   |       |   
+|   |   |   |       \---1028
+|   |   |   |               FM20.CHM
+|   |   |   |               VBCN6.CHM
+|   |   |   |               VBE6INTL.DLL
+|   |   |   |               VBENDF98.CHM
+|   |   |   |               VBHW6.CHM
+|   |   |   |               VBLR6.CHM
+|   |   |   |               VBOB6.CHM
+|   |   |   |               VBUI6.CHM
+|   |   |   |               
+|   |   |   +---VGX
+|   |   |   |       VGX.DLL
+|   |   |   |       
+|   |   |   +---VS98
+|   |   |   |   |   VSHELP.DLL
+|   |   |   |   |   
+|   |   |   |   \---RESOURCE
+|   |   |   |       \---1028
+|   |   |   |               VSHELPUI.DLL
+|   |   |   |               
+|   |   |   +---WEBFLDRS
+|   |   |   |       MSONSEXT.DLL
+|   |   |   |       MSOWS404.DLL
+|   |   |   |       MSOWS409.DLL
+|   |   |   |       RAGENT.DLL
+|   |   |   |       
+|   |   |   \---WEBSRVEX
+|   |   |       +---40
+|   |   |       |   +---ADMCGI
+|   |   |       |   |   |   CHECK.HTM
+|   |   |       |   |   |   CONTENTS.HTM
+|   |   |       |   |   |   DELSBWEB.HTM
+|   |   |       |   |   |   DIREXE.HTM
+|   |   |       |   |   |   DIRNOEXE.HTM
+|   |   |       |   |   |   DISABLE.HTM
+|   |   |       |   |   |   ENABLE.HTM
+|   |   |       |   |   |   FOOTER.HTM
+|   |   |       |   |   |   FPADMIN.HTM
+|   |   |       |   |   |   FPBANNER.HTM
+|   |   |       |   |   |   FPCREATE.GIF
+|   |   |       |   |   |   IPADDR.HTM
+|   |   |       |   |   |   NEWSBWEB.HTM
+|   |   |       |   |   |   NEWSRVR.HTM
+|   |   |       |   |   |   PERMS.HTM
+|   |   |       |   |   |   RECALC.HTM
+|   |   |       |   |   |   RENSBWEB.HTM
+|   |   |       |   |   |   TOPLEFT.GIF
+|   |   |       |   |   |   TOPRIGHT.GIF
+|   |   |       |   |   |   UNINSTAL.HTM
+|   |   |       |   |   |   
+|   |   |       |   |   \---SCRIPTS
+|   |   |       |   |           FPADMCGI.EXE
+|   |   |       |   |           
+|   |   |       |   +---ADMISAPI
+|   |   |       |   |   |   CHECK.HTM
+|   |   |       |   |   |   CONTENTS.HTM
+|   |   |       |   |   |   DELSBWEB.HTM
+|   |   |       |   |   |   DIREXE.HTM
+|   |   |       |   |   |   DIRNOEXE.HTM
+|   |   |       |   |   |   DISABLE.HTM
+|   |   |       |   |   |   ENABLE.HTM
+|   |   |       |   |   |   FOOTER.HTM
+|   |   |       |   |   |   FPADMIN.HTM
+|   |   |       |   |   |   FPBANNER.HTM
+|   |   |       |   |   |   FPCREATE.GIF
+|   |   |       |   |   |   IPADDR.HTM
+|   |   |       |   |   |   NEWSBWEB.HTM
+|   |   |       |   |   |   NEWSRVR.HTM
+|   |   |       |   |   |   PERMS.HTM
+|   |   |       |   |   |   RECALC.HTM
+|   |   |       |   |   |   RENSBWEB.HTM
+|   |   |       |   |   |   TOPLEFT.GIF
+|   |   |       |   |   |   TOPRIGHT.GIF
+|   |   |       |   |   |   UNINSTAL.HTM
+|   |   |       |   |   |   
+|   |   |       |   |   \---SCRIPTS
+|   |   |       |   |           FPADMDLL.DLL
+|   |   |       |   |           
+|   |   |       |   +---BIN
+|   |   |       |   |   |   CFGWIZ.EXE
+|   |   |       |   |   |   FP4ANWI.DLL
+|   |   |       |   |   |   FP4AREG.DLL
+|   |   |       |   |   |   FP4ATXT.DLL
+|   |   |       |   |   |   FP4AUTL.DLL
+|   |   |       |   |   |   FP4AVSS.DLL
+|   |   |       |   |   |   FP4AWEC.DLL
+|   |   |       |   |   |   FP4AWEL.DLL
+|   |   |       |   |   |   FPENCODE.DLL
+|   |   |       |   |   |   FPEXEDLL.DLL
+|   |   |       |   |   |   FPMMC.DLL
+|   |   |       |   |   |   FPMMC.MSC
+|   |   |       |   |   |   FPREMADM.EXE
+|   |   |       |   |   |   FPSERVER.EXE
+|   |   |       |   |   |   FPSREAD9.TXT
+|   |   |       |   |   |   FPSRVADM.EXE
+|   |   |       |   |   |   HTIMAGE.EXE
+|   |   |       |   |   |   IMAGEMAP.EXE
+|   |   |       |   |   |   POSTINFO.HTM
+|   |   |       |   |   |   TCPTEST.EXE
+|   |   |       |   |   |   _VTI_INF.HTM
+|   |   |       |   |   |   
+|   |   |       |   |   \---1028
+|   |   |       |   |           FPEXT.MSG
+|   |   |       |   |           FPMMC.CHM
+|   |   |       |   |           FPMMCGLO.HLP
+|   |   |       |   |           FPMMCSAT.DLL
+|   |   |       |   |           NORTBOTS.HTM
+|   |   |       |   |           TCPTSAT.DLL
+|   |   |       |   |           
+|   |   |       |   +---BOTS
+|   |   |       |   |   \---VINAVBAR
+|   |   |       |   |           FP4AVNB.DLL
+|   |   |       |   |           VINAVBAR.BTL
+|   |   |       |   |           VINAVBAR.INF
+|   |   |       |   |           
+|   |   |       |   +---ISAPI
+|   |   |       |   |   |   FPCOUNT.EXE
+|   |   |       |   |   |   SHTML.DLL
+|   |   |       |   |   |   
+|   |   |       |   |   +---_VTI_ADM
+|   |   |       |   |   |       ADMIN.DLL
+|   |   |       |   |   |       
+|   |   |       |   |   \---_VTI_AUT
+|   |   |       |   |           AUTHOR.DLL
+|   |   |       |   |           
+|   |   |       |   +---SERK
+|   |   |       |   |   \---1028
+|   |   |       |   |           001.GIF
+|   |   |       |   |           1PTRANS.GIF
+|   |   |       |   |           ADADV.HTM
+|   |   |       |   |           ADADV_1.HTM
+|   |   |       |   |           ADADV_2.HTM
+|   |   |       |   |           ADADV_3.HTM
+|   |   |       |   |           ADADV_4.HTM
+|   |   |       |   |           ADADV_5.HTM
+|   |   |       |   |           ADADV_6.HTM
+|   |   |       |   |           ADADV_7.HTM
+|   |   |       |   |           ADADV_8.HTM
+|   |   |       |   |           ADADV_9.HTM
+|   |   |       |   |           ADFPRE.HTM
+|   |   |       |   |           ADFPRE01.GIF
+|   |   |       |   |           ADFPRE02.GIF
+|   |   |       |   |           ADFPRE_1.HTM
+|   |   |       |   |           ADFPRE_2.HTM
+|   |   |       |   |           ADFPRE_3.HTM
+|   |   |       |   |           ADFPRE_4.HTM
+|   |   |       |   |           ADFPRE_5.HTM
+|   |   |       |   |           ADFPRE_6.HTM
+|   |   |       |   |           ADFPRE_7.HTM
+|   |   |       |   |           ADFPSR.HTM
+|   |   |       |   |           ADFPSR_1.HTM
+|   |   |       |   |           ADFPSR_2.HTM
+|   |   |       |   |           ADFPSR_3.HTM
+|   |   |       |   |           ADHTM.HTM
+|   |   |       |   |           ADHTM_1.HTM
+|   |   |       |   |           ADHTM_2.HTM
+|   |   |       |   |           ADMART.GIF
+|   |   |       |   |           ADMMC.HTM
+|   |   |       |   |           ADMMC_1.HTM
+|   |   |       |   |           ADMMC_2.HTM
+|   |   |       |   |           ADMMC_3.HTM
+|   |   |       |   |           ADMMC_4.HTM
+|   |   |       |   |           ADMMC_5.HTM
+|   |   |       |   |           ADMMC_6.HTM
+|   |   |       |   |           ADOVIEW.HTM
+|   |   |       |   |           APNDX00.HTM
+|   |   |       |   |           APNDX01.HTM
+|   |   |       |   |           APNDX02.HTM
+|   |   |       |   |           APNDX03.HTM
+|   |   |       |   |           APNDX04.HTM
+|   |   |       |   |           APNDX05.HTM
+|   |   |       |   |           APNDXTOC.HTM
+|   |   |       |   |           AXRPC.HTM
+|   |   |       |   |           BACK.GIF
+|   |   |       |   |           BULLET.GIF
+|   |   |       |   |           CNRAT_1.GIF
+|   |   |       |   |           CNRAT_2.GIF
+|   |   |       |   |           CPYRIGHT.HTM
+|   |   |       |   |           DEFAULT.HTM
+|   |   |       |   |           DWNARROW.GIF
+|   |   |       |   |           HOME.GIF
+|   |   |       |   |           INCOMPAT.HTM
+|   |   |       |   |           ININTRO.HTM
+|   |   |       |   |           INUNIX.HTM
+|   |   |       |   |           INWINDOW.HTM
+|   |   |       |   |           MSFT.GIF
+|   |   |       |   |           NEXT.GIF
+|   |   |       |   |           NOTERULE.GIF
+|   |   |       |   |           OVARCHIT.HTM
+|   |   |       |   |           OVART.GIF
+|   |   |       |   |           OVFEAT01.GIF
+|   |   |       |   |           OVFEAT02.GIF
+|   |   |       |   |           OVFEAT03.GIF
+|   |   |       |   |           OVFEATUR.HTM
+|   |   |       |   |           OVPUBLIS.HTM
+|   |   |       |   |           OVSCENAR.HTM
+|   |   |       |   |           OVWHATAR.HTM
+|   |   |       |   |           OVWHATIS.HTM
+|   |   |       |   |           PREVIOUS.GIF
+|   |   |       |   |           R_YDOT.GIF
+|   |   |       |   |           SCINTRO.HTM
+|   |   |       |   |           SCUNI.HTM
+|   |   |       |   |           SCUNIX01.GIF
+|   |   |       |   |           SCUNI_1.HTM
+|   |   |       |   |           SCUNI_10.HTM
+|   |   |       |   |           SCUNI_2.HTM
+|   |   |       |   |           SCUNI_3.HTM
+|   |   |       |   |           SCUNI_4.HTM
+|   |   |       |   |           SCUNI_5.HTM
+|   |   |       |   |           SCUNI_6.HTM
+|   |   |       |   |           SCUNI_7.HTM
+|   |   |       |   |           SCUNI_8.HTM
+|   |   |       |   |           SCUNI_9.HTM
+|   |   |       |   |           SCWIN.HTM
+|   |   |       |   |           SCWIN_1.HTM
+|   |   |       |   |           SCWIN_2.HTM
+|   |   |       |   |           SCWIN_3.HTM
+|   |   |       |   |           SCWIN_4.HTM
+|   |   |       |   |           SCWIN_5.HTM
+|   |   |       |   |           SCWIN_6.HTM
+|   |   |       |   |           SCWIN_7.HTM
+|   |   |       |   |           SCWIN_8.HTM
+|   |   |       |   |           SCWIN_9.HTM
+|   |   |       |   |           SECART.GIF
+|   |   |       |   |           SERK.CSS
+|   |   |       |   |           SERKINDX.HTM
+|   |   |       |   |           SERKTOP.GIF
+|   |   |       |   |           SERKTOP.HTM
+|   |   |       |   |           SERKXTRA.GIF
+|   |   |       |   |           SERKXTRA.HTM
+|   |   |       |   |           SETART.GIF
+|   |   |       |   |           SPLASH.GIF
+|   |   |       |   |           TERMOFUS.GIF
+|   |   |       |   |           TOP.GIF
+|   |   |       |   |           
+|   |   |       |   +---SERVSUPP
+|   |   |       |   |       FP4AMSFT.DLL
+|   |   |       |   |       FP4ANSCP.DLL
+|   |   |       |   |       FP4APWS.DLL
+|   |   |       |   |       FP4AWEBS.DLL
+|   |   |       |   |       
+|   |   |       |   \---_VTI_BIN
+|   |   |       |       |   FPCOUNT.EXE
+|   |   |       |       |   SHTML.EXE
+|   |   |       |       |   
+|   |   |       |       +---_VTI_ADM
+|   |   |       |       |       ADMIN.EXE
+|   |   |       |       |       
+|   |   |       |       \---_VTI_AUT
+|   |   |       |               AUTHOR.EXE
+|   |   |       |               
+|   |   |       \---FPWEBS
+|   |   |           \---SERVER
+|   |   |               |   VHTTPD32.EXE
+|   |   |               |   
+|   |   |               +---CONF
+|   |   |               |       ACCESS.CNF
+|   |   |               |       HTTPD.CNF
+|   |   |               |       MIME.TYP
+|   |   |               |       SRM.CNF
+|   |   |               |       
+|   |   |               \---ICONS
+|   |   |                       BACK.GIF
+|   |   |                       BINARY.GIF
+|   |   |                       DBLANK.GIF
+|   |   |                       FTP.GIF
+|   |   |                       IMAGE.GIF
+|   |   |                       INDEX.GIF
+|   |   |                       MENU.GIF
+|   |   |                       MOVIE.GIF
+|   |   |                       SOUND.GIF
+|   |   |                       TELNET.GIF
+|   |   |                       TEXT.GIF
+|   |   |                       UNKNOWN.GIF
+|   |   |                       
+|   |   \---SYSTEM
+|   |       |   SNAPVIEW.OCX
+|   |       |   
+|   |       +---ADO
+|   |       |       ADO210.CHM
+|   |       |       ADOAPT15.REG
+|   |       |       ADOFRE15.REG
+|   |       |       ADOJAVAS.INC
+|   |       |       ADOMDRD.TXT
+|   |       |       ADOREADM.TXT
+|   |       |       ADOVBS.INC
+|   |       |       ADOXRDME.TXT
+|   |       |       JROREAD.TXT
+|   |       |       MAKAPT15.BAT
+|   |       |       MAKFRE15.BAT
+|   |       |       MSADER15.DLL
+|   |       |       MSADO15.DLL
+|   |       |       MSADO20.TLB
+|   |       |       MSADOMD.DLL
+|   |       |       MSADOR15.DLL
+|   |       |       MSADOX.DLL
+|   |       |       MSADRH15.DLL
+|   |       |       MSJRO.CHM
+|   |       |       MSJRO.DLL
+|   |       |       
+|   |       +---MAPI
+|   |       |   |   OUT128.DLL
+|   |       |   |   OUT40.EXE
+|   |       |   |   
+|   |       |   \---1028
+|   |       |       |   BJABLR32.DLL
+|   |       |       |   BJLOG32.DLL
+|   |       |       |   BJSRCH32.DLL
+|   |       |       |   CCMAB32.DLL
+|   |       |       |   CCMDLIST.EXE
+|   |       |       |   CCMSVC.CNT
+|   |       |       |   CCMSVC.HLP
+|   |       |       |   CCMXP32.DLL
+|   |       |       |   CNFNOT32.EXE
+|   |       |       |   CONTAB32.DLL
+|   |       |       |   CWIMPORT.EXE
+|   |       |       |   DUMPSTER.DLL
+|   |       |       |   EMABLT.HLP
+|   |       |       |   EMABLT32.DLL
+|   |       |       |   EMSABP32.DLL
+|   |       |       |   EMSMDB32.DLL
+|   |       |       |   EMSUI32.DLL
+|   |       |       |   ESCONF.DLL
+|   |       |       |   EXCHNG.HLP
+|   |       |       |   EXSEC32.DLL
+|   |       |       |   INETAB32.DLL
+|   |       |       |   MAPISVC.INF
+|   |       |       |   MAPIVM32.DLL
+|   |       |       |   MINET32.DLL
+|   |       |       |   MSFS.CNT
+|   |       |       |   MSFS.HLP
+|   |       |       |   OUTEX.DLL
+|   |       |       |   PSTPRX32.DLL
+|   |       |       |   SCRPTXTN.DLL
+|   |       |       |   
+|   |       |       +---95
+|   |       |       |       APPXEC32.DLL
+|   |       |       |       CDO.DLL
+|   |       |       |       CMC.DLL
+|   |       |       |       GAPI32.DLL
+|   |       |       |       MAPI32.DLL
+|   |       |       |       MAPISP32.EXE
+|   |       |       |       ML3XEC16.EXE
+|   |       |       |       MLCFG32.CPL
+|   |       |       |       MMFMIG32.DLL
+|   |       |       |       MSFS32.DLL
+|   |       |       |       MSMAPI32.DLL
+|   |       |       |       MSPST32.DLL
+|   |       |       |       NEWPROF.EXE
+|   |       |       |       OMI9.DLL
+|   |       |       |       OMIPST9.DLL
+|   |       |       |       SCANPST.EXE
+|   |       |       |       SCANPST.HLP
+|   |       |       |       
+|   |       |       \---NT
+|   |       |               APPXEC32.DLL
+|   |       |               CDO.DLL
+|   |       |               CMC.DLL
+|   |       |               GAPI32.DLL
+|   |       |               MAPI32.DLL
+|   |       |               MAPISP32.EXE
+|   |       |               ML3XEC16.EXE
+|   |       |               MLCFG32.CPL
+|   |       |               MMFMIG32.DLL
+|   |       |               MSFS32.DLL
+|   |       |               MSMAPI32.DLL
+|   |       |               MSPST32.DLL
+|   |       |               NEWPROF.EXE
+|   |       |               OMINT.DLL
+|   |       |               OMIPSTNT.DLL
+|   |       |               SCANPST.EXE
+|   |       |               SCANPST.HLP
+|   |       |               
+|   |       +---MSADC
+|   |       |       ADCJAVAS.INC
+|   |       |       ADCVBS.INC
+|   |       |       HANDSAFE.REG
+|   |       |       HANDUNSF.REG
+|   |       |       MSADCE.DLL
+|   |       |       MSADCER.DLL
+|   |       |       MSADCF.DLL
+|   |       |       MSADCFR.DLL
+|   |       |       MSADCO.DLL
+|   |       |       MSADCOR.DLL
+|   |       |       MSADCS.DLL
+|   |       |       MSADDS.DLL
+|   |       |       MSADDSR.DLL
+|   |       |       MSDAPRSR.DLL
+|   |       |       MSDAPRST.DLL
+|   |       |       MSDAREM.DLL
+|   |       |       MSDAREMR.DLL
+|   |       |       MSDFMAP.DLL
+|   |       |       
+|   |       \---OLEDB
+|   |               MSDADC.DLL
+|   |               MSDAENUM.DLL
+|   |               MSDAER.DLL
+|   |               MSDAIPP.DLL
+|   |               MSDAORA.DLL
+|   |               MSDAOSP.DLL
+|   |               MSDAPML.DLL
+|   |               MSDAPS.DLL
+|   |               MSDASC.CNT
+|   |               MSDASC.DLL
+|   |               MSDASC.HLP
+|   |               MSDASC.TXT
+|   |               MSDASQL.DLL
+|   |               MSDASQLR.DLL
+|   |               MSDATL2.DLL
+|   |               MSDATT.DLL
+|   |               MSDAURL.DLL
+|   |               MSDSQLRM.TXT
+|   |               MSMDCUBE.DLL
+|   |               MSMDGDRV.DLL
+|   |               MSMDINT.DLL
+|   |               MSOLAP.DLL
+|   |               MSOLAPR.DLL
+|   |               MSOLAPSL.DLL
+|   |               MSOLAPUI.DLL
+|   |               MSORCOLR.TXT
+|   |               MSXACTPS.DLL
+|   |               OLEDB32.DLL
+|   |               OLEDB32R.DLL
+|   |               OLEDB32X.DLL
+|   |               SQLOLEDB.DLL
+|   |               
+|   +---FP98
+|   |   \---VER3
+|   |       \---BIN
+|   |               FP98SADM.EXE
+|   |               FP98SWIN.EXE
+|   |               FPSRVADM.EXE
+|   |               FPSRVWIN.EXE
+|   |               
+|   +---MSOFFICE
+|   |   +---OFFICE
+|   |   |   |   ACCESS.PIP
+|   |   |   |   ACCWIZ.DLL
+|   |   |   |   ACREAD9.TXT
+|   |   |   |   ACWZDAT.MDT
+|   |   |   |   ACWZUSR.MDT
+|   |   |   |   ASFCHOP.OCX
+|   |   |   |   AW.DLL
+|   |   |   |   BDREC.DLL
+|   |   |   |   BIDI32.DLL
+|   |   |   |   BINDER.EXE
+|   |   |   |   BLNMGR.DLL
+|   |   |   |   BLNMGRPS.DLL
+|   |   |   |   CGMIMP32.HLP
+|   |   |   |   CLIPPIT.ACG
+|   |   |   |   CLIPPIT.ACS
+|   |   |   |   CONVTEXT.EXE
+|   |   |   |   CSS.DLL
+|   |   |   |   DATCRT.EXE
+|   |   |   |   DATCRT.PIF
+|   |   |   |   DATZAP32.DLL
+|   |   |   |   DLGCANCL.EXE
+|   |   |   |   DLGSETP.DLL
+|   |   |   |   DOLPHIN.ACG
+|   |   |   |   DOLPHIN.ACS
+|   |   |   |   DOT.ACG
+|   |   |   |   DOT.ACS
+|   |   |   |   ENVELOPE.DLL
+|   |   |   |   EXCEL.EXE
+|   |   |   |   EXCEL.PIP
+|   |   |   |   EXCEL.TUW
+|   |   |   |   EXCEL9.OLB
+|   |   |   |   F1.ACG
+|   |   |   |   F1.ACS
+|   |   |   |   FILTERS.TXT
+|   |   |   |   FINDER.EXE
+|   |   |   |   FINDFAST.EXE
+|   |   |   |   FP.PIP
+|   |   |   |   FPCUTL.DLL
+|   |   |   |   FPDB.DLL
+|   |   |   |   FPEDITAX.DLL
+|   |   |   |   FPREAD9.TXT
+|   |   |   |   FRONTPG.EXE
+|   |   |   |   GENIUS.ACG
+|   |   |   |   GENIUS.ACS
+|   |   |   |   GRAPH9.EXE
+|   |   |   |   GRAPH9.HLP
+|   |   |   |   GRAPH9.OLB
+|   |   |   |   GRCHT50.OLB
+|   |   |   |   GREN50.OLB
+|   |   |   |   HLP95EN.DLL
+|   |   |   |   IMPMAIL.DLL
+|   |   |   |   INTLBAND.HTM
+|   |   |   |   INTLDATE.DLL
+|   |   |   |   LFBMP90N.DLL
+|   |   |   |   LFCMP90N.DLL
+|   |   |   |   LFEPS90N.DLL
+|   |   |   |   LFFAX90N.DLL
+|   |   |   |   LFGIF90N.DLL
+|   |   |   |   LFMSP90N.DLL
+|   |   |   |   LFPCD90N.DLL
+|   |   |   |   LFPCX90N.DLL
+|   |   |   |   LFPNG90N.DLL
+|   |   |   |   LFRAS90N.DLL
+|   |   |   |   LFTGA90N.DLL
+|   |   |   |   LFTIF90N.DLL
+|   |   |   |   LFWMF90N.DLL
+|   |   |   |   LOGO.ACG
+|   |   |   |   LOGO.ACS
+|   |   |   |   LTDIS90N.DLL
+|   |   |   |   LTFIL90N.DLL
+|   |   |   |   LTIMG90N.DLL
+|   |   |   |   LTKRN90N.DLL
+|   |   |   |   LTTWN90N.DLL
+|   |   |   |   MAKECERT.EXE
+|   |   |   |   MDHELPER.DLL
+|   |   |   |   METRTXTW.DLL
+|   |   |   |   MEUEDIT.DLL
+|   |   |   |   MEUNICOD.DLL
+|   |   |   |   MIMEDIR.DLL
+|   |   |   |   MLSHEXT.DLL
+|   |   |   |   MNATURE.ACG
+|   |   |   |   MNATURE.ACS
+|   |   |   |   MSACC9.OLB
+|   |   |   |   MSACCESS.EXE
+|   |   |   |   MSACCESS.TUW
+|   |   |   |   MSACNV30.DLL
+|   |   |   |   MSACNV30.EXE
+|   |   |   |   MSAEXP30.DLL
+|   |   |   |   MSBCODE9.CNT
+|   |   |   |   MSBCODE9.DEP
+|   |   |   |   MSBCODE9.HLP
+|   |   |   |   MSBCODE9.OCX
+|   |   |   |   MSBDR9.OLB
+|   |   |   |   MSCAL.CNT
+|   |   |   |   MSCAL.DEP
+|   |   |   |   MSCAL.HLP
+|   |   |   |   MSCAL.OCX
+|   |   |   |   MSCALCHT.TLB
+|   |   |   |   MSDETECT.DET
+|   |   |   |   MSDETECT.DLL
+|   |   |   |   MSIMPORT.EXE
+|   |   |   |   MSO7FTP.EXE
+|   |   |   |   MSO7FTPA.EXE
+|   |   |   |   MSO7FTPS.EXE
+|   |   |   |   MSO9.DLL
+|   |   |   |   MSO97FX.DLL
+|   |   |   |   MSODRAA9.DLL
+|   |   |   |   MSOHEV.DLL
+|   |   |   |   MSOHTMED.EXE
+|   |   |   |   MSOTHUNK.DLL
+|   |   |   |   MSOUTL9.OLB
+|   |   |   |   MSOUTLO.PIP
+|   |   |   |   MSOVSE.DLL
+|   |   |   |   MSOWC.DLL
+|   |   |   |   MSOWCF.DLL
+|   |   |   |   MSOWCW.DLL
+|   |   |   |   MSOWIN98.DLL
+|   |   |   |   MSPPT9.OLB
+|   |   |   |   MSQRY32.EXE
+|   |   |   |   MSWORD9.OLB
+|   |   |   |   NSLITE.DLL
+|   |   |   |   NSLSVPS.DLL
+|   |   |   |   NSREX.EXE
+|   |   |   |   OCLEAN9.DLL
+|   |   |   |   OEMEULA.TXT
+|   |   |   |   OFFCAT.ACG
+|   |   |   |   OFFCAT.ACS
+|   |   |   |   OFFCLN9.EXE
+|   |   |   |   OFREAD9.TXT
+|   |   |   |   OLKFSTUB.DLL
+|   |   |   |   OLREAD9.TXT
+|   |   |   |   ORG10.TLB
+|   |   |   |   ORG11SVR.EXE
+|   |   |   |   ORG21.TLB
+|   |   |   |   ORG21SVR.EXE
+|   |   |   |   ORGAPI.DLL
+|   |   |   |   ORGCSW10.TLB
+|   |   |   |   OSA9.EXE
+|   |   |   |   OTUNEUP.EXE
+|   |   |   |   OUACTRL.OCX
+|   |   |   |   OUTLACCT.DLL
+|   |   |   |   OUTLAS9.DLL
+|   |   |   |   OUTLCTL.DLL
+|   |   |   |   OUTLLIB.DLL
+|   |   |   |   OUTLMIME.DLL
+|   |   |   |   OUTLOOK.EXE
+|   |   |   |   OUTLOOK.TUW
+|   |   |   |   OUTLRPC.DLL
+|   |   |   |   OUTLVBS.DLL
+|   |   |   |   OWS.DLL
+|   |   |   |   OWSDSC.DLL
+|   |   |   |   PACKNGO.DLL
+|   |   |   |   PDIGRAPH.DLL
+|   |   |   |   PNGSETUP.EX_
+|   |   |   |   POWERPNT.EXE
+|   |   |   |   POWERPNT.TUW
+|   |   |   |   POWERPOI.PIP
+|   |   |   |   PPREAD9.TXT
+|   |   |   |   PPTNSREX.DLL
+|   |   |   |   PPTTOOLS.PPA
+|   |   |   |   PRJWIZ16.DLL
+|   |   |   |   PROTLL32.DLL
+|   |   |   |   RECALL.DLL
+|   |   |   |   REFEDIT.DLL
+|   |   |   |   REMINDER.WAV
+|   |   |   |   REXPROXY.EXE
+|   |   |   |   ROCKY.ACG
+|   |   |   |   ROCKY.ACS
+|   |   |   |   RTFHTML.DLL
+|   |   |   |   RXCBPRXY.EXE
+|   |   |   |   SAEKO.ACG
+|   |   |   |   SAEKO.ACS
+|   |   |   |   SELFCERT.EXE
+|   |   |   |   SELFREG.DLL
+|   |   |   |   SENDTO9.DLL
+|   |   |   |   SETLANG.EXE
+|   |   |   |   SIGNER.DLL
+|   |   |   |   SOA900.DLL
+|   |   |   |   SQLPARSE.DLL
+|   |   |   |   STARTWIZ.DLL
+|   |   |   |   SYSTEM.MDW
+|   |   |   |   TDLIR32.DLL
+|   |   |   |   TESTSND.MID
+|   |   |   |   UCSCRIBE.DLL
+|   |   |   |   VTIDISC.EXE
+|   |   |   |   VTIFORM.EXE
+|   |   |   |   VTIPRES.EXE
+|   |   |   |   WAVTOASF.EXE
+|   |   |   |   WDREAD9.TXT
+|   |   |   |   WEBPAGE.DLL
+|   |   |   |   WEBPAGE.WIZ
+|   |   |   |   WEBPUB.EXE
+|   |   |   |   WELCOME.MSG
+|   |   |   |   WINWORD.EXE
+|   |   |   |   WINWORD.TUW
+|   |   |   |   WORD.PIP
+|   |   |   |   WWPAB.CNV
+|   |   |   |   XL5CHT32.OLB
+|   |   |   |   XL5EN32.OLB
+|   |   |   |   XLCALL32.DLL
+|   |   |   |   XLREAD9.TXT
+|   |   |   |   
+|   |   |   +---1028
+|   |   |   |   |   ACADP9.CHM
+|   |   |   |   |   ACADPMN9.AW
+|   |   |   |   |   ACCORE9.AW
+|   |   |   |   |   ACJETCR9.AW
+|   |   |   |   |   ACJETMN9.AW
+|   |   |   |   |   ACJETVB9.AW
+|   |   |   |   |   ACMAIN9.AW
+|   |   |   |   |   ACMAIN9.CHM
+|   |   |   |   |   ACTIP9.HLP
+|   |   |   |   |   ACVBA9.AW
+|   |   |   |   |   ACWEB9.CHM
+|   |   |   |   |   ACWZLIB.MDE
+|   |   |   |   |   ACWZMAIN.MDE
+|   |   |   |   |   ACWZTOOL.MDE
+|   |   |   |   |   ADO210.AW
+|   |   |   |   |   AV41206.FMT
+|   |   |   |   |   AV41256.FMT
+|   |   |   |   |   AV41307.FMT
+|   |   |   |   |   AV41357.FMT
+|   |   |   |   |   AVL7901.FMT
+|   |   |   |   |   AVL7902.FMT
+|   |   |   |   |   BDRINTL.DLL
+|   |   |   |   |   BINDER9.AW
+|   |   |   |   |   BINDER9.CHM
+|   |   |   |   |   BINDER9.HLP
+|   |   |   |   |   COLORS.INF
+|   |   |   |   |   CUSTOMER.DBF
+|   |   |   |   |   DAA9INTL.DLL
+|   |   |   |   |   DAO360.AW
+|   |   |   |   |   DAY1.PRT
+|   |   |   |   |   DAY2.PRT
+|   |   |   |   |   DCCMODEM.DAT
+|   |   |   |   |   DCCRES32.DLL
+|   |   |   |   |   DCCUTILC.DLL
+|   |   |   |   |   DCCUTILI.DLL
+|   |   |   |   |   DYNO106.FMT
+|   |   |   |   |   EMAIL.DOT
+|   |   |   |   |   EMPLOYEE.DBF
+|   |   |   |   |   ENVELOPR.DLL
+|   |   |   |   |   FEEDBACK.HTM
+|   |   |   |   |   FILEDB.DLL
+|   |   |   |   |   FINDFAST.CNT
+|   |   |   |   |   FINDFAST.HLP
+|   |   |   |   |   FLDPB.INF
+|   |   |   |   |   FLDPUB.DLL
+|   |   |   |   |   FM20.AW
+|   |   |   |   |   FP2000.HLP
+|   |   |   |   |   FPATL.OCX
+|   |   |   |   |   FPBROWSE.HTM
+|   |   |   |   |   FPDBSAT.DLL
+|   |   |   |   |   FPEDSAT.DLL
+|   |   |   |   |   FPEXPSAT.DLL
+|   |   |   |   |   FPIMPSAT.DLL
+|   |   |   |   |   FPNETWRK.CNT
+|   |   |   |   |   FPNETWRK.HLP
+|   |   |   |   |   FPNWIND.MDB
+|   |   |   |   |   FPUTLSAT.DLL
+|   |   |   |   |   FRONTPG.AW
+|   |   |   |   |   FRONTPG.CHM
+|   |   |   |   |   FVFXS.DLL
+|   |   |   |   |   GR8GALRY.GRA
+|   |   |   |   |   GR9LEX.DLL
+|   |   |   |   |   GRAPH9.AW
+|   |   |   |   |   GRAPH9.CHM
+|   |   |   |   |   GRINTL32.DLL
+|   |   |   |   |   HTMMINTL.DLL
+|   |   |   |   |   HTMQINTL.DLL
+|   |   |   |   |   JETDEF40.CHM
+|   |   |   |   |   JETSQL40.CHM
+|   |   |   |   |   LICENSE.TXT
+|   |   |   |   |   LVREG.DLL
+|   |   |   |   |   MCE.CHM
+|   |   |   |   |   MIME32.DLL
+|   |   |   |   |   MONTH1.PRT
+|   |   |   |   |   MONTH2.PRT
+|   |   |   |   |   MSAIN900.DLL
+|   |   |   |   |   MSCAL32.DLL
+|   |   |   |   |   MSO.ACL
+|   |   |   |   |   MSO9INTL.DLL
+|   |   |   |   |   MSOFFICE.EXE
+|   |   |   |   |   MSOHELP.CHM
+|   |   |   |   |   MSOHELP.EXE
+|   |   |   |   |   MSOTW9.DLL
+|   |   |   |   |   MSOWC.SLL
+|   |   |   |   |   MSOWCDCH.CHM
+|   |   |   |   |   MSOWCDPL.CHM
+|   |   |   |   |   MSOWCDSS.CHM
+|   |   |   |   |   MSOWCFUN.AW
+|   |   |   |   |   MSOWCFUN.CHM
+|   |   |   |   |   MSOWCI.DLL
+|   |   |   |   |   MSOWCINI.DLL
+|   |   |   |   |   MSOWCRDP.CHM
+|   |   |   |   |   MSOWCRPL.CHM
+|   |   |   |   |   MSOWCRSS.CHM
+|   |   |   |   |   MSOWCVBA.CHM
+|   |   |   |   |   MSOWCWI.DLL
+|   |   |   |   |   MSQRY32.AW
+|   |   |   |   |   MSQRY32.CHM
+|   |   |   |   |   MSQRY32.HLP
+|   |   |   |   |   MSROUTE.DLL
+|   |   |   |   |   MSSCD32.DLL
+|   |   |   |   |   MSSPC32.DLL
+|   |   |   |   |   MSTRE32.DLL
+|   |   |   |   |   NFCLEAN.EXE
+|   |   |   |   |   NMCHAT.CHM
+|   |   |   |   |   NMPLACE.CHM
+|   |   |   |   |   NMWHITEB.CHM
+|   |   |   |   |   NORMAL.FMT
+|   |   |   |   |   OBALLOON.DLL
+|   |   |   |   |   OFFCLN9.OPC
+|   |   |   |   |   OFMAIN9.CHM
+|   |   |   |   |   OFTIP9.HLP
+|   |   |   |   |   OLFCOVER.DLL
+|   |   |   |   |   OLFEXT.DLL
+|   |   |   |   |   OLFEXT.HLP
+|   |   |   |   |   OLFEXT.INF
+|   |   |   |   |   OLFMOD32.EXE
+|   |   |   |   |   OLFSETUP.EXE
+|   |   |   |   |   OLFSNT40.EXE
+|   |   |   |   |   OLOCAL9.CHM
+|   |   |   |   |   OLOCAL9.HLP
+|   |   |   |   |   OLWEB9.CHM
+|   |   |   |   |   OLXCHNG9.AW
+|   |   |   |   |   OLXCHNG9.CHM
+|   |   |   |   |   OMI9.AW
+|   |   |   |   |   OMI9.CHM
+|   |   |   |   |   ORDERS.DBF
+|   |   |   |   |   OUTFORM.DAT
+|   |   |   |   |   OUTLBAR.INF
+|   |   |   |   |   OUTLHLP9.AW
+|   |   |   |   |   OUTLHLP9.CHM
+|   |   |   |   |   OUTLLIBR.DLL
+|   |   |   |   |   OUTLOOK.TXT
+|   |   |   |   |   OUTLTIMX.DLL
+|   |   |   |   |   OUTLTIP9.HLP
+|   |   |   |   |   OUTLWVW.DLL
+|   |   |   |   |   OVERVIEW.PPS
+|   |   |   |   |   OWSHLP.CHM
+|   |   |   |   |   OWSVBA.CHM
+|   |   |   |   |   PPINTL.DLL
+|   |   |   |   |   PPMAIN9.AW
+|   |   |   |   |   PPMAIN9.CHM
+|   |   |   |   |   PPTIP9.HLP
+|   |   |   |   |   PPTTOOLS.DLL
+|   |   |   |   |   PPWEB9.CHM
+|   |   |   |   |   PROJWIZ.EXE
+|   |   |   |   |   PUBPLACE.HTT
+|   |   |   |   |   QRYINT32.DLL
+|   |   |   |   |   REGLIB32.DLL
+|   |   |   |   |   RPLBRF35.CHM
+|   |   |   |   |   SCHDMAPI.DLL
+|   |   |   |   |   SCHDPL32.EXE
+|   |   |   |   |   THANKYOU.HTM
+|   |   |   |   |   TRIFOLD3.PRT
+|   |   |   |   |   UNBIND.DLL
+|   |   |   |   |   UTILITY.MDA
+|   |   |   |   |   VBABDR8.CNT
+|   |   |   |   |   VBABDR8.HLP
+|   |   |   |   |   VBAFP4.AW
+|   |   |   |   |   VBAFP4.CHM
+|   |   |   |   |   VBAFPOM4.CHM
+|   |   |   |   |   VBAGRP9.CHM
+|   |   |   |   |   VBAOFF9.AW
+|   |   |   |   |   VBAOFF9.CHM
+|   |   |   |   |   VBAOUTL9.AW
+|   |   |   |   |   VBAOUTL9.CHM
+|   |   |   |   |   VBAPPT9.AW
+|   |   |   |   |   VBAPPT9.CHM
+|   |   |   |   |   VBAWRD9.AW
+|   |   |   |   |   VBAWRD9.CHM
+|   |   |   |   |   VBAXL9.AW
+|   |   |   |   |   VBAXL9.CHM
+|   |   |   |   |   VEEN3.AW
+|   |   |   |   |   VTDSCSAT.DLL
+|   |   |   |   |   VTFORSAT.DLL
+|   |   |   |   |   VTPRESAT.DLL
+|   |   |   |   |   WDMAIN9.AW
+|   |   |   |   |   WDMAIN9.CHM
+|   |   |   |   |   WDTIP9.HLP
+|   |   |   |   |   WDWEB9.CHM
+|   |   |   |   |   WDWPH9.CHM
+|   |   |   |   |   WEBPINTL.DLL
+|   |   |   |   |   WEEK1.PRT
+|   |   |   |   |   WEEK2.PRT
+|   |   |   |   |   WEEK3.PRT
+|   |   |   |   |   WFQVW32.CNT
+|   |   |   |   |   WFQVW32.HLP
+|   |   |   |   |   WFXIIF32.DLL
+|   |   |   |   |   WFXMSRVR.EXE
+|   |   |   |   |   WFXRES32.DLL
+|   |   |   |   |   WFXRSTRZ.DLL
+|   |   |   |   |   WFXUT32I.DLL
+|   |   |   |   |   WFXVW32I.DLL
+|   |   |   |   |   WORKFUNC.AW
+|   |   |   |   |   WRKGADM.EXE
+|   |   |   |   |   WW9ASUM.DLL
+|   |   |   |   |   WW9INTL.DLL
+|   |   |   |   |   XL8GALRY.XLS
+|   |   |   |   |   XL9LEX.DLL
+|   |   |   |   |   XLADDIN.CHM
+|   |   |   |   |   XLEURO9.CHM
+|   |   |   |   |   XLINTL32.DLL
+|   |   |   |   |   XLMACRO.CHM
+|   |   |   |   |   XLMAIN9.AW
+|   |   |   |   |   XLMAIN9.CHM
+|   |   |   |   |   XLTIP9.HLP
+|   |   |   |   |   XLTMPL8.HLP
+|   |   |   |   |   XLWEB9.CHM
+|   |   |   |   |   
+|   |   |   |   +---OEM
+|   |   |   |   |       EULA9.CHM
+|   |   |   |   |       PSS9.CHM
+|   |   |   |   |       
+|   |   |   |   \---RETAIL
+|   |   |   |           EULA9.CHM
+|   |   |   |           PSS9.CHM
+|   |   |   |           
+|   |   |   +---1033
+|   |   |   |       MSO.ACL
+|   |   |   |       WW9ASUM.DLL
+|   |   |   |       
+|   |   |   +---ADDINS
+|   |   |   |       AWFEXT.ECF
+|   |   |   |       CCMXP.ECF
+|   |   |   |       DLGSETP.ECF
+|   |   |   |       DUMPSTER.ECF
+|   |   |   |       FAXEXT.ECF
+|   |   |   |       FLDPUB.ECF
+|   |   |   |       FRMRDRCT.DLL
+|   |   |   |       FRMRDRCT.ECF
+|   |   |   |       MAIL3.ECF
+|   |   |   |       MINET.ECF
+|   |   |   |       MSFSMENU.ECF
+|   |   |   |       MSFSPROP.ECF
+|   |   |   |       MSN.ECF
+|   |   |   |       MSSPC.ECF
+|   |   |   |       MTMOLMNU.ECF
+|   |   |   |       NMEXCHEX.ECF
+|   |   |   |       OLFEXT.ECF
+|   |   |   |       OLMENU.ECF
+|   |   |   |       OUTEX.ECF
+|   |   |   |       OUTEX2.ECF
+|   |   |   |       OUTLVBA.DLL
+|   |   |   |       PMAILEXT.ECF
+|   |   |   |       RWIZ1.ECF
+|   |   |   |       SCRPTXTN.ECF
+|   |   |   |       SYMINPUT.DLL
+|   |   |   |       TBLHEAD.DLL
+|   |   |   |       
+|   |   |   +---BITMAPS
+|   |   |   |   +---DBWIZ
+|   |   |   |   |       ASSETS.GIF
+|   |   |   |   |       CONTACTS.GIF
+|   |   |   |   |       EVTMGMT.GIF
+|   |   |   |   |       EXPENSES.GIF
+|   |   |   |   |       INVENTRY.GIF
+|   |   |   |   |       LEDGER.GIF
+|   |   |   |   |       ORDPROC.GIF
+|   |   |   |   |       RESOURCE.GIF
+|   |   |   |   |       SERVICE.GIF
+|   |   |   |   |       TIMEBILL.GIF
+|   |   |   |   |       
+|   |   |   |   \---STYLES
+|   |   |   |           ACBLENDS.GIF
+|   |   |   |           ACBLUPRT.GIF
+|   |   |   |           ACEXPDTN.GIF
+|   |   |   |           ACINDSTR.GIF
+|   |   |   |           ACRICEPR.GIF
+|   |   |   |           ACSNDSTN.GIF
+|   |   |   |           ACSUMIPT.GIF
+|   |   |   |           GLOBE.WMF
+|   |   |   |           STONE.BMP
+|   |   |   |           
+|   |   |   +---BORDERS
+|   |   |   |       MSART1.BDR
+|   |   |   |       MSART10.BDR
+|   |   |   |       MSART11.BDR
+|   |   |   |       MSART12.BDR
+|   |   |   |       MSART13.BDR
+|   |   |   |       MSART14.BDR
+|   |   |   |       MSART15.BDR
+|   |   |   |       MSART2.BDR
+|   |   |   |       MSART3.BDR
+|   |   |   |       MSART4.BDR
+|   |   |   |       MSART5.BDR
+|   |   |   |       MSART6.BDR
+|   |   |   |       MSART7.BDR
+|   |   |   |       MSART8.BDR
+|   |   |   |       MSART9.BDR
+|   |   |   |       
+|   |   |   +---BOTS
+|   |   |   |   \---FPCOUNT
+|   |   |   |           FPCNTCLT.BTL
+|   |   |   |           FPCNTCLT.DLL
+|   |   |   |           FPCOUNT.INF
+|   |   |   |           
+|   |   |   +---BROADCST
+|   |   |   |       AUDIO.ASD
+|   |   |   |       BLUELINE.GIF
+|   |   |   |       DEFAULT.HTM
+|   |   |   |       EVENT.HTM
+|   |   |   |       FEEDBACK.HTM
+|   |   |   |       LOBBY.HTM
+|   |   |   |       LOGO.GIF
+|   |   |   |       L_STATUS.HTM
+|   |   |   |       NSFRAME.HTM
+|   |   |   |       NSHELP.HTM
+|   |   |   |       NSNBG.GIF
+|   |   |   |       NSTEST.HTM
+|   |   |   |       NS_LOGO.GIF
+|   |   |   |       PRELOBBY.HTM
+|   |   |   |       SLIDEHLD.HTM
+|   |   |   |       STYLE.CSS
+|   |   |   |       VIDEO.ASD
+|   |   |   |       
+|   |   |   +---CONVERT
+|   |   |   |   |   ACT.SAM
+|   |   |   |   |   ACT3.SAM
+|   |   |   |   |   CCMARCH.DLL
+|   |   |   |   |   CCMARCH.INI
+|   |   |   |   |   DELIMDOS.FAE
+|   |   |   |   |   DELIMWIN.FAE
+|   |   |   |   |   DESKSAM.SAM
+|   |   |   |   |   ECCO.SAM
+|   |   |   |   |   ODBC.SAM
+|   |   |   |   |   OL.SAM
+|   |   |   |   |   OLADD.FAE
+|   |   |   |   |   OLAPPT.FAE
+|   |   |   |   |   OLJRNL.FAE
+|   |   |   |   |   OLMAIL.FAE
+|   |   |   |   |   OLNOTE.FAE
+|   |   |   |   |   OLTASK.FAE
+|   |   |   |   |   ORG11.SAM
+|   |   |   |   |   ORG21.SAM
+|   |   |   |   |   ORG97.SAM
+|   |   |   |   |   PAB.SAM
+|   |   |   |   |   RM.DLL
+|   |   |   |   |   SC2.SAM
+|   |   |   |   |   SCHPLUS.SAM
+|   |   |   |   |   SIDEKICK.SAM
+|   |   |   |   |   TRANSMGR.DLL
+|   |   |   |   |   
+|   |   |   |   \---1028
+|   |   |   |           DELIMR.FAE
+|   |   |   |           LOCALDV.DLL
+|   |   |   |           ODBCR.SAM
+|   |   |   |           OLADDR.FAE
+|   |   |   |           OLAPPTR.FAE
+|   |   |   |           OLJRNLR.FAE
+|   |   |   |           OLMAILR.FAE
+|   |   |   |           OLNOTER.FAE
+|   |   |   |           OLR.SAM
+|   |   |   |           OLTASKR.FAE
+|   |   |   |           ORG21R.SAM
+|   |   |   |           ORG97R.SAM
+|   |   |   |           PABR.SAM
+|   |   |   |           SC2R.SAM
+|   |   |   |           SCHPLUSR.SAM
+|   |   |   |           TRANSMRR.DLL
+|   |   |   |           
+|   |   |   +---COVER
+|   |   |   |   \---1028
+|   |   |   |           COVER1.CVP
+|   |   |   |           COVER2.CVP
+|   |   |   |           COVER3.CVP
+|   |   |   |           COVER4.CVP
+|   |   |   |           COVER5.CVP
+|   |   |   |           
+|   |   |   +---FORMS
+|   |   |   |   \---1028
+|   |   |   |           ACTIVITL.ICO
+|   |   |   |           ACTIVITS.ICO
+|   |   |   |           ACTIVITY.CFG
+|   |   |   |           APPT.CFG
+|   |   |   |           APPTL.ICO
+|   |   |   |           APPTS.ICO
+|   |   |   |           CFLICTL.ICO
+|   |   |   |           CFLICTS.ICO
+|   |   |   |           CNFNOT.CFG
+|   |   |   |           CNFNOT.ICO
+|   |   |   |           CNFRES.CFG
+|   |   |   |           CONFLICT.CFG
+|   |   |   |           CONFLICT.ICO
+|   |   |   |           CONTACT.CFG
+|   |   |   |           CONTACTL.ICO
+|   |   |   |           CONTACTS.ICO
+|   |   |   |           DISTLIST.CFG
+|   |   |   |           DISTLSTL.ICO
+|   |   |   |           DISTLSTS.ICO
+|   |   |   |           DOC.CFG
+|   |   |   |           DOCL.ICO
+|   |   |   |           DOCS.ICO
+|   |   |   |           EXITEM.CFG
+|   |   |   |           EXITEML.ICO
+|   |   |   |           EXITEMS.ICO
+|   |   |   |           FORML.ICO
+|   |   |   |           FORMS.ICO
+|   |   |   |           IPM.CFG
+|   |   |   |           IPML.ICO
+|   |   |   |           IPMS.ICO
+|   |   |   |           MULTIPLE.CFG
+|   |   |   |           NEWSUBSC.CFG
+|   |   |   |           NOTE.CFG
+|   |   |   |           NOTEL.ICO
+|   |   |   |           NOTES.ICO
+|   |   |   |           OOFL.ICO
+|   |   |   |           OOFS.ICO
+|   |   |   |           OOFTMPL.CFG
+|   |   |   |           POST.CFG
+|   |   |   |           POSTIT.CFG
+|   |   |   |           POSTITL.ICO
+|   |   |   |           POSTITS.ICO
+|   |   |   |           POSTL.ICO
+|   |   |   |           POSTS.ICO
+|   |   |   |           RCLRPT.CFG
+|   |   |   |           REC.CFG
+|   |   |   |           RECL.ICO
+|   |   |   |           RECS.ICO
+|   |   |   |           REGCFG.EXE
+|   |   |   |           REMOTE.CFG
+|   |   |   |           REMOTEL.ICO
+|   |   |   |           REMOTES.ICO
+|   |   |   |           REPLTMPL.CFG
+|   |   |   |           REPORT.CFG
+|   |   |   |           REPORTL.ICO
+|   |   |   |           REPORTS.ICO
+|   |   |   |           REQUEST.CFG
+|   |   |   |           RESEND.CFG
+|   |   |   |           RESENDL.ICO
+|   |   |   |           RESENDS.ICO
+|   |   |   |           SCDCNCLL.ICO
+|   |   |   |           SCDCNCLS.ICO
+|   |   |   |           SCDREQL.ICO
+|   |   |   |           SCDREQS.ICO
+|   |   |   |           SCDRESNL.ICO
+|   |   |   |           SCDRESNS.ICO
+|   |   |   |           SCDRESPL.ICO
+|   |   |   |           SCDRESPS.ICO
+|   |   |   |           SCDRESTL.ICO
+|   |   |   |           SCDRESTS.ICO
+|   |   |   |           SCHDCNCL.CFG
+|   |   |   |           SCHDREQ.CFG
+|   |   |   |           SCHDRESN.CFG
+|   |   |   |           SCHDRESP.CFG
+|   |   |   |           SCHDREST.CFG
+|   |   |   |           SECURE.CFG
+|   |   |   |           SECURL.ICO
+|   |   |   |           SECURS.ICO
+|   |   |   |           SIGN.CFG
+|   |   |   |           SIGNL.ICO
+|   |   |   |           SIGNS.ICO
+|   |   |   |           SMIMEE.CFG
+|   |   |   |           SMIMES.CFG
+|   |   |   |           SYNC.CFG
+|   |   |   |           TASK.CFG
+|   |   |   |           TASKACC.CFG
+|   |   |   |           TASKACCL.ICO
+|   |   |   |           TASKACCS.ICO
+|   |   |   |           TASKDEC.CFG
+|   |   |   |           TASKDECL.ICO
+|   |   |   |           TASKDECS.ICO
+|   |   |   |           TASKL.ICO
+|   |   |   |           TASKREQ.CFG
+|   |   |   |           TASKREQL.ICO
+|   |   |   |           TASKREQS.ICO
+|   |   |   |           TASKS.ICO
+|   |   |   |           TASKUPD.CFG
+|   |   |   |           UPDATE.CFG
+|   |   |   |           
+|   |   |   +---FPCLASS
+|   |   |   |       ANIMATE.JS
+|   |   |   |       FPDBLIB.INC
+|   |   |   |       FPDBRGN1.INC
+|   |   |   |       FPDBRGN2.INC
+|   |   |   |       FPHOVER.CLS
+|   |   |   |       FPHOVERX.CLS
+|   |   |   |       FPROTATE.CLS
+|   |   |   |       FPROTATX.CLS
+|   |   |   |       OUTLINE.JS
+|   |   |   |       
+|   |   |   +---HTML
+|   |   |   |       HTMLMARQ.OCX
+|   |   |   |       HTMLMM.OCX
+|   |   |   |       
+|   |   |   +---IMAGES
+|   |   |   |       UNDERCON.GIF
+|   |   |   |       
+|   |   |   +---LIBRARY
+|   |   |   |   |   ACCLINK.XLA
+|   |   |   |   |   AUTOSAVE.XLA
+|   |   |   |   |   COMMON.XLS
+|   |   |   |   |   EUROTOOL.XLA
+|   |   |   |   |   EXPDB.XLS
+|   |   |   |   |   HTML.XLA
+|   |   |   |   |   INVDB.XLS
+|   |   |   |   |   LOOKUP.XLA
+|   |   |   |   |   PODB.XLS
+|   |   |   |   |   REPORTS.XLA
+|   |   |   |   |   SUMIF.XLA
+|   |   |   |   |   TMPLTNUM.XLA
+|   |   |   |   |   UPDTLINK.XLA
+|   |   |   |   |   WZTEMPLT.XLA
+|   |   |   |   |   
+|   |   |   |   +---ANALYSIS
+|   |   |   |   |       ANALYS32.XLL
+|   |   |   |   |       ATPVBAEN.XLA
+|   |   |   |   |       ATPVBATC.XLA
+|   |   |   |   |       FUNCRES.XLA
+|   |   |   |   |       PROCDB.XLA
+|   |   |   |   |       
+|   |   |   |   +---MSQUERY
+|   |   |   |   |       XLODBC.XLA
+|   |   |   |   |       XLODBC32.DLL
+|   |   |   |   |       XLQUERY.XLA
+|   |   |   |   |       
+|   |   |   |   \---SOLVER
+|   |   |   |           SOLVER.XLA
+|   |   |   |           SOLVER32.DLL
+|   |   |   |           
+|   |   |   +---MACROS
+|   |   |   |       SUPPORT9.DOT
+|   |   |   |       
+|   |   |   +---QUERIES
+|   |   |   |       GETMORE.IQY
+|   |   |   |       MSICURR.IQY
+|   |   |   |       MSIIND.IQY
+|   |   |   |       MSIQUOTE.IQY
+|   |   |   |       
+|   |   |   +---SAMPLES
+|   |   |   |       ACADEF9.HLP
+|   |   |   |       ADDR9.CNT
+|   |   |   |       ADDR9.HLP
+|   |   |   |       ADDRBOOK.MDB
+|   |   |   |       ANASALES.HTM
+|   |   |   |       CAJBKGRN.GIF
+|   |   |   |       CAJLOGO.GIF
+|   |   |   |       CAJUN.HTM
+|   |   |   |       CONT9.CNT
+|   |   |   |       CONT9.HLP
+|   |   |   |       CONTACT.MDB
+|   |   |   |       FORBKGRN.GIF
+|   |   |   |       FORLOGO.GIF
+|   |   |   |       FORMAGGI.HTM
+|   |   |   |       INV9.CNT
+|   |   |   |       INV9.HLP
+|   |   |   |       INVENTRY.MDB
+|   |   |   |       JSCRIPT.HTM
+|   |   |   |       NWIND.MDB
+|   |   |   |       NWIND9.CNT
+|   |   |   |       NWIND9.HLP
+|   |   |   |       NWINDCS.ADP
+|   |   |   |       NWINDCS.SQL
+|   |   |   |       NWINDCS9.CNT
+|   |   |   |       NWINDCS9.HLP
+|   |   |   |       NWINDTEM.HTM
+|   |   |   |       NWLOGO.GIF
+|   |   |   |       PRODUCTS.DOC
+|   |   |   |       REVORD.HTM
+|   |   |   |       REVPROD.HTM
+|   |   |   |       SALES.HTM
+|   |   |   |       SAMPLES.XLS
+|   |   |   |       SOLVSAMP.XLS
+|   |   |   |       VBSCRIPT.HTM
+|   |   |   |       VIEWPROD.HTM
+|   |   |   |       WHATSNEW.GIF
+|   |   |   |       
+|   |   |   +---TUTORIAL
+|   |   |   |       2000.GIF
+|   |   |   |       2000BAN.GIF
+|   |   |   |       EVENTS.RTF
+|   |   |   |       FIREWKS1.JPG
+|   |   |   |       FIREWKS2.JPG
+|   |   |   |       FIREWKS3.JPG
+|   |   |   |       FIREWKS4.JPG
+|   |   |   |       FP2000.GIF
+|   |   |   |       JAPAN.GIF
+|   |   |   |       LONDON.GIF
+|   |   |   |       PARIS.GIF
+|   |   |   |       SANFRAN.GIF
+|   |   |   |       YEAR2000.TXT
+|   |   |   |       
+|   |   |   \---XLATORS
+|   |   |           FL21WIN.DLL
+|   |   |           MSO97V.DLL
+|   |   |           MSPPT8VR.OLB
+|   |   |           MSV7CHT.DLL
+|   |   |           PP4X322.DLL
+|   |   |           PP7TRANS.DLL
+|   |   |           PP7X32.DLL
+|   |   |           PPINTLV.DLL
+|   |   |           PPTVIEW.DLL
+|   |   |           PPVIEW32.EXE
+|   |   |           RAPPT.DLL
+|   |   |           
+|   |   +---STATION
+|   |   |   \---1028
+|   |   |           CURRENCY.GIF
+|   |   |           CURRENCY.HTM
+|   |   |           DADSHIRT.GIF
+|   |   |           DADSHIRT.HTM
+|   |   |           JUDGESCH.GIF
+|   |   |           JUDGESCH.HTM
+|   |   |           JUNGLE.GIF
+|   |   |           JUNGLE.HTM
+|   |   |           NOTEBOOK.HTM
+|   |   |           NOTEBOOK.JPG
+|   |   |           OFFISUPP.GIF
+|   |   |           OFFISUPP.HTM
+|   |   |           PAWPRINT.GIF
+|   |   |           PAWPRINT.HTM
+|   |   |           PINELUMB.HTM
+|   |   |           PINELUMB.JPG
+|   |   |           SEAMARBL.HTM
+|   |   |           SEAMARBL.JPG
+|   |   |           TECHTOOL.GIF
+|   |   |           TECHTOOL.HTM
+|   |   |           
+|   |   \---TEMPLATE
+|   |       +---1028
+|   |       |   |   5PERIOD.XLT
+|   |       |   |   ADDRESS.DOC
+|   |       |   |   ADDRESS.MDB
+|   |       |   |   ADDRESS.XLS
+|   |       |   |   ADVERTS.POT
+|   |       |   |   AGENDA.WIZ
+|   |       |   |   AP.XLT
+|   |       |   |   AR.XLT
+|   |       |   |   ASHOTKEY.DOT
+|   |       |   |   ASSETS.MDZ
+|   |       |   |   BADNWS_S.POT
+|   |       |   |   BIAOHUEI.XLT
+|   |       |   |   BILL.XLT
+|   |       |   |   BIRTHCRD.POT
+|   |       |   |   BRAIN_S.POT
+|   |       |   |   BROCHR_S.POT
+|   |       |   |   BROCHURE.DOT
+|   |       |   |   BUSPLN_S.POT
+|   |       |   |   CALENDAR.WIZ
+|   |       |   |   CARDDIY.POT
+|   |       |   |   CARDS.POT
+|   |       |   |   CASHFLOW.XLT
+|   |       |   |   CERTIF_S.POT
+|   |       |   |   CHINESE.POT
+|   |       |   |   CLCONWEB.HTM
+|   |       |   |   CLCONWI1.JPG
+|   |       |   |   CLCONWM.XML
+|   |       |   |   COHOME_S.POT
+|   |       |   |   COMTG_S.POT
+|   |       |   |   CONTACTS.MDZ
+|   |       |   |   CONTEST.POT
+|   |       |   |   CONTFAX.DOT
+|   |       |   |   CONTLTR.DOT
+|   |       |   |   CONTMEMO.DOT
+|   |       |   |   CONTREPO.DOT
+|   |       |   |   CONTRESU.DOT
+|   |       |   |   CONVERT9.WIZ
+|   |       |   |   CORINTRO.POT
+|   |       |   |   CROPMARK.DOT
+|   |       |   |   CUSTOMER.DOT
+|   |       |   |   CW5KEYS.DOT
+|   |       |   |   DCTFAC_S.POT
+|   |       |   |   DCTINT_S.POT
+|   |       |   |   DCTMAN_S.POT
+|   |       |   |   DCTMOT_S.POT
+|   |       |   |   DCTSEL_S.POT
+|   |       |   |   DCTTEC_S.POT
+|   |       |   |   DIRECTRY.DOT
+|   |       |   |   DIRECTSL.XLT
+|   |       |   |   ELEGFAX.DOT
+|   |       |   |   ELEGLTR.DOT
+|   |       |   |   ELEGMEMO.DOT
+|   |       |   |   ELEGREPO.DOT
+|   |       |   |   ELEGRESU.DOT
+|   |       |   |   ENVELOPE.WIZ
+|   |       |   |   ENVLP2.WIZ
+|   |       |   |   ETKEYS.DOT
+|   |       |   |   EVTMGMT.MDZ
+|   |       |   |   EXBUDGET.XLT
+|   |       |   |   EXPENSE.XLT
+|   |       |   |   EXPENSES.MDZ
+|   |       |   |   FAQSWEB.HTM
+|   |       |   |   FASSEST.DOT
+|   |       |   |   FAX.WIZ
+|   |       |   |   FILELIST.POT
+|   |       |   |   FILM.POT
+|   |       |   |   FINANC_S.POT
+|   |       |   |   FOODMENU.POT
+|   |       |   |   GENKO.WIZ
+|   |       |   |   GENRIC_S.POT
+|   |       |   |   GOV3_01.DOT
+|   |       |   |   GOV3_02.DOT
+|   |       |   |   GOV3_03.DOT
+|   |       |   |   GOV3_04.DOT
+|   |       |   |   GOV3_10.DOT
+|   |       |   |   GOV3_11.DOT
+|   |       |   |   GOVDOCS3.WIZ
+|   |       |   |   HRKSK_S.POT
+|   |       |   |   INTRO.POT
+|   |       |   |   INVENTRY.MDZ
+|   |       |   |   INVOICE.XLT
+|   |       |   |   JOBDESCP.DOT
+|   |       |   |   LABEL.WIZ
+|   |       |   |   LEDGER.MDZ
+|   |       |   |   LETTER.WIZ
+|   |       |   |   LFCOLWEB.HTM
+|   |       |   |   LFCOLWI1.JPG
+|   |       |   |   LFCOLWM.XML
+|   |       |   |   LOANCALC.XLT
+|   |       |   |   MAGAZINE.POT
+|   |       |   |   MAIL.OFT
+|   |       |   |   MANUAL.DOT
+|   |       |   |   MEMO.WIZ
+|   |       |   |   MKTPLN_S.POT
+|   |       |   |   MONTH.DOT
+|   |       |   |   NAMECARD.WIZ
+|   |       |   |   NAMELIST.WIZ
+|   |       |   |   NEWSUBSC.OFT
+|   |       |   |   NFCONF.OFT
+|   |       |   |   OATEMP01.DOT
+|   |       |   |   OATEMP02.DOT
+|   |       |   |   OATEMP03.DOT
+|   |       |   |   OATEMP04.DOT
+|   |       |   |   OATEMP05.DOT
+|   |       |   |   OATEMP06.DOT
+|   |       |   |   OATEMP07.DOT
+|   |       |   |   ONSALE.POT
+|   |       |   |   ORDPROC.MDZ
+|   |       |   |   ORIENT_S.POT
+|   |       |   |   PDGOAL.XLT
+|   |       |   |   PE2.DOT
+|   |       |   |   PERFORM.XLT
+|   |       |   |   PERSNNEL.DOT
+|   |       |   |   PHRASE.DOT
+|   |       |   |   PLACE.POT
+|   |       |   |   PLANNER.POT
+|   |       |   |   PRJOVR_S.POT
+|   |       |   |   PRODUCT.POT
+|   |       |   |   PROFFAX.DOT
+|   |       |   |   PROFLTR.DOT
+|   |       |   |   PROFMEMO.DOT
+|   |       |   |   PROFREPO.DOT
+|   |       |   |   PROFRESU.DOT
+|   |       |   |   PROPOSAL.POT
+|   |       |   |   PRSNLWEB.HTM
+|   |       |   |   PSTMRT_S.POT
+|   |       |   |   PURORDER.XLT
+|   |       |   |   QUOTE.DOT
+|   |       |   |   REPORT.POT
+|   |       |   |   RESOURCE.MDZ
+|   |       |   |   RESUME.POT
+|   |       |   |   RESUME.WIZ
+|   |       |   |   RTCOLWEB.HTM
+|   |       |   |   RTCOLWI1.JPG
+|   |       |   |   RTCOLWM.XML
+|   |       |   |   SALESFC.XLT
+|   |       |   |   SCHEDULE.POT
+|   |       |   |   SELL_S.POT
+|   |       |   |   SERVICE.MDZ
+|   |       |   |   SHOW.POT
+|   |       |   |   SIMPLWEB.HTM
+|   |       |   |   SPORT.POT
+|   |       |   |   STATUS_S.POT
+|   |       |   |   STRATG_S.POT
+|   |       |   |   SURVEY.POT
+|   |       |   |   TEST.POT
+|   |       |   |   THESIS.DOT
+|   |       |   |   THESIS.POT
+|   |       |   |   TIMEBILL.MDZ
+|   |       |   |   TOCWEB.HTM
+|   |       |   |   TRAIN_S.POT
+|   |       |   |   TRAVEL.POT
+|   |       |   |   TRNAPP.DOT
+|   |       |   |   TRNMAIL.DOT
+|   |       |   |   WEDDING.POT
+|   |       |   |   WEEK.DOT
+|   |       |   |   
+|   |       |   +---CSS
+|   |       |   |   +---ARCS_T
+|   |       |   |   |       ARCS.CSS
+|   |       |   |   |       ARCS.INF
+|   |       |   |   |       
+|   |       |   |   +---BARS_T
+|   |       |   |   |       BARS.CSS
+|   |       |   |   |       BARS.INF
+|   |       |   |   |       
+|   |       |   |   +---BLOCKS_T
+|   |       |   |   |       BLOCKS.CSS
+|   |       |   |   |       BLOCKS.INF
+|   |       |   |   |       
+|   |       |   |   +---BLUEPR_T
+|   |       |   |   |       BLUEPRNT.CSS
+|   |       |   |   |       BLUEPRNT.INF
+|   |       |   |   |       
+|   |       |   |   +---CAPSUL_T
+|   |       |   |   |       CAPSULES.CSS
+|   |       |   |   |       CAPSULES.INF
+|   |       |   |   |       
+|   |       |   |   +---DOWNTO_T
+|   |       |   |   |       DOWNTOWN.CSS
+|   |       |   |   |       DOWNTOWN.INF
+|   |       |   |   |       
+|   |       |   |   +---EXPEDI_T
+|   |       |   |   |       EXPEDITN.CSS
+|   |       |   |   |       EXPEDITN.INF
+|   |       |   |   |       
+|   |       |   |   +---HIGHWA_T
+|   |       |   |   |       HIGHWAY.CSS
+|   |       |   |   |       HIGHWAY.INF
+|   |       |   |   |       
+|   |       |   |   +---NEON_T
+|   |       |   |   |       NEON.CSS
+|   |       |   |   |       NEON.INF
+|   |       |   |   |       
+|   |       |   |   +---NORMAL_T
+|   |       |   |   |       NORMAL.CSS
+|   |       |   |   |       NORMAL.DIB
+|   |       |   |   |       NORMAL.INF
+|   |       |   |   |       
+|   |       |   |   +---POETIC_T
+|   |       |   |   |       POETIC.CSS
+|   |       |   |   |       POETIC.INF
+|   |       |   |   |       
+|   |       |   |   +---STREET_T
+|   |       |   |   |       STREET.CSS
+|   |       |   |   |       STREET.INF
+|   |       |   |   |       
+|   |       |   |   \---SWEETS_T
+|   |       |   |           SWEETS.CSS
+|   |       |   |           SWEETS.INF
+|   |       |   |           
+|   |       |   +---FRAMES
+|   |       |   |   +---BANTOC_T
+|   |       |   |   |       BANTOC.HTM
+|   |       |   |   |       BANTOC.INF
+|   |       |   |   |       
+|   |       |   |   +---FOOTER_T
+|   |       |   |   |       FOOTER.HTM
+|   |       |   |   |       FOOTER.INF
+|   |       |   |   |       
+|   |       |   |   +---FOOTNO_T
+|   |       |   |   |       FOOTNOTE.HTM
+|   |       |   |   |       FOOTNOTE.INF
+|   |       |   |   |       
+|   |       |   |   +---HEADER_T
+|   |       |   |   |       HEADER.HTM
+|   |       |   |   |       HEADER.INF
+|   |       |   |   |       
+|   |       |   |   +---HORZSP_T
+|   |       |   |   |       HORZSPLT.HTM
+|   |       |   |   |       HORZSPLT.INF
+|   |       |   |   |       
+|   |       |   |   +---NAVWTO_T
+|   |       |   |   |       NAVWTOC.HTM
+|   |       |   |   |       NAVWTOC.INF
+|   |       |   |   |       
+|   |       |   |   +---THREEL_T
+|   |       |   |   |       THREELEV.HTM
+|   |       |   |   |       THREELEV.INF
+|   |       |   |   |       
+|   |       |   |   +---TOC_T
+|   |       |   |   |       TOC.HTM
+|   |       |   |   |       TOC.INF
+|   |       |   |   |       
+|   |       |   |   +---TOPDOW_T
+|   |       |   |   |       TOPDOWN.HTM
+|   |       |   |   |       TOPDOWN.INF
+|   |       |   |   |       
+|   |       |   |   \---VERTSP_T
+|   |       |   |           VERTSPLT.HTM
+|   |       |   |           VERTSPLT.INF
+|   |       |   |           
+|   |       |   +---PAGES
+|   |       |   |   +---1CENTE_T
+|   |       |   |   |       1CENTER.DIB
+|   |       |   |   |       1CENTER.HTM
+|   |       |   |   |       1CENTER.INF
+|   |       |   |   |       
+|   |       |   |   +---1CHEAD_T
+|   |       |   |   |       1CHEADS.DIB
+|   |       |   |   |       1CHEADS.HTM
+|   |       |   |   |       1CHEADS.INF
+|   |       |   |   |       
+|   |       |   |   +---1CLEFT_T
+|   |       |   |   |       1CLEFT.DIB
+|   |       |   |   |       1CLEFT.HTM
+|   |       |   |   |       1CLEFT.INF
+|   |       |   |   |       EARTH.JPG
+|   |       |   |   |       
+|   |       |   |   +---1CRIGH_T
+|   |       |   |   |       1CRIGHT.DIB
+|   |       |   |   |       1CRIGHT.HTM
+|   |       |   |   |       1CRIGHT.INF
+|   |       |   |   |       FIREWORK.JPG
+|   |       |   |   |       
+|   |       |   |   +---2CEVEN_T
+|   |       |   |   |       2CEVEN.DIB
+|   |       |   |   |       2CEVEN.HTM
+|   |       |   |   |       2CEVEN.INF
+|   |       |   |   |       
+|   |       |   |   +---2CMENL_T
+|   |       |   |   |       2CMENUL.DIB
+|   |       |   |   |       2CMENUL.HTM
+|   |       |   |   |       2CMENUL.INF
+|   |       |   |   |       FISH.JPG
+|   |       |   |   |       
+|   |       |   |   +---2CMENR_T
+|   |       |   |   |       2CMENUR.DIB
+|   |       |   |   |       2CMENUR.HTM
+|   |       |   |   |       2CMENUR.INF
+|   |       |   |   |       CAKE.JPG
+|   |       |   |   |       
+|   |       |   |   +---2CSTAG_T
+|   |       |   |   |       2CSTAGR.DIB
+|   |       |   |   |       2CSTAGR.HTM
+|   |       |   |   |       2CSTAGR.INF
+|   |       |   |   |       CRANE.JPG
+|   |       |   |   |       EARTH2.JPG
+|   |       |   |   |       FISH.JPG
+|   |       |   |   |       LEOPARD.JPG
+|   |       |   |   |       
+|   |       |   |   +---3C2STA_T
+|   |       |   |   |       3C2STAGL.DIB
+|   |       |   |   |       3C2STAGL.HTM
+|   |       |   |   |       3C2STAGL.INF
+|   |       |   |   |       CAKE.JPG
+|   |       |   |   |       
+|   |       |   |   +---3CEVEN_T
+|   |       |   |   |       3CEVEN.DIB
+|   |       |   |   |       3CEVEN.HTM
+|   |       |   |   |       3CEVEN.INF
+|   |       |   |   |       
+|   |       |   |   +---3CMENC_T
+|   |       |   |   |       3CMENUC.DIB
+|   |       |   |   |       3CMENUC.HTM
+|   |       |   |   |       3CMENUC.INF
+|   |       |   |   |       SUNFLOWR.JPG
+|   |       |   |   |       
+|   |       |   |   +---3CMENL_T
+|   |       |   |   |       3CMENUL.DIB
+|   |       |   |   |       3CMENUL.HTM
+|   |       |   |   |       3CMENUL.INF
+|   |       |   |   |       FISH.JPG
+|   |       |   |   |       
+|   |       |   |   +---3CSIDB_T
+|   |       |   |   |       3CSIDBAR.DIB
+|   |       |   |   |       3CSIDBAR.HTM
+|   |       |   |   |       3CSIDBAR.INF
+|   |       |   |   |       EARTH2.JPG
+|   |       |   |   |       FISH.JPG
+|   |       |   |   |       LEOPARD.JPG
+|   |       |   |   |       
+|   |       |   |   +---4CCENT_T
+|   |       |   |   |       4CCENTER.DIB
+|   |       |   |   |       4CCENTER.HTM
+|   |       |   |   |       4CCENTER.INF
+|   |       |   |   |       
+|   |       |   |   +---4CSTAC_T
+|   |       |   |   |       4CSTAGC.DIB
+|   |       |   |   |       4CSTAGC.HTM
+|   |       |   |   |       4CSTAGC.INF
+|   |       |   |   |       
+|   |       |   |   +---4CSTAL_T
+|   |       |   |   |       4CSTAGL.DIB
+|   |       |   |   |       4CSTAGL.HTM
+|   |       |   |   |       4CSTAGL.INF
+|   |       |   |   |       SUNFLOWR.JPG
+|   |       |   |   |       
+|   |       |   |   +---BIBLIO_T
+|   |       |   |   |       BIBLIO.DIB
+|   |       |   |   |       BIBLIO.HTM
+|   |       |   |   |       BIBLIO.INF
+|   |       |   |   |       
+|   |       |   |   +---CONFIR_T
+|   |       |   |   |       CONFIRM.DIB
+|   |       |   |   |       CONFIRM.HTM
+|   |       |   |   |       CONFIRM.INF
+|   |       |   |   |       
+|   |       |   |   +---FAQ_T
+|   |       |   |   |       FAQ.DIB
+|   |       |   |   |       FAQ.HTM
+|   |       |   |   |       FAQ.INF
+|   |       |   |   |       
+|   |       |   |   +---FEEDBA_T
+|   |       |   |   |       FEEDBACK.DIB
+|   |       |   |   |       FEEDBACK.HTM
+|   |       |   |   |       FEEDBACK.INF
+|   |       |   |   |       
+|   |       |   |   +---GUESTB_T
+|   |       |   |   |       GUESTBK.DIB
+|   |       |   |   |       GUESTBK.HTM
+|   |       |   |   |       GUESTBK.INF
+|   |       |   |   |       GUESTLOG.HTM
+|   |       |   |   |       
+|   |       |   |   +---NORMAL_T
+|   |       |   |   |       NORMAL.DIB
+|   |       |   |   |       NORMAL.HTM
+|   |       |   |   |       NORMAL.INF
+|   |       |   |   |       
+|   |       |   |   +---REGUSE_T
+|   |       |   |   |       REGUSER.DIB
+|   |       |   |   |       REGUSER.HTM
+|   |       |   |   |       REGUSER.INF
+|   |       |   |   |       
+|   |       |   |   +---SEARCH_T
+|   |       |   |   |       SEARCH.DIB
+|   |       |   |   |       SEARCH.HTM
+|   |       |   |   |       SEARCH.INF
+|   |       |   |   |       
+|   |       |   |   +---TOC_T
+|   |       |   |   |       TOC.DIB
+|   |       |   |   |       TOC.HTM
+|   |       |   |   |       TOC.INF
+|   |       |   |   |       
+|   |       |   |   \---VTIFOR_W
+|   |       |   |           VTIFORM.INF
+|   |       |   |           
+|   |       |   \---WEBS
+|   |       |       +---CUSTSU_T
+|   |       |       |   |   BUGLIST.HTM
+|   |       |       |   |   BUGREP.HTM
+|   |       |       |   |   CUSTSUPP.INF
+|   |       |       |   |   CUSTSUPP.MAP
+|   |       |       |   |   CUSUAFTR.HTM
+|   |       |       |   |   CUSUAHDR.HTM
+|   |       |       |   |   CUSUCFRM.HTM
+|   |       |       |   |   CUSUFOOT.HTM
+|   |       |       |   |   CUSUHEAD.HTM
+|   |       |       |   |   CUSUPOST.HTM
+|   |       |       |   |   CUSUSRCH.HTM
+|   |       |       |   |   CUSUTOC.HTM
+|   |       |       |   |   DISCUSS.HTM
+|   |       |       |   |   DOWNLOAD.HTM
+|   |       |       |   |   FAQ.HTM
+|   |       |       |   |   FEEDBACK.HTM
+|   |       |       |   |   FOOTER.HTM
+|   |       |       |   |   HEADER.HTM
+|   |       |       |   |   INDEX.HTM
+|   |       |       |   |   SEARCH.HTM
+|   |       |       |   |   SUGGEST.HTM
+|   |       |       |   |   TN001.HTM
+|   |       |       |   |   WHATSNEW.HTM
+|   |       |       |   |   
+|   |       |       |   \---IMAGES
+|   |       |       |           SCRNSHOT.GIF
+|   |       |       |           UNDERCON.GIF
+|   |       |       |           
+|   |       |       +---EMPTY_T
+|   |       |       |       EMPTY.INF
+|   |       |       |       
+|   |       |       +---MSIMPO_W
+|   |       |       |       MSIMPORT.INF
+|   |       |       |       
+|   |       |       +---NORMAL_T
+|   |       |       |       INDEX.HTM
+|   |       |       |       NORMAL.INF
+|   |       |       |       
+|   |       |       +---PERSON_T
+|   |       |       |   |   FAVORITE.HTM
+|   |       |       |   |   INDEX.HTM
+|   |       |       |   |   INTEREST.HTM
+|   |       |       |   |   MYFAV3.HTM
+|   |       |       |   |   PERSONAL.INF
+|   |       |       |   |   PERSONAL.MAP
+|   |       |       |   |   PHOTO.HTM
+|   |       |       |   |   
+|   |       |       |   \---IMAGES
+|   |       |       |           CITY.GIF
+|   |       |       |           FRONTPAG.GIF
+|   |       |       |           SUNSET.GIF
+|   |       |       |           
+|   |       |       +---PROJEC_T
+|   |       |       |   |   ARCHIVE.HTM
+|   |       |       |   |   DISCUSS.HTM
+|   |       |       |   |   FOOTER.HTM
+|   |       |       |   |   HEADER.HTM
+|   |       |       |   |   INDEX.HTM
+|   |       |       |   |   KNOBAFTR.HTM
+|   |       |       |   |   KNOBAHDR.HTM
+|   |       |       |   |   KNOBCFRM.HTM
+|   |       |       |   |   KNOBFOOT.HTM
+|   |       |       |   |   KNOBHEAD.HTM
+|   |       |       |   |   KNOBPOST.HTM
+|   |       |       |   |   KNOBSRCH.HTM
+|   |       |       |   |   KNOBTOC.HTM
+|   |       |       |   |   MEMBERS.HTM
+|   |       |       |   |   PROJECT.INF
+|   |       |       |   |   PROJECT.MAP
+|   |       |       |   |   REQDAFTR.HTM
+|   |       |       |   |   REQDAHDR.HTM
+|   |       |       |   |   REQDCFRM.HTM
+|   |       |       |   |   REQDFOOT.HTM
+|   |       |       |   |   REQDHEAD.HTM
+|   |       |       |   |   REQDPOST.HTM
+|   |       |       |   |   REQDSRCH.HTM
+|   |       |       |   |   REQDTOC.HTM
+|   |       |       |   |   SCHEDULE.HTM
+|   |       |       |   |   SEARCH.HTM
+|   |       |       |   |   STATUS.HTM
+|   |       |       |   |   
+|   |       |       |   \---IMAGES
+|   |       |       |           PURPSM.GIF
+|   |       |       |           SMFEED.GIF
+|   |       |       |           SMPRESS.GIF
+|   |       |       |           UNDERCON.GIF
+|   |       |       |           
+|   |       |       +---VTIDIS_W
+|   |       |       |       ARTFOOT.HTX
+|   |       |       |       ARTHEAD.HTX
+|   |       |       |       BLKTXTR1.JPG
+|   |       |       |       BLUTXTR1.JPG
+|   |       |       |       BLUTXTR2.JPG
+|   |       |       |       BLUTXTR3.JPG
+|   |       |       |       BRNTXTR1.JPG
+|   |       |       |       BRNTXTR2.JPG
+|   |       |       |       CONFIRM.HTX
+|   |       |       |       FRAMESET.HTX
+|   |       |       |       GRYTXTR1.JPG
+|   |       |       |       GRYTXTR2.JPG
+|   |       |       |       GRYTXTR3.JPG
+|   |       |       |       GRYTXTR4.JPG
+|   |       |       |       GRYTXTR5.JPG
+|   |       |       |       NAV.HTX
+|   |       |       |       POST.HTX
+|   |       |       |       REGISTER.HTX
+|   |       |       |       SEARCH.HTX
+|   |       |       |       STYLE.HTX
+|   |       |       |       TOC.HTX
+|   |       |       |       TOCF.HTX
+|   |       |       |       VTIDISC.INF
+|   |       |       |       WEBFOOT.HTX
+|   |       |       |       WEBHEAD.HTX
+|   |       |       |       WELCOME.HTX
+|   |       |       |       WHTTXTR1.JPG
+|   |       |       |       WHTTXTR2.JPG
+|   |       |       |       
+|   |       |       \---VTIPRE_W
+|   |       |               BFEED1.GIF
+|   |       |               BFEED2.GIF
+|   |       |               BFEED3.GIF
+|   |       |               BHOME1.GIF
+|   |       |               BHOME2.GIF
+|   |       |               BHOME3.GIF
+|   |       |               BIGNEW.GIF
+|   |       |               BLKTXTR1.JPG
+|   |       |               BLUTXTR1.JPG
+|   |       |               BLUTXTR2.JPG
+|   |       |               BLUTXTR3.JPG
+|   |       |               BNEWS1.GIF
+|   |       |               BNEWS2.GIF
+|   |       |               BNEWS3.GIF
+|   |       |               BOTTOM.HTX
+|   |       |               BPRDSRV1.GIF
+|   |       |               BPRDSRV2.GIF
+|   |       |               BPRDSRV3.GIF
+|   |       |               BPRODS1.GIF
+|   |       |               BPRODS2.GIF
+|   |       |               BPRODS3.GIF
+|   |       |               BRNTXTR1.JPG
+|   |       |               BRNTXTR2.JPG
+|   |       |               BSERVS1.GIF
+|   |       |               BSERVS2.GIF
+|   |       |               BSERVS3.GIF
+|   |       |               BSRCH1.GIF
+|   |       |               BSRCH2.GIF
+|   |       |               BSRCH3.GIF
+|   |       |               BTOC1.GIF
+|   |       |               BTOC2.GIF
+|   |       |               BTOC3.GIF
+|   |       |               BULLET1.GIF
+|   |       |               BULLET2.GIF
+|   |       |               BULLET3.GIF
+|   |       |               DIV1.GIF
+|   |       |               DIV2.GIF
+|   |       |               DIV3.GIF
+|   |       |               FEEDBACK.HTX
+|   |       |               GRYTXTR1.JPG
+|   |       |               GRYTXTR2.JPG
+|   |       |               GRYTXTR3.JPG
+|   |       |               GRYTXTR4.JPG
+|   |       |               GRYTXTR5.JPG
+|   |       |               HFEED1.GIF
+|   |       |               HFEED2.GIF
+|   |       |               HFEED3.GIF
+|   |       |               HHOME1.GIF
+|   |       |               HHOME2.GIF
+|   |       |               HHOME3.GIF
+|   |       |               HNEWS1.GIF
+|   |       |               HNEWS2.GIF
+|   |       |               HNEWS3.GIF
+|   |       |               HPRDSRV1.GIF
+|   |       |               HPRDSRV2.GIF
+|   |       |               HPRDSRV3.GIF
+|   |       |               HPRODS1.GIF
+|   |       |               HPRODS2.GIF
+|   |       |               HPRODS3.GIF
+|   |       |               HSERVS1.GIF
+|   |       |               HSERVS2.GIF
+|   |       |               HSERVS3.GIF
+|   |       |               HSRCH1.GIF
+|   |       |               HSRCH2.GIF
+|   |       |               HSRCH3.GIF
+|   |       |               HTOC1.GIF
+|   |       |               HTOC2.GIF
+|   |       |               HTOC3.GIF
+|   |       |               INDEX.HTX
+|   |       |               LEFT.HTX
+|   |       |               LOGO.GIF
+|   |       |               LOGO.HTX
+|   |       |               NAVBAR.HTX
+|   |       |               NEWS.HTX
+|   |       |               PRODIMG.GIF
+|   |       |               PRODONLY.HTX
+|   |       |               PRODUCTS.HTX
+|   |       |               PRODX.HTX
+|   |       |               PRX.HTX
+|   |       |               SEARCH.HTX
+|   |       |               SERVONLY.HTX
+|   |       |               SERVX.HTX
+|   |       |               SMALLNEW.GIF
+|   |       |               STYLE.HTX
+|   |       |               TOC.HTX
+|   |       |               TOP.HTX
+|   |       |               UNDERCON.GIF
+|   |       |               VTIPRES.INF
+|   |       |               WHTTXTR1.JPG
+|   |       |               WHTTXTR2.JPG
+|   |       |               
+|   |       +---1033
+|   |       |       ENNORMAL.DOT
+|   |       |       
+|   |       \---PDESIGNS
+|   |               ARTSY.POT
+|   |               AZURE.POT
+|   |               BAMBOO.POT
+|   |               BLDSTRIP.POT
+|   |               BLENDS.POT
+|   |               BLITZ.POT
+|   |               BLUEDIAG.POT
+|   |               BLUEPRNT.POT
+|   |               BRNMRBL.POT
+|   |               CACTUS.POT
+|   |               CAPSULES.POT
+|   |               CHECKERS.POT
+|   |               CITRUS.POT
+|   |               CONSTRUC.POT
+|   |               DADSTIE.POT
+|   |               EXPEDITN.POT
+|   |               FACTORY.POT
+|   |               FIREBALL.POT
+|   |               GESTURE.POT
+|   |               GLOBAL.POT
+|   |               HIGHVOLT.POT
+|   |               JWAVES.POT
+|   |               LAVERNE.POT
+|   |               LOCKNKEY.POT
+|   |               MOUNTAIN.POT
+|   |               NATURE.POT
+|   |               NEONFRAM.POT
+|   |               NOTEBOOK.POT
+|   |               PSTMDRN.POT
+|   |               PULSE.POT
+|   |               RADAR1.POT
+|   |               RIBBONS.POT
+|   |               RICEPAPR.POT
+|   |               ROMANSQE.POT
+|   |               SAKURA.POT
+|   |               SANDSTON.POT
+|   |               SOARING.POT
+|   |               STRATGIC.POT
+|   |               STRTEDGE.POT
+|   |               SUMIPNTG.POT
+|   |               SUNIDAYS.POT
+|   |               TECH.POT
+|   |               TOPO.POT
+|   |               WHRLPOOL.POT
+|   |               
+|   +---SNAPVIEW
+|   |       README.TXT
+|   |       SNAPVIEW.CNT
+|   |       SNAPVIEW.EXE
+|   |       SNAPVIEW.HLP
+|   |       
+|   \---VSTUDIO
+|       \---COMMON
+|           \---IDE
+|               \---IDE98
+|                   |   ASP.TLB
+|                   |   BLDWIZMG.DLL
+|                   |   HTMED.DLL
+|                   |   MSE.EXE
+|                   |   MSENV2.DLL
+|                   |   URLPKR.DLL
+|                   |   
+|                   +---MSE
+|                   |   |   VIEWSSPT.PRF
+|                   |   |   VIEWSSRC.PRF
+|                   |   |   
+|                   |   \---1028
+|                   |           ASP.CHI
+|                   |           ASP.CHM
+|                   |           CSOF.DLL
+|                   |           CSOF98.COL
+|                   |           CSOFED.CHI
+|                   |           CSOFED.CHM
+|                   |           CSOFEDUI.CHI
+|                   |           CSOFEDUI.CHM
+|                   |           CSOFTASK.CHI
+|                   |           CSOFTASK.CHM
+|                   |           CSOFUI.CHI
+|                   |           CSOFUI.CHM
+|                   |           HHSETUP.DLL
+|                   |           HTMLREF.CHI
+|                   |           HTMLREF.CHM
+|                   |           JSCRIPT5.CHI
+|                   |           JSCRIPT5.CHM
+|                   |           VBSCRIP5.CHI
+|                   |           VBSCRIP5.CHM
+|                   |           
+|                   +---NEWITEMS
+|                   |       HTMLFILE.HTM
+|                   |       NEWITEMS.VSD
+|                   |       TEXTFILE.TXT
+|                   |       
+|                   \---RESOURCE
+|                       \---1028
+|                               HTMEDUI.DLL
+|                               MSENV2UI.DLL
+|                               
++---SP
+|   \---DCOM
+|           DCOM95.EXE
+|           
++---SQL
+|   +---DEVTOOLS
+|   |   +---INCLUDE
+|   |   |       WN95SCM.H
+|   |   |       
+|   |   \---X86LIB
+|   |           W95SCM.LIB
+|   |           
+|   +---INSTALL
+|   |       INSTDIST.SQL
+|   |       INSTMSDB.SQL
+|   |       REPLCOM.SQL
+|   |       REPLMERG.SQL
+|   |       REPLP70.SQL
+|   |       REPLSYS.SQL
+|   |       REPLTRAN.SQL
+|   |       SERVER.LOC
+|   |       SQLDMO.SQL
+|   |       SQLTRACE.SQL
+|   |       
+|   \---X86
+|       +---BINN
+|       |   |   AXSCPHST.DLL
+|       |   |   BCP.EXE
+|       |   |   CE_SPRXY.DLL
+|       |   |   CMDWRAP.EXE
+|       |   |   CNFGSVR.EXE
+|       |   |   COMNEVNT.DLL
+|       |   |   DCOMSCM.EXE
+|       |   |   DISTRIB.EXE
+|       |   |   DTSFFILE.DLL
+|       |   |   DTSPKG.DLL
+|       |   |   DTSPUMP.DLL
+|       |   |   DTSRUN.EXE
+|       |   |   DTSWIZ.DLL
+|       |   |   DTSWIZ.EXE
+|       |   |   IMPPROV.DLL
+|       |   |   LOGREAD.EXE
+|       |   |   MSPDB50.DLL
+|       |   |   MSSQL.MIB
+|       |   |   MSVCRT.DLL
+|       |   |   ODBCCMPT.EXE
+|       |   |   ODSOLE70.DLL
+|       |   |   OPENDS60.DLL
+|       |   |   OSQL.EXE
+|       |   |   PSDCSCM.DLL
+|       |   |   RDISTCOM.DLL
+|       |   |   REBUILDM.EXE
+|       |   |   REGREBLD.EXE
+|       |   |   REPLAGNT.DLL
+|       |   |   REPLDIST.DLL
+|       |   |   REPLDP.DLL
+|       |   |   REPLERRX.DLL
+|       |   |   REPLMERG.EXE
+|       |   |   REPLMON.PMC
+|       |   |   REPLPROV.DLL
+|       |   |   REPLREC.DLL
+|       |   |   REPLRES.DLL
+|       |   |   REPLSYNC.DLL
+|       |   |   SCM.EXE
+|       |   |   SEMCOMN.DLL
+|       |   |   SEMCROS.DLL
+|       |   |   SEMDLL.DLL
+|       |   |   SEMEXEC.DLL
+|       |   |   SEMMAP.DLL
+|       |   |   SEMNT.DLL
+|       |   |   SEMOBJ.DLL
+|       |   |   SEMREPL.DLL
+|       |   |   SEMSYS.DLL
+|       |   |   SEMWEBWZ.DLL
+|       |   |   SEMWIZ.DLL
+|       |   |   SETUPEX.DLL
+|       |   |   SFC.DLL
+|       |   |   SNAPSHOT.EXE
+|       |   |   SPRESOLV.DLL
+|       |   |   SQLAGENT.DLL
+|       |   |   SQLAGENT.EXE
+|       |   |   SQLATXSS.DLL
+|       |   |   SQLBOOT.DLL
+|       |   |   SQLCMDSS.DLL
+|       |   |   SQLDISTX.DLL
+|       |   |   SQLDMO.DLL
+|       |   |   SQLEVN70.DLL
+|       |   |   SQLGUI.DLL
+|       |   |   SQLIMAGE.DLL
+|       |   |   SQLLEX.DLL
+|       |   |   SQLMANGR.EXE
+|       |   |   SQLMERGX.DLL
+|       |   |   SQLNS.DLL
+|       |   |   SQLREPSS.DLL
+|       |   |   SQLRESLD.DLL
+|       |   |   SQLRGSTR.DLL
+|       |   |   SQLSERVR.EXE
+|       |   |   SQLSETUP.CNT
+|       |   |   SQLSETUP.HLP
+|       |   |   SQLSNMP.DLL
+|       |   |   SQLSRS.DLL
+|       |   |   SQLSUI.DLL
+|       |   |   SQLSUSK.DLL
+|       |   |   SQLSVC.DLL
+|       |   |   SQLSWA.DLL
+|       |   |   SQLTRACE.DLL
+|       |   |   SQLVDI.DLL
+|       |   |   SQLVDIS.DLL
+|       |   |   SQLWID.DLL
+|       |   |   SSMSAD70.DLL
+|       |   |   SSMSRP70.DLL
+|       |   |   SSMSSH70.DLL
+|       |   |   SSMSSO70.DLL
+|       |   |   SSMSSP70.DLL
+|       |   |   SSMSVI70.DLL
+|       |   |   SSNMPN70.DLL
+|       |   |   SVRNETCN.EXE
+|       |   |   SVRNETCN.HLP
+|       |   |   UMS.DLL
+|       |   |   VSWITCH.EXE
+|       |   |   W95SCM.DLL
+|       |   |   XPLOG70.DLL
+|       |   |   XPREPL.DLL
+|       |   |   XPSQL70.DLL
+|       |   |   XPSQLBOT.DLL
+|       |   |   XPSTAR.DLL
+|       |   |   
+|       |   \---RES
+|       |       +---1033
+|       |       |       AXSCPHST.RLL
+|       |       |       DTSFFILE.RLL
+|       |       |       DTSPKG.RLL
+|       |       |       DTSPUMP.RLL
+|       |       |       DTSRUN.RLL
+|       |       |       DTSWIZ.RLL
+|       |       |       SEMCOMN.RLL
+|       |       |       SEMCROS.RLL
+|       |       |       SEMDLL.RLL
+|       |       |       SEMEXEC.RLL
+|       |       |       SEMMAP.RLL
+|       |       |       SEMNT.RLL
+|       |       |       SEMOBJ.RLL
+|       |       |       SEMREPL.RLL
+|       |       |       SEMSYS.RLL
+|       |       |       SEMWEBWZ.RLL
+|       |       |       SEMWIZ.RLL
+|       |       |       SFC.RLL
+|       |       |       SQLDMO.RLL
+|       |       |       SQLGUI.RLL
+|       |       |       SQLNS.RLL
+|       |       |       SQLSVC.RLL
+|       |       |       
+|       |       \---OTHER
+|       |               AXSCPHST.RLL
+|       |               DTSFFILE.RLL
+|       |               DTSPKG.RLL
+|       |               DTSPUMP.RLL
+|       |               DTSRUN.RLL
+|       |               DTSWIZ.RLL
+|       |               SEMCOMN.RLL
+|       |               SEMCROS.RLL
+|       |               SEMDLL.RLL
+|       |               SEMEXEC.RLL
+|       |               SEMMAP.RLL
+|       |               SEMNT.RLL
+|       |               SEMOBJ.RLL
+|       |               SEMREPL.RLL
+|       |               SEMSYS.RLL
+|       |               SEMWEBWZ.RLL
+|       |               SEMWIZ.RLL
+|       |               SFC.RLL
+|       |               SQLDMO.RLL
+|       |               SQLGUI.RLL
+|       |               SQLNS.RLL
+|       |               SQLSVC.RLL
+|       |               
+|       +---BOOKS
+|       |       DTSWIZ70.CHM
+|       |       ENTMGR.CHM
+|       |       REBUILDM.CHM
+|       |       REPLWIZ.CHM
+|       |       
+|       +---DATA
+|       |       MASTER.MDF
+|       |       MASTLOG.LDF
+|       |       MODEL.MDF
+|       |       MODELLOG.LDF
+|       |       MSDBDATA.MDF
+|       |       MSDBLOG.LDF
+|       |       
+|       +---OTHER
+|       |       DTCSETUP.EXE
+|       |       
+|       +---SETUP
+|       |       DATA.TAG
+|       |       DATA1.CAB
+|       |       DS32.DLL
+|       |       ISETUP.BAT
+|       |       LANG.DAT
+|       |       LAYOUT.BIN
+|       |       MSETUP.EXE
+|       |       OS.DAT
+|       |       SETUP.INI
+|       |       SETUP.INS
+|       |       SETUP.LID
+|       |       SETUPSQL.EXE
+|       |       SQLSERVR.DAT
+|       |       SQLSERVR.DBD
+|       |       SQLSTP.EXE
+|       |       _INST32I.EX_
+|       |       _ISDEL.EXE
+|       |       _SETUP.DLL
+|       |       _SYS1.CAB
+|       |       _USER1.CAB
+|       |       
+|       \---SYSTEM
+|           |   CLICONF.HLP
+|           |   CLICONFG.DLL
+|           |   CLICONFG.EXE
+|           |   MFC42.DLL
+|           |   MSVCIRT.DLL
+|           |   MSVCRT.DLL
+|           |   MSVCRT40.DLL
+|           |   OLEAUT32.DLL
+|           |   REGSVR32.EXE
+|           |   
+|           +---WIN9X
+|           |       ATL.DLL
+|           |       
+|           \---WINNT
+|                   ATL.DLL
+|                   
++---SYSTEM
+|       12520437.CPX
+|       12520850.CPX
+|       ASYCFILT.DLL
+|       BIG5.NLS
+|       BOPOMOFO.NLS
+|       CLICONF.HLP
+|       CLICONFG.DLL
+|       CLICONFG.EXE
+|       DBMSADSN.DLL
+|       DBMSRPCN.DLL
+|       DBMSSHRN.DLL
+|       DBMSSOCN.DLL
+|       DBMSSPXN.DLL
+|       DBMSVINN.DLL
+|       DBNMPNTW.DLL
+|       DRVVFP.CNT
+|       DRVVFP.HLP
+|       DS16GT.DLL
+|       DS32GT.DLL
+|       EXPSRV.DLL
+|       EXSEC32.DLL
+|       EXTRACT.EXE
+|       FM20.DLL
+|       FM20CHT.DLL
+|       GAPI.DLL
+|       HHCTRL.OCX
+|       IMMC.EXE
+|       INSTCAT.SQL
+|       ITIRCL.DLL
+|       ITSS.DLL
+|       JETERR40.CHM
+|       KSC.NLS
+|       MSCPXL32.DLL
+|       MSDATSRC.TLB
+|       MSEXCH40.DLL
+|       MSEXCL40.DLL
+|       MSJET40.DLL
+|       MSJINT40.DLL
+|       MSJTER40.DLL
+|       MSJTES40.DLL
+|       MSJTOR40.DLL
+|       MSLS31.DLL
+|       MSLTUS40.DLL
+|       MSORCL32.CNT
+|       MSORCL32.DLL
+|       MSORCL32.HLP
+|       MSORCRDM.TXT
+|       MSPBDE40.DLL
+|       MSPRPCHT.DLL
+|       MSRCLR40.DLL
+|       MSRD2X40.DLL
+|       MSRD3X40.DLL
+|       MSRDO20.DLL
+|       MSRECR40.DLL
+|       MSREPL40.DLL
+|       MSRPJT40.DLL
+|       MSRTEDIT.DLL
+|       MSTEXT40.DLL
+|       MSVCRT.DLL
+|       MSVCRT40.DLL
+|       MSWDAT10.DLL
+|       MSWSTR10.DLL
+|       MSXBDE40.DLL
+|       MSXML.DLL
+|       MTXDM.DLL
+|       MTXOCI.DLL
+|       ODBC16GT.DLL
+|       ODBC32.DLL
+|       ODBC32GT.DLL
+|       ODBCAD32.EXE
+|       ODBCBCP.DLL
+|       ODBCCP32.CPL
+|       ODBCCP32.DLL
+|       ODBCCR32.DLL
+|       ODBCCU32.DLL
+|       ODBCINST.CNT
+|       ODBCINST.HLP
+|       ODBCINT.DLL
+|       ODBCJET.CNT
+|       ODBCJET.HLP
+|       ODBCJI32.DLL
+|       ODBCJT32.DLL
+|       ODBCTRAC.DLL
+|       ODDBSE32.DLL
+|       ODEXL32.DLL
+|       ODFOX32.DLL
+|       ODPDX32.DLL
+|       ODTEXT32.DLL
+|       OLEAUT32.DLL
+|       OLEPRO32.DLL
+|       PRC.NLS
+|       PRCP.NLS
+|       RDOCURS.DLL
+|       SQLOLEDB.TXT
+|       SQLSODBC.HLP
+|       SQLSOLDB.HLP
+|       SQLSRDME.TXT
+|       SQLSRV32.DLL
+|       SQLSTR.DLL
+|       SQLWID.DLL
+|       SQLWOA.DLL
+|       STDOLE2.TLB
+|       USP10.DLL
+|       VBACHT32.OLB
+|       VBAJET32.DLL
+|       VFPODBC.DLL
+|       VFPODBC.TXT
+|       XJIS.NLS
+|       
++---SYSTEM95
+|   |   AWFAXP32.DLL
+|   |   AWFXCG32.DLL
+|   |   AWLINZ32.DLL
+|   |   AWSNTO32.EXE
+|   |   FIXMAPI.EXE
+|   |   HFX3W3.DLL
+|   |   ICONLIB.DLL
+|   |   MAPISTUB.DLL
+|   |   OLFAXDRV.DRV
+|   |   OLFTHK16.DLL
+|   |   OLFTHK32.DLL
+|   |   UNIDRV.DLL
+|   |   UNIDRV.HLP
+|   |   
+|   \---VIEWERS
+|           DEBMP.DLL
+|           DEHEX.DLL
+|           DEMET.DLL
+|           DESS.DLL
+|           DEWP.DLL
+|           MSVIEWUT.DLL
+|           QUIKVIEW.EXE
+|           SCCVIEW.DLL
+|           VSAMI.DLL
+|           VSASC8.DLL
+|           VSBMP.DLL
+|           VSDRW.DLL
+|           VSEXE2.DLL
+|           VSFLW.DLL
+|           VSMP.DLL
+|           VSMSW.DLL
+|           VSPP.DLL
+|           VSQPW2.DLL
+|           VSRTF.DLL
+|           VSW6.DLL
+|           VSWK4.DLL
+|           VSWKS.DLL
+|           VSWMF.DLL
+|           VSWORD.DLL
+|           VSWORK.DLL
+|           VSWP5.DLL
+|           VSWP6.DLL
+|           VSWPF.DLL
+|           VSXL5.DLL
+|           
++---SYSTEMNT
+|   |   FIXMAPI.EXE
+|   |   MAPISTUB.DLL
+|   |   OLFMNT40.DLL
+|   |   
+|   +---VIEWERS
+|   |       DEBMP.DLL
+|   |       DEHEX.DLL
+|   |       DEMET.DLL
+|   |       DESS.DLL
+|   |       DEWP.DLL
+|   |       MSVIEWUT.DLL
+|   |       QUIKVIEW.EXE
+|   |       SCCVIEW.DLL
+|   |       VSASC8.DLL
+|   |       VSBMP.DLL
+|   |       VSDRW.DLL
+|   |       VSEXE.DLL
+|   |       VSEXE2.DLL
+|   |       VSMP.DLL
+|   |       VSMSW.DLL
+|   |       VSPP.DLL
+|   |       VSQP6.DLL
+|   |       VSRTF.DLL
+|   |       VSTIFF.DLL
+|   |       VSW6.DLL
+|   |       VSWKS.DLL
+|   |       VSWMF.DLL
+|   |       VSWORD.DLL
+|   |       VSWORK.DLL
+|   |       VSWP5.DLL
+|   |       VSWP6.DLL
+|   |       VSWPF.DLL
+|   |       VSXL5.DLL
+|   |       
+|   \---WINFAX
+|           OLFAXDRV.FAD
+|           OLFDNT40.DLL
+|           OLFPNT40.DLL
+|           OLFUNT40.DLL
+|           
+\---WINDOWS
+    |   HH.EXE
+    |   MSDFMAP.INI
+    |   
+    +---FONTS
+    |       TAHOMA.TTF
+    |       TAHOMABD.TTF
+    |       
+    +---HELP
+    |       AGT0404.HLP
+    |       WZCNFLCT.CHM
+    |       
+    +---INF
+    |       AGTINST.INF
+    |       
+    +---MEDIA
+    |   \---OFFICE2K
+    |           APPLAUSE.WAV
+    |           CAMERA.WAV
+    |           CARBRAKE.WAV
+    |           CASHREG.WAV
+    |           CHIMES.WAV
+    |           CLAP.WAV
+    |           DRIVEBY.WAV
+    |           DRUMROLL.WAV
+    |           EXPLODE.WAV
+    |           GLASS.WAV
+    |           GUNSHOT.WAV
+    |           LASER.WAV
+    |           PROJCTOR.WAV
+    |           RICOCHET.WAV
+    |           TYPE.WAV
+    |           WHOOSH.WAV
+    |           
+    +---MSAGENT
+    |   |   AGENTANM.DLL
+    |   |   AGENTCTL.DLL
+    |   |   AGENTDP2.DLL
+    |   |   AGENTDPV.DLL
+    |   |   AGENTMPX.DLL
+    |   |   AGENTPSH.DLL
+    |   |   AGENTSR.DLL
+    |   |   AGENTSVR.EXE
+    |   |   AGTCTL15.TLB
+    |   |   AGTINTL.DLL
+    |   |   MSLWVTTS.DLL
+    |   |   
+    |   \---INTL
+    |           AGT0404.DLL
+    |           AGT0409.DLL
+    |           
+    \---SHELLNEW
+            BINDER.OBD
+            EXCEL9.XLS
+            PWRPNT9.POT
+            WINWORD8.DOC
+            

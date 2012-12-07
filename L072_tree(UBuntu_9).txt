@@ -1,0 +1,241 @@
+Folder PATH listing for volume Ubuntu 9.04 i386
+Volume serial number is CD13-29A6
+F:\
+|   README.diskdefines
+|   autorun.inf
+|   md5sum.txt
+|   ubuntu
+|   wubi.exe
+|   
++---.disk
+|       base_installable
+|       casper-uuid-generic
+|       cd_type
+|       info
+|       release_notes_url
+|       
++---casper
+|       filesystem.manifest
+|       filesystem.manifest-desktop
+|       filesystem.squashfs
+|       initrd.gz
+|       vmlinuz
+|       
++---dists
+|   |   stable
+|   |   unstable
+|   |   
+|   \---jaunty
+|       |   Release
+|       |   Release.gpg
+|       |   
+|       +---main
+|       |   +---binary-i386
+|       |   |       Packages.gz
+|       |   |       Release
+|       |   |       
+|       |   \---source
+|       \---restricted
+|           +---binary-i386
+|           |       Packages.gz
+|           |       Release
+|           |       
+|           \---source
++---install
+|       README.sbm
+|       mt86plus
+|       sbm.bin
+|       
++---isolinux
+|       16x16.fnt
+|       adtext.cfg
+|       am.tr
+|       back.jpg
+|       be.tr
+|       bg.tr
+|       boot.cat
+|       bootlogo
+|       bs.tr
+|       ca.hlp
+|       ca.tr
+|       cs.tr
+|       da.tr
+|       de.tr
+|       el.hlp
+|       el.tr
+|       en.hlp
+|       en.tr
+|       eo.tr
+|       es.hlp
+|       es.tr
+|       et.tr
+|       eu.tr
+|       f1.txt
+|       f10.txt
+|       f2.txt
+|       f3.txt
+|       f4.txt
+|       f5.txt
+|       f6.txt
+|       f7.txt
+|       f8.txt
+|       f9.txt
+|       fi.hlp
+|       fi.tr
+|       fr.hlp
+|       fr.tr
+|       ga.tr
+|       gfxboot.cfg
+|       gl.hlp
+|       gl.tr
+|       hr.tr
+|       hu.hlp
+|       hu.tr
+|       id.hlp
+|       id.tr
+|       isolinux.bin
+|       isolinux.cfg
+|       it.tr
+|       ja.tr
+|       ka.tr
+|       ko.tr
+|       ku.tr
+|       langlist
+|       lt.tr
+|       lv.tr
+|       menu.cfg
+|       mk.tr
+|       nb.tr
+|       nl.tr
+|       nn.tr
+|       pl.tr
+|       po4a.cfg
+|       prompt.cfg
+|       pt.tr
+|       pt_BR.hlp
+|       pt_BR.tr
+|       ro.hlp
+|       ro.tr
+|       ru.hlp
+|       ru.tr
+|       sk.tr
+|       sl.tr
+|       splash.pcx
+|       splash.png
+|       sq.tr
+|       sr.tr
+|       stdmenu.cfg
+|       sv.hlp
+|       sv.tr
+|       text.cfg
+|       tl.tr
+|       tr.tr
+|       uk.tr
+|       vesamenu.c32
+|       vi.tr
+|       zh_CN.hlp
+|       zh_CN.tr
+|       zh_TW.tr
+|       
++---pics
+|       blue-lowerleft.png
+|       blue-lowerright.png
+|       blue-upperleft.png
+|       blue-upperright.png
+|       debian.jpg
+|       logo-50.jpg
+|       red-lowerleft.png
+|       red-lowerright.png
+|       red-upperleft.png
+|       red-upperright.png
+|       
++---pool
+|   +---main
+|   |   +---b
+|   |   |   +---b43-fwcutter
+|   |   |   |       b43-fwcutter_011-5_i386.deb
+|   |   |   |       
+|   |   |   +---bpalogin
+|   |   |   |       bpalogin_2.0.2-12_i386.deb
+|   |   |   |       
+|   |   |   \---build-essential
+|   |   |           build-essential_11.4_i386.deb
+|   |   |           
+|   |   +---d
+|   |   |   \---dpkg
+|   |   |           dpkg-dev_1.14.24ubuntu1_all.deb
+|   |   |           
+|   |   +---f
+|   |   |   \---fakeroot
+|   |   |           fakeroot_1.12.1ubuntu1_i386.deb
+|   |   |           
+|   |   +---g
+|   |   |   +---gcc-4.3
+|   |   |   |       g++-4.3_4.3.3-5ubuntu4_i386.deb
+|   |   |   |       libstdc++6-4.3-dev_4.3.3-5ubuntu4_i386.deb
+|   |   |   |       
+|   |   |   \---gcc-defaults
+|   |   |           g++_4.3.3-1ubuntu1_i386.deb
+|   |   |           
+|   |   +---i
+|   |   |   \---isdnutils
+|   |   |           capiutils_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           ipppd_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           isdnutils-base_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           isdnutils-xtools_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           libcapi20-3_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           libcapi20-dev_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           pppdcapiplugin_3.12.20071127-0ubuntu5_i386.deb
+|   |   |           
+|   |   +---l
+|   |   |   +---linux-atm
+|   |   |   |       libatm1_2.4.1-17.2_i386.deb
+|   |   |   |       
+|   |   |   +---linux-wlan-ng
+|   |   |   |       linux-wlan-ng-doc_0.2.9+dfsg-2ubuntu2_all.deb
+|   |   |   |       linux-wlan-ng_0.2.9+dfsg-2ubuntu2_i386.deb
+|   |   |   |       
+|   |   |   +---localechooser
+|   |   |   |       localechooser-data_2.09ubuntu2_all.deb
+|   |   |   |       
+|   |   |   \---lupin
+|   |   |           lupin-support_0.22_all.deb
+|   |   |           
+|   |   +---m
+|   |   |   \---mouseemu
+|   |   |           mouseemu_0.16-0ubuntu3_i386.deb
+|   |   |           
+|   |   +---n
+|   |   |   +---ndisgtk
+|   |   |   |       ndisgtk_0.8.4-1_i386.deb
+|   |   |   |       
+|   |   |   \---ndiswrapper
+|   |   |           ndiswrapper-common_1.53-2ubuntu1_all.deb
+|   |   |           ndiswrapper-utils-1.9_1.53-2ubuntu1_i386.deb
+|   |   |           
+|   |   +---o
+|   |   |   \---oem-config
+|   |   |           oem-config-gtk_1.54.13_i386.deb
+|   |   |           oem-config_1.54.13_i386.deb
+|   |   |           
+|   |   +---p
+|   |   |   +---patch
+|   |   |   |       patch_2.5.9-5_i386.deb
+|   |   |   |       
+|   |   |   \---pptp-linux
+|   |   |           pptp-linux_1.7.2-1_i386.deb
+|   |   |           
+|   |   \---s
+|   |       \---setserial
+|   |               setserial_2.17-45_i386.deb
+|   |               
+|   \---restricted
+|       \---d
+|           \---drdsl
+|                   drdsl_1.2.0-1_i386.deb
+|                   
+\---preseed
+        cli.seed
+        ltsp.seed
+        ubuntu.seed
+        

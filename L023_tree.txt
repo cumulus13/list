@@ -1,0 +1,4143 @@
+Folder PATH listing for volume DVD1-IL102007
+Volume serial number is FFD9-7980
+F:\
+|   MD5SUM-IL102007
+|   README.diskdefines
+|   cdromupgrade
+|   md5sum.txt
+|   ubuntu
+|   
++---.disk
+|       base_components
+|       base_installable
+|       info
+|       udeb_include
+|       
++---IL-102007
+|   +---browser
+|   |   +---firefox-2.0.0.6
+|   |   |       firefox-2.0.0.6.tar.gz
+|   |   |       
+|   |   \---opera-9.23
+|   |       +---static-deb
+|   |       |       opera-static_9.23-20070809.1-qt_en_i386.deb
+|   |       |       
+|   |       \---static-rpm
+|   |               opera-9.23-20070809.1-static-qt.i386-en.rpm
+|   |               
+|   +---codecs
+|   |   \---video
+|   |           all-20061022.tar.bz2
+|   |           
+|   +---desktop
+|   |   \---fpcbol-0.9.4
+|   |           bol0.9.4.tar.tar
+|   |           
+|   +---development
+|   |   \---jre-6u2
+|   |           jre-6u2-linux-i586.bin
+|   |           
+|   +---distro
+|   |   +---freespire-2.0
+|   |   |       freespire_2.0.0.iso
+|   |   |       freespire_2.0.0.iso.md5
+|   |   |       
+|   |   +---linuxmint-3.0
+|   |   |       LinuxMint-3.0.iso
+|   |   |       LinuxMint-3.0.iso.md5
+|   |   |       
+|   |   +---smoothwall-express-3.0
+|   |   |       smoothwall-express-3.0-i386.iso
+|   |   |       smoothwall-express-3.0-i386.iso.md5
+|   |   |       
+|   |   +---vyatta-livecd-2.2
+|   |   |       vyatta-livecd-vc2.2.iso
+|   |   |       vyatta-livecd-vc2.2.iso.md5
+|   |   |       
+|   |   +---zencafe-1.2
+|   |   |       instalasi-zencafe-1.2.pdf
+|   |   |       zencafe-1.2.iso
+|   |   |       zencafe-1.2.iso.md5
+|   |   |       
+|   |   \---zenserver-0.5
+|   |           zenserver-0.5.iso
+|   |           zenserver-0.5.iso.md5
+|   |           
+|   +---download
+|   |   +---aria2-0.11.2
+|   |   |       aria2-0.11.2.tar.bz2
+|   |   |       
+|   |   \---azureus-3.0
+|   |           Azureus_3_0_linux.tar.bz2
+|   |           
+|   +---driver
+|   |   +---videocard
+|   |   |   +---ati
+|   |   |   |   \---x86
+|   |   |   |           ati-driver-installer-8.40.4-x86.x86_64.run
+|   |   |   |           check.sh
+|   |   |   |           
+|   |   |   \---nvidia
+|   |   |       +---vga_baru
+|   |   |       |       NVIDIA-Linux-x86-1.0-9639-pkg1.run
+|   |   |       |       NVIDIA-Linux-x86_64-1.0-9639-pkg2.run
+|   |   |       |       
+|   |   |       \---vga_lama
+|   |   |               NVIDIA-Linux-x86-1.0-7185-pkg1.run
+|   |   |               NVIDIA-Linux-x86_64-1.0-7185-pkg2.run
+|   |   |               
+|   |   \---wlan
+|   |       +---madwifi-0.9.3.2
+|   |       |       madwifi-0.9.3.2.tar.gz
+|   |       |       
+|   |       +---ndiswrapper-1.48rc1
+|   |       |       ndiswrapper-1.48rc1.tar.gz
+|   |       |       
+|   |       \---rt2x00
+|   |           +---rt2400
+|   |           |       rt2400-1.2.2-b3.tar.gz
+|   |           |       
+|   |           +---rt2500
+|   |           |       rt2500-1.1.0-b4.tar.gz
+|   |           |       
+|   |           +---rt2570
+|   |           |       rt2570-1.1.0-b2.tar.gz
+|   |           |       
+|   |           +---rt61
+|   |           |       rt61-1.1.0-b2.tar.gz
+|   |           |       
+|   |           \---rt73
+|   |                   rt73-cvs-daily.tar.gz
+|   |                   
+|   +---email
+|   |   \---thunderbird-2.0.0.6
+|   |           thunderbird-2.0.0.6.tar.gz
+|   |           
+|   +---grafis
+|   |   +---photomolo-1.2.4
+|   |   |       photomolo-1.2.4.tar.gz
+|   |   |       
+|   |   \---the_gimp-2.4.0_RC1
+|   |           gimp-2.4.0-rc1.tar.bz2
+|   |           
+|   +---kernel
+|   |   +---v2.4
+|   |   |       linux-2.4.35.1.tar.bz2
+|   |   |       
+|   |   \---v2.6
+|   |           linux-2.6.22.5.tar.bz2
+|   |           
+|   +---komunikasi
+|   |   +---gammu-1.13.0
+|   |   |       gammu-1.13.0.tar.gz
+|   |   |       
+|   |   \---skype-1.4.0.99
+|   |           skype-1.4.0.99-fc5.i586.rpm
+|   |           skype-1.4.0.99-mdv.i586.rpm
+|   |           skype-1.4.0.99-suse.i586.rpm
+|   |           skype-debian_1.4.0.99-1_i386.deb
+|   |           skype_static-1.4.0.99.tar.bz2
+|   |           
+|   +---manajemen_informasi
+|   |   +---lucane_groupware-0.7.5
+|   |   |       lucane-0.7.5-src.tgz
+|   |   |       
+|   |   +---network_management_center-1.20
+|   |   |       network-management-center.zip
+|   |   |       
+|   |   \---plans-7.9.2
+|   |           plans_7.9.2.zip
+|   |           
+|   +---matematika
+|   |   \---scilab-4.1.1
+|   |           man-eng-scilab-4.1.1.tar.gz
+|   |           scilab-4.1.1-src.tar.gz
+|   |           scilab-4.1.1.bin.linux-i686.tar.gz
+|   |           
+|   +---multimedia
+|   |   +---cowbell_music_organizer-0.2.7.1
+|   |   |       cowbell-0.2.7.1.tar.gz
+|   |   |       
+|   |   +---gnormalize-0.52
+|   |   |       gnormalize-0.52.tar.gz
+|   |   |       
+|   |   +---lemuria-1.2.2
+|   |   |       lemuria-1.2.2.tar.gz
+|   |   |       
+|   |   \---tvtime-1.0.2
+|   |           tvtime-1.0.2.tar.gz
+|   |           
+|   +---office
+|   |   \---openoffice.org-2.2.1
+|   |           OOo_2.2.1_LinuxIntel_install_wJRE_en-US.tar.gz
+|   |           
+|   +---plugins
+|   |   \---flash-player-9
+|   |           install_flash_player_9_linux.tar.gz
+|   |           
+|   +---rubrik
+|   |   +---game
+|   |   |   +---amoebax-0.2.0
+|   |   |   |       amoebax-0.2.0.tar.bz2
+|   |   |   |       amoebax-0.2.0.x86.package
+|   |   |   |       
+|   |   |   \---powermangga-0.90
+|   |   |           powermanga-0.90.tgz
+|   |   |           
+|   |   +---praktik-instan
+|   |   |   +---minbar-0.1-4
+|   |   |   |       libitl-0.6.4.tar.bz2
+|   |   |   |       libitl-dev_0.6.4-1_i386.deb
+|   |   |   |       libitl0_0.6.4-1_i386.deb
+|   |   |   |       minbar_0.1-4_i386.deb
+|   |   |   |       
+|   |   |   \---zekr-0.6.0
+|   |   |           indonesian.zip
+|   |   |           ttf-farsiweb_0.4.dfsg-5_all.deb
+|   |   |           ttf-me-quran_1.003-4_all.deb
+|   |   |           ttf-sil-scheherazade_1.001-0_all.deb
+|   |   |           zekr-0.6.0-linux.tar.gz
+|   |   |           zekr-quran-translation-extras_0.11-2_all.deb
+|   |   |           zekr_0.6.0-4_i386.deb
+|   |   |           
+|   |   +---software
+|   |   |   +---sisfokampus-3.2
+|   |   |   |       sisfokampus.tar.gz
+|   |   |   |       
+|   |   |   \---sisfokol-sltav1.0
+|   |   |           SISFOKOL_SLTA_v1.0.tar.bz2
+|   |   |           
+|   |   +---tutorial
+|   |   |   +---grafis_vektor_dengan_inkscape
+|   |   |   |       Elips-MultipleSelection2.png
+|   |   |   |       Elips-Raise.png
+|   |   |   |       Elips-SelectUnder.png
+|   |   |   |       Elips.png
+|   |   |   |       FIllAndStroke.png
+|   |   |   |       Scaling2.png
+|   |   |   |       Spiral-Align2.png
+|   |   |   |       Spiral-FillColour.png
+|   |   |   |       Spiral-Inner2.png
+|   |   |   |       Spiral-Outer2.png
+|   |   |   |       Star-Duplicate.png
+|   |   |   |       Star-Inner.png
+|   |   |   |       Star-Many.png
+|   |   |   |       Teks - Break Apart2.png
+|   |   |   |       Teks - To Vektor.png
+|   |   |   |       Teks-Export.png
+|   |   |   |       Teks.png
+|   |   |   |       Work Area2.png
+|   |   |   |       
+|   |   |   +---membangun_shared_library
+|   |   |   |       dl_test_matematika.c
+|   |   |   |       kuadrat.c
+|   |   |   |       kuadrat.h
+|   |   |   |       lebihbesar.c
+|   |   |   |       lebihbesar.h
+|   |   |   |       lebihkecil.c
+|   |   |   |       lebihkecil.h
+|   |   |   |       matematika.h
+|   |   |   |       myhelloworld.c
+|   |   |   |       test_matematika.c
+|   |   |   |       test_myhelloworld.c
+|   |   |   |       
+|   |   |   \---proses_dan_anak_proses
+|   |   |           s_child.sh
+|   |   |           s_execl.c
+|   |   |           s_execle.c
+|   |   |           s_execlp.c
+|   |   |           s_execv.c
+|   |   |           s_execve.c
+|   |   |           s_execvp.c
+|   |   |           s_fork.c
+|   |   |           s_fork3.c
+|   |   |           s_fork_wait.c
+|   |   |           s_getppid.c
+|   |   |           s_parent.sh
+|   |   |           s_popen.c
+|   |   |           s_system.c
+|   |   |           
+|   |   +---warnux
+|   |   |   \---ltsp
+|   |   |       +---ltsp-4.2u2-0
+|   |   |       |       ltsp-4.2u2-0.iso
+|   |   |       |       ltsp-4.2u2-0.md5sum
+|   |   |       |       
+|   |   |       \---ltsp-utils-0.25.0
+|   |   |               ltsp-utils-0.25.0-noarch-1TnA.tgz
+|   |   |               
+|   |   \---workshop
+|   |       \---workshop-programming
+|   |           +---paket-pear
+|   |           |       DB-1.7.12.tgz
+|   |           |       File_Find-1.3.0.tgz
+|   |           |       
+|   |           \---skrip
+|   |                   dbinfo.php
+|   |                   phptst.sql
+|   |                   tes1.php
+|   |                   tes2.php
+|   |                   tes3.php
+|   |                   
+|   +---sistem-file
+|   |   +---fuse-2.7.0
+|   |   |       fuse-2.7.0.tar.gz
+|   |   |       
+|   |   \---ntfs-3g-1.826
+|   |           ntfs-3g-1.826.tgz
+|   |           
+|   \---utiliti
+|       \---sbackup-0.10.4
+|               sbackup_0.10.4.tar.gz
+|               
++---dists
+|   |   stable
+|   |   unstable
+|   |   
+|   \---feisty
+|       |   Release
+|       |   Release.gpg
+|       |   
+|       \---main
+|           +---binary-i386
+|           |       Packages
+|           |       Packages.gz
+|           |       Release
+|           |       
+|           \---debian-installer
+|               \---binary-i386
+|                       Packages
+|                       Packages.gz
+|                       
++---doc
+|   \---install
+|       \---manual
+|           |   example-preseed.txt.gz
+|           |   
+|           \---en
+|                   apa.html
+|                   apas01.html
+|                   apas02.html
+|                   apas03.html
+|                   apb.html
+|                   apbs01.html
+|                   apbs02.html
+|                   apbs03.html
+|                   apbs04.html
+|                   apbs05.html
+|                   apc.html
+|                   apcs01.html
+|                   apcs02.html
+|                   apcs03.html
+|                   apcs04.html
+|                   apcs05.html
+|                   apd.html
+|                   apds01.html
+|                   apds02.html
+|                   apds03.html
+|                   apds04.html
+|                   apds05.html
+|                   ape.html
+|                   apes01.html
+|                   apes02.html
+|                   apes03.html
+|                   apes04.html
+|                   apf.html
+|                   ch01.html
+|                   ch01s01.html
+|                   ch01s02.html
+|                   ch01s03.html
+|                   ch01s04.html
+|                   ch01s05.html
+|                   ch01s06.html
+|                   ch01s07.html
+|                   ch02.html
+|                   ch02s01.html
+|                   ch02s02.html
+|                   ch02s03.html
+|                   ch02s04.html
+|                   ch02s05.html
+|                   ch02s06.html
+|                   ch03.html
+|                   ch03s01.html
+|                   ch03s02.html
+|                   ch03s03.html
+|                   ch03s04.html
+|                   ch03s05.html
+|                   ch03s06.html
+|                   ch04.html
+|                   ch04s01.html
+|                   ch04s02.html
+|                   ch04s03.html
+|                   ch04s04.html
+|                   ch04s05.html
+|                   ch04s06.html
+|                   ch05.html
+|                   ch05s01.html
+|                   ch05s02.html
+|                   ch05s03.html
+|                   ch06.html
+|                   ch06s01.html
+|                   ch06s02.html
+|                   ch06s03.html
+|                   ch07.html
+|                   ch07s01.html
+|                   ch07s02.html
+|                   ch07s03.html
+|                   ch08.html
+|                   ch08s01.html
+|                   ch08s02.html
+|                   ch08s03.html
+|                   ch08s04.html
+|                   ch08s05.html
+|                   ch08s06.html
+|                   index.html
+|                   install.css
+|                   pr01.html
+|                   
++---install
+|   |   README.sbm
+|   |   initrd.gz
+|   |   mt86plus
+|   |   sbm.bin
+|   |   vmlinuz
+|   |   
+|   \---netboot
+|       |   pxelinux.0
+|       |   pxelinux.cfg
+|       |   
+|       \---ubuntu-installer
+|           \---i386
+|               |   initrd.gz
+|               |   linux
+|               |   pxelinux.0
+|               |   
+|               +---boot-screens
+|               |       boot.txt
+|               |       f1.txt
+|               |       f10.txt
+|               |       f2.txt
+|               |       f3.txt
+|               |       f4.txt
+|               |       f5.txt
+|               |       f6.txt
+|               |       f7.txt
+|               |       f8.txt
+|               |       f9.txt
+|               |       splash.rle
+|               |       
+|               +---pxelinux.cfg
+|               |       default
+|               |       
+|               \---pxelinux.cfg.serial-9600
+|                       default
+|                       
++---isolinux
+|       16x16.fnt
+|       af.tr
+|       ar.tr
+|       back.jpg
+|       be.tr
+|       bg.tr
+|       bn.tr
+|       boot.cat
+|       bootlogo
+|       br.tr
+|       ca.tr
+|       cs.tr
+|       csb.tr
+|       da.tr
+|       de.hlp
+|       de.tr
+|       el.tr
+|       en.hlp
+|       en.tr
+|       eo.tr
+|       es.hlp
+|       es.tr
+|       et.tr
+|       eu.hlp
+|       eu.tr
+|       f1.txt
+|       f10.txt
+|       f2.txt
+|       f3.txt
+|       f3.txt.withgtk
+|       f4.txt
+|       f4.txt.withgtk
+|       f5.txt
+|       f6.txt
+|       f7.txt
+|       f8.txt
+|       f9.txt
+|       fa.tr
+|       fi.hlp
+|       fi.tr
+|       fil.tr
+|       fr.hlp
+|       fr.tr
+|       ga.tr
+|       gl.hlp
+|       gl.tr
+|       hi.tr
+|       hr.tr
+|       hu.hlp
+|       hu.tr
+|       id.hlp
+|       id.tr
+|       is.tr
+|       isolinux.bin
+|       isolinux.cfg
+|       isolinux.txt
+|       it.tr
+|       ja.hlp
+|       ja.tr
+|       ka.hlp
+|       ka.tr
+|       kn.tr
+|       ko.hlp
+|       ko.tr
+|       ku.tr
+|       langlist
+|       lt.tr
+|       lv.tr
+|       mk.tr
+|       mn.tr
+|       ms.tr
+|       nb.tr
+|       nds.tr
+|       nl.hlp
+|       nl.tr
+|       oc.tr
+|       pl.hlp
+|       pl.tr
+|       pt.hlp
+|       pt.tr
+|       pt_BR.hlp
+|       pt_BR.tr
+|       ro.tr
+|       ru.hlp
+|       ru.tr
+|       sk.hlp
+|       sk.tr
+|       sl.tr
+|       so.tr
+|       splash.pcx
+|       splash.rle
+|       sq.tr
+|       sr.tr
+|       sv.hlp
+|       sv.tr
+|       ta.hlp
+|       ta.tr
+|       th.tr
+|       tr.tr
+|       uk.tr
+|       ur.tr
+|       vi.tr
+|       zh_CN.hlp
+|       zh_CN.tr
+|       zh_TW.tr
+|       
++---pics
+|       blue-lowerleft.png
+|       blue-lowerright.png
+|       blue-upperleft.png
+|       blue-upperright.png
+|       debian.jpg
+|       logo-50.jpg
+|       red-lowerleft.png
+|       red-lowerright.png
+|       red-upperleft.png
+|       red-upperright.png
+|       
++---pool
+|   \---main
+|       +---a
+|       |   +---a52dec
+|       |   |       liba52-0.7.4_0.7.4-7_i386.deb
+|       |   |       
+|       |   +---aalib
+|       |   |       libaa1_1.4p5-30_i386.deb
+|       |   |       
+|       |   +---acl
+|       |   |       libacl1_2.2.42-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---aconnectgui
+|       |   |       aconnectgui_0.9.0rc2-1-9_i386.deb
+|       |   |       
+|       |   +---acpi
+|       |   |       acpi_0.09-1_i386.deb
+|       |   |       
+|       |   +---acpi-support
+|       |   |       acpi-support_0.95_i386.deb
+|       |   |       
+|       |   +---acpid
+|       |   |       acpid_1.0.4-5ubuntu6_i386.deb
+|       |   |       
+|       |   +---adduser
+|       |   |       adduser_3.100_all.deb
+|       |   |       
+|       |   +---agave
+|       |   |       agave_0.4.2-2_i386.deb
+|       |   |       
+|       |   +---alacarte
+|       |   |       alacarte_0.11.3-0ubuntu2_all.deb
+|       |   |       
+|       |   +---alien
+|       |   |       alien_8.65_all.deb
+|       |   |       
+|       |   +---alsa-driver
+|       |   |       alsa-base_1.0.13-3ubuntu1_all.deb
+|       |   |       linux-sound-base_1.0.13-3ubuntu1_all.deb
+|       |   |       
+|       |   +---alsa-lib
+|       |   |       libasound2_1.0.13-1ubuntu5_i386.deb
+|       |   |       
+|       |   +---alsa-plugins
+|       |   |       libasound2-plugins_1.0.13-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---alsa-tools
+|       |   |       alsa-tools-gui_1.0.14rc1-0ubuntu1_i386.deb
+|       |   |       alsa-tools_1.0.14rc1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---alsa-utils
+|       |   |       alsa-utils_1.0.13-1ubuntu5_i386.deb
+|       |   |       
+|       |   +---anacron
+|       |   |       anacron_2.3-13ubuntu2_i386.deb
+|       |   |       
+|       |   +---anna
+|       |   |       anna_1.25ubuntu2_i386.udeb
+|       |   |       
+|       |   +---apache2
+|       |   |       apache2-mpm-worker_2.2.3-3.2build1_i386.deb
+|       |   |       apache2-utils_2.2.3-3.2build1_i386.deb
+|       |   |       apache2.2-common_2.2.3-3.2build1_i386.deb
+|       |   |       
+|       |   +---apmd
+|       |   |       apmd_3.2.2-8ubuntu2_i386.deb
+|       |   |       libapm1_3.2.2-8ubuntu2_i386.deb
+|       |   |       
+|       |   +---app-install-data-commercial
+|       |   |       app-install-data-commercial_7_all.deb
+|       |   |       
+|       |   +---apport
+|       |   |       apport-gtk_0.76_all.deb
+|       |   |       apport_0.76_all.deb
+|       |   |       python-apport_0.76_all.deb
+|       |   |       python-problem-report_0.76_all.deb
+|       |   |       
+|       |   +---appres
+|       |   |       appres_1.0.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---apr
+|       |   |       libapr1_1.2.7-8.1_i386.deb
+|       |   |       
+|       |   +---apr-util
+|       |   |       libaprutil1_1.2.7+dfsg-2build1_i386.deb
+|       |   |       
+|       |   +---apt
+|       |   |       apt-utils_0.6.46.4ubuntu10_i386.deb
+|       |   |       apt_0.6.46.4ubuntu10_i386.deb
+|       |   |       
+|       |   +---apt-setup
+|       |   |       apt-cdrom-setup_0.16ubuntu5_all.udeb
+|       |   |       apt-mirror-setup_0.16ubuntu5_all.udeb
+|       |   |       apt-setup-udeb_0.16ubuntu5_all.udeb
+|       |   |       
+|       |   +---aptitude
+|       |   |       aptitude_0.4.4-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---ardour
+|       |   |       ardour_2.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---arts
+|       |   |       libarts1c2a_1.5.6-0ubuntu1_i386.deb
+|       |   |       libartsc0_1.5.6-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---aspell
+|       |   |       aspell_0.60.4-4_i386.deb
+|       |   |       libaspell15_0.60.4-4_i386.deb
+|       |   |       
+|       |   +---aspell-en
+|       |   |       aspell-en_6.0-0-5.1_all.deb
+|       |   |       
+|       |   +---at
+|       |   |       at_3.1.10ubuntu4_i386.deb
+|       |   |       
+|       |   +---at-spi
+|       |   |       libatspi1.0-0_1.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---atk1.0
+|       |   |       libatk1.0-0_1.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---attr
+|       |   |       libattr1_2.4.32-1.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---audacity
+|       |   |       audacity_1.2.6-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---audiofile
+|       |   |       libaudiofile0_0.2.6-6ubuntu3_i386.deb
+|       |   |       
+|       |   \---avahi
+|       |           avahi-autoipd_0.6.17-0ubuntu3_i386.deb
+|       |           avahi-daemon_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-client3_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-common-data_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-common3_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-core5_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-glib1_0.6.17-0ubuntu3_i386.deb
+|       |           libavahi-qt3-1_0.6.17-0ubuntu3_i386.deb
+|       |           
+|       +---b
+|       |   +---base-files
+|       |   |       base-files_4ubuntu2_i386.deb
+|       |   |       lsb-release-udeb_4ubuntu2_all.udeb
+|       |   |       
+|       |   +---base-installer
+|       |   |       base-installer_1.70ubuntu7_i386.udeb
+|       |   |       
+|       |   +---base-passwd
+|       |   |       base-passwd_3.5.11_i386.deb
+|       |   |       
+|       |   +---bash
+|       |   |       bash_3.2-0ubuntu7_i386.deb
+|       |   |       
+|       |   +---bc
+|       |   |       bc_1.06-20ubuntu2_i386.deb
+|       |   |       dc_1.06-20ubuntu2_i386.deb
+|       |   |       
+|       |   +---beagle
+|       |   |       libbeagle0_0.2.16.3-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---beast
+|       |   |       beast_0.6.6-8_i386.deb
+|       |   |       
+|       |   +---beecrypt
+|       |   |       libbeecrypt6_4.1.2-6build1_i386.deb
+|       |   |       
+|       |   +---beforelight
+|       |   |       beforelight_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---belocs-locales-bin
+|       |   |       belocs-locales-bin_2.4-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---bind9
+|       |   |       bind9-host_9.3.4-2ubuntu2_i386.deb
+|       |   |       dnsutils_9.3.4-2ubuntu2_i386.deb
+|       |   |       libbind9-0_9.3.4-2ubuntu2_i386.deb
+|       |   |       libdns22_9.3.4-2ubuntu2_i386.deb
+|       |   |       libisc11_9.3.4-2ubuntu2_i386.deb
+|       |   |       libisccc0_9.3.4-2ubuntu2_i386.deb
+|       |   |       libisccfg1_9.3.4-2ubuntu2_i386.deb
+|       |   |       liblwres9_9.3.4-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---binfmt-support
+|       |   |       binfmt-support_1.2.8_all.deb
+|       |   |       
+|       |   +---binutils
+|       |   |       binutils-static-udeb_2.17.20070103cvs-0ubuntu2_i386.udeb
+|       |   |       binutils-static_2.17.20070103cvs-0ubuntu2_i386.deb
+|       |   |       binutils_2.17.20070103cvs-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---bitmap
+|       |   |       bitmap_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---bitscope
+|       |   |       bitscope_1.1-6ubuntu1_i386.deb
+|       |   |       
+|       |   +---blender
+|       |   |       blender_2.43-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---blop
+|       |   |       blop_0.2.8-3_i386.deb
+|       |   |       
+|       |   +---blt
+|       |   |       blt_2.4z-4_i386.deb
+|       |   |       
+|       |   +---bluez-libs
+|       |   |       libbluetooth2_3.9-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---bluez-pin
+|       |   |       bluez-pin_0.30-2.1ubuntu3_i386.deb
+|       |   |       
+|       |   +---bluez-utils
+|       |   |       bluez-cups_3.9-0ubuntu4_i386.deb
+|       |   |       bluez-utils_3.9-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---bogl
+|       |   |       bogl-bterm-udeb_0.1.18-1.5ubuntu1_i386.udeb
+|       |   |       
+|       |   +---boost
+|       |   |       libboost-thread1.33.1_1.33.1-9ubuntu3_i386.deb
+|       |   |       
+|       |   +---bootchart
+|       |   |       bootchart-udeb_0.9-0ubuntu7_all.udeb
+|       |   |       
+|       |   +---bpalogin
+|       |   |       bpalogin_2.0.2-9ubuntu1_i386.deb
+|       |   |       
+|       |   +---bristol
+|       |   |       bristol_0.9.1-13_i386.deb
+|       |   |       
+|       |   +---brltty
+|       |   |       brltty-udeb_3.7.2-7ubuntu3_i386.udeb
+|       |   |       brltty-x11_3.7.2-7ubuntu3_i386.deb
+|       |   |       brltty_3.7.2-7ubuntu3_i386.deb
+|       |   |       
+|       |   +---bsd-finger
+|       |   |       finger_0.17-10ubuntu1_i386.deb
+|       |   |       
+|       |   +---bsdmainutils
+|       |   |       bsdmainutils_6.1.5ubuntu1_i386.deb
+|       |   |       
+|       |   +---bterm-unifont
+|       |   |       bterm-unifont_1.0_i386.udeb
+|       |   |       
+|       |   +---bug-buddy
+|       |   |       bug-buddy_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---bughelper
+|       |   |       python-launchpad-bugs_0.1.13_all.deb
+|       |   |       
+|       |   +---build-essential
+|       |   |       build-essential_11.3_i386.deb
+|       |   |       
+|       |   +---busybox
+|       |   |       busybox-floppy-udeb_1.1.3-3ubuntu3_i386.udeb
+|       |   |       busybox-initramfs_1.1.3-3ubuntu3_i386.deb
+|       |   |       busybox-udeb_1.1.3-3ubuntu3_i386.udeb
+|       |   |       
+|       |   +---bzip2
+|       |   |       bzip2_1.0.3-6build1_i386.deb
+|       |   |       libbz2-1.0_1.0.3-6build1_i386.deb
+|       |   |       
+|       |   \---bzr
+|       |           bzr_0.15-0ubuntu2_all.deb
+|       |           
+|       +---c
+|       |   +---ca-certificates
+|       |   |       ca-certificates_20061027_all.deb
+|       |   |       
+|       |   +---cairomm
+|       |   |       libcairomm-1.0-1_1.2.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---caps
+|       |   |       caps_0.3.0-1_i386.deb
+|       |   |       
+|       |   +---cdebconf
+|       |   |       cdebconf-newt-udeb_0.111ubuntu2_i386.udeb
+|       |   |       cdebconf-priority_0.111ubuntu2_all.udeb
+|       |   |       cdebconf-text-udeb_0.111ubuntu2_i386.udeb
+|       |   |       cdebconf-udeb_0.111ubuntu2_i386.udeb
+|       |   |       libdebconfclient0-udeb_0.111ubuntu2_i386.udeb
+|       |   |       
+|       |   +---cdebconf-keystep
+|       |   |       cdebconf-newt-detect-keys_0.6_i386.udeb
+|       |   |       
+|       |   +---cdparanoia
+|       |   |       cdparanoia_3.10+debian~pre0-4build1_i386.deb
+|       |   |       libcdparanoia0_3.10+debian~pre0-4build1_i386.deb
+|       |   |       
+|       |   +---cdrdao
+|       |   |       cdrdao_1.2.2-5ubuntu1_i386.deb
+|       |   |       
+|       |   +---cdrkit
+|       |   |       cdrecord_1.1.2-1_all.deb
+|       |   |       genisoimage_1.1.2-1_i386.deb
+|       |   |       mkisofs_1.1.2-1_all.deb
+|       |   |       wodim_1.1.2-1_i386.deb
+|       |   |       
+|       |   +---cdrom-checker
+|       |   |       cdrom-checker_1.09ubuntu2_i386.udeb
+|       |   |       
+|       |   +---cdrom-detect
+|       |   |       cdrom-detect_1.18ubuntu2_all.udeb
+|       |   |       
+|       |   +---cdrom-retriever
+|       |   |       cdrom-retriever_1.12_all.udeb
+|       |   |       load-cdrom_1.12_all.udeb
+|       |   |       
+|       |   +---choose-mirror
+|       |   |       choose-mirror-bin_2.10ubuntu2_i386.udeb
+|       |   |       choose-mirror_2.10ubuntu2_all.udeb
+|       |   |       
+|       |   +---cinepaint
+|       |   |       cinepaint-data_0.21-2-0ubuntu3_all.deb
+|       |   |       cinepaint_0.21-2-0ubuntu3_i386.deb
+|       |   |       libcinepaint0_0.21-2-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---cli-common
+|       |   |       cli-common_0.4.6_all.deb
+|       |   |       
+|       |   +---clock-setup
+|       |   |       clock-setup_0.12ubuntu2_i386.udeb
+|       |   |       
+|       |   +---cmt
+|       |   |       cmt_1.15-3.1_i386.deb
+|       |   |       
+|       |   +---command-not-found
+|       |   |       command-not-found-data_0.2.4_i386.deb
+|       |   |       command-not-found_0.2.4_all.deb
+|       |   |       
+|       |   +---console-setup
+|       |   |       console-setup-fonts-udeb_1.13ubuntu13_all.udeb
+|       |   |       console-setup-pc-ekmap_1.13ubuntu13_all.udeb
+|       |   |       console-setup-udeb_1.13ubuntu13_all.udeb
+|       |   |       console-setup_1.13ubuntu13_all.deb
+|       |   |       
+|       |   +---console-tools
+|       |   |       console-tools-udeb_0.2.3dbs-65ubuntu3_i386.udeb
+|       |   |       console-tools_0.2.3dbs-65ubuntu3_i386.deb
+|       |   |       libconsole-udeb_0.2.3dbs-65ubuntu3_i386.udeb
+|       |   |       libconsole_0.2.3dbs-65ubuntu3_i386.deb
+|       |   |       
+|       |   +---contact-lookup-applet
+|       |   |       contact-lookup-applet_0.15-1build2_i386.deb
+|       |   |       
+|       |   +---control-center
+|       |   |       capplets-data_2.18.1-0ubuntu2_all.deb
+|       |   |       gnome-control-center_2.18.1-0ubuntu2_i386.deb
+|       |   |       libgnome-window-settings1_2.18.1-0ubuntu2_i386.deb
+|       |   |       libslab0_2.18.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---coreutils
+|       |   |       coreutils_5.97-5.2ubuntu3_i386.deb
+|       |   |       
+|       |   +---cpio
+|       |   |       cpio_2.6-17_i386.deb
+|       |   |       
+|       |   +---creox
+|       |   |       creox_0.2.2rc2-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---cron
+|       |   |       cron_3.0pl1-100ubuntu1_i386.deb
+|       |   |       
+|       |   +---csound
+|       |   |       csound_4.23f13-1.1_i386.deb
+|       |   |       
+|       |   +---cupsys
+|       |   |       cupsys-bsd_1.2.8-0ubuntu8_i386.deb
+|       |   |       cupsys-client_1.2.8-0ubuntu8_i386.deb
+|       |   |       cupsys-common_1.2.8-0ubuntu8_all.deb
+|       |   |       cupsys_1.2.8-0ubuntu8_i386.deb
+|       |   |       libcupsimage2_1.2.8-0ubuntu8_i386.deb
+|       |   |       libcupsys2_1.2.8-0ubuntu8_i386.deb
+|       |   |       
+|       |   +---curl
+|       |   |       libcurl3-gnutls_7.15.5-1ubuntu2_i386.deb
+|       |   |       libcurl3_7.15.5-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---cvs
+|       |   |       cvs_1.12.13-5build1_i386.deb
+|       |   |       
+|       |   \---cyrus-sasl2
+|       |           libsasl2-2_2.1.22.dfsg1-8ubuntu2_i386.deb
+|       |           libsasl2-modules_2.1.22.dfsg1-8ubuntu2_i386.deb
+|       |           
+|       +---d
+|       |   +---dash
+|       |   |       dash_0.5.3-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---db4.2
+|       |   |       libdb4.2_4.2.52+dfsg-1build1_i386.deb
+|       |   |       
+|       |   +---db4.3
+|       |   |       libdb4.3_4.3.29-6build1_i386.deb
+|       |   |       
+|       |   +---db4.4
+|       |   |       libdb4.4_4.4.20-8ubuntu2_i386.deb
+|       |   |       
+|       |   +---dbus
+|       |   |       dbus-1-utils_1.0.2-1ubuntu3_i386.deb
+|       |   |       dbus_1.0.2-1ubuntu3_i386.deb
+|       |   |       libdbus-1-3_1.0.2-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---dbus-glib
+|       |   |       libdbus-glib-1-2_0.73-1_i386.deb
+|       |   |       
+|       |   +---dbus-python
+|       |   |       python-dbus_0.80.2-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---dcraw
+|       |   |       dcraw_8.39-1_i386.deb
+|       |   |       
+|       |   +---debconf
+|       |   |       debconf-i18n_1.5.13ubuntu1_all.deb
+|       |   |       debconf-utils_1.5.13ubuntu1_all.deb
+|       |   |       debconf_1.5.13ubuntu1_all.deb
+|       |   |       
+|       |   +---debhelper
+|       |   |       debhelper_5.0.42ubuntu1_all.deb
+|       |   |       
+|       |   +---debian-installer-utils
+|       |   |       di-utils-mapdevfs_1.42ubuntu2_i386.udeb
+|       |   |       di-utils-reboot_1.42ubuntu2_all.udeb
+|       |   |       di-utils-shell_1.42ubuntu2_all.udeb
+|       |   |       di-utils-terminfo_1.42ubuntu2_all.udeb
+|       |   |       di-utils_1.42ubuntu2_i386.udeb
+|       |   |       
+|       |   +---debianutils
+|       |   |       debianutils_2.17.4build1_i386.deb
+|       |   |       
+|       |   +---debootstrap
+|       |   |       debootstrap-udeb_0.3.3.2ubuntu3_i386.udeb
+|       |   |       debootstrap_0.3.3.2ubuntu3_all.deb
+|       |   |       
+|       |   +---defoma
+|       |   |       defoma_0.11.10_all.deb
+|       |   |       
+|       |   +---denemo
+|       |   |       denemo_0.7.5-4ubuntu2_i386.deb
+|       |   |       
+|       |   +---deskbar-applet
+|       |   |       deskbar-applet_2.18.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---desktop-file-utils
+|       |   |       desktop-file-utils_0.12-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---devmapper
+|       |   |       dmsetup-udeb_1.02.08-1ubuntu10_i386.udeb
+|       |   |       dmsetup_1.02.08-1ubuntu10_i386.deb
+|       |   |       libdevmapper1.02-udeb_1.02.08-1ubuntu10_i386.udeb
+|       |   |       libdevmapper1.02_1.02.08-1ubuntu10_i386.deb
+|       |   |       
+|       |   +---devscripts
+|       |   |       devscripts_2.9.27ubuntu13_i386.deb
+|       |   |       
+|       |   +---dhcdbd
+|       |   |       dhcdbd_2.0-2ubuntu3_i386.deb
+|       |   |       
+|       |   +---dhcp
+|       |   |       dhcp-client-udeb_2.0pl5-19.5ubuntu2_i386.udeb
+|       |   |       
+|       |   +---dhcp3
+|       |   |       dhcp3-client_3.0.4-12ubuntu4_i386.deb
+|       |   |       dhcp3-common_3.0.4-12ubuntu4_i386.deb
+|       |   |       dhcp3-server_3.0.4-12ubuntu4_i386.deb
+|       |   |       
+|       |   +---dict-en-za
+|       |   |       myspell-en-za_20070206-1_all.deb
+|       |   |       
+|       |   +---dictionaries-common
+|       |   |       dictionaries-common_0.70.11ubuntu1_all.deb
+|       |   |       
+|       |   +---diffutils
+|       |   |       diff_2.8.1-11ubuntu4_i386.deb
+|       |   |       
+|       |   +---directfb
+|       |   |       libdirectfb-0.9-25_0.9.25.1-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---discover-data
+|       |   |       discover1-data_2.2007.02.02ubuntu1_all.deb
+|       |   |       
+|       |   +---discover1
+|       |   |       discover1_1.7.20ubuntu1_i386.deb
+|       |   |       libdiscover1_1.7.20ubuntu1_i386.deb
+|       |   |       
+|       |   +---djvulibre
+|       |   |       libdjvulibre15_3.5.17-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---dmidecode
+|       |   |       dmidecode_2.8-2_i386.deb
+|       |   |       
+|       |   +---doc-base
+|       |   |       doc-base_0.7.21ubuntu2_all.deb
+|       |   |       
+|       |   +---docbook-xml
+|       |   |       docbook-xml_4.4-5_all.deb
+|       |   |       
+|       |   +---dosfstools
+|       |   |       dosfstools_2.11-2.1ubuntu3_i386.deb
+|       |   |       
+|       |   +---dpkg
+|       |   |       dpkg-dev_1.13.24ubuntu6_all.deb
+|       |   |       dpkg_1.13.24ubuntu6_i386.deb
+|       |   |       dselect_1.13.24ubuntu6_i386.deb
+|       |   |       
+|       |   +---drdsl
+|       |   |       drdsl_1.2.0-1_i386.deb
+|       |   |       
+|       |   +---dssi
+|       |   |       dssi-example-plugins_0.9.1-2_i386.deb
+|       |   |       dssi-host-jack_0.9.1-2_i386.deb
+|       |   |       dssi-utils_0.9.1-2_i386.deb
+|       |   |       
+|       |   +---dvd+rw-tools
+|       |   |       dvd+rw-tools_7.0-6_i386.deb
+|       |   |       
+|       |   \---dvgrab
+|       |           dvgrab_1.8-4_i386.deb
+|       |           
+|       +---e
+|       |   +---e2fsprogs
+|       |   |       e2fslibs_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       e2fsprogs-udeb_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.udeb
+|       |   |       e2fsprogs_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       libblkid1-udeb_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.udeb
+|       |   |       libblkid1_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       libcomerr2_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       libss2_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       libuuid1-udeb_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.udeb
+|       |   |       libuuid1_1.39+1.40-WIP-2006.11.14+dfsg-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---eagle-usb
+|       |   |       eagle-usb-data_2.1.1-2.1ubuntu1_all.deb
+|       |   |       eagle-usb-utils_2.1.1-2.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---ed
+|       |   |       ed_0.2-20_i386.deb
+|       |   |       
+|       |   +---editres
+|       |   |       editres_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---eel2
+|       |   |       libeel2-2_2.18.0.1-0ubuntu1_i386.deb
+|       |   |       libeel2-data_2.18.0.1-0ubuntu1_all.deb
+|       |   |       
+|       |   +---eject
+|       |   |       eject-udeb_2.1.4-2.1ubuntu2_i386.udeb
+|       |   |       eject_2.1.4-2.1ubuntu2_i386.deb
+|       |   |       
+|       |   +---ekg
+|       |   |       libgadu3_1.7~rc2-2_i386.deb
+|       |   |       
+|       |   +---elilo-installer
+|       |   |       elilo-installer_1.8ubuntu3_i386.udeb
+|       |   |       
+|       |   +---enblend
+|       |   |       enblend_3.0.dfsg.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---enchant
+|       |   |       libenchant1c2a_1.3.0-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---eog
+|       |   |       eog_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---esound
+|       |   |       esound-common_0.2.36-3ubuntu4_all.deb
+|       |   |       esound_0.2.36-3ubuntu4_i386.deb
+|       |   |       libesd-alsa0_0.2.36-3ubuntu4_i386.deb
+|       |   |       
+|       |   +---espeak
+|       |   |       espeak-data_1.21-0ubuntu1_i386.deb
+|       |   |       espeak_1.21-0ubuntu1_i386.deb
+|       |   |       libespeak1_1.21-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---ethtool
+|       |   |       ethtool_5-1build1_i386.deb
+|       |   |       
+|       |   +---evince
+|       |   |       evince_0.8.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---evolution-data-server
+|       |   |       libcamel1.2-10_1.10.1-0ubuntu1_i386.deb
+|       |   |       libebook1.2-9_1.10.1-0ubuntu1_i386.deb
+|       |   |       libecal1.2-7_1.10.1-0ubuntu1_i386.deb
+|       |   |       libedataserver1.2-9_1.10.1-0ubuntu1_i386.deb
+|       |   |       libedataserverui1.2-8_1.10.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---evolution-webcal
+|       |   |       evolution-webcal_2.10.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---exiv2
+|       |   |       libexiv2-0.12_0.12-0ubuntu2_i386.deb
+|       |   |       
+|       |   \---expat
+|       |           libexpat1_1.95.8-3.4build1_i386.deb
+|       |           
+|       +---f
+|       |   +---f-spot
+|       |   |       f-spot_0.3.5-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---fakeroot
+|       |   |       fakeroot_1.5.10ubuntu2_i386.deb
+|       |   |       
+|       |   +---fbset
+|       |   |       fbset-udeb_2.1-19ubuntu1_i386.udeb
+|       |   |       
+|       |   +---fdutils
+|       |   |       fdutils_5.5-20060227-1.1_i386.deb
+|       |   |       
+|       |   +---ffmpeg
+|       |   |       ffmpeg_0.cvs20060823-3.1ubuntu4_i386.deb
+|       |   |       libavcodec0d_0.cvs20060823-3.1ubuntu4_i386.deb
+|       |   |       libavformat0d_0.cvs20060823-3.1ubuntu4_i386.deb
+|       |   |       
+|       |   +---ffmpeg2theora
+|       |   |       ffmpeg2theora_0.16-2build1_i386.deb
+|       |   |       
+|       |   +---fftw3
+|       |   |       fftw3_3.1.2-1build1_i386.deb
+|       |   |       
+|       |   +---fil-plugins
+|       |   |       fil-plugins_0.1.0-1_i386.deb
+|       |   |       
+|       |   +---file
+|       |   |       file_4.19-1ubuntu2_i386.deb
+|       |   |       libmagic1_4.19-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---file-roller
+|       |   |       file-roller_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---findutils
+|       |   |       findutils_4.2.28-2_i386.deb
+|       |   |       
+|       |   +---finish-install
+|       |   |       finish-install_2.7ubuntu3_all.udeb
+|       |   |       
+|       |   +---firefox
+|       |   |       firefox-gnome-support_2.0.0.3+1-0ubuntu2_i386.deb
+|       |   |       firefox_2.0.0.3+1-0ubuntu2_i386.deb
+|       |   |       libnspr4_1.firefox2.0.0.3+1-0ubuntu2_i386.deb
+|       |   |       libnss3_1.firefox2.0.0.3+1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---flac
+|       |   |       libflac++5c2_1.1.2-5ubuntu2_i386.deb
+|       |   |       libflac7_1.1.2-5ubuntu2_i386.deb
+|       |   |       liboggflac3_1.1.2-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---floppy-retriever
+|       |   |       floppy-retriever_1.12_all.udeb
+|       |   |       load-floppy_1.12_all.udeb
+|       |   |       
+|       |   +---fltk1.1
+|       |   |       libfltk1.1_1.1.7-2_i386.deb
+|       |   |       
+|       |   +---fluidsynth
+|       |   |       fluidsynth_1.0.7a-1_i386.deb
+|       |   |       libfluidsynth1_1.0.7a-1_i386.deb
+|       |   |       
+|       |   +---fluidsynth-dssi
+|       |   |       dssi-plugin-fluidsynth_0.9.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---fontconfig
+|       |   |       fontconfig-config_2.4.2-1ubuntu1_all.deb
+|       |   |       fontconfig_2.4.2-1ubuntu1_i386.deb
+|       |   |       libfontconfig1_2.4.2-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---fontforge
+|       |   |       fontforge_0.0.20061220-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---foo2zjs
+|       |   |       foo2zjs_20061224-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---foomatic-db
+|       |   |       foomatic-db_20070327-0ubuntu1_all.deb
+|       |   |       openprinting-ppds_20070327-0ubuntu1_all.deb
+|       |   |       
+|       |   +---foomatic-db-engine
+|       |   |       foomatic-db-engine_3.0.2-20070303-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---foomatic-db-hpijs
+|       |   |       foomatic-db-hpijs_20070327-0ubuntu1_all.deb
+|       |   |       
+|       |   +---foomatic-filters
+|       |   |       foomatic-filters_3.0.2-20070323-0ubuntu1_all.deb
+|       |   |       
+|       |   +---fortune-mod
+|       |   |       fortune-mod_1.99.1-3ubuntu1_i386.deb
+|       |   |       fortunes-min_1.99.1-3ubuntu1_all.deb
+|       |   |       
+|       |   +---fping
+|       |   |       fping_2.4b2-to-ipv6-14_i386.deb
+|       |   |       
+|       |   +---freebirth
+|       |   |       freebirth-data_0.3.2-8_all.deb
+|       |   |       freebirth_0.3.2-8_i386.deb
+|       |   |       
+|       |   +---freeglut
+|       |   |       freeglut3_2.4.0-5_i386.deb
+|       |   |       
+|       |   +---freepats
+|       |   |       freepats_20060219-1_all.deb
+|       |   |       
+|       |   +---freetype
+|       |   |       libfreetype6_2.2.1-5ubuntu1_i386.deb
+|       |   |       
+|       |   +---freqtweak
+|       |   |       freqtweak_0.6.1-1.4_i386.deb
+|       |   |       
+|       |   +---fribidi
+|       |   |       libfribidi0-udeb_0.10.7-4build1_i386.udeb
+|       |   |       libfribidi0_0.10.7-4build1_i386.deb
+|       |   |       
+|       |   +---fstobdf
+|       |   |       fstobdf_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---fuse
+|       |           fuse-utils_2.6.3-1ubuntu2_i386.deb
+|       |           libfuse2_2.6.3-1ubuntu2_i386.deb
+|       |           
+|       +---g
+|       |   +---gail
+|       |   |       libgail-common_1.18.0-0ubuntu1_i386.deb
+|       |   |       libgail18_1.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gaim
+|       |   |       gaim-data_2.0.0+beta6-1ubuntu4_all.deb
+|       |   |       gaim_2.0.0+beta6-1ubuntu4_i386.deb
+|       |   |       
+|       |   +---gamin
+|       |   |       gamin_0.1.8-1ubuntu3_i386.deb
+|       |   |       libgamin0_0.1.8-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---gcalctool
+|       |   |       gcalctool_5.9.14-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gcc-3.3
+|       |   |       gcc-3.3-base_3.3.6-15ubuntu1_i386.deb
+|       |   |       libstdc++5_3.3.6-15ubuntu1_i386.deb
+|       |   |       
+|       |   +---gcc-4.1
+|       |   |       cpp-4.1_4.1.2-0ubuntu4_i386.deb
+|       |   |       g++-4.1_4.1.2-0ubuntu4_i386.deb
+|       |   |       gcc-4.1-base_4.1.2-0ubuntu4_i386.deb
+|       |   |       gcc-4.1_4.1.2-0ubuntu4_i386.deb
+|       |   |       libgcc1_4.1.2-0ubuntu4_i386.deb
+|       |   |       libstdc++6-4.1-dev_4.1.2-0ubuntu4_i386.deb
+|       |   |       libstdc++6_4.1.2-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---gcc-defaults
+|       |   |       cpp_4.1.2-1ubuntu1_i386.deb
+|       |   |       g++_4.1.2-1ubuntu1_i386.deb
+|       |   |       gcc_4.1.2-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---gconf-editor
+|       |   |       gconf-editor_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gconf2
+|       |   |       gconf2-common_2.18.0.1-0ubuntu1_all.deb
+|       |   |       gconf2_2.18.0.1-0ubuntu1_i386.deb
+|       |   |       libgconf2-4_2.18.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gconfmm2.6
+|       |   |       libgconfmm-2.6-1c2_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gdb
+|       |   |       gdb_6.6.dfsg-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---gdbm
+|       |   |       libgdbm3_1.8.3-3_i386.deb
+|       |   |       
+|       |   +---gdebi
+|       |   |       gdebi-core_0.2.4ubuntu1_all.deb
+|       |   |       gdebi_0.2.4ubuntu1_all.deb
+|       |   |       
+|       |   +---gdl
+|       |   |       libgdl-1-0_0.6.1-1_i386.deb
+|       |   |       libgdl-1-common_0.6.1-1_all.deb
+|       |   |       
+|       |   +---gdm
+|       |   |       gdm_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gedit
+|       |   |       gedit-common_2.18.1-0ubuntu1_all.deb
+|       |   |       gedit_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gettext
+|       |   |       gettext-base_0.16.1-1ubuntu2_i386.deb
+|       |   |       gettext_0.16.1-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---gimp
+|       |   |       gimp-data_2.2.13-1ubuntu4_all.deb
+|       |   |       gimp-svg_2.2.13-1ubuntu4_i386.deb
+|       |   |       gimp_2.2.13-1ubuntu4_i386.deb
+|       |   |       libgimp2.0_2.2.13-1ubuntu4_i386.deb
+|       |   |       
+|       |   +---gimp-gap
+|       |   |       gimp-gap_2.2.0-2.1_i386.deb
+|       |   |       
+|       |   +---gksu
+|       |   |       gksu_2.0.0-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---glew
+|       |   |       libglew1_1.3.4-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---glib1.2
+|       |   |       libglib1.2_1.2.10-17build1_i386.deb
+|       |   |       
+|       |   +---glib2.0
+|       |   |       libglib2.0-0_2.12.11-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---glibc
+|       |   |       libc6-dev_2.5-0ubuntu14_i386.deb
+|       |   |       libc6-i686_2.5-0ubuntu14_i386.deb
+|       |   |       libc6-udeb_2.5-0ubuntu14_i386.udeb
+|       |   |       libc6_2.5-0ubuntu14_i386.deb
+|       |   |       libnss-dns-udeb_2.5-0ubuntu14_i386.udeb
+|       |   |       libnss-files-udeb_2.5-0ubuntu14_i386.udeb
+|       |   |       
+|       |   +---glibmm2.4
+|       |   |       libglibmm-2.4-1c2a_2.13.3-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---glut
+|       |   |       libglut3_3.7-25_all.deb
+|       |   |       
+|       |   +---gmp
+|       |   |       libgmp3c2_4.2.1+dfsg-4build1_i386.deb
+|       |   |       
+|       |   +---gnome-app-install
+|       |   |       app-install-data_0.3.30_all.deb
+|       |   |       gnome-app-install_0.3.30_all.deb
+|       |   |       
+|       |   +---gnome-applets
+|       |   |       gnome-applets-data_2.18.0-0ubuntu1_all.deb
+|       |   |       gnome-applets_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-cups-manager
+|       |   |       gnome-cups-manager_0.31-3ubuntu5_i386.deb
+|       |   |       libgnomecupsui1.0-1c2a_0.31-3ubuntu5_i386.deb
+|       |   |       
+|       |   +---gnome-desktop
+|       |   |       gnome-about_2.18.1-0ubuntu1_i386.deb
+|       |   |       gnome-desktop-data_2.18.1-0ubuntu1_all.deb
+|       |   |       libgnome-desktop-2_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-doc-utils
+|       |   |       gnome-doc-utils_0.10.3-0ubuntu1_all.deb
+|       |   |       
+|       |   +---gnome-icon-theme
+|       |   |       gnome-icon-theme_2.18.0-0ubuntu4_all.deb
+|       |   |       
+|       |   +---gnome-keyring
+|       |   |       gnome-keyring_0.8.1-0ubuntu1_i386.deb
+|       |   |       libgnome-keyring0_0.8.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-keyring-manager
+|       |   |       gnome-keyring-manager_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-media
+|       |   |       gnome-media-common_2.18.0-0ubuntu1_all.deb
+|       |   |       gnome-media_2.18.0-0ubuntu1_i386.deb
+|       |   |       libgnome-media0_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-menus
+|       |   |       gnome-menus_2.18.0-0ubuntu3_i386.deb
+|       |   |       libgnome-menu2_2.18.0-0ubuntu3_i386.deb
+|       |   |       python-gmenu_2.18.0-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-mime-data
+|       |   |       gnome-mime-data_2.4.3-1_all.deb
+|       |   |       
+|       |   +---gnome-mount
+|       |   |       gnome-mount_0.5-2ubuntu8_i386.deb
+|       |   |       
+|       |   +---gnome-netstatus
+|       |   |       gnome-netstatus-applet_2.12.1-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-nettool
+|       |   |       gnome-nettool_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-panel
+|       |   |       gnome-panel-data_2.18.1-0ubuntu3_all.deb
+|       |   |       gnome-panel_2.18.1-0ubuntu3_i386.deb
+|       |   |       libpanel-applet2-0_2.18.1-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-pilot
+|       |   |       gnome-pilot_2.0.15-0.1ubuntu1_i386.deb
+|       |   |       libgnome-pilot2_2.0.15-0.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-pilot-conduits
+|       |   |       gnome-pilot-conduits_2.0.15-0.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-power-manager
+|       |   |       gnome-power-manager_2.18.2-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-python
+|       |   |       python-gconf_2.18.0-0ubuntu1_i386.deb
+|       |   |       python-gnome2_2.18.0-0ubuntu1_i386.deb
+|       |   |       python-gnomecanvas_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-python-desktop
+|       |   |       python-gnome2-desktop_2.18.0-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-python-extras
+|       |   |       python-gnome2-extras_2.14.3-0ubuntu1_i386.deb
+|       |   |       python-gtkhtml2_2.14.3-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-raw-thumbnailer
+|       |   |       gnome-raw-thumbnailer_2.0.1-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---gnome-screensaver
+|       |   |       gnome-screensaver_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-session
+|       |   |       gnome-session_2.18.0-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---gnome-sharp2
+|       |   |       libgconf2.0-cil_2.16.0-0ubuntu5_all.deb
+|       |   |       libgnome2.0-cil_2.16.0-0ubuntu5_i386.deb
+|       |   |       
+|       |   +---gnome-spell
+|       |   |       gnome-spell_1.0.7-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---gnome-system-monitor
+|       |   |       gnome-system-monitor_2.18.1.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-system-tools
+|       |   |       gnome-system-tools_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-terminal
+|       |   |       gnome-terminal-data_2.18.0-0ubuntu1_all.deb
+|       |   |       gnome-terminal_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-themes
+|       |   |       gnome-themes_2.18.1-0ubuntu1_all.deb
+|       |   |       
+|       |   +---gnome-user-docs
+|       |   |       gnome-user-guide_2.18.1-0ubuntu1_all.deb
+|       |   |       
+|       |   +---gnome-utils
+|       |   |       gnome-utils_2.18.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---gnome-vfs2
+|       |   |       libgnomevfs2-0_2.18.1-0ubuntu1_i386.deb
+|       |   |       libgnomevfs2-bin_2.18.1-0ubuntu1_i386.deb
+|       |   |       libgnomevfs2-common_2.18.1-0ubuntu1_all.deb
+|       |   |       libgnomevfs2-extra_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gnome-volume-manager
+|       |   |       gnome-volume-manager_2.17.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---gnonlin
+|       |   |       gstreamer0.10-gnonlin_0.10.7-1_i386.deb
+|       |   |       
+|       |   +---gnupg
+|       |   |       gnupg_1.4.6-1ubuntu2_i386.deb
+|       |   |       gpgv-udeb_1.4.6-1ubuntu2_i386.udeb
+|       |   |       gpgv_1.4.6-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---gnupginterface
+|       |   |       python-gnupginterface_0.3.2-9_all.deb
+|       |   |       
+|       |   +---gnutls13
+|       |   |       libgnutls13_1.4.4-3build1_i386.deb
+|       |   |       
+|       |   +---gpm
+|       |   |       libgpmg1_1.19.6-23build1_i386.deb
+|       |   |       
+|       |   +---grep
+|       |   |       grep_2.5.1.ds2-6build1_i386.deb
+|       |   |       
+|       |   +---groff
+|       |   |       groff-base_1.18.1.1-12_i386.deb
+|       |   |       
+|       |   +---grub
+|       |   |       grub_0.97-20ubuntu6_i386.deb
+|       |   |       
+|       |   +---grub-installer
+|       |   |       grub-installer_1.20ubuntu3_i386.udeb
+|       |   |       
+|       |   +---gs-common
+|       |   |       gs-common_0.3.11ubuntu1_all.deb
+|       |   |       
+|       |   +---gs-esp
+|       |   |       gs-esp-x_8.15.4.dfsg.1-0ubuntu1_i386.deb
+|       |   |       gs-esp_8.15.4.dfsg.1-0ubuntu1_i386.deb
+|       |   |       libgs-esp8_8.15.4.dfsg.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gsfonts
+|       |   |       gsfonts_8.11+urwcyr1.0.7~pre41-1_all.deb
+|       |   |       
+|       |   +---gst-plugins-base0.10
+|       |   |       gstreamer0.10-alsa_0.10.12-0ubuntu1_i386.deb
+|       |   |       gstreamer0.10-gnomevfs_0.10.12-0ubuntu1_i386.deb
+|       |   |       gstreamer0.10-plugins-base-apps_0.10.12-0ubuntu1_i386.deb
+|       |   |       gstreamer0.10-plugins-base_0.10.12-0ubuntu1_i386.deb
+|       |   |       gstreamer0.10-x_0.10.12-0ubuntu1_i386.deb
+|       |   |       libgstreamer-plugins-base0.10-0_0.10.12-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gst-plugins-good0.10
+|       |   |       gstreamer0.10-esd_0.10.5-1ubuntu2_i386.deb
+|       |   |       gstreamer0.10-plugins-good_0.10.5-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---gst-pulse
+|       |   |       libgstreamer-plugins-pulse0.10-0_0.9.4-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---gst0.10-python
+|       |   |       python-gst0.10_0.10.6-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---gstreamer0.10
+|       |   |       gstreamer0.10-tools_0.10.12-0ubuntu2_i386.deb
+|       |   |       libgstreamer0.10-0_0.10.12-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---gthumb
+|       |   |       gthumb_2.10.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gtick
+|       |   |       gtick_0.3.12-1_i386.deb
+|       |   |       
+|       |   +---gtk+1.2
+|       |   |       libgtk1.2-common_1.2.10-18_all.deb
+|       |   |       libgtk1.2_1.2.10-18_i386.deb
+|       |   |       
+|       |   +---gtk+2.0
+|       |   |       gtk2-engines-pixbuf_2.10.11-0ubuntu3_i386.deb
+|       |   |       libgtk2.0-0_2.10.11-0ubuntu3_i386.deb
+|       |   |       libgtk2.0-bin_2.10.11-0ubuntu3_i386.deb
+|       |   |       libgtk2.0-common_2.10.11-0ubuntu3_all.deb
+|       |   |       
+|       |   +---gtk-sharp2
+|       |   |       libglade2.0-cil_2.10.0-0ubuntu4_i386.deb
+|       |   |       libglib2.0-cil_2.10.0-0ubuntu4_i386.deb
+|       |   |       libgtk2.0-cil_2.10.0-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---gtk2-engines
+|       |   |       gtk2-engines_2.10.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gtkhtml3.14
+|       |   |       libgtkhtml3.14-19_3.14.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---gtkmm
+|       |   |       libgtkmm1.2-0c2a_1.2.10-8ubuntu1_i386.deb
+|       |   |       
+|       |   +---gtkmm2.4
+|       |   |       libgtkmm-2.4-1c2a_2.10.8-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gtksourceview
+|       |   |       libgtksourceview-common_1.8.5-0ubuntu1_all.deb
+|       |   |       libgtksourceview1.0-0_1.8.5-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---gtkspell
+|       |   |       libgtkspell0_2.0.10-3_i386.deb
+|       |   |       
+|       |   +---gucharmap
+|       |   |       gucharmap_1.10.0-0ubuntu1_i386.deb
+|       |   |       libgucharmap6_1.10.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---guile-1.6
+|       |   |       guile-1.6-libs_1.6.8-6build1_i386.deb
+|       |   |       libguile-ltdl-1_1.6.8-6build1_i386.deb
+|       |   |       libqthreads-12_1.6.8-6build1_i386.deb
+|       |   |       
+|       |   +---guile-1.8
+|       |   |       guile-1.8-libs_1.8.1+1-4_i386.deb
+|       |   |       guile-1.8_1.8.1+1-4_i386.deb
+|       |   |       
+|       |   +---gutenprint
+|       |   |       cupsys-driver-gutenprint_5.0.0.99.1-0ubuntu2_i386.deb
+|       |   |       gimp-print_5.0.0.99.1-0ubuntu2_i386.deb
+|       |   |       libgutenprint2_5.0.0.99.1-0ubuntu2_i386.deb
+|       |   |       libgutenprintui2-1_5.0.0.99.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   \---gzip
+|       |           gzip_1.3.9-2_i386.deb
+|       |           
+|       +---h
+|       |   +---hal
+|       |   |       hal-device-manager_0.5.8.1-4ubuntu12_all.deb
+|       |   |       hal_0.5.8.1-4ubuntu12_i386.deb
+|       |   |       libhal-storage1_0.5.8.1-4ubuntu12_i386.deb
+|       |   |       libhal1_0.5.8.1-4ubuntu12_i386.deb
+|       |   |       
+|       |   +---hdparm
+|       |   |       hdparm-udeb_6.9-1ubuntu2_i386.udeb
+|       |   |       hdparm_6.9-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---hexter
+|       |   |       dssi-plugin-hexter_0.5.9-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---hicolor-icon-theme
+|       |   |       hicolor-icon-theme_0.10-1ubuntu1_all.deb
+|       |   |       
+|       |   +---hostname
+|       |   |       hostname_2.93build1_i386.deb
+|       |   |       
+|       |   +---hotkey-setup
+|       |   |       hotkey-setup_0.1-17ubuntu9_i386.deb
+|       |   |       
+|       |   +---hplip
+|       |   |       hpijs_2.7.2+1.7.3-0ubuntu1_i386.deb
+|       |   |       hplip-data_1.7.3-0ubuntu1_all.deb
+|       |   |       hplip_1.7.3-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---html2text
+|       |   |       html2text_1.3.2a-3_i386.deb
+|       |   |       
+|       |   +---hugin
+|       |   |       hugin_0.6.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---human-cursors-theme
+|       |   |       human-cursors-theme_0.5_all.deb
+|       |   |       
+|       |   +---hunspell
+|       |   |       libhunspell-1.1-0_1.1.4-7_i386.deb
+|       |   |       
+|       |   +---hw-detect
+|       |   |       archdetect_1.45ubuntu5_i386.udeb
+|       |   |       disk-detect_1.45ubuntu5_all.udeb
+|       |   |       ethdetect_1.45ubuntu5_all.udeb
+|       |   |       hw-detect_1.45ubuntu5_i386.udeb
+|       |   |       
+|       |   +---hwdb-client
+|       |   |       hwdb-client-common_0.6.10_all.deb
+|       |   |       hwdb-client-gnome_0.6.10_all.deb
+|       |   |       
+|       |   \---hydrogen
+|       |           hydrogen_0.9.3-2_i386.deb
+|       |           
+|       +---i
+|       |   +---iceauth
+|       |   |       iceauth_1.0.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---ico
+|       |   |       ico_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---icu
+|       |   |       libicu36_3.6-2build1_i386.deb
+|       |   |       
+|       |   +---ifupdown
+|       |   |       ifupdown_0.6.8ubuntu6_i386.deb
+|       |   |       
+|       |   +---imagemagick
+|       |   |       imagemagick_6.2.4.5.dfsg1-0.14_i386.deb
+|       |   |       libmagick9_6.2.4.5.dfsg1-0.14_i386.deb
+|       |   |       
+|       |   +---initramfs-tools
+|       |   |       initramfs-tools_0.85eubuntu10_all.deb
+|       |   |       
+|       |   +---inkscape
+|       |   |       inkscape_0.45-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---inputattach
+|       |   |       inputattach_1.23-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---installation-locale
+|       |   |       installation-locale_1.1ubuntu1_i386.udeb
+|       |   |       
+|       |   +---installation-report
+|       |   |       save-logs_2.24ubuntu2_all.udeb
+|       |   |       
+|       |   +---intltool-debian
+|       |   |       intltool-debian_0.35.0+20060710.1_all.deb
+|       |   |       
+|       |   +---iproute
+|       |   |       iproute_20061002-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---iptables
+|       |   |       iptables_1.3.6.0debian1-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---iputils
+|       |   |       iputils-arping_20020927-3.1ubuntu2_i386.deb
+|       |   |       iputils-ping_20020927-3.1ubuntu2_i386.deb
+|       |   |       iputils-tracepath_20020927-3.1ubuntu2_i386.deb
+|       |   |       
+|       |   +---isdnutils
+|       |   |       capiutils_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       ipppd_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       isdnutils-base_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       isdnutils-xtools_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       libcapi20-3_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       libcapi20-dev_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       pppdcapiplugin_3.10.20070306-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---iso-codes
+|       |   |       iso-3166-udeb_1.0-1_all.udeb
+|       |   |       iso-codes_1.0-1_all.deb
+|       |   |       
+|       |   \---iso-scan
+|       |           iso-scan_1.18ubuntu2_all.udeb
+|       |           load-iso_1.18ubuntu2_all.udeb
+|       |           
+|       +---j
+|       |   +---jack-audio-connection-kit
+|       |   |       jackd_0.102.20-1_i386.deb
+|       |   |       libjack0.100.0-0_0.102.20-1_i386.deb
+|       |   |       
+|       |   +---jack-rack
+|       |   |       jack-rack_1.4.4-3_i386.deb
+|       |   |       
+|       |   +---jack-tools
+|       |   |       jack-tools_0.0.2-4.1_i386.deb
+|       |   |       
+|       |   +---jackbeat
+|       |   |       jackbeat_0.5.4-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---jackeq
+|       |   |       jackeq_0.4.1-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---jamin
+|       |   |       jamin_0.95.0-4_i386.deb
+|       |   |       
+|       |   +---jasper
+|       |   |       libjasper-1.701-1_1.701.0-2_i386.deb
+|       |   |       
+|       |   +---jdelay
+|       |   |       jdelay_1.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---jfsutils
+|       |           jfsutils-udeb_1.1.11-1build1_i386.udeb
+|       |           jfsutils_1.1.11-1build1_i386.deb
+|       |           
+|       +---k
+|       |   +---kdebase
+|       |   |       khelpcenter_3.5.6-0ubuntu20_i386.deb
+|       |   |       
+|       |   +---kdelibs
+|       |   |       kdelibs-data_3.5.6-0ubuntu14_all.deb
+|       |   |       kdelibs4c2a_3.5.6-0ubuntu14_i386.deb
+|       |   |       
+|       |   +---kickseed
+|       |   |       initrd-kickseed_0.44_all.udeb
+|       |   |       kickseed-common_0.44_all.udeb
+|       |   |       
+|       |   +---kino
+|       |   |       kino_0.92-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---klibc
+|       |   |       klibc-utils_1.4.30-3ubuntu2_i386.deb
+|       |   |       libklibc_1.4.30-3ubuntu2_i386.deb
+|       |   |       
+|       |   \---krb5
+|       |           libkrb53_1.4.4-5ubuntu3_i386.deb
+|       |           
+|       +---l
+|       |   +---ladcca
+|       |   |       ladcca2_0.4.0-6_i386.deb
+|       |   |       
+|       |   +---ladspa-sdk
+|       |   |       ladspa-sdk_1.1-4.1_i386.deb
+|       |   |       
+|       |   +---landscape-client
+|       |   |       landscape-client_0.1_all.deb
+|       |   |       
+|       |   +---langpack-locales
+|       |   |       locales_2.3.23_all.deb
+|       |   |       
+|       |   +---language-pack-ar
+|       |   |       language-pack-ar_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-ar-base
+|       |   |       language-pack-ar-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-bn
+|       |   |       language-pack-bn_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-bn-base
+|       |   |       language-pack-bn-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-de
+|       |   |       language-pack-de_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-de-base
+|       |   |       language-pack-de-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-en
+|       |   |       language-pack-en_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-en-base
+|       |   |       language-pack-en-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-es
+|       |   |       language-pack-es_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-es-base
+|       |   |       language-pack-es-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-fr
+|       |   |       language-pack-fr_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-fr-base
+|       |   |       language-pack-fr-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-ar
+|       |   |       language-pack-gnome-ar_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-ar-base
+|       |   |       language-pack-gnome-ar-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-bn
+|       |   |       language-pack-gnome-bn_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-bn-base
+|       |   |       language-pack-gnome-bn-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-de
+|       |   |       language-pack-gnome-de_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-de-base
+|       |   |       language-pack-gnome-de-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-en
+|       |   |       language-pack-gnome-en_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-en-base
+|       |   |       language-pack-gnome-en-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-es
+|       |   |       language-pack-gnome-es_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-es-base
+|       |   |       language-pack-gnome-es-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-fr
+|       |   |       language-pack-gnome-fr_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-fr-base
+|       |   |       language-pack-gnome-fr-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-hi
+|       |   |       language-pack-gnome-hi_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-hi-base
+|       |   |       language-pack-gnome-hi-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-pt
+|       |   |       language-pack-gnome-pt_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-pt-base
+|       |   |       language-pack-gnome-pt-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-ru
+|       |   |       language-pack-gnome-ru_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-ru-base
+|       |   |       language-pack-gnome-ru-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-xh
+|       |   |       language-pack-gnome-xh_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-gnome-xh-base
+|       |   |       language-pack-gnome-xh-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-hi
+|       |   |       language-pack-hi_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-hi-base
+|       |   |       language-pack-hi-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-pt
+|       |   |       language-pack-pt_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-pt-base
+|       |   |       language-pack-pt-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-ru
+|       |   |       language-pack-ru_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-ru-base
+|       |   |       language-pack-ru-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-xh
+|       |   |       language-pack-xh_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-pack-xh-base
+|       |   |       language-pack-xh-base_7.04+20070412_all.deb
+|       |   |       
+|       |   +---language-selector
+|       |   |       language-selector-common_0.2.6_all.deb
+|       |   |       language-selector_0.2.6_all.deb
+|       |   |       
+|       |   +---language-support-en
+|       |   |       language-support-en_7.04+20070209_all.deb
+|       |   |       
+|       |   +---laptop-detect
+|       |   |       laptop-detect_0.12.1-ubuntu4_i386.deb
+|       |   |       
+|       |   +---laptop-mode-tools
+|       |   |       laptop-mode-tools_1.32-1ubuntu1_all.deb
+|       |   |       
+|       |   +---lash
+|       |   |       liblash2_0.5.1-2_i386.deb
+|       |   |       
+|       |   +---launchpad-integration
+|       |   |       launchpad-integration_0.1.13_all.deb
+|       |   |       liblaunchpad-integration0_0.1.13_i386.deb
+|       |   |       liblpint-bonobo0_0.1.13_i386.deb
+|       |   |       python-launchpad-integration_0.1.13_i386.deb
+|       |   |       
+|       |   +---lcms
+|       |   |       liblcms1_1.15-1_i386.deb
+|       |   |       
+|       |   +---less
+|       |   |       less_394-4build1_i386.deb
+|       |   |       
+|       |   +---lftp
+|       |   |       lftp_3.5.6-1build1_i386.deb
+|       |   |       
+|       |   +---lilo
+|       |   |       lilo_22.6.1-9ubuntu2_i386.deb
+|       |   |       
+|       |   +---lilo-installer
+|       |   |       lilo-installer_1.18ubuntu5_i386.udeb
+|       |   |       
+|       |   +---lilypond
+|       |   |       lilypond-data_2.10.5-0ubuntu1_all.deb
+|       |   |       lilypond_2.10.5-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---linux-atm
+|       |   |       libatm1_2.4.1-17_i386.deb
+|       |   |       
+|       |   +---linux-meta
+|       |   |       avm-fritz-firmware_2.6.20.15.14_i386.deb
+|       |   |       linux-generic_2.6.20.15.14_i386.deb
+|       |   |       linux-headers-generic_2.6.20.15.14_i386.deb
+|       |   |       linux-headers-lowlatency_2.6.20.15.14_i386.deb
+|       |   |       linux-image-generic_2.6.20.15.14_i386.deb
+|       |   |       linux-image-lowlatency_2.6.20.15.14_i386.deb
+|       |   |       linux-lowlatency_2.6.20.15.14_i386.deb
+|       |   |       linux-restricted-modules-generic_2.6.20.15.14_i386.deb
+|       |   |       linux-restricted-modules-lowlatency_2.6.20.15.14_i386.deb
+|       |   |       linux_2.6.20.15.14_i386.deb
+|       |   |       
+|       |   +---linux-ntfs
+|       |   |       ntfsprogs-udeb_1.13.1-6_i386.udeb
+|       |   |       
+|       |   +---linux-restricted-modules-2.6.20
+|       |   |       avm-fritz-firmware-2.6.20-15_3.11+2.6.20.5-15.20_i386.deb
+|       |   |       linux-restricted-modules-2.6.20-15-generic_2.6.20.5-15.20_i386.d
+|       |   |       linux-restricted-modules-2.6.20-15-lowlatency_2.6.20.5-15.20_i38
+|       |   |       linux-restricted-modules-common_2.6.20.5-15.20_all.deb
+|       |   |       nic-restricted-firmware-2.6.20-15-generic-di_2.6.20.5-15.20_i386
+|       |   |       nic-restricted-modules-2.6.20-15-generic-di_2.6.20.5-15.20_i386
+|       |   |       nvidia-glx_1.0.9631+2.6.20.5-15.20_i386.deb
+|       |   |       
+|       |   +---linux-source-2.6.20
+|       |   |       acpi-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       block-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       cdrom-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       fat-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       fb-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       firewire-core-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.ude
+|       |   |       floppy-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       fs-core-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       fs-secondary-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       ide-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       input-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       ipv6-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       irda-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       linux-headers-2.6.20-15-generic_2.6.20-15.27_i386.deb
+|       |   |       linux-headers-2.6.20-15-lowlatency_2.6.20-15.27_i386.deb
+|       |   |       linux-headers-2.6.20-15_2.6.20-15.27_i386.deb
+|       |   |       linux-image-2.6.20-15-generic_2.6.20-15.27_i386.deb
+|       |   |       linux-image-2.6.20-15-lowlatency_2.6.20-15.27_i386.deb
+|       |   |       linux-libc-dev_2.6.20-15.27_i386.deb
+|       |   |       md-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       message-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nfs-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nic-firmware-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nic-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nic-pcmcia-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nic-shared-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       nic-usb-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       parport-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       pata-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       pcmcia-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       pcmcia-storage-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.ud
+|       |   |       plip-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       ppp-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       sata-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       scsi-firmware-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       scsi-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       serial-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       socket-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       speakup-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       storage-core-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       usb-modules-2.6.20-15-generic-di_2.6.20-15.27_i386.udeb
+|       |   |       
+|       |   +---linux-wlan-ng
+|       |   |       linux-wlan-ng_0.2.6+svn20061108-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---lirc
+|       |   |       liblircclient0_0.8.1+cvs20070310-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---listres
+|       |   |       listres_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---lm-sensors
+|       |   |       libsensors3_2.10.1-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---localechooser
+|       |   |       localechooser-data_1.37ubuntu1_all.deb
+|       |   |       localechooser_1.37ubuntu1_all.udeb
+|       |   |       
+|       |   +---logrotate
+|       |   |       logrotate_3.7.1-3_i386.deb
+|       |   |       
+|       |   +---lowmem
+|       |   |       lowmem_1.23ubuntu2_all.udeb
+|       |   |       lowmemcheck_1.23ubuntu2_i386.udeb
+|       |   |       
+|       |   +---lsb
+|       |   |       lsb-base_3.1-22ubuntu3_all.deb
+|       |   |       lsb-core_3.1-22ubuntu3_i386.deb
+|       |   |       lsb-cxx_3.1-22ubuntu3_i386.deb
+|       |   |       lsb-graphics_3.1-22ubuntu3_i386.deb
+|       |   |       lsb-release_3.1-22ubuntu3_all.deb
+|       |   |       
+|       |   +---lshw
+|       |   |       lshw_02.08.01-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---lsof
+|       |   |       lsof_4.77.dfsg.1-3_i386.deb
+|       |   |       
+|       |   +---ltrace
+|       |   |       ltrace_0.4-1_i386.deb
+|       |   |       
+|       |   +---ltsp
+|       |   |       ldm_5.0.7_all.deb
+|       |   |       ltsp-server-standalone_5.0.7_all.deb
+|       |   |       ltsp-server_5.0.7_all.deb
+|       |   |       
+|       |   +---lua50
+|       |   |       liblua50_5.0.3-2build1_i386.deb
+|       |   |       liblualib50_5.0.3-2build1_i386.deb
+|       |   |       
+|       |   +---lvm-common
+|       |   |       lvm-common_1.5.20ubuntu12_i386.deb
+|       |   |       
+|       |   +---lvm2
+|       |   |       lvm2-udeb_2.02.06-2ubuntu9_i386.udeb
+|       |   |       lvm2_2.02.06-2ubuntu9_i386.deb
+|       |   |       
+|       |   +---lvmcfg
+|       |   |       lvmcfg-utils_1.13_all.udeb
+|       |   |       lvmcfg_1.13_all.udeb
+|       |   |       
+|       |   \---lzo
+|       |           liblzo1_1.08-3_i386.deb
+|       |           
+|       +---liba
+|       |   +---libao
+|       |   |       libao2_0.8.6-4_i386.deb
+|       |   |       
+|       |   +---libart-lgpl
+|       |   |       libart-2.0-2_2.3.17-1_i386.deb
+|       |   |       
+|       |   \---libavc1394
+|       |           libavc1394-0_0.5.3-1build1_i386.deb
+|       |           
+|       +---libb
+|       |   +---libbonobo
+|       |   |       libbonobo2-0_2.18.0-0ubuntu1_i386.deb
+|       |   |       libbonobo2-common_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---libbonoboui
+|       |           libbonoboui2-0_2.18.0-0ubuntu1_i386.deb
+|       |           libbonoboui2-common_2.18.0-0ubuntu1_all.deb
+|       |           
+|       +---libc
+|       |   +---libcaca
+|       |   |       libcaca0_0.99.beta11.debian-2build1_i386.deb
+|       |   |       libcucul0_0.99.beta11.debian-2build1_i386.deb
+|       |   |       
+|       |   +---libcairo
+|       |   |       libcairo2_1.4.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libcairo-perl
+|       |   |       libcairo-perl_1.01-1build1_i386.deb
+|       |   |       
+|       |   +---libcap
+|       |   |       libcap1_1.10-14_i386.deb
+|       |   |       
+|       |   +---libcdio
+|       |   |       libcdio6_0.76-1ubuntu2_i386.deb
+|       |   |       
+|       |   \---libcroco
+|       |           libcroco3_0.6.1-1build1_i386.deb
+|       |           
+|       +---libd
+|       |   +---libdaemon
+|       |   |       libdaemon0_0.10-1_i386.deb
+|       |   |       
+|       |   +---libdatrie
+|       |   |       libdatrie0_0.1.1-4_i386.deb
+|       |   |       
+|       |   +---libdc1394
+|       |   |       libdc1394-13_1.1.0-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---libdebian-installer
+|       |   |       libdebian-installer4-udeb_0.47ubuntu2_i386.udeb
+|       |   |       
+|       |   +---libdmx
+|       |   |       libdmx1_1.0.2-2build1_i386.deb
+|       |   |       
+|       |   +---libdrm
+|       |   |       libdrm2_2.3.0-1_i386.deb
+|       |   |       
+|       |   \---libdv
+|       |           libdv-bin_1.0.0-1build1_i386.deb
+|       |           libdv4_1.0.0-1build1_i386.deb
+|       |           
+|       +---libe
+|       |   +---libedit
+|       |   |       libedit2_2.9.cvs.20050518-2.2_i386.deb
+|       |   |       
+|       |   +---libelf
+|       |   |       libelfg0_0.8.6-3_i386.deb
+|       |   |       
+|       |   +---libevent
+|       |   |       libevent1_1.1a-1_i386.deb
+|       |   |       
+|       |   \---libexif
+|       |           libexif12_0.6.13-5build1_i386.deb
+|       |           
+|       +---libf
+|       |   +---libfontenc
+|       |   |       libfontenc1_1.0.4-1_i386.deb
+|       |   |       
+|       |   +---libfreebob
+|       |   |       libfreebob0_1.0.0-3_i386.deb
+|       |   |       
+|       |   \---libfs
+|       |           libfs6_1.0.0-4ubuntu2_i386.deb
+|       |           
+|       +---libg
+|       |   +---libgc
+|       |   |       libgc1c2_6.8-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---libgcrypt11
+|       |   |       libgcrypt11_1.2.3-2build1_i386.deb
+|       |   |       
+|       |   +---libgda2
+|       |   |       libgda2-3_1.2.4-0ubuntu1_i386.deb
+|       |   |       libgda2-common_1.2.4-0ubuntu1_all.deb
+|       |   |       
+|       |   +---libgdiplus
+|       |   |       libgdiplus_1.2.3-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libgksu
+|       |   |       libgksu2-0_2.0.3-3ubuntu5_i386.deb
+|       |   |       
+|       |   +---libgksu1.2
+|       |   |       libgksu1.2-1_1.3.8-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---libgksuui1.0
+|       |   |       libgksuui1.0-1_1.0.7-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---libglade2
+|       |   |       libglade2-0_2.6.0-3_i386.deb
+|       |   |       
+|       |   +---libglademm2.4
+|       |   |       libglademm-2.4-1c2a_2.6.3-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---libglib-perl
+|       |   |       libglib-perl_1.140-1build1_i386.deb
+|       |   |       
+|       |   +---libgnome
+|       |   |       libgnome2-0_2.18.0-0ubuntu1_i386.deb
+|       |   |       libgnome2-common_2.18.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---libgnome2-canvas-perl
+|       |   |       libgnome2-canvas-perl_1.002-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---libgnome2-perl
+|       |   |       libgnome2-perl_1.040-1_i386.deb
+|       |   |       
+|       |   +---libgnome2-vfs-perl
+|       |   |       libgnome2-vfs-perl_1.060-1_i386.deb
+|       |   |       
+|       |   +---libgnomecanvas
+|       |   |       libgnomecanvas2-0_2.14.0-3ubuntu2_i386.deb
+|       |   |       libgnomecanvas2-common_2.14.0-3ubuntu2_all.deb
+|       |   |       
+|       |   +---libgnomecanvasmm2.6
+|       |   |       libgnomecanvasmm-2.6-1c2a_2.16.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---libgnomecups
+|       |   |       libgnomecups1.0-1_0.2.2-5ubuntu1_i386.deb
+|       |   |       
+|       |   +---libgnomekbd
+|       |   |       libgnomekbd-common_2.18.1-0ubuntu1_all.deb
+|       |   |       libgnomekbd1_2.18.1-0ubuntu1_i386.deb
+|       |   |       libgnomekbdui1_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libgnomeprint
+|       |   |       libgnomeprint2.2-0_2.18.0-0ubuntu1_i386.deb
+|       |   |       libgnomeprint2.2-data_2.18.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---libgnomeprintui
+|       |   |       libgnomeprintui2.2-0_2.18.0-0ubuntu1_i386.deb
+|       |   |       libgnomeprintui2.2-common_2.18.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---libgnomeui
+|       |   |       libgnomeui-0_2.17.92-0ubuntu1_i386.deb
+|       |   |       libgnomeui-common_2.17.92-0ubuntu1_all.deb
+|       |   |       
+|       |   +---libgpg-error
+|       |   |       libgpg-error0_1.4-2build1_i386.deb
+|       |   |       
+|       |   +---libgphoto2
+|       |   |       libgphoto2-2_2.3.0-0ubuntu4_i386.deb
+|       |   |       libgphoto2-port0_2.3.0-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---libgsf
+|       |   |       libgsf-1-114_1.14.3-1ubuntu2_i386.deb
+|       |   |       libgsf-1-common_1.14.3-1ubuntu2_all.deb
+|       |   |       
+|       |   +---libgsm
+|       |   |       libgsm1_1.0.10-13_i386.deb
+|       |   |       
+|       |   +---libgssapi
+|       |   |       libgssapi2_0.10-4build1_i386.deb
+|       |   |       
+|       |   +---libgtk2-perl
+|       |   |       libgtk2-perl_1.140-1build1_i386.deb
+|       |   |       
+|       |   +---libgtkhtml2
+|       |   |       libgtkhtml2-0_2.11.0+svn20061107-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---libgtop2
+|       |           libgtop2-7_2.14.8-0ubuntu1_i386.deb
+|       |           libgtop2-common_2.14.8-0ubuntu1_all.deb
+|       |           
+|       +---libh
+|       |   +---libhtml-parser-perl
+|       |   |       libhtml-parser-perl_3.55-1build1_i386.deb
+|       |   |       
+|       |   +---libhtml-tagset-perl
+|       |   |       libhtml-tagset-perl_3.10-2_all.deb
+|       |   |       
+|       |   \---libhtml-tree-perl
+|       |           libhtml-tree-perl_3.19.01-2_all.deb
+|       |           
+|       +---libi
+|       |   +---libice
+|       |   |       libice6_1.0.3-1build1_i386.deb
+|       |   |       
+|       |   +---libid3tag
+|       |   |       libid3tag0_0.15.1b-8_i386.deb
+|       |   |       
+|       |   +---libidl
+|       |   |       libidl0_0.8.7-0.1ubuntu2_i386.deb
+|       |   |       
+|       |   +---libidn
+|       |   |       libidn11_0.6.5-1build1_i386.deb
+|       |   |       
+|       |   +---libiec61883
+|       |   |       libiec61883-0_1.1.0-2ubuntu2_i386.deb
+|       |   |       
+|       |   \---libieee1284
+|       |           libieee1284-3_0.2.10-4build1_i386.deb
+|       |           
+|       +---libj
+|       |   +---libjackasyn
+|       |   |       libjackasyn0_0.11-2ubuntu2_i386.deb
+|       |   |       
+|       |   \---libjpeg6b
+|       |           libjpeg62_6b-13_i386.deb
+|       |           
+|       +---libl
+|       |   +---liblo
+|       |   |       liblo0_0.23-2.1build1_i386.deb
+|       |   |       
+|       |   +---liblocale-gettext-perl
+|       |   |       liblocale-gettext-perl_1.05-1_i386.deb
+|       |   |       
+|       |   +---liblockfile
+|       |   |       liblockfile1_1.06.1ubuntu1_i386.deb
+|       |   |       
+|       |   \---liblrdf
+|       |           liblrdf0_0.4.0-1build1_i386.deb
+|       |           
+|       +---libm
+|       |   +---libmad
+|       |   |       libmad0_0.15.1b-2.1_i386.deb
+|       |   |       
+|       |   +---libmikmod
+|       |   |       libmikmod2_3.1.11-a-6ubuntu3_i386.deb
+|       |   |       
+|       |   +---libmng
+|       |   |       libmng1_1.0.9-1_i386.deb
+|       |   |       
+|       |   \---libmodplug
+|       |           libmodplug0c2_0.7-5.2build1_i386.deb
+|       |           
+|       +---libn
+|       |   +---libnet-dbus-perl
+|       |   |       libnet-dbus-perl_0.33.4-1_i386.deb
+|       |   |       
+|       |   +---libnfsidmap
+|       |   |       libnfsidmap2_0.18-0build1_i386.deb
+|       |   |       
+|       |   +---libnl
+|       |   |       libnl1-pre6_1.0~pre6-2build1_i386.deb
+|       |   |       
+|       |   \---libnotify
+|       |           libnotify1_0.4.3-1_i386.deb
+|       |           
+|       +---libo
+|       |   +---libogg
+|       |   |       libogg0_1.1.3-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---liboil
+|       |   |       liboil0.3_0.3.10-1.1ubuntu1_i386.deb
+|       |   |       
+|       |   \---liboobs
+|       |           liboobs-1-3_2.18.0-0ubuntu1_i386.deb
+|       |           
+|       +---libp
+|       |   +---libpam-foreground
+|       |   |       libpam-foreground_0.3_i386.deb
+|       |   |       
+|       |   +---libpano12
+|       |   |       libpano12-0_2.8.3-1_i386.deb
+|       |   |       
+|       |   +---libpaper
+|       |   |       libpaper1_1.1.21build1_i386.deb
+|       |   |       
+|       |   +---libpcap0.8
+|       |   |       libpcap0.8_0.9.5-1build1_i386.deb
+|       |   |       
+|       |   +---libpci2
+|       |   |       libpci2_2.1.11-3build1_i386.deb
+|       |   |       
+|       |   \---libpng
+|       |           libpng12-0_1.2.15~beta5-1_i386.deb
+|       |           
+|       +---libq
+|       |   \---libquicktime
+|       |           libquicktime0_0.9.7-1ubuntu2_i386.deb
+|       |           
+|       +---libr
+|       |   +---libraw1394
+|       |   |       libraw1394-8_1.2.1-2build2_i386.deb
+|       |   |       
+|       |   +---librpcsecgss
+|       |   |       librpcsecgss3_0.14-2ubuntu1_i386.deb
+|       |   |       
+|       |   \---librsvg
+|       |           librsvg2-2_2.16.0-0ubuntu2_i386.deb
+|       |           librsvg2-common_2.16.0-0ubuntu2_i386.deb
+|       |           
+|       +---libs
+|       |   +---libsamplerate
+|       |   |       libsamplerate0_0.1.2-2_i386.deb
+|       |   |       
+|       |   +---libsdl1.2
+|       |   |       libsdl1.2debian-alsa_1.2.11-7ubuntu1_i386.deb
+|       |   |       libsdl1.2debian_1.2.11-7ubuntu1_i386.deb
+|       |   |       
+|       |   +---libselinux
+|       |   |       libselinux1_1.32-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---libsepol
+|       |   |       libsepol1_1.14-2build1_i386.deb
+|       |   |       
+|       |   +---libsexy
+|       |   |       libsexy2_0.1.11-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libshout
+|       |   |       libshout3_2.2.2-1build1_i386.deb
+|       |   |       
+|       |   +---libsigc++
+|       |   |       libsigc++0c2_1.0.4-9.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---libsigc++-1.2
+|       |   |       libsigc++-1.2-5c2_1.2.7-2_i386.deb
+|       |   |       
+|       |   +---libsigc++-2.0
+|       |   |       libsigc++-2.0-0c2a_2.0.17-2build1_i386.deb
+|       |   |       
+|       |   +---libsm
+|       |   |       libsm6_1.0.2-1build1_i386.deb
+|       |   |       
+|       |   +---libsndfile
+|       |   |       libsndfile1_1.0.16-1build1_i386.deb
+|       |   |       
+|       |   \---libsoup
+|       |           libsoup2.2-8_2.2.100-1_i386.deb
+|       |           
+|       +---libt
+|       |   +---libtar
+|       |   |       libtar_1.2.11-4_i386.deb
+|       |   |       
+|       |   +---libtasn1-3
+|       |   |       libtasn1-3_0.3.6-2build1_i386.deb
+|       |   |       
+|       |   +---libtext-charwidth-perl
+|       |   |       libtext-charwidth-perl_0.04-4build1_i386.deb
+|       |   |       
+|       |   +---libtext-iconv-perl
+|       |   |       libtext-iconv-perl_1.4-3_i386.deb
+|       |   |       
+|       |   +---libtext-wrapi18n-perl
+|       |   |       libtext-wrapi18n-perl_0.06-5_all.deb
+|       |   |       
+|       |   +---libtextwrap
+|       |   |       libtextwrap1-udeb_0.1-5_i386.udeb
+|       |   |       
+|       |   +---libthai
+|       |   |       libthai-data_0.1.8-2_all.deb
+|       |   |       libthai0_0.1.8-2_i386.deb
+|       |   |       
+|       |   +---libtheora
+|       |   |       libtheora0_0.0.0.alpha7.dfsg-2ubuntu1_i386.deb
+|       |   |       
+|       |   \---libtool
+|       |           libltdl3_1.5.22-4_i386.deb
+|       |           
+|       +---libu
+|       |   +---libungif4
+|       |   |       libungif4g_4.1.4-4build1_i386.deb
+|       |   |       
+|       |   +---libuninameslist
+|       |   |       libuninameslist0_0.0.20060907-1build1_i386.deb
+|       |   |       
+|       |   +---liburi-perl
+|       |   |       liburi-perl_1.35-2_all.deb
+|       |   |       
+|       |   \---libusb
+|       |           libusb-0.1-4_0.1.12-2_i386.deb
+|       |           libusb-0.1-udeb_0.1.12-2_i386.udeb
+|       |           
+|       +---libv
+|       |   +---libvisual
+|       |   |       libvisual-0.4-0_0.4.0-1.1_i386.deb
+|       |   |       
+|       |   \---libvorbis
+|       |           libvorbis0a_1.1.2.dfsg-1.2_i386.deb
+|       |           libvorbisenc2_1.1.2.dfsg-1.2_i386.deb
+|       |           libvorbisfile3_1.1.2.dfsg-1.2_i386.deb
+|       |           
+|       +---libw
+|       |   +---libwmf
+|       |   |       libwmf0.2-7_0.2.8.4-2build1_i386.deb
+|       |   |       
+|       |   +---libwnck
+|       |   |       libwnck-common_2.18.0-0ubuntu1_all.deb
+|       |   |       libwnck18_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libwpd
+|       |   |       libwpd8c2a_0.8.9-1_i386.deb
+|       |   |       
+|       |   +---libwps
+|       |   |       libwps-0.1-1_0.1~svn20070131-2build1_i386.deb
+|       |   |       
+|       |   \---libwww-perl
+|       |           libwww-perl_5.805-1_all.deb
+|       |           
+|       +---libx
+|       |   +---libx11
+|       |   |       libx11-6_1.1.1-1ubuntu3_i386.deb
+|       |   |       libx11-data_1.1.1-1ubuntu3_all.deb
+|       |   |       
+|       |   +---libx86
+|       |   |       libx86-1_0.99-1.2_i386.deb
+|       |   |       
+|       |   +---libxau
+|       |   |       libxau6_1.0.3-1_i386.deb
+|       |   |       
+|       |   +---libxaw
+|       |   |       libxaw7_1.0.3-2build1_i386.deb
+|       |   |       
+|       |   +---libxcursor
+|       |   |       libxcursor1_1.1.8-1_i386.deb
+|       |   |       
+|       |   +---libxdamage
+|       |   |       libxdamage1_1.0.3-3_i386.deb
+|       |   |       
+|       |   +---libxdmcp
+|       |   |       libxdmcp6_1.0.2-1_i386.deb
+|       |   |       
+|       |   +---libxext
+|       |   |       libxext6_1.0.3-1build1_i386.deb
+|       |   |       
+|       |   +---libxfixes
+|       |   |       libxfixes3_4.0.3-1_i386.deb
+|       |   |       
+|       |   +---libxfont
+|       |   |       libxfont1_1.2.7-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---libxi
+|       |   |       libxi6_1.1.0-1build1_i386.deb
+|       |   |       
+|       |   +---libxinerama
+|       |   |       libxinerama1_1.0.1-4build1_i386.deb
+|       |   |       
+|       |   +---libxkbfile
+|       |   |       libxkbfile1_1.0.3-2_i386.deb
+|       |   |       
+|       |   +---libxklavier
+|       |   |       libxklavier11_3.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libxml++2.6
+|       |   |       libxml++2.6c2a_2.18.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---libxml-parser-perl
+|       |   |       libxml-parser-perl_2.34-4.2build1_i386.deb
+|       |   |       
+|       |   +---libxml-twig-perl
+|       |   |       libxml-twig-perl_3.26-2_all.deb
+|       |   |       
+|       |   +---libxml2
+|       |   |       libxml2-udeb_2.6.27.dfsg-1ubuntu3_i386.udeb
+|       |   |       libxml2-utils_2.6.27.dfsg-1ubuntu3_i386.deb
+|       |   |       libxml2_2.6.27.dfsg-1ubuntu3_i386.deb
+|       |   |       python-libxml2_2.6.27.dfsg-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---libxmu
+|       |   |       libxmu6_1.0.2-1ubuntu2_i386.deb
+|       |   |       libxmuu1_1.0.2-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---libxp
+|       |   |       libxp6_1.0.0.xsf1-1build1_i386.deb
+|       |   |       
+|       |   +---libxpm
+|       |   |       libxpm4_3.5.6-1_i386.deb
+|       |   |       xpmutils_3.5.6-1_i386.deb
+|       |   |       
+|       |   +---libxrandr
+|       |   |       libxrandr2_1.2.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---libxrender
+|       |   |       libxrender1_0.9.1-3_i386.deb
+|       |   |       
+|       |   +---libxres
+|       |   |       libxres1_1.0.1-2_i386.deb
+|       |   |       
+|       |   +---libxslt
+|       |   |       libxslt1.1_1.1.20-0ubuntu2_i386.deb
+|       |   |       xsltproc_1.1.20-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---libxss
+|       |   |       libxss1_1.1.0-1_i386.deb
+|       |   |       
+|       |   +---libxt
+|       |   |       libxt6_1.0.5-1_i386.deb
+|       |   |       
+|       |   +---libxtrap
+|       |   |       libxtrap6_1.0.0-3build1_i386.deb
+|       |   |       
+|       |   +---libxtst
+|       |   |       libxtst6_1.0.1-3build1_i386.deb
+|       |   |       
+|       |   +---libxv
+|       |   |       libxv1_1.0.1-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---libxxf86dga
+|       |   |       libxxf86dga1_1.0.1-2_i386.deb
+|       |   |       
+|       |   +---libxxf86misc
+|       |   |       libxxf86misc1_1.0.1-2_i386.deb
+|       |   |       
+|       |   \---libxxf86vm
+|       |           libxxf86vm1_1.0.1-2_i386.deb
+|       |           
+|       +---m
+|       |   +---m4
+|       |   |       m4_1.4.8-1build1_i386.deb
+|       |   |       
+|       |   +---mailx
+|       |   |       mailx_8.1.2-0.20050715cvs-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---main-menu
+|       |   |       main-menu_1.15ubuntu2_i386.udeb
+|       |   |       
+|       |   +---make-dfsg
+|       |   |       make_3.81-3build1_i386.deb
+|       |   |       
+|       |   +---makedev
+|       |   |       makedev_2.3.1-83ubuntu2_all.deb
+|       |   |       
+|       |   +---man-db
+|       |   |       man-db_2.4.3-5ubuntu1_i386.deb
+|       |   |       
+|       |   +---manpages
+|       |   |       manpages_2.39-1_all.deb
+|       |   |       
+|       |   +---mawk
+|       |   |       mawk_1.3.3-11ubuntu2_i386.deb
+|       |   |       
+|       |   +---mbr
+|       |   |       mbr_1.1.9-2_i386.deb
+|       |   |       
+|       |   +---mcp-plugins
+|       |   |       mcp-plugins_0.3.0-4_i386.deb
+|       |   |       
+|       |   +---mcpp
+|       |   |       mcpp_2.6.2-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---mdadm
+|       |   |       mdadm-udeb_2.5.6-7ubuntu5_i386.udeb
+|       |   |       mdadm_2.5.6-7ubuntu5_i386.deb
+|       |   |       
+|       |   +---mdcfg
+|       |   |       mdcfg-utils_1.19_all.udeb
+|       |   |       mdcfg_1.19_all.udeb
+|       |   |       
+|       |   +---memtest86+
+|       |   |       memtest86+_1.65-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---mesa
+|       |   |       libgl1-mesa-dri_6.5.2-3ubuntu7_i386.deb
+|       |   |       libgl1-mesa-glx_6.5.2-3ubuntu7_i386.deb
+|       |   |       libglu1-mesa_6.5.2-3ubuntu7_i386.deb
+|       |   |       mesa-utils_6.5.2-3ubuntu7_i386.deb
+|       |   |       
+|       |   +---metacity
+|       |   |       libmetacity0_2.18.2-0ubuntu1_i386.deb
+|       |   |       metacity-common_2.18.2-0ubuntu1_all.deb
+|       |   |       metacity_2.18.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---meterbridge
+|       |   |       meterbridge_0.9.2-6ubuntu1_i386.deb
+|       |   |       
+|       |   +---migration-assistant
+|       |   |       migration-assistant_0.4.5_i386.udeb
+|       |   |       
+|       |   +---mii-diag
+|       |   |       mii-diag-udeb_2.11-2_i386.udeb
+|       |   |       mii-diag_2.11-2_i386.deb
+|       |   |       
+|       |   +---mime-support
+|       |   |       mime-support_3.39-1_all.deb
+|       |   |       
+|       |   +---min12xxw
+|       |   |       min12xxw_0.0.9-1build1_i386.deb
+|       |   |       
+|       |   +---mixxx
+|       |   |       mixxx-data_1.5.0svn~20070130dfsg-0ubuntu1_all.deb
+|       |   |       mixxx_1.5.0svn~20070130dfsg-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---mknbi
+|       |   |       mknbi_1.4.4-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---mktemp
+|       |   |       mktemp_1.5-2_i386.deb
+|       |   |       
+|       |   +---modplugxmms
+|       |   |       xmms-modplug_2.05-9.1_i386.deb
+|       |   |       
+|       |   +---module-init-tools
+|       |   |       module-init-tools-udeb_3.3-pre3-1ubuntu7_i386.udeb
+|       |   |       module-init-tools_3.3-pre3-1ubuntu7_i386.deb
+|       |   |       
+|       |   +---mono
+|       |   |       libmono-cairo1.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-corlib1.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-corlib2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-data-tds2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-security2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-sharpzip2.84-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-sqlite2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-system-data2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-system-web2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-system1.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono-system2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       libmono0_1.2.3.1-1ubuntu1_i386.deb
+|       |   |       libmono2.0-cil_1.2.3.1-1ubuntu1_all.deb
+|       |   |       mono-common_1.2.3.1-1ubuntu1_i386.deb
+|       |   |       mono-gac_1.2.3.1-1ubuntu1_all.deb
+|       |   |       mono-jit_1.2.3.1-1ubuntu1_i386.deb
+|       |   |       mono-runtime_1.2.3.1-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---mountfloppy
+|       |   |       mountfloppy_0.9_all.udeb
+|       |   |       
+|       |   +---mouseemu
+|       |   |       mouseemu_0.15-6ubuntu5_i386.deb
+|       |   |       
+|       |   +---mozilla-firefox-locale-all
+|       |   |       mozilla-firefox-locale-en-gb_2.0.0.1ubuntu-1_all.deb
+|       |   |       
+|       |   +---mpg321
+|       |   |       mpg321_0.2.10.3_i386.deb
+|       |   |       
+|       |   +---mscompress
+|       |   |       mscompress_0.3-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---mtr
+|       |   |       mtr-tiny_0.71-2_i386.deb
+|       |   |       
+|       |   +---murrine
+|       |   |       gtk2-engines-murrine_0.52-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---muse
+|       |   |       muse_0.8.1a-3_i386.deb
+|       |   |       
+|       |   +---mutt
+|       |   |       mutt_1.5.13-1.1ubuntu3_i386.deb
+|       |   |       
+|       |   \---mxml
+|       |           libmxml1_2.2-2_i386.deb
+|       |           
+|       +---n
+|       |   +---nano
+|       |   |       nano-udeb_2.0.2-1_i386.udeb
+|       |   |       nano_2.0.2-1_i386.deb
+|       |   |       
+|       |   +---nas
+|       |   |       libaudio2_1.8-4_i386.deb
+|       |   |       
+|       |   +---nautilus
+|       |   |       libnautilus-extension1_2.18.1-0ubuntu1_i386.deb
+|       |   |       nautilus-data_2.18.1-0ubuntu1_all.deb
+|       |   |       nautilus_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---nautilus-actions
+|       |   |       nautilus-actions_1.2-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---nautilus-cd-burner
+|       |   |       libnautilus-burn4_2.18.1-0ubuntu1_i386.deb
+|       |   |       nautilus-cd-burner_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---nautilus-image-converter
+|       |   |       nautilus-image-converter_0.0.9-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---nautilus-script-manager
+|       |   |       nautilus-script-manager_0.0.5-0ubuntu4_all.deb
+|       |   |       
+|       |   +---nautilus-sendto
+|       |   |       nautilus-sendto_0.10-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---nbd
+|       |   |       nbd-client_2.8.7-2ubuntu2_i386.deb
+|       |   |       nbd-server_2.8.7-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---ncurses
+|       |   |       libncurses5_5.5-5ubuntu2_i386.deb
+|       |   |       libncursesw5_5.5-5ubuntu2_i386.deb
+|       |   |       ncurses-base_5.5-5ubuntu2_all.deb
+|       |   |       ncurses-bin_5.5-5ubuntu2_i386.deb
+|       |   |       ncurses-term_5.5-5ubuntu2_all.deb
+|       |   |       
+|       |   +---ndesk-dbus
+|       |   |       libndesk-dbus1.0-cil_0.4.2-1_all.deb
+|       |   |       
+|       |   +---ndesk-dbus-glib
+|       |   |       libndesk-dbus-glib1.0-cil_0.3-0ubuntu1_all.deb
+|       |   |       
+|       |   +---ndiswrapper
+|       |   |       ndiswrapper-common_1.38-1ubuntu1_all.deb
+|       |   |       ndiswrapper-utils-1.9_1.38-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---neon
+|       |   |       libneon25_0.25.5.dfsg-6build1_i386.deb
+|       |   |       
+|       |   +---net-retriever
+|       |   |       download-installer_1.12ubuntu2_all.udeb
+|       |   |       net-retriever_1.12ubuntu2_all.udeb
+|       |   |       
+|       |   +---net-snmp
+|       |   |       libsnmp-base_5.2.3-4ubuntu1_all.deb
+|       |   |       libsnmp9_5.2.3-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---net-tools
+|       |   |       net-tools_1.60-17ubuntu1_i386.deb
+|       |   |       
+|       |   +---netbase
+|       |   |       netbase_4.27ubuntu2_all.deb
+|       |   |       
+|       |   +---netcat
+|       |   |       netcat_1.10-32_i386.deb
+|       |   |       
+|       |   +---netcfg
+|       |   |       netcfg_1.32ubuntu4_i386.udeb
+|       |   |       
+|       |   +---netkit-ftp
+|       |   |       ftp_0.17-16_i386.deb
+|       |   |       
+|       |   +---netkit-telnet
+|       |   |       telnet_0.17-35ubuntu1_i386.deb
+|       |   |       
+|       |   +---network-console
+|       |   |       network-console_1.9_i386.udeb
+|       |   |       
+|       |   +---network-manager
+|       |   |       libnm-glib0_0.6.4-6ubuntu7_i386.deb
+|       |   |       libnm-util0_0.6.4-6ubuntu7_i386.deb
+|       |   |       network-manager-gnome_0.6.4-6ubuntu7_i386.deb
+|       |   |       network-manager_0.6.4-6ubuntu7_i386.deb
+|       |   |       
+|       |   +---newt
+|       |   |       libnewt0.52_0.52.2-8ubuntu2_i386.deb
+|       |   |       whiptail_0.52.2-8ubuntu2_i386.deb
+|       |   |       
+|       |   +---nfs-utils
+|       |   |       nfs-common_1.0.12-4_i386.deb
+|       |   |       nfs-kernel-server_1.0.12-4_i386.deb
+|       |   |       
+|       |   +---nis
+|       |   |       nis_3.17-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---nobootloader
+|       |   |       nobootloader_1.15ubuntu2_all.udeb
+|       |   |       
+|       |   +---notification-daemon
+|       |   |       notification-daemon_0.3.6-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---notify-python
+|       |   |       python-notify_0.1.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---nss-mdns
+|       |   |       libnss-mdns_0.9-0.2ubuntu1_i386.deb
+|       |   |       
+|       |   +---ntfs-3g
+|       |   |       libntfs-3g0_1.328-1_i386.deb
+|       |   |       ntfs-3g_1.328-1_i386.deb
+|       |   |       
+|       |   +---ntp
+|       |   |       ntp-simple_4.2.2.p4+dfsg-1ubuntu3_all.deb
+|       |   |       ntp_4.2.2.p4+dfsg-1ubuntu3_i386.deb
+|       |   |       ntpdate_4.2.2.p4+dfsg-1ubuntu3_i386.deb
+|       |   |       
+|       |   \---nvidia-kernel-common
+|       |           nvidia-kernel-common_20051028+1ubuntu7_all.deb
+|       |           
+|       +---o
+|       |   +---oclock
+|       |   |       oclock_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---oem-config
+|       |   |       oem-config-gtk_1.13_i386.deb
+|       |   |       oem-config-udeb_1.13_all.udeb
+|       |   |       oem-config_1.13_i386.deb
+|       |   |       
+|       |   +---omins
+|       |   |       omins_0.2.0-5_i386.deb
+|       |   |       
+|       |   +---onboard
+|       |   |       onboard_0.86_all.deb
+|       |   |       
+|       |   +---openbsd-inetd
+|       |   |       openbsd-inetd_0.20050402-3_i386.deb
+|       |   |       
+|       |   +---opencdk8
+|       |   |       libopencdk8_0.5.9-2build1_i386.deb
+|       |   |       
+|       |   +---openexr
+|       |   |       libopenexr2c2a_1.2.2-4.3ubuntu1_i386.deb
+|       |   |       
+|       |   +---openldap2
+|       |   |       libldap2_2.1.30-13.3_i386.deb
+|       |   |       
+|       |   +---openoffice.org
+|       |   |       openoffice.org-common_2.2.0-1ubuntu3_all.deb
+|       |   |       openoffice.org-core_2.2.0-1ubuntu3_i386.deb
+|       |   |       openoffice.org-l10n-en-us_2.2.0-1ubuntu3_all.deb
+|       |   |       openoffice.org-style-human_2.2.0-1ubuntu3_all.deb
+|       |   |       openoffice.org-writer_2.2.0-1ubuntu3_i386.deb
+|       |   |       python-uno_2.2.0-1ubuntu3_i386.deb
+|       |   |       ttf-opensymbol_2.2.0-1ubuntu3_all.deb
+|       |   |       
+|       |   +---openoffice.org-dictionaries
+|       |   |       myspell-en-gb_2.0.4~rc1-3ubuntu1_all.deb
+|       |   |       myspell-en-us_2.0.4~rc1-3ubuntu1_all.deb
+|       |   |       openoffice.org-thesaurus-en-us_2.0.4~rc1-3ubuntu1_all.deb
+|       |   |       
+|       |   +---openoffice.org-hyphenation
+|       |   |       openoffice.org-hyphenation_0.2_all.deb
+|       |   |       
+|       |   +---openoffice.org-l10n
+|       |   |       openoffice.org-help-en-us_2.2.0-0ubuntu2_all.deb
+|       |   |       openoffice.org-l10n-common_2.2.0-0ubuntu2_all.deb
+|       |   |       openoffice.org-l10n-en-gb_2.2.0-0ubuntu2_all.deb
+|       |   |       openoffice.org-l10n-en-za_2.2.0-0ubuntu2_all.deb
+|       |   |       
+|       |   +---openslp
+|       |   |       libslp1_1.2.1-6.2_i386.deb
+|       |   |       
+|       |   +---openssh
+|       |   |       openssh-client-udeb_4.3p2-8ubuntu1_i386.udeb
+|       |   |       openssh-client_4.3p2-8ubuntu1_i386.deb
+|       |   |       openssh-server-udeb_4.3p2-8ubuntu1_i386.udeb
+|       |   |       openssh-server_4.3p2-8ubuntu1_i386.deb
+|       |   |       ssh-askpass-gnome_4.3p2-8ubuntu1_i386.deb
+|       |   |       ssh_4.3p2-8ubuntu1_all.deb
+|       |   |       
+|       |   +---openssl
+|       |   |       libcrypto0.9.8-udeb_0.9.8c-4build1_i386.udeb
+|       |   |       libssl0.9.8_0.9.8c-4build1_i386.deb
+|       |   |       openssl_0.9.8c-4build1_i386.deb
+|       |   |       
+|       |   +---orbit2
+|       |   |       liborbit2_2.14.7-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---os-prober
+|       |           os-prober-udeb_1.17ubuntu2_i386.udeb
+|       |           
+|       +---p
+|       |   +---pam
+|       |   |       libpam-modules_0.79-4ubuntu2_i386.deb
+|       |   |       libpam-runtime_0.79-4ubuntu2_all.deb
+|       |   |       libpam0g_0.79-4ubuntu2_i386.deb
+|       |   |       
+|       |   +---pango1.0
+|       |   |       libpango1.0-0_1.16.2-0ubuntu1_i386.deb
+|       |   |       libpango1.0-common_1.16.2-0ubuntu1_all.deb
+|       |   |       
+|       |   +---paramiko
+|       |   |       python-paramiko_1.6.4-1_all.deb
+|       |   |       
+|       |   +---partconf
+|       |   |       partconf-find-partitions_1.19build1_i386.udeb
+|       |   |       partconf-mkfstab_1.19build1_i386.udeb
+|       |   |       
+|       |   +---parted
+|       |   |       libparted1.7-1_1.7.1-3ubuntu4_i386.deb
+|       |   |       libparted1.7-udeb_1.7.1-3ubuntu4_i386.udeb
+|       |   |       parted-udeb_1.7.1-3ubuntu4_i386.udeb
+|       |   |       parted_1.7.1-3ubuntu4_i386.deb
+|       |   |       
+|       |   +---partman-auto
+|       |   |       partman-auto_62ubuntu10_i386.udeb
+|       |   |       
+|       |   +---partman-auto-lvm
+|       |   |       partman-auto-lvm_20ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-base
+|       |   |       partman-base_105ubuntu3_i386.udeb
+|       |   |       
+|       |   +---partman-basicfilesystems
+|       |   |       partman-basicfilesystems_51ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-basicmethods
+|       |   |       partman-basicmethods_33ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-efi
+|       |   |       partman-efi_11ubuntu3_i386.udeb
+|       |   |       
+|       |   +---partman-ext3
+|       |   |       partman-ext3_45ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-jfs
+|       |   |       partman-jfs_20ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-lvm
+|       |   |       partman-lvm_47_all.udeb
+|       |   |       
+|       |   +---partman-md
+|       |   |       partman-md_30ubuntu1_all.udeb
+|       |   |       
+|       |   +---partman-partitioning
+|       |   |       partman-partitioning_47ubuntu5_i386.udeb
+|       |   |       
+|       |   +---partman-reiserfs
+|       |   |       partman-reiserfs_34ubuntu1_all.udeb
+|       |   |       
+|       |   +---partman-target
+|       |   |       partman-target_46ubuntu2_all.udeb
+|       |   |       
+|       |   +---partman-xfs
+|       |   |       partman-xfs_32ubuntu1_all.udeb
+|       |   |       
+|       |   +---patch
+|       |   |       patch_2.5.9-4_i386.deb
+|       |   |       
+|       |   +---patchage
+|       |   |       patchage_0.2.3-2_i386.deb
+|       |   |       
+|       |   +---pax
+|       |   |       pax_1.5-15_i386.deb
+|       |   |       
+|       |   +---pciutils
+|       |   |       pciutils-udeb_2.2.4-1ubuntu1_i386.udeb
+|       |   |       pciutils_2.2.4-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---pcmciautils
+|       |   |       pcmciautils-udeb_014-3ubuntu2_i386.udeb
+|       |   |       pcmciautils_014-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---pcre3
+|       |   |       libpcre3_6.7-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---perl
+|       |   |       libperl5.8_5.8.8-7build1_i386.deb
+|       |   |       perl-base_5.8.8-7build1_i386.deb
+|       |   |       perl-modules_5.8.8-7build1_all.deb
+|       |   |       perl_5.8.8-7build1_i386.deb
+|       |   |       
+|       |   +---pilot-link
+|       |   |       libpisock9_0.12.2-7ubuntu1_i386.deb
+|       |   |       libpisync0_0.12.2-7ubuntu1_i386.deb
+|       |   |       
+|       |   +---pitivi
+|       |   |       pitivi_0.10.2-1_all.deb
+|       |   |       
+|       |   +---pkg-config
+|       |   |       pkg-config_0.21-1build1_i386.deb
+|       |   |       
+|       |   +---pkgsel
+|       |   |       pkgsel_0.10ubuntu2_all.udeb
+|       |   |       
+|       |   +---plotutils
+|       |   |       libplot2c2_2.4.1-15_i386.deb
+|       |   |       
+|       |   +---pnm2ppa
+|       |   |       pnm2ppa_1.12-16_i386.deb
+|       |   |       
+|       |   +---po-debconf
+|       |   |       po-debconf_1.0.8_all.deb
+|       |   |       
+|       |   +---poppler
+|       |   |       libpoppler1-glib_0.5.4-0ubuntu8_i386.deb
+|       |   |       libpoppler1_0.5.4-0ubuntu8_i386.deb
+|       |   |       poppler-utils_0.5.4-0ubuntu8_i386.deb
+|       |   |       
+|       |   +---popt
+|       |   |       libpopt0_1.10-3build1_i386.deb
+|       |   |       
+|       |   +---popularity-contest
+|       |   |       popularity-contest_1.39ubuntu5_all.deb
+|       |   |       
+|       |   +---portaudio
+|       |   |       libportaudio0_18.1-4_i386.deb
+|       |   |       
+|       |   +---portaudio19
+|       |   |       libportaudio2_19+svn20060825-1_i386.deb
+|       |   |       
+|       |   +---portmap
+|       |   |       portmap_5-24_i386.deb
+|       |   |       
+|       |   +---postfix
+|       |   |       postfix_2.3.8-2_i386.deb
+|       |   |       
+|       |   +---postgresql-8.2
+|       |   |       libpq5_8.2.3-3_i386.deb
+|       |   |       
+|       |   +---powermanagement-interface
+|       |   |       powermanagement-interface_0.3.15_i386.deb
+|       |   |       
+|       |   +---powermgmt-base
+|       |   |       powermgmt-base_1.29build1_i386.deb
+|       |   |       
+|       |   +---powernowd
+|       |   |       powernowd_0.97-1ubuntu7_i386.deb
+|       |   |       
+|       |   +---ppp
+|       |   |       ppp-udeb_2.4.4rel-4.1ubuntu2_i386.udeb
+|       |   |       ppp_2.4.4rel-4.1ubuntu2_i386.deb
+|       |   |       
+|       |   +---pppconfig
+|       |   |       pppconfig_2.3.15ubuntu1_all.deb
+|       |   |       
+|       |   +---pppoeconf
+|       |   |       pppoeconf_1.12ubuntu1_all.deb
+|       |   |       
+|       |   +---pptp-linux
+|       |   |       pptp-linux_1.7.0-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---preseed
+|       |   |       env-preseed_1.28ubuntu1_all.udeb
+|       |   |       file-preseed_1.28ubuntu1_all.udeb
+|       |   |       initrd-preseed_1.28ubuntu1_all.udeb
+|       |   |       network-preseed_1.28ubuntu1_all.udeb
+|       |   |       preseed-common_1.28ubuntu1_all.udeb
+|       |   |       
+|       |   +---procps
+|       |   |       procps_3.2.7-3ubuntu2_i386.deb
+|       |   |       
+|       |   +---psmisc
+|       |   |       psmisc_22.3-1build1_i386.deb
+|       |   |       
+|       |   +---pulseaudio
+|       |   |       libpulse0_0.9.5-5ubuntu5_i386.deb
+|       |   |       
+|       |   +---puredata
+|       |   |       puredata_0.40.2-2_i386.deb
+|       |   |       
+|       |   +---pwlib
+|       |   |       libpt-1.10.0_1.10.3-0ubuntu1_i386.deb
+|       |   |       libpt-plugins-v4l2_1.10.3-0ubuntu1_i386.deb
+|       |   |       libpt-plugins-v4l_1.10.3-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---pycairo
+|       |   |       python-cairo_1.2.0-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---pygobject
+|       |   |       python-gobject_2.12.3-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---pygtk
+|       |   |       python-glade2_2.10.4-0ubuntu3_i386.deb
+|       |   |       python-gtk2_2.10.4-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---pyorbit
+|       |   |       python-pyorbit_2.14.2-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---python-apt
+|       |   |       python-apt_0.6.20ubuntu16_i386.deb
+|       |   |       
+|       |   +---python-central
+|       |   |       python-central_0.5.12ubuntu4_all.deb
+|       |   |       
+|       |   +---python-crypto
+|       |   |       python-crypto_2.0.1+dfsg1-1.2ubuntu1_i386.deb
+|       |   |       
+|       |   +---python-defaults
+|       |   |       python-minimal_2.5.1~rc1-0ubuntu3_all.deb
+|       |   |       python_2.5.1~rc1-0ubuntu3_all.deb
+|       |   |       
+|       |   +---python-numeric
+|       |   |       python-numeric_24.2-7ubuntu1_i386.deb
+|       |   |       
+|       |   +---python-stdlib-extensions
+|       |   |       python-gdbm_2.5-0ubuntu1_i386.deb
+|       |   |       python-tk_2.5-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---python-support
+|       |   |       python-support_0.5.6ubuntu1_all.deb
+|       |   |       
+|       |   +---python-xml
+|       |   |       python-xml_0.8.4-6ubuntu4_i386.deb
+|       |   |       
+|       |   +---python2.4
+|       |   |       python2.4-minimal_2.4.4-2ubuntu7_i386.deb
+|       |   |       python2.4_2.4.4-2ubuntu7_i386.deb
+|       |   |       
+|       |   +---python2.5
+|       |   |       python2.5-minimal_2.5.1~rc1-0ubuntu3_i386.deb
+|       |   |       python2.5_2.5.1~rc1-0ubuntu3_i386.deb
+|       |   |       
+|       |   \---pyxdg
+|       |           python-xdg_0.15-1.1ubuntu2_all.deb
+|       |           
+|       +---q
+|       |   +---qamix
+|       |   |       qamix_0.0.7e-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---qjackctl
+|       |   |       qjackctl_0.2.21-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---qsynth
+|       |   |       qsynth_0.2.5-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---qt-x11-free
+|       |   |       libqt3-mt_3.3.8really3.3.7-0ubuntu5_i386.deb
+|       |   |       
+|       |   \---qt4-x11
+|       |           libqt4-core_4.2.3-0ubuntu3_i386.deb
+|       |           libqt4-gui_4.2.3-0ubuntu3_i386.deb
+|       |           
+|       +---r
+|       |   +---radeontool
+|       |   |       radeontool_1.5-5build1_i386.deb
+|       |   |       
+|       |   +---raptor
+|       |   |       libraptor1_1.4.13-1build1_i386.deb
+|       |   |       
+|       |   +---rdesktop
+|       |   |       rdesktop_1.5.0-1build1_i386.deb
+|       |   |       
+|       |   +---readahead-list
+|       |   |       readahead_0.20050517.0220-0ubuntu9_i386.deb
+|       |   |       
+|       |   +---readline5
+|       |   |       libreadline5_5.2-2ubuntu1_i386.deb
+|       |   |       readline-common_5.2-2ubuntu1_all.deb
+|       |   |       
+|       |   +---recode
+|       |   |       librecode0_3.6-13build1_i386.deb
+|       |   |       
+|       |   +---refit
+|       |   |       gptsync-udeb_0.7-3ubuntu1_i386.udeb
+|       |   |       
+|       |   +---reiserfsprogs
+|       |   |       mkreiserfs-udeb_3.6.19-4ubuntu2_i386.udeb
+|       |   |       reiserfsprogs-udeb_3.6.19-4ubuntu2_i386.udeb
+|       |   |       reiserfsprogs_3.6.19-4ubuntu2_i386.deb
+|       |   |       
+|       |   +---rescue
+|       |   |       rescue-check_1.7ubuntu1_all.udeb
+|       |   |       rescue-mode_1.7ubuntu1_all.udeb
+|       |   |       
+|       |   +---restricted-manager
+|       |   |       restricted-manager_0.20_all.deb
+|       |   |       
+|       |   +---rootskel
+|       |   |       rootskel-bootfloppy_1.48ubuntu2_i386.udeb
+|       |   |       rootskel_1.48ubuntu2_i386.udeb
+|       |   |       
+|       |   +---rosegarden
+|       |   |       rosegarden-data_1.4.0-1ubuntu1_all.deb
+|       |   |       rosegarden4_1.4.0-1ubuntu1_all.deb
+|       |   |       rosegarden_1.4.0-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---rpm
+|       |   |       librpm4_4.4.1-14build1_i386.deb
+|       |   |       rpm_4.4.1-14build1_i386.deb
+|       |   |       
+|       |   +---rss-glx
+|       |   |       rss-glx_0.8.1-3ubuntu3_i386.deb
+|       |   |       
+|       |   \---rsync
+|       |           rsync_2.6.9-3ubuntu1_i386.deb
+|       |           
+|       +---s
+|       |   +---samba
+|       |   |       libsmbclient_3.0.24-2ubuntu1_i386.deb
+|       |   |       samba-common_3.0.24-2ubuntu1_i386.deb
+|       |   |       samba_3.0.24-2ubuntu1_i386.deb
+|       |   |       smbclient_3.0.24-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---sane-backends
+|       |   |       libsane_1.0.18-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---scim
+|       |   |       libscim8c2a_1.4.4-7ubuntu1_i386.deb
+|       |   |       scim-gtk2-immodule_1.4.4-7ubuntu1_i386.deb
+|       |   |       scim-modules-socket_1.4.4-7ubuntu1_i386.deb
+|       |   |       scim_1.4.4-7ubuntu1_i386.deb
+|       |   |       
+|       |   +---scim-tables
+|       |   |       scim-modules-table_0.5.6-2_i386.deb
+|       |   |       scim-tables-additional_0.5.6-2_all.deb
+|       |   |       
+|       |   +---scowl
+|       |   |       wamerican_6-2_all.deb
+|       |   |       wbritish_6-2_all.deb
+|       |   |       
+|       |   +---screen
+|       |   |       screen_4.0.3-0.2ubuntu2_i386.deb
+|       |   |       
+|       |   +---scribus
+|       |   |       scribus_1.2.5.dfsg-5ubuntu3_i386.deb
+|       |   |       
+|       |   +---scrollkeeper
+|       |   |       libscrollkeeper0_0.3.14-11ubuntu7_i386.deb
+|       |   |       scrollkeeper_0.3.14-11ubuntu7_i386.deb
+|       |   |       
+|       |   +---sdl-image1.2
+|       |   |       libsdl-image1.2_1.2.5-2_i386.deb
+|       |   |       
+|       |   +---sed
+|       |   |       sed_4.1.5-1_i386.deb
+|       |   |       
+|       |   +---seq24
+|       |   |       seq24_0.8.6-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---sessreg
+|       |   |       sessreg_1.0.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---setserial
+|       |   |       setserial_2.17-43_i386.deb
+|       |   |       
+|       |   +---sgml-base
+|       |   |       sgml-base_1.26_all.deb
+|       |   |       
+|       |   +---sgml-data
+|       |   |       sgml-data_2.0.3_all.deb
+|       |   |       
+|       |   +---shadow
+|       |   |       login_4.0.18.1-6ubuntu1_i386.deb
+|       |   |       passwd_4.0.18.1-6ubuntu1_i386.deb
+|       |   |       
+|       |   +---shaketracker
+|       |   |       shaketracker_0.4.6-5build1_i386.deb
+|       |   |       
+|       |   +---shared-mime-info
+|       |   |       shared-mime-info_0.20-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---slang2
+|       |   |       libslang2-udeb_2.0.6-4build1_i386.udeb
+|       |   |       libslang2_2.0.6-4build1_i386.deb
+|       |   |       
+|       |   +---slocate
+|       |   |       slocate_3.1-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---smartdimmer
+|       |   |       smartdimmer_0.1-2_i386.deb
+|       |   |       
+|       |   +---smproxy
+|       |   |       smproxy_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---software-properties
+|       |   |       python-software-properties_0.59.4_all.deb
+|       |   |       software-properties-gtk_0.59.4_all.deb
+|       |   |       
+|       |   +---sooperlooper
+|       |   |       sooperlooper_1.0.8c-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---soundtouch
+|       |   |       libsoundtouch1c2_1.3.0-2.1_i386.deb
+|       |   |       
+|       |   +---sox
+|       |   |       sox_12.18.2-1_i386.deb
+|       |   |       
+|       |   +---speex
+|       |   |       libspeex1_1.1.12-3_i386.deb
+|       |   |       
+|       |   +---sqlite3
+|       |   |       libsqlite3-0_3.3.13-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---ssl-cert
+|       |   |       ssl-cert_1.0.13_all.deb
+|       |   |       
+|       |   +---startup-notification
+|       |   |       libstartup-notification0_0.9-1_i386.deb
+|       |   |       
+|       |   +---stlport5.1
+|       |   |       libstlport5.1_5.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---stopmotion
+|       |   |       stopmotion_0.5.5-1_i386.deb
+|       |   |       
+|       |   +---strace
+|       |   |       strace-udeb_4.5.14-2ubuntu1_i386.udeb
+|       |   |       strace_4.5.14-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---sudo
+|       |   |       sudo_1.6.8p12-4ubuntu5_i386.deb
+|       |   |       
+|       |   +---swami
+|       |   |       swami_0.9.4-1_i386.deb
+|       |   |       
+|       |   +---swh-plugins
+|       |   |       swh-plugins_0.4.14-1.1_i386.deb
+|       |   |       
+|       |   +---synaptic
+|       |   |       synaptic_0.57.11.1ubuntu14_i386.deb
+|       |   |       
+|       |   +---synfig
+|       |   |       libsynfig0_0.61.05-8_i386.deb
+|       |   |       
+|       |   +---synfigstudio
+|       |   |       libsynfigapp0_0.61.05-5_i386.deb
+|       |   |       synfigstudio_0.61.05-5_i386.deb
+|       |   |       
+|       |   +---sysfsutils
+|       |   |       libsysfs2-udeb_2.1.0-1build1_i386.udeb
+|       |   |       libsysfs2_2.1.0-1build1_i386.deb
+|       |   |       
+|       |   +---sysklogd
+|       |   |       klogd_1.4.1-20ubuntu4_i386.deb
+|       |   |       sysklogd_1.4.1-20ubuntu4_i386.deb
+|       |   |       
+|       |   +---syslinux
+|       |   |       syslinux_3.11-3ubuntu4_i386.deb
+|       |   |       
+|       |   +---system-tools-backends
+|       |   |       system-tools-backends_2.2.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---sysvinit
+|       |           initscripts_2.86.ds1-14.1ubuntu18_i386.deb
+|       |           sysv-rc_2.86.ds1-14.1ubuntu18_all.deb
+|       |           sysvutils_2.86.ds1-14.1ubuntu18_i386.deb
+|       |           
+|       +---t
+|       |   +---t1lib
+|       |   |       libt1-5_5.1.0-2_i386.deb
+|       |   |       
+|       |   +---taglib
+|       |   |       libtag1c2a_1.4-4build1_i386.deb
+|       |   |       
+|       |   +---tango-icon-theme
+|       |   |       tango-icon-theme_0.7.2+cvs07.02.06-0ubuntu1_all.deb
+|       |   |       
+|       |   +---tango-icon-theme-common
+|       |   |       tango-icon-theme-common_0.7-0ubuntu1_all.deb
+|       |   |       
+|       |   +---tap-plugins
+|       |   |       tap-plugins_0.7.0-2_i386.deb
+|       |   |       
+|       |   +---tapiir
+|       |   |       tapiir_0.7.1-9_i386.deb
+|       |   |       
+|       |   +---tar
+|       |   |       tar_1.16-2_i386.deb
+|       |   |       
+|       |   +---tasksel
+|       |   |       tasksel-data_2.59ubuntu2ubuntustudio1_all.deb
+|       |   |       tasksel_2.59ubuntu2ubuntustudio1_all.deb
+|       |   |       
+|       |   +---tcl8.4
+|       |   |       tcl8.4_8.4.14-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---tcp-wrappers
+|       |   |       libwrap0_7.6.dbs-11build1_i386.deb
+|       |   |       tcpd_7.6.dbs-11build1_i386.deb
+|       |   |       
+|       |   +---tcpdump
+|       |   |       tcpdump_3.9.5-2_i386.deb
+|       |   |       
+|       |   +---terminatorx
+|       |   |       terminatorx_3.82-7ubuntu2_i386.deb
+|       |   |       
+|       |   +---tetex-base
+|       |   |       tetex-base_3.0.dfsg.3-4_all.deb
+|       |   |       
+|       |   +---tetex-bin
+|       |   |       libkpathsea4_3.0-27ubuntu1_i386.deb
+|       |   |       tetex-bin_3.0-27ubuntu1_i386.deb
+|       |   |       
+|       |   +---tex-common
+|       |   |       tex-common_0.42_all.deb
+|       |   |       
+|       |   +---texinfo
+|       |   |       info_4.8.dfsg.1-4build1_i386.deb
+|       |   |       texinfo_4.8.dfsg.1-4build1_i386.deb
+|       |   |       
+|       |   +---tftp-hpa
+|       |   |       tftpd-hpa_0.43-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---thaifonts-scalable
+|       |   |       ttf-thai-tlwg_0.4.5-3_all.deb
+|       |   |       
+|       |   +---thunderbird-locales
+|       |   |       thunderbird-locale-en-gb_1.5.0.10ubuntu0-1_all.deb
+|       |   |       
+|       |   +---tiff
+|       |   |       libtiff4_3.8.2-6_i386.deb
+|       |   |       
+|       |   +---time
+|       |   |       time_1.7-21_i386.deb
+|       |   |       
+|       |   +---timemachine
+|       |   |       timemachine_0.3.0-3_i386.deb
+|       |   |       
+|       |   +---timidity
+|       |   |       timidity_2.13.2-11ubuntu1_i386.deb
+|       |   |       
+|       |   +---tk707
+|       |   |       tk707_0.7.21-9_i386.deb
+|       |   |       
+|       |   +---tk8.4
+|       |   |       tk8.4_8.4.14-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---toshset
+|       |   |       toshset_1.72-2ubuntu1_i386.deb
+|       |   |       
+|       |   +---totem
+|       |   |       libtotem-plparser1_2.18.1-0ubuntu3_i386.deb
+|       |   |       totem-gstreamer_2.18.1-0ubuntu3_i386.deb
+|       |   |       totem-mozilla_2.18.1-0ubuntu3_all.deb
+|       |   |       totem_2.18.1-0ubuntu3_all.deb
+|       |   |       
+|       |   +---tsclient
+|       |   |       tsclient_0.148-2ubuntu3_i386.deb
+|       |   |       
+|       |   +---ttf-arabeyes
+|       |   |       ttf-arabeyes_1.1-6_all.deb
+|       |   |       
+|       |   +---ttf-arphic-ukai
+|       |   |       ttf-arphic-ukai_0.1.20060928-2_all.deb
+|       |   |       
+|       |   +---ttf-arphic-uming
+|       |   |       ttf-arphic-uming_0.1.20060928-2ubuntu3_all.deb
+|       |   |       
+|       |   +---ttf-baekmuk
+|       |   |       ttf-baekmuk_2.2-1ubuntu3_all.deb
+|       |   |       
+|       |   +---ttf-bitstream-vera
+|       |   |       ttf-bitstream-vera_1.10-7_all.deb
+|       |   |       
+|       |   +---ttf-dejavu
+|       |   |       ttf-dejavu_2.14-2_all.deb
+|       |   |       
+|       |   +---ttf-freefont
+|       |   |       ttf-freefont_20060501cvs-10_all.deb
+|       |   |       
+|       |   +---ttf-gentium
+|       |   |       ttf-gentium_1.02-2ubuntu2_all.deb
+|       |   |       
+|       |   +---ttf-indic-fonts
+|       |   |       ttf-bengali-fonts_0.4.7.3_all.deb
+|       |   |       ttf-devanagari-fonts_0.4.7.3_all.deb
+|       |   |       ttf-gujarati-fonts_0.4.7.3_all.deb
+|       |   |       ttf-indic-fonts_0.4.7.3_all.deb
+|       |   |       ttf-kannada-fonts_0.4.7.3_all.deb
+|       |   |       ttf-malayalam-fonts_0.4.7.3_all.deb
+|       |   |       ttf-oriya-fonts_0.4.7.3_all.deb
+|       |   |       ttf-punjabi-fonts_0.4.7.3_all.deb
+|       |   |       ttf-tamil-fonts_0.4.7.3_all.deb
+|       |   |       ttf-telugu-fonts_0.4.7.3_all.deb
+|       |   |       
+|       |   +---ttf-kochi
+|       |   |       ttf-kochi-gothic_1.0.20030809-4ubuntu2_all.deb
+|       |   |       ttf-kochi-mincho_1.0.20030809-4ubuntu2_all.deb
+|       |   |       
+|       |   +---ttf-lao
+|       |   |       ttf-lao_0.0.20060226-2_all.deb
+|       |   |       
+|       |   +---ttf-mgopen
+|       |   |       ttf-mgopen_1.1-2_all.deb
+|       |   |       
+|       |   +---twisted
+|       |   |       python-twisted-bin_2.5.0-0ubuntu3_i386.deb
+|       |   |       python-twisted-core_2.5.0-0ubuntu3_all.deb
+|       |   |       python-twisted_2.5.0-0ubuntu3_all.deb
+|       |   |       
+|       |   +---twisted-conch
+|       |   |       python-twisted-conch_0.8.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-lore
+|       |   |       python-twisted-lore_0.3.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-mail
+|       |   |       python-twisted-mail_0.4.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-names
+|       |   |       python-twisted-names_0.4.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-news
+|       |   |       python-twisted-news_0.3.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-runner
+|       |   |       python-twisted-runner_0.2.0-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---twisted-web
+|       |   |       python-twisted-web_0.7.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---twisted-words
+|       |   |       python-twisted-words_0.5.0-0ubuntu1_all.deb
+|       |   |       
+|       |   +---tzdata
+|       |   |       tzdata_2007b-0ubuntu1_all.deb
+|       |   |       
+|       |   \---tzsetup
+|       |           tzsetup-udeb_0.14_all.udeb
+|       |           
+|       +---u
+|       |   +---ubuntu-docs
+|       |   |       ubuntu-docs_7.04.4_all.deb
+|       |   |       
+|       |   +---ubuntu-keyring
+|       |   |       ubuntu-keyring-udeb_2007.04.15_all.udeb
+|       |   |       ubuntu-keyring_2007.04.15_all.deb
+|       |   |       
+|       |   +---ubuntu-meta
+|       |   |       ubuntu-minimal_1.43_i386.deb
+|       |   |       ubuntu-standard_1.43_i386.deb
+|       |   |       
+|       |   +---ubuntustudio-artwork
+|       |   |       ubuntustudio-artwork_40_all.deb
+|       |   |       
+|       |   +---ubuntustudio-default-settings
+|       |   |       ubuntustudio-default-settings_0.1_all.deb
+|       |   |       
+|       |   +---ubuntustudio-icon-theme
+|       |   |       ubuntustudio-icon-theme_0.1_all.deb
+|       |   |       
+|       |   +---ubuntustudio-look
+|       |   |       ubuntustudio-gdm-theme_0.4_all.deb
+|       |   |       ubuntustudio-look_0.4_all.deb
+|       |   |       ubuntustudio-session-splashes_0.4_all.deb
+|       |   |       ubuntustudio-theme_0.4_all.deb
+|       |   |       ubuntustudio-wallpapers_0.4_all.deb
+|       |   |       
+|       |   +---ubuntustudio-meta
+|       |   |       ubuntustudio-audio-plugins_0.2_i386.deb
+|       |   |       ubuntustudio-audio_0.2_i386.deb
+|       |   |       ubuntustudio-desktop_0.2_i386.deb
+|       |   |       ubuntustudio-graphics_0.2_i386.deb
+|       |   |       ubuntustudio-video_0.2_i386.deb
+|       |   |       
+|       |   +---ubuntustudio-sounds
+|       |   |       ubuntustudio-sounds_0.3_all.deb
+|       |   |       
+|       |   +---ucf
+|       |   |       ucf_2.0017ubuntu1_all.deb
+|       |   |       
+|       |   +---udev
+|       |   |       libvolume-id0_108-0ubuntu4_i386.deb
+|       |   |       udev-udeb_108-0ubuntu4_i386.udeb
+|       |   |       udev_108-0ubuntu4_i386.deb
+|       |   |       volumeid_108-0ubuntu4_i386.deb
+|       |   |       
+|       |   +---udpkg
+|       |   |       udpkg_1.04_i386.udeb
+|       |   |       
+|       |   +---ufraw
+|       |   |       gimp-ufraw_0.10-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---unattended-upgrades
+|       |   |       unattended-upgrades_0.22ubuntu2_all.deb
+|       |   |       
+|       |   +---unifont
+|       |   |       unifont_1.0-3ubuntu2_all.deb
+|       |   |       
+|       |   +---unzip
+|       |   |       unzip_5.52-9ubuntu3_i386.deb
+|       |   |       
+|       |   +---update-inetd
+|       |   |       update-inetd_4.27-0.2_all.deb
+|       |   |       
+|       |   +---update-manager
+|       |   |       update-manager-core_0.59.20_i386.deb
+|       |   |       update-manager_0.59.20_all.deb
+|       |   |       
+|       |   +---update-notifier
+|       |   |       update-notifier_0.56.3_i386.deb
+|       |   |       
+|       |   +---upstart
+|       |   |       startup-tasks_0.3.8-1_i386.deb
+|       |   |       system-services_0.3.8-1_i386.deb
+|       |   |       upstart-compat-sysv_0.3.8-1_i386.deb
+|       |   |       upstart-logd_0.3.8-1_i386.deb
+|       |   |       upstart_0.3.8-1_i386.deb
+|       |   |       
+|       |   +---usb-discover
+|       |   |       usb-discover_1.06ubuntu1_all.udeb
+|       |   |       
+|       |   +---usbutils
+|       |   |       usbutils-udeb_0.72-7ubuntu2_i386.udeb
+|       |   |       usbutils_0.72-7ubuntu2_i386.deb
+|       |   |       
+|       |   +---user-setup
+|       |   |       user-setup-udeb_1.8ubuntu3_all.udeb
+|       |   |       
+|       |   +---usplash
+|       |   |       libusplash0_0.4-44_i386.deb
+|       |   |       usplash_0.4-44_i386.deb
+|       |   |       
+|       |   +---usplash-theme-ubuntustudio
+|       |   |       usplash-theme-ubuntustudio_0.7_i386.deb
+|       |   |       
+|       |   \---util-linux
+|       |           bsdutils_2.12r-17ubuntu2_i386.deb
+|       |           fdisk-udeb_2.12r-17ubuntu2_i386.udeb
+|       |           mount_2.12r-17ubuntu2_i386.deb
+|       |           util-linux-locales_2.12r-17ubuntu2_all.deb
+|       |           util-linux_2.12r-17ubuntu2_i386.deb
+|       |           
+|       +---v
+|       |   +---vbetool
+|       |   |       vbetool_1.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---vcf-plugins
+|       |   |       vcf-plugins_0.0.5-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---viewres
+|       |   |       viewres_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---vim
+|       |   |       vim-common_7.0-164+1ubuntu7_i386.deb
+|       |   |       vim-runtime_7.0-164+1ubuntu7_all.deb
+|       |   |       vim-tiny_7.0-164+1ubuntu7_i386.deb
+|       |   |       vim_7.0-164+1ubuntu7_i386.deb
+|       |   |       
+|       |   +---vino
+|       |   |       vino_2.18.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---virtkey
+|       |   |       python-virtkey_0.41ubuntu1_i386.deb
+|       |   |       
+|       |   +---vkeybd
+|       |   |       vkeybd_0.1.17-3_i386.deb
+|       |   |       
+|       |   +---vnc
+|       |   |       vnc-common_3.3.7-13ubuntu2_i386.deb
+|       |   |       xvncviewer_3.3.7-13ubuntu2_i386.deb
+|       |   |       
+|       |   +---vorbis-tools
+|       |   |       vorbis-tools_1.1.1-6build1_i386.deb
+|       |   |       
+|       |   \---vte
+|       |           libvte-common_0.16.1-0ubuntu1_all.deb
+|       |           libvte9_0.16.1-0ubuntu1_i386.deb
+|       |           python-vte_0.16.1-0ubuntu1_i386.deb
+|       |           
+|       +---w
+|       |   +---w3m
+|       |   |       w3m_0.5.1-5.1ubuntu1_i386.deb
+|       |   |       
+|       |   +---wacom-tools
+|       |   |       wacom-tools_0.7.7.7-0ubuntu1_i386.deb
+|       |   |       xserver-xorg-input-wacom_0.7.7.7-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---wget
+|       |   |       wget_1.10.2-2ubuntu2_i386.deb
+|       |   |       
+|       |   +---whois
+|       |   |       whois_4.7.20build2_i386.deb
+|       |   |       
+|       |   +---wired
+|       |   |       wired_0.4-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---wireless-tools
+|       |   |       libiw28-udeb_28-1ubuntu3_i386.udeb
+|       |   |       libiw28_28-1ubuntu3_i386.deb
+|       |   |       wireless-tools-udeb_28-1ubuntu3_i386.udeb
+|       |   |       wireless-tools_28-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---wpasupplicant
+|       |   |       wpasupplicant_0.5.7-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---wvdial
+|       |   |       wvdial_1.56-1.1ubuntu2_i386.deb
+|       |   |       
+|       |   +---wvstreams
+|       |   |       libuniconf4.2_4.2.2-2.2ubuntu2_i386.deb
+|       |   |       libwvstreams4.2-base_4.2.2-2.2ubuntu2_i386.deb
+|       |   |       libwvstreams4.2-extras_4.2.2-2.2ubuntu2_i386.deb
+|       |   |       
+|       |   +---wxwidgets2.6
+|       |   |       libwxbase2.6-0_2.6.3.2.1.5ubuntu6_i386.deb
+|       |   |       libwxgtk2.6-0_2.6.3.2.1.5ubuntu6_i386.deb
+|       |   |       
+|       |   \---wxwindows2.4
+|       |           libwxgtk2.4-1_2.4.5.1ubuntu2_i386.deb
+|       |           
+|       +---x
+|       |   +---x-ttcidfont-conf
+|       |   |       x-ttcidfont-conf_25_all.deb
+|       |   |       
+|       |   +---x11perf
+|       |   |       x11perf_1.4.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xauth
+|       |   |       xauth_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xbiff
+|       |   |       xbiff_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xbitmaps
+|       |   |       xbitmaps_1.0.1-0ubuntu2_all.deb
+|       |   |       
+|       |   +---xcalc
+|       |   |       xcalc_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xclipboard
+|       |   |       xclipboard_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xclock
+|       |   |       xclock_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xconsole
+|       |   |       xconsole_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xcursor-themes
+|       |   |       xcursor-themes_1.0.1-5ubuntu1_all.deb
+|       |   |       
+|       |   +---xcursorgen
+|       |   |       xcursorgen_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xditview
+|       |   |       xditview_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xdpyinfo
+|       |   |       xdpyinfo_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xdriinfo
+|       |   |       xdriinfo_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xev
+|       |   |       xev_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xeyes
+|       |   |       xeyes_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xf86dga
+|       |   |       xf86dga_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xfd
+|       |   |       xfd_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xfonts-100dpi
+|       |   |       xfonts-100dpi_1.0.0-3_all.deb
+|       |   |       
+|       |   +---xfonts-75dpi
+|       |   |       xfonts-75dpi_1.0.0-3_all.deb
+|       |   |       
+|       |   +---xfonts-base
+|       |   |       xfonts-base_1.0.0-4_all.deb
+|       |   |       
+|       |   +---xfonts-encodings
+|       |   |       xfonts-encodings_1.0.0-6_all.deb
+|       |   |       
+|       |   +---xfonts-scalable
+|       |   |       xfonts-scalable_1.0.0-6_all.deb
+|       |   |       
+|       |   +---xfonts-terminus
+|       |   |       console-terminus_4.20-5_all.deb
+|       |   |       
+|       |   +---xfonts-utils
+|       |   |       xfonts-utils_1.0.1-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---xfontsel
+|       |   |       xfontsel_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xfsprogs
+|       |   |       xfsprogs-udeb_2.8.18-1build1_i386.udeb
+|       |   |       xfsprogs_2.8.18-1build1_i386.deb
+|       |   |       
+|       |   +---xft
+|       |   |       libxft2_2.1.12-1_i386.deb
+|       |   |       
+|       |   +---xgamma
+|       |   |       xgamma_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xgc
+|       |   |       xgc_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xhost
+|       |   |       xhost_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xinit
+|       |   |       xinit_1.0.2-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---xkbutils
+|       |   |       xkbutils_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xkeyboard-config
+|       |   |       xkb-data_0.9-4ubuntu1_all.deb
+|       |   |       
+|       |   +---xkill
+|       |   |       xkill_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xload
+|       |   |       xload_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xlogo
+|       |   |       xlogo_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xlsatoms
+|       |   |       xlsatoms_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xlsclients
+|       |   |       xlsclients_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xlsfonts
+|       |   |       xlsfonts_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xmag
+|       |   |       xmag_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xman
+|       |   |       xman_1.0.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---xmessage
+|       |   |       xmessage_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xml-core
+|       |   |       xml-core_0.09-0.1_all.deb
+|       |   |       
+|       |   +---xmms
+|       |   |       xmms_1.2.10+20061201-1ubuntu3_i386.deb
+|       |   |       
+|       |   +---xmms-jackasyn
+|       |   |       xmms-jackasyn_0.3-1_i386.deb
+|       |   |       
+|       |   +---xmodmap
+|       |   |       xmodmap_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xmore
+|       |   |       xmore_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xorg
+|       |   |       x11-common_7.2-0ubuntu11_i386.deb
+|       |   |       xbase-clients_7.2-0ubuntu11_all.deb
+|       |   |       xorg_7.2-0ubuntu11_i386.deb
+|       |   |       xserver-xorg-input-all_7.2-0ubuntu11_i386.deb
+|       |   |       xserver-xorg-video-all_7.2-0ubuntu11_i386.deb
+|       |   |       xserver-xorg_7.2-0ubuntu11_all.deb
+|       |   |       xutils_7.2-0ubuntu11_all.deb
+|       |   |       
+|       |   +---xorg-server
+|       |   |       xserver-xorg-core_1.2.0-3ubuntu8_i386.deb
+|       |   |       
+|       |   +---xplc
+|       |   |       libxplc0.3.13_0.3.13-1_i386.deb
+|       |   |       
+|       |   +---xprop
+|       |   |       xprop_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xrandr
+|       |   |       xrandr_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xrdb
+|       |   |       xrdb_1.0.2-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---xrefresh
+|       |   |       xrefresh_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xresprobe
+|       |   |       xresprobe_0.4.24ubuntu3_i386.deb
+|       |   |       
+|       |   +---xrgb
+|       |   |       xrgb_1.0.0-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---xsane
+|       |   |       xsane-common_0.99+0.991-1ubuntu2_all.deb
+|       |   |       xsane_0.99+0.991-1ubuntu2_i386.deb
+|       |   |       
+|       |   +---xscreensaver
+|       |   |       xscreensaver-data_4.24-5ubuntu2_i386.deb
+|       |   |       xscreensaver-gl_4.24-5ubuntu2_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-input-elographics
+|       |   |       xserver-xorg-input-elographics_1.1.0-1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-input-evdev
+|       |   |       xserver-xorg-input-evdev_1.1.5-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-input-keyboard
+|       |   |       xserver-xorg-input-kbd_1.1.0-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-input-mouse
+|       |   |       xserver-xorg-input-mouse_1.2.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-input-synaptics
+|       |   |       xserver-xorg-input-synaptics_0.14.6-0ubuntu7_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-apm
+|       |   |       xserver-xorg-video-apm_1.1.1-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-ark
+|       |   |       xserver-xorg-video-ark_0.6.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-ati
+|       |   |       xserver-xorg-video-ati_6.6.3-2ubuntu6_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-chips
+|       |   |       xserver-xorg-video-chips_1.1.1-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-cirrus
+|       |   |       xserver-xorg-video-cirrus_1.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-cyrix
+|       |   |       xserver-xorg-video-cyrix_1.1.0-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-dummy
+|       |   |       xserver-xorg-video-dummy_0.2.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-fbdev
+|       |   |       xserver-xorg-video-fbdev_0.3.1-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-glint
+|       |   |       xserver-xorg-video-glint_1.1.1-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-i128
+|       |   |       xserver-xorg-video-i128_1.2.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-i740
+|       |   |       xserver-xorg-video-i740_1.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-i810
+|       |   |       xserver-xorg-video-i810_1.7.4-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-imstt
+|       |   |       xserver-xorg-video-imstt_1.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-mga
+|       |   |       xserver-xorg-video-mga_1.4.6.1.dfsg.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-neomagic
+|       |   |       xserver-xorg-video-neomagic_1.1.1-5ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-newport
+|       |   |       xserver-xorg-video-newport_0.2.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-nsc
+|       |   |       xserver-xorg-video-nsc_2.8.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-nv
+|       |   |       xserver-xorg-video-nv_2.0.0-0ubuntu3_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-rendition
+|       |   |       xserver-xorg-video-rendition_4.1.0.dfsg.1-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-s3
+|       |   |       xserver-xorg-video-s3_0.5.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-s3virge
+|       |   |       xserver-xorg-video-s3virge_1.9.1-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-savage
+|       |   |       xserver-xorg-video-savage_2.1.2-1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-siliconmotion
+|       |   |       xserver-xorg-video-siliconmotion_1.4.1-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-sis
+|       |   |       xserver-xorg-video-sis_0.9.1-4ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-sisusb
+|       |   |       xserver-xorg-video-sisusb_0.8.1-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-tdfx
+|       |   |       xserver-xorg-video-tdfx_1.3.0-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-tga
+|       |   |       xserver-xorg-video-tga_1.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-trident
+|       |   |       xserver-xorg-video-trident_1.2.3-1ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-tseng
+|       |   |       xserver-xorg-video-tseng_1.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-v4l
+|       |   |       xserver-xorg-video-v4l_0.1.1-0ubuntu2_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-vesa
+|       |   |       xserver-xorg-video-vesa_1.3.0-1ubuntu4_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-vga
+|       |   |       xserver-xorg-video-vga_4.1.0-3ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-via
+|       |   |       xserver-xorg-video-via_0.2.1-6ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-vmware
+|       |   |       xserver-xorg-video-vmware_10.15.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xserver-xorg-video-voodoo
+|       |   |       xserver-xorg-video-voodoo_1.1.0-oubuntu2_i386.deb
+|       |   |       
+|       |   +---xset
+|       |   |       xset_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xsetmode
+|       |   |       xsetmode_1.0.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xsetpointer
+|       |   |       xsetpointer_1.0.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xsetroot
+|       |   |       xsetroot_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xsm
+|       |   |       xsm_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xstdcmap
+|       |   |       xstdcmap_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xsynth-dssi
+|       |   |       dssi-plugin-xsynth_0.9.0-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xterm
+|       |   |       xterm_223-1_i386.deb
+|       |   |       
+|       |   +---xtrap
+|       |   |       xtrap_1.0.2-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xutils-dev
+|       |   |       xutils-dev_7.1.ds-6ubuntu1_i386.deb
+|       |   |       
+|       |   +---xvidtune
+|       |   |       xvidtune_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xvinfo
+|       |   |       xvinfo_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xwd
+|       |   |       xwd_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   +---xwininfo
+|       |   |       xwininfo_1.0.1-0ubuntu1_i386.deb
+|       |   |       
+|       |   \---xwud
+|       |           xwud_1.0.1-0ubuntu1_i386.deb
+|       |           
+|       +---y
+|       |   +---yafray
+|       |   |       yafray_0.0.9-2_i386.deb
+|       |   |       
+|       |   \---yelp
+|       |           yelp_2.18.1-0ubuntu2_i386.deb
+|       |           
+|       \---z
+|           +---zenity
+|           |       zenity_2.18.1-0ubuntu1_i386.deb
+|           |       
+|           +---zip
+|           |       zip_2.32-1_i386.deb
+|           |       
+|           +---zlib
+|           |       zlib1g-udeb_1.2.3-13ubuntu4_i386.udeb
+|           |       zlib1g_1.2.3-13ubuntu4_i386.deb
+|           |       
+|           +---zope3
+|           |       python-zopeinterface_3.3.1-0ubuntu3_i386.deb
+|           |       
+|           \---zynaddsubfx
+|                   zynaddsubfx_2.2.1-4_i386.deb
+|                   
+\---preseed
+        cli.seed
+        ubuntu.seed
+        

@@ -1,0 +1,42 @@
+ Volume in drive F is knoppix-std
+ Volume Serial Number is 1DA9-356A
+
+ Directory of F:\
+
+01/12/2004  06:18 PM            12,288 .version.swp
+01/13/2004  01:42 AM    <DIR>          KNOPPIX
+08/19/2003  07:03 PM                54 autorun.bat
+08/19/2003  07:03 PM                45 autorun.inf
+01/13/2004  12:06 AM            15,938 index.html
+12/14/2003  07:52 AM             8,404 std.png
+01/12/2004  04:10 PM                27 version
+               6 File(s)         36,756 bytes
+
+ Directory of F:\KNOPPIX
+
+01/13/2004  01:42 AM    <DIR>          .
+01/12/2004  04:10 PM    <DIR>          ..
+01/13/2004  02:46 AM       517,134,416 KNOPPIX
+08/19/2003  07:03 PM            10,162 KNOPPIX-FAQ-EN.txt
+08/19/2003  07:03 PM            10,616 KNOPPIX-FAQ-ES.txt
+08/19/2003  07:03 PM            12,097 KNOPPIX-FAQ-FR.txt
+08/19/2003  07:03 PM            11,894 KNOPPIX-FAQ-IT.txt
+08/19/2003  07:03 PM             9,767 KNOPPIX-FAQ-NL.txt
+08/19/2003  07:03 PM            11,378 KNOPPIX-FAQ.txt
+08/19/2003  07:03 PM             2,530 README_Security.txt
+12/07/2003  06:25 PM            17,053 background.jpg
+01/13/2004  03:12 AM             2,048 boot.cat
+12/23/2003  10:22 PM         2,949,120 boot.img
+09/06/2003  03:27 AM             9,764 index.html
+08/19/2003  07:03 PM             5,746 knoblind.bat
+08/19/2003  07:03 PM             7,231 knoppix-cheatcodes.txt
+08/19/2003  07:03 PM            13,652 knoppix-header.gif
+08/19/2003  07:03 PM                27 mkfloppy.bat
+08/19/2003  07:03 PM             1,669 rawrite2-readme.txt
+08/19/2003  07:03 PM            17,863 rawrite2.exe
+12/14/2003  07:52 AM             8,404 std.png
+              19 File(s)    520,235,437 bytes
+
+     Total Files Listed:
+              25 File(s)    520,272,193 bytes
+               3 Dir(s)               0 bytes free

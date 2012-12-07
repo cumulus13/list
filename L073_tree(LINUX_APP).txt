@@ -1,0 +1,377 @@
+Folder PATH listing for volume LINUX_APP_001
+Volume serial number is 7F17-EABD
+J:\
+|   123flashchat.tar.gz
+|   123flashchat22.tar.gz
+|   LFS-BOOK-6.4-HTML.tar.bz2
+|   MailScanner-3.13-2.tar
+|   ManageEngine_FirewallAnalyzer.bin
+|   Maple_Linux.zip
+|   MySQL-python-1.2.2.tar.gz
+|   MySQL-python-1.2.2c1.tar.gz
+|   Net-Server-0.88.tar.tar
+|   ParaChatStandard.tar.gz
+|   PgSQL-0.51.tar.tar
+|   PyQt-x11-gpl-3.8.1.tar.tar
+|   Shorewall-2.0.3.pdf
+|   USB-guide-1.0.10.tar.tar
+|   VBoxGuestAdditions_2.0.4.iso
+|   ZendOptimizer-3.2.0-linux-glibc21-i386.tar.gz
+|   apache_1.3.26.tar.tar
+|   awstats-5.6.tar
+|   bandwidthd-1.2.1b.tar
+|   binutils-2.13.1.tar.tar
+|   codeblocks-8.02-0fc8-i586.tar.gz
+|   codeblocks_8.02-0ubuntu1.deb.tar.gz
+|   cyrproxy-1_4_2.tar
+|   ffsniff-0.1.xpi
+|   ffsniff-0.2.tar.tar
+|   ffsniff-0.3.tar.tar
+|   ftpmap-0.4.tar.gz
+|   ftpstats-0.8.7.tar.gz
+|   gd-1.8.4.tar.tar
+|   gd-2.0.33.tar.tar
+|   icon-naming-utils-0.8.7.tar.gz
+|   libemu-0.1.0.tar.gz
+|   libemu-0.1.0.tar.tar
+|   libemu-0.1.0.tar_2.tar
+|   linux.intel.libc5.tar.tar
+|   linux.intel.libc5.tar_2.tar
+|   linux.intel.libc5.tar_2_2.tar
+|   linux.intel.libc5.tar_2_3.tar
+|   linux.intel.libc5.tar_3.tar
+|   linux.intel.libc5.tar_4.tar
+|   p7zip_4.57_src_all.tar.bz2
+|   phpPgAdmin-4.2.2.tar.bz2
+|   pure-db-2.1.tar.gz
+|   pure-ftpd-1.0.21.tar.bz2
+|   pure-ftpd-1.0.21.tar.gz
+|   pure-ftpd-1.0.22.tar.bz2
+|   pure-ftpd-1.0.22.tar.gz
+|   pure-ftpd.png
+|   pygtk-2.12.1.tar.gz
+|   realchat-unix.tar.gz
+|   rx11vnc.pl
+|   rx11vnc.zip
+|   samdump2-1.1.0.tar
+|   shorewall-2.0.3a-1.noarch.rpm
+|   snort_inline-2.0.6a-bin_2.gz
+|   snort_portscan.tar.gz
+|   snortr15.tgz
+|   snortsnf.tgz
+|   sython.tgz
+|   tcpflow_perl.tar.gz
+|   tmake-1.11.tar.tar
+|   tmake-sharp.tar.tar
+|   typo-5.1.98.gem
+|   typo-5.1.98.zip
+|   tzdata2007c.tar.gz
+|   tzupdater-1_2_1-2007f.zip
+|   ucarp-1.5.tar.bz2
+|   ucarp-1.5.tar.gz
+|   wingide-3.1.3-1-i386-linux.tar.gz
+|   xampp-linux-1.6.7.tar.gz
+|   zic-0.2.tar.tar
+|   
++---AnyGui
+|       anygui-0.1.1-1.noarch.rpm
+|       anygui-0.1.1-1.src.rpm
+|       anygui-0.1.1.tar.gz
+|       anygui-0.1.1.win32.exe
+|       
++---Dynamips for UNIX
+|       dynagen-0.9.3.tar.gz
+|       dynamips-0.2.7-x86.bin
+|       
++---LINUX_LIB_&_APP
+|       Xsettings-client-0.10.tar.gz
+|       gd-2.0.35.tar.gz
+|       gd-2.0.36RC1.tar.bz2
+|       gd-2.0.36RC1.tar.gz
+|       glib2-2.6.0-i486-1ph.gz
+|       iproute2-2.6.26.tar.tar
+|       iproute2-latest
+|       iproute2-ss050607.tar.tar
+|       jpegsrc.v6b.tar.tar
+|       libgd-2.0.33-i686-1sh.gz
+|       libgpg-error-1.0-i686-1sh.gz
+|       libpcap-0.9.7.tar.gz
+|       libpng-1.0.38.tar.gz
+|       libpng-1.2.30-no-config.tar.gz
+|       libpng-1.2.7.tar.tar
+|       libpng-1.2.8.tar.tar
+|       mrtg-2.16.2-i486-1gds.gz
+|       mysql-gui-tools-5.0r12-i486-1gds.gz
+|       pycairo-1.4.0-i486-1gds.gz
+|       pygobject-2.12.0.tar.bz2
+|       pygobject-2.12.0.tar.gz
+|       pygobject-2.12.3.tar.bz2
+|       pygobject-2.12.3.tar.gz
+|       pygobject-2.13.2-i486-1gds.gz
+|       pygobject_2.14.2.orig.tar.gz
+|       webmin-1.430.tar
+|       webmin-1.430.tar.gz
+|       webmin-1.430.zip
+|       zlib-1.2.2.tar.tar
+|       
++---PERL2EXE
+|       p2x-7.02-Linux.tar.gz
+|       p2x-8.70-Linux.tar.gz
+|       p2x-8.80-FreeBSD.tar.gz
+|       p2x-8.80-Linux.tar.gz
+|       p2x-9.100-Linux.tar.gz
+|       p2x-9.100-SunOS.tar.gz
+|       
++---PERL_PROGRAMMING
+|       CGI.pm-3.37-PPM58.tar.gz
+|       DBD-DB2-0.78-5.8.4.tar.tar
+|       DBI-1.45-5.8.4.tar.tar
+|       DBI.ppd
+|       DBI.tar.gz
+|       Net-Pcap-0.16-PPM510.tar.gz
+|       Net-Pcap-0.16-PPM56.tar.gz
+|       Net-Pcap-0.16-PPM58.tar.gz
+|       Net-Pcap-Reassemble-0.03-PPM510.tar.gz
+|       Net-Pcap-Reassemble-0.03-PPM56.tar.gz
+|       Net-Pcap-Reassemble-0.03-PPM58.tar.gz
+|       Net-Pcap-Reassemble-0.03.xml
+|       Net-Pcap-Reassemble.xml
+|       Net-PcapUtils-0.01-PPM510.tar.gz
+|       Net-PcapUtils-0.01-PPM56.tar.gz
+|       Net-PcapUtils-0.01-PPM58.tar.gz
+|       
++---PYTHON_PROGRAMMING
+|       Cython-0.9.6.14.tar.gz
+|       Cython-0.9.8.zip
+|       Pyrex-0.9.8.4.tar.gz
+|       Pyrex-Tests-0.9.8.4.tar.gz
+|       Setup.py
+|       cpp_rect.cpp
+|       cpp_rect.h
+|       python24.def
+|       python24_2.def
+|       rectangle.pyx
+|       
++---ROUTER2
+|   |   Desktop.ini
+|   |   Gateway.7z
+|   |   Manajemen Bandwidth Di Squid Menggunakan Delay Pools ® myDeden_Kom.txt
+|   |   ROUTERtest.zip
+|   |   Wiley Publishing - Snort For Dummies [2004].pdf
+|   |   apache_1.3.26.tar.tar
+|   |   cbq.init-v0.7.3
+|   |   cbq.init-v0.7.32.3
+|   |   diagcmd.exe
+|   |   firewall
+|   |   httpd-Joomla.conf
+|   |   iptables.script
+|   |   iptableshady.txt
+|   |   iptableshadylat.sh
+|   |   listperl.txt
+|   |   portsentry-1.1.tar.gz
+|   |   pure-ftpd-1.0.22.tar
+|   |   pure-ftpd.txt
+|   |   quagga-0.96.3-3.i386.rpm
+|   |   quagga-0.96.4-3.i386.rpm
+|   |   quagga-0.96.4-3.i686.rpm
+|   |   rules.txt
+|   |   rules2.txt
+|   |   rules3.txt
+|   |   scapy-1.1.1.tar_2.gz
+|   |   snort.tar
+|   |   snort_simple_test.pl
+|   |   
+|   +---shorewall
+|   |       .rules.swp
+|   |       Makefile
+|   |       accounting
+|   |       actions
+|   |       blacklist
+|   |       continue
+|   |       ecn
+|   |       hosts
+|   |       init
+|   |       initdone
+|   |       interfaces
+|   |       ipsec
+|   |       maclist
+|   |       masq
+|   |       nat
+|   |       netmap
+|   |       params
+|   |       policy
+|   |       providers
+|   |       proxyarp
+|   |       route_rules
+|   |       routestopped
+|   |       rules
+|   |       shorewall.conf
+|   |       start
+|   |       started
+|   |       stop
+|   |       stopped
+|   |       tcclasses
+|   |       tcdevices
+|   |       tcrules
+|   |       tos
+|   |       tunnels
+|   |       zones
+|   |       
+|   +---snort
+|   |       Makefile
+|   |       Makefile.am
+|   |       Makefile.in
+|   |       attack-responses.rules
+|   |       backdoor.rules
+|   |       bad-traffic.rules
+|   |       chat.rules
+|   |       classification.config
+|   |       ddos.rules
+|   |       deleted.rules
+|   |       dns.rules
+|   |       dos.rules
+|   |       experimental.rules
+|   |       exploit.rules
+|   |       finger.rules
+|   |       ftp.rules
+|   |       icmp-info.rules
+|   |       icmp.rules
+|   |       imap.rules
+|   |       info.rules
+|   |       local.rules
+|   |       misc.rules
+|   |       multimedia.rules
+|   |       mysql.rules
+|   |       netbios.rules
+|   |       nntp.rules
+|   |       oracle.rules
+|   |       other-ids.rules
+|   |       p2p.rules
+|   |       policy.rules
+|   |       pop2.rules
+|   |       pop3.rules
+|   |       porn.rules
+|   |       reference.config
+|   |       rpc.rules
+|   |       rservices.rules
+|   |       scan.rules
+|   |       shellcode.rules
+|   |       smtp.rules
+|   |       snmp.rules
+|   |       sql.rules
+|   |       telnet.rules
+|   |       tftp.rules
+|   |       virus.rules
+|   |       web-attacks.rules
+|   |       web-cgi.rules
+|   |       web-client.rules
+|   |       web-coldfusion.rules
+|   |       web-frontpage.rules
+|   |       web-iis.rules
+|   |       web-misc.rules
+|   |       web-php.rules
+|   |       x11.rules
+|   |       
+|   \---squid
+|       |   ACCESS CONTROLS.txt
+|       |   cachemgr.conf
+|       |   command.txt
+|       |   mime.conf
+|       |   mime.conf.default
+|       |   msntauth.conf
+|       |   msntauth.conf.default
+|       |   squid.conf
+|       |   squid.conf.default
+|       |   squidfortrustix.conf
+|       |   
+|       \---errors
+|               ERR_ACCESS_DENIED
+|               ERR_CACHE_ACCESS_DENIED
+|               ERR_CACHE_MGR_ACCESS_DENIED
+|               ERR_CANNOT_FORWARD
+|               ERR_CONNECT_FAIL
+|               ERR_DNS_FAIL
+|               ERR_FORWARDING_DENIED
+|               ERR_FTP_DISABLED
+|               ERR_FTP_FAILURE
+|               ERR_FTP_FORBIDDEN
+|               ERR_FTP_NOT_FOUND
+|               ERR_FTP_PUT_CREATED
+|               ERR_FTP_PUT_ERROR
+|               ERR_FTP_PUT_MODIFIED
+|               ERR_FTP_UNAVAILABLE
+|               ERR_INVALID_REQ
+|               ERR_INVALID_RESP
+|               ERR_INVALID_URL
+|               ERR_LIFETIME_EXP
+|               ERR_NO_RELAY
+|               ERR_ONLY_IF_CACHED_MISS
+|               ERR_READ_ERROR
+|               ERR_READ_TIMEOUT
+|               ERR_SHUTTING_DOWN
+|               ERR_SOCKET_FAILURE
+|               ERR_TOO_BIG
+|               ERR_UNSUP_REQ
+|               ERR_URN_RESOLVE
+|               ERR_WRITE_ERROR
+|               ERR_ZERO_SIZE_OBJECT
+|               
++---Ruby_On_Rails_v2.2.2
+|       rails-2.2.2.gem
+|       rails-2.2.2.tgz.tar
+|       rails-2.2.2.zip
+|       
++---Shorewall
+|       patch-common-4.2.2
+|       patch-perl-4.2.2
+|       patch-shell-4.2.2
+|       shorewall-3.0.8-noarch-1.tgz
+|       shorewall-3.2.3-3pclos2007.noarch.rpm
+|       shorewall-common-4.2.2.tar
+|       shorewall-perl-4.2.2.tar
+|       shorewall-shell-4.2.2.tar
+|       
++---Typo_Ruby_On_Rails
+|       typo-5.1.3.gem
+|       typo-5.1.3.tgz
+|       typo-5.1.3.tgz.tar
+|       typo-5.1.3.zip
+|       typo-5.1.98.gem
+|       typo-5.1.98.tgz
+|       typo-5.1.98.zip
+|       typo-5.1.982.gem
+|       
++---VMWARE_for_LINUX
+|       VMware-server-1.0.8-126538.i386.rpm
+|       VMware-server-2.0.0-122956.i386.rpm
+|       VMware-server-2.0.0-122956.i386.tar.gz
+|       VMware-vix-1.6.0-122956.i386.tar.gz
+|       VMware.ACE.Management.Server.v2.0.0.45797.Incl.Keymaker-ZWT.zip
+|       VMware.GSX.Server.v3.1.for.Linux-ROR.ZIP
+|       VMware_v1.0.2_build_452_by_DAMN.zip
+|       
++---WingIDE
+|       wingide-101-3.1-3.1.7-1.i386.rpm
+|       wingide-101-3.1.7-1-i386-linux.tar.gz
+|       wingide-101-3.1.7-1-i386.dmg
+|       wingide-101-3.1.7-1-ppc.dmg
+|       wingide-101-3.1_3.1.7-1_i386.deb
+|       wingide-3.1.7-1-i386-linux.tar.gz
+|       wingide3.1-3.1.7-1.i386.rpm
+|       wingide3.1_3.1.7-1_i386.deb
+|       
++---ZOPE-STUDIO
+|       CMF-2.1.1.tar.gz
+|       CMF-2.1.1.zip
+|       Workflow-3.0.0.tgz
+|       Zope-3.3.1.tgz
+|       Zope-3.3.1.win32-py2.4.exe
+|       Zope-3.3.1.win32-py2.4.exe.zip
+|       bugtracker-3.0.0.tgz
+|       mysqldbda-1.0.0.tgz
+|       psycopgda-1.0.0.tgz
+|       zwiki-3.0.0.tgz
+|       
+\---smartbox-1.0_rc1
+        smartbox-1.0.rc1.tar
+        

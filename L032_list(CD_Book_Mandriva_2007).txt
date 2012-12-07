@@ -1,0 +1,1522 @@
+ Volume in drive F is CDROM
+ Volume Serial Number is A4C6-B8BB
+
+ Directory of F:\
+
+11/08/2006  10:10 AM    <DIR>          IL-122006
+11/08/2006  06:49 AM    <DIR>          KNOPPIX
+11/08/2006  10:11 AM             1,318 TRANS.TBL
+11/08/2006  06:49 AM    <DIR>          boot
+11/08/2006  07:03 AM    <DIR>          extras
+11/08/2006  06:49 AM               391 index.html
+11/08/2006  06:49 AM    <DIR>          lost+found
+               2 File(s)          1,709 bytes
+
+ Directory of F:\IL-122006
+
+11/08/2006  10:10 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:10 AM            16,281 MD5SUM
+11/07/2006  02:23 PM    <DIR>          PENTING
+11/08/2006  10:11 AM             3,741 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          backup
+10/30/2006  10:59 AM    <DIR>          browser
+11/07/2006  08:05 AM    <DIR>          desktop
+11/08/2006  08:29 AM    <DIR>          distro
+11/07/2006  02:23 PM    <DIR>          dokumen
+11/07/2006  02:26 PM    <DIR>          download
+10/04/2006  08:27 AM    <DIR>          driver
+11/07/2006  02:20 PM    <DIR>          internet
+11/07/2006  08:05 AM    <DIR>          keuangan
+11/07/2006  03:24 PM    <DIR>          komunikasi
+11/07/2006  08:05 AM    <DIR>          manajemen_informasi
+11/07/2006  02:22 PM    <DIR>          multimedia
+11/07/2006  02:18 PM    <DIR>          office
+11/03/2006  04:33 PM    <DIR>          rubrik
+11/07/2006  08:59 AM    <DIR>          sistemfile
+               2 File(s)         20,022 bytes
+
+ Directory of F:\IL-122006\PENTING
+
+11/07/2006  02:23 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               218 TRANS.TBL
+11/08/2006  10:06 AM    <DIR>          kernel
+               1 File(s)            218 bytes
+
+ Directory of F:\IL-122006\PENTING\kernel
+
+11/08/2006  10:06 AM    <DIR>          .
+11/07/2006  02:23 PM    <DIR>          ..
+11/08/2006  10:11 AM               468 TRANS.TBL
+10/04/2006  08:28 AM        30,965,480 linux-2.4.33.3.tar.bz2
+11/08/2006  09:37 AM        41,855,741 linux-2.6.18.2.tar.bz2
+               3 File(s)     72,821,689 bytes
+
+ Directory of F:\IL-122006\backup
+
+11/07/2006  08:05 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               230 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          mondo_rescue-2.2.0
+               1 File(s)            230 bytes
+
+ Directory of F:\IL-122006\backup\mondo_rescue-2.2.0
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+11/08/2006  10:11 AM               230 TRANS.TBL
+11/06/2006  12:57 PM         2,953,018 mondo_2.2.0.tar.gz
+               2 File(s)      2,953,248 bytes
+
+ Directory of F:\IL-122006\browser
+
+10/30/2006  10:59 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               676 TRANS.TBL
+10/30/2006  10:59 AM    <DIR>          firefox-2.0
+10/04/2006  08:29 AM    <DIR>          flash-plugin-7.0.68
+10/04/2006  08:29 AM    <DIR>          opera-9.02
+               1 File(s)            676 bytes
+
+ Directory of F:\IL-122006\browser\firefox-2.0
+
+10/30/2006  10:59 AM    <DIR>          .
+10/30/2006  10:59 AM    <DIR>          ..
+11/08/2006  10:11 AM               437 TRANS.TBL
+10/30/2006  11:00 AM    <DIR>          installer
+10/30/2006  11:01 AM    <DIR>          suse
+               1 File(s)            437 bytes
+
+ Directory of F:\IL-122006\browser\firefox-2.0\installer
+
+10/30/2006  11:00 AM    <DIR>          .
+10/30/2006  10:59 AM    <DIR>          ..
+11/08/2006  10:11 AM               230 TRANS.TBL
+10/23/2006  02:38 PM         9,622,508 firefox-2.0.tar.gz
+               2 File(s)      9,622,738 bytes
+
+ Directory of F:\IL-122006\browser\firefox-2.0\suse
+
+10/30/2006  11:01 AM    <DIR>          .
+10/30/2006  10:59 AM    <DIR>          ..
+10/28/2006  09:04 PM         8,863,041 MozillaFirefox-2.0-32.1.i586.rpm
+10/28/2006  09:04 PM         5,702,092 MozillaFirefox-translations-2.0-32.1.i586.rpm
+11/08/2006  10:11 AM             1,734 TRANS.TBL
+10/02/2006  01:15 AM           102,128 mozilla-nspr-4.6.3-6.1.i586.rpm
+10/02/2006  01:15 AM           213,978 mozilla-nspr-devel-4.6.3-6.1.i586.rpm
+10/02/2006  04:18 AM           708,461 mozilla-nss-3.11.3-3.1.i586.rpm
+10/02/2006  04:18 AM           214,901 mozilla-nss-devel-3.11.3-3.1.i586.rpm
+10/02/2006  04:18 AM           525,684 mozilla-nss-tools-3.11.3-3.1.i586.rpm
+               8 File(s)     16,332,019 bytes
+
+ Directory of F:\IL-122006\browser\flash-plugin-7.0.68
+
+10/04/2006  08:29 AM    <DIR>          .
+10/30/2006  10:59 AM    <DIR>          ..
+11/08/2006  10:11 AM               991 TRANS.TBL
+10/04/2006  08:29 AM           993,162 flash-player-7.0.68.0-1.2.suse.i586.rpm
+10/04/2006  08:29 AM         1,018,097 flash-plugin-7.0.68-1.i386.rpm
+10/04/2006  08:29 AM         1,018,097 flash-plugin-7.0.68-1.mandriva.i386.rpm
+10/04/2006  08:29 AM         1,021,264 install_flash_player_7_linux.tar.gz
+               5 File(s)      4,051,611 bytes
+
+ Directory of F:\IL-122006\browser\opera-9.02
+
+10/04/2006  08:29 AM    <DIR>          .
+10/30/2006  10:59 AM    <DIR>          ..
+11/08/2006  10:11 AM               442 TRANS.TBL
+10/04/2006  08:29 AM    <DIR>          shared-qt
+10/04/2006  08:29 AM    <DIR>          static-qt
+               1 File(s)            442 bytes
+
+ Directory of F:\IL-122006\browser\opera-9.02\shared-qt
+
+10/04/2006  08:29 AM    <DIR>          .
+10/04/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM             2,054 TRANS.TBL
+10/04/2006  08:29 AM         5,173,633 opera-9.02-20060919.5-shared-qt.i386-en.rpm
+10/04/2006  08:29 AM         4,888,583 opera-9.02-20060919.5-shared-qt.i386-en.tar.bz2
+10/04/2006  08:29 AM         5,188,923 opera-9.02-20060919.5-shared-qt.i386-en.tar.gz
+10/04/2006  08:29 AM         5,557,750 opera-9.02-20060919.6-shared-qt.i386-en.rpm
+10/04/2006  08:29 AM         5,131,685 opera-9.02-20060919.6-shared-qt.i386-en.tar.bz2
+10/04/2006  08:29 AM         5,583,653 opera-9.02-20060919.6-shared-qt.i386-en.tar.gz
+10/04/2006  08:29 AM         5,162,226 opera_9.02-20060919.5-shared-qt_en_i386.deb
+10/04/2006  08:29 AM         5,548,892 opera_9.02-20060919.6-shared-qt_en_i386.deb
+               9 File(s)     42,237,399 bytes
+
+ Directory of F:\IL-122006\browser\opera-9.02\static-qt
+
+10/04/2006  08:29 AM    <DIR>          .
+10/04/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,027 TRANS.TBL
+10/04/2006  08:29 AM         7,230,311 opera-9.02-20060919.1-static-qt.i386-en.rpm
+10/04/2006  08:29 AM         6,711,741 opera-9.02-20060919.1-static-qt.i386-en.tar.bz2
+10/04/2006  08:29 AM         7,285,254 opera-9.02-20060919.1-static-qt.i386-en.tar.gz
+10/04/2006  08:29 AM         7,222,618 opera-static_9.02-20060919.1-qt_en_i386.deb
+               5 File(s)     28,450,951 bytes
+
+ Directory of F:\IL-122006\desktop
+
+11/07/2006  08:05 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               226 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          fpcbol-0.8.5.4
+               1 File(s)            226 bytes
+
+ Directory of F:\IL-122006\desktop\fpcbol-0.8.5.4
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+11/08/2006  10:11 AM               229 TRANS.TBL
+10/18/2006  06:39 PM         2,604,295 bol0.8.5.4.tar.bz
+               2 File(s)      2,604,524 bytes
+
+ Directory of F:\IL-122006\distro
+
+11/08/2006  08:29 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  07:04 AM               214 BACASAYA
+11/08/2006  10:11 AM               901 TRANS.TBL
+10/19/2006  09:24 AM    <DIR>          igosnusantara-2006
+11/08/2006  06:45 AM    <DIR>          mandrivaone-2007
+11/01/2006  10:33 PM    <DIR>          ubuntu-6.10
+               2 File(s)          1,115 bytes
+
+ Directory of F:\IL-122006\distro\igosnusantara-2006
+
+10/19/2006  09:24 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+10/11/2006  07:21 PM                61 MD5SUM
+11/08/2006  10:11 AM               456 TRANS.TBL
+10/06/2006  01:01 PM       693,428,224 igos-nusantara-2006-r3.iso
+               3 File(s)    693,428,741 bytes
+
+ Directory of F:\IL-122006\distro\mandrivaone-2007
+
+11/08/2006  06:45 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM               488 TRANS.TBL
+11/08/2006  06:45 AM       730,488,832 mandriva-one-2007-free-kde.iso
+11/08/2006  06:45 AM               303 mandriva-one-2007-free-kde.md5.asc
+               3 File(s)    730,489,623 bytes
+
+ Directory of F:\IL-122006\distro\ubuntu-6.10
+
+11/01/2006  10:33 PM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/01/2006  10:33 PM               862 BACASAYA
+11/01/2006  03:12 PM               129 MD5SUMS-ubuntu
+11/08/2006  10:11 AM               929 TRANS.TBL
+11/01/2006  03:12 PM       731,629,568 kubuntu-6.10-alternate-i386.iso
+11/01/2006  03:10 PM       732,293,120 ubuntu-6.10-desktop-i386.iso
+               5 File(s)  1,463,924,608 bytes
+
+ Directory of F:\IL-122006\dokumen
+
+11/07/2006  02:23 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               229 TRANS.TBL
+10/04/2006  08:29 AM    <DIR>          adobereader-7.0.8
+               1 File(s)            229 bytes
+
+ Directory of F:\IL-122006\dokumen\adobereader-7.0.8
+
+10/04/2006  08:29 AM    <DIR>          .
+11/07/2006  02:23 PM    <DIR>          ..
+10/04/2006  08:29 AM        43,903,747 AdobeReader_enu-7.0.8-1.i386.rpm
+10/04/2006  08:29 AM        44,150,042 AdobeReader_enu-7.0.8-1.i386.tar.gz
+11/08/2006  10:11 AM               491 TRANS.TBL
+               3 File(s)     88,054,280 bytes
+
+ Directory of F:\IL-122006\download
+
+11/07/2006  02:26 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               228 TRANS.TBL
+11/03/2006  02:36 PM    <DIR>          bittorrent-5.0.0
+               1 File(s)            228 bytes
+
+ Directory of F:\IL-122006\download\bittorrent-5.0.0
+
+11/03/2006  02:36 PM    <DIR>          .
+11/07/2006  02:26 PM    <DIR>          ..
+11/02/2006  09:03 AM         2,079,719 BitTorrent-5.0.0-1-Python2.4.noarch.rpm
+11/02/2006  09:04 AM         2,483,150 BitTorrent-5.0.0.tar.gz
+11/08/2006  10:11 AM               728 TRANS.TBL
+11/02/2006  09:03 AM         2,031,368 bittorrent_5.0.0_python2.4.deb
+               4 File(s)      6,594,965 bytes
+
+ Directory of F:\IL-122006\driver
+
+10/04/2006  08:27 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               873 TRANS.TBL
+10/04/2006  08:27 AM    <DIR>          modem
+10/04/2006  08:27 AM    <DIR>          printer
+10/04/2006  08:27 AM    <DIR>          videocard
+10/04/2006  08:27 AM    <DIR>          wlan
+               1 File(s)            873 bytes
+
+ Directory of F:\IL-122006\driver\modem
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               663 TRANS.TBL
+10/04/2006  08:27 AM    <DIR>          hcf-modem
+10/04/2006  08:27 AM    <DIR>          hsf-modem
+10/04/2006  08:27 AM    <DIR>          smartlink
+               1 File(s)            663 bytes
+
+ Directory of F:\IL-122006\driver\modem\hcf-modem
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+10/04/2006  08:27 AM           718,949 100498D_RM_HxF_Released.pdf
+10/04/2006  08:27 AM             6,354 INSTALL
+10/04/2006  08:27 AM             3,959 LICENSE
+10/04/2006  08:27 AM             2,417 README
+10/04/2006  08:27 AM             1,592 README-cnxtinstall
+11/08/2006  10:11 AM             2,336 TRANS.TBL
+10/04/2006  08:27 AM           201,238 cnxtinstall.run
+10/04/2006  08:27 AM           681,792 hcfpcimodem-1.10full-1.i386.rpm.zip
+10/04/2006  08:27 AM           673,764 hcfpcimodem-1.10full.tar.gz
+10/04/2006  08:27 AM           646,339 hcfpcimodem-doc-1.10full-1.noarch.rpm.zip
+10/04/2006  08:27 AM           700,757 hcfpcimodem_1.10full_i386.deb.zip
+              11 File(s)      3,639,497 bytes
+
+ Directory of F:\IL-122006\driver\modem\hsf-modem
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+10/04/2006  08:27 AM           718,949 100498D_RM_HxF_Released.pdf
+10/04/2006  08:27 AM             5,514 INSTALL
+10/04/2006  08:27 AM             3,959 LICENSE
+10/04/2006  08:27 AM             3,103 README
+10/04/2006  08:27 AM             1,592 README-cnxtinstall
+11/08/2006  10:11 AM             2,854 TRANS.TBL
+10/04/2006  08:27 AM           201,238 cnxtinstall.run
+10/04/2006  08:27 AM         1,318,433 hsfmodem-7.47.00.02full-1.i386.rpm.zip
+10/04/2006  08:27 AM         1,331,281 hsfmodem-7.47.00.02full.tar.gz
+10/04/2006  08:27 AM         1,429,477 hsfmodem-7.47.00.02x86_64full-1.x86_64.rpm.zip
+10/04/2006  08:27 AM         1,463,244 hsfmodem-7.47.00.02x86_64full.tar.gz
+10/04/2006  08:27 AM           647,835 hsfmodem-doc-7.47.00.02full-1.noarch.rpm.zip
+10/04/2006  08:27 AM         1,329,096 hsfmodem_7.47.00.02full_i386.deb.zip
+              13 File(s)      8,456,575 bytes
+
+ Directory of F:\IL-122006\driver\modem\smartlink
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               948 TRANS.TBL
+10/04/2006  08:27 AM            71,770 scanModem.gz
+10/04/2006  08:27 AM           833,757 slmodem-2.9.11-20051101-PATCH.tar.gz
+10/04/2006  08:27 AM           833,684 slmodem-2.9.11-20051101.tar.gz
+10/04/2006  08:27 AM             1,940 ungrab-winmodem.tar.gz
+               5 File(s)      1,742,099 bytes
+
+ Directory of F:\IL-122006\driver\printer
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               216 TRANS.TBL
+10/04/2006  08:27 AM    <DIR>          cups
+               1 File(s)            216 bytes
+
+ Directory of F:\IL-122006\driver\printer\cups
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+10/04/2006  08:27 AM         7,740,765 Adobe_Universal_PostScript_Windows_Driver_Installer-1.0.6.exe
+11/08/2006  10:11 AM               755 TRANS.TBL
+10/04/2006  08:27 AM            11,472 cups-windows-6.0-1.i386.rpm
+10/04/2006  08:27 AM            38,284 cups-windows-6.0-source.tar.bz2
+               4 File(s)      7,791,276 bytes
+
+ Directory of F:\IL-122006\driver\videocard
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               433 TRANS.TBL
+11/07/2006  02:27 PM    <DIR>          ati
+11/01/2006  09:08 AM    <DIR>          nvidia
+               1 File(s)            433 bytes
+
+ Directory of F:\IL-122006\driver\videocard\ati
+
+11/07/2006  02:27 PM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+10/04/2006  08:27 AM               210 NOTES
+11/08/2006  10:11 AM             1,145 TRANS.TBL
+10/04/2006  08:27 AM        53,989,404 ati-driver-installer-8.28.8.run
+11/01/2006  09:39 AM        58,041,208 ati-driver-installer-8.30.3.run
+10/04/2006  08:27 AM           476,130 dokumen.tar.bz2
+11/07/2006  02:27 PM    <DIR>          x86
+               5 File(s)    112,508,097 bytes
+
+ Directory of F:\IL-122006\driver\videocard\ati\x86
+
+11/07/2006  02:27 PM    <DIR>          .
+11/07/2006  02:27 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-122006\driver\videocard\nvidia
+
+11/01/2006  09:08 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/01/2006  09:08 AM               344 BACASAYA
+10/04/2006  08:27 AM             5,688 LICENSE
+11/08/2006  10:11 AM             1,334 TRANS.TBL
+11/01/2006  09:13 AM    <DIR>          beta
+10/04/2006  08:27 AM            29,093 nvidia-installer-HOWTO.html
+11/08/2006  10:05 AM    <DIR>          vga_baru
+11/07/2006  02:27 PM    <DIR>          vga_lama
+               4 File(s)         36,459 bytes
+
+ Directory of F:\IL-122006\driver\videocard\nvidia\beta
+
+11/01/2006  09:13 AM    <DIR>          .
+11/01/2006  09:08 AM    <DIR>          ..
+09/20/2006  01:54 AM        13,392,272 NVIDIA-Linux-x86-1.0-9625-pkg1.run
+09/20/2006  01:54 AM        10,277,484 NVIDIA-Linux-x86_64-1.0-9625-pkg2.run
+11/08/2006  10:11 AM               495 TRANS.TBL
+               3 File(s)     23,670,251 bytes
+
+ Directory of F:\IL-122006\driver\videocard\nvidia\vga_baru
+
+11/08/2006  10:05 AM    <DIR>          .
+11/01/2006  09:08 AM    <DIR>          ..
+11/02/2006  09:49 PM        13,358,872 NVIDIA-Linux-x86-1.0-9629-pkg1.run
+11/08/2006  10:11 AM               246 TRANS.TBL
+               2 File(s)     13,359,118 bytes
+
+ Directory of F:\IL-122006\driver\videocard\nvidia\vga_lama
+
+11/07/2006  02:27 PM    <DIR>          .
+11/01/2006  09:08 AM    <DIR>          ..
+10/04/2006  08:27 AM        11,508,286 NVIDIA-Linux-x86-1.0-7184-pkg1.run
+11/08/2006  10:11 AM               246 TRANS.TBL
+               2 File(s)     11,508,532 bytes
+
+ Directory of F:\IL-122006\driver\wlan
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               661 TRANS.TBL
+10/04/2006  08:27 AM    <DIR>          madwifi
+10/30/2006  11:15 AM    <DIR>          ndiswrapper
+11/07/2006  02:26 PM    <DIR>          rt-2x00
+               1 File(s)            661 bytes
+
+ Directory of F:\IL-122006\driver\wlan\madwifi
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+10/04/2006  08:27 AM               111 BACASAYA
+10/04/2006  08:27 AM             5,703 BACASAYA-DEBIAN
+10/04/2006  08:27 AM             3,833 BACASAYA-SUSE
+10/04/2006  08:27 AM             2,061 BACASAYA-UBUNTU
+10/04/2006  08:27 AM             4,512 GettingMadWifi
+10/04/2006  08:27 AM            54,861 HARDWARESUPPORT
+10/04/2006  08:27 AM            17,265 INSTALASI
+11/08/2006  10:11 AM             1,791 TRANS.TBL
+10/04/2006  08:27 AM    <DIR>          source
+               8 File(s)         90,137 bytes
+
+ Directory of F:\IL-122006\driver\wlan\madwifi\source
+
+10/04/2006  08:27 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               233 TRANS.TBL
+10/04/2006  08:27 AM         3,477,471 madwifi-0.9.1.tar.bz2
+               2 File(s)      3,477,704 bytes
+
+ Directory of F:\IL-122006\driver\wlan\ndiswrapper
+
+10/30/2006  11:15 AM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               235 TRANS.TBL
+10/30/2006  12:57 AM           187,576 ndiswrapper-1.28.tar.gz
+               2 File(s)        187,811 bytes
+
+ Directory of F:\IL-122006\driver\wlan\rt-2x00
+
+11/07/2006  02:26 PM    <DIR>          .
+10/04/2006  08:27 AM    <DIR>          ..
+11/08/2006  10:11 AM               705 TRANS.TBL
+11/07/2006  02:25 PM           194,455 rt2400-cvs-daily.tar.gz
+11/07/2006  02:25 PM           312,376 rt2500-cvs-daily.tar.gz
+11/07/2006  02:26 PM           254,561 rt2570-cvs-daily.tar.gz
+               4 File(s)        762,097 bytes
+
+ Directory of F:\IL-122006\internet
+
+11/07/2006  02:20 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               224 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          punbb-1.2.14
+               1 File(s)            224 bytes
+
+ Directory of F:\IL-122006\internet\punbb-1.2.14
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  02:20 PM    <DIR>          ..
+11/08/2006  10:11 AM               463 TRANS.TBL
+10/17/2006  01:09 PM           124,625 punbb-1.2.14.tar.bz2
+10/17/2006  01:09 PM           177,447 punbb-1.2.14.tar.gz
+               3 File(s)        302,535 bytes
+
+ Directory of F:\IL-122006\keuangan
+
+11/07/2006  08:05 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               238 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          simple_invoices-2006-10-15
+               1 File(s)            238 bytes
+
+ Directory of F:\IL-122006\keuangan\simple_invoices-2006-10-15
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+11/08/2006  10:11 AM               241 TRANS.TBL
+10/18/2006  06:53 PM         5,623,300 simpleinvoices_20061015_1.zip
+               2 File(s)      5,623,541 bytes
+
+ Directory of F:\IL-122006\komunikasi
+
+11/07/2006  03:24 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               446 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          gossip-0.18
+10/30/2006  04:21 PM    <DIR>          skype-1.3.0
+               1 File(s)            446 bytes
+
+ Directory of F:\IL-122006\komunikasi\gossip-0.18
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  03:24 PM    <DIR>          ..
+11/08/2006  10:11 AM               461 TRANS.TBL
+10/18/2006  06:33 PM         1,430,161 gossip-0.18.tar.bz2
+10/18/2006  06:36 PM         1,933,717 gossip-0.18.tar.gz
+               3 File(s)      3,364,339 bytes
+
+ Directory of F:\IL-122006\komunikasi\skype-1.3.0
+
+10/30/2006  04:21 PM    <DIR>          .
+11/07/2006  03:24 PM    <DIR>          ..
+11/08/2006  10:11 AM             1,686 TRANS.TBL
+10/30/2006  04:21 PM             1,340 rpm-public-key.asc
+10/30/2006  04:02 PM         9,986,656 skype-1.3.0.53-1mdk.i586.rpm
+10/30/2006  03:55 PM         9,946,297 skype-1.3.0.53-fc5.i586.rpm
+10/30/2006  04:13 PM         9,871,707 skype-1.3.0.53-generic.tar.bz2
+10/30/2006  03:50 PM         9,992,712 skype-1.3.0.53-suse.i586.rpm
+10/30/2006  04:08 PM        10,056,572 skype_debian-1.3.0.53-1_i386.deb
+10/30/2006  04:21 PM        15,102,554 skype_staticQT-1.3.0.53-generic.tar.bz2
+               8 File(s)     64,959,524 bytes
+
+ Directory of F:\IL-122006\manajemen_informasi
+
+11/07/2006  08:05 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               674 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          brim_lite-1.2.1
+11/07/2006  08:05 AM    <DIR>          centre-2.7.2
+11/07/2006  08:05 AM    <DIR>          plans-7.7.7
+               1 File(s)            674 bytes
+
+ Directory of F:\IL-122006\manajemen_informasi\brim_lite-1.2.1
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+11/08/2006  10:11 AM               242 TRANS.TBL
+10/18/2006  06:42 PM         2,822,033 brimlite-1.2.1-16_Oct_2006.zip
+               2 File(s)      2,822,275 bytes
+
+ Directory of F:\IL-122006\manajemen_informasi\centre-2.7.2
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+10/18/2006  06:35 PM         1,610,523 Centre_v2.7.2.zip
+11/08/2006  10:11 AM               229 TRANS.TBL
+               2 File(s)      1,610,752 bytes
+
+ Directory of F:\IL-122006\manajemen_informasi\plans-7.7.7
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:05 AM    <DIR>          ..
+11/08/2006  10:11 AM               227 TRANS.TBL
+10/18/2006  10:25 AM           592,471 plans_7.7.7.zip
+               2 File(s)        592,698 bytes
+
+ Directory of F:\IL-122006\multimedia
+
+11/07/2006  02:22 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               906 TRANS.TBL
+10/04/2006  08:29 AM    <DIR>          codecs
+11/07/2006  08:05 AM    <DIR>          internet_dj_console-0.6.7b
+11/07/2006  08:05 AM    <DIR>          klear-0.6.0
+10/04/2006  08:29 AM    <DIR>          realplay-10.0.8
+               1 File(s)            906 bytes
+
+ Directory of F:\IL-122006\multimedia\codecs
+
+10/04/2006  08:29 AM    <DIR>          .
+11/07/2006  02:22 PM    <DIR>          ..
+11/08/2006  10:11 AM               648 TRANS.TBL
+10/04/2006  08:29 AM    <DIR>          dvd
+10/31/2006  09:28 AM    <DIR>          video
+10/04/2006  08:29 AM    <DIR>          xmms
+               1 File(s)            648 bytes
+
+ Directory of F:\IL-122006\multimedia\codecs\dvd
+
+10/04/2006  08:29 AM    <DIR>          .
+10/04/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,201 TRANS.TBL
+10/04/2006  08:29 AM           283,329 libdvdcss-1.2.9.tar.bz2
+10/04/2006  08:29 AM            31,690 libdvdcss2-1.2.9-1.i386.rpm
+10/04/2006  08:29 AM            18,122 libdvdcss2-dev_1.2.9-1_i386.deb
+10/04/2006  08:29 AM            41,373 libdvdcss2-devel-1.2.9-1.i386.rpm
+10/04/2006  08:29 AM            96,266 libdvdcss2_1.2.9-1_i386.deb
+               6 File(s)        471,981 bytes
+
+ Directory of F:\IL-122006\multimedia\codecs\video
+
+10/31/2006  09:28 AM    <DIR>          .
+10/04/2006  08:29 AM    <DIR>          ..
+10/31/2006  09:08 AM                55 MD5SUMS
+11/08/2006  10:11 AM               694 TRANS.TBL
+10/31/2006  08:49 AM        13,808,014 all-20061022.tar.bz2
+10/04/2006  08:29 AM        14,243,896 w32codecs_20060611-0.0_i386.deb
+               4 File(s)     28,052,659 bytes
+
+ Directory of F:\IL-122006\multimedia\codecs\xmms
+
+10/04/2006  08:29 AM    <DIR>          .
+10/04/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM               955 TRANS.TBL
+10/04/2006  08:29 AM           494,334 xmms-crossfade-0.3.11.tar.gz
+10/04/2006  08:29 AM           115,832 xmms-crossfade_0.3.11-1_i386.deb
+10/04/2006  08:29 AM            75,923 xmms-wma-1.0.5-1.i386.rpm
+10/04/2006  08:29 AM           146,687 xmms-wma-1.0.5.tar.bz2
+               5 File(s)        833,731 bytes
+
+ Directory of F:\IL-122006\multimedia\internet_dj_console-0.6.7b
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  02:22 PM    <DIR>          ..
+11/08/2006  10:11 AM               230 TRANS.TBL
+10/17/2006  01:31 PM           585,552 idjc-0.6.7b.tar.gz
+               2 File(s)        585,782 bytes
+
+ Directory of F:\IL-122006\multimedia\klear-0.6.0
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  02:22 PM    <DIR>          ..
+11/08/2006  10:11 AM               230 TRANS.TBL
+11/06/2006  01:13 PM           572,504 klear-0.6.0.tar.gz
+               2 File(s)        572,734 bytes
+
+ Directory of F:\IL-122006\multimedia\realplay-10.0.8
+
+10/04/2006  08:29 AM    <DIR>          .
+11/07/2006  02:22 PM    <DIR>          ..
+10/04/2006  08:29 AM               476 INSTALL
+10/04/2006  08:29 AM            19,481 RP10_0_8ReleaseNotes.html
+10/04/2006  08:29 AM         5,802,563 RealPlayer10GOLD.bin
+10/04/2006  08:29 AM         6,649,992 RealPlayer10GOLD.rpm
+11/08/2006  10:11 AM               920 TRANS.TBL
+               5 File(s)     12,473,432 bytes
+
+ Directory of F:\IL-122006\office
+
+11/07/2006  02:18 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               474 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          kexi-1.1
+11/07/2006  08:05 AM    <DIR>          timetrex_payroll_and_time_management-1.2.1
+               1 File(s)            474 bytes
+
+ Directory of F:\IL-122006\office\kexi-1.1
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  02:18 PM    <DIR>          ..
+11/08/2006  10:11 AM               455 TRANS.TBL
+11/06/2006  10:00 PM        56,718,478 koffice-1.6.0.tar.bz2
+11/06/2006  01:24 PM                21 readme.txt
+               3 File(s)     56,718,954 bytes
+
+ Directory of F:\IL-122006\office\timetrex_payroll_and_time_management-1.2.1
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  02:18 PM    <DIR>          ..
+11/08/2006  10:11 AM               248 TRANS.TBL
+10/18/2006  06:47 PM         4,380,482 TimeTrex_Standard_Edition_v1.2.1.zip
+               2 File(s)      4,380,730 bytes
+
+ Directory of F:\IL-122006\rubrik
+
+11/03/2006  04:33 PM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,097 TRANS.TBL
+10/20/2006  11:07 AM    <DIR>          alternatif
+10/20/2006  10:51 AM    <DIR>          games
+10/20/2006  01:46 PM    <DIR>          software
+10/02/2006  09:26 AM    <DIR>          solusi
+10/30/2006  01:22 PM    <DIR>          tutorial
+               1 File(s)          1,097 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif
+
+10/20/2006  11:07 AM    <DIR>          .
+11/03/2006  04:33 PM    <DIR>          ..
+11/08/2006  10:11 AM             1,352 TRANS.TBL
+10/20/2006  10:57 AM    <DIR>          drupal-4.7.3
+10/20/2006  10:59 AM    <DIR>          ezpublish-3.8.4
+10/20/2006  11:00 AM    <DIR>          joomla-1.0.11
+10/20/2006  11:05 AM    <DIR>          mambo-4.6.1
+10/20/2006  11:07 AM    <DIR>          mediawiki-1.7.1
+10/20/2006  11:07 AM    <DIR>          postnuke-0.762
+               1 File(s)          1,352 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\drupal-4.7.3
+
+10/20/2006  10:57 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+11/08/2006  10:11 AM               231 TRANS.TBL
+10/20/2006  10:57 AM           484,988 drupal-4.7.3.tar.gz
+               2 File(s)        485,219 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\ezpublish-3.8.4
+
+10/20/2006  10:59 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+11/08/2006  10:11 AM               238 TRANS.TBL
+10/20/2006  10:59 AM         7,589,555 ezpublish-3.8.4-gpl.tar.gz
+               2 File(s)      7,589,793 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\joomla-1.0.11
+
+10/20/2006  11:00 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+10/20/2006  11:00 AM         2,015,748 Joomla_1.0.11-Stable-Full_Package.tar.gz
+11/08/2006  10:11 AM               252 TRANS.TBL
+               2 File(s)      2,016,000 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\mambo-4.6.1
+
+10/20/2006  11:05 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+10/20/2006  11:05 AM         2,674,116 MamboV4.6.1.tar.gz
+11/08/2006  10:11 AM               230 TRANS.TBL
+               2 File(s)      2,674,346 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\mediawiki-1.7.1
+
+10/20/2006  11:07 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+11/08/2006  10:11 AM               234 TRANS.TBL
+10/20/2006  11:07 AM         3,256,428 mediawiki-1.7.1.tar.gz
+               2 File(s)      3,256,662 bytes
+
+ Directory of F:\IL-122006\rubrik\alternatif\postnuke-0.762
+
+10/20/2006  11:07 AM    <DIR>          .
+10/20/2006  11:07 AM    <DIR>          ..
+10/20/2006  11:08 AM         3,196,912 PostNuke-0.762.tar.gz
+11/08/2006  10:11 AM               233 TRANS.TBL
+               2 File(s)      3,197,145 bytes
+
+ Directory of F:\IL-122006\rubrik\games
+
+10/20/2006  10:51 AM    <DIR>          .
+11/03/2006  04:33 PM    <DIR>          ..
+11/08/2006  10:11 AM               452 TRANS.TBL
+10/20/2006  10:51 AM    <DIR>          dreamchess-0.1.0
+10/20/2006  10:53 AM    <DIR>          pingus-0.6.0
+               1 File(s)            452 bytes
+
+ Directory of F:\IL-122006\rubrik\games\dreamchess-0.1.0
+
+10/20/2006  10:51 AM    <DIR>          .
+10/20/2006  10:51 AM    <DIR>          ..
+11/08/2006  10:11 AM               474 TRANS.TBL
+10/20/2006  10:51 AM         3,783,918 dreamchess-0.1.0-1.i386.rpm
+10/20/2006  10:51 AM         4,018,824 dreamchess-0.1.0.tar.gz
+               3 File(s)      7,803,216 bytes
+
+ Directory of F:\IL-122006\rubrik\games\pingus-0.6.0
+
+10/20/2006  10:53 AM    <DIR>          .
+10/20/2006  10:51 AM    <DIR>          ..
+11/08/2006  10:11 AM               250 TRANS.TBL
+10/20/2006  10:53 AM        11,168,712 pingus-0.6.0-binary-linux-i386.tar.bz2
+               2 File(s)     11,168,962 bytes
+
+ Directory of F:\IL-122006\rubrik\software
+
+10/20/2006  01:46 PM    <DIR>          .
+11/03/2006  04:33 PM    <DIR>          ..
+11/08/2006  10:11 AM               446 TRANS.TBL
+10/20/2006  01:46 PM    <DIR>          drbl-1.7.1
+10/20/2006  01:45 PM    <DIR>          freevo-1.5.4
+               1 File(s)            446 bytes
+
+ Directory of F:\IL-122006\rubrik\software\drbl-1.7.1
+
+10/20/2006  01:46 PM    <DIR>          .
+10/20/2006  01:46 PM    <DIR>          ..
+11/08/2006  10:11 AM               467 TRANS.TBL
+10/20/2006  01:46 PM         1,447,502 drbl-1.7.1-12.i386.rpm
+10/20/2006  01:46 PM         1,423,199 drbl-1.7.1-12.src.rpm
+               3 File(s)      2,871,168 bytes
+
+ Directory of F:\IL-122006\rubrik\software\freevo-1.5.4
+
+10/20/2006  01:45 PM    <DIR>          .
+10/20/2006  01:46 PM    <DIR>          ..
+11/08/2006  10:11 AM             1,946 TRANS.TBL
+10/20/2006  01:45 PM         4,703,686 freevo-1.5.4-1_fc5.noarch.rpm
+10/20/2006  01:45 PM         4,425,484 freevo-1.5.4.tar.gz
+10/20/2006  01:45 PM             6,756 freevo-boot-1.5.4-1_fc5.noarch.rpm
+10/20/2006  01:45 PM             2,662 freevo-core-suite-1.5-9_freevo.noarch.rpm
+10/20/2006  01:45 PM             2,394 freevo-recording-suite-1.5-3_freevo.noarch.rpm
+10/20/2006  01:45 PM           266,611 mmpython-0.4.9-1_fc5.i386.rpm
+10/20/2006  01:45 PM            34,296 pygoom-0.1-1_fc5.i386.rpm
+10/20/2006  01:45 PM            11,046 pylirc-0.0.5-1_fc5.i386.rpm
+               9 File(s)      9,454,881 bytes
+
+ Directory of F:\IL-122006\rubrik\solusi
+
+10/02/2006  09:26 AM    <DIR>          .
+11/03/2006  04:33 PM    <DIR>          ..
+11/08/2006  10:11 AM             1,158 TRANS.TBL
+10/02/2006  09:26 AM           586,457 gnomeradio-1.5-2.rf.src.rpm
+04/17/2005  07:15 PM           601,041 gnomeradio-1.6.tar.gz
+04/18/2005  02:34 AM           201,832 gnomeradio_1.6-1_i386.deb
+10/02/2006  09:22 AM            47,610 stationlist.xml
+10/02/2006  09:22 AM             1,344 tvtime.xml
+               6 File(s)      1,439,442 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial
+
+10/30/2006  01:22 PM    <DIR>          .
+11/03/2006  04:33 PM    <DIR>          ..
+11/08/2006  10:11 AM               659 TRANS.TBL
+10/30/2006  10:04 AM    <DIR>          dpkg-split
+10/30/2006  10:04 AM    <DIR>          ncurses
+10/30/2006  10:34 AM    <DIR>          smarty
+               1 File(s)            659 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\dpkg-split
+
+10/30/2006  10:04 AM    <DIR>          .
+10/30/2006  01:22 PM    <DIR>          ..
+11/08/2006  10:11 AM               229 TRANS.TBL
+10/30/2006  10:04 AM             3,046 npy-dpkg-split.py
+               2 File(s)          3,275 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\ncurses
+
+10/30/2006  10:04 AM    <DIR>          .
+10/30/2006  01:22 PM    <DIR>          ..
+10/30/2006  10:04 AM               156 1.c
+10/30/2006  10:04 AM               471 2.c
+10/30/2006  10:04 AM               328 2b.c
+10/30/2006  10:04 AM               327 2c.c
+10/30/2006  10:04 AM               375 3a.c
+10/30/2006  10:04 AM               881 3b.c
+10/30/2006  10:04 AM               881 4.c
+10/30/2006  10:04 AM             3,086 5.c
+11/08/2006  10:11 AM             1,724 TRANS.TBL
+               9 File(s)          8,229 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\smarty
+
+10/30/2006  10:34 AM    <DIR>          .
+10/30/2006  01:22 PM    <DIR>          ..
+09/27/2006  04:32 PM           722,623 Smarty-2.6.14-docs.pdf
+10/20/2006  11:14 AM           144,986 Smarty-2.6.14.tar.gz
+10/20/2006  11:15 AM           251,715 Smarty-2.6.7-docs.chm
+11/08/2006  10:11 AM             1,155 TRANS.TBL
+10/20/2006  03:58 PM             3,191 guestbook-tutorial.tar.gz
+10/30/2006  10:38 AM    <DIR>          latihan
+               5 File(s)      1,123,670 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\smarty\latihan
+
+10/30/2006  10:38 AM    <DIR>          .
+10/30/2006  10:34 AM    <DIR>          ..
+11/08/2006  10:11 AM               439 TRANS.TBL
+10/30/2006  10:37 AM    <DIR>          script
+10/30/2006  10:40 AM    <DIR>          templates
+               1 File(s)            439 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\smarty\latihan\script
+
+10/30/2006  10:37 AM    <DIR>          .
+10/30/2006  10:38 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,329 TRANS.TBL
+10/30/2006  10:35 AM             1,195 guestbook.php
+10/30/2006  10:35 AM               397 test.php
+10/30/2006  10:35 AM               511 test2.php
+10/30/2006  10:35 AM               488 test3.php
+10/30/2006  10:35 AM               488 test4.php
+10/30/2006  10:35 AM               909 test5.php
+               7 File(s)          5,317 bytes
+
+ Directory of F:\IL-122006\rubrik\tutorial\smarty\latihan\templates
+
+10/30/2006  10:40 AM    <DIR>          .
+10/30/2006  10:38 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,548 TRANS.TBL
+10/30/2006  10:38 AM                16 footer.tpl
+10/30/2006  10:38 AM                72 header.tpl
+10/30/2006  10:38 AM                83 test.tpl
+10/30/2006  10:38 AM               168 test2.tpl
+10/30/2006  10:38 AM               198 test3.tpl
+10/30/2006  10:38 AM               158 test4.tpl
+10/30/2006  10:38 AM               161 test5.tpl
+               8 File(s)          2,404 bytes
+
+ Directory of F:\IL-122006\sistemfile
+
+11/07/2006  08:59 AM    <DIR>          .
+11/08/2006  10:10 AM    <DIR>          ..
+11/08/2006  10:11 AM               447 TRANS.TBL
+11/07/2006  08:05 AM    <DIR>          cryptmount-1.2
+10/04/2006  08:29 AM    <DIR>          ntfsprogs
+               1 File(s)            447 bytes
+
+ Directory of F:\IL-122006\sistemfile\cryptmount-1.2
+
+11/07/2006  08:05 AM    <DIR>          .
+11/07/2006  08:59 AM    <DIR>          ..
+11/08/2006  10:11 AM               470 TRANS.TBL
+10/17/2006  02:02 PM           207,873 cryptmount-1.2.tar.gz
+10/17/2006  02:01 PM            46,860 cryptmount_1.2-1_i386.deb
+               3 File(s)        255,203 bytes
+
+ Directory of F:\IL-122006\sistemfile\ntfsprogs
+
+10/04/2006  08:29 AM    <DIR>          .
+11/07/2006  08:59 AM    <DIR>          ..
+11/08/2006  10:11 AM             1,442 TRANS.TBL
+10/04/2006  08:29 AM           149,197 ntfsdoc-0.5.tar.bz2
+10/04/2006  08:29 AM           304,673 ntfsprogs-1.13.1-1.i586.rpm
+10/04/2006  08:29 AM           870,260 ntfsprogs-1.13.1.tar.gz
+10/04/2006  08:29 AM           159,087 ntfsprogs-devel-1.13.1-1.i586.rpm
+10/04/2006  08:29 AM            28,613 ntfsprogs-fuse-1.13.1-1.i586.rpm
+10/04/2006  08:29 AM            15,930 ntfsprogs-gnomevfs-1.13.1-1.i586.rpm
+               7 File(s)      1,529,202 bytes
+
+ Directory of F:\KNOPPIX
+
+11/08/2006  06:49 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/08/2006  06:49 AM        49,554,969 KNOPPIX
+11/08/2006  10:11 AM               219 TRANS.TBL
+               2 File(s)     49,555,188 bytes
+
+ Directory of F:\boot
+
+11/08/2006  06:49 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/08/2006  10:11 AM               220 TRANS.TBL
+11/08/2006  06:49 AM    <DIR>          isolinux
+               1 File(s)            220 bytes
+
+ Directory of F:\boot\isolinux
+
+11/08/2006  06:49 AM    <DIR>          .
+11/08/2006  06:49 AM    <DIR>          ..
+11/08/2006  10:11 AM             2,199 TRANS.TBL
+11/08/2006  10:11 AM             2,048 boot.cat
+11/08/2006  06:49 AM               119 boot.msg
+11/08/2006  06:49 AM             1,592 f2
+11/08/2006  06:49 AM             1,595 f3
+11/08/2006  06:49 AM               256 german.kbd
+11/08/2006  08:30 AM             9,404 isolinux.bin
+11/08/2006  06:49 AM             2,452 isolinux.cfg
+11/08/2006  06:49 AM           994,807 linux24
+11/08/2006  06:49 AM            33,780 logo.16
+11/08/2006  06:49 AM           803,325 minirt24.gz
+              11 File(s)      1,851,577 bytes
+
+ Directory of F:\extras
+
+11/08/2006  07:03 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+11/08/2006  07:03 AM               208 BACASAYA
+11/08/2006  10:11 AM               651 TRANS.TBL
+11/08/2006  06:29 AM    <DIR>          main
+11/08/2006  06:28 AM    <DIR>          plf
+               2 File(s)            859 bytes
+
+ Directory of F:\extras\main
+
+11/08/2006  06:29 AM    <DIR>          .
+11/08/2006  07:03 AM    <DIR>          ..
+11/08/2006  06:29 AM                98 MD5SUM
+10/20/2006  11:04 AM           191,181 ORBit-0.5.17-13mdk.i586.rpm
+11/08/2006  10:11 AM           133,432 TRANS.TBL
+10/20/2006  10:55 AM           161,760 alacarte-0.10.0-2mdv2007.0.noarch.rpm
+10/20/2006  11:02 AM         2,976,413 aqbanking-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:02 AM           292,331 aqbanking-qt3-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:02 AM            67,216 aqhbci-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  10:50 AM           204,176 at-spi-1.7.11-1mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           221,208 autoconf2.1-2.13-25mdv2007.0.noarch.rpm
+10/20/2006  10:55 AM           512,810 autoconf2.5-2.59-7mdv2007.0.noarch.rpm
+10/20/2006  10:50 AM             9,666 autologin-1.0.0-16mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           530,690 automake1.8-1.9.6-3mdk.noarch.rpm
+10/20/2006  11:02 AM           122,964 bash-completion-20060301-5mdv2007.0.noarch.rpm
+10/20/2006  10:50 AM           103,044 bc-1.06-19mdv2007.0.i586.rpm
+10/20/2006  10:55 AM         1,514,089 beagle-0.2.9-3mdv2007.0.i586.rpm
+10/20/2006  11:02 AM         2,184,746 bind-utils-9.3.2-8mdv2007.0.i586.rpm
+10/20/2006  10:50 AM         1,531,824 binutils-2.16.91.0.7-3mdv2007.0.i586.rpm
+10/16/2006  02:25 PM           514,015 bison-2.3-1mdv2007.0.i586.rpm
+10/20/2006  10:55 AM         1,334,829 bittorrent-4.20.9-1mdv2007.0.noarch.rpm
+10/16/2006  02:18 PM           236,142 bittorrent-gui-4.20.9-1mdv2007.0.noarch.rpm
+10/16/2006  02:25 PM        17,756,618 blender-2.42a-3mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           454,509 bug-buddy-2.16.0-2mdv2007.0.i586.rpm
+10/16/2006  02:25 PM            40,882 byacc-1.9-20mdk.i586.rpm
+10/20/2006  10:55 AM           133,099 cdialog-0.9b-8mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           244,376 cdrecord-isotools-2.01.01-0.a11.2mdv2007.0.i586.rpm
+10/20/2006  11:02 AM         1,314,749 chromium-0.9.12-25mdk.i586.rpm
+10/16/2006  02:25 PM           124,424 chromium-setup-0.9.12-25mdk.i586.rpm
+10/16/2006  02:25 PM            20,760 cpufrequtils-0.4-3mdk.i586.rpm
+10/16/2006  02:25 PM            91,592 ctags-5.5.4-2mdk.i586.rpm
+10/20/2006  10:55 AM         6,295,637 dasher-4.2.0-1mdv2007.0.i586.rpm
+10/20/2006  11:02 AM            40,163 db1-1.85-12mdk.i586.rpm
+10/20/2006  10:55 AM           169,726 dbus-python-0.71-3mdv2007.0.i586.rpm
+10/20/2006  10:55 AM            71,442 dbus-sharp-0.70-2mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           574,219 deskbar-applet-2.16.0-3mdv2007.0.i586.rpm
+10/16/2006  02:18 PM            24,223 dkms-2.0.13-3mdv2007.0.noarch.rpm
+10/16/2006  02:25 PM            72,251 dkms-fuse-2.5.3-3mdk.i586.rpm
+10/16/2006  02:17 PM           266,555 dkms-lirc-0.8.1-0.20060722.4mdv2007.0.i586.rpm
+10/16/2006  02:25 PM           175,620 dkms-ndiswrapper-1.21-1mdv2007.0.i586.rpm
+10/16/2006  02:18 PM           119,941 drakbt-0.11-1mdv2007.0.noarch.rpm
+10/20/2006  11:02 AM           180,661 drakfax-0.11-1mdk.noarch.rpm
+10/16/2006  02:18 PM            22,823 draklive-0.2-1mdv2007.0.noarch.rpm
+10/16/2006  02:18 PM           214,837 draklive-install-0.1-10mdv2007.0.noarch.rpm
+10/16/2006  02:18 PM            59,859 drakoo-0.8-1mdv2007.0.noarch.rpm
+10/20/2006  11:02 AM         1,509,082 drakwizard-3.1-1mdv2007.0.noarch.rpm
+10/20/2006  11:02 AM         1,478,007 drakwizard-base-3.1-1mdv2007.0.noarch.rpm
+10/20/2006  10:50 AM            47,347 ed-0.2-32mdk.i586.rpm
+10/20/2006  10:50 AM           179,805 eel-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           248,737 elfutils-0.120-2mdk.i586.rpm
+10/20/2006  10:50 AM            24,415 enchant-1.2.6-2mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           615,758 eog-2.16.0.1-1mdv2007.0.i586.rpm
+10/20/2006  10:55 AM         4,512,246 epiphany-2.16.0-3mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           578,638 epiphany-extensions-2.16.0-3mdv2007.0.i586.rpm
+10/20/2006  10:56 AM        13,275,984 evolution-2.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:55 AM           101,960 evolution-webcal-2.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            16,130 expat-1.95.8-3mdk.i586.rpm
+10/20/2006  10:56 AM           941,839 f-spot-0.2.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         2,641,703 festival-1.95-1mdk.i586.rpm
+10/20/2006  10:56 AM         1,688,285 festlex-CMU-1.4.3-2mdk.noarch.rpm
+10/20/2006  10:56 AM           243,271 festlex-POSLEX-1.4.3-2mdk.noarch.rpm
+10/16/2006  02:18 PM            14,482 festvox-kallpc-common-1.4.3-2mdk.noarch.rpm
+10/20/2006  10:56 AM            15,213 festvox-kedlpc-common-1.4.3-2mdk.noarch.rpm
+10/16/2006  02:18 PM         4,253,076 festvox-kedlpc16k-1.4.3-2mdk.noarch.rpm
+10/20/2006  10:56 AM         2,339,204 festvox-kedlpc8k-1.4.3-2mdk.noarch.rpm
+10/20/2006  11:02 AM           179,515 ffmpeg-0.4.9-3.pre1.6122.2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,072,160 file-roller-2.16.0-1mdv2007.0.i586.rpm
+10/16/2006  02:25 PM           118,285 flex-2.5.4a-25mdv2007.0.i586.rpm
+10/16/2006  02:25 PM         6,155,325 fontforge-1.0-0.20060715.2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,082,143 fonts-ttf-freefont-20040828-5mdv2007.0.noarch.rpm
+10/20/2006  10:56 AM         2,234,061 fortune-mod-1.99.1-8mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            26,638 fribidi-0.10.4-6mdk.i586.rpm
+10/20/2006  11:02 AM         7,634,727 frozen-bubble-1.0.0-11mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            46,579 g-wrap-1.9.6-8mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         5,402,846 gaim-2.0.0-2.beta3.1.1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,044,487 gcalctool-5.8.24-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         4,150,247 gcc-4.1.1-3mdk.i586.rpm
+10/20/2006  10:56 AM         3,529,838 gcc-c++-4.1.1-3mdk.i586.rpm
+10/16/2006  02:25 PM            25,682 gcc-colorgcc-4.1.1-3mdk.i586.rpm
+10/16/2006  02:25 PM         2,636,059 gcc-objc++-4.1.1-3mdk.i586.rpm
+10/16/2006  02:25 PM         2,534,586 gcc-objc-4.1.1-3mdk.i586.rpm
+10/20/2006  10:56 AM           278,422 gconf-editor-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:02 AM           590,489 gda2.0-1.9.102-3mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         2,645,761 gdb-6.3-8mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            41,912 gdk-pixbuf-loaders-0.22.0-10mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         3,880,337 gdm-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            42,179 gecko-sharp-0.6-8mdv2007.0.noarch.rpm
+10/20/2006  10:56 AM         4,018,318 gedit-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           850,725 gettext-0.14.6-1mdv2007.0.i586.rpm
+10/20/2006  11:02 AM         1,068,951 gftp-2.0.18-9mdv2007.0.i586.rpm
+10/20/2006  11:02 AM            12,571 ghostscript-dvipdf-8.15-47mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            17,324 glade-sharp-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            25,641 glade-sharp2-2.10.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            16,291 glib-gettextize-2.12.3-3mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           228,326 glib-sharp-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           253,607 glib-sharp2-2.10.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         4,134,222 glibc-devel-2.4-4mdk.i586.rpm
+10/20/2006  10:56 AM            46,483 gmime-sharp-2.2.3-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         9,227,800 gnome-applets-2.16.0.1-3mdv2007.0.i586.rpm
+10/20/2006  10:50 AM           273,949 gnome-bluetooth-0.7.0-8mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           180,074 gnome-chess-0.3.3-7mdk.i586.rpm
+10/20/2006  10:56 AM         2,811,492 gnome-control-center-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           267,087 gnome-doc-utils-0.8.0-2mdv2007.0.noarch.rpm
+10/20/2006  10:56 AM         6,209,843 gnome-games-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           413,338 gnome-libs-1.4.2-18mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           116,574 gnome-mag-0.13.1-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         3,201,927 gnome-media-2.16.1-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           151,973 gnome-menus-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:50 AM            62,305 gnome-mount-0.4-5.20060724.2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         3,338,664 gnome-panel-2.16.0-3mdv2007.0.i586.rpm
+10/16/2006  02:24 PM           168,236 gnome-phone-manager-0.7-3mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           420,148 gnome-pilot-2.0.14-1mdv2007.0.i586.rpm
+10/16/2006  02:24 PM           623,913 gnome-pim-1.4.9-7mdk.i586.rpm
+10/20/2006  10:50 AM         2,320,852 gnome-power-manager-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           247,298 gnome-print-0.37-9mdk.i586.rpm
+10/20/2006  10:50 AM           122,500 gnome-python-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            24,241 gnome-python-applet-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:50 AM            63,925 gnome-python-bonobo-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:50 AM            21,404 gnome-python-canvas-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            72,534 gnome-python-desktop-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            64,036 gnome-python-extras-2.14.2-6mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            30,094 gnome-python-gconf-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            78,315 gnome-python-gnomeprint-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:50 AM            65,748 gnome-python-gnomevfs-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            58,914 gnome-python-gtksourceview-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,878,919 gnome-screensaver-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           555,632 gnome-session-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           165,557 gnome-sharp-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           529,794 gnome-sharp2-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            38,868 gnome-speech-0.4.5-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            87,491 gnome-spell-1.0.7-1mdk.i586.rpm
+10/20/2006  10:56 AM         1,436,893 gnome-system-monitor-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         2,347,576 gnome-terminal-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         2,371,243 gnome-themes-2.16.0-1mdv2007.0.noarch.rpm
+10/20/2006  10:56 AM         6,564,959 gnome-user-docs-2.16.0-1mdv2007.0.noarch.rpm
+10/20/2006  10:56 AM         3,848,766 gnome-utils-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:50 AM           409,744 gnome-volume-manager-2.15.0-3mdv2007.0.i586.rpm
+10/20/2006  11:03 AM        13,434,648 gnucash-2.0.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            62,395 gnucash-hbci-2.0.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            23,778 gnucash-ofx-2.0.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM        10,485,947 gnumeric-1.7.0-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         1,796,593 gnuplot-4.0.0-10mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           778,737 goffice-0.3.0-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           777,461 goffice21-0.2.1-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,614,914 gok-1.2.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           704,321 gqview-2.1.1-5mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            35,350 gsf-sharp-0.8-0.62317.1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            11,969 gstreamer0.10-cdparanoia-0.10.9-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            30,604 gstreamer0.10-flac-0.10.4-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            19,341 gstreamer0.10-gnomevfs-0.10.9-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           508,986 gstreamer0.10-plugins-base-0.10.9-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           597,656 gstreamer0.10-plugins-good-0.10.4-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           177,861 gstreamer0.10-plugins-ugly-0.10.4-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            23,310 gstreamer0.10-speex-0.10.4-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         2,036,077 gthumb-2.7.8-4mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           444,446 gtk-engines2-2.8.0-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           351,891 gtk-sharp-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           538,900 gtk-sharp2-2.10.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           643,587 gtkhtml-3.8-3.12.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           417,628 gtksourceview-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            14,651 gtkspell-2.0.11-1mdk.i586.rpm
+10/20/2006  10:56 AM         1,352,539 gucharmap-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM           762,461 guile-1.6.8-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           185,542 gv-3.6.1-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           131,352 gwenhywfar-2.4.0-1mdv2007.0.i586.rpm
+10/16/2006  02:24 PM            93,483 hal-gnome-0.5.7.1-7mdv2007.0.i586.rpm
+11/08/2006  06:28 AM         4,011,292 hdlist.cz
+10/20/2006  11:03 AM            55,472 hylafax-4.3.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           135,115 hylafax-client-4.3.0-1mdv2007.0.i586.rpm
+10/16/2006  02:24 PM        11,316,815 inkscape-0.44-4mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,448,670 iso-codes-0.53-1mdv2007.0.noarch.rpm
+10/16/2006  02:24 PM         4,620,834 kdeaccessibility-kttsd-3.5.4-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM        14,469,338 kdeartwork-3.5.4-3mdv2007.0.i586.rpm
+10/16/2006  02:24 PM            57,353 kdeartwork-screensaver-gl-3.5.4-3mdv2007.0.i586.rpm
+10/16/2006  02:24 PM        30,482,311 kdeedu-3.5.4-2mdv2007.0.i586.rpm
+10/20/2006  10:56 AM        12,803,154 kdegames-3.5.4-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           759,695 kdegraphics-kfax-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           548,722 kdegraphics-kview-3.5.4-7mdv2007.0.i586.rpm
+10/16/2006  02:24 PM           148,127 kdepim-kandy-3.5.4-12mdv2007.0.i586.rpm
+10/20/2006  10:56 AM         1,903,304 kdetoys-3.5.4-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            34,085 kdeutils-kdessh-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           317,868 kdeutils-khexedit-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            74,577 kdeutils-ktimer-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  10:50 AM        20,639,516 kernel-2.6.17.5mdv-1-1mdv2007.0.i586.rpm
+10/16/2006  02:24 PM        53,343,460 kernel-source-2.6.17.5mdv-1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         1,010,158 kino-0.9.2-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            93,026 ktoblzcheck-1.8-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         2,765,838 lbreakout2-2.6-0.beta5.2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           197,630 libORBit0-0.5.17-13mdk.i586.rpm
+10/20/2006  10:57 AM           715,388 libOpenSP3-1.5-12mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            36,931 libSDL_gfx13-2.0.13-6mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           140,985 libSDL_mixer1.2-1.2.7-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            12,057 libSDL_net1.2-1.2.6-1mdk.i586.rpm
+10/20/2006  11:03 AM            23,240 libSDL_ttf2.0-2.0.8-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           180,592 libaqbanking16-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            22,272 libaqdtaus3-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           189,434 libaqhbci10-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM             7,067 libaqnone0-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            30,377 libaqofxconnect3-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           126,467 libat-spi0-1.7.11-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            26,273 libavahi-compat-howl0-0.6.13-4mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            43,961 libbeagle0-0.2.9-3mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           349,757 libbinutils2-2.16.91.0.7-3mdv2007.0.i586.rpm
+10/16/2006  02:23 PM           824,211 libboost1-1.33.1-3mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            15,132 libbrlapi0.4.1_0-3.7.2-5mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            27,624 libbtctl2-0.6.0-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            39,304 libcairomm1.0_1-1.2.2-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            39,778 libcddb-slave2_0-2.16.1-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           338,689 libchipcard2-2.1.8-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           310,882 libchipcard2_0-2.1.8-1mdv2007.0.i586.rpm
+10/20/2006  10:56 AM            21,898 libchm0-0.38-2mdv2007.0.i586.rpm
+10/20/2006  10:51 AM             8,999 libcpufreq0-0.4-3mdk.i586.rpm
+10/20/2006  11:03 AM            86,264 libdha1.0-1.0-1.pre8.13mdv2007.0.i586.rpm
+10/16/2006  02:23 PM            91,527 libdvdnav4-0.1.10-4mdk.i586.rpm
+11/07/2006  03:59 PM            32,318 libdvdplay0-1.0.1-5mdk.i586.rpm
+10/20/2006  10:56 AM            57,951 libdvdread3-0.9.6-1mdk.i586.rpm
+10/20/2006  10:56 AM            78,151 libedataserverui8-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           237,903 libeel2_2-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            61,327 libenca0-1.9-3mdk.i586.rpm
+10/20/2006  10:51 AM           144,447 libenchant1-1.2.6-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           130,736 libexchange-storage2-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            24,210 libfribidi0-0.10.4-6mdk.i586.rpm
+10/20/2006  10:57 AM            47,835 libftgl0-2.0.11-5mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            27,475 libg-wrap0-1.9.6-8mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            13,594 libgail-gnome-1.1.3-1mdk.i586.rpm
+10/16/2006  02:22 PM            68,851 libgc1-6.7-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           384,520 libgda3_3-1.9.102-3mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            29,036 libgdasql3-1.9.102-3mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            51,719 libgdict1.0_5-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           397,713 libgdiplus0-1.1.17-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            11,160 libgdk-pixbuf-gnomecanvas1-0.22.0-10mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            86,069 libgdk-pixbuf2-0.22.0-10mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            87,316 libgdkimlib1-1.9.15-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            18,308 libgeldkarte4-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           140,839 libgettextmisc-0.14.6-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            28,635 libglade-gnome0-0.17-16mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            46,683 libglade0-0.17-16mdv2007.0.i586.rpm
+10/20/2006  10:57 AM             8,426 libgladesharpglue-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM         2,029,297 libglib2.0_0-devel-2.12.3-3mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           129,590 libglibmm2.4_1-2.12.0-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM             9,872 libglibsharpglue-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           190,262 libgmime2.0-2.2.3-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            34,133 libgnome-applets0-2.16.0.1-3mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           203,338 libgnome-db3_4-1.9.102-3mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            13,788 libgnome-mag2-0.13.1-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            67,157 libgnome-pilot2-2.0.14-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           525,738 libgnome32-1.4.2-18mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            21,757 libgnomebt0-0.7.0-8mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            45,608 libgnomecups-0.2.2-3mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            28,309 libgnomecups-1.0_1-0.2.2-3mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           203,989 libgnomeprint-2.12.1-8mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           194,701 libgnomeprint2-2_0-2.12.1-8mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           221,055 libgnomeprintui-2.12.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           103,551 libgnomeprintui2-2_0-2.12.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            12,342 libgnomesharpglue-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            14,175 libgnomespeech7-0.4.5-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           403,958 libgnucash0-2.0.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           571,609 libgoffice0_3-0.3.0-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           546,300 libgoffice21_1_2-0.2.1-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           789,561 libgtk+1.2-1.2.10-45mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            24,737 libgtkglarea2.0-1.99.0-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           330,851 libgtkhtml-3.8_15-3.12.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         1,044,907 libgtkmm2.4_1-2.10.1-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            18,435 libgtksharpglue-1.0.10-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            83,507 libgtksourceview-1.0_0-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            13,487 libgtkspell0-2.0.11-1mdk.i586.rpm
+10/20/2006  10:57 AM            77,862 libgtop2-2.14.3-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            36,871 libgtop2.0_7-2.14.3-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM         1,198,532 libgucharmap5-1.8.0-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           635,717 libguile12-1.6.8-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           468,682 libgwenhywfar38-2.4.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           408,002 libhylafax4.3.0-4.3.0-1mdv2007.0.i586.rpm
+10/16/2006  02:22 PM           804,062 libkdeaccessibility1-kttsd-3.5.4-2mdv2007.0.i586.rpm
+10/16/2006  02:22 PM         1,428,608 libkdeedu1-3.5.4-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           153,077 libkdegraphics0-common-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            29,946 libkdegraphics0-kview-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           108,493 libkdeutils1-khexedit-3.5.4-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           120,254 libkinoextensions0-0.3.2-0.1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            66,981 libktoblzcheck1-1.8-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            15,460 liblirc0-0.8.1-0.20060722.4mdv2007.0.i586.rpm
+10/16/2006  02:22 PM            44,707 libloudmouth-1_0-1.0.5-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM             6,692 liblrmi0-0.10-2mdk.i586.rpm
+11/07/2006  04:00 PM            74,074 liblua5.0-5.0.3-3mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            63,425 libmalaga7-7.5-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            79,548 libmetacity-private0-2.16.1-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           409,226 libmjpegtools1.8-1.8.0-4mdv2007.0.i586.rpm
+10/20/2006  10:57 AM        20,882,005 libmono-runtime-1.1.17.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           890,200 libmono0-1.1.17.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            38,928 libnautilus-burn4-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            21,628 libnautilus1-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         1,992,649 libncurses5-devel-5.5-1.20051029.4mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           188,124 libncursesw5-5.5-1.20051029.4mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            15,655 libnotify1-0.4.2-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            12,504 libnvtvsimple0-0.4.7-2.20040408.10mdv2007.0.i586.rpm
+11/07/2006  04:00 PM           291,559 libode0-0.6-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           446,403 libofx-0.8.0-2mdk.i586.rpm
+10/20/2006  11:03 AM            75,713 libofx2-0.8.0-2mdk.i586.rpm
+10/20/2006  10:57 AM             6,519 liboil-tools-0.3.9-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           115,224 liboil0.3-0.3.9-1mdv2007.0.i586.rpm
+10/16/2006  02:21 PM           168,897 libopenal0-0.0.8-1.20050824.2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            20,543 libopenct1-0.6.8-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           346,695 libopensc2-0.11.1-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            38,029 libpanel-applet-2_0-2.16.0-3mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            10,214 libpisync0-0.12.0-2mdv2007.0.i586.rpm
+11/07/2006  04:00 PM            29,669 libpowersave10-0.13.5-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            93,687 libpsiconv6-0.9.8-7mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            61,635 libpx0-0.6.1-1mdk.i586.rpm
+10/20/2006  11:03 AM           201,265 libqbanking4-2.2.1-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           311,496 libquicktime0-0.9.9-6mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           689,094 librecode0-3.6-11mdk.i586.rpm
+10/20/2006  10:57 AM            89,914 librsvg-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            12,249 libscribus0-1.3.3.3-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            31,514 libsexy2-0.1.8-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            32,500 libshout3-2.2.2-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            32,225 libsigc++2.0_0-2.0.17-1mdk.i586.rpm
+10/16/2006  02:21 PM           702,199 libslang1-devel-1.4.9-8mdk.i586.rpm
+10/20/2006  11:03 AM           121,754 libsmpeg0.4-0.4.4-28mdk.i586.rpm
+10/20/2006  11:03 AM         1,345,542 libspreadsheet1.7.0-1.7.0-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           156,235 libsqlite0-2.8.17-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           275,882 libstdc++5-3.3.6-3mdk.i586.rpm
+10/20/2006  10:57 AM        13,256,882 libstdc++6-devel-4.1.1-3mdk.i586.rpm
+10/16/2006  02:21 PM           271,642 libsvgalib1-1.9.24-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           158,412 libt1lib5-5.1.0-3mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           190,500 libtiff-progs-3.8.2-5mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           104,264 libtix8.1.8.4-8.1.4-4mdk.i586.rpm
+10/20/2006  10:51 AM           454,462 libtk8.4-8.4.13-1mdk.i586.rpm
+10/20/2006  11:03 AM           219,026 libtool-1.5.20-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           694,792 libtool-base-1.5.20-9mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            31,821 libtotem-plparser1-2.16.1-2mdv2007.0.i586.rpm
+10/16/2006  02:21 PM           417,420 libuninameslist0-040707-1mdk.i586.rpm
+10/16/2006  02:21 PM           430,596 libuninameslist0-devel-040707-1mdk.i586.rpm
+10/20/2006  11:03 AM             7,951 libvbe0-0-10.3mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            15,482 libvoikko1-1.0-4mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         8,967,840 libwine1-0.9.20-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           141,183 libwv-1.2_0-1.2.0-6mdv2007.0.i586.rpm
+10/16/2006  02:21 PM         2,556,688 libwxPythonGTK2.6-2.6.3.3-2mdv2007.0.i586.rpm
+10/20/2006  11:03 AM         3,277,409 libwxgtk2.6-2.6.3-7mdv2007.0.i586.rpm
+10/20/2006  10:51 AM             5,828 libxevie1-1.0.1-2mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            33,958 libxklavier-data-3.0-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            60,367 libxklavier11-3.0-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           243,342 libxml1-1.8.17-9mdk.i586.rpm
+10/20/2006  10:57 AM           405,168 libxml2-python-2.6.26-2mdv2007.0.i586.rpm
+11/07/2006  04:01 PM           102,956 libxmms1-1.2.10-33mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            15,774 libxslt-proc-1.1.17-1mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           549,652 links-2.1-0.pre18.13mdv2007.0.i586.rpm
+10/20/2006  11:03 AM            36,591 links-common-2.1-0.pre18.13mdv2007.0.i586.rpm
+10/16/2006  02:20 PM         2,036,067 links-graphic-2.1-0.pre18.13mdv2007.0.i586.rpm
+10/20/2006  11:03 AM           202,935 lrzsz-0.12.21-7mdk.i586.rpm
+10/20/2006  10:51 AM         1,506,079 lynx-2.8.5-8mdk.i586.rpm
+10/20/2006  10:57 AM           106,040 m4-1.4.4-1mdk.i586.rpm
+10/20/2006  10:57 AM           458,334 make-3.81-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           171,762 man-1.5m2-5mdv2007.0.i586.rpm
+10/20/2006  11:04 AM         1,738,952 mc-4.6.1-4mdv2007.0.i586.rpm
+10/16/2006  02:17 PM         2,755,782 mencoder-1.0-1.pre8.13mdv2007.0.i586.rpm
+10/20/2006  10:57 AM         2,257,830 metacity-2.16.1-4mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           257,406 minicom-2.1-6mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           579,658 mjpegtools-1.8.0-4mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           112,023 mkcd-4.2.4-1mdv2007.0.noarch.rpm
+11/07/2006  04:02 PM            17,394 moneydrake-0.9.7-5mdk.noarch.rpm
+11/07/2006  04:02 PM         4,953,182 monkey-bubble-0.3.2-13.20060618.5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM         2,069,945 mono-1.1.17.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM            63,423 mono-data-sqlite-1.1.17.1-5mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           156,549 mono-tools-1.1.11-2mdv2007.0.noarch.rpm
+10/20/2006  10:57 AM         5,790,237 monodoc-1.1.17-1mdv2007.0.noarch.rpm
+10/20/2006  11:04 AM        13,471,931 mozilla-thunderbird-1.5.0.7-1mdv2007.0.i586.rpm
+10/20/2006  10:57 AM           165,069 mpg123-0.60-2mdv2007.0.i586.rpm
+10/20/2006  11:04 AM         5,979,732 mplayer-1.0-1.pre8.13mdv2007.0.i586.rpm
+11/07/2006  04:02 PM           601,239 mplayer-fonts-1.0-12mdv2007.0.noarch.rpm
+10/20/2006  11:04 AM           251,692 mplayer-gui-1.0-1.pre8.13mdv2007.0.i586.rpm
+11/07/2006  04:02 PM           471,432 mplayerplugin-3.25-2mdv2007.0.i586.rpm
+10/20/2006  10:58 AM         4,379,097 nautilus-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:58 AM           513,336 nautilus-cd-burner-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            21,386 nautilus-filesharing-0.2-2mdv2007.0.i586.rpm
+10/20/2006  11:04 AM         2,228,084 netpbm-10.34-2mdv2007.0.i586.rpm
+11/07/2006  04:02 PM        13,497,505 neverball-1.4.0-5mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            41,401 notification-daemon-0.3.5-3mdv2007.0.i586.rpm
+10/16/2006  02:20 PM            15,965 ntsysv-1.3.25-2mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           237,201 openoffice.org-gnome-2.0.3-5mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            17,786 openssh-askpass-gnome-4.3p2-12mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            14,065 openssh-askpass-qt-0.2-1mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           230,220 openssh-server-4.3p2-12mdv2007.0.i586.rpm
+10/20/2006  10:58 AM           867,319 orca-1.0.0-1mdv2007.0.i586.rpm
+11/07/2006  04:03 PM           459,644 p7zip-4.42-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            95,906 patch-2.5.9-3mdk.i586.rpm
+10/20/2006  10:58 AM            47,657 perl-Archive-Tar-1.30-1mdv2007.0.noarch.rpm
+10/20/2006  11:04 AM            42,133 perl-Convert-ASN1-0.20-1mdk.noarch.rpm
+10/20/2006  10:58 AM            76,368 perl-DB_File-1.814-1mdk.i586.rpm
+10/20/2006  11:04 AM           160,879 perl-DateManip-5.44-3mdk.noarch.rpm
+10/20/2006  11:04 AM            73,860 perl-Expect-1.20-1mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM            14,376 perl-File-NCopy-0.34-2mdk.noarch.rpm
+11/07/2006  04:03 PM           429,971 perl-GTK-0.7009-4mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            16,499 perl-Geography-Countries-1.4-3mdk.noarch.rpm
+11/07/2006  04:03 PM            33,390 perl-Gtk2-GladeXML-1.005-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            14,378 perl-IO-Socket-INET6-2.51-1mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM            45,541 perl-IO-Socket-SSL-0.99.9-2mdv2007.0.noarch.rpm
+10/20/2006  11:04 AM            38,731 perl-IO-Tty-1.07-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            14,854 perl-IO-Zlib-1.04-3mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM           181,457 perl-IP-Country-2.21-1mdk.noarch.rpm
+10/20/2006  10:58 AM            30,875 perl-Image-Size-3.0-2mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM            48,368 perl-Mail-SPF-Query-1.999.1-1mdk.noarch.rpm
+10/20/2006  10:58 AM           560,491 perl-Mail-SpamAssassin-3.1.5-2mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            14,965 perl-Net-CIDR-Lite-0.20-1mdk.noarch.rpm
+10/20/2006  10:51 AM           247,129 perl-Net-DNS-0.58-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            29,527 perl-Net-IP-1.25-2mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM            23,898 perl-Net-Ident-1.20-1mdk.noarch.rpm
+10/20/2006  10:58 AM           141,190 perl-Net_SSLeay.pm-1.30-3mdv2007.0.i586.rpm
+10/16/2006  02:18 PM            46,024 perl-Parse-Yapp-1.05-7mdk.noarch.rpm
+10/20/2006  11:04 AM           846,980 perl-SDL-1.20.0-15mdv2007.0.i586.rpm
+10/16/2006  02:18 PM            80,609 perl-SVG-2.33-3mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM            18,717 perl-Socket6-0.19-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            12,250 perl-Sys-Hostname-Long-1.4-3mdv2007.0.noarch.rpm
+10/20/2006  10:58 AM           276,084 perl-XML-LibXML-1.60-1mdv2007.0.i586.rpm
+10/20/2006  10:58 AM            14,628 perl-XML-LibXML-Common-0.13-4mdk.i586.rpm
+10/20/2006  10:58 AM            15,541 perl-XML-NamespaceSupport-1.09-1mdk.noarch.rpm
+10/16/2006  02:18 PM             8,469 perl-XML-RegExp-0.03-3mdk.noarch.rpm
+10/20/2006  10:58 AM            78,080 perl-XML-SAX-0.14-1mdk.noarch.rpm
+10/16/2006  02:18 PM            24,094 perl-XML-Writer-0.600-1mdk.noarch.rpm
+10/16/2006  02:18 PM           109,169 perl-XML-XQL-0.68-2mdk.noarch.rpm
+10/20/2006  11:04 AM           265,060 perl-ldap-0.33-3mdk.noarch.rpm
+10/16/2006  02:19 PM            98,555 potrace-1.7-3mdk.i586.rpm
+11/07/2006  04:04 PM           418,105 powersave-0.13.5-1mdv2007.0.i586.rpm
+10/20/2006  11:04 AM         7,121,759 ppracer-0.5-0.alpha4mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           144,345 procmail-3.22-7mdk.i586.rpm
+10/20/2006  10:59 AM           167,650 pycrypto-2.0-1mdk.i586.rpm
+10/20/2006  10:51 AM         2,887,581 pygtk2.0-2.10.1-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            13,992 pygtk2.0-libglade-2.10.1-1mdv2007.0.i586.rpm
+10/20/2006  10:51 AM            47,424 pyorbit-2.14.1-1mdv2007.0.i586.rpm
+10/20/2006  10:59 AM            66,979 python-OpenSSL-0.6-3mdk.i586.rpm
+10/20/2006  10:59 AM            25,030 python-beagle-0.2.9-3mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           156,508 python-cairo-1.2.2-1mdv2007.0.i586.rpm
+10/20/2006  10:59 AM            61,059 python-elementtree-1.2.6-1mdv2007.0.noarch.rpm
+10/20/2006  10:59 AM            48,372 python-gnome-menus-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           136,836 python-gobject-2.12.1-1mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           951,928 python-imaging-1.1.4-10mdk.i586.rpm
+10/20/2006  10:51 AM             9,008 python-libbtctl-0.6.0-4mdv2007.0.i586.rpm
+10/20/2006  10:51 AM           576,589 python-numeric-24.2-2mdv2007.0.i586.rpm
+10/20/2006  11:04 AM           853,986 python-pyxml-0.8.4-6mdk.i586.rpm
+10/16/2006  02:19 PM           323,384 python-rpm-4.4.6-10mdv2007.0.i586.rpm
+10/20/2006  10:59 AM         2,310,092 python-twisted-core-2.4.0-1mdk.i586.rpm
+10/20/2006  10:59 AM           543,771 python-twisted-web-0.6.0-1mdv2007.0.i586.rpm
+10/20/2006  10:59 AM           228,443 python-zope-interface-3.0.1-1mdk.i586.rpm
+11/07/2006  04:05 PM         3,257,031 qemu-0.8.2-1mdv2007.0.i586.rpm
+11/07/2006  04:05 PM            62,667 qemu-launcher-1.7.0-1mdv2007.0.noarch.rpm
+10/16/2006  02:19 PM            70,655 qsynaptics-0.22.0-2mdk.i586.rpm
+10/20/2006  10:59 AM         3,409,658 rhythmbox-0.9.5-7mdv2007.0.i586.rpm
+10/20/2006  10:59 AM         3,251,798 rpm-build-4.4.6-10mdv2007.0.i586.rpm
+10/20/2006  10:59 AM            37,250 rpm-mandriva-setup-build-1.29-3mdv2007.0.i586.rpm
+10/16/2006  02:17 PM            32,293 rpm-rebuilder-0.27-1mdk.noarch.rpm
+11/07/2006  04:05 PM           148,355 rpmcheck-0.0.751-1mdv2007.0.i586.rpm
+10/16/2006  02:17 PM           166,855 rpmlint-0.77-3mdv2007.0.noarch.rpm
+10/20/2006  11:04 AM           277,544 sam2p-0.44.14-1mdk.i586.rpm
+10/20/2006  10:52 AM         4,000,352 samba-server-3.0.23b-7mdv2007.0.i586.rpm
+10/20/2006  10:52 AM         1,125,491 samba-winbind-3.0.23b-7mdv2007.0.i586.rpm
+11/07/2006  04:05 PM           224,967 scmxx-0.9.0-1mdv2007.0.i586.rpm
+10/20/2006  10:59 AM           536,555 screen-4.0.2-9mdv2007.0.i586.rpm
+10/20/2006  11:05 AM         9,921,245 scribus-1.3.3.3-1mdv2007.0.i586.rpm
+10/20/2006  11:05 AM            24,795 setserial-2.17-9mdk.i586.rpm
+10/20/2006  11:05 AM         1,462,094 skencil-0.6.17-2mdk.i586.rpm
+10/20/2006  11:05 AM           224,998 smilutils-0.3.2-0.1mdv2007.0.i586.rpm
+10/16/2006  02:19 PM            34,406 smpeg-player-0.4.4-28mdk.i586.rpm
+10/20/2006  10:59 AM           309,570 spamassassin-3.1.5-2mdv2007.0.i586.rpm
+10/20/2006  10:59 AM            18,508 spec-helper-0.24-2mdv2007.0.noarch.rpm
+10/20/2006  11:05 AM           381,092 squirrel-2_0_5-4mdk.i586.rpm
+10/20/2006  10:52 AM           148,771 strace-4.5.14-2mdv2007.0.i586.rpm
+10/20/2006  10:52 AM           173,645 sudo-1.6.8p12-4mdv2007.0.i586.rpm
+10/20/2006  11:05 AM           224,303 symlinks-1.2-17mdk.i586.rpm
+11/08/2006  06:28 AM            65,611 synthesis.hdlist.cz
+10/16/2006  02:19 PM           176,765 syslinux-3.20-3mdv2007.0.i586.rpm
+10/20/2006  10:59 AM           594,110 system-tools-backends-1.4.2-1mdk.noarch.rpm
+10/20/2006  10:59 AM            12,693 t1lib-config-5.1.0-3mdv2007.0.i586.rpm
+11/07/2006  04:06 PM             2,531 task-c++-devel-2007-1mdv2007.0.noarch.rpm
+11/07/2006  04:06 PM             2,727 task-c-devel-2007-1mdv2007.0.noarch.rpm
+10/20/2006  11:00 AM             2,855 task-gnome-2007-3mdv2007.0.noarch.rpm
+10/20/2006  11:00 AM             2,484 task-gnome-minimal-2007-3mdv2007.0.noarch.rpm
+10/20/2006  11:05 AM         1,402,668 tcl-8.4.13-1mdk.i586.rpm
+10/20/2006  11:05 AM        45,898,496 tetex-3.0-18mdv2007.0.i586.rpm
+10/20/2006  11:05 AM         4,422,656 tetex-context-3.0-18mdv2007.0.i586.rpm
+10/20/2006  11:05 AM           449,387 tetex-dvips-3.0-18mdv2007.0.i586.rpm
+10/20/2006  11:05 AM         6,738,846 tetex-latex-3.0-18mdv2007.0.i586.rpm
+10/16/2006  02:19 PM           158,701 tetex-mfwin-3.0-18mdv2007.0.i586.rpm
+10/20/2006  11:05 AM           782,199 texinfo-4.8-4mdv2007.0.i586.rpm
+10/20/2006  11:05 AM           190,058 tightvnc-1.2.9-13mdv2007.0.i586.rpm
+10/20/2006  11:05 AM           716,357 tightvnc-server-1.2.9-13mdv2007.0.i586.rpm
+10/20/2006  11:06 AM           810,895 tix-8.1.4-4mdk.i586.rpm
+10/20/2006  11:06 AM         1,056,539 tk-8.4.13-1mdk.i586.rpm
+10/20/2006  11:06 AM           755,732 tkinter-2.4.3-3mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           665,318 tomboy-0.4.1-1mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           214,122 totem-2.16.1-2mdv2007.0.i586.rpm
+10/20/2006  11:00 AM         1,743,214 totem-common-2.16.1-2mdv2007.0.i586.rpm
+10/16/2006  02:19 PM            90,851 totem-mozilla-2.16.1-2mdv2007.0.i586.rpm
+10/20/2006  11:06 AM            21,716 traceroute-1.4a12-6mdk.i586.rpm
+10/20/2006  11:06 AM           794,320 tvtime-1.0.2-3mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           932,936 umb-scheme-3.2-24mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           223,128 usbview-1.0-10mdk.i586.rpm
+10/20/2006  11:07 AM         1,030,337 vim-X11-7.0-14mdv2007.0.i586.rpm
+10/20/2006  11:00 AM         6,507,730 vim-common-7.0-14mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           874,305 vim-enhanced-7.0-14mdv2007.0.i586.rpm
+11/07/2006  04:07 PM           230,405 vim-latex-20060325-1mdv2007.0.noarch.rpm
+10/20/2006  11:07 AM           270,678 wine-0.9.20-5mdv2007.0.i586.rpm
+10/16/2006  02:17 PM            14,929 wlandetect-0.3-3mdk.noarch.rpm
+11/07/2006  04:08 PM            95,455 wlassistant-0.5.3-1mdv2007.0.i586.rpm
+10/20/2006  11:07 AM           691,884 wxGTK2.6-2.6.3-7mdv2007.0.i586.rpm
+10/16/2006  02:18 PM         5,172,715 wxPythonGTK-2.6.3.3-2mdv2007.0.i586.rpm
+10/20/2006  10:52 AM         6,479,154 x11-font-adobe-100dpi-1.0.0-4mdv2007.0.noarch.rpm
+10/20/2006  10:52 AM         1,513,598 x11-font-adobe-utopia-100dpi-1.0.1-4mdv2007.0.noarch.rpm
+10/20/2006  10:52 AM            16,591 x11-font-arabic-misc-1.0.0-4mdv2007.0.noarch.rpm
+10/20/2006  10:52 AM         3,924,634 x11-font-bh-100dpi-1.0.0-4mdv2007.0.noarch.rpm
+10/20/2006  10:52 AM           884,012 x11-font-bh-lucidatypewriter-100dpi-1.0.0-4mdv2007.0.noarch.rpm
+10/20/2006  10:52 AM           167,223 x11-font-bitstream-100dpi-1.0.0-4mdv2007.0.noarch.rpm
+10/20/2006  11:07 AM           919,934 xchat-2.6.6-3mdv2007.0.i586.rpm
+11/07/2006  04:08 PM         1,397,740 xchat-gnome-0.12-2mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            14,351 xchat-gnome-notification-0.12-2mdv2007.0.i586.rpm
+11/07/2006  04:08 PM             7,516 xchat-gnome-soundnotification-0.12-2mdv2007.0.i586.rpm
+11/07/2006  04:08 PM           337,292 xchm-1.9-1mdv2007.0.i586.rpm
+10/20/2006  11:07 AM         1,641,887 xine-ui-0.99.4-7mdv2007.0.i586.rpm
+10/20/2006  11:00 AM         1,040,320 xlockmore-5.22-1mdv2007.0.i586.rpm
+11/07/2006  04:08 PM         2,220,202 xmms-1.2.10-33mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            33,822 xmms-cdread-0.14a-5mdk.i586.rpm
+11/07/2006  04:08 PM           115,773 xmms-crossfade-0.3.11-1mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            29,884 xmms-crystality-0.92-9mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            22,230 xmms-diskwriter-1.2.10-33mdv2007.0.i586.rpm
+11/07/2006  04:08 PM           464,614 xmms-kde-3.1-2mdk.i586.rpm
+11/07/2006  04:08 PM            28,845 xmms-mad-0.10-2mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            29,802 xmms-smpeg-0.3.5-6mdv2007.0.i586.rpm
+11/07/2006  04:08 PM            61,769 xmms-status-plugin-1.0-7mdv2007.0.i586.rpm
+11/07/2006  04:08 PM         5,861,646 xmoto-0.2.0-2mdv2007.0.i586.rpm
+10/20/2006  10:52 AM             4,806 xorg-x11-100dpi-fonts-7.1.0-6mdv2007.0.i586.rpm
+10/20/2006  11:07 AM         3,592,368 xpdf-3.01pl2-3mdv2007.0.i586.rpm
+10/20/2006  11:00 AM         1,836,665 xpdf-tools-3.01pl2-3mdv2007.0.i586.rpm
+11/07/2006  04:08 PM           238,137 xpenguins-2.2-6mdv2007.0.i586.rpm
+10/16/2006  02:18 PM            80,065 xscreensaver-common-5.00-5mdv2007.0.i586.rpm
+10/16/2006  02:18 PM         3,539,252 xscreensaver-gl-5.00-5mdv2007.0.i586.rpm
+10/20/2006  11:07 AM           895,721 xtraceroute-0.9.2-2mdv2007.0.i586.rpm
+11/07/2006  04:08 PM         1,115,579 xwine-1.0.1-4mdv2007.0.i586.rpm
+10/16/2006  02:18 PM           846,036 yafray-0.0.9-1mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           660,710 yelp-2.16.0-2mdv2007.0.i586.rpm
+10/20/2006  11:00 AM         1,259,543 zenity-2.16.0-1mdv2007.0.i586.rpm
+10/20/2006  11:00 AM           141,856 zlib1-devel-1.2.3-2mdv2007.0.i586.rpm
+             536 File(s)    709,487,926 bytes
+
+ Directory of F:\extras\plf
+
+11/08/2006  06:28 AM    <DIR>          .
+11/08/2006  07:03 AM    <DIR>          ..
+11/08/2006  06:28 AM                98 MD5SUM
+11/08/2006  10:11 AM             1,905 TRANS.TBL
+11/06/2006  08:07 AM         7,712,703 ati-8.28.8-3plf2007.0.i586.rpm
+11/06/2006  08:07 AM           652,772 dkms-ati-8.28.8-3plf2007.0.i586.rpm
+11/06/2006  08:07 AM           196,052 dkms-kqemu-1.3.0-0.pre9.1plf2007.0.i586.rpm
+11/06/2006  08:07 AM         1,708,743 dkms-nvidia-8774-4plf2007.0.i586.rpm
+11/08/2006  06:28 AM            20,051 hdlist.cz
+11/06/2006  08:07 AM         4,190,707 nvidia-8774-4plf2007.0.i586.rpm
+11/08/2006  06:28 AM               874 synthesis.hdlist.cz
+               9 File(s)     14,483,905 bytes
+
+ Directory of F:\lost+found
+
+11/08/2006  06:49 AM    <DIR>          .
+11/08/2006  08:29 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             840 File(s)  4,362,462,405 bytes
+             288 Dir(s)               0 bytes free

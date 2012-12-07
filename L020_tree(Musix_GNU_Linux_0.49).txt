@@ -1,0 +1,83 @@
+Folder PATH listing for volume MUSIX049b10
+Volume serial number is BD78-E045
+G:\
+|   Formas_inicio.html
+|   autorun.bat
+|   autorun.inf
+|   autorun.pif
+|   index.html
+|   
++---KNOPPIX
+|   |   KNOPPIX
+|   |   LICENSE.txt
+|   |   boot.cat
+|   |   md5sums
+|   |   
+|   +---knoppix-docs
+|   |       KNOPPIX-FAQ-EN.txt
+|   |       KNOPPIX-FAQ-ES.txt
+|   |       KNOPPIX-FAQ-FR.txt
+|   |       KNOPPIX-FAQ-IT.txt
+|   |       KNOPPIX-FAQ-NL.txt
+|   |       KNOPPIX-FAQ.txt
+|   |       README_Security.txt
+|   |       index_dk.html
+|   |       index_en.html
+|   |       index_fr.html
+|   |       index_it.html
+|   |       index_jp.html
+|   |       index_nl.html
+|   |       index_ru.html
+|   |       knoppix-cheatcodes.txt
+|   |       knoppix-version
+|   |       md5sums
+|   |       mkimg-src.zip
+|   |       
+|   \---utils
+|           MkImage-ct.exe
+|           mkimg-de.exe
+|           
++---boot
+|   \---isolinux
+|           boot.cat
+|           boot.msg
+|           boot030.msg
+|           f2
+|           f2~
+|           f3
+|           f3~
+|           f4
+|           f4~
+|           f5
+|           f5~
+|           isolinux-rt.cfg
+|           isolinux.bin
+|           isolinux.cfg
+|           isolinux.cfg-orig
+|           isolinux.cfg-plantilla.txt
+|           isolinux.cfg-plantilla.txt~
+|           isolinux.cfg~
+|           isolinux030.cfg
+|           isolinux_040b6.cfg
+|           linux
+|           linuxrt
+|           logo.16
+|           logo023.16
+|           logo031.16
+|           logo039.16
+|           memtest
+|           minirt.gz
+|           minirtrt.gz
+|           spanish.kbd
+|           
+\---wiki-images
+        BIOS-cdrom.jpg
+        gamix-line-sblive.png
+        gnome-alsamixer.png
+        isolinux-040.jpg
+        jack-audigy.jpg
+        kcontrol.jpg
+        proceso-inicio-hardware.png
+        proceso-inicio-opciones-escritorio.png
+        proceso-inicio-xmms.jpg
+        

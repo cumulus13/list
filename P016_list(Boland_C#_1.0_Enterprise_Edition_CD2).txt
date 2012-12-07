@@ -1,0 +1,233 @@
+ Volume in drive F is My Disc
+ Volume Serial Number is 6DC3-A6FD
+
+ Directory of F:\
+
+08/04/2007  02:36 AM    <DIR>          optimizeit
+08/04/2007  02:36 AM    <DIR>          StarTeam
+08/04/2007  02:36 AM             1,209 MSDEInfo.txt
+08/04/2007  02:36 AM             6,251 MSDEInfo.rtf
+08/04/2007  02:36 AM    <DIR>          MSDE
+08/04/2007  02:36 AM    <DIR>          ISX
+08/04/2007  02:36 AM    <DIR>          CaliberRMSDK
+08/04/2007  02:36 AM    <DIR>          BDPBeta
+               2 File(s)          7,460 bytes
+
+ Directory of F:\optimizeit
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM             2,607 INSTALL.HTM
+08/04/2007  02:36 AM             7,331 RELNOTES.HTM
+08/04/2007  02:36 AM             2,431 SETUP.CSS
+08/04/2007  02:36 AM        25,185,646 SETUP.EXE
+               4 File(s)     25,198,015 bytes
+
+ Directory of F:\StarTeam
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM    <DIR>          Client
+08/04/2007  02:36 AM    <DIR>          Docs
+08/04/2007  02:36 AM    <DIR>          Readme
+08/04/2007  02:36 AM    <DIR>          Server
+08/04/2007  02:36 AM    <DIR>          StarGate
+08/04/2007  02:36 AM    <DIR>          Utility
+               0 File(s)              0 bytes
+
+ Directory of F:\StarTeam\Client
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM               118 DATA.TAG
+08/04/2007  02:36 AM                90 SETUP.INI
+08/04/2007  02:36 AM           165,400 Setup.bmp
+08/04/2007  02:36 AM            73,728 Setup.exe
+08/04/2007  02:36 AM            27,648 _ISDel.exe
+08/04/2007  02:36 AM            34,816 _Setup.dll
+08/04/2007  02:36 AM           296,674 _inst32i.ex_
+08/04/2007  02:36 AM           175,466 _sys1.cab
+08/04/2007  02:36 AM             3,887 _sys1.hdr
+08/04/2007  02:36 AM           250,586 _user1.cab
+08/04/2007  02:36 AM             4,664 _user1.hdr
+08/04/2007  02:36 AM        24,780,951 data1.cab
+08/04/2007  02:36 AM            31,087 data1.hdr
+08/04/2007  02:36 AM            23,541 lang.dat
+08/04/2007  02:36 AM               609 layout.bin
+08/04/2007  02:36 AM               450 os.dat
+08/04/2007  02:36 AM            72,592 setup.ins
+08/04/2007  02:36 AM                49 setup.lid
+              18 File(s)     25,942,356 bytes
+
+ Directory of F:\StarTeam\Docs
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM         1,080,356 52features.pdf
+08/04/2007  02:36 AM         2,254,695 STEuser.pdf
+08/04/2007  02:36 AM         5,046,481 admin.pdf
+08/04/2007  02:36 AM         1,054,188 adminMPX.pdf
+08/04/2007  02:36 AM            44,924 alldocs.pdf
+08/04/2007  02:36 AM         1,218,796 install.pdf
+08/04/2007  02:36 AM         1,564,008 stardisk.pdf
+08/04/2007  02:36 AM         1,715,364 start.pdf
+08/04/2007  02:36 AM         4,505,028 user.pdf
+08/04/2007  02:36 AM         2,255,019 workflow.pdf
+              10 File(s)     20,738,859 bytes
+
+ Directory of F:\StarTeam\Readme
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM               346 MPXicon.bmp
+08/04/2007  02:36 AM            35,168 New_Topic.htm
+08/04/2007  02:36 AM            10,429 STEreadme.htm
+08/04/2007  02:36 AM            88,865 StarTeam_Release_Notes.htm
+08/04/2007  02:36 AM               231 _blank.htm
+08/04/2007  02:36 AM            71,843 bsscdhtm.js
+08/04/2007  02:36 AM               199 bsscnav1.gif
+08/04/2007  02:36 AM               190 bsscnav2.gif
+08/04/2007  02:36 AM               231 bsscnav3.gif
+08/04/2007  02:36 AM               159 bsscnav4.gif
+08/04/2007  02:36 AM               159 bsscnav5.gif
+08/04/2007  02:36 AM               260 bsscnav6.gif
+08/04/2007  02:36 AM               161 bsscnav7.gif
+08/04/2007  02:36 AM               162 bsscnav8.gif
+08/04/2007  02:36 AM            15,937 bsscnbar.js
+08/04/2007  02:36 AM             1,121 bssctab0.gif
+08/04/2007  02:36 AM               237 bssctab1.gif
+08/04/2007  02:36 AM               226 bssctab2.gif
+08/04/2007  02:36 AM               209 bssctab3.gif
+08/04/2007  02:36 AM               198 bssctab4.gif
+08/04/2007  02:36 AM               221 bssctab5.gif
+08/04/2007  02:36 AM               212 bssctab6.gif
+08/04/2007  02:36 AM               945 bssctoc1.gif
+08/04/2007  02:36 AM               959 bssctoc2.gif
+08/04/2007  02:36 AM               155 bssctoc3.gif
+08/04/2007  02:36 AM               947 bssctoc4.gif
+08/04/2007  02:36 AM             5,558 default.css
+08/04/2007  02:36 AM             2,963 default_ns.css
+08/04/2007  02:36 AM            49,892 ehlpdht1.js
+08/04/2007  02:36 AM            70,762 ehlpdht2.js
+08/04/2007  02:36 AM           120,406 ehlpdhtm.js
+08/04/2007  02:36 AM               346 mpxDISABLED.bmp
+08/04/2007  02:36 AM               246 mpxDISCONNECTED.bmp
+08/04/2007  02:36 AM             3,440 navframe.htm
+08/04/2007  02:36 AM             1,669 navpane1.htm
+08/04/2007  02:36 AM             6,999 navpane2.htm
+08/04/2007  02:36 AM             1,193 nsdnsfix.htm
+08/04/2007  02:36 AM             2,928 nsdnsfix.jar
+08/04/2007  02:36 AM               751 readme.ftp
+08/04/2007  02:36 AM             2,264 readme.hhc
+08/04/2007  02:36 AM             1,300 readme.hhc.zip
+08/04/2007  02:36 AM               186 readme.hhk
+08/04/2007  02:36 AM               248 readme.hhk.zip
+08/04/2007  02:36 AM             6,807 readme.htm
+08/04/2007  02:36 AM             5,512 readme_csh.htm
+08/04/2007  02:36 AM               654 tabframe.htm
+08/04/2007  02:36 AM             5,719 tocdhtml.htm
+08/04/2007  02:36 AM             3,318 toclist.htm
+08/04/2007  02:36 AM            68,159 webhelp.cab
+08/04/2007  02:36 AM            95,385 webhelp.jar
+08/04/2007  02:36 AM             2,383 webhelp.res
+08/04/2007  02:36 AM           191,806 webhelp.zip
+08/04/2007  02:36 AM            60,658 webhelp0.cab
+08/04/2007  02:36 AM           174,168 webhelp0.zip
+08/04/2007  02:36 AM            61,027 webhelp4.js
+              55 File(s)      1,176,517 bytes
+
+ Directory of F:\StarTeam\Server
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM               130 DATA.TAG
+08/04/2007  02:36 AM                97 SETUP.INI
+08/04/2007  02:36 AM           156,160 Server.dll
+08/04/2007  02:36 AM            73,728 Setup.exe
+08/04/2007  02:36 AM            27,648 _ISDel.exe
+08/04/2007  02:36 AM            34,816 _Setup.dll
+08/04/2007  02:36 AM           296,674 _inst32i.ex_
+08/04/2007  02:36 AM           175,466 _sys1.cab
+08/04/2007  02:36 AM             3,887 _sys1.hdr
+08/04/2007  02:36 AM           251,188 _user1.cab
+08/04/2007  02:36 AM             4,662 _user1.hdr
+08/04/2007  02:36 AM        38,224,751 data1.cab
+08/04/2007  02:36 AM           141,082 data1.hdr
+08/04/2007  02:36 AM            23,541 lang.dat
+08/04/2007  02:36 AM               629 layout.bin
+08/04/2007  02:36 AM               450 os.dat
+08/04/2007  02:36 AM           165,400 setup.bmp
+08/04/2007  02:36 AM            74,859 setup.ins
+08/04/2007  02:36 AM                49 setup.lid
+              19 File(s)     39,655,217 bytes
+
+ Directory of F:\StarTeam\StarGate
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM    <DIR>          Runtime
+               0 File(s)              0 bytes
+
+ Directory of F:\StarTeam\StarGate\Runtime
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM        10,816,090 StarGate-runtime.exe
+               1 File(s)     10,816,090 bytes
+
+ Directory of F:\StarTeam\Utility
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM    <DIR>          Common Controls
+08/04/2007  02:36 AM    <DIR>          Java VM
+08/04/2007  02:36 AM    <DIR>          ODBC
+08/04/2007  02:36 AM    <DIR>          WinSock
+               0 File(s)              0 bytes
+
+ Directory of F:\StarTeam\Utility\Common Controls
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM           509,984 50comupd.exe
+               1 File(s)        509,984 bytes
+
+ Directory of F:\StarTeam\Utility\Java VM
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM         5,369,952 j2re-1_3_1_01-win.exe
+08/04/2007  02:36 AM         9,097,344 j2re-1_3_1_03-win-i.exe
+08/04/2007  02:36 AM         5,088,456 j2re1_3_0-win.exe
+08/04/2007  02:36 AM         5,438,096 msjavx86.exe
+               4 File(s)     24,993,848 bytes
+
+ Directory of F:\StarTeam\Utility\ODBC
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM         7,930,960 mdac_typ.exe
+               1 File(s)      7,930,960 bytes
+
+ Directory of F:\StarTeam\Utility\WinSock
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM           986,400 WS2SETUP.EXE
+               1 File(s)        986,400 bytes
+
+ Directory of F:\MSDE
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM        44,358,632 msdesp3a.exe
+               1 File(s)     44,358,632 bytes
+
+ Directory of F:\ISX
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM       117,776,261 Express401_BorlandLE.exe
+               1 File(s)    117,776,261 bytes
+
+ Directory of F:\CaliberRMSDK
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM        19,669,056 CaliberRMSDK v3.0.189.exe
+               1 File(s)     19,669,056 bytes
+
+ Directory of F:\BDPBeta
+
+08/04/2007  02:36 AM    <DIR>          .
+08/04/2007  02:36 AM            57,344 Borland.Data.Msacc.dll
+08/04/2007  02:36 AM            91,648 bdpmsa.dll
+               2 File(s)        148,992 bytes
+
+     Total Files Listed:
+             121 File(s)    339,908,647 bytes
+              34 Dir(s)               0 bytes free

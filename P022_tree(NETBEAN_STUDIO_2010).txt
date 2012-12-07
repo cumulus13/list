@@ -1,0 +1,1202 @@
+Folder PATH listing for volume P022
+Volume serial number is 4093-1D60
+J:\
+|   coyote-nbms-060308.zip
+|   netbeans-6.5-python-windows.exe
+|   netbeans-6.7-python-windows.exe
+|   netbeans-6.8-ml-javafx-windows.exe
+|   netbeans-6.8-ml-windows.exe
+|   org-jymc-jpydbgfornetbeans-0.0.18-5-1.nbm
+|   org-jymc-jpydbgfornetbeans-0.0.18-5-1.zip
+|   org-python-pythonedit-1.1.nbm
+|   org-python-pythonedit-1.1.zip
+|   
++---JavaFX
+|   |   javafx_production_suite-1_2-windows-i586.exe
+|   |   javafx_sdk-1_2_1-windows-i586.exe
+|   |   netbeans-6_7_1-javafx_sdk-1_2-windows-i586.exe
+|   |   
+|   \---SAMPLE
+|       |   AsyncProgress.zip
+|       |   AudioConfig.zip
+|       |   AudioPlayer1.zip
+|       |   AudioPlayer3.zip
+|       |   AudioPlayer4.zip
+|       |   BasicMoviePlayer.zip
+|       |   BasicMoviePlayer_2.zip
+|       |   BookStoreFX.zip
+|       |   CenterTitleExample.zip
+|       |   Chapter02.zip
+|       |   Chapter04.zip
+|       |   ChartDemo.zip
+|       |   ChartIntro.zip
+|       |   ColorPickerNode.zip
+|       |   JFXPicker.zip
+|       |   MarkMacumberFX_RssFeedExample.rar
+|       |   MarkMacumberFX_spacemissionfx.zip
+|       |   all.htm
+|       |   lagu.mp3
+|       |   
+|       +---AsyncProgress
+|       |   \---AsyncProgress
+|       |       |   build.xml
+|       |       |   manifest.mf
+|       |       |   
+|       |       +---build
+|       |       |   +---compiled
+|       |       |   |   +---com
+|       |       |   |   |   \---sun
+|       |       |   |   |       \---javafx
+|       |       |   |   |           \---runtime
+|       |       |   |   |               \---main
+|       |       |   |   |                       Main.class
+|       |       |   |   |                       
+|       |       |   |   \---projavafx
+|       |       |   |       \---asyncprogress
+|       |       |   |           +---model
+|       |       |   |           |       TaskController$1.class
+|       |       |   |           |       TaskController$_SBECL.class
+|       |       |   |           |       TaskController.class
+|       |       |   |           |       Ticker$1.class
+|       |       |   |           |       Ticker.class
+|       |       |   |           |       TickerHandler.class
+|       |       |   |           |       
+|       |       |   |           \---ui
+|       |       |   |                   AsyncProgressMain$1.class
+|       |       |   |                   AsyncProgressMain$2.class
+|       |       |   |                   AsyncProgressMain$3.class
+|       |       |   |                   AsyncProgressMain$_SBECL.class
+|       |       |   |                   AsyncProgressMain.class
+|       |       |   |                   AsyncProgressMain_MIDlet.class
+|       |       |   |                   
+|       |       |   +---generated
+|       |       |   |   \---projavafx
+|       |       |   |       \---asyncprogress
+|       |       |   |           \---ui
+|       |       |   |                   AsyncProgressMain_MIDlet.java
+|       |       |   |                   
+|       |       |   +---optimized
+|       |       |   |   +---com
+|       |       |   |   |   \---sun
+|       |       |   |   |       \---javafx
+|       |       |   |   |           \---runtime
+|       |       |   |   |               \---main
+|       |       |   |   |                       Main.class
+|       |       |   |   |                       
+|       |       |   |   \---projavafx
+|       |       |   |       \---asyncprogress
+|       |       |   |           +---model
+|       |       |   |           |       TaskController$1.class
+|       |       |   |           |       TaskController$_SBECL.class
+|       |       |   |           |       TaskController.class
+|       |       |   |           |       Ticker$1.class
+|       |       |   |           |       Ticker.class
+|       |       |   |           |       TickerHandler.class
+|       |       |   |           |       
+|       |       |   |           \---ui
+|       |       |   |                   AsyncProgressMain$1.class
+|       |       |   |                   AsyncProgressMain$2.class
+|       |       |   |                   AsyncProgressMain$3.class
+|       |       |   |                   AsyncProgressMain$_SBECL.class
+|       |       |   |                   AsyncProgressMain.class
+|       |       |   |                   AsyncProgressMain_MIDlet.class
+|       |       |   |                   
+|       |       |   \---verified
+|       |       |       +---com
+|       |       |       |   \---sun
+|       |       |       |       \---javafx
+|       |       |       |           \---runtime
+|       |       |       |               \---main
+|       |       |       |                       Main.class
+|       |       |       |                       
+|       |       |       \---projavafx
+|       |       |           \---asyncprogress
+|       |       |               +---model
+|       |       |               |       TaskController$1.class
+|       |       |               |       TaskController$_SBECL.class
+|       |       |               |       TaskController.class
+|       |       |               |       Ticker$1.class
+|       |       |               |       Ticker.class
+|       |       |               |       TickerHandler.class
+|       |       |               |       
+|       |       |               \---ui
+|       |       |                       AsyncProgressMain$1.class
+|       |       |                       AsyncProgressMain$2.class
+|       |       |                       AsyncProgressMain$3.class
+|       |       |                       AsyncProgressMain$_SBECL.class
+|       |       |                       AsyncProgressMain.class
+|       |       |                       AsyncProgressMain_MIDlet.class
+|       |       |                       
+|       |       +---dist
+|       |       |       Buttons.html
+|       |       |       Buttons.jad
+|       |       |       Buttons.jar
+|       |       |       Buttons.jnlp
+|       |       |       Buttons_browser.jnlp
+|       |       |       
+|       |       +---nbproject
+|       |       |   |   build-impl.xml
+|       |       |   |   genfiles.properties
+|       |       |   |   project.properties
+|       |       |   |   project.xml
+|       |       |   |   
+|       |       |   +---configs
+|       |       |   |       browser.properties
+|       |       |   |       mobile.properties
+|       |       |   |       webstart.properties
+|       |       |   |       
+|       |       |   \---private
+|       |       |           config.properties
+|       |       |           private.properties
+|       |       |           
+|       |       +---src
+|       |       |   \---projavafx
+|       |       |       \---asyncprogress
+|       |       |           +---model
+|       |       |           |       TaskController.fx
+|       |       |           |       Ticker.java
+|       |       |           |       TickerHandler.java
+|       |       |           |       
+|       |       |           \---ui
+|       |       |                   AsyncProgressMain.fx
+|       |       |                   
+|       |       \---test
+|       +---AudioConfig
+|       |   \---AudioConfig
+|       |       |   build.xml
+|       |       |   manifest.mf
+|       |       |   
+|       |       +---build
+|       |       |   |   AudioConfig.jar.pack
+|       |       |   |   
+|       |       |   \---compiled
+|       |       |       +---com
+|       |       |       |   \---sun
+|       |       |       |       \---javafx
+|       |       |       |           \---runtime
+|       |       |       |               \---main
+|       |       |       |                       Main.class
+|       |       |       |                       
+|       |       |       \---projavafx
+|       |       |           \---audioconfig
+|       |       |               +---model
+|       |       |               |       AudioConfigModel$1.class
+|       |       |               |       AudioConfigModel$_SBECL.class
+|       |       |               |       AudioConfigModel.class
+|       |       |               |       
+|       |       |               \---ui
+|       |       |                       AudioConfigMain$1.class
+|       |       |                       AudioConfigMain$_SBECL.class
+|       |       |                       AudioConfigMain.class
+|       |       |                       
+|       |       +---dist
+|       |       |       AudioConfig.html
+|       |       |       AudioConfig.jar
+|       |       |       AudioConfig.jar.pack.gz
+|       |       |       AudioConfig.jnlp
+|       |       |       AudioConfig_browser.jnlp
+|       |       |       
+|       |       +---nbproject
+|       |       |   |   build-impl.xml
+|       |       |   |   genfiles.properties
+|       |       |   |   project.properties
+|       |       |   |   project.xml
+|       |       |   |   
+|       |       |   \---private
+|       |       |           private.properties
+|       |       |           
+|       |       +---src
+|       |       |   \---projavafx
+|       |       |       \---audioconfig
+|       |       |           +---model
+|       |       |           |       AudioConfigModel.fx
+|       |       |           |       
+|       |       |           \---ui
+|       |       |                   AudioConfigMain.fx
+|       |       |                   
+|       |       \---test
+|       +---AudioPlayer1
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---audioplayer1
+|       |   |                   Main$1.class
+|       |   |                   Main.class
+|       |   |                   
+|       |   +---dist
+|       |   |       AudioPlayer1.html
+|       |   |       AudioPlayer1.jar
+|       |   |       AudioPlayer1.jnlp
+|       |   |       AudioPlayer1_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---audioplayer1
+|       |   |               Main.fx
+|       |   |               
+|       |   \---test
+|       +---AudioPlayer3
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---audioplayer3
+|       |   |               |   Main$1.class
+|       |   |               |   Main$_SBECL.class
+|       |   |               |   Main.class
+|       |   |               |   MediaPlayerControls$1.class
+|       |   |               |   MediaPlayerControls$2.class
+|       |   |               |   MediaPlayerControls$3.class
+|       |   |               |   MediaPlayerControls$4.class
+|       |   |               |   MediaPlayerControls$_SBECL.class
+|       |   |               |   MediaPlayerControls.class
+|       |   |               |   SimpleMediaPlayer$1.class
+|       |   |               |   SimpleMediaPlayer$2.class
+|       |   |               |   SimpleMediaPlayer$3.class
+|       |   |               |   SimpleMediaPlayer$4.class
+|       |   |               |   SimpleMediaPlayer$_SBECL.class
+|       |   |               |   SimpleMediaPlayer.class
+|       |   |               |   Slider$1.class
+|       |   |               |   Slider$_SBECL.class
+|       |   |               |   Slider.class
+|       |   |               |   SliderSkin$1.class
+|       |   |               |   SliderSkin$2.class
+|       |   |               |   SliderSkin$_SBECL.class
+|       |   |               |   SliderSkin.class
+|       |   |               |   audioPlayer.css
+|       |   |               |   
+|       |   |               \---resources
+|       |   |                       pause.png
+|       |   |                       play.png
+|       |   |                       repeat.png
+|       |   |                       
+|       |   +---dist
+|       |   |       AudioPlayer3.html
+|       |   |       AudioPlayer3.jar
+|       |   |       AudioPlayer3.jnlp
+|       |   |       AudioPlayer3_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---audioplayer3
+|       |   |           |   Main.fx
+|       |   |           |   MediaPlayerControls.fx
+|       |   |           |   SimpleMediaPlayer.fx
+|       |   |           |   Slider.fx
+|       |   |           |   SliderSkin.fx
+|       |   |           |   audioPlayer.css
+|       |   |           |   
+|       |   |           \---resources
+|       |   |                   pause.png
+|       |   |                   play.png
+|       |   |                   repeat.png
+|       |   |                   
+|       |   \---test
+|       +---AudioPlayer4
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---audioplayer4
+|       |   |               |   Main$1.class
+|       |   |               |   Main$_SBECL.class
+|       |   |               |   Main.class
+|       |   |               |   MediaPlayerControls$1.class
+|       |   |               |   MediaPlayerControls$2.class
+|       |   |               |   MediaPlayerControls$3.class
+|       |   |               |   MediaPlayerControls$4.class
+|       |   |               |   MediaPlayerControls$5.class
+|       |   |               |   MediaPlayerControls$_SBECL.class
+|       |   |               |   MediaPlayerControls.class
+|       |   |               |   SimpleMediaPlayer$1.class
+|       |   |               |   SimpleMediaPlayer$2.class
+|       |   |               |   SimpleMediaPlayer$3.class
+|       |   |               |   SimpleMediaPlayer$4.class
+|       |   |               |   SimpleMediaPlayer$_SBECL.class
+|       |   |               |   SimpleMediaPlayer.class
+|       |   |               |   Slider$1.class
+|       |   |               |   Slider$_SBECL.class
+|       |   |               |   Slider.class
+|       |   |               |   SliderSkin$1.class
+|       |   |               |   SliderSkin$2.class
+|       |   |               |   SliderSkin$_SBECL.class
+|       |   |               |   SliderSkin.class
+|       |   |               |   audioPlayer.css
+|       |   |               |   
+|       |   |               \---resources
+|       |   |                       pause.png
+|       |   |                       play.png
+|       |   |                       repeat.png
+|       |   |                       
+|       |   +---dist
+|       |   |       AudioPlayer4.html
+|       |   |       AudioPlayer4.jar
+|       |   |       AudioPlayer4.jnlp
+|       |   |       AudioPlayer4_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---audioplayer4
+|       |   |           |   Main.fx
+|       |   |           |   MediaPlayerControls.fx
+|       |   |           |   SimpleMediaPlayer.fx
+|       |   |           |   Slider.fx
+|       |   |           |   SliderSkin.fx
+|       |   |           |   audioPlayer.css
+|       |   |           |   
+|       |   |           \---resources
+|       |   |                   pause.png
+|       |   |                   play.png
+|       |   |                   repeat.png
+|       |   |                   
+|       |   \---test
+|       +---BasicMoviePlayer
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---basicmovieplayer
+|       |   |                   Main$1.class
+|       |   |                   Main$_SBECL.class
+|       |   |                   Main.class
+|       |   |                   
+|       |   +---dist
+|       |   |       BasicMoviePlayer.html
+|       |   |       BasicMoviePlayer.jar
+|       |   |       BasicMoviePlayer.jnlp
+|       |   |       BasicMoviePlayer_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---basicmovieplayer
+|       |   |               Main.fx
+|       |   |               
+|       |   \---test
+|       +---BookStoreFX
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   |   BookStoreFX.jar.pack
+|       |   |   |   
+|       |   |   +---compiled
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---projavafx
+|       |   |   |       \---bookstorefx
+|       |   |   |           +---model
+|       |   |   |           |   |   AmazonHttpRequest$1.class
+|       |   |   |           |   |   AmazonHttpRequest$2.class
+|       |   |   |           |   |   AmazonHttpRequest.class
+|       |   |   |           |   |   AmazonItemSearch$1.class
+|       |   |   |           |   |   AmazonItemSearch$2.class
+|       |   |   |           |   |   AmazonItemSearch.class
+|       |   |   |           |   |   AmazonTopSellers$1$1.class
+|       |   |   |           |   |   AmazonTopSellers$1.class
+|       |   |   |           |   |   AmazonTopSellers$2$1.class
+|       |   |   |           |   |   AmazonTopSellers$2$2.class
+|       |   |   |           |   |   AmazonTopSellers$2.class
+|       |   |   |           |   |   AmazonTopSellers.class
+|       |   |   |           |   |   BookStoreModel$1.class
+|       |   |   |           |   |   BookStoreModel$2.class
+|       |   |   |           |   |   BookStoreModel$3.class
+|       |   |   |           |   |   BookStoreModel$_SBECL$1.class
+|       |   |   |           |   |   BookStoreModel$_SBECL$2.class
+|       |   |   |           |   |   BookStoreModel$_SBECL.class
+|       |   |   |           |   |   BookStoreModel.class
+|       |   |   |           |   |   Category.class
+|       |   |   |           |   |   ImageCache.class
+|       |   |   |           |   |   ImageCacheImpl.class
+|       |   |   |           |   |   Item.class
+|       |   |   |           |   |   ItemParser$1.class
+|       |   |   |           |   |   ItemParser.class
+|       |   |   |           |   |   SortBy.class
+|       |   |   |           |   |   
+|       |   |   |           |   \---images
+|       |   |   |           |           loading150.png
+|       |   |   |           |           loading80.png
+|       |   |   |           |           
+|       |   |   |           \---ui
+|       |   |   |               |   BookStoreMain$1.class
+|       |   |   |               |   BookStoreMain$_SBECL.class
+|       |   |   |               |   BookStoreMain.class
+|       |   |   |               |   CartPage$1.class
+|       |   |   |               |   CartPage$_SBECL.class
+|       |   |   |               |   CartPage.class
+|       |   |   |               |   HomePage$1.class
+|       |   |   |               |   HomePage$10.class
+|       |   |   |               |   HomePage$11.class
+|       |   |   |               |   HomePage$12.class
+|       |   |   |               |   HomePage$13.class
+|       |   |   |               |   HomePage$14.class
+|       |   |   |               |   HomePage$15.class
+|       |   |   |               |   HomePage$16.class
+|       |   |   |               |   HomePage$17.class
+|       |   |   |               |   HomePage$18.class
+|       |   |   |               |   HomePage$2.class
+|       |   |   |               |   HomePage$3.class
+|       |   |   |               |   HomePage$4.class
+|       |   |   |               |   HomePage$5.class
+|       |   |   |               |   HomePage$6.class
+|       |   |   |               |   HomePage$7.class
+|       |   |   |               |   HomePage$8.class
+|       |   |   |               |   HomePage$9.class
+|       |   |   |               |   HomePage$_SBECL.class
+|       |   |   |               |   HomePage.class
+|       |   |   |               |   ItemCarousel$1.class
+|       |   |   |               |   ItemCarousel$_SBECL.class
+|       |   |   |               |   ItemCarousel.class
+|       |   |   |               |   ItemDetails$1$1.class
+|       |   |   |               |   ItemDetails$1$2.class
+|       |   |   |               |   ItemDetails$1.class
+|       |   |   |               |   ItemDetails$_SBECL.class
+|       |   |   |               |   ItemDetails.class
+|       |   |   |               |   ItemStack$1.class
+|       |   |   |               |   ItemStack$_SBECL.class
+|       |   |   |               |   ItemStack.class
+|       |   |   |               |   ItemSummary$1.class
+|       |   |   |               |   ItemSummary$2.class
+|       |   |   |               |   ItemSummary$3.class
+|       |   |   |               |   ItemSummary$_SBECL.class
+|       |   |   |               |   ItemSummary.class
+|       |   |   |               |   MoneyBagUI.class
+|       |   |   |               |   NodeFactory$1.class
+|       |   |   |               |   NodeFactory.class
+|       |   |   |               |   SearchBox$1.class
+|       |   |   |               |   SearchBox$_SBECL.class
+|       |   |   |               |   SearchBox.class
+|       |   |   |               |   SearchPage$1.class
+|       |   |   |               |   SearchPage$2.class
+|       |   |   |               |   SearchPage$_SBECL.class
+|       |   |   |               |   SearchPage.class
+|       |   |   |               |   SlideDeck$1.class
+|       |   |   |               |   SlideDeck$TimelineTracker.class
+|       |   |   |               |   SlideDeck$_SBECL$1.class
+|       |   |   |               |   SlideDeck$_SBECL.class
+|       |   |   |               |   SlideDeck.class
+|       |   |   |               |   Slider$1.class
+|       |   |   |               |   Slider$_SBECL.class
+|       |   |   |               |   Slider.class
+|       |   |   |               |   SliderSkin$1.class
+|       |   |   |               |   SliderSkin$2.class
+|       |   |   |               |   SliderSkin$_SBECL.class
+|       |   |   |               |   SliderSkin.class
+|       |   |   |               |   bookStoreStyles.css
+|       |   |   |               |   
+|       |   |   |               \---res
+|       |   |   |                       bookStoreAssets.fxz
+|       |   |   |                       homePage.fxz
+|       |   |   |                       moneyBag.fxz
+|       |   |   |                       
+|       |   |   \---lib
+|       |   |           JFXtras-0.5.jar.pack
+|       |   |           miglayout-3.7.jar.pack
+|       |   |           
+|       |   +---dist
+|       |   |   |   BookStoreFX.html
+|       |   |   |   BookStoreFX.jar
+|       |   |   |   BookStoreFX.jar.pack.gz
+|       |   |   |   BookStoreFX.jnlp
+|       |   |   |   BookStoreFX_browser.jnlp
+|       |   |   |   
+|       |   |   \---lib
+|       |   |           JFXtras-0.5.jar
+|       |   |           JFXtras-0.5.jar.pack.gz
+|       |   |           miglayout-3.7.jar
+|       |   |           miglayout-3.7.jar.pack.gz
+|       |   |           
+|       |   +---lib
+|       |   |       JFXtras-0.5.jar
+|       |   |       miglayout-3.7.jar
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           
+|       |   +---src
+|       |   |   +---com
+|       |   |   |   \---javafxpert
+|       |   |   |       \---custom_node
+|       |   |   \---projavafx
+|       |   |       \---bookstorefx
+|       |   |           +---model
+|       |   |           |   |   AmazonHttpRequest.fx
+|       |   |           |   |   AmazonItemSearch.fx
+|       |   |           |   |   AmazonTopSellers.fx
+|       |   |           |   |   BookStoreModel.fx
+|       |   |           |   |   Category.java
+|       |   |           |   |   ImageCache.fx
+|       |   |           |   |   ImageCacheImpl.java
+|       |   |           |   |   Item.fx
+|       |   |           |   |   ItemParser.fx
+|       |   |           |   |   SortBy.java
+|       |   |           |   |   
+|       |   |           |   \---images
+|       |   |           |           loading150.png
+|       |   |           |           loading80.png
+|       |   |           |           
+|       |   |           \---ui
+|       |   |               |   BookStoreMain.fx
+|       |   |               |   CartPage.fx
+|       |   |               |   HomePage.fx
+|       |   |               |   ItemCarousel.fx
+|       |   |               |   ItemDetails.fx
+|       |   |               |   ItemStack.fx
+|       |   |               |   ItemSummary.fx
+|       |   |               |   MoneyBagUI.fx
+|       |   |               |   NodeFactory.fx
+|       |   |               |   SearchBox.fx
+|       |   |               |   SearchPage.fx
+|       |   |               |   SlideDeck.fx
+|       |   |               |   Slider.fx
+|       |   |               |   SliderSkin.fx
+|       |   |               |   bookStoreStyles.css
+|       |   |               |   
+|       |   |               \---res
+|       |   |                       bookStoreAssets.fxz
+|       |   |                       homePage.fxz
+|       |   |                       moneyBag.fxz
+|       |   |                       
+|       |   \---test
+|       +---CenterTitleExample
+|       |   |   .classpath
+|       |   |   .project
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---.settings
+|       |   |       org.eclipse.jdt.core.prefs
+|       |   |       
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---reversi
+|       |   |               \---examples
+|       |   |                       CenterTitleExample$1.class
+|       |   |                       CenterTitleExample$_SBECL.class
+|       |   |                       CenterTitleExample.class
+|       |   |                       
+|       |   +---dist
+|       |   |       CenterTitleExample.html
+|       |   |       CenterTitleExample.jar
+|       |   |       CenterTitleExample.jnlp
+|       |   |       CenterTitleExample_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---reversi
+|       |   |           \---examples
+|       |   |                   CenterTitleExample.fx
+|       |   |                   
+|       |   \---test
+|       +---Chapter02
+|       |       AccessingInstanceVariables.fx
+|       |       BasicExpressions.fx
+|       |       DataBindings.fx
+|       |       DeclaringVariablesWithTypes.fx
+|       |       DeclaringVariablesWithoutTypes.fx
+|       |       ExercisingBoolean.fx
+|       |       ExercisingDurations.fx
+|       |       ExercisingIntegers.fx
+|       |       ExercisingNumbers.fx
+|       |       ExercisingSequences.fx
+|       |       ExercisingStrings.fx
+|       |       InvokingInstanceFunctions.fx
+|       |       LoopingAndConditional.fx
+|       |       ManipulatingSequences.fx
+|       |       MemberOverride.fx
+|       |       ObjectLiteral.fx
+|       |       SequenceComprehension.fx
+|       |       SequenceUtilityFunctions.fx
+|       |       
+|       +---ChartDemo
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   +---compiled
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartdemo
+|       |   |   |               ChartDemoModel.class
+|       |   |   |               ChartViewer$1.class
+|       |   |   |               ChartViewer$2.class
+|       |   |   |               ChartViewer$3.class
+|       |   |   |               ChartViewer$4.class
+|       |   |   |               ChartViewer$_SBECL.class
+|       |   |   |               ChartViewer.class
+|       |   |   |               Main.class
+|       |   |   |               Main_MIDlet.class
+|       |   |   |               
+|       |   |   +---generated
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartdemo
+|       |   |   |               Main_MIDlet.java
+|       |   |   |               
+|       |   |   +---optimized
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartdemo
+|       |   |   |               ChartDemoModel.class
+|       |   |   |               ChartViewer$1.class
+|       |   |   |               ChartViewer$2.class
+|       |   |   |               ChartViewer$3.class
+|       |   |   |               ChartViewer$4.class
+|       |   |   |               ChartViewer$_SBECL.class
+|       |   |   |               ChartViewer.class
+|       |   |   |               Main.class
+|       |   |   |               Main_MIDlet.class
+|       |   |   |               
+|       |   |   \---verified
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---chartdemo
+|       |   |                   ChartDemoModel.class
+|       |   |                   ChartViewer$1.class
+|       |   |                   ChartViewer$2.class
+|       |   |                   ChartViewer$3.class
+|       |   |                   ChartViewer$4.class
+|       |   |                   ChartViewer$_SBECL.class
+|       |   |                   ChartViewer.class
+|       |   |                   Main.class
+|       |   |                   Main_MIDlet.class
+|       |   |                   
+|       |   +---dist
+|       |   |       ChartDemo.html
+|       |   |       ChartDemo.jad
+|       |   |       ChartDemo.jar
+|       |   |       ChartDemo.jnlp
+|       |   |       ChartDemo_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       mobile.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           config.properties
+|       |   |           private.properties
+|       |   |           
+|       |   \---src
+|       |       \---projavafx
+|       |           \---chartdemo
+|       |                   ChartDemoModel.fx
+|       |                   ChartViewer.fx
+|       |                   Main.fx
+|       |                   
+|       +---ChartIntro
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   +---compiled
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartintro
+|       |   |   |               BarChartIntro.class
+|       |   |   |               BarChartIntro_MIDlet.class
+|       |   |   |               InteractiveBarChartIntro$1.class
+|       |   |   |               InteractiveBarChartIntro$2.class
+|       |   |   |               InteractiveBarChartIntro$3.class
+|       |   |   |               InteractiveBarChartIntro.class
+|       |   |   |               LineAreaChartIntro$1.class
+|       |   |   |               LineAreaChartIntro.class
+|       |   |   |               PieChartIntro.class
+|       |   |   |               ScatterBubbleChartIntro$1.class
+|       |   |   |               ScatterBubbleChartIntro.class
+|       |   |   |               
+|       |   |   +---generated
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartintro
+|       |   |   |               BarChartIntro_MIDlet.java
+|       |   |   |               
+|       |   |   +---optimized
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---projavafx
+|       |   |   |       \---chartintro
+|       |   |   |               BarChartIntro.class
+|       |   |   |               BarChartIntro_MIDlet.class
+|       |   |   |               InteractiveBarChartIntro$1.class
+|       |   |   |               InteractiveBarChartIntro$2.class
+|       |   |   |               InteractiveBarChartIntro$3.class
+|       |   |   |               InteractiveBarChartIntro.class
+|       |   |   |               LineAreaChartIntro$1.class
+|       |   |   |               LineAreaChartIntro.class
+|       |   |   |               PieChartIntro.class
+|       |   |   |               ScatterBubbleChartIntro$1.class
+|       |   |   |               ScatterBubbleChartIntro.class
+|       |   |   |               
+|       |   |   \---verified
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---chartintro
+|       |   |                   BarChartIntro.class
+|       |   |                   BarChartIntro_MIDlet.class
+|       |   |                   InteractiveBarChartIntro$1.class
+|       |   |                   InteractiveBarChartIntro$2.class
+|       |   |                   InteractiveBarChartIntro$3.class
+|       |   |                   InteractiveBarChartIntro.class
+|       |   |                   LineAreaChartIntro$1.class
+|       |   |                   LineAreaChartIntro.class
+|       |   |                   PieChartIntro.class
+|       |   |                   ScatterBubbleChartIntro$1.class
+|       |   |                   ScatterBubbleChartIntro.class
+|       |   |                   
+|       |   +---dist
+|       |   |       ChartIntro.html
+|       |   |       ChartIntro.jad
+|       |   |       ChartIntro.jar
+|       |   |       ChartIntro.jnlp
+|       |   |       ChartIntro_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       mobile.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           config.properties
+|       |   |           private.properties
+|       |   |           
+|       |   \---src
+|       |       \---projavafx
+|       |           \---chartintro
+|       |                   BarChartIntro.fx
+|       |                   InteractiveBarChartIntro.fx
+|       |                   LineAreaChartIntro.fx
+|       |                   PieChartIntro.fx
+|       |                   ScatterBubbleChartIntro.fx
+|       |                   
+|       +---ColorPickerNode
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---projavafx
+|       |   |           \---colorpicker
+|       |   |               \---ui
+|       |   |                       ColorPickerMain.class
+|       |   |                       ColorPickerNode$1$1$1.class
+|       |   |                       ColorPickerNode$1$1.class
+|       |   |                       ColorPickerNode$1.class
+|       |   |                       ColorPickerNode$_SBECL.class
+|       |   |                       ColorPickerNode.class
+|       |   |                       
+|       |   +---dist
+|       |   |       ColorPickerNode.html
+|       |   |       ColorPickerNode.jar
+|       |   |       ColorPickerNode.jnlp
+|       |   |       ColorPickerNode_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       mobile.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           private.properties
+|       |   |           
+|       |   +---src
+|       |   |   \---projavafx
+|       |   |       \---colorpicker
+|       |   |           \---ui
+|       |   |                   ColorPickerMain.fx
+|       |   |                   ColorPickerNode.fx
+|       |   |                   
+|       |   \---test
+|       +---JFXPicker
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   \---compiled
+|       |   |       \---picker
+|       |   |               PickerType.class
+|       |   |               
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       mobile.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           config.properties
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   \---src
+|       |       \---picker
+|       |               Main.fx
+|       |               Picker.fx
+|       |               PickerBehavior.fx
+|       |               PickerSkin.fx
+|       |               PickerType.java
+|       |               
+|       +---MarkMacumberFX_spacemissionfx
+|       |   |   SpaceMissionFX.jar
+|       |   |   build-before-profiler.xml
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---src
+|       |   |   \---spacemissionfx
+|       |   |       |   Asteroid.fx
+|       |   |       |   Main.fx
+|       |   |       |   Rocket.fx
+|       |   |       |   SpaceShip.fx
+|       |   |       |   Star.fx
+|       |   |       |   
+|       |   |       +---display
+|       |   |       |       FloatingWord.fx
+|       |   |       |       GameOverPanel.fx
+|       |   |       |       
+|       |   |       \---explosions
+|       |   |               Explosion.fx
+|       |   |               Particle.fx
+|       |   |               Point2D.fx
+|       |   |               
+|       |   \---test
+|       +---Project
+|       |   \---NetBeansProjects
+|       |       \---Color_Wheel
+|       |           |   build.xml
+|       |           |   manifest.mf
+|       |           |   
+|       |           +---build
+|       |           |   \---compiled
+|       |           |       +---color
+|       |           |       |       ColorWheel$ColorWheelNode.class
+|       |           |       |       ColorWheel.class
+|       |           |       |       
+|       |           |       \---com
+|       |           |           \---sun
+|       |           |               \---javafx
+|       |           |                   \---runtime
+|       |           |                       \---main
+|       |           |                               Main.class
+|       |           |                               
+|       |           +---dist
+|       |           |       Color_Wheel.html
+|       |           |       Color_Wheel.jar
+|       |           |       Color_Wheel.jnlp
+|       |           |       Color_Wheel_browser.jnlp
+|       |           |       
+|       |           +---nbproject
+|       |           |   |   build-impl.xml
+|       |           |   |   genfiles.properties
+|       |           |   |   project.properties
+|       |           |   |   project.xml
+|       |           |   |   
+|       |           |   \---private
+|       |           |           private.properties
+|       |           |           private.xml
+|       |           |           
+|       |           \---src
+|       |               \---color
+|       |                       ColorWheel.fx
+|       |                       
+|       +---RssFeedExample
+|       |   |   build.xml
+|       |   |   manifest.mf
+|       |   |   
+|       |   +---build
+|       |   |   +---compiled
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---rssfeedexample
+|       |   |   |           Main$1.class
+|       |   |   |           Main$2.class
+|       |   |   |           Main$3.class
+|       |   |   |           Main$4.class
+|       |   |   |           Main$RssRectangleItem$1.class
+|       |   |   |           Main$RssRectangleItem.class
+|       |   |   |           Main$_SBECL.class
+|       |   |   |           Main.class
+|       |   |   |           Main_MIDlet.class
+|       |   |   |           feedIcon.png
+|       |   |   |           
+|       |   |   +---generated
+|       |   |   |   \---rssfeedexample
+|       |   |   |           Main_MIDlet.java
+|       |   |   |           
+|       |   |   +---optimized
+|       |   |   |   +---com
+|       |   |   |   |   \---sun
+|       |   |   |   |       \---javafx
+|       |   |   |   |           \---runtime
+|       |   |   |   |               \---main
+|       |   |   |   |                       Main.class
+|       |   |   |   |                       
+|       |   |   |   \---rssfeedexample
+|       |   |   |           Main$1.class
+|       |   |   |           Main$2.class
+|       |   |   |           Main$3.class
+|       |   |   |           Main$4.class
+|       |   |   |           Main$RssRectangleItem$1.class
+|       |   |   |           Main$RssRectangleItem.class
+|       |   |   |           Main$_SBECL.class
+|       |   |   |           Main.class
+|       |   |   |           Main_MIDlet.class
+|       |   |   |           feedIcon.png
+|       |   |   |           
+|       |   |   \---verified
+|       |   |       +---com
+|       |   |       |   \---sun
+|       |   |       |       \---javafx
+|       |   |       |           \---runtime
+|       |   |       |               \---main
+|       |   |       |                       Main.class
+|       |   |       |                       
+|       |   |       \---rssfeedexample
+|       |   |               Main$1.class
+|       |   |               Main$2.class
+|       |   |               Main$3.class
+|       |   |               Main$4.class
+|       |   |               Main$RssRectangleItem$1.class
+|       |   |               Main$RssRectangleItem.class
+|       |   |               Main$_SBECL.class
+|       |   |               Main.class
+|       |   |               Main_MIDlet.class
+|       |   |               feedIcon.png
+|       |   |               
+|       |   +---dist
+|       |   |       RssFeedExample.html
+|       |   |       RssFeedExample.jad
+|       |   |       RssFeedExample.jar
+|       |   |       RssFeedExample.jnlp
+|       |   |       RssFeedExample_browser.jnlp
+|       |   |       
+|       |   +---nbproject
+|       |   |   |   build-impl.xml
+|       |   |   |   genfiles.properties
+|       |   |   |   project.properties
+|       |   |   |   project.xml
+|       |   |   |   
+|       |   |   +---configs
+|       |   |   |       browser.properties
+|       |   |   |       mobile.properties
+|       |   |   |       webstart.properties
+|       |   |   |       
+|       |   |   \---private
+|       |   |           config.properties
+|       |   |           private.properties
+|       |   |           private.xml
+|       |   |           
+|       |   \---src
+|       |       \---rssfeedexample
+|       |               Main.fx
+|       |               feedIcon.png
+|       |               
+|       \---all_files
+|               barebone.jsp
+|               css.css
+|               css_002.css
+|               css_003.css
+|               ga.js
+|               image_gallery.jpeg
+|               javascript.js
+|               main.css
+|               rss.png
+|               
+\---coyote-nbms-060308
+    \---coyote-060308
+            antlr.nbm
+            org-netbeans-modules-coyote-common.nbm
+            org-netbeans-modules-coyote-groovy.nbm
+            org-netbeans-modules-coyote-groovyproject.nbm
+            org-netbeans-modules-coyote-jython.nbm
+            org-netbeans-modules-coyote-jythonproject.nbm
+            org-netbeans-modules-lexer-editorbridge.nbm
+            org-netbeans-modules-lexer.nbm
+            

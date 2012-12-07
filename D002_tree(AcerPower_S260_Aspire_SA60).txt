@@ -1,0 +1,1993 @@
+Folder PATH listing for volume ResourceCD
+Volume serial number is 1B89-822B
+G:\
+|   acer.ico
+|   Autorun.exe
+|   AUTORUN.INF
+|   ery.DAT
+|   RECOVERY.EXE
+|   SCD.DAT
+|   STCDInfo.ini
+|   
++---ACER
+|   +---RECOVERY
+|   |   +---CTRLINI
+|   |   |       command.ini
+|   |   |       
+|   |   \---UI
+|   |       +---ALL
+|   |       |       BkGdImg.PCX
+|   |       |       CheckBut.pcx
+|   |       |       Dialogbx.pcx
+|   |       |       Dlgbar.pcx
+|   |       |       DlgMode.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgresiz.pcx
+|   |       |       enter.pcx
+|   |       |       ICONExit.pcx
+|   |       |       IconExts.pcx
+|   |       |       Iconhdrb.pcx
+|   |       |       LangAR.pcx
+|   |       |       LangCS.pcx
+|   |       |       LangCZ.pcx
+|   |       |       LangDA.pcx
+|   |       |       LangDE.pcx
+|   |       |       LangDK.pcx
+|   |       |       LangEL.pcx
+|   |       |       LangEN.pcx
+|   |       |       LangES.pcx
+|   |       |       LangFI.pcx
+|   |       |       LangFR.pcx
+|   |       |       LangGR.pcx
+|   |       |       LangHE.pcx
+|   |       |       LangHU.pcx
+|   |       |       LangIT.pcx
+|   |       |       LangJA.pcx
+|   |       |       LangJP.pcx
+|   |       |       LangKO.pcx
+|   |       |       LangNL.pcx
+|   |       |       LangNO.pcx
+|   |       |       LangPL.pcx
+|   |       |       LangPO.pcx
+|   |       |       LangPT.pcx
+|   |       |       LangRU.pcx
+|   |       |       LangSC.pcx
+|   |       |       LangSK.pcx
+|   |       |       LangSL.pcx
+|   |       |       LangSP.pcx
+|   |       |       LangSU.pcx
+|   |       |       LangSV.pcx
+|   |       |       LangTC.pcx
+|   |       |       LangTH.pcx
+|   |       |       LangTR.pcx
+|   |       |       LangTW.pcx
+|   |       |       LangUK.pcx
+|   |       |       LangUS.pcx
+|   |       |       LangXC.pcx
+|   |       |       LangZH.pcx
+|   |       |       Pointer.pcx
+|   |       |       scroll.pcx
+|   |       |       SLMenu.pcx
+|   |       |       WarnP.pcx
+|   |       |       WarnP0.pcx
+|   |       |       
+|   |       +---DE
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       Dlgcd2.pcx
+|   |       |       Dlgcdejt.pcx
+|   |       |       Dlgcdout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       DlgPatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---EN
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       DlgCD1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---ES
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       Dlgcd2.pcx
+|   |       |       Dlgcdejt.pcx
+|   |       |       Dlgcdout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       DlgPatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---FR
+|   |       |       bartxt.pcx
+|   |       |       BT_C.pcx
+|   |       |       BT_Y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---IT
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---JA
+|   |       |       Bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       Dlgcd2.pcx
+|   |       |       Dlgcdejt.pcx
+|   |       |       Dlgcdout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgLic.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       DlgPatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       Resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---NL
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---PT
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---SC
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       +---SV
+|   |       |       bartxt.pcx
+|   |       |       Bt_c.pcx
+|   |       |       Bt_y.pcx
+|   |       |       cdsts1.pcx
+|   |       |       cdsts2.pcx
+|   |       |       cdsts3.pcx
+|   |       |       Dlgcd1.pcx
+|   |       |       DlgCD2.pcx
+|   |       |       DlgCDEjt.pcx
+|   |       |       DlgCDout.pcx
+|   |       |       Dlgdiflg.pcx
+|   |       |       Dlghrb.pcx
+|   |       |       DlghrbM.pcx
+|   |       |       Dlglic.pcx
+|   |       |       DlgNoHDD.pcx
+|   |       |       Dlgnolag.pcx
+|   |       |       Dlgnopn.pcx
+|   |       |       Dlgpatch.pcx
+|   |       |       enter.pcx
+|   |       |       resztxt1.pcx
+|   |       |       resztxt2.pcx
+|   |       |       scroll.pcx
+|   |       |       TxtExit.pcx
+|   |       |       TxtHDRB.pcx
+|   |       |       txtmode1.pcx
+|   |       |       txtmode2.pcx
+|   |       |       
+|   |       \---TC
+|   |               bartxt.pcx
+|   |               Bt_c.pcx
+|   |               Bt_y.pcx
+|   |               cdsts1.pcx
+|   |               cdsts2.pcx
+|   |               cdsts3.pcx
+|   |               Dlgcd1.pcx
+|   |               Dlgcd2.pcx
+|   |               Dlgcdejt.pcx
+|   |               Dlgcdout.pcx
+|   |               Dlgdiflg.pcx
+|   |               Dlghrb.pcx
+|   |               DlghrbM.pcx
+|   |               DlgNoHDD.pcx
+|   |               Dlgnolag.pcx
+|   |               Dlgnopn.pcx
+|   |               DlgPatch.pcx
+|   |               enter.pcx
+|   |               resztxt1.pcx
+|   |               resztxt2.pcx
+|   |               scroll.pcx
+|   |               TxtExit.pcx
+|   |               TxtHDRB.pcx
+|   |               txtmode1.pcx
+|   |               txtmode2.pcx
+|   |               
+|   +---TOOLS
+|   |       A
+|   |       AcerLang.txt
+|   |       AddLang.bat
+|   |       ara.ini
+|   |       ATTRIB.EXE
+|   |       Biosbsu.exe
+|   |       CDOPEN.COM
+|   |       CHGBSU.EXE
+|   |       chkacer.exe
+|   |       DBIOS.EXE
+|   |       EDITINI.EXE
+|   |       EJECT.EXE
+|   |       FORMAT.COM
+|   |       gdisk.exe
+|   |       heb.ini
+|   |       LaunchRS.ocx
+|   |       MOUSE.EXE
+|   |       MOUSEDRV.INI
+|   |       REBOOT.EXE
+|   |       RegActvX.exe
+|   |       Restore.exe
+|   |       SHELEXEC.EXE
+|   |       SMARTDRV.EXE
+|   |       SPAN.BMP
+|   |       STLink.INI
+|   |       tha.ini
+|   |       XCOPY.EXE
+|   |       XCOPY32.EXE
+|   |       XCOPY32.MOD
+|   |       xphara.ini
+|   |       xphheb.ini
+|   |       xphtha.ini
+|   |       xppara.ini
+|   |       xppcan.ini
+|   |       xppheb.ini
+|   |       xpptha.ini
+|   |       Y
+|   |       
+|   \---Wallpapr
+|           Acer.bmp
+|           
++---APP
+|   +---CDMAKER
+|   |   |   addfilter.exe
+|   |   |   BurnRights.exe
+|   |   |   CDDVD-MAKER_TITLE.jpg
+|   |   |   CDMaker.ver
+|   |   |   CDMKR32.INI
+|   |   |   Cdrw32.bdb
+|   |   |   Data1.cab
+|   |   |   htvcdsvcd.ax
+|   |   |   logo_oem.jpg
+|   |   |   NtiAspi.dll
+|   |   |   NTI CD & DVD-Maker.msi
+|   |   |   Readme.txt
+|   |   |   setup.exe
+|   |   |   setup.iss
+|   |   |   setup.log
+|   |   |   splash01.bmp
+|   |   |   UPGRADE.htm
+|   |   |   WMDMDist.exe
+|   |   |   WMFADist.exe
+|   |   |   WMFDist.exe
+|   |   |   
+|   |   \---BUN
+|   |           bunsplash.bmp
+|   |           CDBAK32.INI
+|   |           Cdrw32.bdb
+|   |           Data1.cab
+|   |           NtiAspi.dll
+|   |           NTI Backup NOW! 4.msi
+|   |           Readme.txt
+|   |           Setup.BJF
+|   |           setup.exe
+|   |           setup.iss
+|   |           setup.log
+|   |           
+|   +---NAV
+|   |   +---EN
+|   |   |       nav.exe
+|   |   |       
+|   |   +---SC
+|   |   |       NAV.exe
+|   |   |       
+|   |   \---TC
+|   |           NAV.exe
+|   |           
+|   +---PowerDVD
+|   |   |   CLAud.sim
+|   |   |   Custom.ini
+|   |   |   data1.cab
+|   |   |   data1.hdr
+|   |   |   data2.cab
+|   |   |   Guid.reg
+|   |   |   ikernel.ex_
+|   |   |   info.ini
+|   |   |   iPower.txt
+|   |   |   layout.bin
+|   |   |   MCE_Sym.reg
+|   |   |   MPackCaps.reg
+|   |   |   PowerDVD.sim
+|   |   |   Setup.exe
+|   |   |   Setup.ini
+|   |   |   setup.inx
+|   |   |   ureg.ini
+|   |   |   
+|   |   +---HTML
+|   |   |   +---cht
+|   |   |   |   |   e-training.css
+|   |   |   |   |   ipower_1.txt
+|   |   |   |   |   new.css
+|   |   |   |   |   start.htm
+|   |   |   |   |   
+|   |   |   |   +---chinese
+|   |   |   |   |   +---2004-main-page
+|   |   |   |   |   |   \---images
+|   |   |   |   |   |       \---inc
+|   |   |   |   |   |               bottom.gif
+|   |   |   |   |   |               top-on_12.gif
+|   |   |   |   |   |               top-on_13.gif
+|   |   |   |   |   |               top-on_14.gif
+|   |   |   |   |   |               top-on_08.gif
+|   |   |   |   |   |               top-on_09.gif
+|   |   |   |   |   |               top-on_10.gif
+|   |   |   |   |   |               top-on_11.gif
+|   |   |   |   |   |               top_01.gif
+|   |   |   |   |   |               top_06.gif
+|   |   |   |   |   |               top_08.gif
+|   |   |   |   |   |               top_09.gif
+|   |   |   |   |   |               top_10.gif
+|   |   |   |   |   |               top_11.gif
+|   |   |   |   |   |               top_12.gif
+|   |   |   |   |   |               top_13.gif
+|   |   |   |   |   |               top_14.gif
+|   |   |   |   |   |               
+|   |   |   |   |   +---dv-entertainment
+|   |   |   |   |   |   \---images
+|   |   |   |   |   |       |   close.gif
+|   |   |   |   |   |       |   heading-tutorials.gif
+|   |   |   |   |   |       |   line-vertical-dots.gif
+|   |   |   |   |   |       |   more-text.gif
+|   |   |   |   |   |       |   popup-bg.gif
+|   |   |   |   |   |       |   popup-down.gif
+|   |   |   |   |   |       |   popup-top.gif
+|   |   |   |   |   |       |   
+|   |   |   |   |   |       +---graphics
+|   |   |   |   |   |       |       i-power.gif
+|   |   |   |   |   |       |       i-power2.gif
+|   |   |   |   |   |       |       
+|   |   |   |   |   |       +---links
+|   |   |   |   |   |       |       link-off_07.gif
+|   |   |   |   |   |       |       link-on_01.gif
+|   |   |   |   |   |       |       link-on_02.gif
+|   |   |   |   |   |       |       link-on_06.gif
+|   |   |   |   |   |       |       link-on_03.gif
+|   |   |   |   |   |       |       link-on_04.gif
+|   |   |   |   |   |       |       link-on_07.gif
+|   |   |   |   |   |       |       link-off_02.gif
+|   |   |   |   |   |       |       link-off_03.gif
+|   |   |   |   |   |       |       link-off_04.gif
+|   |   |   |   |   |       |       link-off_06.gif
+|   |   |   |   |   |       |       
+|   |   |   |   |   |       +---products
+|   |   |   |   |   |       |   +---mediashow
+|   |   |   |   |   |       |   |       ms.gif
+|   |   |   |   |   |       |   |       
+|   |   |   |   |   |       |   +---powercinema
+|   |   |   |   |   |       |   |       pcm.jpg
+|   |   |   |   |   |       |   |       
+|   |   |   |   |   |       |   +---powerdvd
+|   |   |   |   |   |       |   |       dvd5.gif
+|   |   |   |   |   |       |   |       
+|   |   |   |   |   |       |   +---powerdirector
+|   |   |   |   |   |       |   |       dir.gif
+|   |   |   |   |   |       |   |       
+|   |   |   |   |   |       |   +---powerproducer
+|   |   |   |   |   |       |   |       pp2.gif
+|   |   |   |   |   |       |   |       
+|   |   |   |   |   |       |   \---powervcr
+|   |   |   |   |   |       |           vcr.gif
+|   |   |   |   |   |       |           
+|   |   |   |   |   |       \---update
+|   |   |   |   |   |               buy-update.gif
+|   |   |   |   |   |               e-paper.gif
+|   |   |   |   |   |               index-top.gif
+|   |   |   |   |   |               
+|   |   |   |   |   \---e-training
+|   |   |   |   |           e-training-css.css
+|   |   |   |   |           
+|   |   |   |   \---english
+|   |   |   |       \---dv-entertainment
+|   |   |   |           \---update-img
+|   |   |   |                   go.gif
+|   |   |   |                   
+|   |   |   \---enu
+|   |   |       |   ipower_1.txt
+|   |   |       |   new.css
+|   |   |       |   start.htm
+|   |   |       |   
+|   |   |       +---dynamic
+|   |   |       |   \---english
+|   |   |       |       \---dv-entertainment
+|   |   |       |           \---images
+|   |   |       |               \---products
+|   |   |       |                       dir-e.jpg
+|   |   |       |                       dvd5.gif
+|   |   |       |                       pcm.jpg
+|   |   |       |                       pp2.gif
+|   |   |       |                       
+|   |   |       \---english
+|   |   |           +---2004-main-page
+|   |   |           |   \---images
+|   |   |           |       |   top_05.gif
+|   |   |           |       |   
+|   |   |           |       \---inc
+|   |   |           |               bottom.gif
+|   |   |           |               top-on_12.gif
+|   |   |           |               top-on_13.gif
+|   |   |           |               top-on_14.gif
+|   |   |           |               top-on_08.gif
+|   |   |           |               top-on_09.gif
+|   |   |           |               top-on_10.gif
+|   |   |           |               top-on_11.gif
+|   |   |           |               top_01.gif
+|   |   |           |               top_08.gif
+|   |   |           |               top_09.gif
+|   |   |           |               top_10.gif
+|   |   |           |               top_11.gif
+|   |   |           |               top_12.gif
+|   |   |           |               top_13.gif
+|   |   |           |               top_14.gif
+|   |   |           |               
+|   |   |           +---dv-entertainment
+|   |   |           |   +---images
+|   |   |           |   |   |   close.gif
+|   |   |           |   |   |   heading-tutorials.gif
+|   |   |           |   |   |   line-vertical-dots.gif
+|   |   |           |   |   |   popup-bg.gif
+|   |   |           |   |   |   popup-down.gif
+|   |   |           |   |   |   popup-top.gif
+|   |   |           |   |   |   whatisit-01.gif
+|   |   |           |   |   |   
+|   |   |           |   |   +---banners
+|   |   |           |   |   |       i-power-01.gif
+|   |   |           |   |   |       i-power-02.gif
+|   |   |           |   |   |       
+|   |   |           |   |   +---links
+|   |   |           |   |   |       link-on_02.gif
+|   |   |           |   |   |       link-on_06.gif
+|   |   |           |   |   |       link-on_04.gif
+|   |   |           |   |   |       link-on_07.gif
+|   |   |           |   |   |       link-off_02.gif
+|   |   |           |   |   |       link-off_04.gif
+|   |   |           |   |   |       link-off_06.gif
+|   |   |           |   |   |       link-off_07.gif
+|   |   |           |   |   |       
+|   |   |           |   |   \---products
+|   |   |           |   |           mshow.jpg
+|   |   |           |   |           vcr.jpg
+|   |   |           |   |           
+|   |   |           |   \---update-img
+|   |   |           |           bg-right.jpg
+|   |   |           |           buy-update.gif
+|   |   |           |           go.gif
+|   |   |           |           index-top.gif
+|   |   |           |           newsletter.gif
+|   |   |           |           volume-license.gif
+|   |   |           |           
+|   |   |           +---e-training
+|   |   |           |       e-training-css.css
+|   |   |           |       
+|   |   |           \---membership_program
+|   |   |               \---member_area
+|   |   |                   \---Images
+|   |   |                           top_3.gif
+|   |   |                           
+|   |   \---Readme
+|   |           readchs.htm
+|   |           readcht.htm
+|   |           readCsy.htm
+|   |           readdan.htm
+|   |           readdeu.htm
+|   |           readEll.htm
+|   |           readenu.htm
+|   |           readesp.htm
+|   |           readFin.htm
+|   |           readfra.htm
+|   |           readFrc.htm
+|   |           readHun.htm
+|   |           readita.htm
+|   |           readjpn.htm
+|   |           readkor.htm
+|   |           readnld.htm
+|   |           readNor.htm
+|   |           readPlk.htm
+|   |           readPtb.htm
+|   |           readPtg.htm
+|   |           readRus.htm
+|   |           readSky.htm
+|   |           readslv.htm
+|   |           readSve.htm
+|   |           readTha.htm
+|   |           readTrk.htm
+|   |           
+|   \---SunJVM
+|           jre15020.exe
+|           
++---Book
+|   +---adobe
+|   |   +---EN
+|   |   |       setup.exe
+|   |   |       
+|   |   +---SC
+|   |   |       setup.exe
+|   |   |       
+|   |   \---TC
+|   |           setup.exe
+|   |           
+|   \---Guide
+|       +---CA
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---CS
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---DA
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---DE
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---EL
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---EN
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---ES
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---FI
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---FR
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---HU
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---IN
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---IT
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---NL
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---NO
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---PL
+|       |       Acerpowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---PT
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---RU
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---SC
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---SV
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       +---TC
+|       |       AcerPowe.pdf
+|       |       Aspire.pdf
+|       |       
+|       \---ZH
+|               AcerPowe.pdf
+|               Aspire.pdf
+|               
++---Drivers
+|   +---AGP
+|   |   |   DATA.TAG
+|   |   |   data1.cab
+|   |   |   lang.dat
+|   |   |   layout.bin
+|   |   |   os.dat
+|   |   |   setup-s.bat
+|   |   |   SETUP.EXE
+|   |   |   SETUP.INI
+|   |   |   setup.ins
+|   |   |   setup.iss
+|   |   |   setup.lid
+|   |   |   _INST32I.EX_
+|   |   |   _ISDEL.EXE
+|   |   |   _sys1.cab
+|   |   |   _user1.cab
+|   |   |   
+|   |   +---AGP
+|   |   |   +---AGPUtil
+|   |   |   |       AGPutil.exe
+|   |   |   |       WinIo.dll
+|   |   |   |       WinIo.sys
+|   |   |   |       WINIO.VXD
+|   |   |   |       
+|   |   |   +---current
+|   |   |   |   +---WIN2000
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       sisagpx.sys
+|   |   |   |   |       
+|   |   |   |   +---WIN98
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       SISAGP.PCI
+|   |   |   |   |       
+|   |   |   |   +---WINME
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       SISAGP.PCI
+|   |   |   |   |       
+|   |   |   |   \---WINXP
+|   |   |   |           sisagp.cat
+|   |   |   |           sisagp.inf
+|   |   |   |           sisagpx.sys
+|   |   |   |           
+|   |   |   +---htpatch
+|   |   |   |       HTinst.exe
+|   |   |   |       HTpatch.exe
+|   |   |   |       HTuninst.exe
+|   |   |   |       WinIo.dll
+|   |   |   |       WinIo.sys
+|   |   |   |       
+|   |   |   \---old
+|   |   |       +---WIN2000
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       sisagpx.sys
+|   |   |       |       
+|   |   |       +---WIN98
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       SISAGP.pci
+|   |   |       |       
+|   |   |       +---WINME
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       SISAGP.pci
+|   |   |       |       
+|   |   |       \---WINXP
+|   |   |               sisagp.cat
+|   |   |               sisagp.inf
+|   |   |               sisagpx.sys
+|   |   |               
+|   |   +---setupdir
+|   |   |   +---0003
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---0005
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0006
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0007
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0008
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---0009
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---000a
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---000b
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---000e
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0010
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---0011
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0012
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0013
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---0014
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0015
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0019
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---001b
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---001d
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---001e
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---001f
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0021
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0024
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---002d
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---0404
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   +---040c
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0416
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0804
+|   |   |   |       _setup.dll
+|   |   |   |       
+|   |   |   +---0816
+|   |   |   |       _SETUP.DLL
+|   |   |   |       
+|   |   |   \---0c0c
+|   |   |           _SETUP.DLL
+|   |   |           
+|   |   +---SISfiles
+|   |   |       AGPFunc.dll
+|   |   |       ata133ap.exe
+|   |   |       instdrv.exe
+|   |   |       regmod.exe
+|   |   |       SISAGP98.dll
+|   |   |       waitwnd.exe
+|   |   |       
+|   |   \---USB
+|   |       +---Win2K_XP
+|   |       |   \---WinXPUSB
+|   |       |           SISPORT.SYS
+|   |       |           SiSUSBrg.exe
+|   |       |           SIS_LIB.DLL
+|   |       |           
+|   |       \---Win9x
+|   |           \---SiSFiles
+|   |                   Mp_s3.exe
+|   |                   Openhci.sys
+|   |                   
+|   +---AUDIO
+|   |   |   ALCCHKID.EXE
+|   |   |   ALCRMV.EXE
+|   |   |   ALCRMV9X.EXE
+|   |   |   ALCUPD.EXE
+|   |   |   ALCXDEV.EXE
+|   |   |   ApiSpy.ini
+|   |   |   DATA1.CAB
+|   |   |   DATA1.HDR
+|   |   |   DATA2.CAB
+|   |   |   EXERUN.exe
+|   |   |   Fxdrv.dll
+|   |   |   Fxdrv.sys
+|   |   |   Fxdrv.vxd
+|   |   |   GETDXVER.EXE
+|   |   |   IKERNEL.EX_
+|   |   |   LAYOUT.BIN
+|   |   |   README.TXT
+|   |   |   SetCDfmt.exe
+|   |   |   Setup.exe
+|   |   |   Setup.ini
+|   |   |   SETUP.INX
+|   |   |   SETUP.ISS
+|   |   |   SOUNDMAN.ICO
+|   |   |   
+|   |   +---Ap
+|   |   |       AVRACK.INI
+|   |   |       AvRack2.exe
+|   |   |       Classic.dll
+|   |   |       Cool.bmp
+|   |   |       Grass.bmp
+|   |   |       GrayScale.bmp
+|   |   |       Magenta.bmp
+|   |   |       MPIE4STD.EXE
+|   |   |       Mpstd.exe
+|   |   |       RtlRack.exe
+|   |   |       Wooden.bmp
+|   |   |       
+|   |   +---CONFIG
+|   |   |   \---Win98gold
+|   |   |           Alcxwdm.inf
+|   |   |           
+|   |   +---WDM
+|   |   |       Alcxwdm20.inf
+|   |   |       Alcxwdm14.inf
+|   |   |       Alcxwdm18.inf
+|   |   |       Alcxwdm21.inf
+|   |   |       Alcxwdm15.inf
+|   |   |       Alcxwdm19.inf
+|   |   |       Alcxwdm22.inf
+|   |   |       Alcxwdm16.inf
+|   |   |       Alcxwdm17.inf
+|   |   |       ALCXSENS.SYS
+|   |   |       Alcxwdm.cat
+|   |   |       Alcxwdm.inf
+|   |   |       ALCXWDM.SYS
+|   |   |       Alcxwdm0.inf
+|   |   |       Alcxwdm1.inf
+|   |   |       Alcxwdm2.inf
+|   |   |       Alcxwdm3.inf
+|   |   |       Alcxwdm4.inf
+|   |   |       Alcxwdm5.inf
+|   |   |       Alcxwdm6.inf
+|   |   |       Alcxwdm7.inf
+|   |   |       Alcxwdm8.inf
+|   |   |       Alcxwdm9.inf
+|   |   |       Alcxwdm10.inf
+|   |   |       Alcxwdm11.inf
+|   |   |       Alcxwdm12.inf
+|   |   |       Alcxwdm13.inf
+|   |   |       ALSndMgr.cpl
+|   |   |       ALSNDMGR.WAV
+|   |   |       AUDIO3D.DLL
+|   |   |       ChCfg.exe
+|   |   |       CRLDS3D.DLL
+|   |   |       RtlCPAPI.dll
+|   |   |       RTLCPL.EXE
+|   |   |       SoundMan.exe
+|   |   |       
+|   |   +---Win95
+|   |   |       ALCX95.DRV
+|   |   |       ALCX95.INI
+|   |   |       ALSWWT.DRV
+|   |   |       ALSWWT16.DLL
+|   |   |       SWWTAC97.DAT
+|   |   |       SWWTAC97.TON
+|   |   |       VALCX95.INF
+|   |   |       VALCX95.VXD
+|   |   |       
+|   |   \---WinNT4
+|   |           ALCXNT.DLL
+|   |           ALCXNT.SYS
+|   |           ALSWWTNT.DAT
+|   |           Alswwtnt.dll
+|   |           Alswwtnt.sys
+|   |           ALSWWTNT.TON
+|   |           MMDRV.DLL
+|   |           Oemsetup.inf
+|   |           SoundMan.exe
+|   |           
+|   +---LAN
+|   |   \---SIS
+|   |       |   DATA1.CAB
+|   |       |   DIAG.EXE
+|   |       |   DIAG.TXT
+|   |       |   inf2cat.exe
+|   |       |   INST2000.DLL
+|   |       |   IPDETECT.EXE
+|   |       |   LANG.DAT
+|   |       |   LAYOUT.BIN
+|   |       |   MAIN.BMP
+|   |       |   OS.DAT
+|   |       |   refresh.exe
+|   |       |   Remove.exe
+|   |       |   SETUP.EXE
+|   |       |   SETUP.INI
+|   |       |   SETUP.INS
+|   |       |   SETUP.ISS
+|   |       |   SETUP.LID
+|   |       |   SETUP.TXT
+|   |       |   _INST32I.EX_
+|   |       |   _ISDEL.EXE
+|   |       |   _sys1.cab
+|   |       |   _USER1.CAB
+|   |       |   
+|   |       +---MSLANMAN.DOS
+|   |       |   |   Readme.txt
+|   |       |   |   
+|   |       |   \---DRIVERS
+|   |       |       +---Ethernet
+|   |       |       |   \---SIS900
+|   |       |       |           PROTOCOL.INI
+|   |       |       |           sis900.dos
+|   |       |       |           
+|   |       |       \---NIF
+|   |       |               SIS900.nif
+|   |       |               
+|   |       +---Ndis2
+|   |       |   \---dos
+|   |       |           OEMSETUP.INF
+|   |       |           PROTOCOL.INI
+|   |       |           README.TXT
+|   |       |           SIS900.DOS
+|   |       |           
+|   |       +---NT40
+|   |       |       OEMSETUP.INF
+|   |       |       README.TXT
+|   |       |       SISNIC.HLP
+|   |       |       SISNIC.sys
+|   |       |       
+|   |       +---nwclient
+|   |       |       NET.CFG
+|   |       |       readme.txt
+|   |       |       SIS900.COM
+|   |       |       sis900.ins
+|   |       |       
+|   |       +---Nwserver.41x
+|   |       |       ETHERTSM.NLM
+|   |       |       MSM.NLM
+|   |       |       NBI.NLM
+|   |       |       README.TXT
+|   |       |       sis900.lan
+|   |       |       sis900.ldi
+|   |       |       
+|   |       +---Nwserver.42
+|   |       |       README.TXT
+|   |       |       sis900.lan
+|   |       |       sis900.ldi
+|   |       |       
+|   |       +---Nwserver.5x
+|   |       |       README.TXT
+|   |       |       sis900.lan
+|   |       |       sis900.ldi
+|   |       |       
+|   |       +---Nwserver.60
+|   |       |       README.TXT
+|   |       |       sis900.lan
+|   |       |       sis900.ldi
+|   |       |       
+|   |       +---pktdrv
+|   |       |       readme.TXT
+|   |       |       SIS900.EXE
+|   |       |       
+|   |       +---setupdir
+|   |       |   +---0003
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---0005
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0006
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0007
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0008
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---000a
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---000b
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0010
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---0014
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0015
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0019
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---001b
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---001d
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---001f
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0021
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---002d
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---0404
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   +---040c
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0416
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0804
+|   |       |   |       _setup.dll
+|   |       |   |       
+|   |       |   +---0816
+|   |       |   |       _SETUP.DLL
+|   |       |   |       
+|   |       |   \---0c0c
+|   |       |           _SETUP.DLL
+|   |       |           
+|   |       +---WFW311
+|   |       |       OEMSETUP.INF
+|   |       |       README.TXT
+|   |       |       SISNIC.386
+|   |       |       
+|   |       +---Win2000
+|   |       |       NETOEM.INF
+|   |       |       OEMNIC.CAT
+|   |       |       README.TXT
+|   |       |       SISNIC.sys
+|   |       |       uninst.exe
+|   |       |       
+|   |       +---WIN95
+|   |       |       NETOEM.INF
+|   |       |       OEMNIC.CAT
+|   |       |       README.TXT
+|   |       |       SISNIC.sys
+|   |       |       UNINST.EXE
+|   |       |       
+|   |       +---WIN95.SR2
+|   |       |       NETOEM.INF
+|   |       |       OEMNIC.CAT
+|   |       |       README.TXT
+|   |       |       SISNIC.sys
+|   |       |       UNINST.EXE
+|   |       |       
+|   |       +---WIN98
+|   |       |       NETOEM.INF
+|   |       |       OEMNIC.CAT
+|   |       |       README.TXT
+|   |       |       SISNIC.sys
+|   |       |       UNINST.EXE
+|   |       |       
+|   |       +---WINME
+|   |       |       NETOEM.INF
+|   |       |       OEMNIC.CAT
+|   |       |       README.TXT
+|   |       |       SISNIC.sys
+|   |       |       UNINST.EXE
+|   |       |       
+|   |       \---WinXP
+|   |               NETOEM.INF
+|   |               oemnic.cat
+|   |               README.TXT
+|   |               SISNIC.SYS
+|   |               uninst.exe
+|   |               
+|   +---MODEM
+|   |   \---GVC
+|   |       \---2140
+|   |               AGRSM.sys
+|   |               agrsmdel.exe
+|   |               AGRSMMsg.exe
+|   |               AGRSMxp.cat
+|   |               AGRSMxp.inf
+|   |               AGSETUP.INI
+|   |               agsetup1.dll
+|   |               agsetup2.dll
+|   |               agsetup3.EXE
+|   |               setup.exe
+|   |               
+|   \---VGA
+|       +---ATI
+|       |   |   AtiCim.bin
+|       |   |   AtiCimUn.exe
+|       |   |   CheckVer.exe
+|       |   |   data1.cab
+|       |   |   data1.hdr
+|       |   |   data2.cab
+|       |   |   DrvUI64A.exe
+|       |   |   ikernel.ex_
+|       |   |   install.ini
+|       |   |   issetup.exe
+|       |   |   layout.bin
+|       |   |   makensisw.exe
+|       |   |   psapi.dll
+|       |   |   Setup.exe
+|       |   |   Setup.ini
+|       |   |   setup.inx
+|       |   |   wxp-w2k-catalyst-AIB-8-121-050322a-022142C.txt
+|       |   |   
+|       |   +---ACE
+|       |   |       1028.mst
+|       |   |       1029.mst
+|       |   |       1030.mst
+|       |   |       1031.mst
+|       |   |       1032.mst
+|       |   |       1033.mst
+|       |   |       1034.mst
+|       |   |       1035.mst
+|       |   |       1036.mst
+|       |   |       1038.mst
+|       |   |       1040.mst
+|       |   |       1041.mst
+|       |   |       1042.mst
+|       |   |       1043.mst
+|       |   |       1044.mst
+|       |   |       1045.mst
+|       |   |       1046.mst
+|       |   |       1049.mst
+|       |   |       1053.mst
+|       |   |       1054.mst
+|       |   |       1055.mst
+|       |   |       2052.mst
+|       |   |       2070.mst
+|       |   |       3084.mst
+|       |   |       ACE.dat
+|       |   |       ACE.dll
+|       |   |       ATI Catalyst Control Center.msi
+|       |   |       Data1.cab
+|       |   |       setup.exe
+|       |   |       
+|       |   +---BIN
+|       |   |       aticd64a.sys
+|       |   |       aticds10.dll
+|       |   |       AtiCIM.dll
+|       |   |       atiicdxx.dat
+|       |   |       atiicdxx.dll
+|       |   |       atiicdxx.exe
+|       |   |       atiicdxx.ini
+|       |   |       atiicdxx.msi
+|       |   |       atiicdxx.sys
+|       |   |       atiicdxx.vxd
+|       |   |       atricd6a.dft
+|       |   |       atricd6a.enu
+|       |   |       atricdxx.dft
+|       |   |       atricdxx.enu
+|       |   |       EnumDev.exe
+|       |   |       OEMInstall.bmp
+|       |   |       UpdatPnP.exe
+|       |   |       
+|       |   +---CPanel
+|       |   |       22142_2K.REG
+|       |   |       22142_XP.REG
+|       |   |       CPanel.dat
+|       |   |       CPANEL.dll
+|       |   |       CP_2K.REG
+|       |   |       CP_XP.REG
+|       |   |       data1.cab
+|       |   |       data1.hdr
+|       |   |       data2.cab
+|       |   |       FGL_32.REG
+|       |   |       ikernel.ex_
+|       |   |       INSTALL.INI
+|       |   |       layout.bin
+|       |   |       Setup.exe
+|       |   |       Setup.ini
+|       |   |       setup.inx
+|       |   |       setup.iss
+|       |   |       shortcut.iss
+|       |   |       
+|       |   +---Driver
+|       |   |   |   C2_22142.INI
+|       |   |   |   CX_22142.INI
+|       |   |   |   data1.cab
+|       |   |   |   data1.hdr
+|       |   |   |   data2.cab
+|       |   |   |   Driver.dat
+|       |   |   |   Driver.DLL
+|       |   |   |   ikernel.ex_
+|       |   |   |   INSTALL.INI
+|       |   |   |   layout.bin
+|       |   |   |   Setup.exe
+|       |   |   |   Setup.ini
+|       |   |   |   setup.inx
+|       |   |   |   setup.iss
+|       |   |   |   _setup.bmp
+|       |   |   |   
+|       |   |   \---2KXP_INF
+|       |   |       |   atiiseag.ini
+|       |   |       |   C2_22142.inf
+|       |   |       |   CX_22142.cat
+|       |   |       |   CX_22142.inf
+|       |   |       |   
+|       |   |       \---B_22056
+|       |   |               ati2cqag.dl_
+|       |   |               ati2dvag.dl_
+|       |   |               ati2edxx.dl_
+|       |   |               ati2erec.dl_
+|       |   |               ati2evxx.dl_
+|       |   |               ati2evxx.ex_
+|       |   |               ati2mdxx.ex_
+|       |   |               ati2mtag.sy_
+|       |   |               ati3duag.dl_
+|       |   |               atiddc.dl_
+|       |   |               atidemgr.dl_
+|       |   |               atifglpf.xml
+|       |   |               atiicdxx.dat
+|       |   |               atiiiexx.dll
+|       |   |               atikvmag.dl_
+|       |   |               atioglxx.dl_
+|       |   |               atipdlxx.dl_
+|       |   |               atitvo32.dl_
+|       |   |               ativcoxx.dl_
+|       |   |               ativvaxx.dl_
+|       |   |               oemdspif.dl_
+|       |   |               
+|       |   \---WDM
+|       |       |   data1.cab
+|       |       |   data1.hdr
+|       |       |   data2.cab
+|       |       |   ikernel.ex_
+|       |       |   install.ini
+|       |       |   layout.bin
+|       |       |   Setup.exe
+|       |       |   Setup.ini
+|       |       |   setup.inx
+|       |       |   WDM.dat
+|       |       |   WDM.dll
+|       |       |   
+|       |       \---WDM_XP
+|       |               atiehwdm.inf
+|       |               atinbtxx.SYS
+|       |               atinesxx.SYS
+|       |               atineuxx.SYS
+|       |               atinevxx.SYS
+|       |               atinmdxx.SYS
+|       |               atinpdxx.SYS
+|       |               atinraxx.SYS
+|       |               atinsnxx.SYS
+|       |               atinttxx.SYS
+|       |               atinxbxx.SYS
+|       |               ATIVdaxx.AX
+|       |               ativmc20.cod
+|       |               ativmvxx.AX
+|       |               ativtmxx.DLL
+|       |               atixpwdm.cat
+|       |               
+|       +---NVIDIA
+|       |       Advanced.tv_
+|       |       aliagp.sy_
+|       |       CAD.tv_
+|       |       data1.cab
+|       |       data1.hdr
+|       |       data2.cab
+|       |       DCC.tv_
+|       |       default.tv_
+|       |       engine32.cab
+|       |       Finance.tv_
+|       |       keystone.ex_
+|       |       layout.bin
+|       |       modes.txt
+|       |       nv4disp2.inf
+|       |       nv4_disp.cat
+|       |       nv4_disp.dl_
+|       |       nv4_disp.inf
+|       |       nv4_mini.sy_
+|       |       nvappbar.ex_
+|       |       NvApps.xm_
+|       |       nvcod.dl_
+|       |       NvColor.ex_
+|       |       NVCPAR.HL_
+|       |       NVCPCS.HL_
+|       |       NVCPDA.HL_
+|       |       NVCPDE.HL_
+|       |       NVCPEL.HL_
+|       |       NVCPENG.HL_
+|       |       NVCPES.HL_
+|       |       NVCPESM.HL_
+|       |       NVCPFI.HL_
+|       |       NVCPFR.HL_
+|       |       NVCPHE.HL_
+|       |       NVCPHU.HL_
+|       |       NVCPIT.HL_
+|       |       NVCPJA.HL_
+|       |       NVCPKO.HL_
+|       |       NvCpl.dl_
+|       |       NVCPL.HL_
+|       |       NVCPNL.HL_
+|       |       NVCPNO.HL_
+|       |       NVCPPL.HL_
+|       |       NVCPPT.HL_
+|       |       NVCPPTB.HL_
+|       |       NVCPRU.HL_
+|       |       NVCPSK.HL_
+|       |       NVCPSL.HL_
+|       |       NVCPSV.HL_
+|       |       NVCPTH.HL_
+|       |       NVCPTR.HL_
+|       |       NVCPZHC.HL_
+|       |       NVCPZHT.HL_
+|       |       NvDccApp.cf_
+|       |       NVDisp.nvu
+|       |       nvdspsch.ex_
+|       |       NVEPClnt.ex_
+|       |       NVGFX.dl_
+|       |       nvhwvid.dl_
+|       |       nview.dl_
+|       |       NvMCTray.dl_
+|       |       nvnt4cpl.dl_
+|       |       nvoglnt.dl_
+|       |       NVRSAR.dl_
+|       |       NVRSCS.dl_
+|       |       NVRSDA.dl_
+|       |       NVRSDE.dl_
+|       |       NVRSEL.dl_
+|       |       NVRSENG.dl_
+|       |       NVRSES.dl_
+|       |       NVRSESM.dl_
+|       |       NVRSFI.dl_
+|       |       NVRSFR.dl_
+|       |       NVRSHE.dl_
+|       |       NVRSHU.dl_
+|       |       NVRSIT.dl_
+|       |       NVRSJA.dl_
+|       |       NVRSKO.dl_
+|       |       NVRSNL.dl_
+|       |       NVRSNO.dl_
+|       |       NVRSPL.dl_
+|       |       NVRSPT.dl_
+|       |       NVRSPTB.dl_
+|       |       NVRSRU.dl_
+|       |       NVRSSK.dl_
+|       |       NVRSSL.dl_
+|       |       NVRSSV.dl_
+|       |       NVRSTR.dl_
+|       |       NVRSZHC.dl_
+|       |       NVRSZHT.dl_
+|       |       nvshell.dl_
+|       |       nvsvc32.ex_
+|       |       nvtuicpl.cp_
+|       |       nvudisp.exe
+|       |       nvwcpar.hl_
+|       |       nvwcpcs.hl_
+|       |       nvwcpda.hl_
+|       |       nvwcpde.hl_
+|       |       nvwcpel.hl_
+|       |       nvwcpeng.hl_
+|       |       nvwcpes.hl_
+|       |       nvwcpesm.hl_
+|       |       nvwcpfi.hl_
+|       |       nvwcpfr.hl_
+|       |       nvwcphe.hl_
+|       |       nvwcphu.hl_
+|       |       nvwcpit.hl_
+|       |       nvwcpja.hl_
+|       |       nvwcpko.hl_
+|       |       nvwcplen.hl_
+|       |       nvwcpnl.hl_
+|       |       nvwcpno.hl_
+|       |       nvwcppl.hl_
+|       |       nvwcppt.hl_
+|       |       nvwcpptb.hl_
+|       |       nvwcpru.hl_
+|       |       nvwcpsk.hl_
+|       |       nvwcpsl.hl_
+|       |       nvwcpsv.hl_
+|       |       nvwcpth.hl_
+|       |       nvwcptr.hl_
+|       |       nvwcpzhc.hl_
+|       |       nvwcpzht.hl_
+|       |       nvwddi.dl_
+|       |       nvwdmcpl.dl_
+|       |       nvwimg.dl_
+|       |       nvwrsar.dl_
+|       |       nvwrscs.dl_
+|       |       nvwrsda.dl_
+|       |       nvwrsde.dl_
+|       |       nvwrsel.dl_
+|       |       nvwrseng.dl_
+|       |       nvwrses.dl_
+|       |       nvwrsesm.dl_
+|       |       nvwrsfi.dl_
+|       |       nvwrsfr.dl_
+|       |       nvwrshe.dl_
+|       |       nvwrshu.dl_
+|       |       nvwrsit.dl_
+|       |       nvwrsja.dl_
+|       |       nvwrsko.dl_
+|       |       nvwrsnl.dl_
+|       |       nvwrsno.dl_
+|       |       nvwrspl.dl_
+|       |       nvwrspt.dl_
+|       |       nvwrsptb.dl_
+|       |       nvwrsru.dl_
+|       |       nvwrssk.dl_
+|       |       nvwrssl.dl_
+|       |       nvwrssv.dl_
+|       |       nvwrstr.dl_
+|       |       nvwrszhc.dl_
+|       |       nvwrszht.dl_
+|       |       NvWsApps.cf_
+|       |       nwiz.ex_
+|       |       Readme.txt
+|       |       setup.bmp
+|       |       setup.exe
+|       |       setup.ibt
+|       |       setup.ini
+|       |       setup.inx
+|       |       setup.iss
+|       |       setup.skin
+|       |       
+|       \---SIS
+|           |   data1.cab
+|           |   data1.hdr
+|           |   data2.cab
+|           |   engine32.cab
+|           |   layout.bin
+|           |   ReadMe.txt
+|           |   setup.exe
+|           |   Setup.ini
+|           |   setup.inx
+|           |   Setup.iss
+|           |   setup.boot
+|           |   
+|           +---AGPPack
+|           |   |   data1.cab
+|           |   |   data1.hdr
+|           |   |   data2.cab
+|           |   |   engine32.cab
+|           |   |   layout.bin
+|           |   |   README.TXT
+|           |   |   RelNote.txt
+|           |   |   setup-s.bat
+|           |   |   setup.exe
+|           |   |   setup.ini
+|           |   |   setup.inx
+|           |   |   setup.iss
+|           |   |   setup.boot
+|           |   |   
+|           |   +---AGP
+|           |   |   +---current
+|           |   |   |   +---WIN2000
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       sisagpx.sys
+|           |   |   |   |       
+|           |   |   |   +---WIN2003
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       sisagpx.sys
+|           |   |   |   |       
+|           |   |   |   +---WIN98
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       SISAGP.PCI
+|           |   |   |   |       
+|           |   |   |   +---WINME
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       SISAGP.PCI
+|           |   |   |   |       
+|           |   |   |   \---WINXP
+|           |   |   |           sisagp.cat
+|           |   |   |           sisagp.inf
+|           |   |   |           sisagpx.sys
+|           |   |   |           
+|           |   |   \---old
+|           |   |       +---WIN2000
+|           |   |       |       sisagp.cat
+|           |   |       |       sisagp.inf
+|           |   |       |       sisagpx.sys
+|           |   |       |       
+|           |   |       +---WIN98
+|           |   |       |       sisagp.cat
+|           |   |       |       sisagp.inf
+|           |   |       |       SISAGP.pci
+|           |   |       |       
+|           |   |       +---WINME
+|           |   |       |       sisagp.cat
+|           |   |       |       sisagp.inf
+|           |   |       |       SISAGP.pci
+|           |   |       |       
+|           |   |       \---WINXP
+|           |   |               sisagp.cat
+|           |   |               sisagp.inf
+|           |   |               sisagpx.sys
+|           |   |               
+|           |   +---SISfiles
+|           |   |       AGPFunc.dll
+|           |   |       ata133ap.exe
+|           |   |       instdrv.exe
+|           |   |       SISAGP98.dll
+|           |   |       waitwnd.exe
+|           |   |       
+|           |   \---USB
+|           |       +---Win2K_XP
+|           |       |   \---WinXPUSB
+|           |       |           SISPORT.SYS
+|           |       |           SiSUSBrg.exe
+|           |       |           SIS_LIB.DLL
+|           |       |           
+|           |       \---Win9x
+|           |           \---SiSFiles
+|           |                   Mp_s3.exe
+|           |                   Openhci.sys
+|           |                   
+|           +---Language
+|           |       0006.lng
+|           |       0007.lng
+|           |       0009.lng
+|           |       000a.lng
+|           |       000b.lng
+|           |       0010.lng
+|           |       0011.lng
+|           |       0012.lng
+|           |       0013.lng
+|           |       0014.lng
+|           |       0019.lng
+|           |       001d.lng
+|           |       001e.lng
+|           |       0404.lng
+|           |       040c.lng
+|           |       0416.lng
+|           |       0804.lng
+|           |       0816.lng
+|           |       0c0c.lng
+|           |       
+|           +---setupDLL
+|           |       Instdrv.exe
+|           |       IsUninst.exe
+|           |       Progress.exe
+|           |       waitwnd.exe
+|           |       
+|           +---SETUPRES
+|           |       Setup.bmp
+|           |       Setup16.bmp
+|           |       title.bmp
+|           |       
+|           +---utilDLL
+|           |   |   LCDMode.exe
+|           |   |   SiSApCom.dll
+|           |   |   SiSCom.dll
+|           |   |   SiSCom.ini
+|           |   |   SiSCom.sys
+|           |   |   SiSHook.dll
+|           |   |   sislib.dll
+|           |   |   sislib.ini
+|           |   |   sisvb.dll
+|           |   |   TVMode.dll
+|           |   |   
+|           |   +---9xBin
+|           |   |   +---315
+|           |   |   |       oemrom.bin
+|           |   |   |       
+|           |   |   \---Xabre
+|           |   |           oemrom.bin
+|           |   |           
+|           |   \---ntBin
+|           |           sis315.bin
+|           |           xabre.bin
+|           |           
+|           +---UtilRes
+|           |   +---3DWizard
+|           |   |       sisut3d.dll
+|           |   |       
+|           |   +---Gamma
+|           |   |       gamma.bmp
+|           |   |       
+|           |   +---General
+|           |   |       Bk31x.bmp
+|           |   |       logo.bmp
+|           |   |       
+|           |   +---ICO
+|           |   |       trayicon.ico
+|           |   |       UNINS.ico
+|           |   |       XRotate.ico
+|           |   |       
+|           |   +---Info
+|           |   |       650.bmp
+|           |   |       651.bmp
+|           |   |       740.bmp
+|           |   |       mirage.bmp
+|           |   |       mirage1.bmp
+|           |   |       mirage2.bmp
+|           |   |       mirage3.bmp
+|           |   |       
+|           |   +---Manager
+|           |   |       SIS3D.AVI
+|           |   |       SISDM.AVI
+|           |   |       SISGAMMA.AVI
+|           |   |       SISINFO.AVI
+|           |   |       SISTV.AVI
+|           |   |       SISTVLCD.AVI
+|           |   |       SISVIDEO.AVI
+|           |   |       
+|           |   +---Sistray
+|           |   |       traylogo.bmp
+|           |   |       
+|           |   \---Video
+|           |           overlay1.bmp
+|           |           
+|           +---Win98_ME
+|           |       oemrom.bin
+|           |       SiSBase.dll
+|           |       sisdx.dll
+|           |       sisdx32.dll
+|           |       sisgl.dll
+|           |       sisgr.cat
+|           |       sisgr.drv
+|           |       sisgr.inf
+|           |       sisgr.vxd
+|           |       SiSInst.dll
+|           |       SiSParse.dll
+|           |       SiSPInst.dll
+|           |       
+|           +---WinXP64
+|           |       InstFunc.dll
+|           |       InstFunc.exe
+|           |       sis660.bin
+|           |       SiSBase.dll
+|           |       sisgl.dll
+|           |       sisgr.cat
+|           |       sisgr.inf
+|           |       sisgrp.pdb
+|           |       sisgrp.sys
+|           |       sisgrv.dll
+|           |       sisgrv.pdb
+|           |       SiSInst.dll
+|           |       SiSParse.dll
+|           |       SiSPInst.dll
+|           |       SiSPower.dll
+|           |       sisumgr.dll
+|           |       
+|           \---WinXP_2K
+|                   InstFunc.dll
+|                   InstFunc.exe
+|                   sis650.bin
+|                   sis660.bin
+|                   sis740.bin
+|                   sis741.bin
+|                   sis760.bin
+|                   SiSBase.dll
+|                   sisgl.dll
+|                   sisgr.cat
+|                   sisgr.inf
+|                   sisgrp.pdb
+|                   sisgrp.sys
+|                   sisgrv.dll
+|                   sisgrv.pdb
+|                   SiSInst.dll
+|                   SiSParse.dll
+|                   SiSPInst.dll
+|                   SiSPower.dll
+|                   srvkp.sys
+|                   
+\---HowToUse
+    |   Howtouse.html
+    |   
+    +---Contents
+    |       contents.html
+    |       Howtouse-old.html
+    |       left-00.htm
+    |       menu-contents.html
+    |       right-contents.html
+    |       
+    +---Guide
+    |       guide.html
+    |       Howtouse-old.html
+    |       left-guide.html
+    |       menu-guide.html
+    |       right-guide-sc.html
+    |       right-guide-tc.html
+    |       right-guide-pl.html
+    |       right-guide-in.html
+    |       right-guide-en.html
+    |       right-guide-fi.html
+    |       right-guide-nl.html
+    |       right-guide-hu.html
+    |       right-guide-pt.html
+    |       right-guide-it.html
+    |       right-guide-ru.html
+    |       right-guide-sv.html
+    |       right-guide-es.html
+    |       right-guide-fr.html
+    |       right-guide-no.html
+    |       right-guide.html
+    |       right-guide-cs.html
+    |       right-guide-da.html
+    |       right-guide-de.html
+    |       right-guide-el.html
+    |       
+    +---Home
+    |   |   bd-main.html
+    |   |   left-00.htm
+    |   |   menu.html
+    |   |   right-main.htm
+    |   |   top.html
+    |   |   
+    |   \---_notes
+    +---Images
+    |   |   bg.jpg
+    |   |   dot-gray.gif
+    |   |   function_01.gif
+    |   |   function_02.gif
+    |   |   icon_contents01.jpg
+    |   |   icon_contents02.jpg
+    |   |   icon_contents03.jpg
+    |   |   icon_detect01.jpg
+    |   |   icon_detect02.jpg
+    |   |   icon_detect03.jpg
+    |   |   icon_guide01.jpg
+    |   |   icon_guide02.jpg
+    |   |   icon_guide03.jpg
+    |   |   icon_install01.jpg
+    |   |   icon_install02.jpg
+    |   |   icon_install03.jpg
+    |   |   index_bg.jpg
+    |   |   left-bk.gif
+    |   |   mane-image.jpg
+    |   |   menu-bk-white.gif
+    |   |   menu-bk-00.gif
+    |   |   menu-bk-01.gif
+    |   |   menu-bk-02-white.gif
+    |   |   menu-bk-02.gif
+    |   |   menu-white.gif
+    |   |   menu_arrow_dn.gif
+    |   |   menu_arrow_sm.gif
+    |   |   orange-light.gif
+    |   |   orange-light2.gif
+    |   |   sub-dot-gray.gif
+    |   |   table-1.jpg
+    |   |   Table-1B.jpg
+    |   |   table-2.jpg
+    |   |   top-bk0.gif
+    |   |   top-name.gif
+    |   |   transparent.gif
+    |   |   
+    |   \---_notes
+    +---Install
+    |   |   2k_NAV.htm
+    |   |   Howtouse-old.html
+    |   |   install.html
+    |   |   left-install.html
+    |   |   menu-install.html
+    |   |   right-install.html
+    |   |   
+    |   +---Win2K
+    |   |       2k_80211.htm
+    |   |       2k_App.html
+    |   |       2k_Driver.html
+    |   |       2k_inf.htm
+    |   |       2k_Launch.htm
+    |   |       2K_List.html
+    |   |       2K_MODEM.htm
+    |   |       2k_speedstp.htm
+    |   |       2k_TouchPad.htm
+    |   |       2k_USB20.htm
+    |   |       2k_Utility.html
+    |   |       
+    |   \---WinXP
+    |           xp_80211.htm
+    |           xp_80211bg.htm
+    |           xp_aceroobe.htm
+    |           xp_agp.htm
+    |           xp_AMD64.htm
+    |           xp_AMDPONW.htm
+    |           xp_App.html
+    |           xp_Arcade.htm
+    |           xp_Audio.htm
+    |           xp_bluetooth.htm
+    |           XP_Cardbus.htm
+    |           XP_cardreader.htm
+    |           xp_cdmmc.htm
+    |           xp_cdmaker.htm
+    |           xp_Director.htm
+    |           xp_DirectX.htm
+    |           xp_Display.htm
+    |           xp_Driver.html
+    |           xp_easybut.htm
+    |           xp_eManager.htm
+    |           xp_ePower.htm
+    |           xp_FileCD.htm
+    |           xp_FIR.htm
+    |           xp_inf.htm
+    |           xp_InviLink.htm
+    |           xp_lan.htm
+    |           xp_lanXX.htm
+    |           xp_Launch.htm
+    |           xp_List.html
+    |           XP_MODEM.htm
+    |           xp_NBMgr.htm
+    |           xp_Norton.htm
+    |           XP_P2P.htm
+    |           xp_PowerDVD.htm
+    |           xp_Proset.htm
+    |           xp_q823980.htm
+    |           xp_smartap.htm
+    |           xp_smartc.htm
+    |           xp_speedstp.htm
+    |           xp_SunJVM.htm
+    |           xp_TouchPad.htm
+    |           xp_Utility.html
+    |           
+    \---_notes

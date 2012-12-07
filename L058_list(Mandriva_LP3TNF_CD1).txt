@@ -1,0 +1,1915 @@
+ Volume in drive G is 2006.0-Disc1
+ Volume Serial Number is 2368-3CFC
+
+ Directory of G:\
+
+02/05/2005  02:51 AM            18,383 COPYING
+09/16/2005  07:31 PM             6,932 INSTALL.txt
+09/16/2005  07:31 PM             4,744 LICENSE.txt
+10/12/2004  10:25 PM                 0 MD5SUM
+09/01/2005  11:03 PM             3,444 README.txt
+09/27/2005  03:00 PM                58 VERSION
+02/10/2004  09:28 PM                65 autorun.inf
+07/27/2005  07:11 PM           167,520 default.xbe
+09/27/2005  02:57 PM    <DIR>          doc
+09/27/2005  02:57 PM    <DIR>          dosutils
+09/23/2005  04:45 PM           170,496 export
+09/16/2005  07:31 PM            10,232 index.htm
+09/27/2005  02:57 PM    <DIR>          install
+09/27/2005  02:57 PM    <DIR>          isolinux
+09/27/2005  02:57 PM    <DIR>          lang
+07/27/2005  07:11 PM               121 linuxboot.cfg
+09/27/2005  02:57 PM    <DIR>          media
+09/27/2005  02:57 PM    <DIR>          misc
+09/27/2005  03:00 PM            80,097 pkg-2006.0.idx
+09/26/2005  11:36 PM            24,774 release-notes.txt
+              13 File(s)        486,866 bytes
+
+ Directory of G:\doc
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM    <DIR>          install
+               0 File(s)              0 bytes
+
+ Directory of G:\doc\install
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM    <DIR>          af
+09/27/2005  02:57 PM    <DIR>          ar
+09/27/2005  02:57 PM    <DIR>          az
+09/27/2005  02:57 PM    <DIR>          bg
+09/27/2005  02:57 PM    <DIR>          bn
+09/27/2005  02:57 PM    <DIR>          br
+09/27/2005  02:57 PM    <DIR>          bs
+09/27/2005  02:57 PM    <DIR>          ca
+09/27/2005  02:57 PM    <DIR>          cs
+09/27/2005  02:57 PM    <DIR>          cy
+09/27/2005  02:57 PM    <DIR>          da
+09/27/2005  02:57 PM    <DIR>          de
+09/27/2005  02:57 PM    <DIR>          el
+09/27/2005  02:57 PM    <DIR>          eo
+09/27/2005  02:57 PM    <DIR>          es
+09/27/2005  02:57 PM    <DIR>          et
+09/27/2005  02:57 PM    <DIR>          eu
+09/27/2005  02:57 PM    <DIR>          fa
+09/27/2005  02:57 PM    <DIR>          fi
+09/27/2005  02:57 PM    <DIR>          fr
+09/27/2005  02:57 PM    <DIR>          ga
+09/27/2005  02:57 PM    <DIR>          gl
+09/27/2005  02:57 PM    <DIR>          he
+09/27/2005  02:57 PM    <DIR>          hi
+09/27/2005  02:57 PM    <DIR>          hr
+09/27/2005  02:57 PM    <DIR>          hu
+09/27/2005  02:57 PM    <DIR>          id
+09/27/2005  02:57 PM    <DIR>          images
+09/27/2005  02:57 PM    <DIR>          is
+09/27/2005  02:57 PM    <DIR>          it
+09/27/2005  02:57 PM    <DIR>          ja
+09/27/2005  02:57 PM    <DIR>          ka
+09/27/2005  02:57 PM    <DIR>          ku
+09/27/2005  02:57 PM    <DIR>          ky
+09/27/2005  02:57 PM    <DIR>          lt
+09/27/2005  02:57 PM    <DIR>          lv
+09/27/2005  02:57 PM    <DIR>          mk
+09/27/2005  02:57 PM    <DIR>          mn
+09/27/2005  02:57 PM    <DIR>          mt
+09/27/2005  02:57 PM    <DIR>          nl
+09/27/2005  02:57 PM    <DIR>          no
+09/27/2005  02:57 PM    <DIR>          pa_IN
+09/27/2005  02:57 PM    <DIR>          pl
+09/27/2005  02:57 PM    <DIR>          po
+09/27/2005  02:57 PM    <DIR>          pt
+09/27/2005  02:57 PM    <DIR>          pt_BR
+09/27/2005  02:57 PM    <DIR>          ro
+09/27/2005  02:57 PM    <DIR>          ru
+09/27/2005  02:57 PM    <DIR>          sc
+09/27/2005  02:57 PM    <DIR>          sk
+09/27/2005  02:57 PM    <DIR>          sl
+09/27/2005  02:57 PM    <DIR>          sq
+09/27/2005  02:57 PM    <DIR>          sr
+09/27/2005  02:57 PM    <DIR>          sv
+09/27/2005  02:57 PM    <DIR>          ta
+09/27/2005  02:57 PM    <DIR>          tg
+09/27/2005  02:57 PM    <DIR>          tl
+09/27/2005  02:57 PM    <DIR>          tr
+09/27/2005  02:57 PM    <DIR>          uk
+09/27/2005  02:57 PM    <DIR>          uz
+09/27/2005  02:57 PM    <DIR>          vi
+09/27/2005  02:57 PM    <DIR>          zh_CN
+09/27/2005  02:57 PM    <DIR>          zh_TW
+               0 File(s)              0 bytes
+
+ Directory of G:\doc\install\af
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,145 INSTALL.txt
+08/21/2002  08:12 AM             1,428 LICENSE-APPS.txt
+09/01/2005  10:50 PM             4,730 LICENSE.txt
+09/01/2005  10:50 PM             3,493 README.txt
+09/01/2005  10:50 PM             7,539 index.htm
+09/01/2005  10:50 PM             9,765 install.htm
+               6 File(s)         34,100 bytes
+
+ Directory of G:\doc\install\ar
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,634 INSTALL.txt
+09/01/2005  10:50 PM             3,252 README.txt
+09/01/2005  10:50 PM             8,684 index.htm
+09/01/2005  10:50 PM            12,406 install.htm
+               4 File(s)         30,976 bytes
+
+ Directory of G:\doc\install\az
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             8,347 INSTALL.txt
+09/01/2005  10:50 PM             3,842 README.txt
+09/01/2005  10:50 PM             7,861 index.htm
+09/01/2005  10:50 PM            11,018 install.htm
+               4 File(s)         31,068 bytes
+
+ Directory of G:\doc\install\bg
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,710 INSTALL.txt
+09/01/2005  10:50 PM             3,598 README.txt
+09/01/2005  10:50 PM             9,329 index.htm
+09/01/2005  10:50 PM            14,037 install.htm
+               4 File(s)         34,674 bytes
+
+ Directory of G:\doc\install\bn
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            14,304 INSTALL.txt
+09/01/2005  10:50 PM             6,833 README.txt
+09/01/2005  10:50 PM            11,054 index.htm
+09/01/2005  10:50 PM            17,037 install.htm
+               4 File(s)         49,228 bytes
+
+ Directory of G:\doc\install\br
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,146 INSTALL.txt
+09/01/2005  10:50 PM             3,521 README.txt
+09/01/2005  10:50 PM             7,582 index.htm
+09/01/2005  10:50 PM             9,806 install.htm
+               4 File(s)         28,055 bytes
+
+ Directory of G:\doc\install\bs
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,213 INSTALL.txt
+09/01/2005  10:50 PM             3,593 README.txt
+09/01/2005  10:50 PM             7,591 index.htm
+09/01/2005  10:50 PM             9,831 install.htm
+               4 File(s)         28,228 bytes
+
+ Directory of G:\doc\install\ca
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,433 INSTALL.txt
+02/20/2004  12:51 AM             1,455 LICENSE-APPS.txt
+09/01/2005  10:50 PM             5,528 LICENSE.txt
+09/01/2005  10:50 PM             3,747 README.txt
+09/01/2005  10:50 PM             7,821 index.htm
+09/01/2005  10:50 PM            10,190 install.htm
+               6 File(s)         36,174 bytes
+
+ Directory of G:\doc\install\cs
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,190 INSTALL.dos
+09/01/2005  10:50 PM             7,190 INSTALL.txt
+09/01/2005  10:50 PM             7,190 INSTALL.win
+09/01/2005  10:50 PM             3,632 README.txt
+09/01/2005  10:50 PM             7,818 index.htm
+09/01/2005  10:50 PM            10,153 install.htm
+               6 File(s)         43,173 bytes
+
+ Directory of G:\doc\install\cy
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,282 INSTALL.txt
+09/01/2005  10:50 PM             3,534 README.txt
+09/01/2005  10:50 PM             7,474 index.htm
+09/01/2005  10:50 PM             9,657 install.htm
+               4 File(s)         27,947 bytes
+
+ Directory of G:\doc\install\da
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,090 INSTALL.txt
+09/01/2005  10:50 PM             3,392 README.txt
+09/01/2005  10:50 PM             7,399 index.htm
+09/01/2005  10:50 PM             9,743 install.htm
+               4 File(s)         27,624 bytes
+
+ Directory of G:\doc\install\de
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            29,381 COPYING.htm
+09/01/2005  10:50 PM             8,400 INSTALL.txt
+10/09/2000  09:48 PM             1,487 LICENSE-APPS.txt
+09/01/2005  10:50 PM             5,279 LICENSE.txt
+09/01/2005  10:50 PM             3,816 README.txt
+09/01/2005  10:50 PM             7,834 index.htm
+09/01/2005  10:50 PM            10,946 install.htm
+               7 File(s)         67,143 bytes
+
+ Directory of G:\doc\install\el
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,605 INSTALL.txt
+09/01/2005  10:50 PM             3,708 README.txt
+09/01/2005  10:50 PM             9,450 index.htm
+09/01/2005  10:50 PM            13,989 install.htm
+               4 File(s)         34,752 bytes
+
+ Directory of G:\doc\install\eo
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,468 INSTALL.txt
+09/01/2005  10:50 PM             3,562 README.txt
+09/01/2005  10:50 PM             7,564 index.htm
+09/01/2005  10:50 PM            10,083 install.htm
+               4 File(s)         28,677 bytes
+
+ Directory of G:\doc\install\es
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,485 INSTALL.txt
+10/09/2000  09:48 PM             1,623 LICENSE-APPS.txt
+09/01/2005  10:50 PM             5,186 LICENSE.txt
+09/01/2005  10:50 PM             3,860 README.txt
+09/01/2005  10:50 PM             7,927 index.htm
+09/01/2005  10:50 PM            10,054 install.htm
+               6 File(s)         36,135 bytes
+
+ Directory of G:\doc\install\et
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             7,051 INSTALL.txt
+09/16/2005  08:45 PM             3,600 README.txt
+09/16/2005  08:45 PM             7,573 index.htm
+09/16/2005  08:45 PM             9,574 install.htm
+               4 File(s)         27,798 bytes
+
+ Directory of G:\doc\install\eu
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,257 INSTALL.txt
+09/01/2005  10:50 PM             3,578 README.txt
+09/01/2005  10:50 PM             7,547 index.htm
+09/01/2005  10:50 PM             9,793 install.htm
+               4 File(s)         28,175 bytes
+
+ Directory of G:\doc\install\fa
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            10,652 INSTALL.txt
+09/01/2005  10:50 PM             4,987 README.txt
+09/01/2005  10:50 PM             9,064 index.htm
+09/01/2005  10:50 PM            13,129 install.htm
+               4 File(s)         37,832 bytes
+
+ Directory of G:\doc\install\fi
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,947 INSTALL.txt
+09/01/2005  10:50 PM             3,457 README.txt
+09/01/2005  10:50 PM             7,492 index.htm
+09/01/2005  10:50 PM             9,581 install.htm
+               4 File(s)         27,477 bytes
+
+ Directory of G:\doc\install\fr
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,859 INSTALL.txt
+10/09/2000  09:48 PM             1,770 LICENSE-APPS.txt
+09/01/2005  10:50 PM             4,860 LICENSE.txt
+09/01/2005  10:50 PM             4,032 README.txt
+09/01/2005  10:50 PM             8,130 index.htm
+09/01/2005  10:50 PM            10,796 install.htm
+               6 File(s)         37,447 bytes
+
+ Directory of G:\doc\install\ga
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,006 INSTALL.txt
+09/01/2005  10:50 PM             9,379 install.htm
+               2 File(s)         16,385 bytes
+
+ Directory of G:\doc\install\gl
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,314 INSTALL.txt
+09/01/2005  10:50 PM             3,701 README.txt
+09/01/2005  10:50 PM             7,790 index.htm
+09/01/2005  10:50 PM            10,030 install.htm
+               4 File(s)         28,835 bytes
+
+ Directory of G:\doc\install\he
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             9,036 INSTALL.txt
+09/01/2005  10:50 PM             4,332 README.txt
+09/01/2005  10:50 PM             8,369 index.htm
+09/01/2005  10:50 PM            11,603 install.htm
+               4 File(s)         33,340 bytes
+
+ Directory of G:\doc\install\hi
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            14,624 INSTALL.txt
+09/01/2005  10:50 PM             7,623 README.txt
+09/01/2005  10:50 PM            11,902 index.htm
+09/01/2005  10:50 PM            17,420 install.htm
+               4 File(s)         51,569 bytes
+
+ Directory of G:\doc\install\hr
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,999 INSTALL.txt
+09/01/2005  10:50 PM             3,375 README.txt
+09/01/2005  10:50 PM             7,362 index.htm
+09/01/2005  10:50 PM             9,597 install.htm
+               4 File(s)         27,333 bytes
+
+ Directory of G:\doc\install\hu
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,736 INSTALL.txt
+09/11/2003  02:49 AM             1,595 LICENSE-APPS-hu.txt
+09/01/2005  10:50 PM             5,326 LICENSE-hu.txt
+09/01/2005  10:50 PM             3,669 README.txt
+09/01/2005  10:50 PM             7,805 index.htm
+09/01/2005  10:50 PM            10,751 install.htm
+               6 File(s)         36,882 bytes
+
+ Directory of G:\doc\install\id
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,238 INSTALL.txt
+09/01/2005  10:50 PM             3,531 README.txt
+09/01/2005  10:50 PM             7,465 index.htm
+09/01/2005  10:50 PM             9,731 install.htm
+               4 File(s)         27,965 bytes
+
+ Directory of G:\doc\install\images
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/02/2005  12:37 AM            11,076 LMDK.jpg
+               1 File(s)         11,076 bytes
+
+ Directory of G:\doc\install\is
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,917 INSTALL.txt
+09/01/2005  10:50 PM             3,408 README.txt
+09/01/2005  10:50 PM             7,578 index.htm
+09/01/2005  10:50 PM             9,938 install.htm
+               4 File(s)         27,841 bytes
+
+ Directory of G:\doc\install\it
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,703 INSTALL.txt
+04/12/2001  03:36 PM             1,608 LICENSE-APPS.txt
+09/01/2005  10:50 PM             4,955 LICENSE.txt
+09/01/2005  10:50 PM             3,775 README.txt
+09/01/2005  10:50 PM             7,762 index.htm
+09/01/2005  10:50 PM            10,263 install.htm
+               6 File(s)         36,066 bytes
+
+ Directory of G:\doc\install\ja
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,989 INSTALL.euc
+09/01/2005  10:50 PM             6,989 INSTALL.txt
+09/01/2005  10:50 PM             3,374 README.euc
+09/01/2005  10:50 PM             3,374 README.txt
+09/01/2005  10:50 PM             8,298 index.htm
+09/01/2005  10:50 PM            11,555 install.htm
+               6 File(s)         40,579 bytes
+
+ Directory of G:\doc\install\ka
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            58,295 COPYING.htm
+09/01/2005  10:50 PM            16,620 INSTALL.txt
+09/01/2005  10:50 PM             8,872 README.txt
+09/01/2005  10:50 PM            13,298 index.htm
+09/01/2005  10:50 PM            19,263 install.htm
+               5 File(s)        116,348 bytes
+
+ Directory of G:\doc\install\ku
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             9,052 INSTALL.txt
+09/01/2005  10:50 PM             3,837 README.txt
+09/01/2005  10:50 PM             7,771 index.htm
+09/01/2005  10:50 PM            11,556 install.htm
+               4 File(s)         32,216 bytes
+
+ Directory of G:\doc\install\ky
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            11,182 INSTALL.txt
+09/01/2005  10:50 PM             5,409 README.txt
+09/01/2005  10:50 PM             9,531 index.htm
+09/01/2005  10:50 PM            13,799 install.htm
+               4 File(s)         39,921 bytes
+
+ Directory of G:\doc\install\lt
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,233 INSTALL.txt
+09/01/2005  10:50 PM             3,551 README.txt
+09/01/2005  10:50 PM             7,590 index.htm
+09/01/2005  10:50 PM            10,004 install.htm
+               4 File(s)         28,378 bytes
+
+ Directory of G:\doc\install\lv
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,232 INSTALL.txt
+09/01/2005  10:50 PM             3,564 README.txt
+09/01/2005  10:50 PM             7,701 index.htm
+09/01/2005  10:50 PM            10,091 install.htm
+               4 File(s)         28,588 bytes
+
+ Directory of G:\doc\install\mk
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            10,924 INSTALL.txt
+09/01/2005  10:50 PM             5,286 README.txt
+09/01/2005  10:50 PM             9,480 index.htm
+09/01/2005  10:50 PM            13,611 install.htm
+               4 File(s)         39,301 bytes
+
+ Directory of G:\doc\install\mn
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            10,290 INSTALL.txt
+09/01/2005  10:50 PM             4,596 README.txt
+09/01/2005  10:50 PM             8,691 index.htm
+09/01/2005  10:50 PM            12,903 install.htm
+               4 File(s)         36,480 bytes
+
+ Directory of G:\doc\install\mt
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,274 INSTALL.txt
+09/01/2005  10:50 PM             3,701 README.txt
+09/01/2005  10:50 PM             7,678 index.htm
+09/01/2005  10:50 PM             9,831 install.htm
+               4 File(s)         28,484 bytes
+
+ Directory of G:\doc\install\nl
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,582 INSTALL.txt
+09/01/2005  10:50 PM             3,688 README.txt
+09/01/2005  10:50 PM             7,625 index.htm
+09/01/2005  10:50 PM            10,092 install.htm
+               4 File(s)         28,987 bytes
+
+ Directory of G:\doc\install\no
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             7,016 INSTALL.txt
+09/16/2005  08:45 PM             3,423 README.txt
+09/16/2005  08:45 PM             7,438 index.htm
+09/16/2005  08:45 PM             9,651 install.htm
+               4 File(s)         27,528 bytes
+
+ Directory of G:\doc\install\pa_IN
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            12,905 INSTALL.txt
+09/01/2005  10:50 PM             6,276 README.txt
+09/01/2005  10:50 PM            10,494 index.htm
+09/01/2005  10:50 PM            15,623 install.htm
+               4 File(s)         45,298 bytes
+
+ Directory of G:\doc\install\pl
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,246 INSTALL.txt
+09/08/2004  09:14 AM             1,379 LICENSE-APPS.txt
+09/01/2005  10:50 PM             3,621 README.txt
+09/01/2005  10:50 PM             7,704 index.htm
+09/01/2005  10:50 PM            10,057 install.htm
+               5 File(s)         30,007 bytes
+
+ Directory of G:\doc\install\po
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            18,753 CD_README.pot
+09/01/2005  10:50 PM            26,419 af.po
+09/01/2005  10:50 PM            21,171 am.po
+09/01/2005  10:50 PM            30,153 ar.po
+09/01/2005  10:50 PM            20,731 as.po
+09/01/2005  10:50 PM            28,221 az.po
+09/01/2005  10:50 PM            32,230 bg.po
+09/01/2005  10:50 PM            37,300 bn.po
+09/01/2005  10:50 PM            25,010 br.po
+09/01/2005  10:50 PM            26,753 bs.po
+09/01/2005  10:50 PM            27,245 ca.po
+09/01/2005  10:50 PM            27,390 cs.po
+09/01/2005  10:50 PM            26,420 cy.po
+09/01/2005  10:50 PM            26,338 da.po
+09/01/2005  10:50 PM            28,112 de.po
+09/01/2005  10:50 PM            32,392 el.po
+09/01/2005  10:50 PM            26,826 eo.po
+09/01/2005  10:50 PM            27,221 es.po
+09/09/2005  04:27 AM            26,225 et.po
+09/01/2005  10:50 PM            26,727 eu.po
+09/01/2005  10:50 PM            31,246 fa.po
+09/01/2005  10:50 PM            26,281 fi.po
+09/01/2005  10:50 PM            28,199 fr.po
+09/01/2005  10:50 PM            21,540 ga.po
+09/01/2005  10:50 PM            26,953 gl.po
+09/01/2005  10:50 PM            29,205 he.po
+09/01/2005  10:50 PM            38,420 hi.po
+09/01/2005  10:50 PM            26,358 hr.po
+09/01/2005  10:50 PM            27,893 hu.po
+09/02/2005  08:51 PM            26,751 id.po
+09/01/2005  10:50 PM            26,695 is.po
+09/01/2005  10:50 PM            27,383 it.po
+09/01/2005  10:50 PM            29,007 ja.po
+09/01/2005  10:50 PM            41,187 ka.po
+09/01/2005  10:50 PM            28,882 ku.po
+09/01/2005  10:50 PM            32,325 ky.po
+09/01/2005  10:50 PM            26,724 lt.po
+09/01/2005  10:50 PM            26,288 lv.po
+09/01/2005  10:50 PM            33,232 mk.po
+09/01/2005  10:50 PM            30,040 mn.po
+09/15/2005  08:19 PM            24,416 ms.po
+09/01/2005  10:50 PM            26,787 mt.po
+09/01/2005  10:50 PM            26,641 nb.po
+09/01/2005  10:50 PM            27,062 nl.po
+09/01/2005  10:50 PM            35,097 pa_IN.po
+09/01/2005  10:50 PM            26,980 pl.po
+09/01/2005  10:50 PM            27,009 pt.po
+09/13/2005  12:07 AM            27,123 pt_BR.po
+09/01/2005  10:50 PM            27,390 ro.po
+09/01/2005  10:50 PM            32,481 ru.po
+09/16/2005  08:45 PM            26,102 sc.po
+09/01/2005  10:50 PM            27,241 sk.po
+09/01/2005  10:50 PM            26,518 sl.po
+09/01/2005  10:50 PM            27,095 sq.po
+09/01/2005  10:50 PM            28,673 sr.po
+09/01/2005  10:50 PM            26,350 sv.po
+09/01/2005  10:50 PM            32,976 ta.po
+09/01/2005  10:50 PM            32,586 tg.po
+09/01/2005  10:50 PM            27,630 tl.po
+09/27/2005  02:57 PM    <DIR>          tools
+09/01/2005  10:50 PM            28,091 tr.po
+09/14/2005  06:44 PM            32,703 uk.po
+09/01/2005  10:50 PM            30,893 uz.po
+09/01/2005  10:50 PM            26,541 uz@Latn.po
+09/01/2005  10:50 PM            27,788 vi.po
+09/01/2005  10:50 PM            25,784 zh_CN.po
+09/01/2005  10:50 PM            27,101 zh_TW.po
+              66 File(s)      1,861,304 bytes
+
+ Directory of G:\doc\install\po\tools
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            13,651 create_INSTALL.txt.pl
+09/01/2005  10:50 PM             8,630 create_README.txt.pl
+04/07/2005  07:05 PM               539 create_html.sh
+09/01/2005  10:50 PM            15,305 create_index.htm.pl
+09/01/2005  10:50 PM            17,105 create_install.htm.pl
+               5 File(s)         55,230 bytes
+
+ Directory of G:\doc\install\pt
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             7,350 INSTALL.txt
+09/16/2005  08:45 PM             3,628 README.txt
+09/16/2005  08:45 PM             7,672 index.htm
+09/16/2005  08:45 PM            10,032 install.htm
+               4 File(s)         28,682 bytes
+
+ Directory of G:\doc\install\pt_BR
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             7,425 INSTALL.txt
+09/16/2005  08:45 PM             3,786 README.txt
+09/16/2005  08:45 PM             7,878 index.htm
+09/16/2005  08:45 PM            10,171 install.htm
+               4 File(s)         29,260 bytes
+
+ Directory of G:\doc\install\ro
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,561 INSTALL.txt
+09/01/2005  10:50 PM             7,561 INSTALL.txt-latin2
+09/01/2005  10:50 PM             3,605 README.txt
+09/01/2005  10:50 PM             3,605 README.txt-latin2
+09/01/2005  10:50 PM             7,672 index.htm
+09/01/2005  10:50 PM            10,363 install.htm
+               6 File(s)         40,367 bytes
+
+ Directory of G:\doc\install\ru
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,634 INSTALL.txt
+09/01/2005  10:50 PM             3,735 README.txt
+09/01/2005  10:50 PM             9,585 index.htm
+09/01/2005  10:50 PM            13,910 install.htm
+               4 File(s)         34,864 bytes
+
+ Directory of G:\doc\install\sc
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             6,924 INSTALL.txt
+09/16/2005  08:45 PM             3,508 README.txt
+09/16/2005  08:45 PM             7,555 index.htm
+09/16/2005  08:45 PM             9,518 install.htm
+               4 File(s)         27,505 bytes
+
+ Directory of G:\doc\install\sk
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,311 INSTALL.txt
+09/01/2005  10:50 PM             5,073 LICENSE.txt
+09/01/2005  10:50 PM             3,638 README.txt
+09/01/2005  10:50 PM             7,826 index.htm
+09/01/2005  10:50 PM            10,272 install.htm
+               5 File(s)         34,120 bytes
+
+ Directory of G:\doc\install\sl
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,074 INSTALL.txt
+09/01/2005  10:50 PM             3,522 README.txt
+09/01/2005  10:50 PM             7,474 index.htm
+09/01/2005  10:50 PM             9,641 install.htm
+               4 File(s)         27,711 bytes
+
+ Directory of G:\doc\install\sq
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,718 INSTALL.txt
+09/01/2005  10:50 PM             3,697 README.txt
+09/01/2005  10:50 PM             7,828 index.htm
+09/01/2005  10:50 PM            10,572 install.htm
+               4 File(s)         29,815 bytes
+
+ Directory of G:\doc\install\sr
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,909 INSTALL.lat
+09/01/2005  10:50 PM             9,175 INSTALL.txt
+09/01/2005  10:50 PM             3,517 README.lat
+09/01/2005  10:50 PM             4,650 README.txt
+09/01/2005  10:50 PM             8,731 index.htm
+09/01/2005  10:50 PM            11,689 install.htm
+               6 File(s)         44,671 bytes
+
+ Directory of G:\doc\install\sv
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,907 INSTALL.txt
+10/09/2000  09:48 PM             1,256 LICENSE-APPS.txt
+09/01/2005  10:50 PM             4,404 LICENSE.txt
+09/01/2005  10:50 PM             3,467 README.txt
+09/01/2005  10:50 PM             7,527 index.htm
+09/01/2005  10:50 PM             9,661 install.htm
+               6 File(s)         33,222 bytes
+
+ Directory of G:\doc\install\ta
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            12,643 INSTALL.txt
+09/01/2005  10:50 PM             5,519 README.txt
+09/01/2005  10:50 PM             9,560 index.htm
+09/01/2005  10:50 PM            15,071 install.htm
+               4 File(s)         42,793 bytes
+
+ Directory of G:\doc\install\tg
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM            11,390 INSTALL.txt
+09/01/2005  10:50 PM             5,363 README.txt
+09/01/2005  10:50 PM             9,484 index.htm
+09/01/2005  10:50 PM            14,052 install.htm
+               4 File(s)         40,289 bytes
+
+ Directory of G:\doc\install\tl
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,863 INSTALL.txt
+09/01/2005  10:50 PM             3,858 README.txt
+09/01/2005  10:50 PM             7,831 index.htm
+09/01/2005  10:50 PM            10,439 install.htm
+               4 File(s)         29,991 bytes
+
+ Directory of G:\doc\install\tr
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             8,361 INSTALL.txt
+09/11/2002  07:11 AM             1,057 LICENSE-APPS.txt
+09/01/2005  10:50 PM             3,548 README.txt
+09/01/2005  10:50 PM             7,640 index.htm
+09/01/2005  10:50 PM            11,285 install.htm
+               5 File(s)         31,891 bytes
+
+ Directory of G:\doc\install\uk
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/16/2005  08:45 PM             7,737 INSTALL.txt
+09/16/2005  08:45 PM             3,679 README-1251.txt
+09/16/2005  08:45 PM             3,679 README.txt
+09/16/2005  08:45 PM             9,483 index.htm
+09/16/2005  08:45 PM            14,323 install.htm
+               5 File(s)         38,901 bytes
+
+ Directory of G:\doc\install\uz
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             7,617 INSTALL.txt
+09/01/2005  10:50 PM             3,671 README.txt
+09/01/2005  10:50 PM             7,615 index.htm
+09/01/2005  10:50 PM            10,105 install.htm
+               4 File(s)         29,008 bytes
+
+ Directory of G:\doc\install\vi
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,930 INSTALL.tcv
+09/01/2005  10:50 PM             8,216 INSTALL.txt
+09/01/2005  10:50 PM             3,396 README.tcv
+09/01/2005  10:50 PM             3,935 README.txt
+09/01/2005  10:50 PM             7,876 index.htm
+09/01/2005  10:50 PM            10,668 install.htm
+               6 File(s)         41,021 bytes
+
+ Directory of G:\doc\install\zh_CN
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             5,483 INSTALL.txt
+09/01/2005  10:50 PM             2,883 README.txt
+09/01/2005  10:50 PM             7,353 index.htm
+09/01/2005  10:50 PM             9,268 install.htm
+               4 File(s)         24,987 bytes
+
+ Directory of G:\doc\install\zh_TW
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/01/2005  10:50 PM             6,971 INSTALL.txt
+09/01/2005  10:50 PM             3,703 README.txt
+09/01/2005  10:50 PM             7,696 index.htm
+09/01/2005  10:50 PM             9,687 install.htm
+               4 File(s)         28,057 bytes
+
+ Directory of G:\dosutils
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+04/03/2001  05:32 PM               330 README
+09/08/2004  09:00 PM           520,704 autorun.exe
+09/19/2002  08:56 PM            11,502 autorun.ico
+09/01/2000  02:35 PM            21,190 diskio.dll
+09/01/2000  02:35 PM           172,096 fips.exe
+09/01/2000  02:35 PM            39,910 gzip.exe
+09/27/2005  02:57 PM    <DIR>          lang
+09/01/2000  02:35 PM            14,305 rawrite.exe
+09/01/2000  02:35 PM           378,368 rawwrite.exe
+09/01/2000  02:35 PM           378,368 rawwritewin.exe
+09/01/2000  02:35 PM             9,480 rdev.exe
+09/01/2000  02:35 PM            13,614 restorrb.exe
+              11 File(s)      1,559,867 bytes
+
+ Directory of G:\dosutils\lang
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/14/2004  07:26 PM            99,317 autorun-10.1.jpg
+08/29/2005  07:26 PM             4,372 autorun.conf
+               2 File(s)        103,689 bytes
+
+ Directory of G:\install
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM    <DIR>          extra
+09/27/2005  02:57 PM    <DIR>          images
+09/27/2005  02:57 PM    <DIR>          stage2
+               0 File(s)              0 bytes
+
+ Directory of G:\install\extra
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM    <DIR>          advertising
+               0 File(s)              0 bytes
+
+ Directory of G:\install\extra\advertising
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+08/31/2005  06:03 PM                58 01.pl
+09/07/2005  11:09 PM           118,868 01.png
+08/31/2005  06:04 PM                66 02.pl
+09/07/2005  11:09 PM           130,309 02.png
+08/31/2005  06:04 PM                52 03.pl
+09/07/2005  11:10 PM           103,469 03.png
+08/31/2005  06:04 PM                46 04.pl
+09/07/2005  11:10 PM           128,549 04.png
+08/31/2005  06:04 PM                51 05.pl
+09/07/2005  11:10 PM            64,047 05.png
+08/31/2005  06:05 PM                70 06.pl
+09/07/2005  11:10 PM           120,364 06.png
+08/31/2005  06:05 PM                53 07.pl
+09/07/2005  11:10 PM           117,847 07.png
+08/31/2005  06:05 PM                49 08.pl
+09/07/2005  11:11 PM           101,301 08.png
+08/31/2005  06:05 PM                41 09.pl
+09/07/2005  11:11 PM           139,248 09.png
+08/31/2005  06:16 PM                51 10.pl
+09/07/2005  11:11 PM           114,298 10.png
+08/31/2005  06:17 PM                51 11.pl
+09/07/2005  11:12 PM           121,135 11.png
+08/31/2005  06:18 PM                67 12.pl
+09/07/2005  11:12 PM            83,498 12.png
+09/03/2005  12:15 AM                74 13.pl
+09/07/2005  11:13 PM           144,564 13.png
+08/31/2005  06:06 PM                57 14.pl
+09/07/2005  11:13 PM           108,585 14.png
+08/31/2005  06:06 PM                59 15.pl
+09/07/2005  11:14 PM           132,836 15.png
+08/31/2005  06:19 PM                71 16.pl
+09/07/2005  11:14 PM           132,097 16.png
+08/31/2005  06:07 PM                54 17.pl
+09/07/2005  11:14 PM           103,010 17.png
+08/31/2005  06:07 PM                48 18.pl
+09/07/2005  11:15 PM           150,303 18.png
+08/31/2005  06:07 PM                65 19.pl
+09/07/2005  11:15 PM           110,817 19.png
+08/31/2005  06:07 PM                55 20.pl
+09/07/2005  11:16 PM           111,347 20.png
+08/31/2005  06:07 PM                43 21.pl
+09/07/2005  11:16 PM           112,176 21.png
+08/31/2005  06:19 PM                69 22.pl
+09/07/2005  11:16 PM           110,507 22.png
+08/31/2005  06:20 PM                66 23.pl
+09/07/2005  11:17 PM           102,567 23.png
+08/31/2005  06:08 PM                67 24.pl
+09/07/2005  11:17 PM            84,918 24.png
+08/31/2005  06:08 PM                73 25.pl
+09/07/2005  11:17 PM           153,257 25.png
+08/31/2005  06:08 PM                71 26.pl
+09/07/2005  11:18 PM            89,948 26.png
+09/19/2005  04:59 PM                46 intel.pl
+09/19/2005  04:56 PM             7,920 intel.png
+09/27/2005  02:57 PM               202 list
+09/16/2005  03:48 PM                88 skype.pl
+09/16/2005  03:44 PM            17,190 skype.png
+              57 File(s)      3,016,838 bytes
+
+ Directory of G:\install\images
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:46 PM               416 MD5SUM
+09/13/2004  08:49 PM             3,487 README
+09/23/2005  04:46 PM         8,192,000 all.img
+09/27/2005  02:57 PM    <DIR>          alternatives
+09/23/2005  04:46 PM        13,135,872 boot.iso
+09/23/2005  04:46 PM         1,474,560 cdrom.img
+09/23/2005  04:46 PM           166,580 hd_grub.img
+09/23/2005  04:46 PM         3,020,800 ka.img
+09/23/2005  04:46 PM         1,474,560 network.img
+09/23/2005  04:46 PM         1,474,560 network_drivers.img
+09/23/2005  04:46 PM         1,474,560 pcmcia.img
+              10 File(s)     30,417,395 bytes
+
+ Directory of G:\install\images\alternatives
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:46 PM                60 MD5SUM
+09/23/2005  04:46 PM         8,192,000 all.img-2.6.8.1-12mdkBOOT
+               2 File(s)      8,192,060 bytes
+
+ Directory of G:\install\stage2
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:47 PM                48 VERSION
+09/23/2005  04:48 PM        47,112,719 mdkinst.clp
+07/15/2005  10:32 PM                 0 mdkinst.clp.iso
+09/23/2005  04:47 PM                60 mdkinst.kernels
+09/23/2005  04:48 PM        21,171,572 rescue.clp
+               5 File(s)     68,284,399 bytes
+
+ Directory of G:\isolinux
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:45 PM             1,068 advanced.msg
+09/27/2005  02:57 PM    <DIR>          alt0
+09/27/2005  02:57 PM    <DIR>          alt1
+09/27/2005  03:02 PM             2,048 boot.cat
+09/27/2005  02:57 PM           295,532 boot.msg
+09/23/2005  04:45 PM               973 help.msg
+09/27/2005  12:33 AM             9,660 isolinux.bin
+09/23/2005  04:45 PM             1,175 isolinux.cfg
+09/27/2005  02:57 PM    <DIR>          test
+09/27/2005  02:57 PM    <DIR>          xbox
+               6 File(s)        310,456 bytes
+
+ Directory of G:\isolinux\alt0
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM         5,405,931 all.rdz
+09/23/2005  04:45 PM         1,566,953 vmlinuz
+               2 File(s)      6,972,884 bytes
+
+ Directory of G:\isolinux\alt1
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM         4,619,464 all.rdz
+09/23/2005  04:45 PM           801,966 vmlinuz
+               2 File(s)      5,421,430 bytes
+
+ Directory of G:\isolinux\test
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:45 PM            94,664 memtest.bin
+               1 File(s)         94,664 bytes
+
+ Directory of G:\isolinux\xbox
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:45 PM         2,999,485 initrd
+09/23/2005  04:45 PM         1,270,349 vmlinuz
+               2 File(s)      4,269,834 bytes
+
+ Directory of G:\lang
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/14/2004  07:26 PM            99,317 autorun-10.1.jpg
+08/29/2005  07:26 PM             4,372 autorun.conf
+               2 File(s)        103,689 bytes
+
+ Directory of G:\media
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  03:00 PM    <DIR>          main
+09/27/2005  03:00 PM    <DIR>          media_info
+               0 File(s)              0 bytes
+
+ Directory of G:\media\main
+
+09/27/2005  03:00 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/12/2005  10:23 PM           432,626 GConf-1.0.9-20mdk.i586.rpm
+09/12/2005  10:25 PM         1,207,509 GConf2-2.10.1-2mdk.i586.rpm
+09/12/2005  10:20 PM           115,913 Glide_V3-DRI-2002.04.10-1mdk.i586.rpm
+09/12/2005  10:20 PM           227,865 Glide_V5-2002.04.10-1mdk.i586.rpm
+09/12/2005  10:20 PM           374,686 Guppi-0.40.3-12mdk.i586.rpm
+09/12/2005  10:38 PM            82,311 ImageMagick-6.2.4.3-1mdk.i586.rpm
+09/12/2005  10:21 PM           114,247 Mesa-5.0.2-11mdk.i586.rpm
+09/12/2005  10:46 PM           178,849 ORBit-0.5.17-12mdk.i586.rpm
+09/12/2005  10:24 PM            94,402 ORBit2-2.12.3-1mdk.i586.rpm
+09/20/2005  04:06 AM        14,557,482 OpenOffice.org-1.1.5-2mdk.i586.rpm
+09/20/2005  04:07 AM         3,350,972 OpenOffice.org-l10n-ca-1.1.5-2mdk.i586.rpm
+09/20/2005  04:07 AM         4,140,854 OpenOffice.org-l10n-en-1.1.5-2mdk.i586.rpm
+09/20/2005  04:06 AM        43,724,392 OpenOffice.org-libs-1.1.5-2mdk.i586.rpm
+09/12/2005  10:31 PM         2,330,573 PyQt-3.14.1-1mdk.i586.rpm
+09/12/2005  10:21 PM           116,076 SysVinit-2.86-3mdk.i586.rpm
+09/12/2005  10:20 PM            16,485 XFree86-compat-libs-4.1.0-4mdk.i586.rpm
+09/12/2005  10:22 PM           706,299 a2ps-4.13b-8mdk.i586.rpm
+09/12/2005  10:20 PM            59,165 acon-1.0.5-4mdk.i586.rpm
+09/12/2005  10:22 PM            12,194 acpi-0.07-6mdk.i586.rpm
+09/12/2005  10:30 PM            18,588 acpid-1.0.4-6mdk.i586.rpm
+09/12/2005  10:20 PM            33,685 adns-1.1-4mdk.i586.rpm
+09/12/2005  10:25 PM           141,138 alsa-utils-1.0.9-4mdk.i586.rpm
+09/12/2005  10:24 PM           178,432 apache-base-2.0.54-13mdk.i586.rpm
+09/12/2005  10:23 PM           150,332 apache-conf-2.0.54-12mdk.i586.rpm
+09/12/2005  10:41 PM         4,000,427 apache-mod_perl-2.0.54_2.0.1-6mdk.i586.rpm
+09/12/2005  10:36 PM           246,266 apache-modules-2.0.54-13mdk.i586.rpm
+09/12/2005  10:39 PM           188,621 apache-mpm-prefork-2.0.54-13mdk.i586.rpm
+09/12/2005  10:22 PM            58,152 apmd-3.2.2-5mdk.i586.rpm
+09/12/2005  10:20 PM           111,874 arts-1.4.2-2mdk.i586.rpm
+09/12/2005  10:21 PM            70,437 ash-0.3.8-8mdk.i586.rpm
+09/12/2005  10:20 PM         1,081,638 aspell-0.60.3-2mdk.i586.rpm
+09/12/2005  10:21 PM         1,621,382 aspell-en-6.0.0-1mdk.i586.rpm
+09/12/2005  10:20 PM            40,447 at-3.1.8-16mdk.i586.rpm
+09/12/2005  10:22 PM            22,685 audiofile-0.2.6-3mdk.i586.rpm
+09/17/2005  03:20 PM            21,260 aumix-text-2.8-12mdk.i586.rpm
+09/12/2005  10:22 PM           127,995 autofs-4.1.4-3mdk.i586.rpm
+09/12/2005  10:22 PM            10,097 autologin-1.0.0-11mdk.i586.rpm
+09/12/2005  10:22 PM           156,674 awesfx-0.5.0d-1mdk.i586.rpm
+09/12/2005  10:20 PM             6,933 basesystem-10.1-5mdk.i586.rpm
+09/12/2005  10:24 PM           552,653 bash-3.0-6mdk.i586.rpm
+09/12/2005  10:24 PM           102,359 bc-1.06-16mdk.i586.rpm
+09/12/2005  10:27 PM         1,500,492 binutils-2.16.91.0.2-3mdk.i586.rpm
+09/12/2005  10:30 PM           830,937 bittorrent-4.1.4-5mdk.i586.rpm
+09/12/2005  10:39 PM            84,205 bittorrent-gui-4.1.4-5mdk.i586.rpm
+09/12/2005  10:21 PM            75,437 bluez-bluefw-1.0-6mdk.i586.rpm
+09/12/2005  10:24 PM            25,192 bluez-pin-0.25-1mdk.i586.rpm
+09/16/2005  01:19 PM           214,125 bluez-utils-2.19-7mdk.i586.rpm
+09/12/2005  10:38 PM            13,009 bootloader-utils-1.9-3mdk.i586.rpm
+09/16/2005  08:55 PM           573,559 bootsplash-3.1.10-1mdk.i586.rpm
+09/12/2005  10:25 PM           523,698 brltty-3.6-2mdk.i586.rpm
+09/12/2005  10:20 PM            47,504 bzip2-1.0.3-1mdk.i586.rpm
+09/12/2005  10:22 PM           124,711 chkconfig-1.3.20-4mdk.i586.rpm
+09/12/2005  10:22 PM            11,462 chkfontpath-1.10.0-1mdk.i586.rpm
+09/12/2005  10:50 PM            39,658 common-licenses-1.0-10mdk.noarch.rpm
+09/12/2005  10:23 PM         1,244,359 console-tools-0.2.3-53mdk.i586.rpm
+09/12/2005  10:21 PM         2,259,072 coreutils-5.2.1-8mdk.i586.rpm
+09/12/2005  10:22 PM           605,927 coreutils-doc-5.2.1-8mdk.i586.rpm
+09/12/2005  10:20 PM           111,433 cpio-2.6-5mdk.i586.rpm
+09/12/2005  10:22 PM            20,378 cpqarrayd-2.0-4mdk.i586.rpm
+09/19/2005  12:57 PM             7,177 cpufreq-1.0-18mdk.noarch.rpm
+09/12/2005  10:24 PM            35,188 cpufreqd-1.2.3-2mdk.i586.rpm
+09/12/2005  10:30 PM         3,451,934 cracklib-dicts-2.8.3-1mdk.i586.rpm
+09/12/2005  10:29 PM             5,191 crontabs-1.10-5mdk.noarch.rpm
+09/12/2005  10:21 PM         8,004,016 cups-1.1.23-17mdk.i586.rpm
+09/12/2005  10:33 PM           381,305 cups-common-1.1.23-17mdk.i586.rpm
+09/12/2005  10:26 PM         2,249,019 cups-drivers-2006-7mdk.i586.rpm
+09/12/2005  10:28 PM           175,472 curl-7.14.0-2mdk.i586.rpm
+09/12/2005  10:22 PM            37,596 db1-1.85-10mdk.i586.rpm
+09/12/2005  10:28 PM           242,568 dbus-0.23.4-5mdk.i586.rpm
+09/12/2005  10:32 PM            29,390 dbus-x11-0.23.4-5mdk.i586.rpm
+09/26/2005  08:58 PM         1,934,206 desktop-common-data-2006-2mdk.noarch.rpm
+09/12/2005  10:22 PM            64,875 desktop-file-utils-0.10-2mdk.i586.rpm
+09/12/2005  10:24 PM           106,968 desktop-printing-0.18-4mdk.i586.rpm
+09/12/2005  10:39 PM           205,669 dhcp-client-3.0.3-3mdk.i586.rpm
+09/12/2005  10:39 PM           282,494 dhcp-common-3.0.3-3mdk.i586.rpm
+09/12/2005  10:22 PM            49,221 dhcpcd-1.3.22pl4-4mdk.i586.rpm
+09/12/2005  10:23 PM            81,711 dhcpxd-1.0.3-16mdk.i586.rpm
+09/12/2005  10:22 PM           253,021 diffutils-2.8.7-2mdk.i586.rpm
+09/12/2005  10:26 PM            53,878 dkms-minimal-2.0.5.9-3mdk.noarch.rpm
+09/12/2005  10:20 PM            56,165 dmidecode-2.6-1mdk.i586.rpm
+09/12/2005  10:27 PM           132,387 dmraid-1.0.0-0.rc8.1mdk.i586.rpm
+09/16/2005  01:21 PM           115,265 drakbt-0.10-8mdk.noarch.rpm
+09/20/2005  04:05 AM         1,645,466 drakconf-10.3-5mdk.i586.rpm
+09/20/2005  04:06 AM           471,720 drakconf-icons-10.3-5mdk.i586.rpm
+09/20/2005  01:57 PM           181,250 drakfax-0.10-7mdk.noarch.rpm
+09/21/2005  01:06 AM           806,649 drakfirsttime-1.3-1mdk.noarch.rpm
+09/12/2005  10:33 PM            56,930 drakoo-0.6-2mdk.noarch.rpm
+09/12/2005  10:30 PM         1,306,557 drakwizard-base-3.0-22mdk.noarch.rpm
+09/20/2005  01:57 PM           234,661 drakx-finish-install-10.3-0.64mdk.i586.rpm
+09/20/2005  01:57 PM           891,452 drakxtools-10.3-0.64mdk.i586.rpm
+09/20/2005  01:57 PM           613,150 drakxtools-backend-10.3-0.64mdk.i586.rpm
+09/20/2005  01:57 PM           253,964 drakxtools-http-10.3-0.64mdk.i586.rpm
+09/20/2005  01:57 PM         7,350,683 drakxtools-newt-10.3-0.64mdk.i586.rpm
+09/12/2005  10:22 PM            69,142 dvb-apps-1.1.0-5mdk.i586.rpm
+09/12/2005  10:35 PM           108,714 dvbsnoop-1.3.77-1mdk.i586.rpm
+09/12/2005  10:33 PM           144,531 dvbstream-0.5-2mdk.i586.rpm
+09/12/2005  10:24 PM            26,598 dvbtune-0.5-4mdk.i586.rpm
+09/12/2005  10:36 PM            23,612 dynamic-0.26.2-1mdk.noarch.rpm
+09/12/2005  10:29 PM           516,890 e2fsprogs-1.38-3mdk.i586.rpm
+09/20/2005  04:06 AM           518,967 eagle-usb-2.3.2-6mdk.i586.rpm
+09/12/2005  10:23 PM            43,722 ed-0.2-31mdk.i586.rpm
+09/12/2005  10:23 PM            30,536 eject-2.0.13-6mdk.i586.rpm
+09/12/2005  10:23 PM           442,933 enscript-1.6.4-2mdk.i586.rpm
+09/12/2005  10:27 PM           108,339 esound-0.2.36-1mdk.i586.rpm
+09/12/2005  10:23 PM             8,649 etcskel-1.63-17mdk.noarch.rpm
+09/12/2005  10:21 PM           242,975 evms-2.5.1-6mdk.i586.rpm
+09/12/2005  10:31 PM           121,004 evms-cli-2.5.1-6mdk.i586.rpm
+09/12/2005  10:31 PM           225,670 evms-gui-2.5.1-6mdk.i586.rpm
+09/12/2005  10:31 PM           111,889 evms-ncurses-2.5.1-6mdk.i586.rpm
+09/16/2005  01:20 PM         2,121,055 evolution-data-server-1.2.3-7mdk.i586.rpm
+09/12/2005  10:23 PM             9,575 fbgrab-1.0-1mdk.i586.rpm
+09/12/2005  10:23 PM            25,326 fbset-2.1-13mdk.i586.rpm
+09/12/2005  10:23 PM           160,040 fdutils-5.4-11mdk.i586.rpm
+09/12/2005  10:20 PM           251,982 file-4.14-2mdk.i586.rpm
+09/12/2005  10:26 PM            13,984 filesystem-2.1.6-1mdk.i586.rpm
+09/12/2005  10:20 PM           250,888 findutils-4.2.24-1mdk.i586.rpm
+09/12/2005  10:23 PM           129,673 font-tools-0.1-11mdk.i586.rpm
+09/12/2005  10:26 PM            54,368 fontconfig-2.3.2-5mdk.i586.rpm
+09/12/2005  10:23 PM           562,259 fonts-ttf-decoratives-1.3-14mdk.noarch.rpm
+09/12/2005  10:26 PM           804,200 fonts-ttf-dejavu-1.11-1mdk.noarch.rpm
+09/12/2005  10:23 PM           163,955 fonts-ttf-west_european-1.3-14mdk.noarch.rpm
+09/12/2005  10:22 PM           740,182 foomatic-db-3.0.2-1.20050825.2mdk.noarch.rpm
+09/12/2005  10:35 PM           261,406 foomatic-db-engine-3.0.2-1.20050823.1mdk.i586.rpm
+09/12/2005  10:41 PM           217,815 foomatic-db-hpijs-2.1.4-1.20050901.1mdk.noarch.rpm
+09/12/2005  10:39 PM           117,008 foomatic-filters-3.0.2-1.20050816.3mdk.i586.rpm
+09/12/2005  10:23 PM         2,094,450 freeswan-2.06-2mdk.i586.rpm
+09/12/2005  10:23 PM           338,599 freetype-1.3.1-23mdk.i586.rpm
+09/12/2005  10:23 PM            25,475 freetype-tools-1.3.1-23mdk.i586.rpm
+09/12/2005  10:30 PM            67,429 ftp-client-krb5-1.4.2-1mdk.i586.rpm
+09/12/2005  10:23 PM            49,459 g-wrap-1.3.4-12mdk.i586.rpm
+09/12/2005  10:25 PM           307,793 gail-1.8.4-1mdk.i586.rpm
+09/12/2005  10:34 PM           102,838 galaxy-gnome-1.0.2-19mdk.i586.rpm
+09/12/2005  10:35 PM           150,254 galaxy-kde-kwin-1.0.2-19mdk.i586.rpm
+09/12/2005  10:23 PM            55,635 gamin-0.1.5-3mdk.i586.rpm
+09/12/2005  10:24 PM           779,214 gawk-3.1.4-1mdk.i586.rpm
+09/12/2005  10:25 PM         2,042,645 gcc-cpp-4.0.1-5mdk.i586.rpm
+09/12/2005  10:24 PM           158,315 gcc2.96-cpp-2.96-0.83mdk.i586.rpm
+09/12/2005  10:22 PM            43,824 gdk-pixbuf-loaders-0.22.0-8mdk.i586.rpm
+09/12/2005  10:24 PM            24,225 genromfs-0.5.1-2mdk.i586.rpm
+09/12/2005  10:26 PM           672,060 gettext-base-0.14.5-2mdk.i586.rpm
+09/12/2005  10:28 PM         4,965,834 ghostscript-8.15-21mdk.i586.rpm
+09/12/2005  10:24 PM           827,583 ghostscript-fonts-8.11-4mdk.noarch.rpm
+09/12/2005  10:21 PM        10,237,129 gimp-2.2.8-6mdk.i586.rpm
+09/12/2005  10:30 PM         5,754,244 glibc-2.3.5-5mdk.i586.rpm
+09/12/2005  10:40 PM         3,989,915 glibc-devel-2.3.5-5mdk.i586.rpm
+09/12/2005  10:36 PM           752,513 glibc-xen-2.3.5-5mdk.i586.rpm
+09/12/2005  10:33 PM         3,203,812 gnome-icon-theme-2.10.1-5mdk.noarch.rpm
+09/12/2005  10:28 PM           110,835 gnome-keyring-0.4.3-2mdk.i586.rpm
+09/12/2005  10:20 PM           418,139 gnome-libs-1.4.2-13mdk.i586.rpm
+09/12/2005  10:24 PM           697,118 gnome-mime-data-2.4.2-3mdk.i586.rpm
+09/12/2005  10:24 PM           246,589 gnome-print-0.37-7mdk.i586.rpm
+09/12/2005  10:24 PM            71,713 gnome-spell-1.0.6-2mdk.i586.rpm
+09/20/2005  04:06 AM           744,320 gnome-vfs2-2.10.1-9mdk.i586.rpm
+09/12/2005  10:41 PM           173,103 gnome-volume-manager-1.2.2-1mdk.i586.rpm
+09/12/2005  10:42 PM         2,017,188 gnupg-1.4.2-2mdk.i586.rpm
+09/12/2005  10:25 PM           165,818 gpm-1.20.1-11mdk.i586.rpm
+09/12/2005  10:29 PM         2,215,050 graphviz-2.2.1-3mdk.i586.rpm
+09/12/2005  10:25 PM           136,359 grep-2.5.1a-1mdk.i586.rpm
+09/12/2005  10:26 PM         1,761,521 groff-1.19.1-1mdk.i586.rpm
+09/12/2005  10:32 PM           552,859 groff-for-man-1.19.1-1mdk.i586.rpm
+09/12/2005  10:22 PM           338,648 grub-0.97-13mdk.i586.rpm
+09/12/2005  10:29 PM         3,291,410 gtk+2.0-2.8.3-4mdk.i586.rpm
+09/12/2005  10:25 PM         1,456,456 gtk-engines-0.12-9mdk.i586.rpm
+09/12/2005  10:25 PM            17,664 gtkdialogs-2.1-1mdk.i586.rpm
+09/12/2005  10:19 PM           758,987 guile-1.6.7-6mdk.i586.rpm
+09/12/2005  10:25 PM            90,651 guile-gtk-1.2-0.31-9mdk.i586.rpm
+09/12/2005  10:31 PM         2,420,215 gutenprint-common-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:32 PM         2,966,215 gutenprint-cups-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:33 PM            26,320 gutenprint-escputil-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:33 PM         1,262,255 gutenprint-foomatic-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:33 PM            13,012 gutenprint-gimp2-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:29 PM            23,827 gutenprint-ijs-5.0.0-0.9mdk.i586.rpm
+09/12/2005  10:20 PM            69,432 gzip-1.2.4a-15mdk.i586.rpm
+09/17/2005  03:20 PM           225,174 hal-0.4.8-14mdk.i586.rpm
+09/20/2005  01:57 PM           247,060 harddrake-10.3-0.64mdk.i586.rpm
+09/20/2005  01:57 PM           274,235 harddrake-ui-10.3-0.64mdk.i586.rpm
+09/12/2005  10:20 PM            44,290 hdparm-6.1-1mdk.i586.rpm
+09/20/2005  10:35 PM            31,605 hexedit-1.2.11-1mdk.i586.rpm
+09/12/2005  10:30 PM            24,190 hicolor-icon-theme-0.8-1mdk.noarch.rpm
+09/12/2005  10:22 PM            44,901 howl-1.0.0-1mdk.i586.rpm
+09/12/2005  10:24 PM         6,706,256 hplip-0.9.4-6mdk.i586.rpm
+09/12/2005  10:25 PM           196,875 hplip-hpijs-0.9.4-6mdk.i586.rpm
+09/12/2005  10:29 PM            19,978 hplip-model-data-0.9.4-6mdk.i586.rpm
+09/16/2005  01:20 PM           226,871 hpoj-0.91-8mdk.i586.rpm
+09/14/2005  03:17 PM            14,163 hwdb-clients-0.18-1mdk.noarch.rpm
+09/12/2005  10:22 PM           395,512 hylafax-4.2.1-2mdk.i586.rpm
+09/12/2005  10:25 PM           144,723 hylafax-client-4.2.1-2mdk.i586.rpm
+09/12/2005  10:25 PM            12,016 ibod-1.4-4mdk.i586.rpm
+09/12/2005  10:46 PM           358,553 icewm-light-1.2.23-3mdk.i586.rpm
+09/12/2005  10:26 PM             7,626 ifmetric-0.3-3mdk.i586.rpm
+09/12/2005  10:27 PM            44,316 ifplugd-0.28-2mdk.i586.rpm
+09/12/2005  10:26 PM            19,681 imlib-1.9.14-11mdk.i586.rpm
+09/12/2005  10:21 PM         2,211,148 indexhtml-2006.0-1mdk.noarch.rpm
+09/12/2005  10:26 PM            26,966 info-install-4.8-1mdk.i586.rpm
+09/20/2005  04:06 AM         1,862,939 initscripts-7.61.1-50mdk.i586.rpm
+09/12/2005  10:26 PM             4,749 intimed-2.00-4mdk.i586.rpm
+09/12/2005  10:29 PM           180,958 iproute2-2.6.10-2mdk.i586.rpm
+09/12/2005  10:26 PM            32,858 ipset-2.2.2-4mdk.i586.rpm
+09/12/2005  10:25 PM           224,019 iptables-1.3.3-3mdk.i586.rpm
+09/12/2005  10:26 PM           111,875 iputils-20020927-5mdk.i586.rpm
+09/12/2005  10:26 PM            36,003 ipxutils-2.2.6-1mdk.i586.rpm
+09/12/2005  10:26 PM            65,287 irda-utils-0.9.16-4mdk.i586.rpm
+09/12/2005  10:32 PM            68,266 isapnptools-1.26-8mdk.i586.rpm
+09/12/2005  10:27 PM             6,714 isdn-light-0.8-11mdk.noarch.rpm
+09/12/2005  10:28 PM         3,203,797 isdn4k-utils-3.2p3-21mdk.i586.rpm
+09/12/2005  10:26 PM            32,271 isdn4net-1.4.6-12mdk.noarch.rpm
+09/12/2005  10:34 PM           231,439 jackit-0.100.1-0.20050702.1mdk.i586.rpm
+09/12/2005  10:26 PM           262,894 jfsprogs-1.1.7-2mdk.i586.rpm
+09/12/2005  10:42 PM         4,056,507 kde-i18n-en_GB-3.4.2-11mdk.noarch.rpm
+09/26/2005  11:54 PM           125,817 kdebase-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM        18,007,281 kdebase-common-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           344,194 kdebase-kate-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           186,632 kdebase-kdeprintfax-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           378,535 kdebase-kdm-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           131,808 kdebase-kdm-config-file-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           162,211 kdebase-kmenuedit-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM           295,641 kdebase-konsole-3.4.2-55mdk.i586.rpm
+09/26/2005  11:54 PM         1,054,567 kdebase-progs-3.4.2-55mdk.i586.rpm
+09/12/2005  10:50 PM            15,854 kdebase-servicemenu-2006-2mdk.noarch.rpm
+09/16/2005  01:21 PM         8,804,258 kdelibs-common-3.4.2-31mdk.i586.rpm
+09/15/2005  01:47 PM           221,689 kdemultimedia-kmix-3.4.2-10mdk.i586.rpm
+09/12/2005  10:44 PM           585,084 kdenetwork-kppp-3.4.2-16mdk.i586.rpm
+09/12/2005  10:48 PM           189,187 kdenetwork-kppp-provider-3.4.2-16mdk.i586.rpm
+09/12/2005  10:48 PM           149,377 kdenetwork-kwifimanager-3.4.2-16mdk.i586.rpm
+09/12/2005  10:32 PM           103,239 kdeutils-klaptop-3.4.2-5mdk.i586.rpm
+09/12/2005  10:40 PM        20,509,904 kernel-2.6.12.12mdk-1-1mdk.i586.rpm
+09/12/2005  10:41 PM        20,174,233 kernel-i586-up-1GB-2.6.12.12mdk-1-1mdk.i586.rpm
+09/12/2005  10:41 PM        20,537,352 kernel-i686-up-4GB-2.6.12.12mdk-1-1mdk.i586.rpm
+09/12/2005  10:40 PM        20,514,626 kernel-smp-2.6.12.12mdk-1-1mdk.i586.rpm
+09/12/2005  10:41 PM        14,138,213 kernel-xbox-2.6.12.12mdk-1-1mdk.i586.rpm
+09/12/2005  10:38 PM            68,142 krootwarning-2006-1mdk.i586.rpm
+09/12/2005  10:32 PM            11,545 lads-0.10-2mdk.noarch.rpm
+09/12/2005  10:42 PM            21,837 laptop-mode-tools-1.10-2mdk.noarch.rpm
+09/12/2005  10:47 PM           333,348 ldconfig-2.3.5-5mdk.i586.rpm
+09/12/2005  10:26 PM            13,632 ldetect-0.6.3-1mdk.i586.rpm
+09/20/2005  04:06 AM           382,356 ldetect-lst-0.1.114-1mdk.i586.rpm
+09/12/2005  10:21 PM           147,122 less-382-12mdk.i586.rpm
+09/12/2005  10:21 PM           112,545 lesstif-0.93.94-4mdk.i586.rpm
+09/12/2005  10:25 PM           108,312 libGConf1-1.0.9-20mdk.i586.rpm
+09/12/2005  10:39 PM            93,151 libGConf2_4-2.10.1-2mdk.i586.rpm
+09/12/2005  10:28 PM            86,087 libIDL2_0-0.8.6-1mdk.i586.rpm
+09/12/2005  10:40 PM         1,260,793 libMagick8.4.2-6.2.4.3-1mdk.i586.rpm
+09/12/2005  10:36 PM         1,775,942 libMesaGL1-5.0.2-11mdk.i586.rpm
+09/12/2005  10:37 PM           250,920 libMesaGLU1-5.0.2-11mdk.i586.rpm
+09/12/2005  10:47 PM           193,230 libORBit0-0.5.17-12mdk.i586.rpm
+09/12/2005  10:27 PM           154,032 libORBit2_0-2.12.3-1mdk.i586.rpm
+09/12/2005  10:32 PM           301,460 libOpenEXR2-1.2.2-3mdk.i586.rpm
+09/12/2005  10:29 PM           139,714 libXaw3d7-1.5E-1mdk.i586.rpm
+09/12/2005  10:29 PM            51,779 libaa1-1.4.0-0.rc5.14mdk.i586.rpm
+09/12/2005  10:22 PM            28,688 libacl1-2.2.31-1mdk.i586.rpm
+09/12/2005  10:29 PM            39,597 libadns1-1.1-4mdk.i586.rpm
+09/12/2005  10:42 PM            41,390 libalsa-data-1.0.9-1mdk.i586.rpm
+09/12/2005  10:32 PM           329,155 libalsa2-1.0.9-1mdk.i586.rpm
+09/12/2005  10:20 PM            35,044 libao2-0.8.5-4mdk.i586.rpm
+09/12/2005  10:28 PM            14,402 libapm1-3.2.2-5mdk.i586.rpm
+09/12/2005  10:33 PM            60,949 libapr-util0-0.9.6-8mdk.i586.rpm
+09/12/2005  10:33 PM            99,512 libapr0-0.9.6-5mdk.i586.rpm
+09/12/2005  10:20 PM            53,728 libart_lgpl2-2.3.17-3mdk.i586.rpm
+09/12/2005  10:27 PM           945,205 libarts1-1.4.2-2mdk.i586.rpm
+09/12/2005  10:39 PM           315,998 libaspell15-0.60.3-2mdk.i586.rpm
+09/12/2005  10:34 PM           153,584 libatk1.0_0-1.10.1-1mdk.i586.rpm
+09/12/2005  10:27 PM            21,652 libattr1-2.4.23-1mdk.i586.rpm
+09/12/2005  10:29 PM            83,068 libaudiofile0-0.2.6-3mdk.i586.rpm
+09/12/2005  10:29 PM            71,677 libbeecrypt6-3.1.0-5mdk.i586.rpm
+09/12/2005  10:41 PM           352,287 libbinutils2-2.16.91.0.2-3mdk.i586.rpm
+09/12/2005  10:24 PM            31,280 libbluez1-2.19-3mdk.i586.rpm
+09/12/2005  10:44 PM           341,223 libbonobo-2.10.1-1mdk.i586.rpm
+09/12/2005  10:21 PM           302,063 libbonobo2-1.0.22-10mdk.i586.rpm
+09/12/2005  10:44 PM           153,516 libbonobo2_0-2.10.1-1mdk.i586.rpm
+09/12/2005  10:23 PM           236,039 libbonoboui-2.10.1-2mdk.i586.rpm
+09/12/2005  10:28 PM           172,174 libbonoboui2_0-2.10.1-2mdk.i586.rpm
+09/12/2005  10:21 PM            41,835 libbzip2_1-1.0.3-1mdk.i586.rpm
+09/20/2005  10:35 PM           262,143 libcairo2-1.0.0-8mdk.i586.rpm
+09/12/2005  10:29 PM             7,769 libcap1-1.10-4mdk.i586.rpm
+09/12/2005  10:24 PM            52,311 libcdda0-IIIa9.8-10mdk.i586.rpm
+09/12/2005  10:22 PM            48,142 libconsole0-0.2.3-53mdk.i586.rpm
+09/12/2005  10:26 PM            13,420 libcpufreqd-1.2.3-2mdk.i586.rpm
+09/12/2005  10:39 PM            32,182 libcrack2-2.8.3-1mdk.i586.rpm
+09/12/2005  10:20 PM           115,519 libcroco0.6_3-0.6.0-2mdk.i586.rpm
+09/12/2005  10:24 PM           122,775 libcups2-1.1.23-17mdk.i586.rpm
+09/12/2005  10:28 PM           158,560 libcurl3-7.14.0-2mdk.i586.rpm
+09/12/2005  10:36 PM            10,374 libdaemon0-0.8-1mdk.i586.rpm
+09/12/2005  10:40 PM           413,448 libdb4.2-4.2.52-7mdk.i586.rpm
+09/12/2005  10:32 PM            94,285 libdbus-1_0-0.23.4-5mdk.i586.rpm
+09/12/2005  10:36 PM            25,773 libdbus-glib-1_0-0.23.4-5mdk.i586.rpm
+09/12/2005  10:30 PM            14,372 libdevmapper1.01-1.01.00-2mdk.i586.rpm
+09/12/2005  10:30 PM            25,116 libdnet1-1.8-4mdk.i586.rpm
+09/12/2005  10:26 PM            40,001 libelfutils1-0.109-1mdk.i586.rpm
+09/12/2005  10:28 PM            25,567 libesound0-0.2.36-1mdk.i586.rpm
+09/12/2005  10:25 PM            20,391 libevent1-1.1-1mdk.i586.rpm
+09/12/2005  10:31 PM           817,166 libevms0-2.5.1-6mdk.i586.rpm
+09/16/2005  01:21 PM         1,171,142 libevolution-data-server4-1.2.3-7mdk.i586.rpm
+09/12/2005  10:28 PM           109,145 libexif12-0.6.12-2mdk.i586.rpm
+09/12/2005  10:30 PM            57,858 libexpat0-1.95.8-1mdk.i586.rpm
+09/12/2005  10:45 PM            96,038 libext2fs2-1.38-3mdk.i586.rpm
+09/12/2005  10:31 PM           339,181 libfltk1.1-1.1.6-2mdk.i586.rpm
+09/12/2005  10:29 PM            99,243 libfontconfig1-2.3.2-5mdk.i586.rpm
+09/20/2005  10:35 PM           237,882 libfreetype6-2.1.10-8mdk.i586.rpm
+09/12/2005  10:31 PM            16,654 libg-wrap1-1.3.4-12mdk.i586.rpm
+09/12/2005  10:37 PM            16,205 libgail17-1.8.4-1mdk.i586.rpm
+09/12/2005  10:31 PM           552,803 libgal23-0.24-4mdk.i586.rpm
+09/12/2005  10:33 PM            18,485 libgamin-1_0-0.1.5-3mdk.i586.rpm
+09/12/2005  10:39 PM            28,820 libgcc1-4.0.1-5mdk.i586.rpm
+09/12/2005  10:22 PM           185,866 libgcrypt11-1.2.1-1mdk.i586.rpm
+09/12/2005  10:31 PM           134,729 libgd2-2.0.33-3mdk.i586.rpm
+09/12/2005  10:31 PM            21,143 libgdbm3-1.8.3-2mdk.i586.rpm
+09/12/2005  10:26 PM            14,773 libgdk-pixbuf-gnomecanvas1-0.22.0-8mdk.i586.rpm
+09/12/2005  10:24 PM            86,843 libgdk-pixbuf2-0.22.0-8mdk.i586.rpm
+09/12/2005  10:36 PM           172,764 libgdk_pixbuf2.0_0-2.8.3-4mdk.i586.rpm
+09/12/2005  10:31 PM            29,630 libghttp1-1.0.9-7mdk.i586.rpm
+09/12/2005  10:29 PM           425,939 libgimp2.0_0-2.2.8-6mdk.i586.rpm
+09/12/2005  10:31 PM            32,078 libglade-gnome0-0.17-14mdk.i586.rpm
+09/12/2005  10:32 PM            48,611 libglade0-0.17-14mdk.i586.rpm
+09/12/2005  10:35 PM            79,809 libglade2.0_0-2.5.1-1mdk.i586.rpm
+09/12/2005  10:31 PM            85,925 libglib1.2-1.2.10-15mdk.i586.rpm
+09/12/2005  10:24 PM           575,152 libglib2.0_0-2.8.1-1mdk.i586.rpm
+09/12/2005  10:44 PM            88,834 libglitz1-0.4.4-1mdk.i586.rpm
+09/12/2005  10:24 PM           131,367 libgmp3-4.1.4-1mdk.i586.rpm
+09/12/2005  10:32 PM            19,791 libgnome-keyring0-0.4.3-2mdk.i586.rpm
+09/20/2005  04:06 AM           392,718 libgnome-vfs2_0-2.10.1-9mdk.i586.rpm
+09/12/2005  10:27 PM           691,883 libgnome2-2.10.1-1mdk.i586.rpm
+09/12/2005  10:28 PM            43,702 libgnome2_0-2.10.1-1mdk.i586.rpm
+09/12/2005  10:22 PM           505,158 libgnome32-1.4.2-13mdk.i586.rpm
+09/12/2005  10:25 PM           191,591 libgnomecanvas2_0-2.10.2-1mdk.i586.rpm
+09/12/2005  10:25 PM            42,201 libgnomecups-0.2.0-1mdk.i586.rpm
+09/12/2005  10:37 PM            27,391 libgnomecups-1.0_1-0.2.0-1mdk.i586.rpm
+09/12/2005  10:35 PM           168,968 libgnomeprint-2.10.3-3mdk.i586.rpm
+09/12/2005  10:32 PM           229,837 libgnomeprint15-0.37-7mdk.i586.rpm
+09/12/2005  10:37 PM           168,791 libgnomeprint2-2_0-2.10.3-3mdk.i586.rpm
+09/26/2005  08:58 PM           659,009 libgnomeui2-2.10.1-10mdk.i586.rpm
+09/26/2005  08:58 PM           224,257 libgnomeui2_0-2.10.1-10mdk.i586.rpm
+09/12/2005  10:29 PM           217,472 libgnutls11-1.0.25-2mdk.i586.rpm
+09/12/2005  10:35 PM            30,319 libgpg-error0-1.1-1mdk.i586.rpm
+09/12/2005  10:36 PM           993,584 libgphoto2-2.1.6-8mdk.i586.rpm
+09/12/2005  10:32 PM            19,184 libgpm1-1.20.1-11mdk.i586.rpm
+09/12/2005  10:33 PM           446,081 libgraphviz7-2.2.1-3mdk.i586.rpm
+09/12/2005  10:34 PM            95,972 libgsf-1_1-1.12.2-2mdk.i586.rpm
+09/12/2005  10:21 PM            24,893 libgsm1-1.0.10-9mdk.i586.rpm
+09/12/2005  10:37 PM         1,478,540 libgtk+-x11-2.0_0-2.8.3-4mdk.i586.rpm
+09/12/2005  10:32 PM           749,019 libgtk+1.2-1.2.10-41mdk.i586.rpm
+09/12/2005  10:34 PM            71,257 libgtk+2.0_0-2.8.3-4mdk.i586.rpm
+09/12/2005  10:32 PM         1,335,794 libgtk-linux-fb-2.0_0-2.4.14-5mdk.i586.rpm
+09/12/2005  10:47 PM           280,283 libgtkhtml1.1_3-1.1.10-7mdk.i586.rpm
+09/12/2005  10:33 PM           174,085 libgtkhtml2_0-2.6.3-3mdk.i586.rpm
+09/12/2005  10:32 PM           124,220 libguile-gtk-1.2_0-0.31-9mdk.i586.rpm
+09/12/2005  10:24 PM           617,601 libguile12-1.6.7-6mdk.i586.rpm
+09/12/2005  10:30 PM           372,187 libguppi16-0.40.3-12mdk.i586.rpm
+09/12/2005  10:32 PM           352,546 libgutenprint2-5.0.0-0.9mdk.i586.rpm
+09/17/2005  03:21 PM            29,649 libhal0-0.4.8-14mdk.i586.rpm
+09/12/2005  10:26 PM            95,016 libhowl0-1.0.0-1mdk.i586.rpm
+09/12/2005  10:28 PM            66,431 libhpip0-0.9.4-6mdk.i586.rpm
+09/16/2005  01:21 PM            61,673 libhpojip0-0.91-8mdk.i586.rpm
+09/12/2005  10:30 PM           380,563 libhylafax4.2.0-4.2.1-2mdk.i586.rpm
+09/12/2005  10:20 PM           151,980 libhz0-0.3.14-2mdk.i586.rpm
+09/12/2005  10:46 PM           232,008 libidn11-0.5.18-2mdk.i586.rpm
+09/12/2005  10:29 PM            21,287 libieee1284_3-0.2.10-1mdk.i586.rpm
+09/12/2005  10:28 PM            13,451 libijs1-0.35-21mdk.i586.rpm
+09/12/2005  10:32 PM           154,151 libimlib1-1.9.14-11mdk.i586.rpm
+09/12/2005  10:31 PM            40,603 libintl3-0.14.5-2mdk.i586.rpm
+09/12/2005  10:40 PM            59,697 libisdn4k-utils2-3.2p3-21mdk.i586.rpm
+09/12/2005  10:26 PM            17,514 libiw28-28-0.pre6.1mdk.i586.rpm
+09/12/2005  10:39 PM            30,136 libjack0-0.100.1-0.20050702.1mdk.i586.rpm
+09/12/2005  10:33 PM           135,860 libjasper1.701_1-1.701.0-3mdk.i586.rpm
+09/12/2005  10:25 PM            85,704 libjpeg62-6b-37mdk.i586.rpm
+09/26/2005  11:54 PM         7,305,863 libkdebase4-3.4.2-55mdk.i586.rpm
+09/26/2005  11:55 PM           353,802 libkdebase4-kate-3.4.2-55mdk.i586.rpm
+09/26/2005  11:55 PM           186,301 libkdebase4-kmenuedit-3.4.2-55mdk.i586.rpm
+09/26/2005  11:55 PM           319,220 libkdebase4-konsole-3.4.2-55mdk.i586.rpm
+09/16/2005  01:22 PM         8,670,739 libkdecore4-3.4.2-31mdk.i586.rpm
+09/15/2005  01:47 PM           179,484 libkdemultimedia1-kmix-3.4.2-10mdk.i586.rpm
+09/12/2005  10:50 PM            89,559 libkdenetwork2-kwifimanager-3.4.2-16mdk.i586.rpm
+09/12/2005  10:37 PM           276,353 libkdeutils1-klaptop-3.4.2-5mdk.i586.rpm
+09/12/2005  10:34 PM           454,199 libkrb53-1.4.2-1mdk.i586.rpm
+09/12/2005  10:23 PM            89,031 liblcms1-1.14-1mdk.i586.rpm
+09/20/2005  01:57 PM           266,614 libldap2.3_0-2.3.6-4mdk.i586.rpm
+09/12/2005  10:39 PM            20,218 libldetect0.6-0.6.3-1mdk.i586.rpm
+09/12/2005  10:21 PM           697,485 liblesstif2-0.93.94-4mdk.i586.rpm
+09/12/2005  10:48 PM            21,018 liblinux-atm1-2.4.1-8mdk.i586.rpm
+09/12/2005  10:22 PM            45,060 liblm_sensors3-2.9.1-4mdk.i586.rpm
+09/12/2005  10:22 PM            24,434 libltdl3-1.5.18-1mdk.i586.rpm
+09/12/2005  10:23 PM            76,554 liblzo2_2-2.01-1mdk.i586.rpm
+09/12/2005  10:29 PM            35,353 libmDNSResponder1-98-4mdk.i586.rpm
+09/12/2005  10:29 PM            33,631 libmDNSResponder1-devel-98-4mdk.i586.rpm
+09/12/2005  10:34 PM            71,416 libmad0-0.15.1b-3mdk.i586.rpm
+09/12/2005  10:36 PM            35,717 libmagic1-4.14-2mdk.i586.rpm
+09/12/2005  10:34 PM           151,572 libmng1-1.0.8-1mdk.i586.rpm
+09/12/2005  10:33 PM            50,110 libnas2-1.7b-1mdk.i586.rpm
+09/12/2005  10:34 PM           176,680 libncpfs2.3-2.2.6-1mdk.i586.rpm
+09/12/2005  10:34 PM           172,542 libncurses5-5.4-1.20050108.1mdk.i586.rpm
+09/12/2005  10:34 PM           195,341 libncursesw5-5.4-1.20050108.1mdk.i586.rpm
+09/12/2005  10:33 PM            58,178 libneon0.24-0.24.7-12mdk.i586.rpm
+09/12/2005  10:51 PM           866,106 libnet-snmp5-5.2.1.2-4mdk.i586.rpm
+09/12/2005  10:34 PM            49,181 libnet2-1.1.2.1-3mdk.i586.rpm
+09/12/2005  10:37 PM           135,570 libnetpbm10-10.29-1mdk.i586.rpm
+09/12/2005  10:36 PM            42,522 libnewt0.51-0.51.6-11mdk.i586.rpm
+09/26/2005  06:43 PM           130,458 libnspr4-1.0.6-15mdk.i586.rpm
+09/12/2005  10:29 PM            49,546 liboaf0-0.6.10-15mdk.i586.rpm
+09/12/2005  10:34 PM            16,849 libogg0-1.1.2-1mdk.i586.rpm
+09/12/2005  10:34 PM            77,702 libopencdk8-0.5.5-3mdk.i586.rpm
+09/12/2005  10:26 PM            29,942 libopenslp1-1.0.11-6mdk.i586.rpm
+09/12/2005  10:23 PM           570,653 libopenssl0.9.7-0.9.7g-2mdk.i586.rpm
+09/20/2005  04:05 AM           233,459 libpam0-0.77-31mdk.i586.rpm
+09/13/2005  03:49 PM           215,627 libpango1.0_0-1.10.0-3mdk.i586.rpm
+09/13/2005  03:50 PM            74,685 libpango1.0_0-modules-1.10.0-3mdk.i586.rpm
+09/12/2005  10:26 PM           131,260 libpcap0-0.9.1-1mdk.i586.rpm
+09/12/2005  10:28 PM           145,945 libpcre0-6.3-1mdk.i586.rpm
+09/12/2005  10:31 PM            30,627 libpcsclite0-1.1.2-6mdk.i586.rpm
+09/12/2005  10:35 PM           230,247 libpng3-1.2.8-1mdk.i586.rpm
+09/16/2005  01:22 PM            63,027 libpopt0-1.10.2-4mdk.i586.rpm
+09/12/2005  10:27 PM           199,473 libpostfix1-2.2.5-7mdk.i586.rpm
+09/12/2005  10:26 PM            34,579 libppd1-0.10-6mdk.i586.rpm
+09/16/2005  01:20 PM            27,163 libptal0-0.91-8mdk.i586.rpm
+09/12/2005  10:35 PM            46,091 libpwdb0-0.62-2mdk.i586.rpm
+09/12/2005  10:38 PM           440,976 libpython2.4-2.4.1-3mdk.i586.rpm
+09/12/2005  10:49 PM           765,709 libqscintilla5-1.5.1-1mdk.i586.rpm
+09/20/2005  04:06 AM         3,298,160 libqt3-3.3.4-23mdk.i586.rpm
+09/12/2005  10:25 PM            14,151 libraw1394_8-1.2.0-2mdk.i586.rpm
+09/12/2005  10:35 PM           103,070 libreadline5-5.0-2mdk.i586.rpm
+09/16/2005  01:22 PM         1,011,233 librpm4.4-4.4.2-4mdk.i586.rpm
+09/12/2005  10:27 PM           100,512 librsvg2_2-2.9.5-2mdk.i586.rpm
+09/12/2005  10:35 PM           344,536 libsafe-2.0.13-3mdk.i586.rpm
+09/12/2005  10:42 PM            54,826 libsane-hpaio1-0.9.4-6mdk.i586.rpm
+09/16/2005  01:22 PM            41,672 libsane-hpoj1-0.91-8mdk.i586.rpm
+09/12/2005  10:34 PM         2,123,503 libsane1-1.0.16-5mdk.i586.rpm
+09/12/2005  10:46 PM            53,861 libsasl2-2.1.22-11mdk.i586.rpm
+09/12/2005  10:49 PM            22,051 libsasl2-plug-gssapi-2.1.22-11mdk.i586.rpm
+09/12/2005  10:50 PM            17,872 libsasl2-plug-plain-2.1.22-11mdk.i586.rpm
+09/12/2005  10:34 PM            21,028 libscrollkeeper0-0.3.14-9mdk.i586.rpm
+09/12/2005  10:47 PM            31,400 libselinux1-1.21.11-1mdk.i586.rpm
+09/12/2005  10:39 PM           187,620 libslang1-1.4.9-7mdk.i586.rpm
+09/13/2005  03:49 PM           607,942 libsmbclient0-3.0.20-3mdk.i586.rpm
+09/12/2005  10:48 PM           114,630 libsoup-2.2_7-2.2.3-2mdk.i586.rpm
+09/12/2005  10:25 PM           178,737 libsqlite3_0-3.2.2-2mdk.i586.rpm
+09/12/2005  10:36 PM            19,551 libstartup-notification-1_0-0.8-1mdk.i586.rpm
+09/06/2005  07:39 PM           326,813 libstdc++5-3.3.6-1mdk.i586.rpm
+09/12/2005  10:50 PM           298,211 libstdc++6-4.0.1-5mdk.i586.rpm
+09/12/2005  10:50 PM        12,348,914 libstdc++6-devel-4.0.1-5mdk.i586.rpm
+09/12/2005  10:42 PM            21,153 libsysfs1-1.3.0-1mdk.i586.rpm
+09/12/2005  10:36 PM            15,969 libtermcap2-2.0.8-36mdk.i586.rpm
+09/12/2005  10:39 PM           162,199 libtiff-progs-3.6.1-12mdk.i586.rpm
+09/12/2005  10:31 PM           103,883 libtiff3-3.6.1-12mdk.i586.rpm
+09/12/2005  10:24 PM            13,971 libtpctl2-4.17-1mdk.i586.rpm
+09/12/2005  10:36 PM            37,898 libungif4-4.1.3-1mdk.i586.rpm
+09/12/2005  10:49 PM           600,402 libunixODBC1-2.2.11-5mdk.i586.rpm
+09/12/2005  10:36 PM            15,517 libusb0.1_4-0.1.8-7mdk.i586.rpm
+09/12/2005  10:28 PM           295,832 libuser-0.53.2-6mdk.i586.rpm
+09/12/2005  10:33 PM            45,888 libuser1-0.53.2-6mdk.i586.rpm
+09/12/2005  10:36 PM            15,951 libutempter0-0.5.5-1mdk.i586.rpm
+09/12/2005  10:33 PM           104,792 libvorbis0-1.1.1-1mdk.i586.rpm
+09/12/2005  10:40 PM            88,476 libvorbisenc2-1.1.1-1mdk.i586.rpm
+09/12/2005  10:48 PM            19,935 libvorbisfile3-1.1.1-1mdk.i586.rpm
+09/12/2005  10:28 PM           371,185 libvte4-0.11.15-2mdk.i586.rpm
+09/12/2005  10:29 PM           337,271 libwmf-0.2.8.3-6mdk.i586.rpm
+09/12/2005  10:34 PM           165,066 libwmf0.2_7-0.2.8.3-6mdk.i586.rpm
+09/12/2005  10:37 PM           323,328 libxclass0-0.6.3-14mdk.i586.rpm
+09/12/2005  10:47 PM           223,901 libxml1-1.8.17-8mdk.i586.rpm
+09/14/2005  03:17 PM           559,323 libxml2-2.6.21-3mdk.i586.rpm
+09/14/2005  03:17 PM            54,219 libxml2-utils-2.6.21-3mdk.i586.rpm
+09/20/2005  04:05 AM        10,425,717 libxorg-x11-6.9-1.cvs20050915.2mdk.i586.rpm
+09/12/2005  10:30 PM            61,751 libxpm4-3.4k-31mdk.i586.rpm
+09/12/2005  10:25 PM           326,464 libxslt1-1.1.15-1mdk.i586.rpm
+09/15/2005  11:30 PM           245,031 lilo-22.6.1-6mdk.i586.rpm
+09/12/2005  10:20 PM           689,473 locales-2.3.5-1mdk.i586.rpm
+09/12/2005  10:20 PM            30,914 locales-af-2.3.5-1mdk.i586.rpm
+09/12/2005  10:20 PM           921,370 locales-am-2.3.5-1mdk.i586.rpm
+09/12/2005  10:22 PM            86,370 locales-ar-2.3.5-1mdk.i586.rpm
+09/12/2005  10:33 PM            28,981 locales-as-2.3.5-1mdk.i586.rpm
+09/12/2005  10:33 PM           246,240 locales-az-2.3.5-1mdk.i586.rpm
+09/12/2005  10:35 PM           228,926 locales-be-2.3.5-1mdk.i586.rpm
+09/12/2005  10:36 PM           227,335 locales-bg-2.3.5-1mdk.i586.rpm
+09/12/2005  10:37 PM            33,007 locales-bn-2.3.5-1mdk.i586.rpm
+09/12/2005  10:37 PM           300,531 locales-br-2.3.5-1mdk.i586.rpm
+09/12/2005  10:37 PM           220,764 locales-bs-2.3.5-1mdk.i586.rpm
+09/12/2005  10:38 PM            63,947 locales-ca-2.3.5-1mdk.i586.rpm
+09/12/2005  10:39 PM            61,153 locales-cs-2.3.5-1mdk.i586.rpm
+09/12/2005  10:39 PM           295,675 locales-cy-2.3.5-1mdk.i586.rpm
+09/12/2005  10:39 PM           163,295 locales-da-2.3.5-1mdk.i586.rpm
+09/12/2005  10:39 PM           161,958 locales-de-2.3.5-1mdk.i586.rpm
+09/12/2005  10:39 PM            31,067 locales-el-2.3.5-1mdk.i586.rpm
+09/12/2005  10:40 PM           133,655 locales-en-2.3.5-1mdk.i586.rpm
+09/12/2005  10:40 PM           294,239 locales-eo-2.3.5-1mdk.i586.rpm
+09/12/2005  10:41 PM           420,283 locales-es-2.3.5-1mdk.i586.rpm
+09/12/2005  10:41 PM            67,340 locales-et-2.3.5-1mdk.i586.rpm
+09/12/2005  10:41 PM            33,691 locales-eu-2.3.5-1mdk.i586.rpm
+09/12/2005  10:41 PM           252,167 locales-fa-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM            62,479 locales-fi-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM            58,768 locales-fo-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM           193,352 locales-fr-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM           276,977 locales-fur-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM            65,814 locales-fy-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM            35,062 locales-ga-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM           132,774 locales-gd-2.3.5-1mdk.i586.rpm
+09/12/2005  10:42 PM            61,057 locales-gl-2.3.5-1mdk.i586.rpm
+09/12/2005  10:43 PM            29,020 locales-gu-2.3.5-1mdk.i586.rpm
+09/12/2005  10:43 PM            32,350 locales-gv-2.3.5-1mdk.i586.rpm
+09/12/2005  10:43 PM            91,514 locales-he-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM            28,999 locales-hi-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM            58,321 locales-hr-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM           235,105 locales-hu-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM           296,635 locales-hy-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM            28,787 locales-id-2.3.5-1mdk.i586.rpm
+09/12/2005  10:44 PM           214,950 locales-ik-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM            63,031 locales-is-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM            40,252 locales-it-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM            51,926 locales-iu-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM           528,645 locales-ja-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM            94,230 locales-ka-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM            50,774 locales-kl-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM           244,863 locales-km-2.3.5-1mdk.i586.rpm
+09/12/2005  10:45 PM           506,723 locales-ko-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM           238,690 locales-ku-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM            30,746 locales-kw-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM           216,140 locales-ky-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM            66,211 locales-li-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM            70,912 locales-lo-2.3.5-1mdk.i586.rpm
+09/12/2005  10:46 PM            61,970 locales-lt-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            63,126 locales-lv-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           222,424 locales-mi-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            22,725 locales-mk-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            64,178 locales-ml-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           217,115 locales-mn-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            29,006 locales-mr-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            28,784 locales-ms-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           228,075 locales-mt-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            74,642 locales-nds-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            22,681 locales-ne-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            73,003 locales-nl-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           135,335 locales-no-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            99,009 locales-oc-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            28,835 locales-pa-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           419,179 locales-ph-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            56,337 locales-pl-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            40,224 locales-pt-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           332,643 locales-ro-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           246,395 locales-ru-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           277,573 locales-sc-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           215,575 locales-se-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            60,739 locales-sk-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            57,153 locales-sl-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           232,566 locales-sq-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           388,361 locales-sr-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            28,941 locales-st-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           270,283 locales-sv-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           243,266 locales-sw-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           257,279 locales-ta-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            29,080 locales-te-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM           219,844 locales-tg-2.3.5-1mdk.i586.rpm
+09/12/2005  10:47 PM            73,176 locales-th-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           288,368 locales-tk-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           238,602 locales-tr-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           217,383 locales-tt-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           234,165 locales-uk-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM            63,550 locales-ur-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           338,300 locales-uz-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           317,766 locales-vi-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           131,943 locales-wa-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM            28,950 locales-xh-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM           250,777 locales-yi-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM         1,086,315 locales-zh-2.3.5-1mdk.i586.rpm
+09/12/2005  10:48 PM            29,011 locales-zu-2.3.5-1mdk.i586.rpm
+09/12/2005  10:20 PM            37,617 logrotate-3.7.1-2mdk.i586.rpm
+09/21/2005  01:57 AM            47,876 losetup-2.12q-7mdk.i586.rpm
+09/12/2005  10:38 PM            86,021 lsof-4.74-1mdk.i586.rpm
+09/12/2005  10:21 PM           436,871 lvm2-2.01.09-1mdk.i586.rpm
+09/12/2005  10:20 PM         1,476,716 lynx-2.8.5-4mdk.i586.rpm
+09/12/2005  10:24 PM            17,659 mailcap-2.0.4-13mdk.noarch.rpm
+09/12/2005  10:38 PM            82,112 makedev-4.4-1mdk.noarch.rpm
+09/24/2005  12:55 AM            16,040 mandi-0.7.4-1mdk.i586.rpm
+09/24/2005  12:55 AM             5,966 mandi-ifw-0.7.4-1mdk.i586.rpm
+09/12/2005  10:38 PM            20,434 mandrake-mime-0.4-10mdk.noarch.rpm
+09/20/2005  04:06 AM            35,255 mandriva-doc-common-2006-6mdk.noarch.rpm
+09/20/2005  01:57 PM         1,619,470 mandriva-kde-config-file-2006-10mdk.noarch.rpm
+09/16/2005  01:14 PM            22,676 mandriva-release-2006.0-1mdk.i586.rpm
+09/23/2005  10:59 PM         1,435,534 mandriva-theme-1.0.12-1mdk.noarch.rpm
+09/23/2005  10:59 PM         1,237,043 mandriva-theme-screensaver-1.0.12-1mdk.noarch.rpm
+09/12/2005  10:25 PM           109,894 mdadm-1.12.0-1mdk.i586.rpm
+09/24/2005  12:19 AM         5,145,652 mdk-menu-messages-2006-1mdk.i586.rpm
+09/12/2005  10:38 PM            28,632 mdklaunchhelp-10.0-2mdk.i586.rpm
+09/21/2005  01:06 AM           279,283 mdkonline-1.3-1mdk.noarch.rpm
+09/27/2005  03:00 PM    <DIR>          media_info
+09/12/2005  10:34 PM           359,287 menu-2.1.23-1mdk.i586.rpm
+09/12/2005  10:22 PM            14,803 menu-xdg-0.9-4mdk.noarch.rpm
+09/12/2005  10:22 PM           283,984 menudrake-0.7.6-5mdk.i586.rpm
+09/12/2005  10:38 PM            33,057 mingetty-1.07-3mdk.i586.rpm
+09/16/2005  01:22 PM            84,735 mkinitrd-4.2.17-6mdk.i586.rpm
+09/12/2005  10:38 PM            10,462 mktemp-1.5-12mdk.i586.rpm
+09/12/2005  10:49 PM           196,259 module-init-tools-3.2-0.pre8.2mdk.i586.rpm
+09/12/2005  10:49 PM           396,548 modutils-2.4.26-4mdk.i586.rpm
+09/12/2005  10:24 PM            58,107 monitor-edid-1.5-1mdk.i586.rpm
+09/21/2005  01:57 AM           152,335 mount-2.12q-7mdk.i586.rpm
+09/13/2005  03:50 PM            57,255 mount-cifs-3.0.20-3mdk.i586.rpm
+09/12/2005  10:22 PM            47,969 mpage-2.5.4-2mdk.i586.rpm
+09/20/2005  04:05 AM           151,561 msec-0.48-1mdk.i586.rpm
+09/12/2005  10:29 PM           254,499 mtools-3.9.10-1mdk.i586.rpm
+09/12/2005  10:30 PM            80,251 mtoolsfm-1.9.3-6mdk.i586.rpm
+09/12/2005  10:42 PM             9,734 multiarch-utils-1.0.9-2mdk.noarch.rpm
+09/12/2005  10:44 PM           484,960 myspell-ca_ES-1.0.2-0.20030907.9mdk.noarch.rpm
+09/12/2005  10:46 PM           214,858 myspell-en_AU-1.0.2-0.20030329.9mdk.noarch.rpm
+09/12/2005  10:47 PM            51,783 myspell-hyph-en-1.0.2-0.20020727.9mdk.noarch.rpm
+09/12/2005  10:22 PM           225,103 nail-11.25-1mdk.i586.rpm
+09/12/2005  10:26 PM            58,162 nc-1.10-19mdk.i586.rpm
+09/12/2005  10:39 PM           794,877 ncpfs-2.2.6-1mdk.i586.rpm
+09/12/2005  10:39 PM           240,612 ncurses-5.4-1.20050108.1mdk.i586.rpm
+09/12/2005  10:51 PM           992,689 net-snmp-5.2.1.2-4mdk.i586.rpm
+09/12/2005  10:51 PM           291,971 net-snmp-mibs-5.2.1.2-4mdk.i586.rpm
+09/12/2005  10:51 PM           288,178 net-snmp-utils-5.2.1.2-4mdk.i586.rpm
+09/12/2005  10:34 PM           350,357 net-tools-1.60-13mdk.i586.rpm
+09/12/2005  10:21 PM            11,422 netprofile-0.9.2-1mdk.noarch.rpm
+09/12/2005  10:33 PM            41,857 nfs-utils-clients-1.0.7-6mdk.i586.rpm
+09/12/2005  10:39 PM           560,743 nmap-3.81-1mdk.i586.rpm
+09/12/2005  10:39 PM           111,208 nss_ldap-239-3mdk.i586.rpm
+09/12/2005  10:23 PM         1,269,409 ntp-4.2.0-21mdk.i586.rpm
+09/12/2005  10:31 PM           153,174 ntp-client-4.2.0-21mdk.i586.rpm
+09/12/2005  10:48 PM            13,655 numlock-2.0-11mdk.i586.rpm
+09/12/2005  10:22 PM           230,150 nut-2.0.1-2mdk.i586.rpm
+09/12/2005  10:30 PM           726,746 nut-server-2.0.1-2mdk.i586.rpm
+09/12/2005  10:30 PM           133,988 oaf-0.6.10-15mdk.i586.rpm
+09/20/2005  01:57 PM            35,200 openldap-2.3.6-4mdk.i586.rpm
+09/20/2005  01:57 PM           137,681 openldap-clients-2.3.6-4mdk.i586.rpm
+09/12/2005  10:47 PM           274,382 openssh-4.2p1-1mdk.i586.rpm
+09/12/2005  10:50 PM           288,880 openssh-clients-4.2p1-1mdk.i586.rpm
+09/12/2005  10:20 PM           480,480 openssl-0.9.7g-2mdk.i586.rpm
+09/15/2005  01:47 PM            47,129 packdrake-5.0.24-1mdk.i586.rpm
+09/20/2005  04:05 AM           139,567 pam-0.77-31mdk.i586.rpm
+09/12/2005  10:33 PM            61,170 pam_krb5-2.1.2-3mdk.i586.rpm
+09/12/2005  10:32 PM            66,949 pam_ldap-180-2mdk.i586.rpm
+09/13/2005  03:50 PM           225,575 pango-1.10.0-3mdk.i586.rpm
+09/12/2005  10:39 PM            43,760 park-rpmdrake-2.20-3mdk.i586.rpm
+09/12/2005  10:39 PM            16,844 passwd-0.68-3mdk.i586.rpm
+09/12/2005  10:32 PM           165,521 pciutils-2.1.11-17mdk.i586.rpm
+09/12/2005  10:30 PM           311,861 pcmcia-cs-3.2.8-8mdk.i586.rpm
+09/12/2005  10:25 PM           180,971 pdksh-5.2.14-17mdk.i586.rpm
+09/12/2005  10:22 PM         8,290,765 perl-5.8.7-3mdk.i586.rpm
+09/12/2005  10:32 PM           206,540 perl-Apache-Test-1.25-2mdk.noarch.rpm
+09/12/2005  10:39 PM            11,102 perl-Array-RefElem-1.00-2mdk.i586.rpm
+09/12/2005  10:33 PM            30,482 perl-Authen-PAM-0.15-2mdk.i586.rpm
+09/12/2005  10:28 PM            36,693 perl-Authen-SASL-2.09-1mdk.noarch.rpm
+09/12/2005  10:37 PM            30,327 perl-BSD-Resource-1.24-3mdk.i586.rpm
+09/12/2005  10:24 PM           270,974 perl-CGI-3.08-1mdk.noarch.rpm
+09/12/2005  10:47 PM            86,296 perl-Compress-Zlib-1.37-1mdk.i586.rpm
+09/12/2005  10:40 PM            43,110 perl-Config-IniFiles-2.38-3mdk.noarch.rpm
+09/12/2005  10:40 PM            38,719 perl-Crypt-SSLeay-0.51-5mdk.i586.rpm
+09/12/2005  10:40 PM            70,329 perl-Curses-1.07-1mdk.i586.rpm
+09/12/2005  10:32 PM            17,059 perl-Data-DumpXML-1.06-2mdk.noarch.rpm
+09/12/2005  10:40 PM            13,273 perl-Digest-HMAC-1.01-12mdk.noarch.rpm
+09/12/2005  10:40 PM            25,253 perl-Digest-SHA1-2.10-2mdk.i586.rpm
+09/12/2005  10:40 PM            70,525 perl-Expect-1.15-7mdk.noarch.rpm
+09/12/2005  10:29 PM           275,714 perl-Glib-1.082-1mdk.i586.rpm
+09/12/2005  10:40 PM            47,848 perl-Gnome2-Vte-0.04-2mdk.i586.rpm
+09/12/2005  10:38 PM         1,664,923 perl-Gtk2-1.083-2mdk.i586.rpm
+09/12/2005  10:39 PM            35,188 perl-Gtk2-Html2-0.04-6mdk.i586.rpm
+09/12/2005  10:48 PM            18,763 perl-Gtk2-NotificationBubble-0.01-3mdk.i586.rpm
+09/12/2005  10:40 PM            18,397 perl-Gtk2-TrayIcon-0.04-2mdk.i586.rpm
+09/12/2005  10:40 PM           101,470 perl-HTML-Parser-3.45-1mdk.i586.rpm
+09/12/2005  10:40 PM            14,381 perl-HTML-Tagset-3.04-1mdk.noarch.rpm
+09/12/2005  10:40 PM            38,277 perl-IO-Tty-1.02-10mdk.i586.rpm
+09/12/2005  10:25 PM            94,289 perl-Libconf-0.39.21-1mdk.noarch.rpm
+09/12/2005  10:33 PM            19,359 perl-Locale-gettext-1.05-1mdk.i586.rpm
+09/12/2005  10:37 PM            44,922 perl-MDK-Common-1.1.24-1mdk.i586.rpm
+09/12/2005  10:37 PM            65,174 perl-MIME-Lite-3.01-7mdk.noarch.rpm
+09/12/2005  10:48 PM            85,743 perl-MailTools-1.67-1mdk.noarch.rpm
+09/12/2005  10:29 PM           198,632 perl-Module-Build-0.2611-2mdk.noarch.rpm
+09/12/2005  10:40 PM            65,673 perl-Net-DBus-0.0.1-3mdk.i586.rpm
+09/12/2005  10:24 PM           229,374 perl-Net-DNS-0.52-1mdk.i586.rpm
+09/12/2005  10:26 PM            29,337 perl-Net-IP-1.23-1mdk.noarch.rpm
+09/12/2005  10:36 PM           203,606 perl-Net-Jabber-1.30-2mdk.noarch.rpm
+09/12/2005  10:40 PM           137,892 perl-Net_SSLeay-1.25-4mdk.i586.rpm
+09/12/2005  10:37 PM           258,193 perl-SOAP-Lite-0.60-0.a.3mdk.noarch.rpm
+09/12/2005  10:28 PM            26,363 perl-Term-ReadKey-2.30-1mdk.i586.rpm
+09/12/2005  10:40 PM            36,504 perl-TimeDate-1.16-4mdk.noarch.rpm
+09/12/2005  10:32 PM           119,788 perl-URI-1.35-2mdk.noarch.rpm
+09/12/2005  10:25 PM           111,812 perl-URPM-1.27-1mdk.i586.rpm
+09/12/2005  10:40 PM           217,468 perl-XML-Parser-2.34-3mdk.i586.rpm
+09/12/2005  10:40 PM            69,881 perl-XML-Stream-1.22-2mdk.noarch.rpm
+09/12/2005  10:30 PM           931,775 perl-base-5.8.7-3mdk.i586.rpm
+09/12/2005  10:40 PM           375,639 perl-libwww-perl-5.803-1mdk.noarch.rpm
+09/12/2005  10:41 PM            99,518 pinfo-0.6.8-1mdk.i586.rpm
+09/12/2005  10:25 PM            78,755 pkgconfig-0.19-2mdk.i586.rpm
+09/12/2005  10:41 PM            47,384 playmidi-2.5-4mdk.i586.rpm
+09/16/2005  01:22 PM            59,553 popt-data-1.10.2-4mdk.i586.rpm
+09/12/2005  10:21 PM            34,614 portmap-4.0-24mdk.i586.rpm
+09/12/2005  10:35 PM         1,466,424 postfix-2.2.5-7mdk.i586.rpm
+09/12/2005  10:26 PM         7,563,752 postscript-ppds-2006-1mdk.noarch.rpm
+09/12/2005  10:28 PM            16,767 ppdfilt-0.10-6mdk.i586.rpm
+09/12/2005  10:26 PM           294,895 ppp-2.4.3-9mdk.i586.rpm
+09/12/2005  10:31 PM            20,102 ppp-pppoatm-2.4.3-9mdk.i586.rpm
+09/12/2005  10:33 PM            32,957 ppp-pppoe-2.4.3-9mdk.i586.rpm
+09/12/2005  10:30 PM         2,167,843 printer-filters-2006-7mdk.i586.rpm
+09/12/2005  10:31 PM         1,142,750 printer-testpages-2006-1mdk.noarch.rpm
+09/12/2005  10:29 PM           909,716 printer-utils-2006-7mdk.i586.rpm
+09/12/2005  10:41 PM           150,046 prism2-utils-0.2.1-0.pre26.2mdk.i586.rpm
+09/12/2005  10:41 PM           137,652 procmail-3.22-5mdk.i586.rpm
+09/18/2005  02:29 AM           205,334 procps-3.2.5-2mdk.i586.rpm
+09/12/2005  10:41 PM            37,776 psmisc-21.5-3mdk.i586.rpm
+09/12/2005  10:41 PM            82,424 psutils-p17-8mdk.i586.rpm
+09/12/2005  10:23 PM           104,468 pump-0.8.22-1mdk.i586.rpm
+09/12/2005  10:41 PM            28,463 pwdb-conf-0.62-2mdk.i586.rpm
+09/12/2005  10:40 PM           788,576 pygtk2.0-2.6.2-1mdk.i586.rpm
+09/12/2005  10:49 PM             7,999 pygtk2.0-wrapper-2.6.2-1mdk.i586.rpm
+09/12/2005  10:44 PM         4,228,734 python-2.4.1-3mdk.i586.rpm
+09/12/2005  10:50 PM           268,846 python-base-2.4.1-3mdk.i586.rpm
+09/12/2005  10:41 PM             8,508 python-fam-1.0.2-5mdk.i586.rpm
+09/12/2005  10:27 PM           565,941 python-numeric-24.0-1mdk.i586.rpm
+09/20/2005  04:06 AM           182,030 qt3-common-3.3.4-23mdk.i586.rpm
+09/12/2005  10:22 PM           113,232 rdesktop-1.4.1-1mdk.i586.rpm
+09/12/2005  10:42 PM           478,274 reiserfsprogs-3.6.19-1mdk.i586.rpm
+09/12/2005  10:42 PM           260,558 rfb-0.6.1-8mdk.i586.rpm
+09/12/2005  10:42 PM           107,502 rfbdrake-1.0-8mdk.noarch.rpm
+09/12/2005  10:23 PM            17,720 rmt-0.4b40-3mdk.i586.rpm
+09/12/2005  10:36 PM            12,391 rootfiles-10.2-2mdk.noarch.rpm
+09/12/2005  10:24 PM            92,731 rp-pppoe-3.5-5mdk.i586.rpm
+09/16/2005  01:20 PM           692,925 rpm-4.4.2-4mdk.i586.rpm
+09/20/2005  05:22 PM            15,351 rpm-helper-0.14-1mdk.noarch.rpm
+09/12/2005  10:34 PM            16,830 rpm-mandriva-setup-1.5-1mdk.i586.rpm
+09/12/2005  10:34 PM         1,280,461 rpmdrake-2.20-3mdk.i586.rpm
+09/15/2005  01:47 PM            62,971 rpmtools-5.0.24-1mdk.i586.rpm
+09/12/2005  10:21 PM           209,675 rsync-2.6.6-1mdk.i586.rpm
+09/12/2005  10:31 PM            17,400 s2u-0.5-3mdk.i586.rpm
+09/13/2005  03:50 PM         2,094,551 samba-client-3.0.20-3mdk.i586.rpm
+09/13/2005  03:50 PM         4,793,652 samba-common-3.0.20-3mdk.i586.rpm
+09/13/2005  03:50 PM         2,953,405 samba-server-3.0.20-3mdk.i586.rpm
+09/13/2005  03:50 PM         1,073,138 samba-winbind-3.0.20-3mdk.i586.rpm
+09/12/2005  10:34 PM           986,564 sane-backends-1.0.16-5mdk.i586.rpm
+09/12/2005  10:42 PM            97,432 sane-frontends-1.0.13-2mdk.i586.rpm
+09/12/2005  10:25 PM            45,367 saned-1.0.16-5mdk.i586.rpm
+09/12/2005  10:42 PM           274,251 sash-3.7-3mdk.i586.rpm
+09/12/2005  10:32 PM            32,311 scanssh-2.1-2mdk.i586.rpm
+09/12/2005  10:42 PM           354,648 scli-0.2.12-5mdk.i586.rpm
+09/12/2005  10:42 PM           174,751 sed-4.1.4-2mdk.i586.rpm
+09/12/2005  10:42 PM             6,635 setarch-1.7-1mdk.i586.rpm
+09/12/2005  10:25 PM            58,532 setup-2.7-2mdk.i586.rpm
+09/12/2005  10:35 PM            51,784 sgml-common-0.6.3-11mdk.noarch.rpm
+09/14/2005  03:17 PM           614,565 shadow-utils-4.0.12-1mdk.i586.rpm
+09/12/2005  10:49 PM           455,431 shared-mime-info-0.16-3mdk.i586.rpm
+09/12/2005  10:26 PM            94,487 sharutils-4.2.1-18mdk.i586.rpm
+09/12/2005  10:33 PM           140,898 shorewall-2.4.1-3mdk.noarch.rpm
+09/12/2005  10:27 PM            61,874 sip-4.2.1-3mdk.i586.rpm
+09/12/2005  10:42 PM           263,047 sndconfig-0.70-7mdk.i586.rpm
+09/17/2005  03:21 PM            20,466 sound-scripts-0.35-1mdk.noarch.rpm
+09/12/2005  10:42 PM             4,567 soundwrapper-1.3-3mdk.i586.rpm
+09/12/2005  10:25 PM           285,033 sox-12.17.8-1mdk.i586.rpm
+09/16/2005  01:22 PM            95,867 speedtouch-1.3.1-5mdk.i586.rpm
+09/12/2005  10:50 PM           172,763 sudo-1.6.8p8-2mdk.i586.rpm
+09/12/2005  10:34 PM            35,949 suspend-scripts-1.9.2-1mdk.noarch.rpm
+09/12/2005  10:32 PM            53,777 synaptics-0.14.3-1mdk.i586.rpm
+09/12/2005  10:48 PM            42,693 sysfsutils-1.3.0-1mdk.i586.rpm
+09/12/2005  10:20 PM            63,822 sysklogd-1.4.1-7mdk.i586.rpm
+09/12/2005  10:28 PM            56,823 t1utils-1.32-2mdk.i586.rpm
+09/12/2005  10:28 PM           661,621 tar-1.15.1-5mdk.i586.rpm
+09/12/2005  10:29 PM            95,385 tcp_wrappers-7.6-26mdk.i586.rpm
+09/12/2005  10:20 PM           293,192 tcsh-6.14-1mdk.i586.rpm
+09/12/2005  10:43 PM           230,159 termcap-11.0.1-9mdk.noarch.rpm
+09/12/2005  10:28 PM           188,439 tightvnc-1.2.9-6mdk.i586.rpm
+09/12/2005  10:44 PM            17,075 time-1.7-27mdk.i586.rpm
+09/12/2005  10:50 PM           209,848 timezone-2.3.5-5mdk.i586.rpm
+09/12/2005  10:23 PM            76,537 tmdns-0.5.2-1mdk.i586.rpm
+09/12/2005  10:24 PM            14,389 tmpwatch-2.9.4-1mdk.i586.rpm
+09/12/2005  10:24 PM            68,188 tpctl-4.17-1mdk.i586.rpm
+09/20/2005  01:56 PM           240,289 udev-068-34mdk.i586.rpm
+09/12/2005  10:29 PM           592,590 umb-scheme-3.2-22mdk.i586.rpm
+09/12/2005  10:24 PM           268,578 unzip-5.52-1mdk.i586.rpm
+09/12/2005  10:35 PM            12,582 update-alternatives-1.8.3-2mdk.noarch.rpm
+09/15/2005  01:47 PM         1,226,948 urpmi-4.7.15-1mdk.noarch.rpm
+09/12/2005  10:22 PM         4,790,224 urw-fonts-2.0-15.1mdk.noarch.rpm
+09/12/2005  10:46 PM            90,382 usbutils-0.70-4mdk.i586.rpm
+09/12/2005  10:33 PM           238,928 userdrake-1.2.1-2mdk.i586.rpm
+09/12/2005  10:26 PM           101,515 usermode-1.63-13mdk.i586.rpm
+09/12/2005  10:28 PM           167,001 usermode-consoleonly-1.63-13mdk.i586.rpm
+09/12/2005  10:44 PM            17,042 utempter-0.5.5-1mdk.i586.rpm
+09/21/2005  01:57 AM         1,582,340 util-linux-2.12q-7mdk.i586.rpm
+09/12/2005  10:32 PM         3,672,724 vim-common-6.3-21mdk.i586.rpm
+09/12/2005  10:33 PM           702,902 vim-enhanced-6.3-21mdk.i586.rpm
+09/12/2005  10:34 PM           292,539 vim-minimal-6.3-21mdk.i586.rpm
+09/12/2005  10:29 PM            53,563 vixie-cron-3.0.1-57mdk.i586.rpm
+09/12/2005  10:44 PM            53,409 vlan-utils-1.8-2mdk.i586.rpm
+09/12/2005  10:31 PM           423,578 vte-0.11.15-2mdk.i586.rpm
+09/12/2005  10:26 PM           415,203 wget-1.10-1mdk.i586.rpm
+09/12/2005  10:44 PM            26,379 which-2.16-2mdk.i586.rpm
+09/12/2005  10:45 PM           133,066 wireless-tools-28-0.pre6.1mdk.i586.rpm
+09/12/2005  10:30 PM           213,182 wpa_supplicant-0.4.4-1mdk.i586.rpm
+09/12/2005  10:45 PM           146,619 xclass-icons-0.6.3-14mdk.i586.rpm
+09/12/2005  10:37 PM         1,155,434 xfsprogs-2.6.36-2mdk.i586.rpm
+09/12/2005  10:20 PM           153,021 xinetd-2.3.13-2mdk.i586.rpm
+09/12/2005  10:23 PM            29,104 xinitrc-2.4.14-1mdk.noarch.rpm
+09/16/2005  01:21 PM            29,893 xojpanel-0.91-8mdk.i586.rpm
+09/20/2005  04:06 AM        15,184,752 xorg-x11-6.9-1.cvs20050915.2mdk.i586.rpm
+09/20/2005  04:06 AM         7,733,369 xorg-x11-75dpi-fonts-6.9-1.cvs20050915.2mdk.i586.rpm
+09/20/2005  04:06 AM           809,840 xorg-x11-glide-module-6.9-1.cvs20050915.2mdk.i586.rpm
+09/20/2005  04:06 AM         5,347,770 xorg-x11-server-6.9-1.cvs20050915.2mdk.i586.rpm
+09/20/2005  04:06 AM            67,987 xorg-x11-xauth-6.9-1.cvs20050915.2mdk.i586.rpm
+09/20/2005  04:06 AM           714,750 xorg-x11-xfs-6.9-1.cvs20050915.2mdk.i586.rpm
+09/12/2005  10:23 PM            89,664 xpp-1.5-2mdk.i586.rpm
+09/20/2005  01:57 PM         1,700,248 xsane-0.97-2mdk.i586.rpm
+09/12/2005  10:23 PM           193,866 xterm-203-1mdk.i586.rpm
+09/12/2005  10:45 PM            69,076 yp-tools-2.9-1mdk.i586.rpm
+09/12/2005  10:23 PM            30,015 ypbind-1.19.1-2mdk.i586.rpm
+09/12/2005  10:29 PM           338,143 zcip-4-4mdk.i586.rpm
+09/12/2005  10:21 PM            45,639 zh-autoconvert-0.3.14-2mdk.i586.rpm
+09/12/2005  10:21 PM            50,316 zlib1-1.2.3-1mdk.i586.rpm
+             798 File(s)    572,591,848 bytes
+
+ Directory of G:\media\main\media_info
+
+09/27/2005  03:00 PM    <DIR>          .
+09/27/2005  03:00 PM    <DIR>          ..
+09/27/2005  03:00 PM                54 MD5SUM
+09/27/2005  03:00 PM            77,176 synthesis.hdlist.cz
+               2 File(s)         77,230 bytes
+
+ Directory of G:\media\media_info
+
+09/27/2005  03:00 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  03:00 PM               300 MD5SUM
+09/27/2005  03:00 PM            26,208 compss
+09/23/2005  04:47 PM             7,928 compssUsers.pl
+09/27/2005  03:00 PM           275,135 depslist.ordered
+09/27/2005  03:00 PM         6,122,427 hdlist1.cz
+09/27/2005  03:00 PM         6,069,512 hdlist2.cz
+09/27/2005  03:00 PM         3,743,698 hdlist3.cz
+09/27/2005  03:00 PM               170 hdlists
+09/27/2005  03:00 PM               311 media.cfg
+09/27/2005  03:00 PM           457,901 provides
+09/27/2005  03:00 PM             1,625 pubkey1
+09/27/2005  03:00 PM             1,625 pubkey2
+09/27/2005  03:00 PM             1,625 pubkey3
+09/27/2005  02:59 PM            27,190 rpmsrate
+09/27/2005  03:00 PM            77,235 synthesis.hdlist1.cz
+09/27/2005  03:00 PM            89,864 synthesis.hdlist2.cz
+09/27/2005  03:00 PM            17,218 synthesis.hdlist3.cz
+              17 File(s)     16,919,972 bytes
+
+ Directory of G:\misc
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+03/15/2001  02:58 AM            26,224 ChangeLog.bz2
+03/15/2001  02:58 AM               204 README
+09/27/2005  02:57 PM    <DIR>          auto
+01/28/2004  01:23 AM           658,325 autorun.tar.gz
+09/27/2005  02:57 PM    <DIR>          bin
+09/12/2005  06:59 PM             4,161 drakx-in-chroot
+09/23/2005  04:43 PM            14,694 gendistrib
+09/23/2005  04:43 PM             1,157 mdkinst_stage2_tool
+09/23/2005  04:43 PM             4,571 packdrake
+09/23/2005  04:43 PM             5,109 packdrake.pm
+04/09/2002  01:28 AM             4,380 rpm2header
+               9 File(s)        718,825 bytes
+
+ Directory of G:\misc\auto
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/27/2005  02:57 PM    <DIR>          URPM
+               0 File(s)              0 bytes
+
+ Directory of G:\misc\auto\URPM
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+09/23/2005  04:43 PM           106,916 URPM.so
+               1 File(s)        106,916 bytes
+
+ Directory of G:\misc\bin
+
+09/27/2005  02:57 PM    <DIR>          .
+09/27/2005  02:57 PM    <DIR>          ..
+10/09/2004  01:54 AM           424,160 mkisofs
+               1 File(s)        424,160 bytes
+
+     Total Files Listed:
+            1289 File(s)    724,142,801 bytes
+             264 Dir(s)               0 bytes free

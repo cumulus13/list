@@ -1,0 +1,41 @@
+Folder PATH listing for volume GIS-Knoppix
+Volume serial number is B039-F1B3
+G:\
+|   autorun.bat
+|   autorun.inf
+|   cdrom.ico
+|   index.html
+|   index_de.html
+|   logo.2-5.web.png
+|   pixel.png
+|   
+\---KNOPPIX
+    |   KNOPPIX
+    |   LICENSE.txt
+    |   README_Security.txt
+    |   background.jpg
+    |   boot-ch.img
+    |   boot-de.img
+    |   boot-en.img
+    |   boot.cat
+    |   boot.img
+    |   links.html
+    |   mkfloppy.bat
+    |   rawrite2-readme.txt
+    |   rawrite2.exe
+    |   
+    \---images
+            1stleftfill.gif
+            2ndfill.gif
+            2ndleftfill.gif
+            button-knoppix.gif
+            button-links.gif
+            button-openmusic.gif
+            button-selflinux.gif
+            button-talks.gif
+            knoppix-logo.gif
+            sidefill.gif
+            topfill.gif
+            topleft.gif
+            topright.gif
+            

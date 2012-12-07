@@ -1,0 +1,4757 @@
+ Volume in drive G is P5VDC-MX
+ Volume Serial Number is E10D-BCF9
+
+ Directory of G:\
+
+09/11/2002  06:42 PM             3,638 ASUS.ICO
+06/07/2005  05:15 PM            24,576 ASUSACPI.EXE
+05/06/2004  10:06 PM                49 AUTORUN.INF
+12/26/2005  09:42 PM    <DIR>          BIN
+12/26/2005  09:42 PM    <DIR>          DRIVERS
+08/07/2006  03:14 PM             5,556 FILELIST.TXT
+12/26/2005  09:42 PM    <DIR>          LinuxDrivers
+12/26/2005  09:42 PM    <DIR>          MANUAL
+08/07/2006  03:11 PM           524,288 P5VDCMX.ROM
+12/26/2005  09:43 PM    <DIR>          SOFTWARE
+04/02/2004  05:45 PM             1,807 TECHSUPP.TXT
+08/07/2006  03:12 PM                 6 VER.TAG
+               7 File(s)        559,920 bytes
+
+ Directory of G:\BIN
+
+01/16/1601  02:57 AM    <DIR>          .
+01/16/1601  02:57 AM    <DIR>          ..
+12/14/2004  06:01 PM         1,030,656 16copy.avi
+12/26/2005  09:42 PM    <DIR>          64BIT
+12/26/2005  09:42 PM    <DIR>          ACPI
+04/27/2005  03:30 AM            24,576 ALAUNCH.EXE
+04/27/2005  03:30 AM            24,576 ARUNONCE.EXE
+04/27/2005  03:30 AM               298 ARUNONCE.REG
+04/27/2005  03:30 AM            36,864 ASCDAC97.DLL
+07/12/2005  06:18 PM            40,960 ASCDDMI.DLL
+03/18/2005  12:31 AM            36,864 ASCDENUM.DLL
+11/23/2005  05:59 PM             4,657 ASCDINST.INI
+04/27/2005  03:30 AM            40,960 ASCDSIO.DLL
+04/27/2005  03:30 AM            40,960 ASUSHWIO.DLL
+04/27/2005  03:30 AM             5,824 ASUSHWIO.SYS
+04/27/2005  03:30 AM            32,768 ASUSIPNL.DLL
+04/27/2005  03:30 AM           365,056 ASUSQFE.EXE
+07/06/2005  12:23 AM           474,624 ASUSSETUP.EXE
+03/02/2005  10:53 PM            19,968 ASUSSETUP64.EXE
+04/25/2005  06:41 PM           143,360 Assetup.exe
+11/02/2004  12:45 AM         1,030,656 COPY.AVI
+08/01/2005  04:55 PM           429,056 Compact.exe
+09/23/2005  11:07 PM             2,714 ENGLISH.INI
+04/27/2005  03:30 AM               544 FIXWALL.REG
+12/08/2005  04:47 PM             3,206 French.ini
+12/08/2005  04:47 PM             3,080 German.ini
+06/09/2005  06:49 PM         2,793,984 INSTALL.EXE
+04/27/2005  03:30 AM               564 ITALIAN.REG
+12/08/2005  04:48 PM             2,669 Japanese.ini
+11/24/2005  01:15 PM             2,103 MENU.BAT
+04/27/2005  03:30 AM                69 PATCH.BAT
+06/16/2005  01:08 AM                41 RECOVERY.DAT
+09/21/2005  06:18 PM           123,749 SCRIPTS.asz
+08/08/2005  06:02 PM             2,601 SChinese.ini
+04/15/2005  09:00 PM           480,768 SEEDING.EXE
+07/13/2005  10:59 PM           639,488 SELECT.EXE
+04/27/2005  03:30 AM           133,786 SELECT16.BMP
+04/27/2005  03:30 AM           266,722 SELECT256.BMP
+04/27/2005  03:30 AM            54,292 SELECT256.JPG
+04/27/2005  03:30 AM               260 SYS_HIDE.REG
+04/27/2005  03:30 AM            26,662 TAB016.BMP
+04/27/2005  03:30 AM            15,506 TAB0256.JPG
+04/27/2005  03:30 AM            26,662 TAB116.BMP
+04/27/2005  03:30 AM            15,865 TAB1256.JPG
+04/27/2005  03:30 AM            26,662 TAB216.BMP
+04/27/2004  10:26 PM            26,662 TAB216_P.BMP
+04/27/2005  03:30 AM            19,612 TAB2256.JPG
+04/27/2004  10:26 PM            14,819 TAB2256_P.JPG
+04/27/2005  03:30 AM            26,662 TAB316.BMP
+04/27/2005  03:30 AM            32,010 TAB3256.JPG
+12/08/2005  04:47 PM             2,540 TCHINESE.INI
+04/27/2005  03:30 AM            26,662 Tab416.bmp
+04/27/2005  03:30 AM            15,847 Tab4256.jpg
+04/27/2005  03:30 AM            26,662 Tab516.bmp
+04/27/2005  03:30 AM            14,819 Tab5256.jpg
+04/27/2005  03:30 AM            16,442 XCOPY.EXE
+04/27/2005  03:30 AM           462,229 select16.jpg
+              53 File(s)      9,089,646 bytes
+
+ Directory of G:\BIN\64BIT
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+06/11/2004  06:53 PM             5,120 ASUSHWIO.SYS
+               1 File(s)          5,120 bytes
+
+ Directory of G:\BIN\ACPI
+
+06/11/2004  06:59 AM    <DIR>          .
+06/11/2004  06:59 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Acpi
+12/26/2005  09:42 PM    <DIR>          Acpi64
+12/26/2005  09:42 PM    <DIR>          Win98ME
+               0 File(s)              0 bytes
+
+ Directory of G:\BIN\ACPI\Acpi
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+04/18/2005  09:29 PM            32,768 AsAcpiIns.exe
+04/26/2005  03:31 AM           468,992 AsusSetup.exe
+09/20/2005  11:20 PM             2,021 AsusSetup.ini
+12/26/2005  09:42 PM    <DIR>          WIN2000
+04/22/2004  06:13 PM               314 install.ini
+               4 File(s)        504,095 bytes
+
+ Directory of G:\BIN\ACPI\Acpi\WIN2000
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+03/02/2003  10:00 PM            45,056 2000UNIN.EXE
+08/20/2004  03:58 PM             7,790 ATK2000.CAT
+08/19/2004  04:48 PM             2,093 ATK2000.INF
+08/13/2004  05:56 PM             5,810 asacpi.sys
+               4 File(s)         60,749 bytes
+
+ Directory of G:\BIN\ACPI\Acpi64
+
+01/26/1621  10:52 AM    <DIR>          .
+01/26/1621  10:52 AM    <DIR>          ..
+04/18/2005  09:45 PM            37,888 AsAcpiIns.exe
+04/26/2005  03:31 AM           468,992 AsusSetup.exe
+09/20/2005  11:20 PM             2,023 AsusSetup.ini
+04/22/2004  06:13 PM               314 install.ini
+12/26/2005  09:42 PM    <DIR>          win2000
+               4 File(s)        509,217 bytes
+
+ Directory of G:\BIN\ACPI\Acpi64\win2000
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+04/04/2005  11:50 AM             7,814 ATK2000.CAT
+01/11/2005  06:36 PM             2,160 ATK2000.INF
+03/28/2005  05:30 PM             8,192 Asacpi.sys
+               3 File(s)         18,166 bytes
+
+ Directory of G:\BIN\ACPI\Win98ME
+
+08/03/1621  10:52 AM    <DIR>          .
+08/03/1621  10:52 AM    <DIR>          ..
+01/15/2004  06:26 PM            40,960 9XMEunin.exe
+01/15/2004  06:26 PM            15,577 ASNDIS3.VXD
+01/15/2004  06:26 PM            16,112 ASNDIS4.SYS
+01/15/2004  06:26 PM            16,269 ASNDIS5.SYS
+01/15/2004  06:26 PM           136,192 ASUSNet.dll
+03/18/2005  02:18 AM           466,432 ASUSSETUP.EXE
+10/14/2005  01:48 PM             3,343 ASUSSETUP.INI
+01/15/2004  06:26 PM            61,440 ASW32N50.DLL
+01/15/2004  06:26 PM            12,131 ATK9XME.CAT
+11/26/2004  09:45 PM             1,498 ATK9XME.INF
+01/15/2004  06:26 PM         1,208,320 ATKOSD.EXE
+01/15/2004  06:26 PM            80,384 ATKWLIOC.DLL
+09/26/2005  07:15 AM               103 ENGLISH.INI
+01/15/2004  06:26 PM            65,536 HControl.exe
+10/14/2005  01:48 PM               828 INSTALL.TXT
+01/15/2004  06:26 PM            24,576 INTER_F2.DLL
+01/15/2004  06:26 PM            81,920 RADFN.DLL
+09/26/2005  07:15 AM               101 TChinese.ini
+11/02/2004  05:44 AM             5,632 atkacpi.sys
+              19 File(s)      2,237,354 bytes
+
+ Directory of G:\DRIVERS
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          AUDIO
+12/26/2005  09:42 PM    <DIR>          CHIPSET
+12/26/2005  09:42 PM    <DIR>          DISLPAY
+12/26/2005  09:42 PM    <DIR>          LAN
+12/26/2005  09:42 PM    <DIR>          USB2
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\AUDIO
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          RTL653
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+11/04/2003  07:55 PM            31,388 ALCXDEV.EXE
+08/13/2005  01:40 AM           465,408 AlcUpd64.exe
+12/26/2005  09:42 PM    <DIR>          Ap
+07/06/2005  08:23 AM           474,624 AsusSetup.exe
+10/14/2005  01:41 PM             2,105 AsusSetup.ini
+12/26/2005  09:42 PM    <DIR>          CONFIG
+04/07/2005  01:47 AM             3,262 CPLIcon.ico
+07/15/2005  11:48 PM            40,960 ChCfg.exe
+10/14/2005  01:23 PM               197 English.ini
+08/08/2003  10:41 PM            40,448 GETDXVER.EXE
+10/04/2005  06:06 PM            22,641 README.TXT
+09/05/2002  12:39 AM             1,078 SOUNDMAN.ICO
+12/03/2001  08:27 AM            23,552 SetCDfmt.exe
+11/06/2004  12:14 AM               136 SetupEx.ini
+10/14/2005  01:30 PM               142 TChinese.ini
+12/26/2005  09:42 PM    <DIR>          WDM
+12/26/2005  09:42 PM    <DIR>          Win95
+12/26/2005  09:42 PM    <DIR>          WinNT4
+11/21/2003  10:48 PM           110,592 alcchkid.exe
+09/09/2005  11:39 PM           212,992 alcrmv.exe
+09/09/2005  11:39 PM           306,176 alcrmv64.exe
+11/21/2003  11:57 PM           126,976 alcrmv9x.exe
+08/13/2005  01:40 AM           307,200 alcupd.exe
+09/09/2005  11:17 PM         2,311,591 data1.cab
+09/09/2005  11:17 PM            27,063 data1.hdr
+09/09/2005  11:17 PM               512 data2.cab
+04/07/2005  01:39 AM           543,481 engine32.cab
+09/05/2001  11:24 AM           344,923 ikernel.ex_
+09/09/2005  11:17 PM               473 layout.bin
+04/07/2005  01:39 AM           121,064 setup.exe
+09/09/2005  11:17 PM           456,313 setup.ibt
+10/04/2005  03:10 AM             2,776 setup.ini
+09/09/2005  11:17 PM           327,077 setup.inx
+04/04/2005  08:50 AM           250,296 setup.isn
+05/27/2005  02:39 AM               534 setup.iss
+              30 File(s)      6,555,980 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653\Ap
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+07/06/2001  07:19 AM               164 AVRACK.INI
+04/04/2003  10:08 PM           794,624 AvRack2.exe
+05/14/2003  10:04 PM         1,833,984 Classic.dll
+04/04/2003  10:04 PM           468,056 Cool.bmp
+04/04/2003  10:06 PM           468,056 Grass.bmp
+04/04/2003  10:06 PM           157,080 GrayScale.bmp
+09/30/1998  07:32 AM         1,602,328 MPIE4STD.EXE
+04/04/2003  10:05 PM           468,056 Magenta.bmp
+09/30/1998  07:32 AM         3,812,120 Mpstd.exe
+09/09/2004  12:18 AM         3,645,952 RtlRack.exe
+04/04/2003  10:07 PM           468,056 Wooden.bmp
+              11 File(s)     13,718,476 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653\CONFIG
+
+04/04/2003  02:55 PM    <DIR>          .
+04/04/2003  02:55 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653\WDM
+
+04/04/2003  02:55 PM    <DIR>          .
+04/04/2003  02:55 PM    <DIR>          ..
+02/05/2002  08:54 PM           141,016 ALSNDMGR.WAV
+09/23/2005  01:30 AM        18,776,064 ALSndMgr.cpl
+10/03/2005  11:28 AM           336,130 Alcwdm.cat
+10/04/2005  03:08 AM            27,161 Alcwdm.inf
+10/03/2005  11:28 AM           206,436 Alcwdm0.cat
+09/22/2005  11:49 PM            62,538 Alcwdm0.inf
+09/22/2005  11:49 PM            62,232 Alcwdm1.inf
+09/22/2005  11:49 PM            29,765 Alcwdm10.inf
+09/22/2005  11:49 PM            30,581 Alcwdm11.inf
+09/22/2005  11:57 PM            48,880 Alcwdm12.inf
+09/22/2005  11:49 PM            50,058 Alcwdm13.inf
+09/22/2005  11:49 PM            25,433 Alcwdm14.inf
+09/22/2005  11:49 PM            23,369 Alcwdm15.inf
+09/22/2005  11:49 PM            39,692 Alcwdm16.inf
+09/22/2005  11:49 PM            27,710 Alcwdm17.inf
+09/22/2005  11:49 PM            49,499 Alcwdm18.inf
+09/22/2005  11:49 PM            31,890 Alcwdm19.inf
+09/22/2005  11:49 PM            63,406 Alcwdm2.inf
+09/22/2005  11:49 PM            31,205 Alcwdm3.inf
+09/22/2005  11:49 PM            33,084 Alcwdm4.inf
+09/22/2005  11:49 PM            25,853 Alcwdm5.inf
+09/22/2005  11:49 PM            30,403 Alcwdm6.inf
+09/22/2005  11:49 PM            24,151 Alcwdm7.inf
+09/22/2005  11:49 PM            30,819 Alcwdm8.inf
+09/22/2005  11:49 PM            41,737 Alcwdm9.inf
+10/04/2005  03:08 AM            26,394 Alcxau.inf
+09/22/2005  11:51 PM            61,798 Alcxau0.inf
+09/22/2005  11:51 PM            61,090 Alcxau1.inf
+09/22/2005  11:51 PM            38,728 Alcxau10.inf
+09/22/2005  11:51 PM            26,016 Alcxau11.inf
+09/22/2005  08:40 PM            48,490 Alcxau12.inf
+09/22/2005  11:51 PM            50,328 Alcxau13.inf
+09/22/2005  11:51 PM            29,068 Alcxau14.inf
+09/22/2005  11:51 PM            28,634 Alcxau15.inf
+09/22/2005  11:51 PM            29,821 Alcxau16.inf
+09/22/2005  11:51 PM            24,667 Alcxau17.inf
+09/22/2005  11:51 PM            22,609 Alcxau18.inf
+09/22/2005  11:51 PM            25,089 Alcxau19.inf
+09/22/2005  11:51 PM            62,642 Alcxau2.inf
+09/22/2005  11:51 PM            28,447 Alcxau20.inf
+09/22/2005  11:51 PM            25,275 Alcxau21.inf
+09/22/2005  11:51 PM            40,981 Alcxau22.inf
+09/22/2005  11:51 PM            30,060 Alcxau23.inf
+09/22/2005  11:51 PM            32,325 Alcxau24.inf
+09/22/2005  11:51 PM            30,446 Alcxau25.inf
+09/22/2005  11:51 PM            38,930 Alcxau26.inf
+09/22/2005  11:51 PM            31,128 Alcxau27.inf
+09/22/2005  11:51 PM            27,393 Alcxau3.inf
+09/22/2005  11:51 PM            48,740 Alcxau4.inf
+09/22/2005  11:51 PM            26,949 Alcxau5.inf
+09/22/2005  11:51 PM            30,822 Alcxau6.inf
+09/22/2005  11:51 PM            23,332 Alcxau7.inf
+09/22/2005  11:51 PM            30,544 Alcxau8.inf
+09/22/2005  11:51 PM            30,246 Alcxau9.inf
+09/30/2005  09:32 AM           449,728 Alcxwdm.cat
+09/30/2005  09:32 AM           206,028 Alcxwdm0.cat
+02/19/2005  01:07 AM           111,616 CPLUtl64.exe
+09/23/2005  01:28 AM        10,459,136 RTLCPL.exe
+09/16/2005  09:14 PM           157,184 RtlCPAPI.dll
+09/22/2005  11:42 PM            90,112 SoundMan.exe
+09/22/2005  11:39 PM         3,145,728 alcwdm64.sys
+09/22/2005  11:34 PM         3,727,680 alcxwdm.sys
+              62 File(s)     39,607,316 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653\Win95
+
+12/25/29487  02:52 PM    <DIR>          .
+12/25/29487  02:52 PM    <DIR>          ..
+10/18/2002  12:25 AM           142,080 ALCX95.DRV
+06/19/2001  12:23 AM             1,127 ALCX95.INI
+11/26/1999  05:26 PM            14,928 ALSWWT.DRV
+11/26/1999  05:26 PM            86,864 ALSWWT16.DLL
+11/10/1999  09:33 PM           247,244 SWWTAC97.DAT
+11/10/1999  09:33 PM         3,101,546 SWWTAC97.TON
+10/18/2002  01:24 AM             6,037 VALCX95.INF
+10/18/2002  12:25 AM            97,457 VALCX95.VXD
+               8 File(s)      3,697,283 bytes
+
+ Directory of G:\DRIVERS\AUDIO\RTL653\WinNT4
+
+03/08/13281  02:50 PM    <DIR>          .
+03/08/13281  02:50 PM    <DIR>          ..
+08/30/2004  08:50 PM            43,128 ALCXNT.DLL
+08/30/2004  08:50 PM           209,656 ALCXNT.SYS
+10/22/1999  08:17 AM           247,244 ALSWWTNT.DAT
+10/22/1999  08:16 AM         3,101,546 ALSWWTNT.TON
+04/04/2003  09:37 PM            23,040 Alswwtnt.dll
+04/04/2003  09:37 PM           115,168 Alswwtnt.sys
+08/30/2004  08:50 PM            17,396 MMDRV.DLL
+10/18/2002  02:28 AM               640 Oemsetup.inf
+04/22/2003  01:05 AM           155,136 SoundMan.exe
+               9 File(s)      3,912,954 bytes
+
+ Directory of G:\DRIVERS\CHIPSET
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/29/2006  04:07 PM    <DIR>          V505
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+05/02/2002  02:11 PM             4,107 0X0409.INI
+04/26/2005  11:21 AM           148,854 165x300.bmp
+04/26/2005  11:21 AM            90,054 500x60.bmp
+03/18/2005  02:18 AM           466,432 ASUSSETUP.EXE
+11/29/2005  09:52 AM             3,359 ASUSSETUP.INI
+03/17/2005  06:18 PM                81 ENGLISH.INI
+04/26/2005  11:21 AM         1,708,856 INSTMSIA.EXE
+04/26/2005  11:21 AM         1,822,520 INSTMSIW.EXE
+10/15/2002  04:31 PM           633,856 ISSCRIPT.MSI
+04/26/2005  11:21 AM             2,756 LICENSE.MLF
+06/29/2006  04:18 PM    <DIR>          MAKEDISK
+04/26/2005  11:21 AM           281,676 PCIENUM.SYS
+06/10/2005  08:59 AM         2,709,028 Platform.msi
+12/26/2005  09:42 PM    <DIR>          RaidTool
+03/31/2006  10:40 AM            94,528 Readme.htm
+06/10/2005  08:59 AM           217,088 SETUP.EXE
+04/26/2005  11:21 AM           218,230 SETUP.MLF
+03/31/2006  10:28 AM               593 SETUP.SCF
+06/10/2005  09:00 AM             1,165 Setup.ini
+07/08/2005  03:14 PM                25 Setup.iss
+06/16/2005  06:29 PM                83 TChinese.ini
+12/26/2005  09:42 PM    <DIR>          VIARAID
+06/29/2006  04:07 PM    <DIR>          VIAStor
+12/26/2005  09:42 PM    <DIR>          VIDEFILT
+04/26/2005  11:21 AM            36,272 asia.slf
+12/26/2005  09:42 PM    <DIR>          drvdisk
+04/26/2005  11:21 AM             6,661 english.slf
+04/26/2005  11:21 AM            60,493 europe1.slf
+04/26/2005  11:21 AM            49,916 europe2.slf
+04/26/2005  11:21 AM            50,953 europe3.slf
+04/26/2005  11:21 AM            27,087 europe4.slf
+12/26/2005  09:42 PM    <DIR>          viaagp
+12/26/2005  09:42 PM    <DIR>          viamach
+07/06/2005  10:02 AM           106,496 viasetup.dll
+              26 File(s)      8,741,169 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\MAKEDISK
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+07/06/2005  12:23 AM           474,624 ASUSSETUP.EXE
+11/29/2005  09:52 AM               688 ASUSSETUP.INI
+10/30/2005  10:41 AM               182 ENGLISH.INI
+06/29/2006  04:14 PM           262,465 MakeDisk.exe
+10/30/2005  10:41 AM               162 TCHINESE.INI
+               5 File(s)        738,121 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\RaidTool
+
+10/30/2005  02:55 PM    <DIR>          .
+10/30/2005  02:55 PM    <DIR>          ..
+01/04/2006  08:43 AM           122,880 RaidUtl.dll
+01/04/2006  08:43 AM            40,960 RaidUtlNT.dll
+12/26/2005  09:42 PM    <DIR>          Utility
+01/20/2006  02:22 PM               987 component.cif
+               3 File(s)        164,827 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\RaidTool\Utility
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+01/04/2006  08:43 AM             5,226 ErrList.mlf
+12/26/2005  09:42 PM    <DIR>          Win2000-xp
+12/26/2005  09:42 PM    <DIR>          Win98-me
+12/26/2005  09:42 PM    <DIR>          Winnt40
+01/04/2006  08:43 AM           602,506 raid_tool.chm
+01/04/2006  08:43 AM         1,060,864 raid_tool.exe
+               3 File(s)      1,668,596 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\RaidTool\Utility\Win2000-xp
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+01/04/2006  08:43 AM           192,512 drvInterface.dll
+               1 File(s)        192,512 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\RaidTool\Utility\Win98-me
+
+05/30/16764  10:46 PM    <DIR>          .
+05/30/16764  10:46 PM    <DIR>          ..
+01/04/2006  08:43 AM           167,936 drvInterface.dll
+               1 File(s)        167,936 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\RaidTool\Utility\Winnt40
+
+08/13/17036  10:46 PM    <DIR>          .
+08/13/17036  10:46 PM    <DIR>          ..
+01/04/2006  08:43 AM           172,032 drvInterface.dll
+               1 File(s)        172,032 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+01/04/2006  08:43 AM            13,824 InsMRaid.exe
+01/04/2006  08:43 AM            36,864 MRaid.dll
+01/04/2006  08:43 AM            61,440 RaidDrv.dll
+01/04/2006  08:43 AM            53,248 RaidDrv9x.dll
+01/20/2006  03:21 PM             1,076 component.cif
+12/26/2005  09:42 PM    <DIR>          driver
+               5 File(s)        166,452 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID\driver
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Win9x
+06/29/2006  04:07 PM    <DIR>          winnt40
+12/26/2005  09:42 PM    <DIR>          winxp
+12/26/2005  09:42 PM    <DIR>          x64
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID\driver\Win9x
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+01/04/2006  08:43 AM             2,834 VIAMRAID.INF
+01/04/2006  08:43 AM            13,334 VIAMVSD.vxd
+01/20/2006  03:30 PM            98,312 viamraid.mpd
+               3 File(s)        114,480 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID\driver\winnt40
+
+01/20/2006  10:49 PM    <DIR>          .
+01/20/2006  10:49 PM    <DIR>          ..
+01/04/2006  08:43 AM               185 readme.txt
+01/04/2006  08:43 AM             2,061 viamraid.inf
+01/04/2006  02:36 PM            99,397 viamraid.mpd
+01/04/2006  08:43 AM           107,344 viamraid.sys
+               4 File(s)        208,987 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID\driver\winxp
+
+01/09/17581  10:46 PM    <DIR>          .
+01/09/17581  10:46 PM    <DIR>          ..
+01/04/2006  08:43 AM             2,174 VIAMRAID.INF
+01/04/2006  08:43 AM             8,352 viamraid.cat
+01/19/2006  07:15 PM            92,672 viamraid.sys
+               3 File(s)        103,198 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIARAID\driver\x64
+
+01/19/2006  10:51 PM    <DIR>          .
+01/19/2006  10:51 PM    <DIR>          ..
+01/04/2006  08:43 AM             2,206 VIAMRX64.INF
+01/04/2006  08:43 AM             8,352 viamrx64.cat
+01/19/2006  07:15 PM           151,552 viamrx64.sys
+               3 File(s)        162,110 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+03/02/2006  10:34 AM            23,552 InsStX64.exe
+12/13/2005  02:41 PM            40,960 MRaid.dll
+11/02/2005  05:09 AM            36,864 Stor9x.dll
+02/23/2006  08:27 AM            61,440 VIAStor.dll
+12/13/2005  01:37 PM            73,728 VSDINST.dll
+03/22/2006  09:57 AM             1,262 component.cif
+06/29/2006  04:07 PM    <DIR>          driver
+               6 File(s)        237,806 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/29/2006  04:07 PM    <DIR>          IDE
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver\IDE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/29/2006  04:07 PM    <DIR>          NT4
+06/29/2006  04:07 PM    <DIR>          NT5
+06/29/2006  04:07 PM    <DIR>          Win9x
+06/29/2006  04:07 PM    <DIR>          WinME
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver\IDE\NT4
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/11/2005  12:41 PM            50,240 VIADSK.SYS
+08/11/2005  12:41 PM            22,412 VIAIDE.INF
+               2 File(s)         72,652 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver\IDE\NT5
+
+08/19/17520  02:43 AM    <DIR>          .
+08/19/17520  02:43 AM    <DIR>          ..
+02/23/2006  10:38 AM             9,728 videX32.sys
+02/23/2006  10:38 AM            11,776 videX64.sys
+03/09/2006  01:35 PM             9,895 videx32.cat
+03/09/2006  01:35 PM             9,053 videx64.cat
+02/23/2006  10:38 AM             5,674 vminiide.inf
+02/23/2006  10:39 AM            11,264 xfilt.sys
+02/23/2006  10:39 AM            13,824 xfiltx64.sys
+               7 File(s)         71,214 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver\IDE\Win9x
+
+02/23/2006  02:46 AM    <DIR>          .
+02/23/2006  02:46 AM    <DIR>          ..
+08/11/2005  12:41 PM            10,937 VATAPI.VXD
+08/11/2005  12:41 PM             7,029 VIADSK.CAT
+08/11/2005  12:41 PM             1,462 VIAVSD.INF
+               3 File(s)         19,428 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIAStor\driver\IDE\WinME
+
+11/01/17792  02:43 AM    <DIR>          .
+11/01/17792  02:43 AM    <DIR>          ..
+08/11/2005  12:41 PM            10,937 VATAPI.VXD
+08/11/2005  12:41 PM             7,149 VIADSK.CAT
+08/11/2005  12:41 PM             1,462 VIAVSD.INF
+               3 File(s)         19,548 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+09/09/2005  01:08 PM               940 COMPONENT.CIF
+09/08/2005  03:35 PM               884 COMPONENT.CIF.bak
+09/09/2005  03:45 PM            40,960 IDEFDrv.dll
+08/11/2005  01:41 PM            36,864 IdeDrvNT.dll
+12/26/2005  09:42 PM    <DIR>          NT4
+12/26/2005  09:42 PM    <DIR>          NT5
+11/09/2005  12:59 PM            57,344 VSDINST.dll
+12/26/2005  09:42 PM    <DIR>          Win9x
+12/26/2005  09:42 PM    <DIR>          WinME
+               5 File(s)        136,992 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\NT4
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/11/2005  01:41 PM            50,240 VIADSK.SYS
+08/11/2005  01:41 PM            22,412 VIAIDE.INF
+               2 File(s)         72,652 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\NT5
+
+08/11/2005  06:51 PM    <DIR>          .
+08/11/2005  06:51 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Win2000
+12/26/2005  09:42 PM    <DIR>          WinXP
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\NT5\Win2000
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/11/2005  01:41 PM             1,368 VIAIDE.INF
+08/11/2005  01:41 PM             6,234 VIAIDE.SYS
+08/11/2005  01:41 PM             7,157 VIAMINI.CAT
+               3 File(s)         14,759 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\NT5\WinXP
+
+08/11/2005  10:48 PM    <DIR>          .
+08/11/2005  10:48 PM    <DIR>          ..
+08/11/2005  01:41 PM             1,573 VIAIDEXP.INF
+08/11/2005  01:41 PM             6,144 VIAIDEXP.SYS
+08/11/2005  01:41 PM             7,161 VIAMINI.CAT
+               3 File(s)         14,878 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\Win9x
+
+03/25/1622  06:46 PM    <DIR>          .
+03/25/1622  06:46 PM    <DIR>          ..
+08/11/2005  01:41 PM            10,937 VATAPI.VXD
+08/11/2005  01:41 PM             7,029 VIADSK.CAT
+08/11/2005  01:41 PM             1,462 VIAVSD.INF
+               3 File(s)         19,428 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\VIDEFILT\WinME
+
+08/11/2005  06:51 PM    <DIR>          .
+08/11/2005  06:51 PM    <DIR>          ..
+08/11/2005  01:41 PM            10,937 VATAPI.VXD
+08/11/2005  01:41 PM             7,149 VIADSK.CAT
+08/11/2005  01:41 PM             1,462 VIAVSD.INF
+               3 File(s)         19,548 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk
+
+01/18/1622  02:49 PM    <DIR>          .
+01/18/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          AMD64
+12/26/2005  09:42 PM    <DIR>          i386
+01/04/2006  08:43 AM             1,805 txtsetup.oem
+               1 File(s)          1,805 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk\AMD64
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          2003x64
+01/04/2006  08:43 AM                 0 VIAMRX64
+01/04/2006  08:43 AM               704 txtsetup.oem
+               2 File(s)            704 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk\AMD64\2003x64
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+01/04/2006  08:43 AM             2,206 VIAMRX64.INF
+01/04/2006  08:43 AM             8,352 viamrx64.cat
+01/19/2006  07:15 PM           151,552 viamrx64.sys
+               3 File(s)        162,110 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk\i386
+
+03/25/1622  06:46 PM    <DIR>          .
+03/25/1622  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          NT4
+12/26/2005  09:42 PM    <DIR>          NT5
+01/04/2006  08:43 AM                 0 VIAMRAID
+01/04/2006  08:43 AM             1,053 txtsetup.oem
+               2 File(s)          1,053 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk\i386\NT4
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/19/2005  08:50 PM               185 readme.txt
+01/04/2006  08:43 AM             2,061 viamraid.inf
+01/04/2006  08:43 AM           107,344 viamraid.sys
+               3 File(s)        109,590 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\drvdisk\i386\NT5
+
+03/16/16492  10:46 PM    <DIR>          .
+03/16/16492  10:46 PM    <DIR>          ..
+01/04/2006  08:43 AM             2,174 VIAMRAID.INF
+01/04/2006  08:43 AM             8,352 viamraid.cat
+01/04/2006  08:43 AM            92,672 viamraid.sys
+               3 File(s)        103,198 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+09/28/2005  03:50 AM            45,056 AGPDrv9x.dll
+09/28/2005  03:50 AM            45,056 AGPDrvME.dll
+12/04/2005  03:08 PM            53,248 AGPDrvNT.dll
+12/26/2005  09:42 PM    <DIR>          DRIVER
+12/04/2005  03:01 PM             1,476 Kompnt.cif
+12/04/2005  12:18 PM            11,264 Pnpx64.exe
+               5 File(s)        156,100 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Svr2003
+12/26/2005  09:42 PM    <DIR>          WIN2000
+12/26/2005  09:42 PM    <DIR>          Win95
+12/26/2005  09:42 PM    <DIR>          Win98_Me
+12/26/2005  09:42 PM    <DIR>          WinXP
+12/26/2005  09:42 PM    <DIR>          X64
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\Svr2003
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/02/2003  03:42 AM             4,187 VIAAGP1.INF
+08/21/2003  10:55 PM             8,850 viaagp1.cat
+07/02/2003  03:42 AM            27,904 viaagp1.sys
+               3 File(s)         40,941 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\WIN2000
+
+11/29/14460  10:45 PM    <DIR>          .
+11/29/14460  10:45 PM    <DIR>          ..
+07/02/2003  03:42 AM             4,824 VIAAGP1.INF
+07/29/2003  11:45 PM             8,854 viaagp1.cat
+07/02/2003  03:42 AM            27,904 viaagp1.sys
+               3 File(s)         41,582 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\Win95
+
+11/29/14460  10:45 PM    <DIR>          .
+11/29/14460  10:45 PM    <DIR>          ..
+08/19/2004  03:43 AM            14,869 VIAGART.VXD
+08/19/2004  03:43 AM             3,575 viagart.inf
+               2 File(s)         18,444 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\Win98_Me
+
+08/19/2004  10:51 PM    <DIR>          .
+08/19/2004  10:51 PM    <DIR>          ..
+09/15/2005  12:49 PM             7,080 VIAAGPS.reg
+09/15/2005  12:49 PM             7,002 VIAAGPV.reg
+08/19/2004  03:43 AM             8,558 VIAGART.INF
+08/19/2004  03:43 AM            10,232 VIAGART.sys
+               4 File(s)         32,872 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\WinXP
+
+08/19/2004  10:51 PM    <DIR>          .
+08/19/2004  10:51 PM    <DIR>          ..
+07/02/2003  03:42 AM             4,187 VIAAGP1.INF
+07/29/2003  11:45 PM             8,850 viaagp1.cat
+07/02/2003  03:42 AM            27,904 viaagp1.sys
+               3 File(s)         40,941 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viaagp\DRIVER\X64
+
+11/29/14460  10:45 PM    <DIR>          .
+11/29/14460  10:45 PM    <DIR>          ..
+09/23/2005  03:50 AM            59,392 VIAAGP1.sys
+10/07/2005  10:36 AM             7,842 viaagp1.cat
+09/23/2005  03:50 AM             2,084 viaagp1.inf
+               3 File(s)         69,318 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+02/20/2006  02:58 PM               832 Component.cif
+12/22/2005  02:08 PM            49,152 INFDrv.dll
+04/26/2005  11:21 AM            45,056 INFDrv9x.dll
+02/17/2006  04:45 PM             5,120 Infx64.exe
+12/26/2005  09:42 PM    <DIR>          driver
+               4 File(s)        100,160 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          WINNT5
+12/26/2005  09:42 PM    <DIR>          Win98
+12/26/2005  09:42 PM    <DIR>          Win98SE
+12/26/2005  09:42 PM    <DIR>          WinMe
+12/26/2005  09:42 PM    <DIR>          X64
+12/26/2005  09:42 PM    <DIR>          win95
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\WINNT5
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/07/2005  04:42 PM            51,182 VIAMACH.INF
+12/16/2005  04:11 PM            20,977 vmachx64.cat
+12/16/2005  04:11 PM            20,977 vmachx86.cat
+               3 File(s)         93,136 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\Win98
+
+12/16/2005  10:48 PM    <DIR>          .
+12/16/2005  10:48 PM    <DIR>          ..
+12/07/2005  04:42 PM            39,437 VIAMACH.INF
+               1 File(s)         39,437 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\Win98SE
+
+12/07/2005  10:48 PM    <DIR>          .
+12/07/2005  10:48 PM    <DIR>          ..
+12/07/2005  04:42 PM            31,351 VIAMACH.INF
+               1 File(s)         31,351 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\WinMe
+
+12/07/2005  10:48 PM    <DIR>          .
+12/07/2005  10:48 PM    <DIR>          ..
+12/07/2005  04:42 PM            30,697 VIAMACH.INF
+               1 File(s)         30,697 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\X64
+
+12/07/2005  10:48 PM    <DIR>          .
+12/07/2005  10:48 PM    <DIR>          ..
+10/13/2005  11:06 AM            47,766 VIAMACH.INF
+09/13/2005  12:31 PM            19,763 vmachx64.cat
+               2 File(s)         67,529 bytes
+
+ Directory of G:\DRIVERS\CHIPSET\V505\viamach\driver\win95
+
+07/09/24081  10:47 PM    <DIR>          .
+07/09/24081  10:47 PM    <DIR>          ..
+12/07/2005  04:43 PM            31,142 VIAMACH.INF
+               1 File(s)         31,142 bytes
+
+ Directory of G:\DRIVERS\DISLPAY
+
+10/25/1617  06:54 AM    <DIR>          .
+10/25/1617  06:54 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          WIN32
+12/26/2005  09:42 PM    <DIR>          WIN64
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          WIN2K_XP
+12/26/2005  09:42 PM    <DIR>          WIN9X
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN2K_XP
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/08/2006  08:58 AM    <DIR>          wIShld
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN2K_XP\wIShld
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/02/2005  09:27 PM           474,624 AsusSetup.exe
+09/14/2005  10:47 PM               677 AsusSetup.ini
+08/04/2005  09:14 PM                89 English.ini
+10/18/2005  05:05 PM            54,040 S3iset32.txt
+08/04/2005  09:15 PM                87 TChinese.ini
+01/13/2006  10:35 AM            12,906 VIA Graphics Driver Installation Guide_20050112.html
+11/01/2005  09:35 AM            28,672 VModes.exe
+05/24/2005  01:36 AM            56,619 VTDispl2.cfg
+05/24/2005  01:36 AM            52,037 VTDispl3.cfg
+05/24/2005  01:36 AM            63,489 VTDisply.cfg
+05/24/2005  01:36 AM           581,632 VTDisply.dll
+05/24/2005  01:36 AM            21,495 VTDspChs.hlp
+05/24/2005  01:36 AM            22,757 VTDspCht.hlp
+05/24/2005  01:36 AM            22,880 VTDspJpn.hlp
+05/24/2005  01:36 AM            24,087 VTDspKor.hlp
+05/24/2005  01:36 AM            19,348 VTDspTha.hlp
+05/24/2005  01:36 AM           170,426 VTDspWs2.hlp
+05/24/2005  01:36 AM           231,153 VTDspWst.hlp
+11/29/2005  03:05 AM            36,546 VTGama_2.cfg
+11/29/2005  03:05 AM            50,104 VTGamma2.cfg
+11/29/2005  03:05 AM           446,464 VTGamma2.dll
+11/29/2005  03:04 AM            17,574 VTGm2Chs.hlp
+11/29/2005  03:04 AM            17,536 VTGm2Cht.hlp
+11/29/2005  03:04 AM            16,609 VTGm2Jpn.hlp
+11/29/2005  03:04 AM            19,205 VTGm2Kor.hlp
+11/29/2005  03:04 AM            18,491 VTGm2Tha.hlp
+11/29/2005  03:04 AM           104,672 VTGm2Ws2.hlp
+11/29/2005  03:04 AM           141,292 VTGm2Wst.hlp
+11/01/2005  04:59 AM             9,303 VTIn2Chs.hlp
+11/01/2005  04:59 AM             9,760 VTIn2Cht.hlp
+11/01/2005  04:59 AM             9,604 VTIn2Jpn.hlp
+11/01/2005  04:59 AM            10,225 VTIn2Kor.hlp
+11/01/2005  04:59 AM             8,061 VTIn2Tha.hlp
+11/01/2005  04:59 AM            49,147 VTIn2Ws2.hlp
+11/01/2005  04:59 AM            60,988 VTIn2Wst.hlp
+11/01/2005  04:59 AM            44,076 VTInfo2.cfg
+11/01/2005  04:58 AM           319,488 VTInfo2.dll
+11/01/2005  01:19 AM            10,567 VTOvlChs.hlp
+11/01/2005  01:19 AM            10,523 VTOvlCht.hlp
+11/01/2005  01:19 AM            10,549 VTOvlJpn.hlp
+11/01/2005  01:19 AM            11,393 VTOvlKor.hlp
+11/01/2005  01:19 AM             8,668 VTOvlTha.hlp
+11/01/2005  01:19 AM            50,989 VTOvlWs2.hlp
+11/01/2005  01:19 AM            72,478 VTOvlWst.hlp
+11/17/2005  08:34 AM            59,327 VTOvrlay.cfg
+11/17/2005  05:06 PM           540,672 VTOvrlay.dll
+11/17/2005  08:34 AM            34,375 VTOvrly2.cfg
+11/01/2005  03:15 AM            14,728 VTTPChs.hlp
+11/01/2005  03:15 AM            14,406 VTTPCht.hlp
+11/01/2005  03:15 AM            13,609 VTTPJpn.hlp
+11/01/2005  03:15 AM            16,213 VTTPKor.hlp
+11/01/2005  03:15 AM            11,044 VTTPTha.hlp
+11/01/2005  03:15 AM            88,693 VTTPWs2.hlp
+11/01/2005  03:15 AM           105,711 VTTPWst.hlp
+03/08/2005  02:33 AM            53,248 VTTimer.exe
+11/01/2005  03:15 AM            51,124 VTTrayP.cfg
+11/01/2005  03:15 AM           163,840 VTTrayP.exe
+11/01/2005  03:15 AM            37,162 VTTrayP2.cfg
+10/18/2005  05:22 PM         1,786,079 data1.cab
+10/18/2005  05:22 PM            22,407 data1.hdr
+10/18/2005  05:22 PM               512 data2.cab
+10/22/2004  02:16 AM           470,174 engine32.cab
+10/18/2005  05:22 PM               518 layout.bin
+01/03/2006  04:25 PM             5,275 s3iscfg.dat
+10/18/2005  05:05 PM           200,704 s3iset32.dll
+10/18/2005  05:05 PM            86,016 s3minset.exe
+10/22/2004  02:16 AM           118,736 setup.exe
+10/18/2005  05:22 PM           464,834 setup.ibt
+10/18/2005  05:22 PM               657 setup.ini
+10/18/2005  05:22 PM           227,970 setup.inx
+09/26/2005  03:33 AM               556 setup.iss
+12/27/2005  10:19 AM            10,334 uc05i.inf
+01/05/2006  02:17 PM                50 version.txt
+01/01/2006  08:21 PM            31,729 viagfx.cat
+12/27/2005  10:06 AM         3,490,432 vtdisp.dll
+12/27/2005  10:08 AM         1,875,968 vticd.dll
+12/27/2005  10:06 AM           247,040 vtmini.sys
+              77 File(s)     13,645,473 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X
+
+01/18/1622  02:49 PM    <DIR>          .
+01/18/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          wIShld
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/02/2005  09:27 PM           474,624 AsusSetup.exe
+09/19/2005  10:35 PM               680 AsusSetup.ini
+01/03/2003  04:42 AM               226 DATA.TAG
+08/04/2005  09:14 PM                89 English.ini
+01/03/2003  04:42 AM            33,376 GTF.DLL
+01/03/2003  04:44 AM             5,136 S3SETUP.DAT
+01/03/2003  04:42 AM            60,416 SETUP.EXE
+01/03/2003  04:42 AM                42 SETUP.INI
+01/03/2003  04:42 AM            94,014 Setup.Ins
+08/04/2005  09:15 PM                87 TChinese.ini
+03/09/2005  12:28 PM            56,619 VTDispl2.cfg
+03/09/2005  12:28 PM            63,489 VTDisply.cfg
+03/09/2005  12:28 PM           495,616 VTDisply.dll
+03/09/2005  12:27 PM            21,495 VTDspChs.hlp
+03/09/2005  12:27 PM            22,757 VTDspCht.hlp
+03/09/2005  12:27 PM            22,880 VTDspJpn.hlp
+03/09/2005  12:27 PM            24,087 VTDspKor.hlp
+03/09/2005  12:27 PM           231,057 VTDspWst.hlp
+01/11/2005  01:34 PM            48,406 VTGamma2.cfg
+03/12/2005  12:45 AM           360,448 VTGamma2.dll
+01/11/2005  01:34 PM            17,574 VTGm2Chs.hlp
+01/11/2005  01:34 PM            17,536 VTGm2Cht.hlp
+01/11/2005  01:34 PM            16,594 VTGm2Jpn.hlp
+01/11/2005  01:34 PM            19,233 VTGm2Kor.hlp
+01/11/2005  01:34 PM           141,071 VTGm2Wst.hlp
+12/08/2004  04:03 PM             9,295 VTIn2Chs.hlp
+12/08/2004  04:03 PM             9,280 VTIn2Cht.hlp
+12/08/2004  04:03 PM             9,670 VTIn2Jpn.hlp
+12/08/2004  04:03 PM            10,217 VTIn2Kor.hlp
+12/08/2004  04:03 PM            61,136 VTIn2Wst.hlp
+12/08/2004  09:12 AM            44,076 VTInfo2.cfg
+03/12/2005  12:43 AM           262,144 VTInfo2.dll
+09/20/2005  01:36 PM            53,426 VTMINI.vxd
+01/11/2005  10:23 AM            10,559 VTOvlChs.hlp
+01/11/2005  10:23 AM            10,515 VTOvlCht.hlp
+01/11/2005  10:23 AM            10,533 VTOvlJpn.hlp
+01/11/2005  10:23 AM            11,385 VTOvlKor.hlp
+03/19/2005  12:29 AM            70,288 VTOvlWst.hlp
+10/08/2004  01:21 PM            60,337 VTOvrlay.cfg
+03/12/2005  12:36 AM           397,312 VTOvrlay.dll
+01/11/2005  02:33 PM           106,088 VTTPWst.hlp
+07/08/2004  04:55 PM            53,248 VTTimer.exe
+01/11/2005  02:27 PM            47,889 VTTrayP.cfg
+03/12/2005  12:33 AM           147,456 VTTrayP.exe
+09/23/2003  08:46 AM            69,690 VTUninst.exe
+01/03/2003  04:42 AM           285,324 _INST16.EX_
+01/03/2003  04:42 AM             8,704 _ISDEL.EXE
+01/24/1998  01:40 PM            11,264 _SETUP.DLL
+01/03/2003  04:42 AM           391,406 _sys1.cab
+01/03/2003  04:42 AM            80,175 _user1.cab
+01/03/2003  04:42 AM             3,661 data1.cab
+09/29/2005  11:04 PM            15,429 hg202.inf
+01/03/2003  04:42 AM             4,525 lang.dat
+01/03/2003  04:42 AM             1,210 layout.bin
+01/03/2003  04:42 AM               417 os.dat
+01/03/2003  04:42 AM                60 setup.lid
+12/26/2005  09:42 PM    <DIR>          setupdir
+09/20/2005  01:36 PM         1,708,032 vtdd.dll
+09/20/2005  01:36 PM           348,416 vtdisp.drv
+09/20/2005  01:37 PM         2,344,236 vticd.dll
+              59 File(s)      8,884,955 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          0005
+12/26/2005  09:42 PM    <DIR>          0006
+12/26/2005  09:42 PM    <DIR>          0007
+12/26/2005  09:42 PM    <DIR>          0008
+12/26/2005  09:42 PM    <DIR>          0009
+12/26/2005  09:42 PM    <DIR>          000a
+12/26/2005  09:42 PM    <DIR>          000b
+12/26/2005  09:42 PM    <DIR>          000e
+12/26/2005  09:42 PM    <DIR>          0010
+12/26/2005  09:42 PM    <DIR>          0011
+12/26/2005  09:42 PM    <DIR>          0012
+12/26/2005  09:42 PM    <DIR>          0013
+12/26/2005  09:42 PM    <DIR>          0014
+12/26/2005  09:42 PM    <DIR>          0015
+12/26/2005  09:42 PM    <DIR>          0019
+12/26/2005  09:42 PM    <DIR>          001b
+12/26/2005  09:42 PM    <DIR>          001d
+12/26/2005  09:42 PM    <DIR>          001e
+12/26/2005  09:42 PM    <DIR>          001f
+12/26/2005  09:42 PM    <DIR>          0024
+12/26/2005  09:42 PM    <DIR>          0404
+12/26/2005  09:42 PM    <DIR>          040c
+12/26/2005  09:42 PM    <DIR>          0416
+12/26/2005  09:42 PM    <DIR>          0804
+12/26/2005  09:42 PM    <DIR>          0816
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0005
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+01/23/1998  02:05 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0006
+
+01/23/1998  02:47 AM    <DIR>          .
+01/23/1998  02:47 AM    <DIR>          ..
+01/23/1998  05:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0007
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/28/1998  12:15 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0008
+
+01/28/1998  02:47 AM    <DIR>          .
+01/28/1998  02:47 AM    <DIR>          ..
+01/23/1998  02:06 AM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0009
+
+01/23/1998  02:48 AM    <DIR>          .
+01/23/1998  02:48 AM    <DIR>          ..
+01/03/2003  04:42 AM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\000a
+
+01/03/2003  02:47 AM    <DIR>          .
+01/03/2003  02:47 AM    <DIR>          ..
+01/23/1998  05:08 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\000b
+
+01/23/1998  02:47 AM    <DIR>          .
+01/23/1998  02:47 AM    <DIR>          ..
+01/23/1998  05:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\000e
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/29/1998  12:50 AM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0010
+
+10/21/16814  02:43 AM    <DIR>          .
+10/21/16814  02:43 AM    <DIR>          ..
+01/23/1998  05:07 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0011
+
+01/23/1998  02:46 AM    <DIR>          .
+01/23/1998  02:46 AM    <DIR>          ..
+01/24/1998  10:49 AM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0012
+
+09/26/4835  02:42 AM    <DIR>          .
+09/26/4835  02:42 AM    <DIR>          ..
+01/24/1998  12:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0013
+
+01/24/1998  02:45 AM    <DIR>          .
+01/24/1998  02:45 AM    <DIR>          ..
+01/23/1998  05:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0014
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/23/1998  05:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0015
+
+01/23/1998  02:46 AM    <DIR>          .
+01/23/1998  02:46 AM    <DIR>          ..
+01/23/1998  09:24 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0019
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/24/1998  12:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\001b
+
+01/24/1998  02:46 AM    <DIR>          .
+01/24/1998  02:46 AM    <DIR>          ..
+01/23/1998  09:17 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\001d
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/28/1998  10:20 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\001e
+
+01/28/1998  02:46 AM    <DIR>          .
+01/28/1998  02:46 AM    <DIR>          ..
+01/23/1998  09:30 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\001f
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/23/1998  09:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0024
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/23/1998  09:18 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0404
+
+01/23/1998  02:46 AM    <DIR>          .
+01/23/1998  02:46 AM    <DIR>          ..
+01/03/2003  04:42 AM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\040c
+
+01/03/2003  02:47 AM    <DIR>          .
+01/03/2003  02:47 AM    <DIR>          ..
+01/23/1998  05:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0416
+
+01/23/1998  02:45 AM    <DIR>          .
+01/23/1998  02:45 AM    <DIR>          ..
+01/23/1998  05:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0804
+
+01/23/1998  02:47 AM    <DIR>          .
+01/23/1998  02:47 AM    <DIR>          ..
+01/24/1998  01:32 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN32\WIN9X\wIShld\setupdir\0816
+
+01/24/1998  02:47 AM    <DIR>          .
+01/24/1998  02:47 AM    <DIR>          ..
+01/23/1998  02:07 AM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN64
+
+10/24/1617  10:52 AM    <DIR>          .
+10/24/1617  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          wIShld
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\DISLPAY\WIN64\wIShld
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/02/2005  09:27 PM           474,624 AsusSetup.exe
+09/21/2005  04:25 PM               681 AsusSetup.ini
+08/04/2005  09:14 PM                89 English.ini
+01/26/2005  04:11 PM            54,092 S3iset32.txt
+08/04/2005  09:15 PM                87 TChinese.ini
+04/26/2005  09:26 AM            21,499 VTDSPCHS.HLP
+04/26/2005  09:26 AM            22,763 VTDSPCHT.HLP
+04/26/2005  09:26 AM            22,884 VTDSPJPN.HLP
+04/26/2005  09:26 AM            24,093 VTDSPKOR.HLP
+04/26/2005  09:26 AM           170,428 VTDSPWS2.HLP
+04/26/2005  09:26 AM           231,271 VTDSPWST.HLP
+04/26/2005  09:26 AM            56,619 VTDispl2.cfg
+04/26/2005  09:26 AM            52,037 VTDispl3.cfg
+04/26/2005  09:26 AM            63,489 VTDisply.cfg
+04/26/2005  01:57 PM            17,578 VTGM2CHS.HLP
+04/26/2005  01:57 PM            17,537 VTGM2CHT.HLP
+04/26/2005  01:57 PM            16,612 VTGM2JPN.HLP
+04/26/2005  01:57 PM            19,211 VTGM2KOR.HLP
+04/26/2005  01:57 PM            18,494 VTGM2THA.HLP
+04/26/2005  01:57 PM           104,681 VTGM2WS2.HLP
+04/26/2005  01:57 PM           141,295 VTGM2WST.HLP
+04/26/2005  01:57 PM            36,546 VTGama_2.cfg
+04/26/2005  01:57 PM            50,104 VTGamma2.cfg
+04/26/2005  12:36 PM             9,303 VTIN2CHS.HLP
+04/26/2005  12:36 PM             9,760 VTIN2CHT.HLP
+04/26/2005  12:36 PM             9,678 VTIN2JPN.HLP
+04/26/2005  12:36 PM            10,225 VTIN2KOR.HLP
+04/26/2005  12:36 PM             8,061 VTIN2THA.HLP
+04/26/2005  12:36 PM            49,147 VTIN2WS2.HLP
+04/26/2005  12:36 PM            61,309 VTIN2WST.HLP
+04/27/2005  01:01 PM            10,561 VTOVLCHS.HLP
+04/27/2005  01:01 PM            10,517 VTOVLCHT.HLP
+04/27/2005  01:01 PM            10,559 VTOVLJPN.HLP
+04/27/2005  01:01 PM            11,387 VTOVLKOR.HLP
+04/27/2005  01:01 PM             8,660 VTOVLTHA.HLP
+04/27/2005  01:01 PM            50,928 VTOVLWS2.HLP
+04/27/2005  01:01 PM            70,290 VTOVLWST.HLP
+04/26/2005  11:57 AM            14,733 VTTPCHS.HLP
+04/26/2005  11:57 AM            14,412 VTTPCHT.HLP
+04/26/2005  11:57 AM            13,614 VTTPJPN.HLP
+04/26/2005  11:57 AM            16,219 VTTPKOR.HLP
+04/26/2005  11:57 AM            11,047 VTTPTHA.HLP
+04/26/2005  11:57 AM            88,777 VTTPWS2.HLP
+04/26/2005  11:57 AM           105,715 VTTPWST.HLP
+03/08/2005  10:37 AM            71,168 VTTimer.exe
+04/26/2005  11:57 AM            51,134 VTTrayp.cfg
+04/26/2005  11:57 AM            37,162 VTTrayp2.cfg
+10/07/2003  11:02 PM            80,384 VTUninst.exe
+04/26/2005  09:26 AM           679,424 VTdisply.dll
+04/26/2005  01:57 PM           519,680 VTgamma2.dll
+04/26/2005  12:36 PM            44,076 VTinfo2.cfg
+04/26/2005  12:36 PM           317,952 VTinfo2.dll
+01/15/2005  02:10 PM            58,843 VTovrlay.cfg
+04/27/2005  01:01 PM           551,424 VTovrlay.dll
+01/15/2005  02:10 PM            34,382 VTovrly2.cfg
+01/09/2004  05:52 PM            49,152 VTsetvga.exe
+04/26/2005  11:57 AM           195,072 VTtrayp.exe
+04/02/2005  10:17 AM           347,423 data1.cab
+04/02/2005  10:17 AM            10,419 data1.hdr
+04/02/2005  10:17 AM               512 data2.cab
+07/17/2004  01:09 AM           461,268 engine32.cab
+04/02/2005  10:17 AM               518 layout.bin
+09/20/2005  12:18 AM             5,134 s3iscfg.dat
+04/02/2005  10:19 AM           188,416 s3iset32.dll
+04/02/2005  10:20 AM           216,064 s3iset64.dll
+04/02/2005  10:20 AM           102,912 s3minset.exe
+07/17/2004  01:09 AM           117,200 setup.exe
+04/02/2005  10:17 AM           364,047 setup.ibt
+04/02/2005  10:17 AM               419 setup.ini
+04/02/2005  10:17 AM           225,851 setup.inx
+06/11/2005  01:38 AM            10,393 uc05i.inf
+06/21/2005  09:13 PM            32,454 viagfx.cat
+06/11/2005  01:43 AM         1,775,616 vtdisp.dll
+06/11/2005  01:55 AM         1,875,968 vticd.dll
+06/11/2005  01:46 AM         3,033,600 vticd64.dll
+06/11/2005  01:43 AM           260,096 vtmini.sys
+              76 File(s)     13,929,779 bytes
+
+ Directory of G:\DRIVERS\LAN
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/02/2005  09:27 PM           474,624 AsusSetup.exe
+09/21/2005  01:29 PM               677 AsusSetup.ini
+12/26/2005  09:42 PM    <DIR>          CE4
+12/26/2005  09:42 PM    <DIR>          CE5
+02/01/2005  06:24 PM           239,150 DIAG.EXE
+02/01/2005  05:41 PM             5,440 DIAG.TXT
+12/26/2005  09:42 PM    <DIR>          EEPROM
+12/26/2005  09:42 PM    <DIR>          ETHERTOOL
+09/21/2005  07:23 AM               109 English.ini
+02/16/2005  08:53 PM            37,728 FETND.DOS
+10/17/2005  09:54 PM            51,188 FETND3.sys
+10/17/2005  09:53 PM            52,964 FETND4.sys
+10/17/2005  09:49 PM            40,960 FETND5AV.sys
+10/17/2005  09:48 PM            42,496 FETND5BV.sys
+12/18/2002  06:03 PM             7,729 FETNDH.HLP
+10/17/2005  09:46 PM            58,527 FETNDIS.inf
+02/01/2005  10:28 PM            54,752 FETODI.COM
+12/26/2005  09:42 PM    <DIR>          FLASH
+12/26/2005  09:42 PM    <DIR>          FREEBSD
+12/26/2005  09:42 PM    <DIR>          LANSVR40.DOS
+12/26/2005  09:42 PM    <DIR>          LANTASTI
+12/26/2005  09:42 PM    <DIR>          LINUX
+12/26/2005  09:42 PM    <DIR>          MACOSX
+12/26/2005  09:42 PM    <DIR>          MSLANMAN.DOS
+12/26/2005  09:42 PM    <DIR>          NETWARE
+12/26/2005  09:42 PM    <DIR>          NICSET
+07/29/2005  12:53 AM           147,456 NTUTIL.DLL
+12/26/2005  09:42 PM    <DIR>          PCNFS
+12/26/2005  09:42 PM    <DIR>          PKTDRVR
+12/26/2005  09:42 PM    <DIR>          PXE
+12/26/2005  09:42 PM    <DIR>          PXERPL
+12/26/2005  09:42 PM    <DIR>          RIS
+12/26/2005  09:42 PM    <DIR>          RPL
+12/26/2005  09:42 PM    <DIR>          RPLW95
+04/29/2005  10:44 PM           101,196 Release.pdf
+12/26/2005  09:42 PM    <DIR>          SCO5
+12/26/2005  09:42 PM    <DIR>          SOLARIS
+09/15/2005  10:06 PM                88 TChinese.ini
+12/26/2005  09:42 PM    <DIR>          UNATTEND
+12/26/2005  09:42 PM    <DIR>          UNIXWARE
+12/26/2005  09:42 PM    <DIR>          WFW311
+10/17/2005  09:31 PM             2,168 WIN.txt
+07/29/2005  12:51 AM            12,672 WINNDI.DLL
+10/17/2005  09:31 PM             1,901 WINNT.txt
+02/17/2005  11:38 PM           225,280 WinSetup.exe
+02/17/2005  11:38 PM           217,088 WinUinst.exe
+12/26/2005  09:42 PM    <DIR>          X64
+12/26/2005  09:42 PM    <DIR>          XPE
+10/27/2005  10:02 AM            57,889 netvt.cat
+10/17/2005  09:31 PM           180,971 oemsetup.inf
+04/29/2005  10:39 PM             2,364 readme.txt
+06/17/2005  06:41 PM            49,312 vuins16.dll
+06/17/2005  06:41 PM            61,440 vuins32.dll
+12/26/2005  09:42 PM    <DIR>          winsetup
+02/17/2005  11:38 PM             5,145 winsetup.txt
+              27 File(s)      2,131,314 bytes
+
+ Directory of G:\DRIVERS\LAN\CE4
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+03/19/2005  12:27 AM            41,472 FETCE4B.dll
+03/19/2005  12:27 AM            20,183 FETCE4B.map
+03/19/2005  12:27 AM            10,256 FETCE4B.rel
+03/14/2005  05:27 PM             5,244 ce4.txt
+03/14/2005  05:27 PM             1,653 fetce4b.cec
+03/19/2005  12:27 AM           413,696 fetce4b.pdb
+12/31/2003  09:52 PM             3,370 fetce4b.reg
+               7 File(s)        495,874 bytes
+
+ Directory of G:\DRIVERS\LAN\CE5
+
+12/31/2003  10:57 AM    <DIR>          .
+12/31/2003  10:57 AM    <DIR>          ..
+03/19/2005  12:52 AM           624,128 FETCE5B.msi
+               1 File(s)        624,128 bytes
+
+ Directory of G:\DRIVERS\LAN\EEPROM
+
+05/24/16742  10:53 AM    <DIR>          .
+05/24/16742  10:53 AM    <DIR>          ..
+02/01/2005  06:38 PM           183,944 EEPROM.EXE
+12/26/2005  09:42 PM    <DIR>          VT6107
+12/26/2005  09:42 PM    <DIR>          VT823x
+02/01/2005  05:47 PM             6,066 eeprom.txt
+               2 File(s)        190,010 bytes
+
+ Directory of G:\DRIVERS\LAN\EEPROM\VT6107
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+01/06/2004  09:42 PM               512 eeprom.cfg
+               1 File(s)            512 bytes
+
+ Directory of G:\DRIVERS\LAN\EEPROM\VT823x
+
+05/06/16254  02:51 PM    <DIR>          .
+05/06/16254  02:51 PM    <DIR>          ..
+06/24/2003  11:14 PM               512 eeprom.cfg
+               1 File(s)            512 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL
+
+08/03/1621  10:52 AM    <DIR>          .
+08/03/1621  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          CE4.2
+12/26/2005  09:42 PM    <DIR>          CE5.0
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE4.2
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Debug
+06/04/2004  12:14 AM            95,199 EBOOT.BIN
+06/09/2004  09:24 PM             6,376 FETDBG.TXT
+03/02/2004  10:36 PM            23,528 HALETHER.C
+03/12/2004  10:26 PM            32,298 HALETHER.H
+04/23/2003  12:58 AM            96,424 LOADCEPC.EXE
+03/02/2004  11:16 PM            78,959 MAKEFILE
+12/26/2005  09:42 PM    <DIR>          Retail
+03/02/2004  10:43 PM             1,785 SOURCES
+               7 File(s)        334,569 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE4.2\Debug
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/03/2004  11:22 PM            47,330 fetdbg.lib
+06/03/2004  11:22 PM            61,440 fetdbg.pdb
+               2 File(s)        108,770 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE4.2\Retail
+
+06/03/2004  06:53 PM    <DIR>          .
+06/03/2004  06:53 PM    <DIR>          ..
+06/03/2004  11:23 PM            43,326 fetdbg.lib
+06/03/2004  11:23 PM            61,440 fetdbg.pdb
+               2 File(s)        104,766 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE5.0
+
+01/28/1622  02:49 PM    <DIR>          .
+01/28/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Debug
+07/28/2004  11:20 PM           100,155 EBOOT.BIN
+06/09/2004  09:30 PM             7,135 FETDBG.TXT
+01/29/2004  12:50 AM            97,904 LOADCEPC.EXE
+07/28/2004  10:55 PM           107,097 MAKEFILE
+12/26/2005  09:42 PM    <DIR>          Retail
+06/26/2004  01:19 AM             2,476 SOURCES
+06/26/2004  01:19 AM            32,750 halether.h
+06/26/2004  01:19 AM             3,006 kitldrv.c
+06/26/2004  01:19 AM            10,288 oal_ethdrv.h
+               8 File(s)        360,811 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE5.0\Debug
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/08/2004  11:26 PM            45,138 fetdbg.lib
+06/08/2004  11:26 PM            61,440 fetdbg.pdb
+               2 File(s)        106,578 bytes
+
+ Directory of G:\DRIVERS\LAN\ETHERTOOL\CE5.0\Retail
+
+08/14/22836  06:49 PM    <DIR>          .
+08/14/22836  06:49 PM    <DIR>          ..
+06/08/2004  11:27 PM            49,172 fetdbg.lib
+06/08/2004  11:27 PM            61,440 fetdbg.pdb
+               2 File(s)        110,612 bytes
+
+ Directory of G:\DRIVERS\LAN\FLASH
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+02/01/2005  06:39 PM           172,890 FLASH.EXE
+02/01/2005  05:50 PM             4,201 flash.txt
+               2 File(s)        177,091 bytes
+
+ Directory of G:\DRIVERS\LAN\FREEBSD
+
+02/01/2005  10:58 AM    <DIR>          .
+02/01/2005  10:58 AM    <DIR>          ..
+02/01/2005  11:27 PM            30,526 freebsd.tgz
+01/27/2005  05:28 PM             7,141 freebsd.txt
+               2 File(s)         37,667 bytes
+
+ Directory of G:\DRIVERS\LAN\LANSVR40.DOS
+
+01/27/2005  10:58 AM    <DIR>          .
+01/27/2005  10:58 AM    <DIR>          ..
+02/16/2005  08:53 PM            37,728 FETND.DOS
+02/22/2005  05:48 PM             5,848 LSDOS.TXT
+09/24/2003  02:36 AM               655 OEMSETUP.INF
+               3 File(s)         44,231 bytes
+
+ Directory of G:\DRIVERS\LAN\LANTASTI
+
+09/24/2003  10:59 AM    <DIR>          .
+09/24/2003  10:59 AM    <DIR>          ..
+02/16/2005  08:53 PM            37,728 FETND.DOS
+02/22/2005  05:50 PM             5,338 LANTASTI.TXT
+09/24/2003  02:31 AM             1,039 PROTOCOL.INI
+               3 File(s)         44,105 bytes
+
+ Directory of G:\DRIVERS\LAN\LINUX
+
+11/26/21977  10:54 AM    <DIR>          .
+11/26/21977  10:54 AM    <DIR>          ..
+01/15/2005  01:10 AM            14,399 linux.txt
+01/15/2005  01:08 AM            45,963 rhinefet.tgz
+               2 File(s)         60,362 bytes
+
+ Directory of G:\DRIVERS\LAN\MACOSX
+
+12/17/3820  10:52 AM    <DIR>          .
+12/17/3820  10:52 AM    <DIR>          ..
+05/01/2004  01:38 AM             4,227 OSX.txt
+05/06/2004  01:24 PM            65,442 fetmacx.dmg
+               2 File(s)         69,669 bytes
+
+ Directory of G:\DRIVERS\LAN\MSLANMAN.DOS
+
+05/06/2004  10:57 AM    <DIR>          .
+05/06/2004  10:57 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          DRIVERS
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\MSLANMAN.DOS\DRIVERS
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          ETHERNET
+12/26/2005  09:42 PM    <DIR>          NIF
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\MSLANMAN.DOS\DRIVERS\ETHERNET
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          FETND
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\MSLANMAN.DOS\DRIVERS\ETHERNET\FETND
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+02/16/2005  08:53 PM            37,728 FETND.DOS
+02/22/2005  05:50 PM             6,066 LMDOS.TXT
+09/24/2003  02:31 AM             1,213 PROTOCOL.INI
+               3 File(s)         45,007 bytes
+
+ Directory of G:\DRIVERS\LAN\MSLANMAN.DOS\DRIVERS\NIF
+
+01/29/1622  06:46 PM    <DIR>          .
+01/29/1622  06:46 PM    <DIR>          ..
+02/16/2005  08:57 PM               180 FETND.NIF
+               1 File(s)            180 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          CLIENT32
+12/26/2005  09:42 PM    <DIR>          DOSODI
+12/26/2005  09:42 PM    <DIR>          SRVRODI.311
+12/26/2005  09:42 PM    <DIR>          SRVRODI.312
+12/26/2005  09:42 PM    <DIR>          SRVRODI.4
+12/26/2005  09:42 PM    <DIR>          SRVRODI.56
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\CLIENT32
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/17/2005  12:30 AM             3,152 CNT32DOS.TXT
+02/23/2005  11:07 PM            70,331 fetnwsc.lan
+02/18/2005  06:37 PM            63,748 fetnwsc.ldi
+               3 File(s)        137,231 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\DOSODI
+
+05/16/18771  02:51 PM    <DIR>          .
+05/16/18771  02:51 PM    <DIR>          ..
+02/01/2005  10:18 PM             7,394 DOSODI.TXT
+02/01/2005  10:28 PM            54,752 FETODI.COM
+02/01/2005  10:18 PM               837 FETODI.INS
+12/09/2003  06:46 PM               672 NET.CFG
+               4 File(s)         63,655 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\SRVRODI.311
+
+10/12/4957  02:49 PM    <DIR>          .
+10/12/4957  02:49 PM    <DIR>          ..
+04/27/1994  07:00 AM             9,653 ETHERTSM.NLM
+11/04/2004  10:16 PM            24,068 FETNWSA.LAN
+11/16/1992  07:00 AM            11,641 LSLENH.NLM
+10/26/1992  07:00 AM           117,775 MONITOR.NLM
+04/27/1994  07:00 AM            19,098 MSM31X.NLM
+03/12/1996  07:00 AM            29,033 NBI31X.NLM
+11/04/2004  10:22 PM             4,711 Nw311.txt
+02/04/1993  07:00 AM             9,632 PATCHMAN.NLM
+               8 File(s)        225,611 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\SRVRODI.312
+
+06/19/19782  02:51 PM    <DIR>          .
+06/19/19782  02:51 PM    <DIR>          ..
+03/21/1996  07:00 AM            11,669 ETHERTSM.NLM
+11/04/2004  10:16 PM            24,386 FETNWSA.LAN
+03/21/1996  07:00 AM            52,397 MSM31X.NLM
+03/12/1996  07:00 AM            29,033 NBI31X.NLM
+11/04/2004  10:23 PM             6,783 Nw312.txt
+               5 File(s)        124,268 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\SRVRODI.4
+
+11/11/18276  02:51 PM    <DIR>          .
+11/11/18276  02:51 PM    <DIR>          ..
+11/04/2004  10:16 PM            24,386 FETNWSA.LAN
+11/04/2004  10:19 PM             7,110 Nw4.txt
+10/27/2004  10:37 PM            62,993 fetnwsa.ldi
+               3 File(s)         94,489 bytes
+
+ Directory of G:\DRIVERS\LAN\NETWARE\SRVRODI.56
+
+10/27/2004  02:55 PM    <DIR>          .
+10/27/2004  02:55 PM    <DIR>          ..
+08/05/2003  05:16 PM           133,725 HDETECT.NLM
+02/17/2005  12:30 AM             7,482 Nw56.txt
+02/23/2005  11:07 PM            70,331 fetnwsc.lan
+02/18/2005  06:36 PM            63,748 fetnwsc.ldi
+               4 File(s)        275,286 bytes
+
+ Directory of G:\DRIVERS\LAN\NICSET
+
+01/17/1622  10:52 AM    <DIR>          .
+01/17/1622  10:52 AM    <DIR>          ..
+09/15/2004  09:28 PM         1,241,242 NICSET User Guide v1.20.pdf
+04/19/2005  03:32 AM         2,774,528 NICSET-2.12.exe
+               2 File(s)      4,015,770 bytes
+
+ Directory of G:\DRIVERS\LAN\PCNFS
+
+04/19/2005  10:56 AM    <DIR>          .
+04/19/2005  10:56 AM    <DIR>          ..
+02/16/2005  08:53 PM            37,728 FETND.DOS
+02/22/2005  05:50 PM             5,971 PCNFS.TXT
+09/24/2003  02:33 AM             1,035 PROTOCOL.INI
+               3 File(s)         44,734 bytes
+
+ Directory of G:\DRIVERS\LAN\PKTDRVR
+
+09/24/2003  10:56 AM    <DIR>          .
+09/24/2003  10:56 AM    <DIR>          ..
+02/16/2005  02:01 AM            48,544 FETPKT.COM
+02/16/2005  02:01 AM            48,560 FETPKT.SYS
+02/16/2005  02:11 AM             5,351 packet.txt
+               3 File(s)        102,455 bytes
+
+ Directory of G:\DRIVERS\LAN\PXE
+
+09/14/11453  10:53 AM    <DIR>          .
+09/14/11453  10:53 AM    <DIR>          ..
+10/15/2005  01:52 AM             2,272 RIS-note.txt
+02/17/2005  06:59 PM             3,283 pxe.txt
+02/17/2005  06:58 PM            43,008 pxeb.lom
+02/17/2005  06:58 PM            65,536 pxeb.nic
+02/17/2005  06:58 PM            45,056 pxem.lom
+02/17/2005  06:58 PM            65,536 pxem.nic
+               6 File(s)        224,691 bytes
+
+ Directory of G:\DRIVERS\LAN\PXERPL
+
+02/17/2005  10:59 AM    <DIR>          .
+02/17/2005  10:59 AM    <DIR>          ..
+12/19/2000  06:01 AM               491 FETND.CNF
+02/16/2005  08:53 PM            37,728 FETND.DOS
+09/12/1997  01:25 AM             1,069 PROTOCOL.INI
+02/17/2005  06:59 PM             2,225 RIS-note.txt
+02/17/2005  06:58 PM            57,344 pxerpl.lom
+02/17/2005  06:58 PM            65,536 pxerpl.nic
+02/17/2005  06:59 PM             6,398 pxerpl.txt
+               7 File(s)        170,791 bytes
+
+ Directory of G:\DRIVERS\LAN\RIS
+
+01/04/10381  10:53 AM    <DIR>          .
+01/04/10381  10:53 AM    <DIR>          ..
+03/18/2005  11:39 PM            42,496 FETND5BV.sys
+03/14/2005  06:49 PM            58,465 FETNDIS.inf
+03/19/2005  12:30 AM         2,357,080 FETNDIS.sld
+10/15/2005  01:52 AM             2,272 RIS-note.txt
+03/28/2005  07:20 PM            56,701 netvt.cat
+09/18/2004  12:37 AM            61,440 vuins32.dll
+               6 File(s)      2,578,454 bytes
+
+ Directory of G:\DRIVERS\LAN\RPL
+
+07/19/3575  10:52 AM    <DIR>          .
+07/19/3575  10:52 AM    <DIR>          ..
+09/12/1997  01:24 AM               491 FETND.CNF
+02/16/2005  08:53 PM            37,728 FETND.DOS
+09/12/1997  01:25 AM             1,069 PROTOCOL.INI
+02/16/2005  06:25 PM            32,768 RPL.32
+02/16/2005  06:25 PM            65,536 RPL.64
+02/16/2005  06:25 PM            14,336 RPL.LOM
+02/16/2005  06:30 PM             4,385 rpldos.txt
+               7 File(s)        156,313 bytes
+
+ Directory of G:\DRIVERS\LAN\RPLW95
+
+02/16/2005  10:58 AM    <DIR>          .
+02/16/2005  10:58 AM    <DIR>          ..
+09/12/1997  01:24 AM               491 FETND.CNF
+02/16/2005  08:53 PM            37,728 FETND.DOS
+10/17/2005  09:54 PM            53,416 FETND3R.sys
+09/12/1997  01:25 AM             1,069 PROTOCOL.INI
+02/16/2005  06:25 PM            32,768 RPL.32
+02/16/2005  06:25 PM            65,536 RPL.64
+02/16/2005  06:25 PM            14,336 RPL.LOM
+10/03/2005  05:29 PM            18,396 fetnd3.inf
+02/16/2005  06:30 PM            16,598 rplwin95.txt
+12/08/2003  11:55 PM               492 w95bb.cnf
+              10 File(s)        240,830 bytes
+
+ Directory of G:\DRIVERS\LAN\SCO5
+
+08/22/10467  10:53 AM    <DIR>          .
+08/22/10467  10:53 AM    <DIR>          ..
+02/19/2005  12:04 AM            63,488 SCO5.VOL
+02/18/2005  05:43 PM             3,287 SCO5.txt
+               2 File(s)         66,775 bytes
+
+ Directory of G:\DRIVERS\LAN\SOLARIS
+
+02/18/2005  10:57 AM    <DIR>          .
+02/18/2005  10:57 AM    <DIR>          ..
+05/01/2004  01:14 AM            47,104 fets.pkg
+04/29/2004  08:00 PM             3,865 fets.txt
+               2 File(s)         50,969 bytes
+
+ Directory of G:\DRIVERS\LAN\UNATTEND
+
+04/29/2004  10:58 AM    <DIR>          .
+04/29/2004  10:58 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          NT40
+12/26/2005  09:42 PM    <DIR>          W2000
+12/26/2005  09:42 PM    <DIR>          W9x
+12/26/2005  09:42 PM    <DIR>          XP
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\LAN\UNATTEND\NT40
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/22/2002  11:42 PM             1,040 Unattend.txt
+08/21/2002  10:31 PM             2,263 unatdnt4.txt
+               2 File(s)          3,303 bytes
+
+ Directory of G:\DRIVERS\LAN\UNATTEND\W2000
+
+08/21/2002  02:55 PM    <DIR>          .
+08/21/2002  02:55 PM    <DIR>          ..
+01/04/2001  07:21 AM               960 UNATTEND.TXT
+08/21/2002  10:31 PM             2,377 unatdw2k.txt
+               2 File(s)          3,337 bytes
+
+ Directory of G:\DRIVERS\LAN\UNATTEND\W9x
+
+08/21/2002  02:55 PM    <DIR>          .
+08/21/2002  02:55 PM    <DIR>          ..
+01/25/2002  02:48 AM             1,095 msbatch.inf
+08/21/2002  10:31 PM             2,160 unatdw9x.txt
+               2 File(s)          3,255 bytes
+
+ Directory of G:\DRIVERS\LAN\UNATTEND\XP
+
+08/21/2002  02:55 PM    <DIR>          .
+08/21/2002  02:55 PM    <DIR>          ..
+08/21/2002  10:32 PM             2,360 unatdwxp.txt
+12/01/2001  05:16 AM             1,098 unattend.txt
+               2 File(s)          3,458 bytes
+
+ Directory of G:\DRIVERS\LAN\UNIXWARE
+
+08/03/1621  10:52 AM    <DIR>          .
+08/03/1621  10:52 AM    <DIR>          ..
+04/29/2004  08:11 PM             3,652 unixware.txt
+04/30/2004  03:23 PM            50,688 vtD.pkg
+               2 File(s)         54,340 bytes
+
+ Directory of G:\DRIVERS\LAN\WFW311
+
+05/22/29862  10:55 AM    <DIR>          .
+05/22/29862  10:55 AM    <DIR>          ..
+02/16/2005  08:53 PM            37,728 FETND.DOS
+02/01/2005  10:25 PM            45,972 FETND3F.386
+02/01/2005  10:28 PM            54,752 FETODI.COM
+02/01/2005  10:26 PM             6,557 OEMSETUP.INF
+02/01/2005  10:26 PM             2,001 WFW311.TXT
+               5 File(s)        147,010 bytes
+
+ Directory of G:\DRIVERS\LAN\X64
+
+04/07/25157  10:54 AM    <DIR>          .
+04/07/25157  10:54 AM    <DIR>          ..
+03/02/2005  10:53 PM            19,968 ASUSSETUP64.EXE
+06/02/2005  09:27 PM           474,624 AsusSetup.exe
+11/11/2005  05:50 PM               700 AsusSetup.ini
+09/15/2005  10:06 PM               109 English.ini
+10/17/2005  10:03 PM            62,848 FET5A64B.sys
+10/17/2005  09:45 PM            54,293 FETNDA64.inf
+09/20/2005  09:09 PM                88 TChinese.ini
+03/25/2005  11:41 PM             1,576 WIN.txt
+10/13/2005  06:39 PM             1,662 WINX64.TXT
+10/27/2005  10:02 AM            57,899 fetnda64.cat
+10/13/2005  06:25 PM            12,288 vuins64.dll
+              11 File(s)        686,055 bytes
+
+ Directory of G:\DRIVERS\LAN\XPE
+
+10/13/2005  10:57 AM    <DIR>          .
+10/13/2005  10:57 AM    <DIR>          ..
+03/18/2005  11:39 PM            42,496 FETND5BV.sys
+03/14/2005  06:49 PM            58,465 FETNDIS.inf
+03/19/2005  12:30 AM         2,357,080 FETNDIS.sld
+03/14/2005  05:31 PM             1,910 XPe.txt
+03/28/2005  07:20 PM            56,701 netvt.cat
+09/18/2004  12:37 AM            61,440 vuins32.dll
+               6 File(s)      2,578,092 bytes
+
+ Directory of G:\DRIVERS\LAN\winsetup
+
+07/19/3575  10:52 AM    <DIR>          .
+07/19/3575  10:52 AM    <DIR>          ..
+09/14/2004  05:18 PM            18,513 NTSetup.inf
+09/24/2004  02:03 AM            25,856 VETUP16.DLL
+09/24/2004  02:02 AM            32,768 VETUP32.DLL
+11/04/2004  11:46 PM            13,312 VETUP64.DLL
+11/04/2004  06:57 PM             8,320 ntsim2.sys
+11/04/2004  06:58 PM            10,240 ntsim2A.sys
+               6 File(s)        109,009 bytes
+
+ Directory of G:\DRIVERS\RAID
+
+01/26/1621  06:54 AM    <DIR>          .
+01/26/1621  06:54 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A
+
+01/02/1601  10:52 AM    <DIR>          .
+01/02/1601  10:52 AM    <DIR>          ..
+07/19/2005  05:02 PM             4,107 0X0409.INI
+07/19/2005  05:02 PM           148,854 165x300.bmp
+07/19/2005  05:02 PM            90,054 500x60.bmp
+03/18/2005  02:18 AM           466,432 ASUSSETUP.EXE
+11/29/2005  09:50 AM             3,370 ASUSSETUP.INI
+09/26/2005  12:57 PM                77 ENGLISH.INI
+07/19/2005  05:02 PM         1,708,856 INSTMSIA.EXE
+07/19/2005  05:02 PM         1,822,520 INSTMSIW.EXE
+07/19/2005  05:02 PM           633,856 ISSCRIPT.MSI
+07/19/2005  05:02 PM             2,756 LICENSE.MLF
+07/19/2005  05:02 PM           281,676 PCIENUM.SYS
+07/19/2005  05:02 PM         2,709,028 Platform.msi
+07/19/2005  05:02 PM           117,178 Readme.htm
+07/19/2005  05:02 PM           217,088 SETUP.EXE
+07/19/2005  05:02 PM           233,104 SETUP.MLF
+08/17/2005  09:13 PM               609 SETUP.SCF
+07/19/2005  05:02 PM             1,165 Setup.ini
+07/19/2005  05:02 PM                25 Setup.iss
+09/29/2005  05:25 PM                80 TCHINESE.INI
+07/19/2005  05:02 PM            36,266 asia.slf
+07/19/2005  05:02 PM             6,667 english.slf
+07/19/2005  05:02 PM            60,489 europe1.slf
+07/19/2005  05:02 PM            49,913 europe2.slf
+07/19/2005  05:02 PM            50,951 europe3.slf
+07/19/2005  05:02 PM            27,086 europe4.slf
+07/19/2005  05:02 PM           106,496 viasetup.dll
+              26 File(s)      8,778,703 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\MAKEDISK
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+07/06/2005  12:23 AM           474,624 ASUSSETUP.EXE
+11/29/2005  09:50 AM               688 ASUSSETUP.INI
+10/14/2005  01:31 PM               187 ENGLISH.INI
+09/15/2005  06:54 PM           911,221 MAKEDISK.exe
+10/14/2005  01:31 PM               167 TCHINESE.INI
+               5 File(s)      1,386,887 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\RaidTool
+
+10/14/2005  02:56 PM    <DIR>          .
+10/14/2005  02:56 PM    <DIR>          ..
+08/12/2005  11:38 PM           122,880 RaidUtl.dll
+08/12/2005  11:38 PM            40,960 RaidUtlNT.dll
+08/20/2005  01:07 AM             1,054 component.cif
+               3 File(s)        164,894 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\RaidTool\Utility
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/12/2005  11:38 PM             5,226 ErrList.mlf
+08/12/2005  11:38 PM           601,608 raid_tool.chm
+08/12/2005  11:38 PM         1,056,768 raid_tool.exe
+               3 File(s)      1,663,602 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\RaidTool\Utility\Win2000-xp
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/19/2005  11:32 PM           184,320 drvInterface.dll
+               1 File(s)        184,320 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\RaidTool\Utility\Win98-me
+
+08/19/2005  10:48 PM    <DIR>          .
+08/19/2005  10:48 PM    <DIR>          ..
+08/12/2005  11:38 PM           167,936 drvInterface.dll
+               1 File(s)        167,936 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\RaidTool\Utility\Winnt40
+
+01/29/16358  10:46 PM    <DIR>          .
+01/29/16358  10:46 PM    <DIR>          ..
+08/12/2005  11:38 PM           167,936 drvInterface.dll
+               1 File(s)        167,936 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+07/19/2005  05:05 PM            10,752 InsMRaid.exe
+07/19/2005  05:02 PM            36,864 MRaid.dll
+07/19/2005  05:02 PM            61,440 RaidDrv.dll
+07/19/2005  05:02 PM            53,248 RaidDrv9x.dll
+08/17/2005  09:14 PM             1,121 component.cif
+               5 File(s)        163,425 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID\driver
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID\driver\win9x
+
+01/02/1601  10:44 PM    <DIR>          .
+01/02/1601  10:44 PM    <DIR>          ..
+07/19/2005  05:02 PM             2,756 VIAMRAID.INF
+07/19/2005  05:02 PM            12,822 VIAMVSD.vxd
+07/19/2005  05:02 PM            93,029 viamraid.mpd
+               3 File(s)        108,607 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID\driver\winnt40
+
+07/19/2005  10:51 PM    <DIR>          .
+07/19/2005  10:51 PM    <DIR>          ..
+07/19/2005  08:50 PM               185 readme.txt
+07/19/2005  08:50 PM             2,061 viamraid.inf
+07/19/2005  08:50 PM           103,904 viamraid.sys
+               3 File(s)        106,150 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID\driver\winxp
+
+07/19/2005  10:50 PM    <DIR>          .
+07/19/2005  10:50 PM    <DIR>          ..
+07/20/2005  09:55 PM             2,143 VIAMRAID.INF
+08/12/2005  09:02 AM             8,258 viamraid.cat
+07/20/2005  09:52 PM            89,088 viamraid.sys
+               3 File(s)         99,489 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\VIARAID\driver\x64
+
+07/20/2005  10:49 PM    <DIR>          .
+07/20/2005  10:49 PM    <DIR>          ..
+07/20/2005  09:54 PM             2,175 VIAMRX64.INF
+08/12/2005  09:02 AM             8,268 viamrx64.cat
+07/20/2005  09:54 PM           145,920 viamrx64.sys
+               3 File(s)        156,363 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+07/19/2005  05:02 PM             1,787 txtsetup.oem
+               1 File(s)          1,787 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk\AMD64
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+07/19/2005  05:02 PM                 0 VIAMRX64
+07/19/2005  05:02 PM               698 txtsetup.oem
+               2 File(s)            698 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk\AMD64\2003x64
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/20/2005  09:54 PM             2,175 VIAMRX64.INF
+08/12/2005  09:02 AM             8,268 viamrx64.cat
+07/20/2005  09:54 PM           145,920 viamrx64.sys
+               3 File(s)        156,363 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk\i386
+
+03/25/1622  06:46 PM    <DIR>          .
+03/25/1622  06:46 PM    <DIR>          ..
+07/19/2005  05:02 PM                 0 VIAMRAID
+07/19/2005  05:02 PM             1,041 txtsetup.oem
+               2 File(s)          1,041 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk\i386\NT4
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/19/2005  08:50 PM               185 readme.txt
+07/19/2005  08:50 PM             2,061 viamraid.inf
+07/19/2005  08:50 PM           103,904 viamraid.sys
+               3 File(s)        106,150 bytes
+
+ Directory of G:\DRIVERS\RAID\V510A\drvdisk\i386\NT5
+
+07/19/2005  10:50 PM    <DIR>          .
+07/19/2005  10:50 PM    <DIR>          ..
+07/20/2005  09:55 PM             2,143 VIAMRAID.INF
+08/12/2005  09:02 AM             8,258 viamraid.cat
+07/20/2005  09:52 PM            89,088 viamraid.sys
+               3 File(s)         99,489 bytes
+
+ Directory of G:\DRIVERS\USB2
+
+10/25/1617  06:54 AM    <DIR>          .
+10/25/1617  06:54 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          2K
+07/06/2005  08:23 AM           474,624 ASUSSETUP.EXE
+11/29/2005  09:51 AM               669 ASUSSETUP.INI
+09/21/2005  02:42 PM               647 ASUSSETUP32.INI
+02/24/2005  10:08 PM                73 ENGLISH.INI
+10/07/2003  10:22 AM               259 README-2K.TXT
+02/24/2005  10:07 PM                77 TCHINESE.INI
+12/26/2005  09:42 PM    <DIR>          USB2
+12/26/2005  09:42 PM    <DIR>          XP
+               6 File(s)        476,349 bytes
+
+ Directory of G:\DRIVERS\USB2\2K
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          EHCI PACKAGE
+02/13/2003  08:56 AM             5,385 ICH5USB2_WIN2K_README.TXT
+02/13/2003  08:58 AM             1,012 README.TXT
+               2 File(s)          6,397 bytes
+
+ Directory of G:\DRIVERS\USB2\2K\EHCI PACKAGE
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+04/19/2002  02:46 AM             6,416 HCCOIN.DLL
+09/06/2002  09:29 PM             7,445 ICH5USB2_WIN2K.INF
+04/27/2002  03:16 AM             8,654 USB2.CAT
+04/24/2002  01:46 AM            19,216 USBEHCI.SYS
+04/19/2002  02:46 AM            49,392 USBHUB20.SYS
+04/24/2002  01:46 AM           135,920 USBPORT.SYS
+               6 File(s)        227,043 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2
+
+01/17/1622  10:52 AM    <DIR>          .
+01/17/1622  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          2K
+07/06/2005  08:23 AM           474,624 ASUSSETUP.EXE
+11/29/2005  09:51 AM             3,365 ASUSSETUP.INI
+08/04/2003  05:11 PM               127 DATA.TAG
+02/24/2005  10:08 PM                73 ENGLISH.INI
+12/26/2005  09:42 PM    <DIR>          QFE
+05/26/2003  12:07 PM         1,362,432 Readme.doc
+08/04/2003  05:11 PM                84 SETUP.INI
+01/12/1999  12:42 PM            73,728 Setup.exe
+02/24/2005  10:07 PM                77 TCHINESE.INI
+12/26/2005  09:42 PM    <DIR>          Win98
+12/26/2005  09:42 PM    <DIR>          XP
+10/27/1998  01:06 PM            27,648 _ISDel.exe
+02/23/1999  11:45 AM           296,674 _inst32i.ex_
+08/04/2003  05:11 PM         4,715,295 _sys1.cab
+08/04/2003  05:11 PM            22,932 _sys1.hdr
+08/04/2003  05:11 PM            60,791 _user1.cab
+08/04/2003  05:11 PM            29,204 _user1.hdr
+08/04/2003  05:11 PM               469 data1.cab
+08/04/2003  05:11 PM            12,753 data1.hdr
+12/26/2005  09:42 PM    <DIR>          filter_nt
+01/12/1999  11:34 AM            23,541 lang.dat
+08/04/2003  05:11 PM             1,596 layout.bin
+06/24/2002  04:59 PM           116,246 msusb_2K.cab
+05/15/2003  02:09 AM             4,681 msusb_xp.cab
+07/27/1998  05:41 PM               450 os.dat
+08/04/2003  03:25 PM            82,349 setup.ins
+08/04/2003  09:58 AM               235 setup.iss
+08/04/2003  05:11 PM               389 setup.lid
+12/26/2005  09:42 PM    <DIR>          setupdir
+08/04/2003  03:48 PM                65 via.ini
+08/04/2003  05:06 PM               229 viausb20.rev
+10/01/2003  03:23 PM               216 win2K.txt
+12/26/2005  09:42 PM    <DIR>          win98&me
+12/26/2005  09:42 PM    <DIR>          winXP_SP1
+12/12/2002  01:09 PM               961 winxp.txt
+              28 File(s)      7,311,234 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\2K
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+07/06/2005  08:23 AM           474,624 AsusSetup.exe
+05/11/2005  04:07 PM               671 AsusSetup.ini
+12/26/2005  09:42 PM    <DIR>          EHCI Package
+02/25/2005  01:08 PM                73 English.ini
+02/13/2003  11:56 PM             5,385 ICH5usb2_win2k_readme.txt
+02/25/2005  01:07 PM                77 TChinese.ini
+10/08/2003  01:22 AM               259 readme-2k.txt
+02/13/2003  11:58 PM             1,012 readme.txt
+               7 File(s)        482,101 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\2K\EHCI Package
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+04/19/2002  05:46 PM             6,416 hccoin.dll
+09/07/2002  12:29 PM             7,445 ich5usb2_win2k.inf
+04/27/2002  06:16 PM             8,654 usb2.cat
+04/24/2002  04:46 PM            19,216 usbehci.sys
+04/19/2002  05:46 PM            49,392 usbhub20.sys
+04/24/2002  04:46 PM           135,920 usbport.sys
+               6 File(s)        227,043 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\QFE
+
+01/28/1622  02:49 PM    <DIR>          .
+01/28/1622  02:49 PM    <DIR>          ..
+08/04/2003  09:58 AM           459,888 Q810090_W2K_SP4_X86_AR.exe
+08/04/2003  09:58 AM           460,400 Q810090_W2K_SP4_X86_BR.exe
+08/04/2003  09:58 AM           458,352 Q810090_W2K_SP4_X86_CN.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_CS.exe
+08/04/2003  09:58 AM           459,888 Q810090_W2K_SP4_X86_DA.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_DE.exe
+08/04/2003  09:58 AM           462,448 Q810090_W2K_SP4_X86_EL.exe
+08/04/2003  09:58 AM           457,840 Q810090_W2K_SP4_X86_EN.exe
+08/04/2003  09:58 AM           460,400 Q810090_W2K_SP4_X86_ES.exe
+08/04/2003  09:58 AM           460,400 Q810090_W2K_SP4_X86_FI.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_FR.exe
+08/04/2003  09:58 AM           459,376 Q810090_W2K_SP4_X86_HE.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_HU.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_IT.exe
+08/04/2003  09:58 AM           459,376 Q810090_W2K_SP4_X86_JA.exe
+08/04/2003  09:58 AM           457,840 Q810090_W2K_SP4_X86_KO.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_NL.exe
+08/04/2003  09:58 AM           459,376 Q810090_W2K_SP4_X86_NO.exe
+08/04/2003  09:58 AM           461,424 Q810090_W2K_SP4_X86_PL.exe
+08/04/2003  09:58 AM           460,912 Q810090_W2K_SP4_X86_PT.exe
+08/04/2003  09:58 AM           460,400 Q810090_W2K_SP4_X86_RU.exe
+08/04/2003  09:58 AM           460,400 Q810090_W2K_SP4_X86_SV.exe
+08/04/2003  09:58 AM           459,888 Q810090_W2K_SP4_X86_TR.exe
+08/04/2003  09:58 AM           457,840 Q810090_W2K_SP4_X86_TW.exe
+              24 File(s)     11,041,920 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\Win98
+
+11/02/14376  02:51 PM    <DIR>          .
+11/02/14376  02:51 PM    <DIR>          ..
+07/06/2005  12:23 AM           474,624 AsusSetup.exe
+09/02/2005  06:27 PM             2,066 AsusSetup.ini
+10/26/2004  08:44 PM               127 DATA.TAG
+10/26/2004  08:44 PM               469 DATA1.CAB
+10/26/2004  08:44 PM            12,637 DATA1.HDR
+09/02/2005  01:44 AM                81 English.ini
+01/12/1999  06:34 PM            23,541 LANG.DAT
+10/26/2004  08:44 PM               626 LAYOUT.BIN
+05/15/2003  09:09 AM             4,681 MSUSB_XP.CAB
+07/28/1998  12:41 AM               450 OS.DAT
+12/26/2005  09:42 PM    <DIR>          QFE
+05/26/2003  07:07 PM         1,362,432 ReadMe.doc
+04/15/2005  01:27 AM             8,747 Release.txt
+10/26/2004  08:44 PM                82 SETUP.INI
+10/26/2004  08:44 PM            83,523 SETUP.INS
+09/25/2003  05:00 PM               235 SETUP.ISS
+10/26/2004  08:44 PM                49 SETUP.LID
+01/12/1999  07:42 PM            73,728 Setup.exe
+09/02/2005  01:44 AM                83 TChinese.ini
+08/04/2003  10:48 PM                65 VIA.INI
+04/15/2005  01:21 AM               231 VIAUSB20.REV
+12/26/2005  09:42 PM    <DIR>          WIN98&ME
+02/23/1999  06:45 PM           296,674 _INST32I.EX_
+10/27/1998  08:06 PM            27,648 _ISDel.exe
+10/26/2004  08:44 PM           175,466 _SYS1.CAB
+10/26/2004  08:44 PM             3,954 _SYS1.HDR
+09/30/1998  12:34 AM            34,816 _Setup.dll
+10/26/2004  08:44 PM            48,974 _USER1.CAB
+10/26/2004  08:44 PM             4,594 _USER1.HDR
+12/26/2005  09:42 PM    <DIR>          filter_nt
+06/24/2002  11:59 PM           116,246 msusb_2K.cab
+01/20/2005  07:18 AM               216 win2K.txt
+01/20/2005  07:18 AM               211 winxp.txt
+              30 File(s)      2,757,276 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\Win98\QFE
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/25/2003  04:59 PM           459,888 Q810090_W2K_SP4_X86_AR.exe
+09/25/2003  04:59 PM           460,400 Q810090_W2K_SP4_X86_BR.exe
+09/25/2003  04:59 PM           458,352 Q810090_W2K_SP4_X86_CN.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_CS.exe
+09/25/2003  04:59 PM           459,888 Q810090_W2K_SP4_X86_DA.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_DE.exe
+09/25/2003  04:59 PM           462,448 Q810090_W2K_SP4_X86_EL.exe
+09/25/2003  04:59 PM           457,840 Q810090_W2K_SP4_X86_EN.exe
+09/25/2003  04:59 PM           460,400 Q810090_W2K_SP4_X86_ES.exe
+09/25/2003  04:59 PM           460,400 Q810090_W2K_SP4_X86_FI.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_FR.exe
+09/25/2003  04:59 PM           459,376 Q810090_W2K_SP4_X86_HE.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_HU.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_IT.exe
+09/25/2003  04:59 PM           459,376 Q810090_W2K_SP4_X86_JA.exe
+09/25/2003  04:59 PM           457,840 Q810090_W2K_SP4_X86_KO.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_NL.exe
+09/25/2003  04:59 PM           459,376 Q810090_W2K_SP4_X86_NO.exe
+09/25/2003  04:59 PM           461,424 Q810090_W2K_SP4_X86_PL.exe
+09/25/2003  04:59 PM           460,912 Q810090_W2K_SP4_X86_PT.exe
+09/25/2003  04:59 PM           460,400 Q810090_W2K_SP4_X86_RU.exe
+09/25/2003  04:59 PM           460,400 Q810090_W2K_SP4_X86_SV.exe
+09/25/2003  04:59 PM           459,888 Q810090_W2K_SP4_X86_TR.exe
+09/25/2003  04:59 PM           457,840 Q810090_W2K_SP4_X86_TW.exe
+              24 File(s)     11,041,920 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\Win98\WIN98&ME
+
+09/25/2003  06:51 PM    <DIR>          .
+09/25/2003  06:51 PM    <DIR>          ..
+09/27/2003  01:19 AM             2,926 USB2VIA.INF
+09/26/2003  08:36 PM            28,960 USBEHCI.SYS
+09/26/2003  08:37 PM            67,568 USBHUB20.SYS
+09/26/2003  08:36 PM           174,916 USBPORT.SYS
+04/11/2005  08:41 AM            32,768 VIACB.EXE
+09/27/2003  01:24 AM             1,284 VIAUSB.INF
+08/13/2003  12:17 AM            11,008 VULFNTR.SYS
+10/04/2002  05:31 PM            17,668 VUSTR98.SYS
+01/11/2002  06:41 PM             2,316 VUSTRBT.SYS
+04/17/2002  06:53 PM            13,360 VUSTRME.SYS
+              10 File(s)        352,774 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\Win98\filter_nt
+
+08/11/30355  06:50 PM    <DIR>          .
+08/11/30355  06:50 PM    <DIR>          ..
+01/06/2005  01:02 AM             6,912 VULFNTH.SYS
+11/23/2004  09:17 PM            11,264 VULFNTR.SYS
+               2 File(s)         18,176 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\XP
+
+01/28/1622  02:49 PM    <DIR>          .
+01/28/1622  02:49 PM    <DIR>          ..
+07/06/2005  08:23 AM           474,624 AsusSetup.exe
+07/27/2005  10:10 AM               696 AsusSetup.ini
+02/25/2005  01:08 PM                73 English.ini
+02/25/2005  01:07 PM                77 TChinese.ini
+02/14/2003  02:40 AM               247 readme-xp.txt
+12/29/2004  04:27 PM           114,688 usbreg.exe
+               6 File(s)        590,405 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\filter_nt
+
+12/29/2004  02:53 PM    <DIR>          .
+12/29/2004  02:53 PM    <DIR>          ..
+08/04/2003  03:29 PM             6,912 vulfnth.sys
+08/04/2003  03:29 PM            11,392 vulfntr.sys
+               2 File(s)         18,304 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir
+
+08/04/2003  02:53 PM    <DIR>          .
+08/04/2003  02:53 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          0003
+12/26/2005  09:42 PM    <DIR>          0005
+12/26/2005  09:42 PM    <DIR>          0006
+12/26/2005  09:42 PM    <DIR>          0007
+12/26/2005  09:42 PM    <DIR>          0008
+12/26/2005  09:42 PM    <DIR>          0009
+12/26/2005  09:42 PM    <DIR>          000a
+12/26/2005  09:42 PM    <DIR>          000b
+12/26/2005  09:42 PM    <DIR>          000e
+12/26/2005  09:42 PM    <DIR>          0010
+12/26/2005  09:42 PM    <DIR>          0011
+12/26/2005  09:42 PM    <DIR>          0012
+12/26/2005  09:42 PM    <DIR>          0013
+12/26/2005  09:42 PM    <DIR>          0014
+12/26/2005  09:42 PM    <DIR>          0015
+12/26/2005  09:42 PM    <DIR>          0019
+12/26/2005  09:42 PM    <DIR>          001a
+12/26/2005  09:42 PM    <DIR>          001b
+12/26/2005  09:42 PM    <DIR>          001d
+12/26/2005  09:42 PM    <DIR>          001e
+12/26/2005  09:42 PM    <DIR>          001f
+12/26/2005  09:42 PM    <DIR>          0021
+12/26/2005  09:42 PM    <DIR>          0024
+12/26/2005  09:42 PM    <DIR>          002d
+12/26/2005  09:42 PM    <DIR>          0404
+12/26/2005  09:42 PM    <DIR>          040c
+12/26/2005  09:42 PM    <DIR>          0416
+12/26/2005  09:42 PM    <DIR>          0804
+12/26/2005  09:42 PM    <DIR>          0816
+12/26/2005  09:42 PM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0003
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+10/08/1998  02:35 PM            35,840 _Setup.dll
+               1 File(s)         35,840 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0005
+
+03/26/17994  06:48 PM    <DIR>          .
+03/26/17994  06:48 PM    <DIR>          ..
+10/08/1998  02:41 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0006
+
+11/27/3635  06:47 PM    <DIR>          .
+11/27/3635  06:47 PM    <DIR>          ..
+10/08/1998  06:41 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0007
+
+10/08/1998  06:51 PM    <DIR>          .
+10/08/1998  06:51 PM    <DIR>          ..
+10/08/1998  05:36 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0008
+
+10/08/1998  06:50 PM    <DIR>          .
+10/08/1998  06:50 PM    <DIR>          ..
+10/08/1998  05:38 PM            35,840 _Setup.dll
+               1 File(s)         35,840 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0009
+
+10/08/1998  06:52 PM    <DIR>          .
+10/08/1998  06:52 PM    <DIR>          ..
+09/29/1998  05:34 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\000a
+
+09/29/1998  06:52 PM    <DIR>          .
+09/29/1998  06:52 PM    <DIR>          ..
+10/19/1998  06:32 PM            35,840 _Setup.dll
+               1 File(s)         35,840 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\000b
+
+02/22/12597  06:48 PM    <DIR>          .
+02/22/12597  06:48 PM    <DIR>          ..
+10/08/1998  05:40 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\000e
+
+07/06/5620  06:47 PM    <DIR>          .
+07/06/5620  06:47 PM    <DIR>          ..
+10/08/1998  05:41 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0010
+
+06/15/14875  06:48 PM    <DIR>          .
+06/15/14875  06:48 PM    <DIR>          ..
+10/08/1998  05:43 PM            35,840 _Setup.dll
+               1 File(s)         35,840 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0011
+
+01/13/26308  06:49 PM    <DIR>          .
+01/13/26308  06:49 PM    <DIR>          ..
+01/22/1999  02:52 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0012
+
+02/11/14829  06:48 PM    <DIR>          .
+02/11/14829  06:48 PM    <DIR>          ..
+01/22/1999  02:53 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0013
+
+12/29/20000  06:49 PM    <DIR>          .
+12/29/20000  06:49 PM    <DIR>          ..
+10/09/1998  02:40 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0014
+
+04/06/6243  06:47 PM    <DIR>          .
+04/06/6243  06:47 PM    <DIR>          ..
+10/08/1998  05:47 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0015
+
+05/18/3511  06:47 PM    <DIR>          .
+05/18/3511  06:47 PM    <DIR>          ..
+10/12/1998  03:26 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0019
+
+10/12/1998  06:53 PM    <DIR>          .
+10/12/1998  06:53 PM    <DIR>          ..
+10/19/1998  03:31 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\001a
+
+10/19/1998  06:53 PM    <DIR>          .
+10/19/1998  06:53 PM    <DIR>          ..
+10/19/1998  02:35 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\001b
+
+06/18/3259  06:47 PM    <DIR>          .
+06/18/3259  06:47 PM    <DIR>          ..
+10/08/1998  06:35 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\001d
+
+10/08/1998  06:52 PM    <DIR>          .
+10/08/1998  06:52 PM    <DIR>          ..
+10/08/1998  05:53 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\001e
+
+10/08/1998  06:53 PM    <DIR>          .
+10/08/1998  06:53 PM    <DIR>          ..
+10/08/1998  05:54 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\001f
+
+10/08/1998  06:53 PM    <DIR>          .
+10/08/1998  06:53 PM    <DIR>          ..
+10/08/1998  05:55 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0021
+
+07/12/7118  06:47 PM    <DIR>          .
+07/12/7118  06:47 PM    <DIR>          ..
+10/08/1998  05:55 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0024
+
+01/15/14468  06:48 PM    <DIR>          .
+01/15/14468  06:48 PM    <DIR>          ..
+10/08/1998  05:56 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\002d
+
+07/29/23178  06:49 PM    <DIR>          .
+07/29/23178  06:49 PM    <DIR>          ..
+10/08/1998  05:59 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0404
+
+10/08/1998  06:51 PM    <DIR>          .
+10/08/1998  06:51 PM    <DIR>          ..
+10/08/1998  06:19 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\040c
+
+10/08/1998  06:50 PM    <DIR>          .
+10/08/1998  06:50 PM    <DIR>          ..
+10/08/1998  06:23 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0416
+
+01/30/5487  06:47 PM    <DIR>          .
+01/30/5487  06:47 PM    <DIR>          ..
+10/08/1998  06:24 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0804
+
+01/17/16103  06:48 PM    <DIR>          .
+01/17/16103  06:48 PM    <DIR>          ..
+10/08/1998  06:20 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0816
+
+10/08/1998  06:51 PM    <DIR>          .
+10/08/1998  06:51 PM    <DIR>          ..
+10/08/1998  06:25 PM            35,328 _Setup.dll
+               1 File(s)         35,328 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\setupdir\0c0c
+
+05/17/24541  06:49 PM    <DIR>          .
+05/17/24541  06:49 PM    <DIR>          ..
+10/08/1998  06:22 PM            34,816 _Setup.dll
+               1 File(s)         34,816 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\win98&me
+
+01/28/1622  02:49 PM    <DIR>          .
+01/28/1622  02:49 PM    <DIR>          ..
+08/04/2003  03:52 PM             2,925 USB2VIA.INF
+10/04/2002  10:31 AM            17,668 VUSTR98.SYS
+01/11/2002  11:41 AM             2,316 VUSTRBT.SYS
+04/17/2002  11:53 AM            13,360 VUSTRME.SYS
+08/04/2003  03:28 PM            28,960 usbehci.sys
+08/04/2003  03:28 PM            67,568 usbhub20.sys
+08/04/2003  03:28 PM           174,852 usbport.sys
+05/30/2003  10:42 AM            28,672 viacb.exe
+               8 File(s)        336,321 bytes
+
+ Directory of G:\DRIVERS\USB2\USB2\winXP_SP1
+
+05/24/30586  02:53 PM    <DIR>          .
+05/24/30586  02:53 PM    <DIR>          ..
+09/10/2002  11:07 AM             1,405 VIAEHCX1.INF
+09/26/2002  02:06 PM             6,787 viaehcx1.cat
+               2 File(s)          8,192 bytes
+
+ Directory of G:\DRIVERS\USB2\XP
+
+01/17/1622  10:52 AM    <DIR>          .
+01/17/1622  10:52 AM    <DIR>          ..
+03/14/2005  08:18 PM           461,824 ASUSSETUP.EXE
+11/29/2005  10:04 AM               696 ASUSSETUP.INI
+02/24/2005  10:08 PM                73 ENGLISH.INI
+02/13/2003  10:40 AM               247 README-XP.TXT
+02/24/2005  10:07 PM                77 TCHINESE.INI
+               5 File(s)        462,917 bytes
+
+ Directory of G:\LinuxDrivers
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          AUDIO
+10/06/2005  06:30 AM               498 FILELIST.TXT
+12/26/2005  09:42 PM    <DIR>          VIA_Lan
+12/26/2005  09:42 PM    <DIR>          VIA_RAID
+12/26/2005  09:42 PM    <DIR>          VIA_VGA
+               1 File(s)            498 bytes
+
+ Directory of G:\LinuxDrivers\AUDIO
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          N_Linux_v33.4
+               0 File(s)              0 bytes
+
+ Directory of G:\LinuxDrivers\AUDIO\N_Linux_v33.4
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          realtek-linux-audiopack-3.3
+08/25/2005  12:02 AM         3,810,563 realtek-linux-audiopack-3.3-4.tar.bz2
+               1 File(s)      3,810,563 bytes
+
+ Directory of G:\LinuxDrivers\AUDIO\N_Linux_v33.4\realtek-linux-audiopack-3.3
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+08/23/2005  12:15 AM             2,903 Readme.txt
+08/23/2005  12:12 AM         2,134,991 alsa-driver-1.0.9b_4.tar.bz2
+06/16/2005  09:37 PM           697,479 alsa-lib-1.0.9.tar.bz2
+08/08/2005  05:28 PM           957,257 alsa-utils-1.0.9a.tar.bz2
+08/23/2005  12:14 AM               915 install
+08/02/2005  08:46 AM             1,170 modules.conf
+08/02/2005  08:46 AM               670 turbolinux.txt
+               7 File(s)      3,795,385 bytes
+
+ Directory of G:\LinuxDrivers\VIA_Lan
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          64bit
+11/02/2004  10:08 PM            14,339 linux.txt
+11/02/2004  10:26 PM            45,419 rhinefet.tgz
+               2 File(s)         59,758 bytes
+
+ Directory of G:\LinuxDrivers\VIA_Lan\64bit
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+01/15/2005  01:10 AM            14,399 linux.txt
+01/15/2005  01:08 AM            45,963 rhinefet.tgz
+               2 File(s)         60,362 bytes
+
+ Directory of G:\LinuxDrivers\VIA_RAID
+
+08/03/1621  06:54 AM    <DIR>          .
+08/03/1621  06:54 AM    <DIR>          ..
+02/24/2005  12:26 AM         2,281,263 via_raid_linux_v100_20040412.zip
+               1 File(s)      2,281,263 bytes
+
+ Directory of G:\LinuxDrivers\VIA_VGA
+
+02/24/2005  07:00 AM    <DIR>          .
+02/24/2005  07:00 AM    <DIR>          ..
+09/16/2005  07:44 PM           988,239 cn-cle-p4m800xf40059-kernel-bin-mdk10.1_20050726.tgz
+09/16/2005  07:44 PM         2,489,793 p4m800ce-p4m800pro-cn-clexf40059.tgz
+               2 File(s)      3,478,032 bytes
+
+ Directory of G:\MANUAL
+
+01/26/1621  02:57 AM    <DIR>          .
+01/26/1621  02:57 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          LGA775
+12/26/2005  09:42 PM    <DIR>          RAID
+               0 File(s)              0 bytes
+
+ Directory of G:\MANUAL\LGA775
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+03/18/2005  02:18 AM           466,432 ASUSSETUP.EXE
+11/29/2005  10:03 AM               669 ASUSSETUP.INI
+03/17/2005  05:40 PM               150 ENGLISH.INI
+06/01/2004  06:47 AM        51,924,996 INTEL LGA775 CPU INSTALLAT.MPG
+06/01/2004  06:49 AM        10,583,944 INTELLGA775CPU.PDF
+02/25/2005  12:26 AM               134 TCHINESE.INI
+               6 File(s)     62,976,325 bytes
+
+ Directory of G:\MANUAL\RAID
+
+02/25/2005  07:01 AM    <DIR>          .
+02/25/2005  07:01 AM    <DIR>          ..
+03/18/2005  02:18 AM           466,432 AsusSetup.exe
+11/29/2005  10:04 AM               674 AsusSetup.ini
+11/11/2005  05:31 PM               144 English.ini
+11/11/2005  05:31 PM               138 TChinese.ini
+11/02/2005  01:21 AM         2,258,836 VIA_RAID_for_VT8251.pdf
+               5 File(s)      2,726,224 bytes
+
+ Directory of G:\SOFTWARE
+
+09/03/1621  02:57 AM    <DIR>          .
+09/03/1621  02:57 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ACROBAT
+12/26/2005  09:43 PM    <DIR>          AFUDOS
+12/26/2005  09:43 PM    <DIR>          AntiVirus
+07/27/2006  11:04 AM    <DIR>          AsusUpdt
+12/26/2005  09:43 PM    <DIR>          DirectX
+07/27/2006  11:05 AM    <DIR>          LOGO
+12/26/2005  09:43 PM    <DIR>          ProbeII
+12/26/2005  09:43 PM    <DIR>          SCRNSAVR
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ACROBAT5.0
+12/26/2005  09:43 PM    <DIR>          ACROBAT7.0
+04/23/2005  03:04 AM           471,552 AsusSetup.exe
+11/29/2005  10:04 AM               654 AsusSetup.ini
+               2 File(s)        472,206 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+04/23/2005  03:04 AM           471,552 AsusSetup.exe
+11/29/2005  10:03 AM               625 AsusSetup.ini
+12/26/2005  09:43 PM    <DIR>          Cht
+12/26/2005  09:43 PM    <DIR>          Eng
+               2 File(s)        472,177 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+04/17/2001  12:06 AM             3,026 Abcpy.ini
+04/23/2005  03:04 AM           471,552 AsusSetup.exe
+11/29/2005  10:04 AM             1,996 AsusSetup.ini
+05/21/2001  05:35 PM               103 DATA.TAG
+12/26/2005  09:43 PM    <DIR>          Help
+05/17/2001  08:03 AM            56,207 ReadMeCT.html
+12/26/2005  09:43 PM    <DIR>          Reader
+12/26/2005  09:43 PM    <DIR>          Resource
+05/21/2001  05:35 PM               103 SETUP.INI
+12/26/2005  09:43 PM    <DIR>          SVG Files
+01/12/1999  05:42 PM            73,728 Setup.exe
+02/17/2005  08:58 AM                97 TChinese.ini
+02/23/1999  04:45 PM           296,674 _INST32I.EX_
+10/27/1998  06:06 PM            27,648 _ISDel.exe
+10/08/1998  11:19 PM            34,816 _Setup.dll
+05/21/2001  05:35 PM           172,038 _sys1.cab
+05/21/2001  05:35 PM             5,118 _sys1.hdr
+05/21/2001  05:35 PM           551,817 _user1.cab
+05/21/2001  05:35 PM             5,868 _user1.hdr
+06/23/2001  12:00 AM        18,203,488 ar500cht.exe
+05/21/2001  05:35 PM             6,660 data1.cab
+05/21/2001  05:35 PM            32,706 data1.hdr
+01/12/1999  04:34 PM            23,541 lang.dat
+05/21/2001  05:35 PM               609 layout.bin
+07/27/1998  11:41 PM               450 os.dat
+05/21/2001  05:35 PM           156,711 setup.ins
+03/29/2005  05:49 PM               376 setup.iss
+05/21/2001  05:35 PM                49 setup.lid
+04/20/2005  05:48 PM               157 setup.log
+              25 File(s)     20,125,538 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Help
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          CHT
+12/26/2005  09:43 PM    <DIR>          ENU
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Help\CHT
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+05/20/2001  12:23 AM           103,531 ACROBAT.PDF
+05/18/2001  08:19 AM         1,149,400 Reader.pdf
+               2 File(s)      1,252,931 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Help\ENU
+
+05/18/2001  10:48 PM    <DIR>          .
+05/18/2001  10:48 PM    <DIR>          ..
+04/17/2001  07:06 AM            28,451 ACROBAT.PDF
+04/17/2001  07:06 AM            77,012 MiniReader.pdf
+               2 File(s)        105,463 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader
+
+03/25/1622  06:46 PM    <DIR>          .
+03/25/1622  06:46 PM    <DIR>          ..
+04/17/2001  12:06 AM            53,248 ACROFX32.DLL
+04/17/2001  12:06 AM           397,312 AceLite.dll
+03/28/2001  05:44 AM         3,870,784 AcroRd32.exe
+12/26/2005  09:43 PM    <DIR>          ActiveX
+04/17/2001  12:06 AM         1,138,688 Agm.dll
+04/17/2001  12:06 AM           147,456 Bib.dll
+12/26/2005  09:43 PM    <DIR>          Browser
+04/17/2001  12:06 AM         1,441,792 CoolType.dll
+12/26/2005  09:43 PM    <DIR>          JavaScripts
+05/18/2001  08:39 AM         1,167,360 RdLang32.cht
+05/21/2001  05:35 PM               198 Rdrcht.xml
+12/26/2005  09:43 PM    <DIR>          SPPlugins
+12/26/2005  09:43 PM    <DIR>          Uninstall
+05/18/2001  08:19 AM            20,480 WHA Library.CHT
+03/15/2001  02:14 PM           167,936 WHA Library.dll
+12/01/1999  06:40 AM           401,462 msvcp60.dll
+02/11/1999  08:33 AM           266,293 msvcrt.dll
+06/18/1998  05:33 PM           598,288 oleaut32.dll
+12/26/2005  09:43 PM    <DIR>          plug_ins
+              13 File(s)      9,671,297 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\ActiveX
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+04/17/2001  12:06 AM            37,808 AcroIEHelper.ocx
+05/18/2001  08:08 AM            16,384 Pdf.cht
+03/15/2001  02:07 PM           384,640 pdf.ocx
+03/15/2001  02:06 PM             4,044 pdf.tlb
+               4 File(s)        442,876 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\Browser
+
+05/19/28998  10:47 PM    <DIR>          .
+05/19/28998  10:47 PM    <DIR>          ..
+05/18/2001  08:08 AM            12,288 Nppdf32.cht
+04/17/2001  12:06 AM           103,312 nppdf32.dll
+               2 File(s)        115,600 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\JavaScripts
+
+04/17/2001  10:48 PM    <DIR>          .
+04/17/2001  10:48 PM    <DIR>          ..
+04/17/2001  12:06 AM            34,586 aform.js
+               1 File(s)         34,586 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\SPPlugins
+
+04/17/2001  10:48 PM    <DIR>          .
+04/17/2001  10:48 PM    <DIR>          ..
+05/04/2001  06:07 PM           892,928 ADMPlugin.apl
+04/17/2001  12:06 AM           200,704 ExpressViews.apl
+               2 File(s)      1,093,632 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\Uninstall
+
+04/17/2001  10:48 PM    <DIR>          .
+04/17/2001  10:48 PM    <DIR>          ..
+04/17/2001  12:06 AM            81,920 Uninst.dll
+               1 File(s)         81,920 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\plug_ins
+
+04/17/2001  10:48 PM    <DIR>          .
+04/17/2001  10:48 PM    <DIR>          ..
+05/18/2001  07:56 AM            57,344 AcroFill.CHT
+03/22/2001  01:13 AM           639,050 AcroFill.api
+05/18/2001  08:01 AM            28,672 EScript.CHT
+03/15/2001  01:46 PM           643,144 EScript.api
+03/20/2001  12:41 AM            69,702 EWH32.api
+05/18/2001  08:02 AM            12,288 Ewh32.cht
+05/18/2001  08:04 AM            20,480 Hls.cht
+03/15/2001  01:55 PM           270,410 Infusium.api
+03/15/2001  01:49 PM           106,562 MSAA.api
+12/26/2005  09:43 PM    <DIR>          Movie
+05/18/2001  08:10 AM            16,384 Reflow.CHT
+12/26/2005  09:43 PM    <DIR>          WEBBUY
+03/15/2001  02:15 PM            69,632 WHA.api
+05/18/2001  08:17 AM            49,152 WebBuy.CHT
+03/15/2001  02:10 PM           430,150 Webbuy.api
+05/18/2001  08:18 AM            24,576 Weblink.CHT
+05/18/2001  08:19 AM            16,384 Wha.cht
+03/15/2001  01:44 PM            53,312 hls.api
+03/15/2001  02:04 PM           249,926 reflow.api
+03/15/2001  02:14 PM           106,568 weblink.api
+              18 File(s)      2,863,736 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\plug_ins\Movie
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+03/15/2001  01:54 PM           274,506 Movie.api
+05/18/2001  08:07 AM            32,768 Movie.cht
+03/15/2001  02:00 PM            24,576 QT2.dll
+03/15/2001  02:00 PM            32,768 QT3.dll
+03/15/2001  02:01 PM            36,864 QT4.dll
+               5 File(s)        401,482 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\plug_ins\WEBBUY
+
+03/15/2001  02:46 AM    <DIR>          .
+03/15/2001  02:46 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          HTML
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Reader\plug_ins\WEBBUY\HTML
+
+01/16/1601  06:39 AM    <DIR>          .
+01/16/1601  06:39 AM    <DIR>          ..
+04/17/2001  12:06 AM               746 btn_submit.gif
+04/17/2001  12:06 AM               249 table_btm.gif
+04/17/2001  12:06 AM             2,072 template1.html
+04/17/2001  12:06 AM             3,000 template2.html
+04/17/2001  12:06 AM               192 template5.html
+04/17/2001  12:06 AM               742 title_acrobat.gif
+04/17/2001  12:06 AM               806 title_adobe.gif
+04/17/2001  12:06 AM               223 title_end.gif
+04/17/2001  12:06 AM               300 title_mid.gif
+               9 File(s)          8,330 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Resource
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+05/18/2001  07:20 AM             1,408 CHTtxt.pdf
+12/26/2005  09:43 PM    <DIR>          CIDFont
+12/26/2005  09:43 PM    <DIR>          CMap
+05/18/2001  07:20 AM             1,408 ENUtxt.pdf
+12/26/2005  09:43 PM    <DIR>          Font
+               2 File(s)          2,816 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Resource\CIDFont
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+05/18/2001  07:20 AM         8,351,624 MSungStd-Light-Acro.otf
+               1 File(s)      8,351,624 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Resource\CMap
+
+04/06/20685  10:46 PM    <DIR>          .
+04/06/20685  10:46 PM    <DIR>          ..
+05/18/2001  07:20 AM             7,898 Adobe-CNS1-B5pc
+05/18/2001  07:20 AM             8,299 Adobe-CNS1-ETen-B5
+05/18/2001  07:20 AM             2,138 Adobe-CNS1-H-CID
+05/18/2001  07:20 AM             8,311 Adobe-CNS1-H-Host
+05/18/2001  07:20 AM             7,866 Adobe-CNS1-H-Mac
+05/18/2001  07:20 AM           242,865 Adobe-CNS1-UCS2
+05/18/2001  07:20 AM             6,384 B5pc-H
+05/18/2001  07:20 AM             1,484 B5pc-UCS2
+05/18/2001  07:20 AM           271,782 B5pc-UCS2C
+05/18/2001  07:20 AM             1,773 B5pc-V
+05/18/2001  07:20 AM            11,083 CNS-EUC-H
+05/18/2001  07:20 AM            12,115 CNS-EUC-V
+05/18/2001  07:20 AM            24,206 ETHK-B5-H
+05/18/2001  07:20 AM             1,790 ETHK-B5-V
+05/18/2001  07:20 AM             6,540 ETen-B5-H
+05/18/2001  07:20 AM           275,462 ETen-B5-UCS2
+05/18/2001  07:20 AM             1,811 ETen-B5-V
+05/18/2001  07:20 AM             1,459 ETenms-B5-H
+05/18/2001  07:20 AM             1,866 ETenms-B5-V
+05/18/2001  07:20 AM            22,105 HKdla-B5-H
+05/18/2001  07:20 AM             1,776 HKdla-B5-V
+05/18/2001  07:20 AM            19,765 HKdlb-B5-H
+05/18/2001  07:20 AM             1,776 HKdlb-B5-V
+05/18/2001  07:20 AM            12,560 HKgccs-B5-H
+05/18/2001  07:20 AM             1,782 HKgccs-B5-V
+05/18/2001  07:20 AM            12,374 HKm314-B5-H
+05/18/2001  07:20 AM             1,782 HKm314-B5-V
+05/18/2001  07:20 AM            15,344 HKm471-B5-H
+05/18/2001  07:20 AM             1,782 HKm471-B5-V
+05/18/2001  07:20 AM            24,264 HKscs-B5-H
+05/18/2001  07:20 AM             1,796 HKscs-B5-V
+05/18/2001  07:20 AM             6,400 Identity-H
+05/18/2001  07:20 AM             1,199 Identity-V
+05/18/2001  07:20 AM           272,092 UCS2-B5pc
+05/18/2001  07:20 AM           285,777 UCS2-ETen-B5
+05/18/2001  07:20 AM           325,186 UniCNS-UCS2-H
+05/18/2001  07:20 AM             1,808 UniCNS-UCS2-V
+              37 File(s)      1,904,700 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Resource\Font
+
+09/10/22590  10:46 PM    <DIR>          .
+09/10/22590  10:46 PM    <DIR>          ..
+04/17/2001  12:06 AM                23 AdobeFnt.lst
+12/26/2005  09:43 PM    <DIR>          PFM
+04/17/2001  12:06 AM            34,705 SY______.PFB
+04/17/2001  12:06 AM            49,593 ZD______.PFB
+04/17/2001  12:06 AM            75,573 ZX______.PFB
+04/17/2001  12:06 AM            96,418 ZY______.PFB
+04/17/2001  12:06 AM            32,019 _ABI____.PFB
+04/17/2001  12:06 AM            31,966 _AB_____.PFB
+04/17/2001  12:06 AM            32,115 _AI_____.PFB
+04/17/2001  12:06 AM            32,084 _A______.PFB
+04/17/2001  12:06 AM            35,377 _eb_____.pfb
+04/17/2001  12:06 AM            38,543 _ebi____.pfb
+04/17/2001  12:06 AM            37,518 _ei_____.pfb
+04/17/2001  12:06 AM            35,380 _er_____.pfb
+04/17/2001  12:06 AM            35,500 cob_____.pfb
+04/17/2001  12:06 AM            50,532 cobo____.pfb
+04/17/2001  12:06 AM            34,585 com_____.pfb
+04/17/2001  12:06 AM            48,468 coo_____.pfb
+              17 File(s)        700,399 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\Resource\Font\PFM
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+04/17/2001  12:06 AM               686 COBO____.PFM
+04/17/2001  12:06 AM               679 COB_____.PFM
+04/17/2001  12:06 AM               674 COM_____.PFM
+04/17/2001  12:06 AM               682 COO_____.PFM
+04/17/2001  12:06 AM               672 SY______.PFM
+04/17/2001  12:06 AM               684 ZD______.PFM
+04/17/2001  12:06 AM             7,248 ZX______.MMM
+04/17/2001  12:06 AM             7,248 ZY______.MMM
+04/17/2001  12:06 AM             5,336 _ABI____.PFM
+04/17/2001  12:06 AM             5,330 _AB_____.PFM
+04/17/2001  12:06 AM             5,816 _AI_____.PFM
+04/17/2001  12:06 AM             5,809 _A______.PFM
+04/17/2001  12:06 AM             4,941 _eb_____.pfm
+04/17/2001  12:06 AM             4,683 _ebi____.pfm
+04/17/2001  12:06 AM             4,815 _ei_____.pfm
+04/17/2001  12:06 AM             4,692 _er_____.pfm
+04/17/2001  12:06 AM               683 zx______.pfm
+04/17/2001  12:06 AM               684 zy______.pfm
+              18 File(s)         61,362 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Cht\SVG Files
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+03/14/2001  08:10 PM           299,059 NPSVGVw.dll
+05/01/2001  03:02 PM            13,051 ReadMe.html
+05/01/2001  03:02 PM            12,558 SVG Viewer License.txt
+03/14/2001  07:55 PM            79,438 SVGAbout.svg
+03/14/2001  08:14 PM           491,574 SVGControl.dll
+05/01/2001  03:02 PM             2,203 SVGHelp.html
+05/01/2001  03:30 PM            12,288 SVGRSRC.DLL
+03/14/2001  08:07 PM         1,597,491 SVGView.dll
+05/01/2001  03:04 PM            15,394 SVGViewer.dict
+03/09/2001  05:13 PM                 0 SVGViewer.ini
+03/14/2001  07:56 PM           197,741 SVGViewer.zip
+              11 File(s)      2,720,797 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng
+
+03/25/1622  02:49 PM    <DIR>          .
+03/25/1622  02:49 PM    <DIR>          ..
+04/05/2001  12:57 PM             3,026 Abcpy.ini
+04/23/2005  03:04 AM           471,552 AsusSetup.exe
+11/29/2005  10:03 AM             1,992 AsusSetup.ini
+03/29/2001  01:30 PM               103 DATA.TAG
+01/05/2005  09:16 AM             2,050 English.ini
+12/26/2005  09:43 PM    <DIR>          Help
+03/15/2001  02:52 AM            22,270 ReadMe.html
+12/26/2005  09:43 PM    <DIR>          Reader
+12/26/2005  09:43 PM    <DIR>          Resource
+03/29/2001  01:30 PM               103 SETUP.INI
+12/26/2005  09:43 PM    <DIR>          SVG Files
+01/13/1999  09:42 AM            73,728 Setup.exe
+02/24/1999  08:45 AM           296,674 _INST32I.EX_
+10/28/1998  10:06 AM            27,648 _ISDel.exe
+09/30/1998  02:34 PM            34,816 _Setup.dll
+03/29/2001  01:30 PM           175,466 _sys1.cab
+03/29/2001  01:30 PM             5,064 _sys1.hdr
+03/29/2001  01:30 PM           275,576 _user1.cab
+03/29/2001  01:30 PM             5,787 _user1.hdr
+03/29/2001  01:30 PM             6,660 data1.cab
+03/29/2001  01:30 PM            29,345 data1.hdr
+01/13/1999  08:34 AM            23,541 lang.dat
+03/29/2001  01:30 PM               609 layout.bin
+07/28/1998  03:41 PM               450 os.dat
+01/12/2005  08:50 AM         8,684,128 pftw1.pkg
+03/29/2001  01:30 PM           157,188 setup.ins
+03/29/2005  05:48 PM               376 setup.iss
+03/29/2001  01:30 PM                49 setup.lid
+04/02/2005  06:54 PM               157 setup.log
+              25 File(s)     10,298,358 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Help
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ENU
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Help\ENU
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/13/2000  12:00 PM            28,451 ACROBAT.PDF
+01/30/2001  08:56 PM             4,082 DocBox.pdf
+03/09/2001  07:11 AM            77,012 MiniReader.pdf
+               3 File(s)        109,545 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader
+
+03/25/1622  06:46 PM    <DIR>          .
+03/25/1622  06:46 PM    <DIR>          ..
+05/13/2000  12:30 AM            53,248 ACROFX32.DLL
+02/28/2001  03:29 PM           397,312 AceLite.dll
+03/28/2001  03:44 AM         3,870,784 AcroRd32.exe
+12/26/2005  09:43 PM    <DIR>          ActiveX
+03/14/2001  04:06 PM         1,138,688 Agm.dll
+01/21/2001  04:13 AM           147,456 Bib.dll
+12/26/2005  09:43 PM    <DIR>          Browser
+03/14/2001  04:06 PM         1,441,792 CoolType.dll
+12/26/2005  09:43 PM    <DIR>          JavaScripts
+12/26/2005  09:43 PM    <DIR>          Optional
+03/28/2001  09:29 PM               198 RdrENU.xml
+12/26/2005  09:43 PM    <DIR>          SPPlugins
+12/26/2005  09:43 PM    <DIR>          Uninstall
+03/15/2001  12:14 PM           167,936 WHA Library.dll
+12/01/1999  06:40 AM           401,462 msvcp60.dll
+02/11/1999  09:33 AM           266,293 msvcrt.dll
+06/18/1998  05:33 PM           598,288 oleaut32.dll
+12/26/2005  09:43 PM    <DIR>          plug_ins
+              11 File(s)      8,483,457 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\ActiveX
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+03/02/2001  07:02 PM            37,808 AcroIEHelper.ocx
+03/15/2001  12:07 PM           384,640 pdf.ocx
+03/15/2001  12:06 PM             4,044 pdf.tlb
+               3 File(s)        426,492 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\Browser
+
+03/15/2001  10:49 PM    <DIR>          .
+03/15/2001  10:49 PM    <DIR>          ..
+02/27/2001  03:48 AM           103,312 nppdf32.dll
+               1 File(s)        103,312 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\JavaScripts
+
+02/27/2001  10:47 PM    <DIR>          .
+02/27/2001  10:47 PM    <DIR>          ..
+12/27/2000  10:07 PM            34,586 aform.js
+               1 File(s)         34,586 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\Optional
+
+12/27/2000  10:49 PM    <DIR>          .
+12/27/2000  10:49 PM    <DIR>          ..
+09/28/2000  02:49 AM                46 README.TXT
+               1 File(s)             46 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\SPPlugins
+
+06/23/8333  10:45 PM    <DIR>          .
+06/23/8333  10:45 PM    <DIR>          ..
+03/07/2001  09:50 PM           892,928 ADMPlugin.apl
+03/07/2001  06:37 PM           200,704 ExpressViews.apl
+               2 File(s)      1,093,632 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\Uninstall
+
+03/07/2001  10:50 PM    <DIR>          .
+03/07/2001  10:50 PM    <DIR>          ..
+02/27/2001  03:48 AM            81,920 Uninst.dll
+               1 File(s)         81,920 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\plug_ins
+
+02/27/2001  10:47 PM    <DIR>          .
+02/27/2001  10:47 PM    <DIR>          ..
+03/21/2001  11:13 PM           639,050 AcroFill.api
+03/15/2001  11:46 AM           643,144 EScript.api
+03/19/2001  10:41 PM            69,702 EWH32.api
+12/26/2005  09:43 PM    <DIR>          InterTrust
+12/26/2005  09:43 PM    <DIR>          Movie
+12/26/2005  09:43 PM    <DIR>          WEBBUY
+03/15/2001  12:15 PM            69,632 WHA.api
+03/15/2001  12:10 PM           430,150 Webbuy.api
+03/15/2001  11:44 AM            53,312 hls.api
+03/15/2001  12:04 PM           249,926 reflow.api
+03/15/2001  12:14 PM           106,568 weblink.api
+               8 File(s)      2,261,484 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\plug_ins\InterTrust
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+01/30/2001  08:56 PM           409,872 DocBox.api
+03/14/2001  10:52 AM           225,280 NPDocBox.dll
+               2 File(s)        635,152 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\plug_ins\Movie
+
+05/26/9570  02:42 AM    <DIR>          .
+05/26/9570  02:42 AM    <DIR>          ..
+03/15/2001  11:54 AM           274,506 Movie.api
+03/15/2001  12:00 PM            24,576 QT2.dll
+03/15/2001  12:00 PM            32,768 QT3.dll
+03/15/2001  12:01 PM            36,864 QT4.dll
+               4 File(s)        368,714 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\plug_ins\WEBBUY
+
+03/15/2001  02:48 AM    <DIR>          .
+03/15/2001  02:48 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          HTML
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Reader\plug_ins\WEBBUY\HTML
+
+01/16/1601  06:39 AM    <DIR>          .
+01/16/1601  06:39 AM    <DIR>          ..
+04/18/2000  01:59 AM               746 btn_submit.gif
+04/18/2000  01:59 AM               249 table_btm.gif
+04/18/2000  01:59 AM             2,072 template1.html
+01/11/2001  05:53 PM             3,000 template2.html
+10/12/2000  05:15 PM               192 template5.html
+04/18/2000  01:59 AM               742 title_acrobat.gif
+04/18/2000  01:59 AM               806 title_adobe.gif
+04/18/2000  01:59 AM               223 title_end.gif
+04/18/2000  01:59 AM               300 title_mid.gif
+               9 File(s)          8,330 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Resource
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          CMap
+03/16/2001  03:32 AM             1,408 ENUtxt.pdf
+12/26/2005  09:43 PM    <DIR>          Font
+               1 File(s)          1,408 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Resource\CMap
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+03/16/2001  03:32 AM             6,400 Identity-H
+03/16/2001  03:32 AM             1,199 Identity-V
+               2 File(s)          7,599 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Resource\Font
+
+05/09/4618  10:44 PM    <DIR>          .
+05/09/4618  10:44 PM    <DIR>          ..
+07/13/2000  03:15 PM                23 AdobeFnt.lst
+12/26/2005  09:43 PM    <DIR>          PFM
+04/15/1999  01:46 PM            34,705 SY______.PFB
+04/15/1999  01:46 PM            49,593 ZD______.PFB
+04/15/1999  01:46 PM            75,573 ZX______.PFB
+04/15/1999  01:46 PM            96,418 ZY______.PFB
+04/15/1999  01:46 PM            32,019 _ABI____.PFB
+04/15/1999  01:46 PM            31,966 _AB_____.PFB
+04/15/1999  01:46 PM            32,115 _AI_____.PFB
+04/15/1999  01:46 PM            32,084 _A______.PFB
+04/15/1999  01:46 PM            35,377 _eb_____.pfb
+04/15/1999  01:46 PM            38,543 _ebi____.pfb
+04/15/1999  01:46 PM            37,518 _ei_____.pfb
+04/15/1999  01:46 PM            35,380 _er_____.pfb
+04/15/1999  01:46 PM            35,500 cob_____.pfb
+04/15/1999  01:46 PM            50,532 cobo____.pfb
+04/15/1999  01:46 PM            34,585 com_____.pfb
+04/15/1999  01:46 PM            48,468 coo_____.pfb
+              17 File(s)        700,399 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\Resource\Font\PFM
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+04/15/1999  01:46 PM               686 COBO____.PFM
+04/15/1999  01:46 PM               679 COB_____.PFM
+04/15/1999  01:46 PM               674 COM_____.PFM
+04/15/1999  01:46 PM               682 COO_____.PFM
+04/15/1999  01:46 PM               672 SY______.PFM
+04/15/1999  01:46 PM               684 ZD______.PFM
+04/15/1999  01:46 PM             7,248 ZX______.MMM
+04/15/1999  01:46 PM             7,248 ZY______.MMM
+04/15/1999  01:46 PM             5,336 _ABI____.PFM
+04/15/1999  01:46 PM             5,330 _AB_____.PFM
+04/15/1999  01:46 PM             5,816 _AI_____.PFM
+04/15/1999  01:46 PM             5,809 _A______.PFM
+04/15/1999  01:46 PM             4,941 _eb_____.pfm
+04/15/1999  01:46 PM             4,683 _ebi____.pfm
+04/15/1999  01:46 PM             4,815 _ei_____.pfm
+04/15/1999  01:46 PM             4,692 _er_____.pfm
+04/15/1999  01:46 PM               683 zx______.pfm
+04/15/1999  01:46 PM               684 zy______.pfm
+              18 File(s)         61,362 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT5.0\Eng\SVG Files
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+03/15/2001  12:10 PM           299,059 NPSVGVw.dll
+03/15/2001  11:53 AM            19,176 ReadMe.html
+03/15/2001  11:53 AM            22,529 SVG Viewer License.txt
+03/15/2001  11:55 AM            79,438 SVGAbout.svg
+03/15/2001  12:14 PM           491,574 SVGControl.dll
+03/15/2001  11:53 AM             2,928 SVGHelp.html
+03/15/2001  12:06 PM            12,288 SVGRSRC.DLL
+03/15/2001  12:07 PM         1,597,491 SVGView.dll
+03/15/2001  11:53 AM            18,444 SVGViewer.dict
+03/10/2001  09:13 AM                 0 SVGViewer.ini
+03/15/2001  11:56 AM           197,741 SVGViewer.zip
+              11 File(s)      2,740,668 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT7.0
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+05/16/2005  11:06 PM           473,088 AsusSetup.exe
+11/29/2005  10:04 AM               625 AsusSetup.ini
+12/26/2005  09:43 PM    <DIR>          CHT
+12/26/2005  09:43 PM    <DIR>          ENG
+               2 File(s)        473,713 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT7.0\CHT
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/19/2003  04:09 PM             2,885 0x0404.ini
+03/25/2003  11:22 AM             1,730 Abcpy.ini
+01/26/2005  01:20 AM         2,835,456 Adobe Reader 7.0 - Chinese Traditional.msi
+05/16/2005  11:06 PM           473,088 AsusSetup.exe
+11/29/2005  09:57 AM             1,340 AsusSetup.ini
+01/26/2005  01:20 AM        40,397,776 Data1.cab
+12/08/2004  02:35 PM           163,840 Rdr70.itw
+01/26/2005  01:20 AM             1,262 Setup.ini
+05/31/2005  06:14 PM                97 TChinese.ini
+03/12/2002  05:06 AM         1,822,520 instmsiw.exe
+01/26/2005  01:19 AM           225,280 setup.exe
+              11 File(s)     45,925,274 bytes
+
+ Directory of G:\SOFTWARE\ACROBAT\ACROBAT7.0\ENG
+
+04/19/28624  02:52 PM    <DIR>          .
+04/19/28624  02:52 PM    <DIR>          ..
+02/19/2003  03:58 PM             4,107 0x0409.ini
+03/25/2003  11:22 AM             1,730 Abcpy.ini
+12/15/2004  03:47 AM         2,728,960 Adobe Reader 7.0.msi
+05/16/2005  11:06 PM           473,088 AsusSetup.exe
+11/29/2005  09:53 AM             1,257 AsusSetup.ini
+12/15/2004  03:47 AM        29,321,655 Data1.cab
+05/31/2005  04:49 PM             2,050 English.ini
+07/29/2005  12:06 AM                99 French.ini
+07/29/2005  10:21 PM                89 Japanese.ini
+12/08/2004  02:43 PM           262,144 Rdr70.itw
+08/03/2005  05:21 PM                94 SChinese.ini
+12/15/2004  03:47 AM             1,168 Setup.ini
+03/12/2002  05:06 AM         1,822,520 instmsiw.exe
+12/15/2004  03:47 AM           225,280 setup.exe
+              14 File(s)     34,844,241 bytes
+
+ Directory of G:\SOFTWARE\AFUDOS
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+09/07/2005  04:42 AM            48,473 AFUDOS.EXE
+09/08/2005  05:54 PM               233 AFUDOS.TXT
+               2 File(s)         48,706 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus
+
+09/08/2005  07:00 AM    <DIR>          .
+09/08/2005  07:00 AM    <DIR>          ..
+09/01/2004  03:25 AM               123 AUTORUN.INF
+08/09/2005  05:12 AM           479,744 AsusSetup.exe
+08/18/2005  05:18 PM             2,068 AsusSetup.ini
+08/31/2004  11:01 PM           188,416 CDSTART.EXE
+08/14/2004  10:06 AM           709,728 DefUtDCD.dll
+03/07/2005  09:28 PM                83 English.ini
+07/29/2005  12:07 AM               188 French.ini
+07/29/2005  02:02 AM               220 German.ini
+07/28/2005  12:59 AM               186 Japanese.ini
+12/26/2005  09:42 PM    <DIR>          LangFiles
+12/26/2005  09:42 PM    <DIR>          Manual
+12/26/2005  09:42 PM    <DIR>          NAV
+08/03/2005  05:28 PM               129 SChinese.ini
+12/26/2005  09:43 PM    <DIR>          Setup
+12/26/2005  09:43 PM    <DIR>          Support
+08/31/2004  11:29 PM         1,258,640 SymSetup.EXE
+02/17/2005  10:17 AM                59 TChinese.ini
+12/26/2005  09:43 PM    <DIR>          VirusDef
+08/28/2004  08:21 PM           132,216 ccGSE.dll
+08/28/2004  08:28 PM           240,760 ccL30.dll
+08/28/2004  08:22 PM           145,016 ccScan.dll
+04/23/2004  02:22 PM            42,112 ecmldr32.dll
+03/19/2003  05:14 PM           499,712 msvcp71.dll
+02/22/2003  01:42 AM           348,160 msvcr71.dll
+08/31/2004  03:34 PM           197,760 probeGSE.dll
+08/31/2004  04:27 PM            18,472 readme.txt
+              20 File(s)      4,263,792 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+08/15/2005  11:12 PM            50,688 AsMultiLang.dll
+08/04/2005  05:57 PM               182 AsMultiLang.ini
+12/26/2005  09:42 PM    <DIR>          French
+12/26/2005  09:42 PM    <DIR>          German
+12/26/2005  09:42 PM    <DIR>          Japanese
+12/26/2005  09:42 PM    <DIR>          SChinese
+12/26/2005  09:42 PM    <DIR>          TChinese
+               2 File(s)         50,870 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles\French
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+07/29/2005  10:59 PM               591 French.ini
+               1 File(s)            591 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles\German
+
+09/13/29392  02:52 PM    <DIR>          .
+09/13/29392  02:52 PM    <DIR>          ..
+07/30/2005  05:14 AM               591 German.ini
+               1 File(s)            591 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles\Japanese
+
+07/30/2005  02:55 PM    <DIR>          .
+07/30/2005  02:55 PM    <DIR>          ..
+07/31/2005  12:22 AM               549 Japanese.ini
+               1 File(s)            549 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles\SChinese
+
+10/13/17850  02:51 PM    <DIR>          .
+10/13/17850  02:51 PM    <DIR>          ..
+08/08/2005  09:08 PM               455 SChinese.ini
+               1 File(s)            455 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\LangFiles\TChinese
+
+08/08/2005  02:54 PM    <DIR>          .
+08/08/2005  02:54 PM    <DIR>          ..
+07/29/2005  10:09 PM               445 TChinese.ini
+               1 File(s)            445 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Manual
+
+01/18/1622  10:52 AM    <DIR>          .
+01/18/1622  10:52 AM    <DIR>          ..
+08/27/2004  12:27 PM           834,003 NIS.pdf
+               1 File(s)        834,003 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV
+
+06/10/29482  10:55 AM    <DIR>          .
+06/10/29482  10:55 AM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          External
+11/15/2002  04:30 PM           616,128 Iamapp.dll
+08/31/2004  03:58 PM         1,121,280 NAV.msi
+08/31/2004  03:34 PM            78,976 Omigrate.exe
+08/31/2004  11:42 PM           434,176 Parent.msi
+11/23/2004  09:02 AM               572 SKU.dat
+11/23/2004  09:01 AM             6,340 instopts.dat
+08/31/2004  03:11 PM               110 version.dat
+               7 File(s)      2,257,582 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          CommonFi
+12/26/2005  09:42 PM    <DIR>          NORTON
+12/26/2005  09:42 PM    <DIR>          Symantec
+12/26/2005  09:42 PM    <DIR>          System32
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\CommonFi
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          SYMSHARE
+08/14/2004  05:16 PM           132,216 ccGSE.dll
+               1 File(s)        132,216 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\CommonFi\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/05/2004  01:18 PM            54,432 SMNLnch.exe
+12/26/2005  09:42 PM    <DIR>          SPBBC
+               1 File(s)         54,432 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\CommonFi\SYMSHARE\SPBBC
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/15/2004  04:03 PM            91,232 SPLVPlug.dll
+               1 File(s)         91,232 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\NORTON
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          APP
+08/31/2004  03:35 PM           574,592 AVRES.dll
+08/31/2004  03:34 PM           148,608 BootWarn.exe
+05/30/2002  07:53 AM                90 Branding.ini
+08/18/2004  07:36 PM           132,248 CfgWiz.exe
+08/18/2004  07:36 PM           169,112 DJSAlert.dll
+08/18/2004  07:36 PM            74,904 LtChkRes.dll
+04/21/2003  01:02 PM                 0 NAVAPW32.exe
+08/31/2004  03:35 PM           373,888 NAVOptRF.dll
+08/31/2004  03:34 PM           148,608 avcompbr.dll
+               9 File(s)      1,622,050 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\NORTON\APP
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/31/2004  03:34 PM           275,584 AboutPlg.dll
+08/21/2003  04:18 PM             3,943 COUNTRY.DAT
+07/26/2004  05:16 PM             1,468 CfgWiz.dat
+08/31/2004  03:34 PM           410,752 CfgWzRes.dll
+08/31/2004  03:34 PM           353,408 DefAlert.dll
+08/31/2004  03:34 PM            37,504 N32Exclu.dll
+12/09/2003  01:22 PM            62,584 N32call.dll
+08/31/2004  03:34 PM            74,880 NAVAPSCR.dll
+08/31/2004  03:34 PM           218,240 NAVCfgWz.dll
+08/31/2004  03:34 PM           615,552 NAVComUI.dll
+07/27/2002  09:13 AM            11,447 NAVDX.EXE
+07/27/2002  09:13 AM           676,588 NAVDX.OVL
+08/31/2004  03:34 PM            62,592 NAVError.dll
+08/31/2004  03:34 PM           156,800 NAVEvent.dll
+08/03/2002  03:48 PM             6,917 NAVKRNLO.VXD
+08/31/2004  03:34 PM           255,104 NAVLUCBK.dll
+08/31/2004  03:34 PM           107,648 NAVLnch.dll
+08/31/2004  03:34 PM           222,336 NAVLogV.dll
+08/31/2004  03:34 PM           820,352 NAVOpts.dll
+01/23/2001  04:25 PM               447 NAVSTART.DAT
+08/31/2004  03:34 PM           238,720 NAVSTATS.dll
+08/31/2004  03:34 PM           218,240 NAVShExt.dll
+08/31/2004  03:34 PM            54,400 NAVStub.exe
+08/31/2004  03:34 PM           169,088 NAVTasks.dll
+08/31/2004  03:34 PM           246,912 NAVTskWz.dll
+08/31/2004  03:34 PM           308,352 NAVUI.dll
+08/31/2004  03:34 PM           349,312 NAVUIHTM.dll
+07/24/2004  04:47 PM           120,040 Navap32.dll
+08/31/2004  03:34 PM           197,760 Navlcom.dll
+08/31/2004  03:34 PM            50,304 Navntutl.dll
+08/31/2004  03:34 PM           201,856 Navw32.exe
+08/31/2004  03:34 PM            35,968 Navwnt.exe
+12/09/2003  01:22 PM            50,808 NetBrExt.DLL
+08/14/2004  05:17 PM            33,912 OEHeur.dll
+08/14/2004  05:17 PM            70,776 OPScan.exe
+08/14/2004  05:17 PM            58,488 OfficeAV.dll
+08/31/2004  03:34 PM            16,512 PtchInst.dll
+03/20/1988  04:00 AM               612 QuarOpts.dat
+08/05/2004  12:48 PM            11,974 README.TXT
+12/09/2003  01:22 PM           473,720 S32NAVO.DLL
+12/09/2003  01:22 PM            84,600 S32integ.dll
+07/24/2004  04:47 PM           197,864 SAVScan.exe
+08/31/2004  03:34 PM           103,552 SDPCK32I.DLL
+08/31/2004  03:35 PM            13,440 SDSND32I.DLL
+08/31/2004  03:35 PM            13,440 SDSOK32I.DLL
+08/31/2004  03:35 PM            54,400 SDSTP32I.DLL
+08/03/2002  03:41 PM           343,504 SYMNAVO.DLL
+07/24/2004  04:47 PM           222,440 SavRT32.dll
+08/11/2004  01:52 PM             7,311 Savrt.cat
+08/11/2004  01:52 PM               617 Savrt.inf
+08/11/2004  01:52 PM             7,317 Savrtpel.cat
+08/11/2004  01:52 PM               633 Savrtpel.inf
+07/24/2004  04:47 PM            49,808 Savrtpel.sys
+08/31/2004  03:34 PM           185,472 ScanMgr.dll
+08/31/2004  03:34 PM           119,936 Scandlvr.dll
+08/31/2004  03:34 PM           337,024 Scandres.dll
+08/31/2004  03:35 PM           152,704 Statushp.dll
+03/07/2003  10:37 AM                76 THREXCL.DAT
+03/07/2003  10:37 AM                76 THRLEXCL.DAT
+08/03/2002  03:41 PM             5,696 TKNV16O.DLL
+08/03/2002  03:40 PM            19,456 TKNV32O.DLL
+07/27/2002  09:13 AM            44,955 UNDOBOOT.EXE
+08/31/2004  03:11 PM               110 VERSION.DAT
+01/23/2001  04:35 PM                10 VIRSCAN6.INI
+12/26/2005  09:42 PM    <DIR>          WIN98NT
+12/26/2005  09:42 PM    <DIR>          WINME
+12/26/2005  09:42 PM    <DIR>          WINXP
+08/31/2004  03:34 PM            99,456 apwcmd9x.dll
+08/31/2004  03:34 PM           349,312 apwcmdNT.dll
+08/31/2004  03:34 PM           160,896 apwutil.dll
+08/14/2004  05:16 PM            54,392 ccAVMail.dll
+08/14/2004  05:16 PM            95,352 ccIMScan.dll
+08/14/2004  05:17 PM            62,584 ccIMScn.exe
+08/13/2004  06:09 PM            13,475 end_user.txt
+08/31/2004  03:34 PM           176,768 navapsvc.exe
+08/31/2004  03:34 PM           251,008 navapw32.dll
+08/03/2004  12:54 PM             6,940 navopts.dat
+08/31/2004  03:34 PM            87,168 navprod.dll
+06/17/2004  06:51 PM             1,350 navsess.tpl
+06/02/2001  06:59 PM                 0 navsess.txt
+03/08/2002  07:57 AM                16 navui.nsi
+07/24/2004  07:51 AM            26,208 patch25d.dll
+08/31/2004  03:34 PM           197,760 probeGSE.dll
+08/31/2004  03:34 PM            70,784 qconres.dll
+08/31/2004  03:34 PM           214,144 qconsole.exe
+08/31/2004  03:34 PM            26,752 qspak32.dll
+08/31/2004  03:34 PM            99,456 quar32.dll
+06/07/2001  07:09 PM                 0 resqloc.dat
+07/24/2004  04:19 PM             5,444 savrt.dat
+07/24/2004  04:47 PM           335,504 savrt.sys
+07/24/2004  04:38 PM           298,352 savrt.vxd
+07/24/2004  04:39 PM            23,827 savrtpel.vxd
+02/15/2001  04:00 AM               462 scancfg.dat
+              90 File(s)     11,903,751 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\NORTON\APP\WIN98NT
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+07/24/2004  04:19 PM                76 SRTLEXCL.DAT
+08/04/2002  03:52 PM                76 exclude.dat
+06/21/2001  08:21 PM                76 excludel.dat
+07/24/2004  04:19 PM                76 srtsexcl.dat
+               4 File(s)            304 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\NORTON\APP\WINME
+
+01/30/16449  02:43 AM    <DIR>          .
+01/30/16449  02:43 AM    <DIR>          ..
+07/24/2004  04:19 PM                76 SRTLEXCL.DAT
+07/27/2004  10:53 AM               276 exclude.dat
+06/13/2001  08:57 AM                76 excludel.dat
+07/24/2004  04:19 PM               276 srtsexcl.dat
+               4 File(s)            704 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\NORTON\APP\WINXP
+
+01/30/16449  02:43 AM    <DIR>          .
+01/30/16449  02:43 AM    <DIR>          ..
+08/02/2001  11:17 AM               388 EXCLUDEL.DAT
+07/24/2004  04:19 PM               388 SRTLEXCL.DAT
+08/04/2002  03:54 PM                76 exclude.dat
+07/24/2004  04:19 PM                76 srtsexcl.dat
+               4 File(s)            928 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\Symantec
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          NORTON
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\Symantec\NORTON
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:42 PM    <DIR>          Tasks
+07/02/2003  09:49 PM               172 alert.dat
+               1 File(s)            172 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\Symantec\NORTON\Tasks
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+05/12/2001  11:48 AM               420 drives.sca
+05/12/2001  11:48 AM               420 files.sca
+06/14/2001  07:38 PM               428 floppy.sca
+05/12/2001  11:48 AM               420 folders.sca
+05/12/2001  02:28 PM               428 mycomp.sca
+05/12/2001  11:49 AM               436 rem.sca
+               6 File(s)          2,552 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\NAV\External\System32
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+07/24/2004  04:46 PM            39,296 SAVRTGUI.DLL
+               1 File(s)         39,296 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          AdBlck
+08/25/2004  07:10 PM           857,600 AdBlck.msi
+12/26/2005  09:43 PM    <DIR>          Firewall
+08/31/2004  11:37 PM           618,496 Firewall.MSI
+12/26/2005  09:43 PM    <DIR>          ISCommon
+08/31/2004  11:34 PM         2,430,464 ISCommon.MSI
+08/31/2004  10:47 PM                62 NISVER.dat
+08/31/2004  11:41 PM           192,000 OEM.MSI
+12/26/2005  09:43 PM    <DIR>          PControl
+08/31/2004  11:38 PM           865,280 PControl.MSI
+12/26/2005  09:43 PM    <DIR>          Privacy
+08/31/2004  11:37 PM           617,984 Privacy.MSI
+12/26/2005  09:43 PM    <DIR>          Setup
+08/31/2004  11:39 PM           939,008 Setup.MSI
+12/26/2005  09:43 PM    <DIR>          SymLT
+08/31/2004  11:36 PM           713,216 SymLT.msi
+12/26/2005  09:43 PM    <DIR>          asCore
+08/25/2004  07:09 PM           929,792 asCore.msi
+08/12/2004  11:22 AM            33,952 cpdoem.dll
+11/23/2004  09:01 AM             6,340 instopts.dat
+              12 File(s)      8,204,194 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\AdBlck
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\AdBlck\COMMON
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/14/2004  05:17 PM            87,160 PFAdBlk.dll
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               1 File(s)         87,160 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\AdBlck\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ADBLCK
+12/26/2005  09:43 PM    <DIR>          Options
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\AdBlck\COMMON\SYMSHARE\ADBLCK
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/25/2004  07:05 PM            95,344 FREAdblk.dll
+08/25/2004  07:05 PM           173,168 SymWbOpt.dll
+08/25/2004  07:03 PM           197,733 adDef.dat
+               3 File(s)        466,245 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\AdBlck\COMMON\SYMSHARE\Options
+
+08/18/28851  02:45 AM    <DIR>          .
+08/18/28851  02:45 AM    <DIR>          ..
+08/25/2004  04:10 PM            62,560 VTCache.dll
+08/25/2004  07:05 PM           406,640 symad.dll
+               2 File(s)        469,200 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Firewall
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Firewall\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/26/2004  03:09 PM            87,136 FRERules.dll
+08/31/2004  11:29 PM           218,256 FRESettg.dll
+08/31/2004  11:29 PM            78,992 HNetWiz.exe
+07/27/2004  06:07 PM            38,713 TLData.dat
+08/28/2004  08:21 PM           148,600 ccALE.dll
+08/28/2004  08:21 PM           300,152 ccFWSetg.dll
+08/28/2004  08:22 PM           177,272 ccRuleIO.dll
+07/27/2004  06:07 PM            64,098 tldata2.dat
+               8 File(s)      1,113,219 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon
+
+01/18/1622  02:49 PM    <DIR>          .
+01/18/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/26/2004  03:09 PM           246,880 ACDisp.dll
+08/26/2004  03:09 PM           140,384 ALECmpBR.dll
+08/31/2004  11:29 PM            62,608 ALEScan.exe
+08/26/2004  03:09 PM            19,040 ALEUpdat.exe
+08/31/2004  11:29 PM           255,120 AlertAst.exe
+08/31/2004  11:12 PM             1,832 AlertAst.tlb
+08/26/2004  01:02 PM         6,602,325 Ales.xml
+08/26/2004  03:09 PM           107,616 FREAles.dll
+08/26/2004  03:09 PM           328,800 FREInteg.dll
+08/26/2004  03:09 PM            74,848 HNetCore.dll
+08/26/2004  03:09 PM            46,176 ICFMgr.dll
+12/26/2005  09:43 PM    <DIR>          IDSDefs
+08/31/2004  11:29 PM           291,984 ISLAlert.dll
+08/26/2004  03:09 PM           197,728 ISLuCbk.dll
+08/31/2004  11:29 PM            78,992 ISSVC.exe
+08/26/2004  03:09 PM           205,920 ISWrap.dll
+08/31/2004  11:29 PM           136,336 LocWiz.dll
+08/31/2004  11:29 PM           222,352 NISABOUT.DLL
+08/31/2004  11:29 PM           394,384 NISAlert.dll
+08/31/2004  11:29 PM           189,584 NISLUCBK.DLL
+08/31/2004  11:29 PM            95,376 NisLVPlg.dll
+08/31/2004  11:29 PM           226,448 NisTray.dll
+08/31/2004  11:29 PM            42,128 PtchInst.dll
+08/31/2004  11:29 PM           271,504 SFwAlert.dll
+08/31/2004  11:29 PM           291,984 SNLog.dll
+08/28/2004  08:22 PM           144,504 SymFwAgt.DLL
+08/28/2004  08:22 PM           136,312 TLevel.dll
+08/31/2004  11:29 PM           160,912 WrapUM.dll
+08/28/2004  08:22 PM            99,448 ccEmFlSv.exe
+08/28/2004  08:21 PM           132,216 ccEmlflt.dll
+08/26/2004  03:09 PM           926,816 fwUI.dll
+08/31/2004  11:29 PM           144,528 iamstats.exe
+08/26/2004  03:09 PM           308,320 niscmnht.dll
+              32 File(s)     12,583,405 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\APP\IDSDefs
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/24/2004  03:06 PM               443 CATALOG.DAT
+08/24/2004  03:06 PM            24,128 Metadata.dat
+08/25/2004  09:53 AM           261,912 SymIDSCo.sys
+08/25/2004  09:50 AM           274,121 SymIDSCo.vxd
+08/25/2004  09:53 AM           156,888 SymIDSI.dll
+08/25/2004  09:53 AM                32 VIRSCAN1.DAT
+08/25/2004  09:53 AM               967 v.grd
+08/25/2004  09:53 AM             2,227 v.sig
+08/24/2004  03:06 PM               224 zdone.dat
+               9 File(s)        720,942 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\SYMSHARE
+
+01/16/1622  06:46 PM    <DIR>          .
+01/16/1622  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ADBLCK
+12/26/2005  09:43 PM    <DIR>          Options
+12/26/2005  09:43 PM    <DIR>          SPBBC
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\SYMSHARE\ADBLCK
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/31/2004  11:29 PM           103,568 NISShExt.dll
+08/31/2004  11:29 PM           119,952 NSMdtr.exe
+               2 File(s)        223,520 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\SYMSHARE\Options
+
+08/31/2004  10:48 PM    <DIR>          .
+08/31/2004  10:48 PM    <DIR>          ..
+08/25/2004  07:05 PM           124,016 UIHelper.dll
+08/26/2004  03:09 PM            62,560 VTCache.dll
+               2 File(s)        186,576 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\ISCommon\SYMSHARE\SPBBC
+
+08/26/2004  10:51 PM    <DIR>          .
+08/26/2004  10:51 PM    <DIR>          ..
+08/26/2004  03:09 PM            91,232 SPLVPlug.dll
+               1 File(s)         91,232 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\PControl
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+08/28/2004  08:22 PM            42,104 PFRes.dll
+08/28/2004  08:22 PM            24,184 PxyIM.dll
+08/28/2004  08:22 PM            50,296 PxyNNTP.dll
+12/26/2005  09:43 PM    <DIR>          Symantec
+               3 File(s)        116,584 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\PControl\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/31/2004  11:29 PM           124,048 FREPCtrl.dll
+08/31/2004  11:29 PM            41,104 PCWiz.exe
+08/31/2004  11:29 PM           124,048 SYMURL.DLL
+08/31/2004  11:29 PM            33,936 UrlLstCk.exe
+08/31/2004  11:29 PM            54,416 Urlupdat.exe
+08/31/2004  11:29 PM           205,968 pcwiz.dll
+               6 File(s)        583,520 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\PControl\Symantec
+
+08/31/2004  06:51 PM    <DIR>          .
+08/31/2004  06:51 PM    <DIR>          ..
+08/20/2003  10:28 AM            15,004 CATS.DAT
+12/18/1999  07:36 AM                84 CustomB
+12/18/1999  07:36 AM                43 CustomP
+               3 File(s)         15,131 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Privacy
+
+03/25/1622  02:49 PM    <DIR>          .
+03/25/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+08/28/2004  08:22 PM            40,056 PFMisc.dll
+08/28/2004  08:22 PM            99,448 PFPriv.dll
+08/28/2004  08:22 PM            38,008 PFSec.dll
+08/28/2004  08:22 PM            24,184 PxyIM.dll
+               4 File(s)        201,696 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Privacy\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/31/2004  11:29 PM           119,952 FREPrvcy.dll
+               1 File(s)        119,952 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Setup
+
+01/18/1622  02:49 PM    <DIR>          .
+01/18/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Setup\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+07/25/2002  06:50 AM               158 Branding.ini
+08/31/2004  11:29 PM           435,344 CfgWzRes.dll
+08/31/2004  11:30 PM           136,336 ISSTE.dll
+08/31/2004  11:29 PM         1,438,864 NISPLUG.DLL
+05/27/2000  10:13 AM                16 NISPLUG.NSI
+08/31/2004  11:30 PM           443,536 NISProd.dll
+08/31/2004  10:47 PM                62 NISVER.dat
+08/31/2004  11:29 PM           218,256 NisCfgWz.dll
+08/31/2004  11:29 PM            62,608 ObrkAV.dll
+08/31/2004  11:29 PM           279,696 ObrkData.dll
+08/31/2004  11:29 PM            91,280 ObrkIDS.dll
+08/31/2004  11:29 PM           283,792 RLevel.dll
+05/19/2004  07:18 PM               604 cfgwiz.dat
+07/02/2003  03:21 PM                 0 comms.txt
+08/31/2004  11:24 PM           232,869 nisdef.dat
+08/31/2004  11:29 PM           926,864 nisopts.dll
+08/31/2004  11:30 PM           795,792 nisres.dll
+06/30/2004  05:03 PM             1,715 nissess.tpl
+08/31/2004  04:27 PM            18,472 readme.txt
+10/02/2003  11:45 AM             1,974 techinfo.txt
+              20 File(s)      5,368,238 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Setup\SYMSHARE
+
+10/02/2003  06:53 PM    <DIR>          .
+10/02/2003  06:53 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ADBLCK
+12/26/2005  09:43 PM    <DIR>          AntiSpam
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Setup\SYMSHARE\ADBLCK
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/25/2004  07:05 PM           271,472 PxyLog.dll
+               1 File(s)        271,472 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\Setup\SYMSHARE\AntiSpam
+
+08/25/2004  10:49 PM    <DIR>          .
+08/25/2004  10:49 PM    <DIR>          ..
+08/25/2004  07:05 PM            58,480 EudoHelp.exe
+               1 File(s)         58,480 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\SymLT
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          APP
+08/18/2004  07:36 PM           132,248 CfgWiz.exe
+08/18/2004  07:36 PM           169,112 DJSAlert.dll
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               2 File(s)        301,360 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\SymLT\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/31/2004  11:29 PM           398,480 nislcom.dll
+               1 File(s)        398,480 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\SymLT\SYMSHARE
+
+08/31/2004  06:51 PM    <DIR>          .
+08/31/2004  06:51 PM    <DIR>          ..
+08/18/2004  07:22 PM             3,832 CfgWiz.tlb
+08/18/2004  07:36 PM           169,112 SLTCHK01.dll
+06/05/2004  01:18 PM            54,432 SMNLnch.exe
+08/18/2004  07:36 PM            87,192 SymLTCOM.dll
+08/18/2004  07:36 PM           324,760 SymUIAx2.ocx
+               5 File(s)        639,328 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore
+
+03/25/1622  02:49 PM    <DIR>          .
+03/25/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          COMMON
+12/26/2005  09:43 PM    <DIR>          System32
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore\COMMON
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          AntiSpam
+12/26/2005  09:43 PM    <DIR>          Options
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore\COMMON\SYMSHARE\AntiSpam
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/25/2004  07:04 PM            66,672 ASEngBWL.dll
+08/25/2004  07:05 PM           386,160 ASLWrap.dll
+08/25/2004  07:05 PM            58,480 EudoHelp.exe
+08/25/2004  07:05 PM           136,304 EudoPlug.dll
+08/25/2004  07:05 PM           238,704 FRESpam.dll
+08/25/2004  07:05 PM           271,472 MsouPlug.dll
+08/25/2004  06:34 PM                16 NASPLUG.NSI
+08/25/2004  07:05 PM           414,832 NASPlug.dll
+08/25/2004  07:03 PM                70 NASVER.DAT
+08/25/2004  07:04 PM            66,672 asAEmScn.dll
+08/25/2004  07:04 PM            42,608 asAdIPlg.dll
+08/25/2004  07:04 PM           136,304 asAddrBk.dll
+08/25/2004  07:04 PM            50,288 asAuAdIm.dll
+08/25/2004  07:04 PM           160,880 asBAList.dll
+08/25/2004  07:04 PM           144,496 asCompBR.dll
+08/25/2004  07:04 PM            62,576 asEngAB.dll
+08/25/2004  07:04 PM           185,456 asEngBay.dll
+08/25/2004  07:04 PM            50,288 asEngLng.dll
+08/25/2004  07:04 PM            74,864 asEngUR.dll
+08/25/2004  07:04 PM           230,512 asFilter.dll
+08/25/2004  07:04 PM           238,704 asLUCbk.dll
+08/25/2004  07:04 PM           103,536 asLoader.dll
+08/25/2004  07:04 PM            91,248 asLogHlp.dll
+08/25/2004  07:05 PM           197,744 asOEHook.dll
+08/25/2004  07:05 PM            42,096 asOELnch.exe
+08/25/2004  07:05 PM            91,248 asRes.dll
+08/25/2004  07:05 PM           164,976 asSetHlp.dll
+08/25/2004  07:05 PM           144,496 asSpmEvt.dll
+08/25/2004  07:05 PM           144,496 asSpmLog.dll
+08/25/2004  07:05 PM           111,728 asUniPlg.dll
+08/25/2004  07:05 PM            74,864 asWEmScn.dll
+08/25/2004  07:05 PM           140,400 asYahPxy.dll
+08/25/2004  07:04 PM         3,928,064 bteuclid.dll
+08/25/2004  07:04 PM           749,568 btutils.dll
+08/25/2004  07:05 PM           132,208 symspam.dll
+              35 File(s)      9,133,030 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore\COMMON\SYMSHARE\Options
+
+08/25/2004  02:47 AM    <DIR>          .
+08/25/2004  02:47 AM    <DIR>          ..
+08/25/2004  07:05 PM           660,592 ASOpts.dll
+08/25/2004  07:05 PM            74,864 EmlOpts.dll
+08/25/2004  07:05 PM            70,768 LUOpts.dll
+08/25/2004  07:05 PM           193,648 Options.dll
+08/25/2004  07:05 PM           124,016 UIHelper.dll
+08/25/2004  04:10 PM            62,560 VTCache.dll
+               6 File(s)      1,186,448 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Setup\asCore\System32
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+08/25/2004  06:34 PM           246,424 unicows.dll
+               1 File(s)        246,424 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          DCOM98
+12/26/2005  09:43 PM    <DIR>          FRE
+12/26/2005  09:43 PM    <DIR>          HelpMSI
+12/26/2005  09:43 PM    <DIR>          LUpdate
+12/26/2005  09:43 PM    <DIR>          LiveReg
+12/26/2005  09:43 PM    <DIR>          MSI
+12/26/2005  09:43 PM    <DIR>          NISTools
+12/26/2005  09:43 PM    <DIR>          Proxy
+12/26/2005  09:43 PM    <DIR>          Redist
+12/26/2005  09:43 PM    <DIR>          SEVINST
+12/26/2005  09:43 PM    <DIR>          SPBBC
+12/26/2005  09:43 PM    <DIR>          ScrBlock
+12/26/2005  09:43 PM    <DIR>          SpamDefs
+12/26/2005  09:43 PM    <DIR>          SymLnch
+12/26/2005  09:43 PM    <DIR>          SymNet
+12/26/2005  09:43 PM    <DIR>          SymSC
+12/26/2005  09:43 PM    <DIR>          ccCommon
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\DCOM98
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/25/2002  02:29 PM         1,229,056 dcom98.exe
+               1 File(s)      1,229,056 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\FRE
+
+06/25/2002  02:56 PM    <DIR>          .
+06/25/2002  02:56 PM    <DIR>          ..
+02/01/2003  12:44 PM           415,432 FREMSI.exe
+08/31/2004  11:29 PM            99,472 FREUpdt.exe
+               2 File(s)        514,904 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\HelpMSI
+
+08/31/2004  02:53 PM    <DIR>          .
+08/31/2004  02:53 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          External
+08/25/2004  04:06 PM           703,488 Help.msi
+               1 File(s)        703,488 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\HelpMSI\External
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Common
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\HelpMSI\External\Common
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SymShare
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\HelpMSI\External\Common\SymShare
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Help
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\HelpMSI\External\Common\SymShare\Help
+
+01/16/1601  06:39 AM    <DIR>          .
+01/16/1601  06:39 AM    <DIR>          ..
+08/14/2004  11:20 AM            16,700 AB_FAQ.chm
+08/14/2004  11:20 AM            15,212 FAQ.chm
+08/14/2004  11:20 AM            25,386 IDS.chm
+08/14/2004  11:20 AM            31,238 IWP_FWcs.chm
+08/14/2004  11:20 AM            17,071 I_AutoLU.chm
+08/14/2004  11:20 AM            17,638 LU_001.chm
+08/25/2004  04:04 PM             9,728 LU_001.dll
+08/20/2004  08:13 AM            16,214 LU_002.chm
+08/25/2004  04:04 PM             9,728 LU_002.dll
+08/14/2004  11:20 AM            14,750 LU_003.chm
+08/25/2004  04:04 PM             9,728 LU_003.dll
+08/14/2004  11:20 AM            14,508 LU_004.chm
+08/25/2004  04:04 PM             9,728 LU_004.dll
+08/14/2004  11:20 AM            16,366 LU_FAQ.chm
+08/25/2004  04:04 PM             9,728 LU_FAQ.dll
+08/25/2004  04:04 PM             9,728 LU_Mode.dll
+08/14/2004  11:20 AM            18,865 LU_PC.chm
+08/25/2004  04:04 PM             9,728 LU_PC.dll
+08/25/2004  04:04 PM             9,728 LU_Sub.dll
+08/14/2004  11:20 AM            16,344 LU_mode.chm
+08/14/2004  11:20 AM            15,889 LU_sub.chm
+08/14/2004  11:20 AM            15,056 NASFAQst.chm
+08/14/2004  11:20 AM            19,093 NAS_FAQ.chm
+08/14/2004  11:20 AM            14,344 NAS_dis.chm
+08/14/2004  11:20 AM            16,495 NAS_feat.chm
+08/14/2004  11:20 AM            14,649 NAS_mail.chm
+08/14/2004  11:20 AM            16,955 NAS_mon.chm
+08/14/2004  11:20 AM            27,976 NAS_opts.chm
+08/14/2004  11:20 AM            20,101 NAS_task.chm
+08/14/2004  11:20 AM            14,374 NAV_001.chm
+08/25/2004  04:04 PM             9,728 NAV_001.dll
+08/14/2004  11:20 AM            19,680 NAV_C_SB.chm
+08/14/2004  11:20 AM            23,330 NAV_FAQ.chm
+08/14/2004  11:20 AM            16,414 NAV_dis.chm
+08/14/2004  11:20 AM            14,692 NAV_emSS.chm
+08/14/2004  11:20 AM            18,020 NAV_feat.chm
+08/14/2004  11:20 AM            17,905 NAV_mon.chm
+08/14/2004  11:20 AM            58,700 NAV_opts.chm
+08/14/2004  11:20 AM            16,103 NAV_pvnt.chm
+08/20/2004  08:13 AM            32,875 NIS_FAQ.chm
+08/20/2004  08:13 AM            23,872 NIS_acct.chm
+08/14/2004  11:20 AM            16,145 NIS_dis.chm
+08/25/2004  04:03 PM            16,876 NIS_feat.chm
+08/14/2004  11:20 AM            29,032 NIS_mon.chm
+08/20/2004  08:13 AM            24,599 NIS_opts.chm
+08/14/2004  11:20 AM            23,944 NIS_task.chm
+08/14/2004  11:20 AM            16,471 NIS_unin.chm
+08/14/2004  11:20 AM            18,773 Supt_CPD.chm
+08/25/2004  04:05 PM             9,728 Supt_CPD.dll
+08/25/2004  04:03 PM            37,924 SymHelp.chm
+08/14/2004  11:20 AM            16,451 V_AutoLU.chm
+08/14/2004  11:20 AM            23,228 ad_block.chm
+08/14/2004  11:20 AM            15,242 ad_feat.chm
+08/14/2004  11:20 AM            17,044 ad_task.chm
+08/14/2004  11:20 AM            13,555 context.chm
+08/25/2004  04:04 PM             9,728 context.dll
+08/14/2004  11:20 AM            14,208 disable.chm
+08/25/2004  04:04 PM             9,728 disable.dll
+08/14/2004  11:20 AM            16,310 edisk.chm
+08/14/2004  11:20 AM            14,885 emerg.chm
+08/25/2004  04:04 PM             9,728 emerg.dll
+08/25/2004  04:04 PM             9,728 faq.dll
+08/14/2004  11:20 AM            14,251 feat_sum.chm
+08/25/2004  04:04 PM             9,728 feat_sum.dll
+08/14/2004  11:20 AM            54,533 firewall.chm
+08/14/2004  11:20 AM            22,317 location.chm
+08/14/2004  11:20 AM            14,798 monitor.chm
+08/25/2004  04:05 PM             9,728 monitor.dll
+08/14/2004  11:20 AM            14,360 options.chm
+08/25/2004  04:05 PM             9,728 options.dll
+08/17/2004  02:29 PM            18,540 outbreak.chm
+08/14/2004  11:20 AM            33,785 pc.chm
+08/20/2004  08:13 AM            33,736 privctrl.chm
+08/17/2004  02:29 PM            63,471 protect.chm
+08/14/2004  11:20 AM            23,925 sp_block.chm
+08/25/2004  04:05 PM             9,728 symhelp.dll
+08/14/2004  11:20 AM            13,968 unin.chm
+08/25/2004  04:05 PM             9,728 unin.dll
+08/14/2004  11:20 AM            40,470 v_found.chm
+              79 File(s)      1,484,488 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\LUpdate
+
+10/23/1617  02:49 PM    <DIR>          .
+10/23/1617  02:49 PM    <DIR>          ..
+07/20/2004  02:27 PM         1,944,888 LUSetup.exe
+               1 File(s)      1,944,888 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\LiveReg
+
+07/20/2004  02:56 PM    <DIR>          .
+07/20/2004  02:56 PM    <DIR>          ..
+08/22/2004  12:59 PM           103,560 Advisor.exe
+08/22/2004  12:55 PM           238,712 CCWEBWND.DLL
+08/22/2004  12:57 PM            12,043 Defaults.lvr
+08/22/2004  12:59 PM           132,232 IraLrShl.exe
+08/22/2004  12:59 PM           173,192 IraLsCl2.dll
+08/22/2004  12:59 PM            99,464 IraLsClt.dll
+08/22/2004  12:59 PM           201,864 IraVcLc3.dll
+08/22/2004  12:59 PM           177,288 IraVcObj.dll
+08/22/2004  12:59 PM           152,712 LRCtrl.dll
+08/22/2004  12:59 PM           156,808 LRRes.dll
+08/22/2004  12:59 PM           111,752 LSCtrl.dll
+08/22/2004  12:59 PM            99,464 LSPlugin.dll
+08/22/2004  12:55 PM            22,800 ShFolder.dll
+08/22/2004  12:59 PM            87,176 VcClnUp.exe
+08/22/2004  12:59 PM           128,136 VcSetup.exe
+08/22/2004  12:59 PM            58,504 iraDefA2.dll
+08/22/2004  12:59 PM           259,208 iraLSUI.dll
+08/22/2004  12:59 PM            87,176 symcsub.exe
+              18 File(s)      2,302,091 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\MSI
+
+07/09/8553  02:50 PM    <DIR>          .
+07/09/8553  02:50 PM    <DIR>          ..
+03/10/2003  06:15 PM         1,709,160 InstMSIa.exe
+03/10/2003  06:15 PM         1,822,848 InstMSIw.exe
+               2 File(s)      3,532,008 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\NISTools
+
+03/21/18530  02:51 PM    <DIR>          .
+03/21/18530  02:51 PM    <DIR>          ..
+08/31/2004  11:29 PM            54,416 ISRlRstr.exe
+               1 File(s)         54,416 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Proxy
+
+08/31/2004  02:53 PM    <DIR>          .
+08/31/2004  02:53 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ccPxyCre
+08/28/2004  08:32 PM           774,656 ccPxyCre.msi
+12/26/2005  09:43 PM    <DIR>          ccPxyExt
+08/28/2004  08:32 PM           656,896 ccPxyExt.msi
+               2 File(s)      1,431,552 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Proxy\ccPxyCre
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/28/2004  08:21 PM         2,589,816 ccCharCv.dll
+08/28/2004  08:22 PM           234,616 ccProxy.exe
+08/28/2004  08:22 PM            74,872 ccPxyIns.dll
+               3 File(s)      2,899,304 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Proxy\ccPxyExt
+
+08/28/2004  06:54 PM    <DIR>          .
+08/28/2004  06:54 PM    <DIR>          ..
+08/28/2004  08:22 PM           136,312 DPHTML.dll
+08/28/2004  08:22 PM            44,664 DPHTTP.dll
+08/28/2004  08:22 PM            54,392 DPJS.dll
+08/28/2004  08:22 PM            54,392 DPVBS.dll
+08/28/2004  08:22 PM            70,776 PxyHTTP.dll
+08/28/2004  08:22 PM           271,480 ccPxyEvt.dll
+               6 File(s)        632,016 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Redist
+
+03/25/1622  02:49 PM    <DIR>          .
+03/25/1622  02:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          MSRedist
+08/31/2004  11:41 PM           356,864 MSRedist.msi
+               1 File(s)        356,864 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Redist\MSRedist
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Ansi
+03/09/1999  09:50 AM           147,728 asycfilt.dll
+04/07/2000  05:09 PM            58,938 atl.dll
+03/19/2003  04:05 PM            89,088 atl71.dll
+12/10/1998  09:52 AM            22,288 comcat.dll
+05/23/2000  01:58 PM           608,448 comctl32.ocx
+04/07/2000  05:13 PM           995,383 mfc42.dll
+03/19/2003  06:20 PM         1,060,864 mfc71.dll
+03/19/2003  06:12 PM         1,047,552 mfc71u.dll
+05/23/2000  01:58 PM         1,066,176 mscomctl.ocx
+04/07/2000  05:10 PM            77,878 msvcirt.dll
+04/07/2000  05:10 PM           401,462 msvcp60.dll
+03/19/2003  05:14 PM           499,712 msvcp71.dll
+02/22/2003  01:42 AM           348,160 msvcr71.dll
+04/07/2000  05:10 PM           278,581 msvcrt.dll
+07/31/2001  02:42 PM         1,118,720 msxml3.dll
+07/31/2001  02:40 PM            24,576 msxml3a.dll
+07/31/2001  02:40 PM            44,032 msxml3r.dll
+04/13/2000  11:00 AM           598,288 oleaut32.dll
+03/09/1999  09:50 AM           164,112 olepro32.dll
+03/29/2000  01:58 PM            17,920 stdole2.tlb
+              20 File(s)      8,669,906 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\Redist\MSRedist\Ansi
+
+01/15/1601  10:44 PM    <DIR>          .
+01/15/1601  10:44 PM    <DIR>          ..
+04/07/2000  05:09 PM            73,785 atl.dll
+03/19/2003  04:05 PM           106,496 atl71.dll
+               2 File(s)        180,281 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SEVINST
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+08/27/2004  11:03 AM           623,840 sevinst.exe
+               1 File(s)        623,840 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SPBBC
+
+08/27/2004  02:54 PM    <DIR>          .
+08/27/2004  02:54 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Common
+07/22/2004  01:24 PM           646,064 SPBBC.msi
+               1 File(s)        646,064 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SPBBC\Common
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SPBBC\Common\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SPBBC
+07/22/2004  01:24 PM                 0 SPPolicy.log
+07/22/2004  01:24 PM                 0 SPStart.log
+07/22/2004  01:24 PM                 0 SPStop.log
+               3 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SPBBC\Common\SYMSHARE\SPBBC
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+07/27/2004  09:26 PM             7,317 SPBBCDrv.CAT
+07/22/2004  01:24 PM               641 SPBBCDrv.inf
+07/22/2004  01:24 PM           341,096 SPBBCDrv.sys
+07/22/2004  01:24 PM           259,176 SPBBCEvt.dll
+07/22/2004  01:24 PM           173,160 SPBBCSvc.exe
+07/22/2004  01:24 PM           697,448 UpdMgr.exe
+               6 File(s)      1,478,838 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\ScrBlock
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/30/2003  04:18 PM             1,816 NISSBALE
+08/31/2004  03:58 PM           577,024 ScrBlock.msi
+               2 File(s)        578,840 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SpamDefs
+
+08/31/2004  02:53 PM    <DIR>          .
+08/31/2004  02:53 PM    <DIR>          ..
+08/25/2004  06:34 PM         1,756,269 english.mbk
+               1 File(s)      1,756,269 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymLnch
+
+08/09/25855  02:52 PM    <DIR>          .
+08/09/25855  02:52 PM    <DIR>          ..
+08/22/2004  12:31 PM            73,728 SymLnch.exe
+               1 File(s)         73,728 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet
+
+08/15/13723  02:50 PM    <DIR>          .
+08/15/13723  02:50 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SymNet
+08/28/2004  07:03 PM           497,664 SymNet.msi
+               1 File(s)        497,664 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SYMSHARE
+12/26/2005  09:43 PM    <DIR>          System
+12/26/2005  09:43 PM    <DIR>          System32
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/28/2004  06:51 PM             4,756 Default.rul
+12/26/2005  09:43 PM    <DIR>          IDS
+08/28/2004  07:02 PM            29,920 SNDInst.exe
+08/28/2004  07:02 PM           206,048 SNDSrvc.exe
+08/28/2004  07:02 PM            83,096 SNDunin.dll
+08/28/2004  06:51 PM               324 Validate.dat
+               5 File(s)        324,144 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet\SYMSHARE\IDS
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/25/2004  09:54 AM         1,225,944 IdsInst.exe
+               1 File(s)      1,225,944 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet\System
+
+06/28/1620  10:44 PM    <DIR>          .
+06/28/1620  10:44 PM    <DIR>          ..
+08/28/2004  06:53 PM            10,887 symdns.vxd
+08/28/2004  06:54 PM           208,502 symfw.vxd
+08/28/2004  06:54 PM            34,683 symids.vxd
+08/28/2004  06:54 PM            32,958 symndis.vxd
+08/28/2004  06:54 PM            20,626 symredrv.vxd
+08/28/2004  06:54 PM           244,285 symtdi.vxd
+               6 File(s)        551,941 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet\System32
+
+08/28/2004  10:49 PM    <DIR>          .
+08/28/2004  10:49 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Drivers
+08/28/2004  07:02 PM           513,248 SymNeti.dll
+08/28/2004  07:02 PM           140,512 SymRedir.dll
+               2 File(s)        653,760 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymNet\SymNet\System32\Drivers
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/28/2004  06:51 PM                20 SymRedir.cat
+08/28/2004  06:51 PM             1,133 SymRedir.inf
+08/28/2004  07:02 PM            11,040 symdns.sys
+08/28/2004  07:02 PM           171,424 symfw.sys
+08/28/2004  07:02 PM            34,496 symids.sys
+08/28/2004  07:02 PM            46,208 symndis.sys
+08/28/2004  07:02 PM            25,824 symredrv.sys
+08/28/2004  07:02 PM           266,464 symtdi.sys
+               8 File(s)        556,609 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymSC
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SYMWMIAV
+08/06/2004  02:24 PM           421,888 SYMWMIAV.MSI
+12/26/2005  09:43 PM    <DIR>          SYMWMIIS
+08/06/2004  02:24 PM           421,888 SYMWMIIS.MSI
+               2 File(s)        843,776 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymSC\SYMWMIAV
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SymSC
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymSC\SYMWMIAV\SymSC
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/06/2004  02:20 PM               460 SSCOpts.dat
+08/06/2004  02:23 PM           283,776 SymSCWb.dll
+08/06/2004  02:23 PM           218,240 UsrPrmpt.exe
+08/06/2004  02:23 PM           132,224 WSCHlpr.dll
+               4 File(s)        634,700 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymSC\SYMWMIIS
+
+01/29/1622  06:46 PM    <DIR>          .
+01/29/1622  06:46 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          SymSC
+               0 File(s)              0 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\SymSC\SYMWMIIS\SymSC
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/06/2004  02:20 PM               460 SSCOpts.dat
+08/06/2004  02:23 PM           283,776 SymSCWb.dll
+08/06/2004  02:23 PM           218,240 UsrPrmpt.exe
+08/06/2004  02:23 PM           132,224 WSCHlpr.dll
+               4 File(s)        634,700 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\ccCommon
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          ccCommon
+08/28/2004  08:32 PM         1,190,400 ccCommon.msi
+               1 File(s)      1,190,400 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\Support\ccCommon\ccCommon
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+07/09/2004  01:50 PM            30,602 CCLGVIEW.CHM
+08/05/2004  11:15 AM            91,248 Dec2.dll
+08/05/2004  11:15 AM           119,920 Dec2AMG.dll
+08/05/2004  11:15 AM            66,672 Dec2ARJ.dll
+08/05/2004  11:15 AM            78,960 Dec2CAB.dll
+08/05/2004  11:15 AM            99,440 Dec2GZIP.dll
+08/05/2004  11:15 AM            54,384 Dec2ID.dll
+08/05/2004  11:15 AM            87,152 Dec2LHA.dll
+08/05/2004  11:15 AM            58,480 Dec2LZ.dll
+08/05/2004  11:15 AM           140,400 Dec2RAR.dll
+08/05/2004  11:15 AM            83,056 Dec2RTF.dll
+08/05/2004  11:15 AM            91,248 Dec2SS.dll
+08/05/2004  11:15 AM            66,672 Dec2TAR.dll
+08/05/2004  11:15 AM            91,248 Dec2TNEF.dll
+08/05/2004  11:15 AM           234,608 Dec2Text.dll
+08/05/2004  11:15 AM           238,704 Dec2Zip.dll
+08/05/2004  11:15 AM            62,576 DecSDK.dll
+08/14/2004  10:06 AM           709,728 DefUtDCD.dll
+08/28/2004  08:22 PM           701,560 NMain.exe
+08/28/2004  08:21 PM           242,808 ccAlert.dll
+08/28/2004  08:22 PM            58,488 ccApp.exe
+08/28/2004  08:21 PM            38,520 ccDec.dll
+08/28/2004  08:21 PM           189,560 ccEmlPxy.dll
+08/28/2004  08:21 PM            99,448 ccErrDsp.dll
+08/28/2004  08:22 PM           197,752 ccEvtMgr.exe
+08/28/2004  08:22 PM            58,488 ccInst.dll
+08/28/2004  08:28 PM           240,760 ccL30.dll
+08/28/2004  08:22 PM           251,000 ccLgView.exe
+08/28/2004  08:21 PM           115,832 ccLogin.dll
+08/28/2004  08:21 PM            62,584 ccProSub.dll
+08/28/2004  08:21 PM            46,200 ccProd.dll
+08/28/2004  08:22 PM           132,216 ccPwd.dll
+08/28/2004  08:22 PM            78,968 ccPwdSvc.exe
+08/28/2004  08:22 PM           145,016 ccScan.dll
+08/28/2004  08:22 PM            87,160 ccSet.dll
+08/28/2004  08:22 PM            87,160 ccSetEvt.dll
+08/28/2004  08:22 PM           164,984 ccSetMgr.exe
+08/28/2004  08:22 PM            78,968 ccVrTrst.dll
+08/28/2004  08:22 PM           238,712 ccWebWnd.dll
+04/23/2004  02:22 PM            42,112 ecmldr32.DLL
+              40 File(s)      5,763,394 bytes
+
+ Directory of G:\SOFTWARE\AntiVirus\VirusDef
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+08/11/2004  10:00 PM             2,390 CATALOG.DAT
+07/19/2002  11:33 AM            69,632 DefInst.exe
+08/11/2004  10:00 PM             6,891 ECBOOTIL.VXD
+08/11/2004  10:00 PM           205,952 ECMSVR32.DLL
+08/11/2004  10:00 PM             1,659 HH
+08/11/2004  10:00 PM           101,456 NAVENG.EXP
+08/11/2004  10:00 PM            68,168 NAVENG.SYS
+08/11/2004  10:00 PM           120,818 NAVENG.VXD
+08/11/2004  10:00 PM           119,976 NAVENG32.DLL
+08/11/2004  10:00 PM           840,528 NAVEX15.EXP
+08/11/2004  10:00 PM           617,288 NAVEX15.SYS
+08/11/2004  10:00 PM           876,529 NAVEX15.VXD
+08/11/2004  10:00 PM           672,936 NAVEX32A.DLL
+08/11/2004  10:00 PM             6,536 NCSACERT.TXT
+08/11/2004  10:00 PM            83,872 SCRAUTH.DAT
+08/11/2004  10:00 PM             8,137 SYMAVENG.CAT
+08/11/2004  10:00 PM               900 SYMAVENG.INF
+08/11/2004  10:00 PM             5,539 TCDEFS.DAT
+08/11/2004  10:00 PM           102,287 TCSCAN7.DAT
+08/11/2004  10:00 PM            54,685 TCSCAN8.DAT
+08/11/2004  10:00 PM           172,099 TCSCAN9.DAT
+08/11/2004  10:00 PM               875 TECHNOTE.TXT
+08/11/2004  10:00 PM               453 TINF.DAT
+08/11/2004  10:00 PM               148 TINFIDX.DAT
+08/11/2004  10:00 PM             1,957 TINFL.DAT
+08/11/2004  10:00 PM            35,456 TSCAN1.DAT
+08/11/2004  10:00 PM             1,179 TSCAN1HD.DAT
+08/11/2004  10:00 PM             5,382 V.GRD
+08/11/2004  10:00 PM             2,225 V.SIG
+08/11/2004  10:00 PM           106,244 VIRSCAN.INF
+08/11/2004  10:00 PM           882,287 VIRSCAN1.DAT
+08/11/2004  10:00 PM           527,511 VIRSCAN2.DAT
+08/11/2004  10:00 PM           144,164 VIRSCAN3.DAT
+08/11/2004  10:00 PM           316,532 VIRSCAN4.DAT
+08/11/2004  10:00 PM            70,696 VIRSCAN5.DAT
+08/11/2004  10:00 PM           377,630 VIRSCAN6.DAT
+08/11/2004  10:00 PM         1,266,347 VIRSCAN7.DAT
+08/11/2004  10:00 PM         1,126,873 VIRSCAN8.DAT
+08/11/2004  10:00 PM         1,515,246 VIRSCAN9.DAT
+08/11/2004  10:00 PM                32 VIRSCANT.DAT
+08/11/2004  10:00 PM            24,838 WHATSNEW.TXT
+08/11/2004  10:00 PM               224 ZDONE.DAT
+              42 File(s)     10,544,577 bytes
+
+ Directory of G:\SOFTWARE\AsusUpdt
+
+01/17/1622  06:54 AM    <DIR>          .
+01/17/1622  06:54 AM    <DIR>          ..
+01/13/2006  02:44 PM           486,400 AsusSetup.exe
+07/24/2006  10:18 AM             2,025 AsusSetup.ini
+04/25/2005  07:31 PM               209 English.ini
+08/02/2005  01:46 PM               285 French.ini
+07/28/2005  06:31 PM               337 German.ini
+07/27/2005  05:02 PM               217 Japanese.ini
+08/03/2005  09:25 AM               182 SChinese.ini
+09/05/2001  04:03 AM           168,448 Setup.exe
+07/24/2006  10:03 AM               210 Setup.ini
+04/25/2005  07:31 PM               191 TChinese.ini
+07/24/2006  10:03 AM         1,714,341 data1.cab
+07/24/2006  10:03 AM            19,404 data1.hdr
+07/24/2006  10:03 AM         1,868,896 data2.cab
+07/25/2002  03:07 PM           346,602 ikernel.ex_
+07/24/2006  10:03 AM               417 layout.bin
+07/24/2006  10:03 AM           143,622 setup.inx
+10/07/2005  09:44 AM               670 setup.iss
+              17 File(s)      4,752,456 bytes
+
+ Directory of G:\SOFTWARE\DirectX
+
+10/07/2005  07:01 AM    <DIR>          .
+10/07/2005  07:01 AM    <DIR>          ..
+04/23/2005  03:04 AM           471,552 AsusSetup.exe
+09/21/2005  10:27 AM             2,017 AsusSetup.ini
+07/09/2004  03:13 PM           703,080 BDA.cab
+07/20/2004  04:58 AM         1,156,363 BDANT.cab
+07/20/2004  04:53 AM           976,020 BDAXP.cab
+07/09/2004  09:03 AM            62,976 DSETUP.dll
+07/09/2004  03:13 PM        15,493,481 DirectX.cab
+05/20/2005  10:31 PM             1,240 English.ini
+07/29/2005  12:03 AM               276 French.ini
+07/29/2005  02:09 AM             1,353 German.ini
+07/28/2005  01:05 AM             1,333 Japanese.ini
+07/22/2004  04:51 PM         3,432,656 ManagedDX.CAB
+08/03/2005  05:20 PM               246 SChinese.ini
+05/20/2005  10:23 PM             1,138 TChinese.ini
+07/09/2004  10:08 AM         2,242,560 dsetup32.dll
+07/09/2004  08:17 PM        13,265,040 dxnt.cab
+07/09/2004  10:08 AM           472,576 dxsetup.exe
+              17 File(s)     38,283,907 bytes
+
+ Directory of G:\SOFTWARE\LOGO
+
+01/04/3038  06:54 AM    <DIR>          .
+01/04/3038  06:54 AM    <DIR>          ..
+02/17/2001  01:45 AM           153,716 INTERIOR1.BMP
+02/17/2001  01:45 AM           153,716 INTERIOR2.BMP
+09/14/2005  05:16 PM           153,712 P5VDC-MX.bmp
+02/17/2001  01:45 AM           153,720 SCAPE1.BMP
+02/17/2001  01:45 AM           153,720 SCEN1.BMP
+12/01/2001  03:07 AM           153,720 SCREEN1.BMP
+12/04/2001  01:42 AM           153,720 SCREEN3.BMP
+02/17/2001  01:45 AM           153,720 SEA2.BMP
+02/17/2001  01:45 AM           153,716 SEASON1.BMP
+02/17/2001  01:45 AM           153,716 SKETCH1.BMP
+10/12/2001  05:52 AM           153,718 TEACHING.BMP
+              11 File(s)      1,690,894 bytes
+
+ Directory of G:\SOFTWARE\ProbeII
+
+09/04/27785  06:57 AM    <DIR>          .
+09/04/27785  06:57 AM    <DIR>          ..
+12/26/2005  09:43 PM    <DIR>          Acpi
+12/26/2005  09:43 PM    <DIR>          Acpi64
+04/26/2005  03:31 AM           468,992 AsusSetup.exe
+09/21/2005  10:27 AM             2,009 AsusSetup.ini
+04/26/2005  03:31 AM               145 English.ini
+08/11/2005  12:00 AM               195 French.ini
+09/02/2005  05:28 PM               201 German.ini
+12/26/2005  09:43 PM    <DIR>          Io
+09/02/2005  05:26 PM               148 Japanese.ini
+09/02/2005  05:25 PM               129 SChinese.ini
+09/05/2001  11:23 AM            56,320 Setup.exe
+08/09/2005  05:36 PM               133 Setup.ini
+04/26/2005  03:31 AM               132 TChinese.ini
+08/09/2005  05:36 PM           466,818 data1.cab
+08/09/2005  05:36 PM            51,231 data1.hdr
+08/09/2005  05:36 PM         3,690,674 data2.cab
+07/25/2002  11:07 PM           346,602 ikernel.ex_
+08/09/2005  05:36 PM               417 layout.bin
+04/01/2005  05:58 PM         3,006,369 manual.pdf
+07/21/2005  04:05 PM           139,683 setup.inx
+12/30/2004  09:37 PM                91 setup.log
+              18 File(s)      8,230,289 bytes
+
+ Directory of G:\SOFTWARE\ProbeII\Acpi
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+04/18/2005  09:29 PM            32,768 AsAcpiIns.exe
+12/26/2005  09:43 PM    <DIR>          WIN2000
+04/22/2004  06:13 PM               314 install.ini
+               2 File(s)         33,082 bytes
+
+ Directory of G:\SOFTWARE\ProbeII\Acpi\WIN2000
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+03/02/2003  10:00 PM            45,056 2000UNIN.EXE
+08/20/2004  03:58 PM             7,790 ATK2000.CAT
+08/19/2004  04:48 PM             2,093 ATK2000.INF
+08/13/2004  05:56 PM             5,810 asacpi.sys
+               4 File(s)         60,749 bytes
+
+ Directory of G:\SOFTWARE\ProbeII\Acpi64
+
+01/17/1622  10:52 AM    <DIR>          .
+01/17/1622  10:52 AM    <DIR>          ..
+04/18/2005  09:45 PM            37,888 AsAcpiIns.exe
+04/22/2004  06:13 PM               314 install.ini
+12/26/2005  09:43 PM    <DIR>          win2000
+               2 File(s)         38,202 bytes
+
+ Directory of G:\SOFTWARE\ProbeII\Acpi64\win2000
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+04/04/2005  11:50 AM             7,814 ATK2000.CAT
+01/11/2005  06:36 PM             2,160 ATK2000.INF
+03/28/2005  05:30 PM             8,192 Asacpi.sys
+               3 File(s)         18,166 bytes
+
+ Directory of G:\SOFTWARE\ProbeII\Io
+
+01/28/1622  10:52 AM    <DIR>          .
+01/28/1622  10:52 AM    <DIR>          ..
+11/19/2003  04:06 AM             5,764 AsIO.VXD
+01/28/2005  11:44 PM            24,576 AsIO.dll
+10/15/2004  12:52 AM             4,962 AsIO32.sys
+10/15/2004  12:53 AM             6,656 AsIO64.sys
+04/18/2005  08:34 PM           106,496 AsIoIns.exe
+07/20/2004  10:15 PM           122,880 AsIoUnins.exe
+04/14/2005  09:31 PM                57 Version.ini
+               7 File(s)        271,391 bytes
+
+ Directory of G:\SOFTWARE\SCRNSAVR
+
+01/26/1621  06:54 AM    <DIR>          .
+01/26/1621  06:54 AM    <DIR>          ..
+03/18/2005  02:18 AM           466,432 ASUSSETUP.EXE
+11/29/2005  10:04 AM             2,015 ASUSSETUP.INI
+07/06/2004  05:59 PM         2,648,164 ASUS_AI_PROACTIVE_SCREENSA.EXE
+02/17/2005  09:47 AM                82 ENGLISH.INI
+02/17/2005  09:46 AM                75 TCHINESE.INI
+               5 File(s)      3,116,768 bytes
+
+     Total Files Listed:
+            2086 File(s)    612,661,504 bytes
+            1129 Dir(s)               0 bytes free

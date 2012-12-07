@@ -1,0 +1,121 @@
+ Volume in drive G is GHOST RECONT
+ Volume Serial Number is C42D-20B8
+
+ Directory of G:\
+
+11/14/2005  06:51 AM    <DIR>          GRecon (G)
+               0 File(s)              0 bytes
+
+ Directory of G:\GRecon (G)
+
+11/14/2005  06:51 AM    <DIR>          .
+11/14/2005  06:55 AM    <DIR>          ..
+10/12/2001  04:47 PM             2,048 00000001.TMP
+10/12/2001  04:47 PM           153,720 00000409.016
+10/12/2001  04:47 PM           308,276 00000409.256
+11/14/2005  06:55 AM    <DIR>          Autorun
+09/18/2001  11:07 PM                53 Autorun.inf
+09/18/2001  11:07 PM             7,078 Ghost.ico
+10/01/2001  11:48 PM         5,757,681 GhostRecon.exe
+11/14/2005  06:54 AM    <DIR>          Help
+09/21/2001  12:42 AM             3,434 IgorHelp.txt
+09/19/2001  03:24 AM            31,678 IgorScripting.txt
+09/18/2001  11:07 PM               766 RSEblack.ico
+11/14/2005  06:54 AM    <DIR>          Razor1911
+09/29/2001  04:16 AM            19,748 ReadMe.txt
+11/14/2005  06:54 AM    <DIR>          Registration
+09/18/2001  11:07 PM           921,656 Setup.bmp
+04/12/2001  01:28 AM            54,784 Setup.exe
+10/02/2001  02:14 PM                83 Setup.ini
+10/02/2001  02:14 PM           140,605 Setup.inx
+10/02/2001  02:15 PM           984,914 data1.cab
+10/02/2001  02:19 PM           642,275 data1.hdr
+10/02/2001  02:19 PM       549,643,435 data2.cab
+11/14/2005  06:54 AM    <DIR>          directx8
+10/12/2001  04:47 PM            34,304 drvmgt.dll
+10/01/2001  11:51 PM         5,427,265 igor.exe
+04/12/2001  01:29 AM           340,866 ikernel.ex_
+10/02/2001  02:19 PM               435 layout.bin
+10/12/2001  04:47 PM            28,624 secdrv.sys
+11/14/2005  06:54 AM    <DIR>          ubicom
+09/28/2001  11:16 PM            10,134 ubicom.ico
+              23 File(s)    564,513,862 bytes
+
+ Directory of G:\GRecon (G)\Autorun
+
+11/14/2005  06:55 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+09/18/2001  11:07 PM           875,752 AutoRun.bmp
+09/29/2001  03:54 AM            86,016 AutoRun.exe
+               2 File(s)        961,768 bytes
+
+ Directory of G:\GRecon (G)\Help
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+11/14/2005  06:54 AM    <DIR>          Images
+09/18/2001  11:07 PM               766 RSEblack.ico
+09/18/2001  11:07 PM                42 Redstorm.url
+09/21/2001  12:41 AM            89,904 Support.htm
+               3 File(s)         90,712 bytes
+
+ Directory of G:\GRecon (G)\Help\Images
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:54 AM    <DIR>          ..
+09/18/2001  11:07 PM            27,216 DiskSpace.jpg
+09/18/2001  11:07 PM            71,091 DxDisplay.jpg
+09/18/2001  11:07 PM            38,018 OptPerf.jpg
+09/18/2001  11:07 PM            18,858 closeall.jpg
+09/18/2001  11:07 PM            61,457 dxdiag.jpg
+09/18/2001  11:07 PM            55,741 dxsound.jpg
+               6 File(s)        272,381 bytes
+
+ Directory of G:\GRecon (G)\Razor1911
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+10/01/2001  11:48 PM         4,874,240 GhostRecon.exe
+11/08/2001  07:30 PM            48,640 cracktro.exe
+11/08/2001  07:30 PM             4,792 rzr-tcgr.nfo
+               3 File(s)      4,927,672 bytes
+
+ Directory of G:\GRecon (G)\Registration
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+08/15/2001  08:40 PM         3,129,344 UBI1.exe
+               1 File(s)      3,129,344 bytes
+
+ Directory of G:\GRecon (G)\directx8
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+11/04/2000  06:05 AM           562,501 bda.cab
+11/04/2000  06:05 AM           561,157 bdant.cab
+09/22/2000  05:10 PM            41,984 cfgmgr32.dll
+11/04/2000  05:38 AM        14,446,832 directx.cab
+10/25/2000  03:48 PM            44,544 dsetup.dll
+10/21/2000  06:39 AM         1,772,544 dsetup32.dll
+11/04/2000  04:04 AM        10,051,971 dxnt.cab
+10/21/2000  06:39 AM           147,456 dxsetup.exe
+09/22/2000  05:10 PM           341,264 setupapi.dll
+               9 File(s)     27,970,253 bytes
+
+ Directory of G:\GRecon (G)\ubicom
+
+11/14/2005  06:54 AM    <DIR>          .
+11/14/2005  06:51 AM    <DIR>          ..
+04/12/2001  01:28 AM            54,784 Setup.exe
+10/01/2001  09:56 PM                79 Setup.ini
+10/01/2001  09:57 PM           672,245 data1.cab
+10/01/2001  09:57 PM            77,961 data1.hdr
+10/01/2001  09:57 PM         3,996,818 data2.cab
+04/12/2001  01:29 AM           340,866 ikernel.ex_
+10/01/2001  09:57 PM               417 layout.bin
+10/01/2001  09:56 PM           156,405 setup.inx
+               8 File(s)      5,299,575 bytes
+
+     Total Files Listed:
+              55 File(s)    607,165,567 bytes
+              24 Dir(s)               0 bytes free

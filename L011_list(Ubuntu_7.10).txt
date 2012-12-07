@@ -1,0 +1,2011 @@
+ Volume in drive F is DVD1-IL012008
+ Volume Serial Number is C1AA-6439
+
+ Directory of F:\
+
+10/16/2007  06:53 AM    <DIR>          .disk
+12/04/2007  11:54 PM    <DIR>          IL-012008
+12/05/2007  12:06 AM            47,169 MD5SUM-DVD_01-2008
+10/16/2007  06:53 AM               222 README.diskdefines
+05/28/2006  09:36 PM                42 autorun.inf
+05/29/2007  10:19 PM    <DIR>          bin
+10/16/2007  06:53 AM    <DIR>          casper
+05/29/2007  10:19 PM    <DIR>          disctree
+10/16/2007  06:53 AM    <DIR>          dists
+10/16/2007  06:53 AM    <DIR>          install
+10/16/2007  06:53 AM    <DIR>          isolinux
+10/16/2007  06:53 AM            33,690 md5sum.txt
+10/16/2007  06:53 AM    <DIR>          pics
+10/16/2007  06:53 AM    <DIR>          pool
+10/16/2007  06:53 AM    <DIR>          preseed
+09/25/2007  04:40 PM    <DIR>          programs
+03/25/2007  11:28 PM           255,358 start.bmp
+11/18/2003  12:09 AM            38,912 start.exe
+06/29/2005  03:23 PM                95 start.ini
+12/05/2007  12:08 AM                 0 ubuntu
+05/28/2006  09:36 PM           193,110 ubuntu.ico
+10/12/2007  07:26 AM           644,264 wubi-cdboot.exe
+              10 File(s)      1,212,862 bytes
+
+ Directory of F:\.disk
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:53 AM                37 casper-uuid-generic
+10/16/2007  06:53 AM                52 info
+10/16/2007  06:53 AM                77 release_notes_url
+               3 File(s)            166 bytes
+
+ Directory of F:\IL-012008
+
+12/04/2007  11:54 PM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          backup
+12/03/2007  06:22 AM    <DIR>          browser
+12/03/2007  06:23 AM    <DIR>          distro
+11/30/2007  03:58 PM    <DIR>          download
+11/30/2007  03:58 PM    <DIR>          driver
+11/30/2007  04:08 PM    <DIR>          finansial
+12/03/2007  06:25 AM    <DIR>          internet
+11/30/2007  03:58 PM    <DIR>          matematika
+11/30/2007  04:08 PM    <DIR>          medikal
+11/30/2007  04:08 PM    <DIR>          multimedia
+12/03/2007  06:26 AM    <DIR>          pdf
+12/03/2007  06:28 AM    <DIR>          penting
+11/30/2007  04:08 PM    <DIR>          permainan
+11/30/2007  04:08 PM    <DIR>          pesan
+11/30/2007  03:58 PM    <DIR>          plugins
+12/04/2007  11:26 PM    <DIR>          rubrik
+11/30/2007  04:08 PM    <DIR>          utiliti
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\backup
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          shrinkta-0.1-8
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\backup\shrinkta-0.1-8
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM           521,160 shrinkta-0.1.tar.gz
+               1 File(s)        521,160 bytes
+
+ Directory of F:\IL-012008\browser
+
+12/03/2007  06:22 AM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:59 PM    <DIR>          firefox-2.0.0.10
+11/30/2007  03:59 PM    <DIR>          opera-9.24
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\browser\firefox-2.0.0.10
+
+11/30/2007  03:59 PM    <DIR>          .
+12/03/2007  06:22 AM    <DIR>          ..
+11/30/2007  03:59 PM         9,679,004 firefox-2.0.0.10.tar.gz
+               1 File(s)      9,679,004 bytes
+
+ Directory of F:\IL-012008\browser\opera-9.24
+
+11/30/2007  03:59 PM    <DIR>          .
+12/03/2007  06:22 AM    <DIR>          ..
+11/30/2007  03:59 PM    <DIR>          fedora-7
+11/30/2007  03:59 PM    <DIR>          static-deb
+11/30/2007  03:59 PM    <DIR>          static-rpm
+11/30/2007  03:59 PM    <DIR>          ubuntu-7.10
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\browser\opera-9.24\fedora-7
+
+11/30/2007  03:59 PM    <DIR>          .
+11/30/2007  03:59 PM    <DIR>          ..
+11/30/2007  03:59 PM         5,691,129 opera-9.24-20071015.6-shared-qt.i386-en.tar.gz
+               1 File(s)      5,691,129 bytes
+
+ Directory of F:\IL-012008\browser\opera-9.24\static-deb
+
+11/30/2007  03:59 PM    <DIR>          .
+11/30/2007  03:59 PM    <DIR>          ..
+11/30/2007  03:59 PM         7,322,685 opera-9.24-20071015.1-static-qt.i386-en.tar.gz
+               1 File(s)      7,322,685 bytes
+
+ Directory of F:\IL-012008\browser\opera-9.24\static-rpm
+
+11/30/2007  03:59 PM    <DIR>          .
+11/30/2007  03:59 PM    <DIR>          ..
+11/30/2007  03:59 PM         7,322,685 opera-9.24-20071015.1-static-qt.i386-en.tar.gz
+               1 File(s)      7,322,685 bytes
+
+ Directory of F:\IL-012008\browser\opera-9.24\ubuntu-7.10
+
+11/30/2007  03:59 PM    <DIR>          .
+11/30/2007  03:59 PM    <DIR>          ..
+11/30/2007  03:59 PM         5,691,129 opera-9.24-20071015.6-shared-qt.i386-en.tar.gz
+               1 File(s)      5,691,129 bytes
+
+ Directory of F:\IL-012008\distro
+
+12/03/2007  06:23 AM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+12/03/2007  06:16 AM    <DIR>          edubuntu-7.10
+12/03/2007  06:25 AM    <DIR>          ipcop-1.4.16
+12/03/2007  06:17 AM    <DIR>          kubuntu-7.10
+12/03/2007  06:15 AM    <DIR>          ubuntu-7.10
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\distro\edubuntu-7.10
+
+12/03/2007  06:16 AM    <DIR>          .
+12/03/2007  06:23 AM    <DIR>          ..
+10/25/2007  09:28 AM       728,905,728 edubuntu-7.10-desktop-i386.iso
+10/25/2007  09:42 AM       726,933,504 edubuntu-7.10-server-i386.iso
+               2 File(s)  1,455,839,232 bytes
+
+ Directory of F:\IL-012008\distro\ipcop-1.4.16
+
+12/03/2007  06:25 AM    <DIR>          .
+12/03/2007  06:23 AM    <DIR>          ..
+12/03/2007  06:25 AM    <DIR>          doc
+11/30/2007  03:58 PM        48,338,944 ipcop-1.4.16-install-cd.i386.iso
+               1 File(s)     48,338,944 bytes
+
+ Directory of F:\IL-012008\distro\ipcop-1.4.16\doc
+
+12/03/2007  06:25 AM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  03:58 PM         2,169,810 ipcop-admin-en-1.4.pdf
+11/30/2007  03:58 PM           503,975 ipcop-install-en-1.4.pdf
+11/30/2007  03:58 PM            34,468 ipcop-quickstart-en-1.4.pdf
+               3 File(s)      2,708,253 bytes
+
+ Directory of F:\IL-012008\distro\kubuntu-7.10
+
+12/03/2007  06:17 AM    <DIR>          .
+12/03/2007  06:23 AM    <DIR>          ..
+10/25/2007  10:09 AM       731,009,024 kubuntu-7.10-desktop-i386.iso
+               1 File(s)    731,009,024 bytes
+
+ Directory of F:\IL-012008\distro\ubuntu-7.10
+
+12/03/2007  06:15 AM    <DIR>          .
+12/03/2007  06:23 AM    <DIR>          ..
+10/25/2007  10:31 AM       524,060,672 ubuntu-7.10-server-i386.iso
+               1 File(s)    524,060,672 bytes
+
+ Directory of F:\IL-012008\download
+
+11/30/2007  03:58 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          azureus-3.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\download\azureus-3.0
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM        10,898,433 Azureus_3_0_linux.tar.bz2
+               1 File(s)     10,898,433 bytes
+
+ Directory of F:\IL-012008\driver
+
+11/30/2007  03:58 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          vga-card
+11/30/2007  03:58 PM    <DIR>          wlan
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          ati
+11/30/2007  03:57 PM    <DIR>          nvidia
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\ati
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          x86
+11/30/2007  03:57 PM    <DIR>          x86_64
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\ati\x86
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM        53,989,404 ati-driver-installer-8.28.8.run
+               1 File(s)     53,989,404 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\ati\x86_64
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:58 PM        47,667,647 ati-driver-installer-7-11-x86.x86_64.run
+               1 File(s)     47,667,647 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          baru
+11/30/2007  03:57 PM    <DIR>          lama
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\baru
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          amd64
+11/30/2007  03:57 PM    <DIR>          ia32
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\baru\amd64
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM        10,245,900 NVIDIA-Linux-x86_64-96.43.01-pkg2.run
+               1 File(s)     10,245,900 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\baru\ia32
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM        13,384,929 NVIDIA-Linux-x86-96.43.01-pkg1.run
+               1 File(s)     13,384,929 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\lama
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM    <DIR>          amd64
+11/30/2007  03:57 PM    <DIR>          ia32
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\lama\amd64
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM         8,779,794 NVIDIA-Linux-x86_64-71.86.01-pkg2.run
+               1 File(s)      8,779,794 bytes
+
+ Directory of F:\IL-012008\driver\vga-card\nvidia\lama\ia32
+
+11/30/2007  03:57 PM    <DIR>          .
+11/30/2007  03:57 PM    <DIR>          ..
+11/30/2007  03:57 PM        11,598,437 NVIDIA-Linux-x86-71.86.01-pkg1.run
+               1 File(s)     11,598,437 bytes
+
+ Directory of F:\IL-012008\driver\wlan
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          madwifi-0.9.3.3
+11/30/2007  03:58 PM    <DIR>          ndiswrapper-1.50rc3
+11/30/2007  03:58 PM    <DIR>          rt2x00
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\wlan\madwifi-0.9.3.3
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM         3,648,826 madwifi-0.9.3.3.tar.gz
+               1 File(s)      3,648,826 bytes
+
+ Directory of F:\IL-012008\driver\wlan\ndiswrapper-1.50rc3
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           198,362 ndiswrapper-1.50rc3.tar.gz
+               1 File(s)        198,362 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          rt2400
+11/30/2007  03:58 PM    <DIR>          rt2500
+11/30/2007  03:58 PM    <DIR>          rt2570
+11/30/2007  03:58 PM    <DIR>          rt61
+11/30/2007  03:58 PM    <DIR>          rt73
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00\rt2400
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           145,018 rt2400-cvs-daily.tar.gz
+               1 File(s)        145,018 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00\rt2500
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           256,671 rt2500-cvs-daily.tar.gz
+               1 File(s)        256,671 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00\rt2570
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           263,234 rt2570-cvs-daily.tar.gz
+               1 File(s)        263,234 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00\rt61
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           333,243 rt61-cvs-daily.tar.gz
+               1 File(s)        333,243 bytes
+
+ Directory of F:\IL-012008\driver\wlan\rt2x00\rt73
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM           306,333 rt73-cvs-daily.tar.gz
+               1 File(s)        306,333 bytes
+
+ Directory of F:\IL-012008\finansial
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          money_manager_ex-0.9.1.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\finansial\money_manager_ex-0.9.1.0
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM         1,949,336 mmex_0.9.1.0_i386.deb
+11/30/2007  04:08 PM         3,050,265 mmgrex_0_9_1_0_src.zip
+               2 File(s)      4,999,601 bytes
+
+ Directory of F:\IL-012008\internet
+
+12/03/2007  06:25 AM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          epiphany-2.20.2
+11/30/2007  04:08 PM    <DIR>          mnogosearch-3.2.43-3.3.6
+12/03/2007  06:08 AM    <DIR>          picasa-2.2.2820-5
+11/30/2007  04:08 PM    <DIR>          webissues-0.8.3-0.9.2_rc1
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\internet\epiphany-2.20.2
+
+11/30/2007  04:08 PM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  04:08 PM         4,893,519 epiphany-2.20.2.tar.bz2
+11/30/2007  04:08 PM         6,655,799 epiphany-2.20.2.tar.gz
+               2 File(s)     11,549,318 bytes
+
+ Directory of F:\IL-012008\internet\mnogosearch-3.2.43-3.3.6
+
+11/30/2007  04:08 PM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  04:08 PM         3,492,905 mnogosearch-3.2.43.tar.gz
+               1 File(s)      3,492,905 bytes
+
+ Directory of F:\IL-012008\internet\picasa-2.2.2820-5
+
+12/03/2007  06:08 AM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/02/2007  02:25 PM        26,872,893 picasa-2.2.2820-5.i386.bin
+               1 File(s)     26,872,893 bytes
+
+ Directory of F:\IL-012008\internet\webissues-0.8.3-0.9.2_rc1
+
+11/30/2007  04:08 PM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  04:08 PM           873,737 webissues-0.9.2-rc1.tar.bz2
+11/30/2007  04:08 PM            43,229 webissues-server-0.8.3.tar.bz2
+               2 File(s)        916,966 bytes
+
+ Directory of F:\IL-012008\matematika
+
+11/30/2007  03:58 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+12/03/2007  06:25 AM    <DIR>          scilab-4.1.2
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\matematika\scilab-4.1.2
+
+12/03/2007  06:25 AM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          binary
+12/03/2007  06:25 AM    <DIR>          doc
+11/30/2007  03:58 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\matematika\scilab-4.1.2\binary
+
+11/30/2007  03:58 PM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  03:58 PM        19,278,166 scilab-4.1.2.bin.linux-i686.tar.gz
+               1 File(s)     19,278,166 bytes
+
+ Directory of F:\IL-012008\matematika\scilab-4.1.2\doc
+
+12/03/2007  06:25 AM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  03:58 PM         1,801,334 man-eng-scilab-4.1.2.tar.gz
+               1 File(s)      1,801,334 bytes
+
+ Directory of F:\IL-012008\matematika\scilab-4.1.2\source
+
+11/30/2007  03:58 PM    <DIR>          .
+12/03/2007  06:25 AM    <DIR>          ..
+11/30/2007  03:58 PM        15,892,277 scilab-4.1.2-src.tar.gz
+               1 File(s)     15,892,277 bytes
+
+ Directory of F:\IL-012008\medikal
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          patientos-0.21
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\medikal\patientos-0.21
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM       190,130,298 patientos-021-setup.tar.gz
+               1 File(s)    190,130,298 bytes
+
+ Directory of F:\IL-012008\multimedia
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          extended_module_player-2.5.0
+11/30/2007  04:08 PM    <DIR>          smplayer-0.5.62
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\multimedia\extended_module_player-2.5.0
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM           768,116 xmp-2.5.0.tar.gz
+               1 File(s)        768,116 bytes
+
+ Directory of F:\IL-012008\multimedia\smplayer-0.5.62
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM         1,030,900 smplayer-0.5.62-suse10.2.i586.rpm
+11/30/2007  04:08 PM           669,163 smplayer-0.5.62.tar.bz2
+               2 File(s)      1,700,063 bytes
+
+ Directory of F:\IL-012008\pdf
+
+12/03/2007  06:26 AM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:59 PM    <DIR>          adobereader_enu-8.1.1-1
+12/03/2007  06:27 AM    <DIR>          evince-2.20.2
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\pdf\adobereader_enu-8.1.1-1
+
+11/30/2007  03:59 PM    <DIR>          .
+12/03/2007  06:26 AM    <DIR>          ..
+11/30/2007  03:59 PM        49,884,265 AdobeReader_enu-8.1.1-1.i486.rpm
+               1 File(s)     49,884,265 bytes
+
+ Directory of F:\IL-012008\pdf\evince-2.20.2
+
+12/03/2007  06:27 AM    <DIR>          .
+12/03/2007  06:26 AM    <DIR>          ..
+11/30/2007  04:08 PM         2,340,609 evince-2.20.2.tar.gz
+               1 File(s)      2,340,609 bytes
+
+ Directory of F:\IL-012008\penting
+
+12/03/2007  06:28 AM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          kernel
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\penting\kernel
+
+11/30/2007  03:58 PM    <DIR>          .
+12/03/2007  06:28 AM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          v2.4
+11/30/2007  03:58 PM    <DIR>          v2.6
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\penting\kernel\v2.4
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM        31,099,155 linux-2.4.35.4.tar.bz2
+               1 File(s)     31,099,155 bytes
+
+ Directory of F:\IL-012008\penting\kernel\v2.6
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM        45,476,434 linux-2.6.23.9.tar.bz2
+               1 File(s)     45,476,434 bytes
+
+ Directory of F:\IL-012008\permainan
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          battles_of_antargis-0.2.1.4
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\permainan\battles_of_antargis-0.2.1.4
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM        25,902,260 antargis-source-0.2.1.4.tar.gz
+               1 File(s)     25,902,260 bytes
+
+ Directory of F:\IL-012008\pesan
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          mail_notification-4.1
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\pesan\mail_notification-4.1
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM           713,068 mail-notification-4.1.tar.bz2
+               1 File(s)        713,068 bytes
+
+ Directory of F:\IL-012008\plugins
+
+11/30/2007  03:58 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  03:58 PM    <DIR>          flash-player-9
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\plugins\flash-player-9
+
+11/30/2007  03:58 PM    <DIR>          .
+11/30/2007  03:58 PM    <DIR>          ..
+11/30/2007  03:58 PM         2,606,152 flash-plugin-9.0.48.0-release.i386.rpm
+11/30/2007  03:58 PM         2,608,602 install_flash_player_9_linux.tar.gz
+               2 File(s)      5,214,754 bytes
+
+ Directory of F:\IL-012008\rubrik
+
+12/04/2007  11:26 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+12/04/2007  11:25 PM    <DIR>          games
+12/04/2007  11:21 PM    <DIR>          software
+12/04/2007  11:51 PM    <DIR>          tutorial
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\rubrik\games
+
+12/04/2007  11:25 PM    <DIR>          .
+12/04/2007  11:26 PM    <DIR>          ..
+12/04/2007  11:23 PM    <DIR>          blackshadeselite-0.0.1
+12/04/2007  11:25 PM    <DIR>          tanea-world-1.2
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\rubrik\games\blackshadeselite-0.0.1
+
+12/04/2007  11:23 PM    <DIR>          .
+12/04/2007  11:25 PM    <DIR>          ..
+11/22/2007  04:31 PM         1,171,049 blackshadeselite-0.0.1.tar.bz2
+               1 File(s)      1,171,049 bytes
+
+ Directory of F:\IL-012008\rubrik\games\tanea-world-1.2
+
+12/04/2007  11:25 PM    <DIR>          .
+12/04/2007  11:25 PM    <DIR>          ..
+11/21/2007  05:28 PM         8,638,445 TaneaTrial.zip
+               1 File(s)      8,638,445 bytes
+
+ Directory of F:\IL-012008\rubrik\software
+
+12/04/2007  11:21 PM    <DIR>          .
+12/04/2007  11:26 PM    <DIR>          ..
+12/04/2007  11:20 PM    <DIR>          eyeos-1.2.0.3
+12/04/2007  11:21 PM    <DIR>          senayan3-rc3
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\rubrik\software\eyeos-1.2.0.3
+
+12/04/2007  11:20 PM    <DIR>          .
+12/04/2007  11:21 PM    <DIR>          ..
+11/29/2007  05:37 PM         7,203,852 eyeOS_1.2.0.3.zip
+               1 File(s)      7,203,852 bytes
+
+ Directory of F:\IL-012008\rubrik\software\senayan3-rc3
+
+12/04/2007  11:21 PM    <DIR>          .
+12/04/2007  11:21 PM    <DIR>          ..
+11/28/2007  08:37 AM         2,238,456 senayan3-rc3.tar.gz
+               1 File(s)      2,238,456 bytes
+
+ Directory of F:\IL-012008\rubrik\tutorial
+
+12/04/2007  11:51 PM    <DIR>          .
+12/04/2007  11:26 PM    <DIR>          ..
+12/04/2007  11:51 PM    <DIR>          backup_filesystem
+12/04/2007  11:51 PM    <DIR>          gtk_dan_binding
+12/04/2007  11:51 PM    <DIR>          ps2pdf_frontend
+12/04/2007  11:51 PM    <DIR>          wajah_putih_berseri
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\rubrik\tutorial\backup_filesystem
+
+12/04/2007  11:51 PM    <DIR>          .
+12/04/2007  11:51 PM    <DIR>          ..
+12/04/2007  11:51 PM             3,896 backup-with-history.pl
+               1 File(s)          3,896 bytes
+
+ Directory of F:\IL-012008\rubrik\tutorial\gtk_dan_binding
+
+12/04/2007  11:51 PM    <DIR>          .
+12/04/2007  11:51 PM    <DIR>          ..
+12/04/2007  11:51 PM               380 button.c
+12/04/2007  11:51 PM               402 check.c
+12/04/2007  11:51 PM               464 entry.c
+12/04/2007  11:51 PM               568 expander.c
+12/04/2007  11:51 PM               673 fixed.c
+12/04/2007  11:51 PM               573 hbox.c
+12/04/2007  11:51 PM               270 helloworld.c
+12/04/2007  11:51 PM               370 label.c
+12/04/2007  11:51 PM               398 radio.c
+12/04/2007  11:51 PM               430 signal1.c
+12/04/2007  11:51 PM               964 signal2.c
+12/04/2007  11:51 PM               732 table.c
+12/04/2007  11:51 PM               412 toggle.c
+12/04/2007  11:51 PM               573 vbox.c
+12/04/2007  11:51 PM               774 vhbox.c
+              15 File(s)          7,983 bytes
+
+ Directory of F:\IL-012008\rubrik\tutorial\ps2pdf_frontend
+
+12/04/2007  11:51 PM    <DIR>          .
+12/04/2007  11:51 PM    <DIR>          ..
+12/04/2007  11:51 PM            13,089 nops2pdf.c
+               1 File(s)         13,089 bytes
+
+ Directory of F:\IL-012008\rubrik\tutorial\wajah_putih_berseri
+
+12/04/2007  11:51 PM    <DIR>          .
+12/04/2007  11:51 PM    <DIR>          ..
+12/04/2007  11:51 PM            38,894 gambar_1.jpg
+               1 File(s)         38,894 bytes
+
+ Directory of F:\IL-012008\utiliti
+
+11/30/2007  04:08 PM    <DIR>          .
+12/04/2007  11:54 PM    <DIR>          ..
+11/30/2007  04:08 PM    <DIR>          autofill_forms-0.8
+11/30/2007  04:08 PM    <DIR>          file_roller-2.20.2
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-012008\utiliti\autofill_forms-0.8
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM           101,142 autofill_forms-0.8-fx.xpi
+               1 File(s)        101,142 bytes
+
+ Directory of F:\IL-012008\utiliti\file_roller-2.20.2
+
+11/30/2007  04:08 PM    <DIR>          .
+11/30/2007  04:08 PM    <DIR>          ..
+11/30/2007  04:08 PM         1,227,085 file-roller-2.20.2.tar.bz2
+11/30/2007  04:08 PM         1,784,073 file-roller-2.20.2.tar.gz
+               2 File(s)      3,011,158 bytes
+
+ Directory of F:\bin
+
+05/29/2007  10:19 PM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+09/11/2004  03:25 PM           172,086 Launch.exe
+11/10/2003  05:51 PM            50,008 License.txt
+12/31/2004  07:29 PM            27,379 SetDefault.exe
+10/16/2007  06:53 AM    <DIR>          chrome
+10/16/2007  06:53 AM    <DIR>          components
+10/16/2007  06:53 AM    <DIR>          defaults
+12/18/2004  11:52 PM            94,208 gkgfx.dll
+10/16/2007  06:53 AM    <DIR>          greprefs
+10/16/2007  06:53 AM    <DIR>          ipc
+12/18/2004  11:52 PM           348,160 js3250.dll
+12/18/2004  11:32 PM            77,824 jsj3250.dll
+03/30/2005  10:12 PM           187,392 k-meleon.exe
+11/13/2001  10:15 PM               668 k-meleon.exe.manifest
+10/16/2007  06:53 AM    <DIR>          kplugins
+12/17/2004  01:31 PM           200,048 mozctl.dll
+12/17/2004  01:31 PM             8,064 mozctlx.dll
+12/18/2004  11:52 PM            24,576 mozilla-ipcd.exe
+12/18/2004  11:52 PM            53,248 mozz.dll
+12/18/2004  11:52 PM           159,744 nspr4.dll
+12/17/2004  01:31 PM           212,304 nssckbi.dll
+12/18/2004  11:52 PM            28,672 plc4.dll
+12/18/2004  11:52 PM            24,576 plds4.dll
+10/16/2007  06:53 AM    <DIR>          plugins
+01/15/2005  10:33 PM             3,975 readme.html
+10/16/2007  06:53 AM    <DIR>          res
+12/17/2004  01:31 PM           112,992 smime3.dll
+12/17/2004  01:37 PM               476 softokn3.chk
+12/17/2004  01:31 PM           116,176 ssl3.dll
+12/05/2004  08:06 PM               148 start.ini
+05/25/2004  05:49 PM            53,248 start2.exe
+03/29/2005  09:47 PM            27,816 uninstall.exe
+12/18/2004  11:52 PM           397,312 xpcom.dll
+12/18/2004  11:52 PM            81,920 xpcom_compat.dll
+              25 File(s)      2,463,020 bytes
+
+ Directory of F:\bin\chrome
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          aggreg8
+12/31/2004  02:07 PM            43,354 aggreg8.jar
+03/29/2005  10:28 PM            18,840 chrome.rdf
+12/31/2004  02:07 PM           178,714 classic.jar
+12/31/2004  02:17 PM           312,565 comm.jar
+01/04/2005  11:20 PM           131,558 en-US.jar
+12/31/2004  02:07 PM             8,464 en-win.jar
+12/31/2004  02:07 PM            32,070 flashblock.jar
+01/10/2005  01:12 AM             3,480 installed-chrome.txt
+10/16/2007  06:53 AM    <DIR>          overlayinfo
+12/31/2004  02:07 PM             1,471 pipnss.jar
+12/31/2004  02:17 PM           106,285 pippki.jar
+01/09/2005  11:57 AM           233,425 toolkit.jar
+01/15/2005  01:20 AM            22,886 us.jar
+              12 File(s)      1,093,112 bytes
+
+ Directory of F:\bin\chrome\aggreg8
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/2006  03:58 AM    <DIR>          content
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\aggreg8\content
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+12/31/2004  06:03 AM             1,454 rssfeeds.rdf
+               1 File(s)          1,454 bytes
+
+ Directory of F:\bin\chrome\overlayinfo
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          browser
+10/16/2007  06:53 AM    <DIR>          communicator
+10/16/2007  06:53 AM    <DIR>          messenger
+10/16/2007  06:53 AM    <DIR>          navigator
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\browser
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/2006  03:58 AM    <DIR>          content
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\browser\content
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/29/2005  10:28 PM               399 overlays.rdf
+               1 File(s)            399 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\communicator
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/2006  03:58 AM    <DIR>          content
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\communicator\content
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/29/2005  10:28 PM               807 overlays.rdf
+               1 File(s)            807 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\messenger
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/2006  03:58 AM    <DIR>          content
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\messenger\content
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/29/2005  10:28 PM               362 overlays.rdf
+               1 File(s)            362 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\navigator
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/2006  03:58 AM    <DIR>          content
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\chrome\overlayinfo\navigator\content
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/29/2005  10:28 PM               785 overlays.rdf
+               1 File(s)            785 bytes
+
+ Directory of F:\bin\components
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+12/18/2004  09:59 PM               148 accessibility-msaa.xpt
+12/18/2004  09:59 PM             8,851 accessibility.xpt
+12/18/2004  11:35 PM            86,016 appshell.dll
+12/18/2004  09:58 PM             3,645 appshell.xpt
+12/18/2004  11:33 PM            65,536 caps.dll
+12/18/2004  09:44 PM             3,816 caps.xpt
+12/18/2004  09:41 PM               676 chardet.xpt
+12/18/2004  11:35 PM            65,536 chrome.dll
+12/18/2004  11:35 PM            57,344 composer.dll
+12/18/2004  09:58 PM               690 composer.xpt
+03/29/2005  10:28 PM           102,872 compreg.dat
+12/18/2004  09:47 PM             6,900 content_base.xpt
+12/18/2004  11:40 PM            40,960 cookie.dll
+12/18/2004  11:40 PM               705 cookie.xpt
+12/18/2004  11:34 PM           172,032 docshell.dll
+12/18/2004  09:56 PM             8,531 docshell_base.xpt
+12/18/2004  09:46 PM               604 dom.xpt
+12/18/2004  09:46 PM             7,775 dom_base.xpt
+12/18/2004  09:46 PM             6,377 dom_core.xpt
+12/18/2004  09:46 PM            11,187 dom_css.xpt
+12/18/2004  09:46 PM             5,889 dom_events.xpt
+12/18/2004  09:46 PM            17,387 dom_html.xpt
+12/18/2004  09:46 PM             1,397 dom_range.xpt
+12/18/2004  09:46 PM               728 dom_stylesheets.xpt
+12/18/2004  09:46 PM             1,282 dom_traversal.xpt
+12/18/2004  09:46 PM               226 dom_views.xpt
+12/18/2004  09:46 PM               498 dom_xbl.xpt
+12/18/2004  09:46 PM             1,312 dom_xpath.xpt
+12/18/2004  09:46 PM             6,231 dom_xul.xpt
+12/18/2004  09:57 PM            10,902 editor.xpt
+12/18/2004  09:57 PM               390 embed_base.xpt
+12/20/2004  09:20 PM            28,672 embed_lite.dll
+01/09/2005  12:16 PM           122,880 embedcomponents.dll
+12/18/2004  09:45 PM             8,946 gfx.xpt
+12/18/2004  11:33 PM           147,456 gkgfxwin.dll
+12/20/2004  11:22 PM         2,445,312 gklayout.dll
+12/18/2004  11:33 PM           217,088 gkparser.dll
+12/18/2004  11:33 PM           122,880 gkwidget.dll
+12/18/2004  11:32 PM           188,416 i18n.dll
+12/18/2004  11:33 PM           126,976 imglib2.dll
+12/18/2004  09:45 PM             2,152 imglib2.xpt
+12/18/2004  09:41 PM               645 intl.xpt
+12/18/2004  11:32 PM            45,056 intlcmpt.dll
+12/18/2004  09:41 PM               159 intlcmpt.xpt
+12/18/2004  09:42 PM               413 ipcd.xpt
+12/18/2004  11:32 PM            36,864 ipcdc.dll
+12/18/2004  09:41 PM               941 jar.xpt
+12/18/2004  09:41 PM            45,056 jar50.dll
+01/30/2002  01:22 AM             4,017 jsconsole-clhandler.js
+12/18/2004  09:57 PM               186 jsconsole.xpt
+12/18/2004  11:39 PM            65,536 jsd3250.dll
+12/18/2004  11:39 PM             5,953 jsdservice.xpt
+12/18/2004  09:46 PM               237 jsurl.xpt
+12/18/2004  09:51 PM               303 layout_base.xpt
+12/18/2004  09:54 PM             2,154 layout_xul.xpt
+12/18/2004  09:55 PM             2,797 layout_xul_tree.xpt
+12/18/2004  09:41 PM             1,959 locale.xpt
+12/18/2004  11:33 PM           491,520 necko.dll
+12/18/2004  09:42 PM            12,564 necko.xpt
+12/18/2004  11:33 PM            45,056 necko2.dll
+12/18/2004  09:43 PM               357 necko_about.xpt
+12/18/2004  09:43 PM             2,180 necko_cache.xpt
+12/18/2004  09:42 PM             1,666 necko_cookie.xpt
+12/18/2004  09:43 PM               122 necko_data.xpt
+12/18/2004  09:42 PM               793 necko_dns.xpt
+12/18/2004  09:43 PM               408 necko_file.xpt
+12/18/2004  09:43 PM               287 necko_ftp.xpt
+12/18/2004  09:43 PM             2,081 necko_http.xpt
+12/18/2004  09:43 PM               485 necko_jar.xpt
+12/18/2004  09:43 PM               285 necko_res.xpt
+12/18/2004  09:42 PM             1,409 necko_strconv.xpt
+12/18/2004  09:43 PM               188 necko_viewsource.xpt
+09/02/2004  04:44 AM            15,102 nsProxyAutoConfig.js
+09/14/2003  12:54 AM            17,781 nsSidebar.js
+12/18/2004  11:32 PM            49,152 oji.dll
+12/18/2004  09:41 PM             1,120 oji.xpt
+12/18/2004  11:40 PM            32,768 p3p.dll
+12/18/2004  11:40 PM               625 p3p.xpt
+12/18/2004  11:36 PM            32,768 pipboot.dll
+12/18/2004  11:36 PM               628 pipboot.xpt
+12/18/2004  11:36 PM            10,289 pipnss.xpt
+12/18/2004  11:36 PM            32,768 pippki.dll
+12/18/2004  11:36 PM               377 pippki.xpt
+12/18/2004  09:44 PM             3,145 pref.xpt
+12/18/2004  11:34 PM            61,440 profile.dll
+12/18/2004  09:56 PM             1,860 profile.xpt
+12/18/2004  11:33 PM           106,496 rdf.dll
+12/18/2004  09:44 PM             4,533 rdf.xpt
+12/18/2004  09:56 PM             2,257 shistory.xpt
+12/18/2004  09:59 PM               207 sidebar.xpt
+12/18/2004  11:35 PM            32,768 txmgr.dll
+12/18/2004  09:58 PM             1,258 txmgr.xpt
+12/18/2004  09:57 PM               188 txtsvc.xpt
+12/18/2004  11:42 PM            49,152 typeaheadfind.dll
+12/18/2004  11:42 PM               426 typeaheadfind.xpt
+12/18/2004  11:32 PM           720,896 uconv.dll
+12/18/2004  09:40 PM             1,339 uconv.xpt
+12/18/2004  11:32 PM            32,768 ucvmath.dll
+12/18/2004  09:40 PM             1,146 unicharutil.xpt
+12/18/2004  11:42 PM            98,304 universalchardet.dll
+12/18/2004  09:44 PM             3,095 uriloader.xpt
+12/18/2004  11:40 PM            81,920 wallet.dll
+12/18/2004  11:40 PM               968 wallet.xpt
+12/18/2004  11:40 PM               215 walleteditor.xpt
+12/18/2004  11:40 PM               223 walletpreview.xpt
+12/18/2004  09:57 PM             5,287 webBrowser_core.xpt
+12/18/2004  11:35 PM            53,248 webbrwsr.dll
+12/18/2004  09:46 PM             5,401 widget.xpt
+12/18/2004  09:57 PM             2,167 windowwatcher.xpt
+12/18/2004  11:40 PM            53,248 xmlextras.dll
+12/18/2004  11:40 PM             1,458 xmlextras.xpt
+12/18/2004  11:32 PM           172,032 xpc3250.dll
+12/18/2004  09:35 PM             2,543 xpcom_base.xpt
+12/18/2004  11:28 PM            28,672 xpcom_compat_c.dll
+12/18/2004  09:36 PM             3,624 xpcom_components.xpt
+12/18/2004  09:36 PM             8,634 xpcom_ds.xpt
+12/18/2004  09:36 PM             6,515 xpcom_io.xpt
+12/18/2004  09:37 PM             3,399 xpcom_obsolete.xpt
+12/18/2004  09:36 PM             2,664 xpcom_thread.xpt
+12/18/2004  09:36 PM             1,560 xpcom_xpti.xpt
+12/18/2004  09:39 PM             6,834 xpconnect.xpt
+12/18/2004  11:33 PM            53,248 xppref32.dll
+03/25/2007  03:08 PM            60,549 xpti.dat
+12/18/2004  09:50 PM             1,269 xuldoc.xpt
+             124 File(s)      6,749,232 bytes
+
+ Directory of F:\bin\defaults
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          autoconfig
+10/16/2007  06:53 AM    <DIR>          pref
+10/16/2007  06:53 AM    <DIR>          profile
+10/16/2007  06:53 AM    <DIR>          wallet
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\defaults\autoconfig
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+04/16/2002  01:42 PM                89 platform.js
+04/26/2004  05:56 PM             7,352 prefcalls.js
+               2 File(s)          7,441 bytes
+
+ Directory of F:\bin\defaults\pref
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+05/25/2004  05:49 PM            43,187 all.js
+03/24/2005  11:44 PM             1,950 security-prefs.js
+05/25/2004  05:49 PM            10,110 winpref.js
+               3 File(s)         55,247 bytes
+
+ Directory of F:\bin\defaults\profile
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+02/28/2006  02:38 PM             2,877 Prefs.js
+05/25/2004  05:49 PM             2,186 accel.cfg
+10/21/2006  03:58 AM    <DIR>          chrome
+05/25/2004  05:49 PM               162 cookies.txt
+05/25/2004  05:49 PM               150 cookperm.txt
+05/25/2004  05:49 PM                 0 history.txt
+05/25/2004  05:49 PM             4,945 localstore.rdf
+05/25/2004  05:49 PM                44 macros.cfg
+05/25/2004  05:49 PM                 9 menus.cfg
+12/05/2004  03:39 AM             2,069 mimeTypes.rdf
+03/26/2005  08:20 PM                45 user.js
+              10 File(s)         12,487 bytes
+
+ Directory of F:\bin\defaults\profile\chrome
+
+10/21/2006  03:58 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+05/25/2004  05:49 PM                 0 userChrome.css
+05/25/2004  05:49 PM               596 userContent.css
+               2 File(s)            596 bytes
+
+ Directory of F:\bin\defaults\wallet
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/29/2000  05:30 PM               215 DistinguishedSchema.tbl
+11/14/2000  08:24 AM            30,146 FieldSchema.tbl
+11/14/2000  08:21 AM             1,763 PositionalSchema.tbl
+11/14/2000  08:24 AM            20,998 SchemaConcat.tbl
+12/12/2000  09:07 AM             1,322 SchemaStrings.tbl
+11/14/2000  08:21 AM             4,362 StateSchema.tbl
+01/16/2001  03:57 PM               912 VcardSchema.tbl
+               7 File(s)         59,718 bytes
+
+ Directory of F:\bin\greprefs
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+03/24/2005  11:59 PM            51,454 all.js
+10/09/2004  06:55 AM                30 non-shared.txt
+03/24/2005  11:44 PM             2,000 security-prefs.js
+10/09/2004  06:58 AM                88 xpinstall.js
+               4 File(s)         53,572 bytes
+
+ Directory of F:\bin\ipc
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+10/21/2006  03:57 AM    <DIR>          modules
+               0 File(s)              0 bytes
+
+ Directory of F:\bin\ipc\modules
+
+10/21/2006  03:57 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+12/18/2004  11:52 PM            24,576 lockmodule.dll
+12/18/2004  11:52 PM            24,576 transmgr.dll
+               2 File(s)         49,152 bytes
+
+ Directory of F:\bin\kplugins
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+01/17/2005  10:01 PM            64,000 macros.dll
+               1 File(s)         64,000 bytes
+
+ Directory of F:\bin\plugins
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+12/18/2004  11:52 PM            32,768 npnul32.dll
+               1 File(s)         32,768 bytes
+
+ Directory of F:\bin\res
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+08/18/2003  07:11 PM             9,648 EditorOverride.css
+11/27/2001  07:48 PM                49 arrow.gif
+11/27/2001  07:48 PM                52 arrowd.gif
+11/09/2001  01:37 AM               165 broken-image.gif
+10/16/2007  06:53 AM    <DIR>          builtin
+04/20/2004  07:48 AM             7,589 charsetData.properties
+04/24/2004  07:12 AM            10,457 charsetalias.properties
+05/09/2001  06:35 PM                93 cmessage.txt
+10/16/2007  06:53 AM    <DIR>          dtd
+10/16/2007  06:53 AM    <DIR>          entityTables
+10/16/2007  06:53 AM    <DIR>          fonts
+04/23/2004  06:52 AM            11,919 forms.css
+06/25/2003  01:50 PM               858 grabber.gif
+10/16/2007  06:53 AM    <DIR>          html
+03/19/2004  05:34 AM             8,685 html.css
+08/24/2004  04:14 AM             4,285 langGroups.properties
+03/30/2004  07:40 AM             5,477 language.properties
+11/14/2001  05:56 AM               157 loading-image.gif
+09/23/2003  02:01 AM            12,332 mathml.css
+03/12/2003  08:57 AM             1,742 platform-forms.css
+04/08/2004  04:25 AM            11,405 quirk.css
+12/18/2004  11:34 PM             5,116 ua.css
+10/12/2002  04:46 AM             2,815 viewsource.css
+03/12/2002  03:00 AM             1,185 wincharset.properties
+              19 File(s)         94,029 bytes
+
+ Directory of F:\bin\res\builtin
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/16/2004  08:49 PM             5,758 htmlBindings.xml
+12/18/2004  11:52 PM            14,290 platformHTMLBindings.xml
+               2 File(s)         20,048 bytes
+
+ Directory of F:\bin\res\dtd
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/27/2001  05:56 PM            63,657 mathml.dtd
+01/25/2002  04:07 AM             7,445 xhtml11.dtd
+               2 File(s)         71,102 bytes
+
+ Directory of F:\bin\res\entityTables
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/20/2000  06:46 AM             2,790 html40Latin1.properties
+06/20/2000  06:46 AM             1,501 html40Special.properties
+06/20/2000  06:46 AM             3,196 html40Symbols.properties
+05/11/2002  03:05 AM             1,071 htmlEntityVersions.properties
+05/11/2002  03:06 AM            29,091 mathml20.properties
+01/10/2003  03:17 AM            19,033 transliterate.properties
+               6 File(s)         56,682 bytes
+
+ Directory of F:\bin\res\fonts
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+05/23/2003  11:31 AM             4,282 fontEncoding.properties
+09/16/2003  06:16 AM            41,530 mathfont.properties
+03/27/2001  06:22 PM             5,589 mathfontCMEX10.properties
+03/27/2001  06:22 PM             3,750 mathfontCMSY10.properties
+02/02/2001  01:41 PM             1,450 mathfontMTExtra.properties
+05/08/2001  01:34 PM             2,990 mathfontMath1.properties
+07/09/2002  06:41 AM             4,783 mathfontMath2.properties
+05/10/2003  08:40 AM             5,823 mathfontMath4.properties
+03/27/2001  06:22 PM            14,805 mathfontPUA.properties
+03/27/2001  06:22 PM             3,058 mathfontSymbol.properties
+              10 File(s)         88,060 bytes
+
+ Directory of F:\bin\res\html
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/21/1999  09:20 PM               163 gopher-audio.gif
+10/21/1999  09:20 PM               165 gopher-binary.gif
+10/21/1999  09:20 PM               178 gopher-find.gif
+10/21/1999  09:20 PM               188 gopher-image.gif
+10/21/1999  09:20 PM               135 gopher-menu.gif
+10/21/1999  09:20 PM               180 gopher-movie.gif
+01/31/2002  01:02 AM               163 gopher-sound.gif
+10/21/1999  09:20 PM               189 gopher-telnet.gif
+10/21/1999  09:20 PM               154 gopher-text.gif
+10/21/1999  09:20 PM               132 gopher-unknown.gif
+              10 File(s)          1,647 bytes
+
+ Directory of F:\casper
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:36 AM            32,479 filesystem.manifest
+10/16/2007  06:33 AM            30,227 filesystem.manifest-desktop
+10/16/2007  06:40 AM       672,997,376 filesystem.squashfs
+10/16/2007  06:37 AM         7,480,758 initrd.gz
+10/16/2007  06:37 AM         1,764,280 vmlinuz
+               5 File(s)    682,305,120 bytes
+
+ Directory of F:\disctree
+
+05/29/2007  10:19 PM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          app_img
+10/16/2007  06:53 AM    <DIR>          en
+10/16/2007  06:53 AM    <DIR>          extra
+10/16/2007  06:53 AM    <DIR>          incl
+               0 File(s)              0 bytes
+
+ Directory of F:\disctree\app_img
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+10/09/2006  11:49 PM            22,931 abiword_01.png
+10/09/2006  11:49 PM            16,622 abiword_01_tn.png
+10/09/2006  11:49 PM            19,196 abiword_02.png
+10/09/2006  11:49 PM            14,033 abiword_02_tn.png
+03/25/2007  04:11 PM           196,750 firefox_01.png
+03/25/2007  04:04 PM            31,335 firefox_01_tn.png
+03/25/2007  04:10 PM            86,954 firefox_02.png
+03/25/2007  04:05 PM            22,101 firefox_02_tn.png
+10/09/2006  11:49 PM            45,540 thunderbird_01.png
+10/09/2006  11:49 PM            21,337 thunderbird_01_tn.png
+10/09/2006  11:49 PM            43,555 thunderbird_02.png
+10/09/2006  11:49 PM            19,582 thunderbird_02_tn.png
+10/21/2006  04:43 AM            51,733 ubuntu-addapp.png
+10/21/2006  07:56 PM            28,804 ubuntu-addapp_tn.png
+10/21/2006  04:41 AM           169,924 ubuntu-desktop.png
+10/21/2006  07:55 PM            25,720 ubuntu-desktop_tn.png
+10/21/2006  04:42 AM            71,732 ubuntu-gimp.png
+10/21/2006  07:56 PM            37,882 ubuntu-gimp_tn.png
+10/21/2006  04:44 AM            50,655 ubuntu-nautilus.png
+10/21/2006  07:55 PM            26,337 ubuntu-nautilus_tn.png
+10/21/2006  07:53 PM            30,541 ubuntu_225.png
+              21 File(s)      1,033,264 bytes
+
+ Directory of F:\disctree\en
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+03/14/2007  12:57 AM             2,535 abiword.html
+03/25/2006  09:11 PM                65 abiword_install.lch
+04/02/2006  08:41 PM                47 abiword_web.lch
+03/14/2007  01:03 AM             2,269 blender.html
+09/15/2006  01:06 AM                65 blender_install.lch
+08/20/2006  09:39 PM                45 blender_web.lch
+03/25/2007  11:33 PM             2,171 clamwin.html
+09/15/2006  01:04 AM                65 clamwin_install.lch
+08/20/2006  09:44 PM                45 clamwin_web.lch
+03/14/2007  12:57 AM             2,801 firefox.html
+06/27/2005  11:26 PM                65 firefox_install.lch
+12/04/2004  08:51 PM                62 firefox_web.lch
+10/06/2007  03:38 AM             3,237 home.html
+03/25/2007  05:57 PM                74 switching_guide.lch
+03/26/2005  09:12 PM                49 theopencd_web.lch
+03/14/2007  01:00 AM             2,463 thunderbird.html
+03/25/2006  09:11 PM                73 thunderbird_install.lch
+04/02/2006  08:38 PM                57 thunderbird_web.lch
+03/25/2007  03:24 PM             3,986 ubuntu.html
+06/28/2005  04:44 PM                44 ubuntu_web.lch
+              20 File(s)         20,218 bytes
+
+ Directory of F:\disctree\extra
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+03/25/2007  05:43 PM    <DIR>          switching-guide
+               0 File(s)              0 bytes
+
+ Directory of F:\disctree\extra\switching-guide
+
+03/25/2007  05:43 PM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/07/2007  04:23 AM             6,654 applications-games.html
+03/07/2007  04:23 AM             5,229 applications-graphics.html
+03/07/2007  04:23 AM             3,873 applications-installing.html
+03/07/2007  04:23 AM             6,374 applications-internet.html
+03/07/2007  04:23 AM             6,247 applications-office.html
+03/07/2007  04:23 AM             7,402 applications-sv.html
+03/07/2007  04:23 AM             7,681 applications.html
+10/16/2007  06:53 AM    <DIR>          common
+03/07/2007  04:23 AM             7,369 dualboot-concepts.html
+03/07/2007  04:23 AM             8,068 dualboot-custom.html
+03/07/2007  04:23 AM             4,440 dualboot-intro.html
+03/07/2007  04:23 AM             5,897 dualboot-planning.html
+03/07/2007  04:23 AM             6,017 dualboot-procedure.html
+03/07/2007  04:23 AM             5,328 dualboot.html
+03/07/2007  04:23 AM             7,505 go01.html
+10/16/2007  06:53 AM    <DIR>          images
+03/07/2007  04:23 AM            10,489 index.html
+03/07/2007  04:23 AM             4,277 installing-booting.html
+03/07/2007  04:23 AM             3,766 installing-final.html
+03/07/2007  04:23 AM             5,855 installing-get.html
+03/07/2007  04:23 AM             5,272 installing-info.html
+03/07/2007  04:23 AM             4,420 installing-partitioning.html
+03/07/2007  04:23 AM             2,714 installing-restarting.html
+03/07/2007  04:23 AM             4,194 installing.html
+03/07/2007  04:23 AM             3,425 intro.html
+03/07/2007  04:23 AM             4,080 md-bookmarks.html
+03/07/2007  04:23 AM             4,494 md-calendar.html
+03/07/2007  04:23 AM             4,538 md-contacts.html
+03/07/2007  04:23 AM             4,904 md-emails.html
+03/07/2007  04:23 AM             9,567 md-files.html
+03/07/2007  04:23 AM             3,707 md.html
+03/07/2007  04:23 AM             3,511 preparing-backing-up-entire.html
+03/07/2007  04:23 AM             4,117 preparing-bookmarks.html
+03/07/2007  04:23 AM            11,349 preparing-converting-file-types.html
+03/07/2007  04:23 AM            18,178 preparing-email.html
+03/07/2007  04:23 AM             7,911 preparing-hardware.html
+03/07/2007  04:23 AM             7,308 preparing-organising-files.html
+03/07/2007  04:23 AM             3,039 preparing-settings-im.html
+03/07/2007  04:23 AM             7,258 preparing-settings-internet.html
+03/07/2007  04:23 AM             7,710 preparing-settings-network.html
+03/07/2007  04:23 AM            12,650 preparing-storage.html
+03/07/2007  04:23 AM             3,687 preparing-trying.html
+03/07/2007  04:23 AM            10,082 preparing.html
+03/07/2007  04:23 AM             3,454 why-accessible.html
+03/07/2007  04:23 AM             3,498 why-community.html
+03/07/2007  04:23 AM             3,351 why-easy.html
+03/07/2007  04:23 AM             3,504 why-free.html
+03/07/2007  04:23 AM             3,558 why-international.html
+03/07/2007  04:23 AM             3,332 why-secure.html
+03/07/2007  04:23 AM             3,560 why-stable.html
+03/07/2007  04:23 AM             3,332 why.html
+              49 File(s)        288,175 bytes
+
+ Directory of F:\disctree\extra\switching-guide\common
+
+10/16/2007  06:53 AM    <DIR>          .
+03/25/2007  05:43 PM    <DIR>          ..
+03/25/2007  05:43 PM    <DIR>          img
+03/07/2007  04:23 AM             3,403 ubuntu-book.css
+03/07/2007  04:23 AM             3,764 ubuntu.css
+               2 File(s)          7,167 bytes
+
+ Directory of F:\disctree\extra\switching-guide\common\img
+
+03/25/2007  05:43 PM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/07/2007  04:23 AM            10,688 headerlogo.png
+03/07/2007  04:23 AM             3,790 tab_off_ns1.png
+03/07/2007  04:23 AM             4,286 tab_off_ns2.png
+03/07/2007  04:23 AM             3,713 tab_on_ns1.png
+03/07/2007  04:23 AM             3,931 tab_on_ns2.png
+03/07/2007  04:23 AM               227 u-header.png
+03/07/2007  04:23 AM             5,301 ubuntuheader.png
+               7 File(s)         31,936 bytes
+
+ Directory of F:\disctree\extra\switching-guide\images
+
+10/16/2007  06:53 AM    <DIR>          .
+03/25/2007  05:43 PM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          admon
+10/16/2007  06:53 AM    <DIR>          callouts
+10/16/2007  06:53 AM    <DIR>          navig
+               0 File(s)              0 bytes
+
+ Directory of F:\disctree\extra\switching-guide\images\admon
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/07/2007  04:23 AM             2,605 caution.png
+03/07/2007  04:23 AM             2,779 important.png
+03/07/2007  04:23 AM             2,347 note.png
+03/07/2007  04:23 AM             2,432 tip.png
+03/07/2007  04:23 AM             2,950 warning.png
+               5 File(s)         13,113 bytes
+
+ Directory of F:\disctree\extra\switching-guide\images\callouts
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/07/2007  04:23 AM               329 1.png
+03/07/2007  04:23 AM               361 10.png
+03/07/2007  04:23 AM               353 2.png
+03/07/2007  04:23 AM               350 3.png
+03/07/2007  04:23 AM               345 4.png
+03/07/2007  04:23 AM               348 5.png
+03/07/2007  04:23 AM               355 6.png
+03/07/2007  04:23 AM               344 7.png
+03/07/2007  04:23 AM               357 8.png
+03/07/2007  04:23 AM               357 9.png
+              10 File(s)          3,499 bytes
+
+ Directory of F:\disctree\extra\switching-guide\images\navig
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/07/2007  04:23 AM             1,042 home.gif
+03/07/2007  04:23 AM               336 next.gif
+03/07/2007  04:23 AM               336 prev.gif
+03/07/2007  04:23 AM               318 toc-blank.png
+03/07/2007  04:23 AM               259 toc-minus.png
+03/07/2007  04:23 AM               264 toc-plus.png
+03/07/2007  04:23 AM               332 up.gif
+               7 File(s)          2,887 bytes
+
+ Directory of F:\disctree\incl
+
+10/16/2007  06:53 AM    <DIR>          .
+05/29/2007  10:19 PM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          css
+10/16/2007  06:53 AM    <DIR>          img
+10/16/2007  06:53 AM    <DIR>          js
+06/29/2005  08:25 PM                53 kmeleon_web.lch
+               1 File(s)             53 bytes
+
+ Directory of F:\disctree\incl\css
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/31/2006  08:06 PM             1,136 app_page.css
+03/14/2007  02:16 AM             4,080 common.css
+03/26/2006  03:59 AM             1,542 info_page.css
+05/04/2006  07:54 PM             2,270 main_page.css
+               4 File(s)          9,028 bytes
+
+ Directory of F:\disctree\incl\img
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/24/2006  04:05 PM             5,048 abiword.png
+04/01/2006  02:01 AM             1,755 backarrow.png
+04/20/2005  06:11 PM            16,361 bkg.jpg
+06/23/2005  11:01 PM             3,559 blender.png
+03/24/2006  08:22 PM             1,014 body_btm.png
+03/30/2006  07:31 PM               235 bullet.png
+03/25/2007  03:41 PM             8,472 clamwin.png
+02/06/2007  08:46 PM             2,741 exit.png
+03/24/2006  03:56 PM             7,891 firefox.png
+03/14/2007  01:34 AM             2,352 globe-s.png
+02/06/2007  08:46 PM             3,349 gohome.png
+02/06/2007  08:46 PM             4,232 info-bulb.png
+02/06/2007  08:46 PM             1,469 info-i.png
+03/21/2006  04:45 PM             4,344 install-s.png
+03/21/2006  04:36 PM             4,354 install.png
+03/07/2007  02:05 AM             1,298 opencd.png
+03/24/2006  11:48 PM             3,361 shadow200.png
+03/02/2006  08:31 PM             1,201 shadow225.png
+03/02/2006  07:16 PM             1,656 shadow250.png
+03/02/2006  08:14 PM             1,287 shadow250b.png
+03/24/2006  03:58 PM             8,555 thunderbird.png
+03/24/2006  12:53 AM               291 top_amber.png
+03/25/2007  03:50 PM            40,720 ubuntu-logo-large.png
+03/25/2007  03:54 PM            15,774 ubuntu-logo-small.png
+03/13/2005  07:43 PM             2,824 white.png
+              25 File(s)        144,143 bytes
+
+ Directory of F:\disctree\incl\js
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/29/2005  04:45 PM             4,268 ocd_common.js
+               1 File(s)          4,268 bytes
+
+ Directory of F:\dists
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          gutsy
+10/16/2007  06:53 AM                 0 stable
+10/16/2007  06:53 AM                 0 unstable
+               2 File(s)              0 bytes
+
+ Directory of F:\dists\gutsy
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM             1,757 Release
+10/16/2007  06:53 AM               189 Release.gpg
+10/16/2007  06:53 AM    <DIR>          main
+10/16/2007  06:53 AM    <DIR>          restricted
+               2 File(s)          1,946 bytes
+
+ Directory of F:\dists\gutsy\main
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          binary-i386
+10/16/2007  06:53 AM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\gutsy\main\binary-i386
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM            33,860 Packages
+10/16/2007  06:53 AM            10,747 Packages.gz
+10/16/2007  06:53 AM                93 Release
+               3 File(s)         44,700 bytes
+
+ Directory of F:\dists\gutsy\main\source
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\gutsy\restricted
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          binary-i386
+10/16/2007  06:53 AM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of F:\dists\gutsy\restricted\binary-i386
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM             3,868 Packages
+10/16/2007  06:53 AM             1,682 Packages.gz
+10/16/2007  06:53 AM                99 Release
+               3 File(s)          5,649 bytes
+
+ Directory of F:\dists\gutsy\restricted\source
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of F:\install
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+04/19/2007  09:45 PM             1,865 README.sbm
+09/28/2007  05:06 PM           103,204 mt86plus
+04/19/2007  09:45 PM         1,474,560 sbm.bin
+               3 File(s)      1,579,629 bytes
+
+ Directory of F:\isolinux
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/09/2007  09:05 PM            30,452 16x16.fnt
+10/09/2007  09:05 PM             1,652 af.tr
+10/09/2007  09:05 PM             1,598 am.tr
+10/09/2007  09:05 PM             3,525 ar.tr
+10/09/2007  09:05 PM             7,500 back.jpg
+10/09/2007  09:05 PM             3,122 be.tr
+10/09/2007  09:05 PM             3,111 bg.tr
+10/09/2007  09:05 PM             4,148 bn.tr
+12/05/2007  12:10 AM             2,048 boot.cat
+10/09/2007  09:05 PM            95,744 bootlogo
+10/09/2007  09:05 PM             1,682 br.tr
+10/09/2007  09:05 PM             1,590 bs.tr
+10/09/2007  09:05 PM             1,977 ca.tr
+10/09/2007  09:05 PM             1,879 cs.tr
+10/09/2007  09:05 PM             1,859 csb.tr
+10/09/2007  09:05 PM             1,730 da.tr
+10/16/2007  06:53 AM             7,289 de.hlp
+10/09/2007  09:05 PM             1,835 de.tr
+10/09/2007  09:05 PM             3,256 el.tr
+10/16/2007  06:53 AM             6,280 en.hlp
+10/09/2007  09:05 PM             1,532 en.tr
+10/09/2007  09:05 PM             1,797 eo.tr
+10/16/2007  06:53 AM             7,275 es.hlp
+10/09/2007  09:05 PM             1,889 es.tr
+10/09/2007  09:05 PM             1,837 et.tr
+10/16/2007  06:53 AM             6,954 eu.hlp
+10/09/2007  09:05 PM             1,829 eu.tr
+10/16/2007  06:53 AM               842 f1.txt
+10/16/2007  06:53 AM               715 f10.txt
+10/16/2007  06:53 AM               506 f2.txt
+10/16/2007  06:53 AM               612 f3.txt
+10/16/2007  04:57 AM               772 f3.txt.withgtk
+10/16/2007  06:53 AM               416 f4.txt
+10/16/2007  04:57 AM               485 f4.txt.withgtk
+10/16/2007  06:53 AM               808 f5.txt
+10/16/2007  06:53 AM             1,071 f6.txt
+10/16/2007  06:53 AM               913 f7.txt
+10/16/2007  06:53 AM             1,070 f8.txt
+10/16/2007  06:53 AM               745 f9.txt
+10/09/2007  09:05 PM             2,579 fa.tr
+10/16/2007  06:53 AM             6,831 fi.hlp
+10/09/2007  09:05 PM             1,874 fi.tr
+10/09/2007  09:05 PM             1,881 fil.tr
+10/16/2007  06:53 AM             7,730 fr.hlp
+10/09/2007  09:05 PM             1,897 fr.tr
+10/09/2007  09:05 PM             1,873 fur.tr
+10/09/2007  09:05 PM             1,776 ga.tr
+10/16/2007  06:53 AM             7,074 gl.hlp
+10/09/2007  09:05 PM             1,815 gl.tr
+10/09/2007  09:05 PM             2,259 he.tr
+10/09/2007  09:05 PM             1,828 hi.tr
+10/09/2007  09:05 PM             1,753 hr.tr
+10/16/2007  06:53 AM             7,357 hu.hlp
+10/09/2007  09:05 PM             1,991 hu.tr
+10/16/2007  06:53 AM             6,782 id.hlp
+10/09/2007  09:05 PM             1,594 id.tr
+10/09/2007  09:05 PM             1,732 is.tr
+12/03/2007  10:07 PM            13,432 isolinux.bin
+10/16/2007  06:53 AM             1,396 isolinux.cfg
+10/16/2007  06:53 AM               148 isolinux.txt
+10/09/2007  09:05 PM             1,792 it.tr
+10/16/2007  06:53 AM             9,027 ja.hlp
+10/09/2007  09:05 PM             2,407 ja.tr
+10/16/2007  06:53 AM            14,282 ka.hlp
+10/09/2007  09:05 PM             4,742 ka.tr
+10/09/2007  09:05 PM             4,587 kn.tr
+10/16/2007  06:53 AM             8,059 ko.hlp
+10/09/2007  09:05 PM             2,151 ko.tr
+10/09/2007  09:05 PM             1,786 ku.tr
+10/09/2007  09:05 PM             1,626 la.tr
+10/09/2007  09:05 PM               189 langlist
+10/09/2007  09:05 PM             1,721 lb.tr
+10/09/2007  09:05 PM             1,841 lt.tr
+10/09/2007  09:05 PM             1,856 lv.tr
+10/09/2007  09:05 PM             3,092 mk.tr
+10/09/2007  09:05 PM             1,658 ml.tr
+10/09/2007  09:05 PM             2,807 mn.tr
+10/09/2007  09:05 PM             1,667 ms.tr
+10/09/2007  09:05 PM             1,533 mt.tr
+10/09/2007  09:05 PM             1,635 nb.tr
+10/09/2007  09:05 PM             1,711 nds.tr
+10/16/2007  06:53 AM             6,700 nl.hlp
+10/09/2007  09:05 PM             1,785 nl.tr
+10/09/2007  09:05 PM             1,561 nn.tr
+10/09/2007  09:05 PM             1,706 oc.tr
+10/16/2007  06:53 AM             7,359 pl.hlp
+10/09/2007  09:05 PM             1,850 pl.tr
+10/16/2007  06:53 AM             7,075 pt.hlp
+10/09/2007  09:05 PM             1,804 pt.tr
+10/16/2007  06:53 AM             7,237 pt_BR.hlp
+10/09/2007  09:05 PM             1,802 pt_BR.tr
+10/09/2007  09:05 PM             1,865 ro.tr
+10/16/2007  06:53 AM            11,039 ru.hlp
+10/09/2007  09:05 PM             3,227 ru.tr
+10/09/2007  09:05 PM             1,882 sk.tr
+10/09/2007  09:05 PM             1,830 sl.tr
+10/09/2007  09:05 PM             1,864 so.tr
+04/19/2007  09:45 PM            19,640 splash.pcx
+04/19/2007  09:45 PM             8,023 splash.rle
+10/09/2007  09:05 PM             1,808 sq.tr
+10/09/2007  09:05 PM             3,126 sr.tr
+10/16/2007  06:53 AM             6,972 sv.hlp
+10/09/2007  09:05 PM             1,785 sv.tr
+10/16/2007  06:53 AM            16,265 ta.hlp
+10/09/2007  09:05 PM             4,596 ta.tr
+10/09/2007  09:05 PM             1,639 te.tr
+10/09/2007  09:05 PM             4,129 th.tr
+10/09/2007  09:05 PM             1,550 tl.tr
+10/09/2007  09:05 PM             1,474 tlh.tr
+10/09/2007  09:05 PM             1,726 tr.tr
+10/09/2007  09:05 PM             2,999 uk.tr
+10/09/2007  09:05 PM             1,662 ur.tr
+10/09/2007  09:05 PM             2,299 vi.tr
+10/16/2007  06:53 AM             6,142 zh_CN.hlp
+10/09/2007  09:05 PM             1,576 zh_CN.tr
+10/09/2007  09:05 PM             1,640 zh_TW.tr
+             116 File(s)        509,753 bytes
+
+ Directory of F:\pics
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+05/16/2006  08:48 PM               294 blue-lowerleft.png
+05/16/2006  08:48 PM               266 blue-lowerright.png
+05/16/2006  08:48 PM               280 blue-upperleft.png
+05/16/2006  08:48 PM               290 blue-upperright.png
+05/16/2006  08:48 PM             8,442 debian.jpg
+05/16/2006  08:48 PM             3,986 logo-50.jpg
+05/16/2006  08:48 PM               353 red-lowerleft.png
+05/16/2006  08:48 PM               299 red-lowerright.png
+05/16/2006  08:48 PM               321 red-upperleft.png
+05/16/2006  08:48 PM               344 red-upperright.png
+              10 File(s)         14,875 bytes
+
+ Directory of F:\pool
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          main
+10/16/2007  06:53 AM    <DIR>          restricted
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          b
+10/16/2007  06:53 AM    <DIR>          d
+10/16/2007  06:53 AM    <DIR>          e
+10/16/2007  06:53 AM    <DIR>          f
+10/16/2007  06:53 AM    <DIR>          g
+10/16/2007  06:53 AM    <DIR>          i
+10/16/2007  06:53 AM    <DIR>          l
+10/16/2007  06:53 AM    <DIR>          m
+10/16/2007  06:53 AM    <DIR>          n
+10/16/2007  06:53 AM    <DIR>          o
+10/16/2007  06:53 AM    <DIR>          p
+10/16/2007  06:53 AM    <DIR>          s
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\b
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          bpalogin
+10/16/2007  06:53 AM    <DIR>          build-essential
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\b\bpalogin
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/13/2007  06:03 PM            22,908 bpalogin_2.0.2-11_i386.deb
+               1 File(s)         22,908 bytes
+
+ Directory of F:\pool\main\b\build-essential
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+07/20/2007  09:03 PM             7,066 build-essential_11.3ubuntu1_i386.deb
+               1 File(s)          7,066 bytes
+
+ Directory of F:\pool\main\d
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          dpkg
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\d\dpkg
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/22/2007  04:03 AM           162,404 dpkg-dev_1.14.5ubuntu16_all.deb
+               1 File(s)        162,404 bytes
+
+ Directory of F:\pool\main\e
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          eagle-usb
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\e\eagle-usb
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+05/24/2007  06:04 PM           422,318 eagle-usb-data_2.1.1-3ubuntu1_all.deb
+05/24/2007  06:04 PM            96,204 eagle-usb-utils_2.1.1-3ubuntu1_i386.deb
+               2 File(s)        518,522 bytes
+
+ Directory of F:\pool\main\f
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          fakeroot
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\f\fakeroot
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+05/18/2007  09:03 PM           111,108 fakeroot_1.7.1ubuntu1_i386.deb
+               1 File(s)        111,108 bytes
+
+ Directory of F:\pool\main\g
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          gcc-4.1
+10/16/2007  06:53 AM    <DIR>          gcc-defaults
+10/16/2007  06:53 AM    <DIR>          glibc
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\g\gcc-4.1
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/29/2007  11:04 PM         2,599,666 g++-4.1_4.1.2-16ubuntu2_i386.deb
+09/29/2007  11:04 PM         1,128,630 libstdc++6-4.1-dev_4.1.2-16ubuntu2_i386.deb
+               2 File(s)      3,728,296 bytes
+
+ Directory of F:\pool\main\g\gcc-defaults
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/04/2007  08:03 AM             1,440 g++_4.1.2-9ubuntu2_i386.deb
+               1 File(s)          1,440 bytes
+
+ Directory of F:\pool\main\g\glibc
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/01/2007  09:03 AM         3,287,192 libc6-dev_2.6.1-1ubuntu9_i386.deb
+               1 File(s)      3,287,192 bytes
+
+ Directory of F:\pool\main\i
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          isdnutils
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\i\isdnutils
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+08/14/2007  02:05 AM            79,222 capiutils_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM           168,208 ipppd_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM           154,866 isdnutils-base_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM            45,916 isdnutils-xtools_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM            40,804 libcapi20-3_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM            28,300 libcapi20-dev_3.10.20070306-0ubuntu3_i386.deb
+08/14/2007  02:05 AM            58,432 pppdcapiplugin_3.10.20070306-0ubuntu3_i386.deb
+               7 File(s)        575,748 bytes
+
+ Directory of F:\pool\main\l
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          linux-atm
+10/16/2007  06:53 AM    <DIR>          linux-source-2.6.22
+10/16/2007  06:53 AM    <DIR>          linux-wlan-ng
+10/16/2007  06:53 AM    <DIR>          localechooser
+10/16/2007  06:53 AM    <DIR>          lupin
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\l\linux-atm
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+08/15/2007  04:05 AM            69,152 libatm1_2.4.1-17.1build1_i386.deb
+               1 File(s)         69,152 bytes
+
+ Directory of F:\pool\main\l\linux-source-2.6.22
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/15/2007  11:04 AM           652,158 linux-libc-dev_2.6.22-14.46_i386.deb
+               1 File(s)        652,158 bytes
+
+ Directory of F:\pool\main\l\linux-wlan-ng
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/11/2007  04:03 PM           109,110 linux-wlan-ng_0.2.8+svn1832+dfsg-2ubuntu1_i386.deb
+               1 File(s)        109,110 bytes
+
+ Directory of F:\pool\main\l\localechooser
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/20/2007  11:15 AM            32,034 localechooser-data_1.38ubuntu2_all.deb
+               1 File(s)         32,034 bytes
+
+ Directory of F:\pool\main\l\lupin
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/03/2007  06:03 AM             3,772 lupin-support_0.8_all.deb
+               1 File(s)          3,772 bytes
+
+ Directory of F:\pool\main\m
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          mouseemu
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\m\mouseemu
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/12/2007  02:06 AM            16,556 mouseemu_0.15-8ubuntu1_i386.deb
+               1 File(s)         16,556 bytes
+
+ Directory of F:\pool\main\n
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          ndiswrapper
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\n\ndiswrapper
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+08/24/2007  11:04 AM            19,168 ndiswrapper-common_1.43-1ubuntu2_all.deb
+08/24/2007  11:04 AM            33,496 ndiswrapper-utils-1.9_1.43-1ubuntu2_i386.deb
+               2 File(s)         52,664 bytes
+
+ Directory of F:\pool\main\o
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          oem-config
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\o\oem-config
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/13/2007  08:05 AM            63,010 oem-config-gtk_1.23_i386.deb
+10/13/2007  08:05 AM           446,276 oem-config_1.23_i386.deb
+               2 File(s)        509,286 bytes
+
+ Directory of F:\pool\main\p
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          patch
+10/16/2007  06:53 AM    <DIR>          pptp-linux
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\p\patch
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+06/20/2006  01:09 AM            95,624 patch_2.5.9-4_i386.deb
+               1 File(s)         95,624 bytes
+
+ Directory of F:\pool\main\p\pptp-linux
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+03/09/2007  09:04 PM            41,960 pptp-linux_1.7.0-2ubuntu2_i386.deb
+               1 File(s)         41,960 bytes
+
+ Directory of F:\pool\main\s
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          setserial
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\main\s\setserial
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+04/27/2007  10:03 PM            60,584 setserial_2.17-44_i386.deb
+               1 File(s)         60,584 bytes
+
+ Directory of F:\pool\restricted
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          d
+10/16/2007  06:53 AM    <DIR>          l
+10/16/2007  06:53 AM    <DIR>          s
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\d
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          drdsl
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\d\drdsl
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+07/17/2006  09:10 PM            26,850 drdsl_1.2.0-1_i386.deb
+               1 File(s)         26,850 bytes
+
+ Directory of F:\pool\restricted\l
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          linux-meta
+10/16/2007  06:53 AM    <DIR>          linux-restricted-modules-2.6.22
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\l\linux-meta
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/15/2007  07:05 PM            25,408 avm-fritz-firmware_2.6.22.14.21_i386.deb
+               1 File(s)         25,408 bytes
+
+ Directory of F:\pool\restricted\l\linux-restricted-modules-2.6.22
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/15/2007  07:05 PM         1,209,374 avm-fritz-firmware-2.6.22-14_3.11+2.6.22.4-14.9_i386.deb
+               1 File(s)      1,209,374 bytes
+
+ Directory of F:\pool\restricted\s
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          sl-modem
+               0 File(s)              0 bytes
+
+ Directory of F:\pool\restricted\s\sl-modem
+
+10/16/2007  06:53 AM    <DIR>          .
+10/16/2007  06:53 AM    <DIR>          ..
+09/30/2007  08:03 AM           509,940 sl-modem-daemon_2.9.10+2.9.9d+e-pre2-5ubuntu4_i386.deb
+               1 File(s)        509,940 bytes
+
+ Directory of F:\preseed
+
+10/16/2007  06:53 AM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+04/19/2007  09:45 PM               212 cli.seed
+04/19/2007  09:45 PM                79 ubuntu.seed
+               2 File(s)            291 bytes
+
+ Directory of F:\programs
+
+09/25/2007  04:40 PM    <DIR>          .
+12/05/2007  12:08 AM    <DIR>          ..
+10/16/2007  06:53 AM    <DIR>          abiword
+10/16/2007  06:53 AM    <DIR>          firefox
+10/16/2007  06:53 AM    <DIR>          thunderbird
+               0 File(s)              0 bytes
+
+ Directory of F:\programs\abiword
+
+10/16/2007  06:53 AM    <DIR>          .
+09/25/2007  04:40 PM    <DIR>          ..
+09/21/2007  05:56 PM         5,410,865 AbiwordSetup.exe
+               1 File(s)      5,410,865 bytes
+
+ Directory of F:\programs\firefox
+
+10/16/2007  06:53 AM    <DIR>          .
+09/25/2007  04:40 PM    <DIR>          ..
+09/21/2007  05:56 PM         6,016,952 FirefoxSetup.exe
+               1 File(s)      6,016,952 bytes
+
+ Directory of F:\programs\thunderbird
+
+10/16/2007  06:53 AM    <DIR>          .
+09/25/2007  04:40 PM    <DIR>          ..
+09/21/2007  07:56 PM         6,725,320 ThunderbirdSetup.exe
+               1 File(s)      6,725,320 bytes
+
+     Total Files Listed:
+             671 File(s)  4,148,551,349 bytes
+             570 Dir(s)               0 bytes free

@@ -1,0 +1,384 @@
+Folder PATH listing for volume ORCL9011_2
+Volume serial number is 5549-5068
+F:\
+\---stage
+    |   disk.label
+    |   
+    \---Components
+        +---oracle.tg
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   doc.0.0.jar
+        |                   
+        +---oracle.apache
+        |   \---1.3.12.0.3a
+        |       \---1
+        |           \---DataFiles
+        |               \---Expanded
+        |                   \---buildInfo
+        |                           build.info
+        |                           
+        +---oracle.bc4j
+        |   \---5.0.0.417.1
+        |       \---1
+        |           \---DataFiles
+        |                   lib_doc.0.0.jar
+        |                   samples.0.0.jar
+        |                   
+        +---oracle.isearch.client
+        |   \---1.0.3.0.0
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   crawler.0.0.jar
+        |                   crawler.0.2.jar
+        |                   htm.0.0.jar
+        |                   jsp.0.0.jar
+        |                   lib.0.0.jar
+        |                   
+        +---oracle.networking.cman
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   exec.0.1.jar
+        |                   sample.0.1.jar
+        |                   
+        +---oracle.rdbms.seeddb.compdss
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   complete_dss.0.0.jar
+        |                   
+        +---oracle.cartridges.context
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   bin.0.6.jar
+        |                   build.0.0.jar
+        |                   data.0.0.jar
+        |                   inso.0.0.jar
+        |                   mesg.0.0.jar
+        |                   sql.0.0.jar
+        |                   sql.1.0.jar
+        |                   sql.2.0.jar
+        |                   sql.3.0.jar
+        |                   sql.4.0.jar
+        |                   thes.0.0.jar
+        |                   
+        +---oracle.assistants.dbca
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   class.0.0.jar
+        |                   doc.0.0.jar
+        |                   doc.0.1.jar
+        |                   exec.0.0.jar
+        |                   template.0.1.jar
+        |                   
+        +---oracle.assistants.dbma
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   bin.0.0.jar
+        |                   build.0.0.jar
+        |                   class.0.0.jar
+        |                   exec.0.0.jar
+        |                   help.0.0.jar
+        |                   help.0.1.jar
+        |                   
+        +---oracle.options.ano.dce
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   lib.0.1.jar
+        |                   
+        +---oracle.rdbms.ds
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   docs.0.0.jar
+        |                   etc.0.0.jar
+        |                   examples.0.0.jar
+        |                   examples.0.1.jar
+        |                   jsp.0.0.jar
+        |                   ldif.0.0.jar
+        |                   lib.0.0.jar
+        |                   utl.0.1.jar
+        |                   xml.0.0.jar
+        |                   
+        +---oracle.emcltprod
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.emprod.agent_ext.frms_agentext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   agent.0.0.jar
+        |                   build.0.0.jar
+        |                   forms.0.0.jar
+        |                   
+        +---oracle.rdbms.hs_odbc
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   build.0.0.jar
+        |                   nt.0.0.jar
+        |                   
+        +---oracle.options.intermedia.imclient
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   doc.0.0.jar
+        |                   lib.0.1.jar
+        |                   
+        +---oracle.java.jdbc
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.webdb.modplsql
+        |   \---3.0.9.0.7
+        |       \---1
+        |           \---DataFiles
+        |                   www_bin.0.1.jar
+        |                   www_cache.0.0.jar
+        |                   www_cache_cookie.0.0.jar
+        |                   www_cache_plsql.0.0.jar
+        |                   www_conf.0.0.jar
+        |                   www_conf.0.2.jar
+        |                   www_help.0.0.jar
+        |                   www_htm.0.0.jar
+        |                   www_images.0.0.jar
+        |                   www_log.0.0.jar
+        |                   www_owa.0.0.jar
+        |                   
+        +---oracle.networking.names
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   exec.0.1.jar
+        |                   
+        +---oracle.emprod.agent_ext.oapps_agentext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   lib.0.1.jar
+        |                   mesg.0.0.jar
+        |                   mesg.0.1.jar
+        |                   oapps.0.1.jar
+        |                   oapps.0.2.jar
+        |                   oapps_config.0.1.jar
+        |                   
+        +---oracle.rdbms.oci
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   demo.0.2.jar
+        |                   demo.0.3.jar
+        |                   lib.0.0.jar
+        |                   public.0.1.jar
+        |                   
+        +---oracle.emprod.agent_ext.oecm_agentext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   bin.0.0.jar
+        |                   build.0.0.jar
+        |                   htm.0.0.jar
+        |                   mesg.0.0.jar
+        |                   mesg.0.1.jar
+        |                   mesg.0.2.jar
+        |                   oecm.0.0.jar
+        |                   
+        +---oracle.emprod.oemagent
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.apache.ojsp
+        |   \---1.1.2.3.0
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   conf.0.1.jar
+        |                   
+        +---oracle.sysman.oms
+        |   \---9.0.1.0.0
+        |       \---1
+        |           \---DataFiles
+        |               \---Expanded
+        |                   \---Scripts
+        |                           emca.bat
+        |                           oemPingOmsInternal.bat
+        |                           oemStopOms.bat
+        |                           OMSNTsrv.exe
+        |                           
+        +---oracle.emprod.agent_ext.ows_agentext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   mesg.0.0.jar
+        |                   ows.0.1.jar
+        |                   
+        +---oracle.rdbms.gateways.plsql
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   admin.0.1.jar
+        |                   build.0.0.jar
+        |                   help.0.0.jar
+        |                   lib.0.1.jar
+        |                   
+        +---oracle.rdbms.repapi
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   lib.0.0.jar
+        |                   sql.0.0.jar
+        |                   
+        +---oracle.rdbms.seeddb
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.isearch.server
+        |   \---1.0.3.0.0
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   data.0.0.jar
+        |                   lib.0.0.jar
+        |                   sql.0.0.jar
+        |                   
+        +---oracle.emprod.agent_ext.sqlsrv_agentext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   agent.0.0.jar
+        |                   build.0.0.jar
+        |                   mesg.0.0.jar
+        |                   ntbin.0.0.jar
+        |                   
+        +---oracle.rdbms.syndication
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   bin.0.1.jar
+        |                   bin.0.2.jar
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   doc.0.0.jar
+        |                   doc.0.1.jar
+        |                   etc.0.0.jar
+        |                   etc.0.1.jar
+        |                   etc.0.2.jar
+        |                   lib.0.0.jar
+        |                   lib.0.1.jar
+        |                   
+        +---oracle.tg.tg4sybs
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   bin.0.0.jar
+        |                   bin.0.2.jar
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   doc.0.0.jar
+        |                   doc.0.2.jar
+        |                   lib.0.1.jar
+        |                   nls.0.0.jar
+        |                   
+        +---oracle.utilities.util
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   exec.0.0.jar
+        |                   mesg.0.0.jar
+        |                   
+        +---oracle.sysman.webserver
+        |   \---9.0.1.0.0
+        |       \---1
+        |           \---DataFiles
+        |                   apache.0.0.jar
+        |                   
+        +---oracle.rdbms.xml
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   sql.0.0.jar
+        |                   xsl.0.0.jar
+        |                   
+        +---oracle.rdbms.seeddb.compoltp
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   complete_oltp.0.0.jar
+        |                   
+        +---oracle.rdbms.hs_olefs
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   olefs.0.0.jar
+        |                   
+        +---oracle.java.ojsp
+        |   \---1.1.2.3.0
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   docs.0.0.jar
+        |                   lib.0.0.jar
+        |                   sbs.0.1.jar
+        |                   
+        +---oracle.sysman.reporting
+        |   \---9.0.1.0.0
+        |       \---1
+        |           \---DataFiles
+        |                   cabo.0.0.jar
+        |                   gif.0.0.jar
+        |                   gif1.0.0.jar
+        |                   
+        +---oracle.java.sqlj
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        \---oracle.rdbms.hs_olesql
+            \---9.0.1.0.1
+                \---1
+                    \---DataFiles
+                            build.0.0.jar
+                            olesql.0.0.jar
+                            

@@ -1,0 +1,143 @@
+Folder PATH listing for volume CD-honeypot
+Volume serial number is 5EDA-EB1D
+G:\
+|   perhatian.txt
+|   
++---honeypot
+|   |   bacadulu.txt
+|   |   baitnswitch-b.2.1.tar.gz
+|   |   shoneypot-0.2-7.tar.gz
+|   |   valhala.zip
+|   |   
+|   +---Bof
+|   |   +---bof-unix
+|   |   |   |   LICENSE.TXT
+|   |   |   |   Makefile
+|   |   |   |   README
+|   |   |   |   backofficer.c
+|   |   |   |   backofficer.tar
+|   |   |   |   
+|   |   |   \---RCS
+|   |   |           LICENSE.TXT,v
+|   |   |           Makefile,v
+|   |   |           README,v
+|   |   |           backofficer.c,v
+|   |   |           
+|   |   \---bof-win
+|   |       |   ALERTS.HTM
+|   |       |   CONTENTS.HTM
+|   |       |   INDEX.HTM
+|   |       |   INSTALL.HTM
+|   |       |   INSTAL~1.HTM
+|   |       |   LEGAL.HTM
+|   |       |   OVERVIEW.HTM
+|   |       |   README.txt
+|   |       |   SCAN.HTM
+|   |       |   SCANNI~1.HTM
+|   |       |   UNIX.HTM
+|   |       |   WATCHING.HTM
+|   |       |   license.txt
+|   |       |   nfrbofl.exe
+|   |       |   
+|   |       \---IMAGES
+|   |               COP100.GIF
+|   |               COP100~1.GIF
+|   |               ENABLE.GIF
+|   |               HOSTILE.GIF
+|   |               IMAGES.HTM
+|   |               IMAGES~1.HTM
+|   |               LOGO-S~1.GIF
+|   |               LOGO.GIF
+|   |               NOSY.GIF
+|   |               SCAN.GIF
+|   |               WARNING.GIF
+|   |               WARNIN~1.GIF
+|   |               
+|   +---DTK
+|   |       dtk.tar
+|   |       
+|   +---HoneyWeb
+|   |       HoneyWeb-0.4.tar
+|   |       HoneyWeb.txt
+|   |       
+|   +---LaBreaTarpid
+|   |       LaBrea.txt
+|   |       LaBrea2_3.tgz
+|   |       LaBreaNT2_0.zip
+|   |       labrea-2.5-stable-1-win-exec.zip
+|   |       labrea-2.5-stable-1.tar.gz
+|   |       labrea-2.5b-2.suse82.i386.rpm
+|   |       
+|   +---honeyd
+|   |   |   arpd-0.2.tar.gz
+|   |   |   honeyd-0.7a-beta2.tgz
+|   |   |   honeyd-0.8b.tar.gz
+|   |   |   honeyd-linux-kit-0.6.tgz
+|   |   |   honeyview-1.0.tar.gz
+|   |   |   
+|   |   \---HoneydWin
+|   |           WIN32_README.txt
+|   |           WinPcap_3_1_beta.exe
+|   |           honeyd-0.5-win32.diff.txt
+|   |           honeyd-0.5a-win32.zip
+|   |           libdnet-1.5-msvc.zip
+|   |           libevent-0.6-win32.zip
+|   |           
+|   +---jackpot
+|   |       jackpot-1.2.2.zip
+|   |       
+|   +---library
+|   |       WINPCAP_2_3.EXE
+|   |       WinPcap_3_1_beta.exe
+|   |       libdnet-1.2.tar.gz
+|   |       libdnet-1.7.tar.gz
+|   |       libdnet-1.8.tar.gz
+|   |       libevent-0.7.tar.gz
+|   |       libnet.tar.gz
+|   |       libpcap-0.7.1.tar.gz
+|   |       libpcap-0.8.1.tar.gz
+|   |       
+|   +---netbuster
+|   |       netbuster1_31.zip
+|   |       
+|   \---wormradar
+|           WormRadar.exe
+|           
++---j2sdk
+|   +---GNUZipTarShell
+|   |       j2sdk-1_4_0-linux-i386.bin
+|   |       
+|   +---RedHatRPM
+|   |       j2sdk-1_4_0-linux-i386-rpm.bin
+|   |       
+|   \---Windows
+|           j2sdk-1_4_0-win.exe
+|           
++---tool-tes
+|   |   AntiPC.zip
+|   |   WINPCAP_3_0.EXE
+|   |   info.txt
+|   |   nmapwin_1.3.0.exe
+|   |   the_bat.exe
+|   |   
+|   \---brutus
+|           Example_su_root.bad
+|           NetBus.bad
+|           SMTP_RCPT_User.bad
+|           SMTP_VRFY_User.bad
+|           brutus-aet2.zip
+|           
++---trojan
+|       NetBus170.zip
+|       bacadulu.txt
+|       bo.zip
+|       bo2k_1_0_full.zip
+|       nb2pro.zip
+|       netbus20.zip
+|       s7a.zip
+|       
+\---wipe
+        Eraser57Setup.zip
+        bacadulu.txt
+        dban-1.0.3_i386.zip
+        

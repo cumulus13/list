@@ -1,0 +1,319 @@
+Folder PATH listing for volume OFFICE 2007
+Volume serial number is 61D9-E6E0
+G:\
+|   README.HTM
+|   autorun.inf
+|   setup.exe
+|   sn office 2007.txt
+|   
++---Access.en-us
+|   |   AccessMUISet.msi
+|   |   AccessMUISet.xml
+|   |   setup.xml
+|   |   
+|   \---Access.en-us
+|           AccLR.cab
+|           AccessMUI.msi
+|           AccessMUI.xml
+|           
++---Admin
+|   |   oct.dll
+|   |   octca.dll
+|   |   
+|   +---de-de
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---en-us
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---es-es
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---fr-fr
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---it-it
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---ja-jp
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---ko-kr
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   +---zh-cn
+|   |       access12.opa
+|   |       cpao12.opa
+|   |       excel12.opa
+|   |       groove12.opa
+|   |       ic12.opa
+|   |       inf12.opa
+|   |       oct.chm
+|   |       octres.dll
+|   |       office12.opa
+|   |       onent12.opa
+|   |       outlk12.opa
+|   |       ppt12.opa
+|   |       proj12.opa
+|   |       pub12.opa
+|   |       spd12.opa
+|   |       visio12.opa
+|   |       word12.opa
+|   |       
+|   \---zh-tw
+|           access12.opa
+|           cpao12.opa
+|           excel12.opa
+|           groove12.opa
+|           ic12.opa
+|           inf12.opa
+|           oct.chm
+|           octres.dll
+|           office12.opa
+|           onent12.opa
+|           outlk12.opa
+|           ppt12.opa
+|           proj12.opa
+|           pub12.opa
+|           spd12.opa
+|           visio12.opa
+|           word12.opa
+|           
++---Catalog
+|       files12.cat
+|       
++---Enterprise.WW
+|       EnterWW.cab
+|       EnterpriseWW.msi
+|       EnterpriseWW.xml
+|       ID_00030.DPC
+|       OWOW64WW.cab
+|       Office64WW.msi
+|       Office64WW.xml
+|       config.xml
+|       ose.exe
+|       osetup.dll
+|       setup.xml
+|       
++---Excel.en-us
+|       ExcelLR.cab
+|       ExcelMUI.msi
+|       ExcelMUI.xml
+|       setup.xml
+|       
++---Groove.en-us
+|   |   GrooveMUISet.msi
+|   |   GrooveMUISet.xml
+|   |   setup.xml
+|   |   
+|   \---Groove.en-us
+|           GrooveLR.cab
+|           GrooveMUI.msi
+|           GrooveMUI.xml
+|           
++---InfoPath.en-us
+|       InfLR.cab
+|       InfoPathMUI.msi
+|       InfoPathMUI.xml
+|       setup.xml
+|       
++---Office.en-us
+|   |   DW20.EXE
+|   |   Microsoft.VC80.CRT.manifest
+|   |   OfficeLR.cab
+|   |   OfficeMUI.msi
+|   |   OfficeMUI.xml
+|   |   OfficeMUISet.msi
+|   |   OfficeMUISet.xml
+|   |   ShellUI.MST
+|   |   branding.xml
+|   |   dwdcw20.dll
+|   |   dwtrig20.exe
+|   |   msvcr80.dll
+|   |   osetupui.dll
+|   |   pss10r.chm
+|   |   setup.chm
+|   |   setup.xml
+|   |   
+|   \---1033
+|           dwintl20.dll
+|           
++---Office64.en-us
+|       OWOW64LR.cab
+|       Office64MUI.msi
+|       Office64MUI.xml
+|       Office64MUISet.msi
+|       Office64MUISet.xml
+|       setup.xml
+|       
++---OneNote.en-us
+|       OneNoteMUI.msi
+|       OneNoteMUI.xml
+|       OnoteLR.cab
+|       setup.xml
+|       
++---Outlook.en-us
+|       OutlkLR.cab
+|       OutlookMUI.msi
+|       OutlookMUI.xml
+|       setup.xml
+|       
++---PowerPoint.en-us
+|       PowerPointMUI.msi
+|       PowerPointMUI.xml
+|       PptLR.cab
+|       setup.xml
+|       
++---Proofing.en-us
+|   |   Proofing.msi
+|   |   Proofing.xml
+|   |   setup.xml
+|   |   
+|   +---Proof.en
+|   |       Proof.cab
+|   |       Proof.msi
+|   |       Proof.xml
+|   |       
+|   +---Proof.es
+|   |       Proof.cab
+|   |       Proof.msi
+|   |       Proof.xml
+|   |       
+|   \---Proof.fr
+|           Proof.cab
+|           Proof.msi
+|           Proof.xml
+|           
++---Publisher.en-us
+|       PubLR.cab
+|       PublisherMUI.msi
+|       PublisherMUI.xml
+|       setup.xml
+|       
++---Rosebud.en-us
+|       RbudLR.cab
+|       RosebudMUI.msi
+|       RosebudMUI.xml
+|       setup.xml
+|       
++---Updates
+|       README.TXT
+|       
+\---Word.en-us
+        WordLR.cab
+        WordMUI.msi
+        WordMUI.xml
+        setup.xml
+        

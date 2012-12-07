@@ -1,0 +1,89 @@
+ Volume in drive G is Buku PgSQL
+ Volume Serial Number is 0175-0B04
+
+ Directory of G:\
+
+08/01/2005  02:02 PM    <DIR>          KNOPPIX
+06/17/2001  03:50 PM                54 autorun.bat
+02/23/2003  10:23 AM                45 autorun.inf
+05/02/2004  03:35 AM               967 autorun.pif
+01/11/2004  03:40 AM    <DIR>          boot
+02/28/2005  07:41 AM             7,158 cdrom.ico
+07/21/2005  07:43 PM    <DIR>          doc
+05/08/2005  12:13 AM             1,823 index.html
+               5 File(s)         10,047 bytes
+
+ Directory of G:\KNOPPIX
+
+08/01/2005  02:02 PM    <DIR>          .
+07/31/2005  01:37 PM    <DIR>          ..
+08/01/2005  02:02 PM       729,085,507 KNOPPIX
+10/20/2004  07:10 AM             9,339 KNOPPIX-FAQ-EN.txt
+03/21/2005  06:24 AM             9,742 KNOPPIX-FAQ-ES.txt
+10/20/2004  07:11 AM            11,000 KNOPPIX-FAQ-FR.txt
+10/20/2004  07:12 AM            10,751 KNOPPIX-FAQ-IT.txt
+10/20/2004  07:12 AM             9,735 KNOPPIX-FAQ-NL.txt
+10/20/2004  07:13 AM            10,354 KNOPPIX-FAQ.txt
+10/04/2003  02:46 AM            18,487 LICENSE.txt
+02/23/2005  02:12 PM           363,520 MkImage-ct.exe
+04/28/2004  06:36 AM             2,207 README_Security.txt
+05/08/2005  12:10 AM           225,368 background.jpg
+05/08/2005  02:44 AM    <DIR>          images
+05/08/2005  01:09 AM             8,637 index.html
+05/08/2005  01:09 AM            11,311 index_dk.html
+05/08/2005  01:09 AM             8,125 index_en.html
+05/08/2005  01:09 AM            12,361 index_es.html
+05/08/2005  01:09 AM            10,882 index_fr.html
+05/08/2005  01:09 AM            10,297 index_it.html
+05/08/2005  01:09 AM            12,922 index_jp.html
+05/08/2005  01:09 AM            10,215 index_nl.html
+05/08/2005  01:09 AM            14,550 index_ru.html
+04/06/2005  08:27 AM             9,450 knoppix-cheatcodes.txt
+05/27/2005  09:19 AM                15 knoppix-version
+08/01/2005  02:02 PM             2,512 md5sums
+03/21/2005  06:29 AM             8,192 mkimg-de.exe
+03/21/2005  06:30 AM             9,788 mkimg-src.zip
+              25 File(s)    729,885,267 bytes
+
+ Directory of G:\KNOPPIX\images
+
+05/08/2005  02:44 AM    <DIR>          .
+08/01/2005  02:02 PM    <DIR>          ..
+05/08/2005  01:18 AM           131,824 knoppix-24-1.jpg
+05/08/2005  01:45 AM            46,627 knoppix-header.gif
+               2 File(s)        178,451 bytes
+
+ Directory of G:\boot
+
+01/11/2004  03:40 AM    <DIR>          .
+07/31/2005  01:37 PM    <DIR>          ..
+08/01/2005  10:37 AM    <DIR>          isolinux
+               0 File(s)              0 bytes
+
+ Directory of G:\boot\isolinux
+
+08/01/2005  10:37 AM    <DIR>          .
+01/11/2004  03:40 AM    <DIR>          ..
+08/01/2005  02:03 PM             2,048 boot.cat
+08/01/2005  10:37 AM               132 boot.msg
+06/01/2005  03:15 PM             1,591 f2
+06/01/2005  03:15 PM             1,675 f3
+01/11/2004  07:02 AM               256 german.kbd
+08/01/2005  07:00 AM             9,404 isolinux.bin
+08/01/2005  10:37 AM             2,292 isolinux.cfg
+06/01/2005  05:03 AM         1,531,698 linux
+08/01/2005  10:37 AM            10,631 logo.16
+08/10/2004  11:40 AM            86,980 memtest
+08/01/2005  10:37 AM           913,745 minirt.gz
+              11 File(s)      2,560,452 bytes
+
+ Directory of G:\doc
+
+07/21/2005  07:43 PM    <DIR>          .
+07/31/2005  01:37 PM    <DIR>          ..
+08/01/2005  02:02 PM           115,323 remaster_3.9_2005-05-27.tgz
+               1 File(s)        115,323 bytes
+
+     Total Files Listed:
+              44 File(s)    732,749,540 bytes
+              15 Dir(s)               0 bytes free

@@ -1,0 +1,2119 @@
+Folder PATH listing for volume BORLAND C++ BUIL
+Volume serial number is 14E9-1213
+F:\
+|   readme.txt
+|   readme.rtf
+|   privacy.txt
+|   privacy.rtf
+|   license.txt
+|   license.rtf
+|   install.txt
+|   install.rtf
+|   deploy.txt
+|   deploy.rtf
+|   csharpbuild.slip
+|   autorun.inf
+|   MSDEInfo.txt
+|   MSDEInfo.rtf
+|   Install.ini
+|   Install.exe
+|   EULA_Crystal Reports.rtf
+|   C#BUILDER.ICO
+|   
++---ib7
+|   |   index.html
+|   |   
+|   +---IBDocs
+|   |   |   Install.txt
+|   |   |   License.txt
+|   |   |   Readme.txt
+|   |   |   ReleaseNotes.pdf
+|   |   |   SETUPAPI.DLL
+|   |   |   cfgmgr32.dll
+|   |   |   ibinstall.dll
+|   |   |   
+|   |   \---Doc
+|   |       |   2AllBooks.pdf
+|   |       |   APIGuide.pdf
+|   |       |   DataDef.pdf
+|   |       |   DevGuide.pdf
+|   |       |   EmbedSQL.pdf
+|   |       |   Ft3index.pdx
+|   |       |   LangRef.pdf
+|   |       |   OpGuide.pdf
+|   |       |   ReleaseNotes.pdf
+|   |       |   
+|   |       \---Ft3index
+|   |           +---assists
+|   |           |       00000000.abt
+|   |           |       00000000.wld
+|   |           |       00000001.abt
+|   |           |       00000002.abt
+|   |           |       00000003.abt
+|   |           |       00000004.abt
+|   |           |       acrocat.cat
+|   |           |       
+|   |           +---morgue
+|   |           |       acrocat.cat
+|   |           |       
+|   |           +---parts
+|   |           |       00000001.ddd
+|   |           |       00000001.did
+|   |           |       
+|   |           +---pdd
+|   |           |       00000000.pdd
+|   |           |       
+|   |           +---style
+|   |           |       style.ddd
+|   |           |       style.did
+|   |           |       style.pdd
+|   |           |       style.plc
+|   |           |       style.stp
+|   |           |       style.wld
+|   |           |       
+|   |           +---temp
+|   |           |       acrocat.cat
+|   |           |       
+|   |           +---topicidx
+|   |           |       acrocat.cat
+|   |           |       
+|   |           +---trans
+|   |           |       acrocat.cat
+|   |           |       data.trn
+|   |           |       
+|   |           \---work
+|   |                   acrocat.cat
+|   |                   
+|   +---setup
+|   |   |   categories.html
+|   |   |   license_info.html
+|   |   |   main.html
+|   |   |   setup.css
+|   |   |   topbanner.html
+|   |   |   
+|   |   \---images
+|   |           header2_ib70.gif
+|   |           header3_ib70.gif
+|   |           header_ib65.gif
+|   |           header_ib70.gif
+|   |           
+|   \---win32
+|       |   Install.txt
+|       |   License.txt
+|       |   Readme.txt
+|       |   SETUPAPI.DLL
+|       |   Setup.exe
+|       |   cfgmgr32.dll
+|       |   gds32.dll
+|       |   ibinstall.dll
+|       |   ibuninst.exe
+|       |   msvcrt.dll
+|       |   
+|       +---Adobe
+|       |       rp505enu.exe
+|       |       
+|       +---Client
+|       |   |   Install.txt
+|       |   |   License.txt
+|       |   |   Readme.txt
+|       |   |   ReleaseNotes.pdf
+|       |   |   gds32.dll
+|       |   |   ib_license.dat
+|       |   |   ibinstall.dll
+|       |   |   interbase.msg
+|       |   |   msvcrt.dll
+|       |   |   
+|       |   +---Doc
+|       |   |       How2GetDocs.txt
+|       |   |       
+|       |   +---HtmlRef
+|       |   |       APIFunctionRef.html
+|       |   |       SqlRef.html
+|       |   |       
+|       |   +---Microsoft
+|       |   |       401comupd.exe
+|       |   |       
+|       |   +---SDK
+|       |   |   +---include
+|       |   |   |       IBInstall.pas
+|       |   |   |       ib_util.h
+|       |   |   |       ib_util.pas
+|       |   |   |       ibase.h
+|       |   |   |       iberror.h
+|       |   |   |       ibinstall.h
+|       |   |   |       ibxml.h
+|       |   |   |       ibxml_proto.h
+|       |   |   |       
+|       |   |   +---lib
+|       |   |   |       gds32.lib
+|       |   |   |       ib_util.lib
+|       |   |   |       ibinstall.lib
+|       |   |   |       ibxml.lib
+|       |   |   |       
+|       |   |   \---lib_ms
+|       |   |           gds32_ms.lib
+|       |   |           ib_util_ms.lib
+|       |   |           ibinstall_ms.lib
+|       |   |           ibxml_ms.lib
+|       |   |           
+|       |   +---bin
+|       |   |       IBConsole.cnt
+|       |   |       IBConsole.exe
+|       |   |       IBConsole.hlp
+|       |   |       IBRepl.exe
+|       |   |       IBReplServer.exe
+|       |   |       IBReplSrvcInstall.exe
+|       |   |       IBRplManager.cnt
+|       |   |       IBRplManager.exe
+|       |   |       IBRplManager.gid
+|       |   |       IBRplManager.hlp
+|       |   |       IBScheduler.exe
+|       |   |       SQLREF.HLP
+|       |   |       SqlRef.cnt
+|       |   |       gbak.exe
+|       |   |       gds32.dll
+|       |   |       gfix.exe
+|       |   |       gpre.exe
+|       |   |       gsec.exe
+|       |   |       ib32.cnt
+|       |   |       ib32.hlp
+|       |   |       ibgloss.cnt
+|       |   |       ibgloss.hlp
+|       |   |       iblicense.dll
+|       |   |       iblicense.exe
+|       |   |       ibxml.dll
+|       |   |       instreg.exe
+|       |   |       isql.exe
+|       |   |       perform.cnt
+|       |   |       perform.hlp
+|       |   |       
+|       |   \---examples
+|       |       |   Readme.txt
+|       |       |   
+|       |       +---api
+|       |       |       Makefile.bc
+|       |       |       Makefile.msc
+|       |       |       align.h
+|       |       |       api1.c
+|       |       |       api10.c
+|       |       |       api11.c
+|       |       |       api12.c
+|       |       |       api13.c
+|       |       |       api15.c
+|       |       |       api16.c
+|       |       |       api16t.c
+|       |       |       api2.c
+|       |       |       api3.c
+|       |       |       api4.c
+|       |       |       api5.c
+|       |       |       api6.c
+|       |       |       api7.c
+|       |       |       api8.c
+|       |       |       apifull.c
+|       |       |       employe2.sql
+|       |       |       example.h
+|       |       |       xml_api_buffer.c
+|       |       |       xml_api_file.c
+|       |       |       
+|       |       +---gpre
+|       |       |       Makefile.bc
+|       |       |       Makefile.msc
+|       |       |       api14.e
+|       |       |       dyn1.e
+|       |       |       dyn2.e
+|       |       |       dyn3.e
+|       |       |       dyn4.e
+|       |       |       dyn5.e
+|       |       |       dynfull.e
+|       |       |       employe2.sql
+|       |       |       stat1.e
+|       |       |       stat10.e
+|       |       |       stat11.e
+|       |       |       stat12.e
+|       |       |       stat12t.e
+|       |       |       stat2.e
+|       |       |       stat3.e
+|       |       |       stat4.e
+|       |       |       stat5.e
+|       |       |       stat6.e
+|       |       |       stat7.e
+|       |       |       stat8.e
+|       |       |       stat9.e
+|       |       |       
+|       |       \---services
+|       |               get_log.c
+|       |               gstat.c
+|       |               isc_info_svc_all.c
+|       |               query_database_info.c
+|       |               start_backup.c
+|       |               start_backup_1.c
+|       |               start_backup_split.c
+|       |               start_license_add.c
+|       |               start_restore.c
+|       |               start_restore_join.c
+|       |               start_user_add.c
+|       |               start_user_delete.c
+|       |               start_user_display.c
+|       |               start_user_modify.c
+|       |               
+|       +---IBX
+|       |       FrenchResources_45.zip
+|       |       GermanResource_45.zip
+|       |       IBXBCB504Upd.EXE
+|       |       IBXBCB605.EXE
+|       |       IBXDP504Upd.EXE
+|       |       IBXDP605.EXE
+|       |       IBXDP705.EXE
+|       |       
+|       +---InterClient
+|       |   |   ibinstall.dll
+|       |   |   interclient.jar
+|       |   |   
+|       |   +---docs
+|       |   |   |   alldocs-frame.html
+|       |   |   |   docs.html
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   +---examples
+|       |   |   |       DataSourceExample.txt
+|       |   |   |       DriverExample.txt
+|       |   |   |       ExampleTests.txt
+|       |   |   |       JNDIExample.txt
+|       |   |   |       PerformanceTests.txt
+|       |   |   |       ServerManagerExample.txt
+|       |   |   |       
+|       |   |   +---help
+|       |   |   |       help.html
+|       |   |   |       icAccessingExtensions.html
+|       |   |   |       icArray.html
+|       |   |   |       icCharacters.html
+|       |   |   |       icConnectionProperties.html
+|       |   |   |       icDeveloperSystemRequirements.html
+|       |   |   |       icDistributingYourJavaApplication.html
+|       |   |   |       icEndUserRequirements.html
+|       |   |   |       icExtensions.html
+|       |   |   |       icExternalResources.html
+|       |   |   |       icGettingAConnection.html
+|       |   |   |       icJDBCTypes.html
+|       |   |   |       icJarFiles.html
+|       |   |   |       icJavadoc.html
+|       |   |   |       icResources.html
+|       |   |   |       icSQLStates.html
+|       |   |   |       icSystemConfiguration.html
+|       |   |   |       icTechSupport.html
+|       |   |   |       icTroubleShooting.html
+|       |   |   |       icURLSyntax.html
+|       |   |   |       icUninstallingInterClient.html
+|       |   |   |       icUsingTheInterServerConfigurationUtility.html
+|       |   |   |       
+|       |   |   +---images
+|       |   |   |       background.jpg
+|       |   |   |       customHierarchy.gif
+|       |   |   |       
+|       |   |   +---introduction
+|       |   |   |   |   PROGGcon.html
+|       |   |   |   |   PROGGov.html
+|       |   |   |   |   PROGGprf.html
+|       |   |   |   |   PROGGsp.html
+|       |   |   |   |   PROGGsql.html
+|       |   |   |   |   PROGGts.html
+|       |   |   |   |   PROGdepl.html
+|       |   |   |   |   PROGdrvr.html
+|       |   |   |   |   PROGjdbc.html
+|       |   |   |   |   introduction.html
+|       |   |   |   |   
+|       |   |   |   \---images
+|       |   |   |           fig1.gif
+|       |   |   |           fig2.gif
+|       |   |   |           fig3.gif
+|       |   |   |           fig5.gif
+|       |   |   |           
+|       |   |   +---readmes
+|       |   |   |       Install.txt
+|       |   |   |       JBuilderNotes.txt
+|       |   |   |       License.txt
+|       |   |   |       Readme.txt
+|       |   |   |       Relnotes.txt
+|       |   |   |       
+|       |   |   +---slide_show
+|       |   |   |   |   agenda.html
+|       |   |   |   |   bdeArch.html
+|       |   |   |   |   class1JdbcArch.html
+|       |   |   |   |   class2JdbcArch.html
+|       |   |   |   |   class3JdbcArch.html
+|       |   |   |   |   class4JdbcArch.html
+|       |   |   |   |   corba.html
+|       |   |   |   |   coverPage.html
+|       |   |   |   |   demoPerformance.html
+|       |   |   |   |   driverPerformance.html
+|       |   |   |   |   driversTested.html
+|       |   |   |   |   featureDemos.html
+|       |   |   |   |   features.html
+|       |   |   |   |   jdbc2core.html
+|       |   |   |   |   jdbc2extensions.html
+|       |   |   |   |   jdbcBasics.html
+|       |   |   |   |   jdbcBasicsGettingAConnection.html
+|       |   |   |   |   jdbcBasicsRetrievingResults.html
+|       |   |   |   |   jdbcBasicsSubmittingSQL.html
+|       |   |   |   |   jdbcBasicsSummary.html
+|       |   |   |   |   networkCapableDrivers.html
+|       |   |   |   |   odbcArch.html
+|       |   |   |   |   performanceHints.html
+|       |   |   |   |   rpcVsMom.html
+|       |   |   |   |   theEnd.html
+|       |   |   |   |   tieredArch.html
+|       |   |   |   |   usingADriverExtension.html
+|       |   |   |   |   usingIcWithJBuilder.html
+|       |   |   |   |   whatIsJdbc.html
+|       |   |   |   |   whatsComing.html
+|       |   |   |   |   wheresTheBeef.html
+|       |   |   |   |   
+|       |   |   |   \---images
+|       |   |   |           2tierArch.gif
+|       |   |   |           3tierArch.gif
+|       |   |   |           archTemplate.gif
+|       |   |   |           bdeArch.gif
+|       |   |   |           class1JdbcArch.gif
+|       |   |   |           class2JdbcArch.gif
+|       |   |   |           class3JdbcArch.gif
+|       |   |   |           class4JdbcArch.gif
+|       |   |   |           dts.gif
+|       |   |   |           jdbcapi1.gif
+|       |   |   |           jdbcapi2.gif
+|       |   |   |           jdbcapi3.gif
+|       |   |   |           momvsrpc.gif
+|       |   |   |           odbcArch.gif
+|       |   |   |           
+|       |   |   \---specifications
+|       |   |       |   allclasses-frame.html
+|       |   |       |   deprecated-list.html
+|       |   |       |   help-doc.html
+|       |   |       |   index-all.html
+|       |   |       |   index.html
+|       |   |       |   overview-frame.html
+|       |   |       |   overview-summary.html
+|       |   |       |   overview-tree.html
+|       |   |       |   package-list
+|       |   |       |   packages.html
+|       |   |       |   serialized-form.html
+|       |   |       |   stylesheet.css
+|       |   |       |   
+|       |   |       \---interbase
+|       |   |           \---interclient
+|       |   |               |   Adaptor.html
+|       |   |               |   Array.html
+|       |   |               |   BadInstallationException.html
+|       |   |               |   Blob.html
+|       |   |               |   BlobIOException.html
+|       |   |               |   BugCheckException.html
+|       |   |               |   CallableStatement.html
+|       |   |               |   CharacterEncodingException.html
+|       |   |               |   CharacterEncodings.html
+|       |   |               |   Clob.html
+|       |   |               |   ColumnConversionException.html
+|       |   |               |   ColumnIndexOutOfBoundsException.html
+|       |   |               |   CommunicationException.html
+|       |   |               |   Connection.html
+|       |   |               |   ConnectionCache.html
+|       |   |               |   ConnectionPoolDataSource.html
+|       |   |               |   ConnectionPoolModule.html
+|       |   |               |   ConnectionProperties.html
+|       |   |               |   CorruptDatabaseException.html
+|       |   |               |   DataConversionException.html
+|       |   |               |   DataSource.html
+|       |   |               |   DatabaseMetaData.html
+|       |   |               |   DatabaseStatistics.html
+|       |   |               |   DeadlockException.html
+|       |   |               |   Driver.html
+|       |   |               |   DriverNotCapableException.html
+|       |   |               |   ErrorCodes.html
+|       |   |               |   EscapeSyntaxException.html
+|       |   |               |   ExpiredDriverException.html
+|       |   |               |   ExpiredDriverWarning.html
+|       |   |               |   InvalidArgumentException.html
+|       |   |               |   InvalidOperationException.html
+|       |   |               |   LockConflictException.html
+|       |   |               |   ObjectFactory.html
+|       |   |               |   OutOfMemoryException.html
+|       |   |               |   ParameterConversionException.html
+|       |   |               |   ParameterIndexOutOfBoundsException.html
+|       |   |               |   ParameterMetaData.html
+|       |   |               |   PooledConnection.html
+|       |   |               |   PreparedStatement.html
+|       |   |               |   RemoteProtocolException.html
+|       |   |               |   Resources.html
+|       |   |               |   Resources_ru.html
+|       |   |               |   ResultSet.html
+|       |   |               |   ResultSetMetaData.html
+|       |   |               |   SQLDialectAdjustmentWarning.html
+|       |   |               |   SQLDialectException.html
+|       |   |               |   ServerManager.html
+|       |   |               |   SocketTimeoutException.html
+|       |   |               |   Statement.html
+|       |   |               |   URLSyntaxException.html
+|       |   |               |   UnauthorizedUserException.html
+|       |   |               |   UnavailableDatabaseFileException.html
+|       |   |               |   UnavailableInterBaseServerException.html
+|       |   |               |   UnknownHostException.html
+|       |   |               |   UnlicensedComponentException.html
+|       |   |               |   UnsupportedCharacterSetException.html
+|       |   |               |   UpdateConflictException.html
+|       |   |               |   XAConnection.html
+|       |   |               |   XADataSource.html
+|       |   |               |   XAResource.html
+|       |   |               |   package-frame.html
+|       |   |               |   package-summary.html
+|       |   |               |   package-tree.html
+|       |   |               |   
+|       |   |               \---utils
+|       |   |                       CommDiag.html
+|       |   |                       Resources.html
+|       |   |                       Resources_ru.html
+|       |   |                       package-frame.html
+|       |   |                       package-summary.html
+|       |   |                       package-tree.html
+|       |   |                       
+|       |   +---examples
+|       |   |       DataSourceExample.java
+|       |   |       DriverExample.java
+|       |   |       ExampleTests.java
+|       |   |       JNDIExample.java
+|       |   |       PerformanceTests.java
+|       |   |       ServerManagerExample.java
+|       |   |       
+|       |   \---jbuilder_help
+|       |           interclient.dat
+|       |           interclient.zip
+|       |           
+|       +---ODBC
+|       |       DATA.TAG
+|       |       IB7ODBC.ZIP
+|       |       SETUP.INI
+|       |       Setup.exe
+|       |       _INST32I.EX_
+|       |       _ISDel.exe
+|       |       _Setup.dll
+|       |       _sys1.cab
+|       |       _sys1.hdr
+|       |       _user1.cab
+|       |       _user1.hdr
+|       |       data1.cab
+|       |       data1.hdr
+|       |       lang.dat
+|       |       layout.bin
+|       |       os.dat
+|       |       setup.bmp
+|       |       setup.ins
+|       |       setup.lid
+|       |       
+|       +---Server
+|       |   |   Install.txt
+|       |   |   License.txt
+|       |   |   Readme.txt
+|       |   |   ReleaseNotes.pdf
+|       |   |   admin.ib
+|       |   |   admin.ibk
+|       |   |   gds32.dll
+|       |   |   ib_license.dat
+|       |   |   ibconfig
+|       |   |   ibinstall.dll
+|       |   |   interbase.msg
+|       |   |   msvcrt.dll
+|       |   |   
+|       |   +---Doc
+|       |   |       How2GetDocs.txt
+|       |   |       
+|       |   +---Microsoft
+|       |   |       401comupd.exe
+|       |   |       
+|       |   +---SDK
+|       |   |   +---include
+|       |   |   |       IBInstall.pas
+|       |   |   |       ib_util.h
+|       |   |   |       ib_util.pas
+|       |   |   |       ibase.h
+|       |   |   |       iberror.h
+|       |   |   |       ibinstall.h
+|       |   |   |       ibxml.h
+|       |   |   |       ibxml_proto.h
+|       |   |   |       
+|       |   |   +---lib
+|       |   |   |       gds32.lib
+|       |   |   |       ib_util.lib
+|       |   |   |       ibinstall.lib
+|       |   |   |       ibxml.lib
+|       |   |   |       
+|       |   |   \---lib_ms
+|       |   |           gds32_ms.lib
+|       |   |           ib_util_ms.lib
+|       |   |           ibinstall_ms.lib
+|       |   |           ibxml_ms.lib
+|       |   |           
+|       |   +---UDF
+|       |   |       ib_udf.dll
+|       |   |       
+|       |   +---bin
+|       |   |       IBRepl.exe
+|       |   |       IBReplServer.exe
+|       |   |       IBReplSrvcInstall.exe
+|       |   |       IBRplManager.cnt
+|       |   |       IBRplManager.exe
+|       |   |       IBRplManager.gid
+|       |   |       IBRplManager.hlp
+|       |   |       IBScheduler.exe
+|       |   |       gbak.exe
+|       |   |       gds32.dll
+|       |   |       gfix.exe
+|       |   |       gpre.exe
+|       |   |       gsec.exe
+|       |   |       gstat.exe
+|       |   |       ib32.cnt
+|       |   |       ib32.hlp
+|       |   |       ib_util.dll
+|       |   |       ibgloss.cnt
+|       |   |       ibgloss.hlp
+|       |   |       ibguard.exe
+|       |   |       iblicense.dll
+|       |   |       iblicense.exe
+|       |   |       iblockpr.exe
+|       |   |       ibmgr.cpl
+|       |   |       ibserver.cnt
+|       |   |       ibserver.exe
+|       |   |       ibserver.hlp
+|       |   |       ibxml.dll
+|       |   |       instreg.exe
+|       |   |       instsvc.exe
+|       |   |       isql.exe
+|       |   |       perform.cnt
+|       |   |       perform.hlp
+|       |   |       
+|       |   +---examples
+|       |   |   |   Readme.txt
+|       |   |   |   
+|       |   |   +---api
+|       |   |   |       Makefile.bc
+|       |   |   |       Makefile.msc
+|       |   |   |       align.h
+|       |   |   |       api1.c
+|       |   |   |       api10.c
+|       |   |   |       api11.c
+|       |   |   |       api12.c
+|       |   |   |       api13.c
+|       |   |   |       api15.c
+|       |   |   |       api16.c
+|       |   |   |       api16t.c
+|       |   |   |       api2.c
+|       |   |   |       api3.c
+|       |   |   |       api4.c
+|       |   |   |       api5.c
+|       |   |   |       api6.c
+|       |   |   |       api7.c
+|       |   |   |       api8.c
+|       |   |   |       apifull.c
+|       |   |   |       employe2.sql
+|       |   |   |       example.h
+|       |   |   |       xml_api_buffer.c
+|       |   |   |       xml_api_file.c
+|       |   |   |       
+|       |   |   +---database
+|       |   |   |       employee.gbk
+|       |   |   |       employee.gdb
+|       |   |   |       intlemp.gbk
+|       |   |   |       intlemp.gdb
+|       |   |   |       
+|       |   |   +---filter
+|       |   |   |       Makefile.bc
+|       |   |   |       Makefile.msc
+|       |   |   |       api9.c
+|       |   |   |       api9f.c
+|       |   |   |       api9f.def
+|       |   |   |       api9f.sql
+|       |   |   |       
+|       |   |   +---gpre
+|       |   |   |       Makefile.bc
+|       |   |   |       Makefile.msc
+|       |   |   |       api14.e
+|       |   |   |       dyn1.e
+|       |   |   |       dyn2.e
+|       |   |   |       dyn3.e
+|       |   |   |       dyn4.e
+|       |   |   |       dyn5.e
+|       |   |   |       dynfull.e
+|       |   |   |       employe2.sql
+|       |   |   |       stat1.e
+|       |   |   |       stat10.e
+|       |   |   |       stat11.e
+|       |   |   |       stat12.e
+|       |   |   |       stat12t.e
+|       |   |   |       stat2.e
+|       |   |   |       stat3.e
+|       |   |   |       stat4.e
+|       |   |   |       stat5.e
+|       |   |   |       stat6.e
+|       |   |   |       stat7.e
+|       |   |   |       stat8.e
+|       |   |   |       stat9.e
+|       |   |   |       
+|       |   |   +---jdbc
+|       |   |   |       DataSourceExample.java
+|       |   |   |       DriverExample.java
+|       |   |   |       ExampleTests.java
+|       |   |   |       JNDIExample.java
+|       |   |   |       PerformanceTests.java
+|       |   |   |       ServerManagerExample.java
+|       |   |   |       
+|       |   |   +---security
+|       |   |   |       blindmeta.sql
+|       |   |   |       readmeta.sql
+|       |   |   |       writemeta.sql
+|       |   |   |       
+|       |   |   +---services
+|       |   |   |       get_log.c
+|       |   |   |       gstat.c
+|       |   |   |       isc_info_svc_all.c
+|       |   |   |       query_database_info.c
+|       |   |   |       start_backup.c
+|       |   |   |       start_backup_1.c
+|       |   |   |       start_backup_split.c
+|       |   |   |       start_license_add.c
+|       |   |   |       start_restore.c
+|       |   |   |       start_restore_join.c
+|       |   |   |       start_user_add.c
+|       |   |   |       start_user_delete.c
+|       |   |   |       start_user_display.c
+|       |   |   |       start_user_modify.c
+|       |   |   |       
+|       |   |   \---udf
+|       |   |           Makefile.bc
+|       |   |           Makefile.msc
+|       |   |           ib_udf.sql
+|       |   |           udf.sql
+|       |   |           udflib.c
+|       |   |           udflib.def
+|       |   |           
+|       |   \---intl
+|       |           gdsintl.dll
+|       |           
+|       \---type3
+|           |   ICSetup.exe
+|           |   Install.txt
+|           |   License.txt
+|           |   Readme.txt
+|           |   SETUPAPI.DLL
+|           |   cfgmgr32.dll
+|           |   ibinstall.dll
+|           |   ibuninst.exe
+|           |   msvcrt.dll
+|           |   
+|           \---InterClient
+|               |   CommDiag.html
+|               |   ibinstall.dll
+|               |   ic_license.dat
+|               |   interclient-core.jar
+|               |   interclient-res.jar
+|               |   interclient-utils.jar
+|               |   interclient.jar
+|               |   
+|               +---bin
+|               |       interserver.exe
+|               |       isconfig.exe
+|               |       
+|               +---classes
+|               |   +---borland
+|               |   |   \---jdbc
+|               |   |           SQLAdapter.class
+|               |   |           
+|               |   +---com
+|               |   |   \---inprise
+|               |   |       \---sql
+|               |   |               SQLAdapter.class
+|               |   |               
+|               |   \---interbase
+|               |       \---interclient
+|               |           |   Adaptor.class
+|               |           |   Array.class
+|               |           |   ArrayDescriptor.class
+|               |           |   BadInstallationException.class
+|               |           |   Blob.class
+|               |           |   BlobIOException.class
+|               |           |   BlobInput.class
+|               |           |   BlobInputStream.class
+|               |           |   BlobOutput.class
+|               |           |   BufferCache.class
+|               |           |   BugCheckException.class
+|               |           |   ByteToUnicodeConverterStream.class
+|               |           |   CallableStatement.class
+|               |           |   CharacterEncodingException.class
+|               |           |   CharacterEncodings.class
+|               |           |   Clob.class
+|               |           |   ColumnConversionException.class
+|               |           |   ColumnIndexOutOfBoundsException.class
+|               |           |   CommunicationException.class
+|               |           |   Connection.class
+|               |           |   ConnectionProperties.class
+|               |           |   CorruptDatabaseException.class
+|               |           |   Crypter.class
+|               |           |   DataConversionException.class
+|               |           |   DataSource.class
+|               |           |   DatabaseMetaData.class
+|               |           |   DatabaseStatistics.class
+|               |           |   DeadlockException.class
+|               |           |   Driver.class
+|               |           |   DriverNotCapableException.class
+|               |           |   ErrorCodes.class
+|               |           |   ErrorKey.class
+|               |           |   EscapeClauseParser.class
+|               |           |   EscapeClauseParserTable.class
+|               |           |   EscapeDateParser.class
+|               |           |   EscapeEscapeParser.class
+|               |           |   EscapeFunctionParser.class
+|               |           |   EscapeLexer.class
+|               |           |   EscapeOuterJoinParser.class
+|               |           |   EscapeProcedureCallParser.class
+|               |           |   EscapeProcedureCallWithResultParser.class
+|               |           |   EscapeProcessor.class
+|               |           |   EscapeSymbols.class
+|               |           |   EscapeSyntaxException.class
+|               |           |   EscapeTimeParser.class
+|               |           |   EscapeTimestampParser.class
+|               |           |   ExpiredDriverException.class
+|               |           |   ExpiredDriverWarning.class
+|               |           |   Globals.class
+|               |           |   IBTimestamp$InnerCalendar.class
+|               |           |   IBTimestamp.class
+|               |           |   IBTypes.class
+|               |           |   InvalidArgumentException.class
+|               |           |   InvalidOperationException.class
+|               |           |   JDBCNet.class
+|               |           |   LockConflictException.class
+|               |           |   MessageBufferOutputStream.class
+|               |           |   MessageCodes.class
+|               |           |   ObjectFactory.class
+|               |           |   OutOfMemoryException.class
+|               |           |   ParameterConversionException.class
+|               |           |   ParameterIndexOutOfBoundsException.class
+|               |           |   ParameterMetaData.class
+|               |           |   PreparedStatement.class
+|               |           |   RecvMessage.class
+|               |           |   RemoteProtocolException.class
+|               |           |   ResourceKeys.class
+|               |           |   Resources.class
+|               |           |   Resources_ru.class
+|               |           |   ResultSet.class
+|               |           |   ResultSetMetaData.class
+|               |           |   SQLDialectAdjustmentWarning.class
+|               |           |   SQLDialectException.class
+|               |           |   SQLException.class
+|               |           |   SQLWarning.class
+|               |           |   ServerManager.class
+|               |           |   ServerVersionInformation.class
+|               |           |   SocketTimeoutException.class
+|               |           |   Statement.class
+|               |           |   URLSyntaxException.class
+|               |           |   UnauthorizedUserException.class
+|               |           |   UnavailableDatabaseFileException.class
+|               |           |   UnavailableInterBaseServerException.class
+|               |           |   UnknownHostException.class
+|               |           |   UnlicensedComponentException.class
+|               |           |   UnsupportedCharacterSetException.class
+|               |           |   UpdateConflictException.class
+|               |           |   Utils.class
+|               |           |   
+|               |           \---utils
+|               |                   CommDiag.class
+|               |                   CommDiagGUI.class
+|               |                   CommDiagListener.class
+|               |                   InstallationVerifier.class
+|               |                   ResourceKeys.class
+|               |                   Resources.class
+|               |                   Resources_ru.class
+|               |                   
+|               +---docs
+|               |   |   alldocs-frame.html
+|               |   |   docs.html
+|               |   |   index.html
+|               |   |   
+|               |   +---examples
+|               |   |       DataSourceExample.txt
+|               |   |       DriverExample.txt
+|               |   |       ExampleTests.txt
+|               |   |       JNDIExample.txt
+|               |   |       PerformanceTests.txt
+|               |   |       ServerManagerExample.txt
+|               |   |       
+|               |   +---help
+|               |   |       help.html
+|               |   |       icAccessingExtensions.html
+|               |   |       icArray.html
+|               |   |       icCharacters.html
+|               |   |       icConnectionProperties.html
+|               |   |       icDeveloperSystemRequirements.html
+|               |   |       icDistributingYourJavaApplication.html
+|               |   |       icEndUserRequirements.html
+|               |   |       icExtensions.html
+|               |   |       icExternalResources.html
+|               |   |       icGettingAConnection.html
+|               |   |       icJDBCTypes.html
+|               |   |       icJarFiles.html
+|               |   |       icJavadoc.html
+|               |   |       icResources.html
+|               |   |       icSQLStates.html
+|               |   |       icSystemConfiguration.html
+|               |   |       icTechSupport.html
+|               |   |       icTroubleShooting.html
+|               |   |       icURLSyntax.html
+|               |   |       icUninstallingInterClient.html
+|               |   |       icUsingTheInterServerConfigurationUtility.html
+|               |   |       
+|               |   +---images
+|               |   |       background.jpg
+|               |   |       
+|               |   +---introduction
+|               |   |   |   PROGGcon.html
+|               |   |   |   PROGGov.html
+|               |   |   |   PROGGprf.html
+|               |   |   |   PROGGsp.html
+|               |   |   |   PROGGsql.html
+|               |   |   |   PROGGts.html
+|               |   |   |   PROGdepl.html
+|               |   |   |   PROGdrvr.html
+|               |   |   |   PROGjdbc.html
+|               |   |   |   introduction.html
+|               |   |   |   
+|               |   |   \---images
+|               |   |           fig1.gif
+|               |   |           fig2.gif
+|               |   |           fig3.gif
+|               |   |           fig5.gif
+|               |   |           
+|               |   +---readmes
+|               |   |       Install.txt
+|               |   |       JBuilderNotes.txt
+|               |   |       License.txt
+|               |   |       Readme.txt
+|               |   |       Relnotes.txt
+|               |   |       
+|               |   +---slide_show
+|               |   |   |   agenda.html
+|               |   |   |   bdeArch.html
+|               |   |   |   class1JdbcArch.html
+|               |   |   |   class2JdbcArch.html
+|               |   |   |   class3JdbcArch.html
+|               |   |   |   class4JdbcArch.html
+|               |   |   |   corba.html
+|               |   |   |   coverPage.html
+|               |   |   |   demoPerformance.html
+|               |   |   |   driverPerformance.html
+|               |   |   |   driversTested.html
+|               |   |   |   featureDemos.html
+|               |   |   |   features.html
+|               |   |   |   jdbc2core.html
+|               |   |   |   jdbc2extensions.html
+|               |   |   |   jdbcBasics.html
+|               |   |   |   jdbcBasicsGettingAConnection.html
+|               |   |   |   jdbcBasicsRetrievingResults.html
+|               |   |   |   jdbcBasicsSubmittingSQL.html
+|               |   |   |   jdbcBasicsSummary.html
+|               |   |   |   networkCapableDrivers.html
+|               |   |   |   odbcArch.html
+|               |   |   |   performanceHints.html
+|               |   |   |   rpcVsMom.html
+|               |   |   |   theEnd.html
+|               |   |   |   tieredArch.html
+|               |   |   |   usingADriverExtension.html
+|               |   |   |   usingIcWithJBuilder.html
+|               |   |   |   whatIsJdbc.html
+|               |   |   |   whatsComing.html
+|               |   |   |   wheresTheBeef.html
+|               |   |   |   
+|               |   |   \---images
+|               |   |           2tierArch.gif
+|               |   |           3tierArch.gif
+|               |   |           archTemplate.gif
+|               |   |           bdeArch.gif
+|               |   |           class1JdbcArch.gif
+|               |   |           class2JdbcArch.gif
+|               |   |           class3JdbcArch.gif
+|               |   |           class4JdbcArch.gif
+|               |   |           dts.gif
+|               |   |           jdbcapi1.gif
+|               |   |           jdbcapi2.gif
+|               |   |           jdbcapi3.gif
+|               |   |           momvsrpc.gif
+|               |   |           odbcArch.gif
+|               |   |           
+|               |   \---specifications
+|               |       |   allclasses-frame.html
+|               |       |   deprecated-list.html
+|               |       |   help-doc.html
+|               |       |   index-all.html
+|               |       |   index.html
+|               |       |   overview-frame.html
+|               |       |   overview-summary.html
+|               |       |   overview-tree.html
+|               |       |   package-list
+|               |       |   packages.html
+|               |       |   serialized-form.html
+|               |       |   stylesheet.css
+|               |       |   
+|               |       \---interbase
+|               |           \---interclient
+|               |               |   Adaptor.html
+|               |               |   Array.html
+|               |               |   BadInstallationException.html
+|               |               |   Blob.html
+|               |               |   BlobIOException.html
+|               |               |   BugCheckException.html
+|               |               |   CallableStatement.html
+|               |               |   CharacterEncodingException.html
+|               |               |   CharacterEncodings.html
+|               |               |   Clob.html
+|               |               |   ColumnConversionException.html
+|               |               |   ColumnIndexOutOfBoundsException.html
+|               |               |   CommunicationException.html
+|               |               |   Connection.html
+|               |               |   ConnectionCache.html
+|               |               |   ConnectionPoolDataSource.html
+|               |               |   ConnectionPoolModule.html
+|               |               |   ConnectionProperties.html
+|               |               |   CorruptDatabaseException.html
+|               |               |   DataConversionException.html
+|               |               |   DataSource.html
+|               |               |   DatabaseMetaData.html
+|               |               |   DatabaseStatistics.html
+|               |               |   DeadlockException.html
+|               |               |   Driver.html
+|               |               |   DriverNotCapableException.html
+|               |               |   ErrorCodes.html
+|               |               |   EscapeSyntaxException.html
+|               |               |   ExpiredDriverException.html
+|               |               |   ExpiredDriverWarning.html
+|               |               |   InvalidArgumentException.html
+|               |               |   InvalidOperationException.html
+|               |               |   LockConflictException.html
+|               |               |   ObjectFactory.html
+|               |               |   OutOfMemoryException.html
+|               |               |   ParameterConversionException.html
+|               |               |   ParameterIndexOutOfBoundsException.html
+|               |               |   ParameterMetaData.html
+|               |               |   PooledConnection.html
+|               |               |   PreparedStatement.html
+|               |               |   RemoteProtocolException.html
+|               |               |   Resources.html
+|               |               |   Resources_ru.html
+|               |               |   ResultSet.html
+|               |               |   ResultSetMetaData.html
+|               |               |   SQLDialectAdjustmentWarning.html
+|               |               |   SQLDialectException.html
+|               |               |   ServerManager.html
+|               |               |   SocketTimeoutException.html
+|               |               |   Statement.html
+|               |               |   URLSyntaxException.html
+|               |               |   UnauthorizedUserException.html
+|               |               |   UnavailableDatabaseFileException.html
+|               |               |   UnavailableInterBaseServerException.html
+|               |               |   UnknownHostException.html
+|               |               |   UnlicensedComponentException.html
+|               |               |   UnsupportedCharacterSetException.html
+|               |               |   UpdateConflictException.html
+|               |               |   XAConnection.html
+|               |               |   XADataSource.html
+|               |               |   XAResource.html
+|               |               |   package-frame.html
+|               |               |   package-summary.html
+|               |               |   package-tree.html
+|               |               |   
+|               |               \---utils
+|               |                       CommDiag.html
+|               |                       Resources.html
+|               |                       Resources_ru.html
+|               |                       package-frame.html
+|               |                       package-summary.html
+|               |                       package-tree.html
+|               |                       
+|               +---examples
+|               |       DataSourceExample.java
+|               |       DriverExample.java
+|               |       ExampleTests.java
+|               |       JNDIExample.java
+|               |       PerformanceTests.java
+|               |       ServerManagerExample.java
+|               |       
+|               \---jbuilder_help
+|                       interclient.dat
+|                       interclient.zip
+|                       
++---dotNETSDK
+|       setup.exe
+|       
++---dotNETRedist
+|       dotnetfx.exe
+|       
++---dotNETJSharp
+|       vjredist.exe
+|       
++---MDAC27SP1
+|       mdac_typ.exe
+|       
++---Launcher
+|       C#builder.dbd
+|       C#builder.txt
+|       demo32.exe
+|       
++---Janeva
+|       JanevaSetup.msi
+|       
++---JRE1.4
+|       j2re-1_4_1_03-windows-i586-i.exe
+|       
++---Install
+|   |   0x0409.ini
+|   |   Borland C#Builder 1.0.msi
+|   |   Setup.ini
+|   |   instmsia.exe
+|   |   instmsiw.exe
+|   |   prereqs.exe
+|   |   setup.exe
+|   |   
+|   +---Common
+|   |   +---Borland Shared
+|   |   |   \---BDS
+|   |   |       \---Shared Assemblies
+|   |   |           \---1.0
+|   |   |                   Borland.Data.Common.dll
+|   |   |                   Borland.Data.Db2.dll
+|   |   |                   Borland.Data.Explorer.dll
+|   |   |                   Borland.Data.Interbase.dll
+|   |   |                   Borland.Data.Mssql.dll
+|   |   |                   Borland.Data.Oracle.dll
+|   |   |                   Borland.Data.Provider.dll
+|   |   |                   
+|   |   \---Crystal Decisions
+|   |       +---1.0
+|   |       |   \---bin
+|   |       |           CRDESIGNERCTRL.DLL
+|   |       |           craxddrt20.dll
+|   |       |           regwiz.exe
+|   |       |           
+|   |       \---1.1
+|   |           \---Managed
+|   |                   CrystalDecisions.CrystalReports.Engine.dll
+|   |                   CrystalDecisions.ReportSource.dll
+|   |                   CrystalDecisions.Shared.dll
+|   |                   CrystalDecisions.Web.dll
+|   |                   CrystalDecisions.Windows.Forms.dll
+|   |                   CrystalEnterpriseLib.dll
+|   |                   CrystalInfoStoreLib.dll
+|   |                   CrystalKeyCodeLib.dll
+|   |                   CrystalPluginMgrLib.dll
+|   |                   CrystalReportPluginLib.dll
+|   |                   
+|   +---GlobalAssemblyCache
+|   |       Borland.Data.Common.dll
+|   |       Borland.Data.Db2.dll
+|   |       Borland.Data.Interbase.dll
+|   |       Borland.Data.Mssql.dll
+|   |       Borland.Data.Oracle.dll
+|   |       Borland.Data.Provider.dll
+|   |       
+|   \---program files
+|       +---Borland
+|       |   \---BDS
+|       |       \---1.0
+|       |           |   EULA_Crystal Reports.rtf
+|       |           |   MSDEInfo.rtf
+|       |           |   MSDEInfo.txt
+|       |           |   csharpbuild.slip
+|       |           |   deploy.rtf
+|       |           |   deploy.txt
+|       |           |   install.rtf
+|       |           |   install.txt
+|       |           |   license.rtf
+|       |           |   license.txt
+|       |           |   privacy.rtf
+|       |           |   privacy.txt
+|       |           |   readme.rtf
+|       |           |   readme.txt
+|       |           |   uninstall.ini
+|       |           |   
+|       |           +---Bin
+|       |           |       BlankReport.rpt
+|       |           |       Borland.CSharp.dll
+|       |           |       Borland.Globalization.dll
+|       |           |       Borland.SCI.dll
+|       |           |       Borland.SCI.tlb
+|       |           |       Borland.Studio.AspHost.dll
+|       |           |       Borland.Studio.AspHost.tlb
+|       |           |       Borland.Studio.AspInterop.dll
+|       |           |       Borland.Studio.AspInterop.tlb
+|       |           |       Borland.Studio.Caliber.dll
+|       |           |       Borland.Studio.Host.dll
+|       |           |       Borland.Studio.Interop.dll
+|       |           |       Borland.Studio.Interop.tlb
+|       |           |       Borland.Studio.Together.dll
+|       |           |       Borland.Studio.Together.tlb
+|       |           |       Borland.Studio.ToolsAPI.dll
+|       |           |       Borland.Studio.ToolsAPI.tlb
+|       |           |       Borland.Studio.TypeMappings.dll
+|       |           |       Borland.Together.Actions.dll
+|       |           |       Borland.Together.Config.dll
+|       |           |       Borland.Together.Core.dll
+|       |           |       Borland.Together.CoreResources.dll
+|       |           |       Borland.Together.DesignModel.dll
+|       |           |       Borland.Together.DesignPatterns.dll
+|       |           |       Borland.Together.DiagramBasics.dll
+|       |           |       Borland.Together.DiagramClass.dll
+|       |           |       Borland.Together.DiagramCore.dll
+|       |           |       Borland.Together.DiagramExtensions.dll
+|       |           |       Borland.Together.DiagramLayout.dll
+|       |           |       Borland.Together.Hyperlinks.dll
+|       |           |       Borland.Together.Model3.dll
+|       |           |       Borland.Together.ModelBasics.dll
+|       |           |       Borland.Together.ModelPerformers.dll
+|       |           |       Borland.Together.ModelView.dll
+|       |           |       Borland.Together.OpenAPI3.dll
+|       |           |       Borland.Together.Platform.dll
+|       |           |       Borland.Together.ResManager.dll
+|       |           |       Borland.Together.Util.dll
+|       |           |       Borland.mshtml.dll
+|       |           |       CSharpBuilder.exe
+|       |           |       CaliberRMAddin.Control.dll
+|       |           |       CaliberRMAddin.Util.dll
+|       |           |       CaliberRMSDK30.NET.dll
+|       |           |       Classic Undocked.dst
+|       |           |       CrystalDecisions.BorlandShell.dll
+|       |           |       CrystalDecisions.BorlandShell.tlb
+|       |           |       CrystalDecisions.CrystalReports.Design.CodeGen.dll
+|       |           |       CrystalDecisions.VSShell.dll
+|       |           |       DataExplore.exe
+|       |           |       DataExplorer71.bpl
+|       |           |       Debug Layout.dst
+|       |           |       Default Layout.dst
+|       |           |       DotnetCoreAssemblies71.bpl
+|       |           |       HTMLDlgs71.bpl
+|       |           |       LicenseManager.exe
+|       |           |       MagicLibrary.dll
+|       |           |       Reflection.exe
+|       |           |       RequirementTreeControl.dll
+|       |           |       SCIDE71.bpl
+|       |           |       SrcManIDE71.bpl
+|       |           |       StudioConverter.exe
+|       |           |       TREGSVR.EXE
+|       |           |       TgNet.config
+|       |           |       VSExport.xsl
+|       |           |       VSImport.xsl
+|       |           |       asmview71.bpl
+|       |           |       aspcside71.bpl
+|       |           |       bccide.dll
+|       |           |       bdpConnections.xml
+|       |           |       bdpDataSources.xml
+|       |           |       bdpdb2.dll
+|       |           |       bdpint.dll
+|       |           |       bdpmss.dll
+|       |           |       bdpora.dll
+|       |           |       bds.exe
+|       |           |       bdsreg.exe
+|       |           |       bordbk71.dll
+|       |           |       boreditu.dll
+|       |           |       borl_dll.dll
+|       |           |       borlndmm.dll
+|       |           |       caliberide71.bpl
+|       |           |       comp32p.dll
+|       |           |       coreide71.bpl
+|       |           |       coreproide71.bpl
+|       |           |       countrylist.txt
+|       |           |       crystalide71.bpl
+|       |           |       cside71.bpl
+|       |           |       csinsite71.bpl
+|       |           |       dbkpro71.dll
+|       |           |       dbkwmc71.exe
+|       |           |       demeanoride71.bpl
+|       |           |       designide71.bpl
+|       |           |       dotnetaspide71.bpl
+|       |           |       dotnetcoreide71.bpl
+|       |           |       dotnetdebugide71.bpl
+|       |           |       dotnetdebugproide71.bpl
+|       |           |       htmide71.bpl
+|       |           |       htmlfmt71.bpl
+|       |           |       htmlhelp271.bpl
+|       |           |       htmltidy71.bpl
+|       |           |       idefilefilters71.bpl
+|       |           |       idetools71.bpl
+|       |           |       indy71.bpl
+|       |           |       inet71.bpl
+|       |           |       janevaide71.bpl
+|       |           |       libtidy.dll
+|       |           |       mlcc71.bpl
+|       |           |       optimizeitide71.bpl
+|       |           |       phone.txt
+|       |           |       plugview71.bpl
+|       |           |       qtintf70.dll
+|       |           |       rtl71.bpl
+|       |           |       soapide71.bpl
+|       |           |       startpageide71.bpl
+|       |           |       statelist.txt
+|       |           |       tgide71.bpl
+|       |           |       tlbview71.bpl
+|       |           |       tlib71.bpl
+|       |           |       vbide71.bpl
+|       |           |       vcl71.bpl
+|       |           |       vclactnband71.bpl
+|       |           |       vclide71.bpl
+|       |           |       vclie71.bpl
+|       |           |       vcljpg71.bpl
+|       |           |       vcltest3.dll
+|       |           |       vclx71.bpl
+|       |           |       xmlrtl71.bpl
+|       |           |       
+|       |           +---Examples
+|       |           |   \---C#
+|       |           |       +---Applications
+|       |           |       |   +---AX Web Browser
+|       |           |       |   |   |   WebBrowser.bdsproj
+|       |           |       |   |   |   WebBrowserImpl.cs
+|       |           |       |   |   |   WebBrowserImpl.resx
+|       |           |       |   |   |   
+|       |           |       |   |   \---ComImports
+|       |           |       |   |           AxInterop.SHDocVw.dll
+|       |           |       |   |           Interop.SHDocVw.dll
+|       |           |       |   |           
+|       |           |       |   +---Bitwise
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       bitwise.bdsproj
+|       |           |       |   |       bitwiseclass.cs
+|       |           |       |   |       
+|       |           |       |   +---CalendarQuery
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       EMPLOYEE.GDB
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       bdpwincal.bdsproj
+|       |           |       |   |       csharpbuilder.gif
+|       |           |       |   |       readme.txt
+|       |           |       |   |       
+|       |           |       |   +---Custom Control
+|       |           |       |   |       Action.bdsproj
+|       |           |       |   |       ActionControl.cs
+|       |           |       |   |       ActionDemo.bdsproj
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Dice
+|       |           |       |   |       Dice.bdsproj
+|       |           |       |   |       Dice1.cs
+|       |           |       |   |       Dice1.resx
+|       |           |       |   |       Dicegame.bdsgroup
+|       |           |       |   |       Die.bdsproj
+|       |           |       |   |       Die.dll
+|       |           |       |   |       Die.ico
+|       |           |       |   |       Die1.cs
+|       |           |       |   |       Die1.resx
+|       |           |       |   |       WinForm1.cs
+|       |           |       |   |       WinForm1.resx
+|       |           |       |   |       point.bmp
+|       |           |       |   |       
+|       |           |       |   +---DotNETCube
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       dotNETCub.bdsproj
+|       |           |       |   |       dotNETCub.cs
+|       |           |       |   |       dotNETCub.resx
+|       |           |       |   |       
+|       |           |       |   +---Find
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       findonpaths.bdsproj
+|       |           |       |   |       readme.txt
+|       |           |       |   |       
+|       |           |       |   +---Grep
+|       |           |       |   |       App.ico
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Form1.cs
+|       |           |       |   |       Form1.resx
+|       |           |       |   |       Grep.bdsproj
+|       |           |       |   |       readme.txt
+|       |           |       |   |       
+|       |           |       |   +---HTML Host
+|       |           |       |   |   +---DemoHtmlApp
+|       |           |       |   |   |       About.cs
+|       |           |       |   |   |       About.resx
+|       |           |       |   |   |       App.ico
+|       |           |       |   |   |       AssemblyInfo.cs
+|       |           |       |   |   |       DemoHtmlApp.bdsproj
+|       |           |       |   |   |       DemoHtmlApp.csproj
+|       |           |       |   |   |       DemoHtmlApp.csproj.user
+|       |           |       |   |   |       Form1.cs
+|       |           |       |   |   |       Form1.resx
+|       |           |       |   |   |       WinForm.resx
+|       |           |       |   |   |       
+|       |           |       |   |   \---HTMLEditor
+|       |           |       |   |           AssemblyInfo.cs
+|       |           |       |   |           CSnap.cs
+|       |           |       |   |           ComStream.cs
+|       |           |       |   |           DownloadOnlySite.cs
+|       |           |       |   |           EventHandlers.cs
+|       |           |       |   |           HtmlEditor.bdsgroup
+|       |           |       |   |           HtmlEditor.bdsproj
+|       |           |       |   |           HtmlEditor.cs
+|       |           |       |   |           HtmlEditor.resx
+|       |           |       |   |           HtmlEditorException.cs
+|       |           |       |   |           HtmlSite.cs
+|       |           |       |   |           comsupport.cs
+|       |           |       |   |           utils.cs
+|       |           |       |   |           
+|       |           |       |   +---InstallWiz
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       FACTORY.ICO
+|       |           |       |   |       InstallWiz.bdsproj
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Licensing
+|       |           |       |   |   |   Licensing.bdsgroup
+|       |           |       |   |   |   readme.txt
+|       |           |       |   |   |   
+|       |           |       |   |   +---LicControl
+|       |           |       |   |   |       AssemblyInfo.cs
+|       |           |       |   |   |       InheritedLicControl.cs
+|       |           |       |   |   |       LicControl.bmp
+|       |           |       |   |   |       LicControl.cs
+|       |           |       |   |   |       LicControl.resx
+|       |           |       |   |   |       LicControlDemo.bdsproj
+|       |           |       |   |   |       
+|       |           |       |   |   \---LicProject
+|       |           |       |   |           AssemblyInfo.cs
+|       |           |       |   |           LicProject.bdsproj
+|       |           |       |   |           WinForm.cs
+|       |           |       |   |           WinForm.resx
+|       |           |       |   |           licenses.licx
+|       |           |       |   |           
+|       |           |       |   +---MDI Form
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       FormDocument.cs
+|       |           |       |   |       FormDocument.resx
+|       |           |       |   |       FormEditor.cs
+|       |           |       |   |       FormEditor.resx
+|       |           |       |   |       Readme.txt
+|       |           |       |   |       TextEditor.bdsproj
+|       |           |       |   |       
+|       |           |       |   +---Netrix
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Class.cs
+|       |           |       |   |       Netrix.bdsproj
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Process View
+|       |           |       |   |       AboutForm.cs
+|       |           |       |   |       AboutForm.resx
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       MainForm.cs
+|       |           |       |   |       MainForm.resx
+|       |           |       |   |       ProcessChecker.bdsproj
+|       |           |       |   |       ProcessChecker.bmp
+|       |           |       |   |       ProcessChecker.cs
+|       |           |       |   |       ProcessChecker.ico
+|       |           |       |   |       ProcessCheckerSettings.cs
+|       |           |       |   |       ProcessClasses.cs
+|       |           |       |   |       ProcessDetailsForm.cs
+|       |           |       |   |       ProcessDetailsForm.resx
+|       |           |       |   |       SetupForm.cs
+|       |           |       |   |       SetupForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Puzzle
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Puzzle.bdsproj
+|       |           |       |   |       Puzzle.pdb
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Remoting
+|       |           |       |   |   |   Readme.txt
+|       |           |       |   |   |   Remoting.bdsgroup
+|       |           |       |   |   |   
+|       |           |       |   |   +---Client
+|       |           |       |   |   |       AssemblyInfo.cs
+|       |           |       |   |   |       FormClient.cs
+|       |           |       |   |   |       FormClient.resx
+|       |           |       |   |   |       RemotingClient.bdsproj
+|       |           |       |   |   |       RemotingServer.ico
+|       |           |       |   |   |       
+|       |           |       |   |   +---Common
+|       |           |       |   |   |       AssemblyInfo.cs
+|       |           |       |   |   |       FormMessage.cs
+|       |           |       |   |   |       FormMessage.resx
+|       |           |       |   |   |       RemoteBoss.bdsproj
+|       |           |       |   |   |       RemoteBoss.cs
+|       |           |       |   |   |       RemotingServer.ico
+|       |           |       |   |   |       
+|       |           |       |   |   \---Server
+|       |           |       |   |           AssemblyInfo.cs
+|       |           |       |   |           FormServer.cs
+|       |           |       |   |           FormServer.resx
+|       |           |       |   |           RemotingServer.bdsproj
+|       |           |       |   |           RemotingServer.ico
+|       |           |       |   |           
+|       |           |       |   +---Temp Converter
+|       |           |       |   |       Celsius.bdsproj
+|       |           |       |   |       Celsius42.cs
+|       |           |       |   |       Class1.cs
+|       |           |       |   |       UseCelsius.bdsproj
+|       |           |       |   |       eBob42.gif
+|       |           |       |   |       readme.txt
+|       |           |       |   |       
+|       |           |       |   +---Text Edit
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       TXTEditor.bdsproj
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       copy.bmp
+|       |           |       |   |       cut.bmp
+|       |           |       |   |       new.bmp
+|       |           |       |   |       open.bmp
+|       |           |       |   |       paste.bmp
+|       |           |       |   |       save.bmp
+|       |           |       |   |       undo.bmp
+|       |           |       |   |       
+|       |           |       |   +---Text Search
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       EMPLOYEE.GDB
+|       |           |       |   |       FulltextKeywordsSearch.bdsproj
+|       |           |       |   |       Strings.cs
+|       |           |       |   |       WinForm.cs
+|       |           |       |   |       WinForm.resx
+|       |           |       |   |       
+|       |           |       |   +---Threads
+|       |           |       |   |       ThrdDemo.bdsproj
+|       |           |       |   |       ThrdDemo.cs
+|       |           |       |   |       ThrdDemo.resx
+|       |           |       |   |       
+|       |           |       |   \---Transformer
+|       |           |       |           AssemblyInfo.cs
+|       |           |       |           RM_HTML.xslt
+|       |           |       |           RM_Text.xslt
+|       |           |       |           ReadMe.xml
+|       |           |       |           Transmogrify.bdsproj
+|       |           |       |           Transmogrify.cs
+|       |           |       |           
+|       |           |       +---Cassini
+|       |           |       |       AssemblyInfo.cs
+|       |           |       |       ByteParser.cs
+|       |           |       |       ByteString.cs
+|       |           |       |       Cassini.bdsproj
+|       |           |       |       Cassini.snk
+|       |           |       |       CassiniWebServer.bdsproj
+|       |           |       |       CassiniWebServer.ico
+|       |           |       |       CassiniWebServerMain.cs
+|       |           |       |       Connection.cs
+|       |           |       |       Host.cs
+|       |           |       |       Messages.cs
+|       |           |       |       ReadMe.bat
+|       |           |       |       ReadMe.txt
+|       |           |       |       Request.cs
+|       |           |       |       Server.cs
+|       |           |       |       build.bat
+|       |           |       |       t.bat
+|       |           |       |       
+|       |           |       +---EJBExamples
+|       |           |       |   |   README.txt
+|       |           |       |   |   
+|       |           |       |   +---EJBCartPro
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       CartClient.cs
+|       |           |       |   |       ShoppingCartClient.bdsproj
+|       |           |       |   |       ShoppingCartClient.janeva.ini
+|       |           |       |   |       cart_beans.cs
+|       |           |       |   |       cart_beans.jar
+|       |           |       |   |       
+|       |           |       |   +---EJBEuroCliPro
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       CurrencyConverter.cs
+|       |           |       |   |       CurrencyConverter.jar
+|       |           |       |   |       CurrencyConverter1.cs
+|       |           |       |   |       CurrencyConverterClient.bdsproj
+|       |           |       |   |       CurrencyConverterClient.janeva.ini
+|       |           |       |   |       wnfrmMain.cs
+|       |           |       |   |       wnfrmMain.resx
+|       |           |       |   |       
+|       |           |       |   \---EJBOne2Many
+|       |           |       |           AssemblyInfo.cs
+|       |           |       |           Class.cs
+|       |           |       |           Client.cs
+|       |           |       |           MappingOverrides.cs
+|       |           |       |           One2Many.cs
+|       |           |       |           One2Many.jar
+|       |           |       |           One2ManyClient.bdsproj
+|       |           |       |           One2ManyClient.janeva.ini
+|       |           |       |           
+|       |           |       +---Graphics
+|       |           |       |   +---DirectX Audio
+|       |           |       |   |   \---Simple Media Player
+|       |           |       |   |           AboutBox.cs
+|       |           |       |   |           AboutBox.resx
+|       |           |       |   |           Project4.bdsproj
+|       |           |       |   |           SimpleMediaPlayer.bdsproj
+|       |           |       |   |           SimplePlayer.cs
+|       |           |       |   |           SimplePlayer.resx
+|       |           |       |   |           WinForm.cs
+|       |           |       |   |           WinForm.resx
+|       |           |       |   |           
+|       |           |       |   +---HexView
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       PICI1_20X300_2.JPG
+|       |           |       |   |       PictureHEXView.bdsproj
+|       |           |       |   |       PictureHEXView.cs
+|       |           |       |   |       PictureHEXView.cs.html
+|       |           |       |   |       PictureHEXView.resx
+|       |           |       |   |       
+|       |           |       |   +---Image View
+|       |           |       |   |       ImageView.bdsproj
+|       |           |       |   |       WinForm1.cs
+|       |           |       |   |       WinForm1.resx
+|       |           |       |   |       
+|       |           |       |   +---Mandelbrot
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Form1.cs
+|       |           |       |   |       Form1.resx
+|       |           |       |   |       Mandelbrot.bdsproj
+|       |           |       |   |       mbrot.ico
+|       |           |       |   |       readme.txt
+|       |           |       |   |       
+|       |           |       |   +---PCX
+|       |           |       |   |       AssemblyInfo1.cs
+|       |           |       |   |       PCXClass.cs
+|       |           |       |   |       PCXView.bdsproj
+|       |           |       |   |       WinForm1.cs
+|       |           |       |   |       WinForm1.resx
+|       |           |       |   |       golden16.pcx
+|       |           |       |   |       golden2.pcx
+|       |           |       |   |       golden24b.pcx
+|       |           |       |   |       golden256.pcx
+|       |           |       |   |       
+|       |           |       |   \---Shapes
+|       |           |       |           AssemblyInfo.cs
+|       |           |       |           BrushForm.cs
+|       |           |       |           BrushForm.resx
+|       |           |       |           MainForm.cs
+|       |           |       |           MainForm.resx
+|       |           |       |           Shapes.cs
+|       |           |       |           ShapesDemo.bdsproj
+|       |           |       |           
+|       |           |       +---Open Tools API
+|       |           |       |   +---OTA Add Component
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Class.cs
+|       |           |       |   |       MainForm.cs
+|       |           |       |   |       MainForm.resx
+|       |           |       |   |       ReadMe.txt
+|       |           |       |   |       ToolsAPIAddIn.bdsproj
+|       |           |       |   |       UserControl.cs
+|       |           |       |   |       UserControl.resx
+|       |           |       |   |       
+|       |           |       |   +---ResxBuilder
+|       |           |       |   |       AssemblyInfo.cs
+|       |           |       |   |       Example.resx
+|       |           |       |   |       ResXBuilder.bdsproj
+|       |           |       |   |       ResXChildForm.cs
+|       |           |       |   |       ResXChildForm.resx
+|       |           |       |   |       ResXMainForm.cs
+|       |           |       |   |       ResXMainForm.resx
+|       |           |       |   |       
+|       |           |       |   \---SharpBuilderTools
+|       |           |       |       |   ReadMe.Txt
+|       |           |       |       |   SharpBuilderTools.bdsproj
+|       |           |       |       |   
+|       |           |       |       \---src
+|       |           |       |           \---bewise
+|       |           |       |               |   AssemblyInfo.cs
+|       |           |       |               |   BaseOTA.cs
+|       |           |       |               |   Configuration.cs
+|       |           |       |               |   Consts.cs
+|       |           |       |               |   Enums.cs
+|       |           |       |               |   Main.cs
+|       |           |       |               |   OTAAddFrameworkReference.cs
+|       |           |       |               |   OTAAnt.cs
+|       |           |       |               |   OTAClipboard.cs
+|       |           |       |               |   OTACodeBeautifier.cs
+|       |           |       |               |   OTAMenuEnhancement.cs
+|       |           |       |               |   OTAOptions.cs
+|       |           |       |               |   OTAShell.cs
+|       |           |       |               |   OTAViewFiles.cs
+|       |           |       |               |   OTAViewMethods.cs
+|       |           |       |               |   
+|       |           |       |               +---ant
+|       |           |       |               |       Ant.cs
+|       |           |       |               |       AntProject.cs
+|       |           |       |               |       AntProperty.cs
+|       |           |       |               |       AntTarget.cs
+|       |           |       |               |       BaseAnt.cs
+|       |           |       |               |       BaseAntProject.cs
+|       |           |       |               |       BaseAntProperty.cs
+|       |           |       |               |       BaseAntTarget.cs
+|       |           |       |               |       NAnt.cs
+|       |           |       |               |       NAntProject.cs
+|       |           |       |               |       NAntProperty.cs
+|       |           |       |               |       NAntTarget.cs
+|       |           |       |               |       
+|       |           |       |               +---gui
+|       |           |       |               |       FrmBaseView.cs
+|       |           |       |               |       FrmClipBoardView.cs
+|       |           |       |               |       FrmClipBoardView.resx
+|       |           |       |               |       FrmCreateRegion.cs
+|       |           |       |               |       FrmCreateRegion.resx
+|       |           |       |               |       FrmNAntMultipleRunner.cs
+|       |           |       |               |       FrmNAntRunner.cs
+|       |           |       |               |       FrmOptions.cs
+|       |           |       |               |       FrmOptions.resx
+|       |           |       |               |       FrmSortOptions.cs
+|       |           |       |               |       FrmSortOptions.resx
+|       |           |       |               |       FrmViewFiles.cs
+|       |           |       |               |       FrmViewFiles.resx
+|       |           |       |               |       FrmViewMethods.cs
+|       |           |       |               |       
+|       |           |       |               +---helpers
+|       |           |       |               |       SortHelpers.cs
+|       |           |       |               |       ViewFileHelpers.cs
+|       |           |       |               |       
+|       |           |       |               \---utils
+|       |           |       |                       ClassInfo.cs
+|       |           |       |                       FieldInfo.cs
+|       |           |       |                       MemberInfo.cs
+|       |           |       |                       MethodInfo.cs
+|       |           |       |                       OTAUtils.cs
+|       |           |       |                       RunProcess.cs
+|       |           |       |                       ViewFileInfo.cs
+|       |           |       |                       WinAPI.cs
+|       |           |       |                       
+|       |           |       \---Web Services
+|       |           |           +---Number Conversion
+|       |           |           |   |   RomanClient.bdsproj
+|       |           |           |   |   WinForm1.cs
+|       |           |           |   |   WinForm1.resx
+|       |           |           |   |   eBob42.gif
+|       |           |           |   |   readme.txt
+|       |           |           |   |   
+|       |           |           |   \---Web References
+|       |           |           |       \---com.ebob42.www
+|       |           |           |               IRomanservice.wsdl
+|       |           |           |               Reference.cs
+|       |           |           |               Reference.map
+|       |           |           |               
+|       |           |           \---Tic Tac Toe
+|       |           |               |   TicTacToe.bdsproj
+|       |           |               |   WinForm1.cs
+|       |           |               |   WinForm1.resx
+|       |           |               |   eBob42.gif
+|       |           |               |   eBob42.ico
+|       |           |               |   readme.txt
+|       |           |               |   
+|       |           |               \---Web References
+|       |           |                   \---com.ebob42.www
+|       |           |                           ITicTacToeservice.wsdl
+|       |           |                           Reference.cs
+|       |           |                           Reference.map
+|       |           |                           
+|       |           +---Help
+|       |           |   +---C#
+|       |           |   |       csbapi.HxI
+|       |           |   |       csbapi.HxS
+|       |           |   |       csbguide.HxI
+|       |           |   |       csbguide.HxS
+|       |           |   |       csbtasks.HxI
+|       |           |   |       csbtasks.HxS
+|       |           |   |       csbui.HxI
+|       |           |   |       csbui.HxS
+|       |           |   |       
+|       |           |   +---Common
+|       |           |   |       bds.HxA
+|       |           |   |       bds.HxC
+|       |           |   |       bds.HxT
+|       |           |   |       bds_A.HxK
+|       |           |   |       bds_F.HxK
+|       |           |   |       bds_K.HxK
+|       |           |   |       bds_NamedURL.HxK
+|       |           |   |       bdsstart.HxI
+|       |           |   |       bdsstart.HxS
+|       |           |   |       
+|       |           |   +---Thirdparty
+|       |           |   |       crystlmn.hxi
+|       |           |   |       crystlmn.hxs
+|       |           |   |       crystlrf.hxi
+|       |           |   |       crystlrf.hxs
+|       |           |   |       
+|       |           |   \---Tutorials
+|       |           |       \---SoftSteel
+|       |           |           +---csharp
+|       |           |           |       index.html
+|       |           |           |       lesson1.html
+|       |           |           |       lesson10.html
+|       |           |           |       lesson10P.html
+|       |           |           |       lesson11.html
+|       |           |           |       lesson11P.html
+|       |           |           |       lesson12.html
+|       |           |           |       lesson12P.html
+|       |           |           |       lesson13.html
+|       |           |           |       lesson13P.html
+|       |           |           |       lesson14.html
+|       |           |           |       lesson14P.html
+|       |           |           |       lesson15.html
+|       |           |           |       lesson15P.html
+|       |           |           |       lesson16.html
+|       |           |           |       lesson16P.html
+|       |           |           |       lesson17.html
+|       |           |           |       lesson17P.html
+|       |           |           |       lesson18.html
+|       |           |           |       lesson18P.html
+|       |           |           |       lesson19.html
+|       |           |           |       lesson19P.html
+|       |           |           |       lesson1P.html
+|       |           |           |       lesson2.html
+|       |           |           |       lesson2P.html
+|       |           |           |       lesson3.html
+|       |           |           |       lesson3P.html
+|       |           |           |       lesson4.html
+|       |           |           |       lesson4P.html
+|       |           |           |       lesson5.html
+|       |           |           |       lesson5P.html
+|       |           |           |       lesson6.html
+|       |           |           |       lesson6P.html
+|       |           |           |       lesson7.html
+|       |           |           |       lesson7P.html
+|       |           |           |       lesson8.html
+|       |           |           |       lesson8P.html
+|       |           |           |       lesson9.html
+|       |           |           |       lesson9P.html
+|       |           |           |       
+|       |           |           \---layout
+|       |           |                   3aslices_2.gif
+|       |           |                   3aslices_3.gif
+|       |           |                   3aslices_4.gif
+|       |           |                   3aslices_4a.gif
+|       |           |                   3aslices_5.gif
+|       |           |                   Thumbs.db
+|       |           |                   cLess11a.JPG
+|       |           |                   greenfill.GIF
+|       |           |                   logo.JPG
+|       |           |                   pixel.GIF
+|       |           |                   softsteel.css
+|       |           |                   softsteelNN.css
+|       |           |                   softsteelarrow.GIF
+|       |           |                   transp.GIF
+|       |           |                   
+|       |           +---Objrepos
+|       |           |   |   ApplicationSettings.xml
+|       |           |   |   BorlandUDDI.html
+|       |           |   |   CodeSnippets.xml
+|       |           |   |   HTMLFormatterTagInfo.xml
+|       |           |   |   HtmlSnippets.xml
+|       |           |   |   TypeMappings.xml
+|       |           |   |   bds.dci
+|       |           |   |   searcher2.jpg
+|       |           |   |   soapwebservice.asmx
+|       |           |   |   
+|       |           |   +---CSharp
+|       |           |   |       AssemblyInfoTemplate.cs
+|       |           |   |       ClassTemplate.cs
+|       |           |   |       ComponentTemplate.cs
+|       |           |   |       ConsoleAppTemplate.cs
+|       |           |   |       Control.ascx
+|       |           |   |       Control.ascx.cs
+|       |           |   |       Global.asax
+|       |           |   |       Global.asax.cs
+|       |           |   |       InheritedWinFormTemplate.cs
+|       |           |   |       Page.aspx
+|       |           |   |       Page.aspx.cs
+|       |           |   |       ResourceTemplate.resx
+|       |           |   |       UserControlTemplate.cs
+|       |           |   |       Web.config
+|       |           |   |       WebCustomControl.cs
+|       |           |   |       WebService.asmx
+|       |           |   |       WebService.asmx.cs
+|       |           |   |       WinFormTemplate.cs
+|       |           |   |       
+|       |           |   +---Markup
+|       |           |   |       HTMLPageTemplate.htm
+|       |           |   |       XHTMLTemplate.htm
+|       |           |   |       
+|       |           |   \---VB
+|       |           |           ClassTemplate.vb
+|       |           |           ConsoleAppTemplate.vb
+|       |           |           FormTemplate.vb
+|       |           |           UserControlTemplate.vb
+|       |           |           
+|       |           +---Schemas
+|       |           |       HTML2-strict.dtd
+|       |           |       HTML2.dtd
+|       |           |       HTML3.2.dtd
+|       |           |       HTMLlat1.ent
+|       |           |       HTMLspecial.ent
+|       |           |       HTMLsymbol.ent
+|       |           |       asp.xsd
+|       |           |       asp_directives.xsd
+|       |           |       frameset.dtd
+|       |           |       loose.dtd
+|       |           |       strict.dtd
+|       |           |       wml12.dtd
+|       |           |       xhtml-lat1.ent
+|       |           |       xhtml-special.ent
+|       |           |       xhtml-symbol.ent
+|       |           |       xhtml1-frameset.dtd
+|       |           |       xhtml1-strict.dtd
+|       |           |       xhtml1-transitional.dtd
+|       |           |       xsl.dtd
+|       |           |       
+|       |           \---Welcomepage
+|       |               |   bdshome.css
+|       |               |   bdshome.js
+|       |               |   bdshome.xsl
+|       |               |   borland_logo.gif
+|       |               |   default.htm
+|       |               |   start1.gif
+|       |               |   start1.psp
+|       |               |   start2.gif
+|       |               |   start2_bar.gif
+|       |               |   start2_bar.psp
+|       |               |   
+|       |               \---Images
+|       |                       bluepage.gif
+|       |                       define.gif
+|       |                       deploy.gif
+|       |                       design.gif
+|       |                       develop.gif
+|       |                       dropshadow.gif
+|       |                       droptab.gif
+|       |                       droptabfill.gif
+|       |                       greenfolder.gif
+|       |                       greenfoldero.gif
+|       |                       inrTab.gif
+|       |                       inrTabDn.gif
+|       |                       inrTabUp.gif
+|       |                       manage.gif
+|       |                       openAsNewNo.gif
+|       |                       openAsNewYes.gif
+|       |                       project.gif
+|       |                       project_group.gif
+|       |                       showHPNo.gif
+|       |                       showHPYes.gif
+|       |                       start_nav_01_dn.png
+|       |                       start_nav_03_dn.png
+|       |                       start_nav_03_up.png
+|       |                       start_nav_04_dn.png
+|       |                       start_nav_04_up.png
+|       |                       start_nav_05_dn.png
+|       |                       start_nav_05_up.png
+|       |                       start_nav_06_dn.png
+|       |                       start_nav_06_up.png
+|       |                       start_nav_07_dn.png
+|       |                       start_nav_07_up.png
+|       |                       start_nav_08_dn.png
+|       |                       start_nav_08_up.png
+|       |                       tabwidth.gif
+|       |                       test.gif
+|       |                       thinking_man.png
+|       |                       update.gif
+|       |                       
+|       +---Common Files
+|       |   \---Crystal Decisions
+|       |       \---1.0
+|       |           \---Bin
+|       |                   CRDDT32.dll
+|       |                   Cdo32.dll
+|       |                   ExportModeller.dll
+|       |                   Implode.dll
+|       |                   Rule1.dfa
+|       |                   Rule1.llr
+|       |                   SACommonControls.dll
+|       |                   Sscdlg.hlp
+|       |                   Sstree32.dll
+|       |                   crdb_ado.dll
+|       |                   crdb_adoplus.dll
+|       |                   crdb_cdo.dll
+|       |                   crdb_dao.dll
+|       |                   crdb_fielddef.dll
+|       |                   crdb_odbc.dll
+|       |                   crpe32.dll
+|       |                   crqe.dll
+|       |                   crtowords_en.dll
+|       |                   crxf_pdf.dll
+|       |                   crxf_rtf.dll
+|       |                   crxf_wordw.dll
+|       |                   crxf_xls.dll
+|       |                   datadefmodel.dll
+|       |                   keycodeV2.dll
+|       |                   msvcp60.dll
+|       |                   pg32conv.dll
+|       |                   querybuilder.dll
+|       |                   s2sqlprs.dll
+|       |                   saxmlserialize.dll
+|       |                   sscdlg.cnt
+|       |                   sscdlg.dll
+|       |                   sscdlg.hpt
+|       |                   sscrc.dll
+|       |                   sscsdk80.dll
+|       |                   tslv.dll
+|       |                   u252000.dll
+|       |                   u25dts.dll
+|       |                   u2ddisk.dll
+|       |                   u2dmapi.dll
+|       |                   u2dpost.dll
+|       |                   u2fcompress.dll
+|       |                   u2fcr.dll
+|       |                   u2l2000.dll
+|       |                   u2lcom.dll
+|       |                   u2ldts.dll
+|       |                   u2lexch.dll
+|       |                   u2lfinra.dll
+|       |                   u2lsamp1.dll
+|       |                   unicows.dll
+|       |                   
+|       \---Microsoft Visual Studio .NET 2003
+|           \---Crystal Reports
+|               |   confiis4.exe
+|               |   
+|               +---Crystal.NET
+|               |       CrystalDecisions.CrystalReports.Engine.dll
+|               |       CrystalDecisions.ReportSource.dll
+|               |       CrystalDecisions.Shared.dll
+|               |       CrystalDecisions.Web.dll
+|               |       CrystalDecisions.Windows.Forms.dll
+|               |       CrystalEnterpriseLib.dll
+|               |       CrystalInfoStoreLib.dll
+|               |       CrystalKeyCodeLib.dll
+|               |       CrystalPluginMgrLib.dll
+|               |       CrystalReportPluginLib.dll
+|               |       
+|               \---Viewers
+|                   |   crystalimagehandler.aspx
+|                   |   
+|                   \---images
+|                       +---ToolBar
+|                       |       First.gif
+|                       |       Firstd.gif
+|                       |       Last.gif
+|                       |       Lastd.gif
+|                       |       Next.gif
+|                       |       Nextd.gif
+|                       |       Prev.gif
+|                       |       Prevd.gif
+|                       |       Refresh.gif
+|                       |       Search.gif
+|                       |       gotopage.gif
+|                       |       logo.gif
+|                       |       up.gif
+|                       |       upd.gif
+|                       |       
+|                       \---Tree
+|                               Emptybox.gif
+|                               Magnify.gif
+|                               Minubox.gif
+|                               Plusbox.gif
+|                               begindots.gif
+|                               beginminus.gif
+|                               beginplus.gif
+|                               blank.gif
+|                               blankdots.gif
+|                               dots.gif
+|                               lastdots.gif
+|                               lastminus.gif
+|                               lastplus.gif
+|                               minus.gif
+|                               plus.gif
+|                               singleminus.gif
+|                               singleplus.gif
+|                               
++---IE60SP1
+|       ADVAUTH.CAB
+|       AOLSUPP.CAB
+|       BRANDING.CAB
+|       GSETUP95.CAB
+|       GSETUPNT.CAB
+|       HELPCONT.CAB
+|       IECIF.CAB
+|       IEDATA.CAB
+|       IEMIL_1.CAB
+|       IEMIL_2.CAB
+|       IEMIL_3.CAB
+|       IEMIL_4.CAB
+|       IEW2K_1.CAB
+|       IEW2K_2.CAB
+|       IEW2K_3.CAB
+|       IEW2K_4.CAB
+|       IE_EXTRA.CAB
+|       MOBILE95.CAB
+|       MOBILENT.CAB
+|       OEEXCEP.CAB
+|       actsetup.CAB
+|       axa.cab
+|       axa3.cab
+|       crlupd.cab
+|       filelist.dat
+|       fontcore.cab
+|       fontsup.cab
+|       hhupd.cab
+|       icw.cab
+|       icwcon.cab
+|       ie4shlnt.cab
+|       ie6oem.exe
+|       ie6setup.exe
+|       ie_s1.CAB
+|       ie_s2.CAB
+|       ie_s3.CAB
+|       ie_s4.CAB
+|       ie_s5.CAB
+|       ie_s6.CAB
+|       ieak6.exe
+|       ieak6cd.exe
+|       ieak6opt.CAB
+|       iedom.cab
+|       ieexinst.CAB
+|       ielpkad.cab
+|       ielpkar.cab
+|       ielpkiw.cab
+|       ielpkja.cab
+|       ielpkko.cab
+|       ielpkpe.cab
+|       ielpkth.cab
+|       ielpkvi.cab
+|       ielpkzhc.cab
+|       ielpkzht.cab
+|       ient_s1.CAB
+|       ient_s2.CAB
+|       ient_s3.CAB
+|       ient_s4.CAB
+|       ient_s5.CAB
+|       ient_s6.CAB
+|       iesetup.ini
+|       jaaime.cab
+|       koaime.cab
+|       mailnews.cab
+|       mpcdcs.cab
+|       mplay2a.cab
+|       mplay2u.cab
+|       mplayer2.cab
+|       oainst.cab
+|       readme.CAB
+|       readme.txt
+|       scaime.cab
+|       scr56en.cab
+|       scripten.cab
+|       setupnt.CAB
+|       setupw95.CAB
+|       swflash.cab
+|       tcaime.cab
+|       ts95.cab
+|       tsnt.cab
+|       usp10.cab
+|       vgx.cab
+|       wab.cab
+|       
++---Demeanor PE
+|       Wise Owl Demeanor for Borland C#Builder Setup.msi
+|       
++---Crack
+|       keygen.exe
+|       readme.txt
+|       
+\---Component One
+        C1StudioEnterprise.msi
+        

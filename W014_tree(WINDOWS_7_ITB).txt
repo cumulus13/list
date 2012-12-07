@@ -1,0 +1,1032 @@
+Folder PATH listing for volume ULTIMATE_GB1CXFRE_EN_DVD
+Volume serial number is D9F0-CBD6
+F:\
+|   autorun.inf
+|   bootmgr
+|   bootmgr.efi
+|   setup.exe
+|   
++---boot
+|   |   bcd
+|   |   boot.sdi
+|   |   bootfix.bin
+|   |   bootsect.exe
+|   |   etfsboot.com
+|   |   memtest.efi
+|   |   memtest.exe
+|   |   
+|   +---en-us
+|   |       bootsect.exe.mui
+|   |       
+|   \---fonts
+|           chs_boot.ttf
+|           cht_boot.ttf
+|           jpn_boot.ttf
+|           kor_boot.ttf
+|           wgl4_boot.ttf
+|           
++---efi
+|   \---microsoft
+|       \---boot
+|           |   bcd
+|           |   cdboot.efi
+|           |   cdboot_noprompt.efi
+|           |   efisys.bin
+|           |   efisys_noprompt.bin
+|           |   
+|           \---fonts
+|                   chs_boot.ttf
+|                   cht_boot.ttf
+|                   jpn_boot.ttf
+|                   kor_boot.ttf
+|                   wgl4_boot.ttf
+|                   
++---sources
+|   |   actionqueue.dll
+|   |   admtv3check.dll
+|   |   alert.gif
+|   |   apds.dll
+|   |   apircl.dll
+|   |   appcompat.xsl
+|   |   appcompat_bidi.xsl
+|   |   appcompat_detailed.xsl
+|   |   appcompat_detailed_bidi.xsl
+|   |   appcompat_detailed_bidi_txt.xsl
+|   |   appcompat_detailed_txt.xsl
+|   |   apss.dll
+|   |   arunimg.dll
+|   |   arunres.dll
+|   |   autorun.dll
+|   |   background_cli.bmp
+|   |   boot.wim
+|   |   cbscore.dll
+|   |   cbscore.mof
+|   |   cbsmsg.dll
+|   |   cdplib.mof
+|   |   cdplibuninstall.mof
+|   |   cmiadapter.dll
+|   |   cmisetup.dll
+|   |   cmitrust.dll
+|   |   cmiv2.dll
+|   |   cntrtextinstaller.dll
+|   |   compatprovider.dll
+|   |   compliance.ini
+|   |   compres.dll
+|   |   diager.dll
+|   |   diagnostic.dll
+|   |   dism.exe
+|   |   dismcore.dll
+|   |   dismcoreps.dll
+|   |   dismhost.exe
+|   |   dismprov.dll
+|   |   dpx.dll
+|   |   drupdate.dll
+|   |   drvmain.sdb
+|   |   drvmgrtn.dll
+|   |   drvstore.dll
+|   |   du.dll
+|   |   ei.cfg
+|   |   envmig.xml
+|   |   esscli.dll
+|   |   fastprox.dll
+|   |   folderprovider.dll
+|   |   fveupg.dll
+|   |   globalinstallorder.xml
+|   |   helpcins.dll
+|   |   hwcompat.dll
+|   |   hwcompat.txt
+|   |   hwexclude.txt
+|   |   idwbinfo.txt
+|   |   input.dll
+|   |   install.wim
+|   |   install_Windows Vista BUSINESS.clg
+|   |   install_Windows Vista BUSINESSN.clg
+|   |   install_Windows Vista HOMEBASIC.clg
+|   |   install_Windows Vista HOMEBASICN.clg
+|   |   install_Windows Vista HOMEPREMIUM.clg
+|   |   install_Windows Vista ULTIMATE.clg
+|   |   lang.ini
+|   |   locale.nls
+|   |   locdrv.dll
+|   |   logprovider.dll
+|   |   migisol.dll
+|   |   migtestplugin.dll
+|   |   mofd.dll
+|   |   mofinstall.dll
+|   |   msdelta.dll
+|   |   mspatcha.dll
+|   |   msxml6.dll
+|   |   msxml6r.dll
+|   |   nlsbres.dll
+|   |   ntdsupg.dll
+|   |   oemhelpins.dll
+|   |   offline.xml
+|   |   oscomps.xml
+|   |   osfilter.inf
+|   |   pidgenx.dll
+|   |   pkeyconfig.xrm-ms
+|   |   pnpibs.dll
+|   |   product.ini
+|   |   readme.rtf
+|   |   repdrvfs.dll
+|   |   rmsupg.dll
+|   |   rollback.exe
+|   |   schema.dat
+|   |   sdbapiu.dll
+|   |   segoeui.ttf
+|   |   setup.exe
+|   |   sfcn.dat
+|   |   sflcid.dat
+|   |   sflistlh.dat
+|   |   sflistw7.dat
+|   |   sflistxp.dat
+|   |   sfpat.inf
+|   |   sfpatlh.inf
+|   |   sfpatw7.inf
+|   |   sfpatxp.inf
+|   |   smiengine.dll
+|   |   smipi.dll
+|   |   sperr32.exe
+|   |   spfileq.dll
+|   |   spflvrnt.dll
+|   |   spinf.dll
+|   |   spprgrss.dll
+|   |   spwizeng.dll
+|   |   spwizimg.dll
+|   |   spwizres.dll
+|   |   sqmapi.dll
+|   |   ssshim.dll
+|   |   sysmain.sdb
+|   |   sysmain32.sdb
+|   |   uddicomp.dll
+|   |   unattend.dll
+|   |   unbcl.dll
+|   |   upgcmi2migxml.dll
+|   |   upgcompat.inf
+|   |   upgcore.dll
+|   |   upgcsiagent.dll
+|   |   upgdriver.dll
+|   |   upghost.exe
+|   |   upgloader.dll
+|   |   upgmxeagent.dll
+|   |   upgrade_bulk.xml
+|   |   upgradeagent.dll
+|   |   upgradeagent.xml
+|   |   upgreport.dll
+|   |   upgres.dll
+|   |   upgwow_bulk.xml
+|   |   uxlib.dll
+|   |   uxlibres.dll
+|   |   vofflps.rtf
+|   |   w32uiimg.dll
+|   |   w32uires.dll
+|   |   warning.gif
+|   |   wbemcomn.dll
+|   |   wbemcore.dll
+|   |   wbemprox.dll
+|   |   wcmtypes.xsd
+|   |   wcp.dll
+|   |   wdsclient.dll
+|   |   wdsclientapi.dll
+|   |   wdscore.dll
+|   |   wdscsl.dll
+|   |   wdsimage.dll
+|   |   wdsmgmt.dll
+|   |   wdstptc.dll
+|   |   wdstptmgmt.dll
+|   |   wdsupgcompl.dll
+|   |   wdsutil.dll
+|   |   win32ui.dll
+|   |   winsetup.dll
+|   |   wmi_tracing.mof
+|   |   wmiutils.dll
+|   |   wsscomp.dll
+|   |   xmllite.dll
+|   |   
+|   +---dlmanifests
+|   |   |   accessibilitycpl-dl.man
+|   |   |   activedirectory-webservices-dl.man
+|   |   |   activedirectory-wmireplicationprovider-dl.man
+|   |   |   adfs-federationservice-dl.man
+|   |   |   adfs-federationserviceproxy-dl.man
+|   |   |   adfs-webagentclaims-dl.man
+|   |   |   adfs-webagenttoken-dl.man
+|   |   |   adminui-dl.man
+|   |   |   adsi-ldap-extensions-dl.man
+|   |   |   adsi-ldap-provider-dl.man
+|   |   |   adsi-router-dl.man
+|   |   |   adsi-winnt-provider-dl.man
+|   |   |   application_experience-infrastructure-dl.man
+|   |   |   authui-dl.man
+|   |   |   bitsextensions-server-console-dl.man
+|   |   |   bitsextensions-server-dl.man
+|   |   |   bluetooth-config-dl.man
+|   |   |   browserservice-dl.man
+|   |   |   capi2_certs-dl.man
+|   |   |   commandprompt-dl.man
+|   |   |   coreos-dl.man
+|   |   |   credential-manager-dl.man
+|   |   |   crypto_keys-dl.man
+|   |   |   cryptoconfig-dl.man
+|   |   |   dfsclient-dl.man
+|   |   |   dfsmgmt-dl.man
+|   |   |   dfsn-serverservice-dl.man
+|   |   |   dhcpclient-dl.man
+|   |   |   dhcpservermigplugin-dl.man
+|   |   |   directoryservices-adam-dl.man
+|   |   |   directoryservices-domain-dl.man
+|   |   |   directoryservices-ism-smtp-dl.man
+|   |   |   dns-client-dl.man
+|   |   |   dns-server-service-dl.man
+|   |   |   dpapi_keys-dl.man
+|   |   |   drm-dl.man
+|   |   |   ehome-reg-inf-dl.man
+|   |   |   errorreportingcore-dl.man
+|   |   |   errorreportingfaults-dl.man
+|   |   |   etw-core-dl.man
+|   |   |   eventcollector-dl.man
+|   |   |   eventlog-dl.man
+|   |   |   evntagnt-dl.man
+|   |   |   explorer-dl.man
+|   |   |   extensibleauthenticationprotocolhostservice-dl.man
+|   |   |   feclient-dl.man
+|   |   |   frs-core-dl.man
+|   |   |   gameuxmig-dl.man
+|   |   |   gpbase-dl.man
+|   |   |   gpmc-dl.man
+|   |   |   gpmgmt-dl.man
+|   |   |   grouppolicy-admin-gpedit-dl.man
+|   |   |   grouppolicy-admin-gpedit-snapin-dl.man
+|   |   |   grouppolicy-cse-softwareinstallation-dl.man
+|   |   |   grouppolicy-serveradmintools-gpmc-dl.man
+|   |   |   http-dl.man
+|   |   |   iasmigplugin-dl.man
+|   |   |   ieframe-dl.man
+|   |   |   ime-simplified-chinese-migration-dl.man
+|   |   |   ime-traditional-chinese-migration-dl.man
+|   |   |   international-core-dl.man
+|   |   |   international-timezones-dl.man
+|   |   |   internet-naming-service-runtime-dl.man
+|   |   |   ipsec-svc-dl.man
+|   |   |   isns_service-dl.man
+|   |   |   kerberos-key-distribution-center-dl.man
+|   |   |   ldap-client-dl.man
+|   |   |   mediaserver-aspadmin-migration-dl.man
+|   |   |   mediaserver-migration-dl.man
+|   |   |   mediaserver-multicast-migration-dl.man
+|   |   |   microsoft-windows-bits-client-dl.man
+|   |   |   microsoft-windows-certificateservices-ca-dl.man
+|   |   |   microsoft-windows-certificateservices-camanagement-dl.man
+|   |   |   microsoft-windows-certificateservices-mscep-dl.man
+|   |   |   microsoft-windows-dfsr-core-dl.man
+|   |   |   microsoft-windows-dot3svc-dl.man
+|   |   |   microsoft-windows-fax-client-applications-dl.man
+|   |   |   microsoft-windows-fax-client-proenterprise-dl.man
+|   |   |   microsoft-windows-fax-common-dl.man
+|   |   |   microsoft-windows-fax-server-dl.man
+|   |   |   microsoft-windows-fax-service-dl.man
+|   |   |   microsoft-windows-htmlhelp-dl.man
+|   |   |   microsoft-windows-icm-profiles-dl.man
+|   |   |   microsoft-windows-ie-clientnetworkprotocolimplementation-dl.man
+|   |   |   microsoft-windows-ie-esc-dl.man
+|   |   |   microsoft-windows-ie-feeds-platform-dl.man
+|   |   |   microsoft-windows-ie-internetexplorer-dl.man
+|   |   |   microsoft-windows-iis-asp-deployment-dl.man
+|   |   |   microsoft-windows-iis-aspnet-deployment-dl.man
+|   |   |   microsoft-windows-iis-basicauthentication-deployment-dl.man
+|   |   |   microsoft-windows-iis-cgi-deployment-dl.man
+|   |   |   microsoft-windows-iis-clientcertificatemappingauthentication-deployment-dl.man
+|   |   |   microsoft-windows-iis-corewebengine-deployment-dl.man
+|   |   |   microsoft-windows-iis-customlogging-deployment-dl.man
+|   |   |   microsoft-windows-iis-defaultdocument-deployment-dl.man
+|   |   |   microsoft-windows-iis-digestauthentication-deployment-dl.man
+|   |   |   microsoft-windows-iis-directorybrowsing-deployment-dl.man
+|   |   |   microsoft-windows-iis-ftpserver-deployment-dl.man
+|   |   |   microsoft-windows-iis-httpcompressiondynamic-deployment-dl.man
+|   |   |   microsoft-windows-iis-httpcompressionstatic-deployment-dl.man
+|   |   |   microsoft-windows-iis-httperrors-deployment-dl.man
+|   |   |   microsoft-windows-iis-httplogging-deployment-dl.man
+|   |   |   microsoft-windows-iis-httpredirect-deployment-dl.man
+|   |   |   microsoft-windows-iis-httptracing-deployment-dl.man
+|   |   |   microsoft-windows-iis-iiscertificatemappingauthentication-deployment-dl.man
+|   |   |   microsoft-windows-iis-ipsecurity-deployment-dl.man
+|   |   |   microsoft-windows-iis-isapiextensions-deployment-dl.man
+|   |   |   microsoft-windows-iis-isapifilter-deployment-dl.man
+|   |   |   microsoft-windows-iis-legacyscripts-deployment-dl.man
+|   |   |   microsoft-windows-iis-legacysnapin-deployment-dl.man
+|   |   |   microsoft-windows-iis-logginglibraries-deployment-dl.man
+|   |   |   microsoft-windows-iis-managementconsole-deployment-dl.man
+|   |   |   microsoft-windows-iis-managementscriptingtools-deployment-dl.man
+|   |   |   microsoft-windows-iis-managementservice-deployment-dl.man
+|   |   |   microsoft-windows-iis-metabase-dl.man
+|   |   |   microsoft-windows-iis-netfxextensibility-deployment-dl.man
+|   |   |   microsoft-windows-iis-odbclogging-deployment-dl.man
+|   |   |   microsoft-windows-iis-requestfiltering-deployment-dl.man
+|   |   |   microsoft-windows-iis-requestmonitor-deployment-dl.man
+|   |   |   microsoft-windows-iis-serversideincludes-deployment-dl.man
+|   |   |   microsoft-windows-iis-staticcontent-deployment-dl.man
+|   |   |   microsoft-windows-iis-urlauthorization-deployment-dl.man
+|   |   |   microsoft-windows-iis-windowsauthentication-deployment-dl.man
+|   |   |   microsoft-windows-iis-wmicompatibility-deployment-dl.man
+|   |   |   microsoft-windows-mail-dl.man
+|   |   |   microsoft-windows-mediaplayer-migration-dl.man
+|   |   |   microsoft-windows-netfx35-dl.man
+|   |   |   microsoft-windows-netfx35cdfcomp-dl.man
+|   |   |   microsoft-windows-netfxcorecomp-dl.man
+|   |   |   microsoft-windows-networkbridge-dl.man
+|   |   |   microsoft-windows-offlinefiles-dl.man
+|   |   |   microsoft-windows-sharedaccess-dl.man
+|   |   |   microsoft-windows-smbhashgeneration-dl.man
+|   |   |   microsoft-windows-storagemigration-dl.man
+|   |   |   microsoft-windows-sxs-dl.man
+|   |   |   microsoft-windows-tapisetup-dl.man
+|   |   |   microsoft-windows-terminalservices-clientactivexcore-dl.man
+|   |   |   microsoft-windows-wab-dl.man
+|   |   |   microsoft-windows-was-configurationapi-dl.man
+|   |   |   microsoft-windows-was-netfxenvironment-dl.man
+|   |   |   microsoft-windows-was-processmodel-dl.man
+|   |   |   microsoft-windows-wcfcorecomp-dl.man
+|   |   |   microsoft-windows-wlansvc-dl.man
+|   |   |   microsoft.windows.com.base-dl.man
+|   |   |   microsoft.windows.com.complus.setup.dl.man
+|   |   |   microsoft.windows.com.dtc.setup-dl.man
+|   |   |   microsoftwindowssystemrestore-main-dl.man
+|   |   |   migrationdisplaygroups-dl.man
+|   |   |   mpr-dl.man
+|   |   |   msmq-dcom-dl.man
+|   |   |   msmq-domain-ic-dl.man
+|   |   |   msmq-http-dl.man
+|   |   |   msmq-messagingcoreservice-dl.man
+|   |   |   msmq-multicast-dl.man
+|   |   |   msmq-routing-dl.man
+|   |   |   msmq-triggers-dl.man
+|   |   |   muisettings-dl.man
+|   |   |   mup-dl.man
+|   |   |   ndis-dl.man
+|   |   |   netfx3-dl.man
+|   |   |   netlogon-dl.man
+|   |   |   networkaccessprotection-agent-dl.man
+|   |   |   networking-mpssvc-svc-dl.man
+|   |   |   networkloadbalancingfullserver-dl.man
+|   |   |   nfs-admincore-dl.man
+|   |   |   nfs-clientcore-dl.man
+|   |   |   nfs-servercore-dl.man
+|   |   |   ntfs-dl.man
+|   |   |   ntoskrnl-dl.man
+|   |   |   odbc32dll-dl.man
+|   |   |   openportmapper-dl.man
+|   |   |   openrpc-dl.man
+|   |   |   partmgr-dl.man
+|   |   |   peertopeeradmin-dl.man
+|   |   |   peertopeerbase-dl.man
+|   |   |   peertopeergraphing-dl.man
+|   |   |   peertopeergrouping-dl.man
+|   |   |   peertopeeridmanager-dl.man
+|   |   |   peertopeerpnrp-dl.man
+|   |   |   performancecounterinfrastructure-dl.man
+|   |   |   performancecounterinfrastructureconsumer-dl.man
+|   |   |   printing-spooler-core-dl.man
+|   |   |   printing-spooler-networkclient-dl.man
+|   |   |   pstore_data-dl.man
+|   |   |   psync-dl.man
+|   |   |   rasapi-dl.man
+|   |   |   rascmak-dl.man
+|   |   |   rasconnectionmanager-dl.man
+|   |   |   rasservermigplugin-dl.man
+|   |   |   rasserveroc-dl.man
+|   |   |   remoteassistance-dl.man
+|   |   |   rights-management-client-v1-api-dl.man
+|   |   |   rights-management-services-server-dl.man
+|   |   |   rpc-http-dl.man
+|   |   |   rpc-http_proxy-dl.man
+|   |   |   rpc-local-dl.man
+|   |   |   rpc-remote-dl.man
+|   |   |   sanmmc-dl.man
+|   |   |   schannel-dl.man
+|   |   |   schedsvc-dl.man
+|   |   |   security-digest-dl.man
+|   |   |   security-kerberos-dl.man
+|   |   |   security-ntlm-dl.man
+|   |   |   shell32-dl.man
+|   |   |   shmig-dl.man
+|   |   |   shutdown-event-tracker-dl.man
+|   |   |   simpletcp-dl.man
+|   |   |   smartcardsubsystem-dl.man
+|   |   |   smbserver-dl.man
+|   |   |   smss-dl.man
+|   |   |   smtpsvc-admin-dl.man
+|   |   |   smtpsvc-service-dl.man
+|   |   |   snis-dl.man
+|   |   |   snmp-dl.man
+|   |   |   speechcommon-dl.man
+|   |   |   srm-dl.man
+|   |   |   sua-dl.man
+|   |   |   tabletpc-tabbtn-dl.man
+|   |   |   tabletpcinputpanel-dl.man
+|   |   |   tabletpcjournal-dl.man
+|   |   |   tabletpcplatforminput-core-dl.man
+|   |   |   tcpip-dl.man
+|   |   |   telnet-client-dl.man
+|   |   |   telnet-server-dl.man
+|   |   |   terminalservices-appserver-dl.man
+|   |   |   terminalservices-drivers-dl.man
+|   |   |   terminalservices-licenseserver-dl.man
+|   |   |   terminalservices-localsessionmanager-dl.man
+|   |   |   terminalservices-rdp-winstationextensions-dl.man
+|   |   |   terminalservices-remoteconnectionmanager-dl.man
+|   |   |   terminalservices-sessiondirectory-client-dl.man
+|   |   |   terminalservices-sessiondirectory-server-dl.man
+|   |   |   terminalservices-terminalservicesclient-dl.man
+|   |   |   textservicesframework-migration-dl.man
+|   |   |   time-service-dl.man
+|   |   |   unimodem-config-dl.man
+|   |   |   upnpcontrolpoint-dl.man
+|   |   |   upnpdevicehost-dl.man
+|   |   |   upnpssdp-dl.man
+|   |   |   video-tvvideocontrol-dl.man
+|   |   |   virtualdiskservice-dl.man
+|   |   |   vss-dl.man
+|   |   |   wcf-http-activation-dl.man
+|   |   |   wcf-http-activation-postapply-dl.man
+|   |   |   wcf-nonhttp-activation-dl.man
+|   |   |   wds-dl.man
+|   |   |   web-services-for-management-core-dl.man
+|   |   |   webdavredir-dl.man
+|   |   |   webdavredir-mrxdav-dl.man
+|   |   |   webenroll-dl.man
+|   |   |   win32k-settings-dl.man
+|   |   |   windowssearchengine-dl.man
+|   |   |   winhttp60-dl.man
+|   |   |   winlogon-dl.man
+|   |   |   wirelessnetworking-dl.man
+|   |   |   wmdmigration-dl.man
+|   |   |   wmi-core-dl.man
+|   |   |   wmi-snmp-provider-dl.man
+|   |   |   workstationservice-dl.man
+|   |   |   wsinfra-upgrade-dl.man
+|   |   |   wsrm-service-dl.man
+|   |   |   
+|   |   +---bitsextensions-server
+|   |   |       bitsmig.dll
+|   |   |       
+|   |   +---microsoft-activedirectory-webservices-dl
+|   |   |       adwsmigrate.dll
+|   |   |       
+|   |   +---microsoft-windows-adfs-dl
+|   |   |       adfsmig.dll
+|   |   |       
+|   |   +---microsoft-windows-bluetooth-config
+|   |   |       bthmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-com-complus-setup-dl
+|   |   |       commig.dll
+|   |   |       
+|   |   +---microsoft-windows-com-dtc-setup-dl
+|   |   |       msdtcstp.dll
+|   |   |       
+|   |   +---microsoft-windows-dhcpservermigplugin-dl
+|   |   |       dhcpsrvmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-directoryservices-adam-dl
+|   |   |       adammigrate.dll
+|   |   |       
+|   |   +---microsoft-windows-gameuxmig-dl
+|   |   |       gameuxmig.dll
+|   |   |       
+|   |   +---microsoft-windows-iasserver-migplugin
+|   |   |       iasmigplugin.dll
+|   |   |       iasmigreader.exe
+|   |   |       
+|   |   +---microsoft-windows-ie-clientnetworkprotocolimplementation
+|   |   |       wininetplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-ie-esc
+|   |   |       escmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-iis-dl
+|   |   |       iismig.dll
+|   |   |       
+|   |   +---microsoft-windows-international-core-dl
+|   |   |       nlscoremig.dll
+|   |   |       
+|   |   +---microsoft-windows-internet-naming-service-runtime
+|   |   |       winsplgn.dll
+|   |   |       
+|   |   +---microsoft-windows-mediaplayer-drm-dl
+|   |   |       drmmgrtn.dll
+|   |   |       
+|   |   +---microsoft-windows-msmq-messagingcoreservice
+|   |   |       mqmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-ndis
+|   |   |       ndismigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-networkbridge
+|   |   |       bridgemigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-networkloadbalancing-core
+|   |   |       nlbmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-offlinefiles-dl
+|   |   |       cscmig.dll
+|   |   |       
+|   |   +---microsoft-windows-performancecounterinfrastructure-dl
+|   |   |       cntrtextmig.dll
+|   |   |       
+|   |   +---microsoft-windows-performancecounterinfrastructureconsumer-dl
+|   |   |       plamig.dll
+|   |   |       
+|   |   +---microsoft-windows-rasconnectionmanager
+|   |   |       cmmigr.dll
+|   |   |       
+|   |   +---microsoft-windows-rasserver-migplugin
+|   |   |       rasmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-shmig-dl
+|   |   |       shmig.dll
+|   |   |       
+|   |   +---microsoft-windows-storagemigration
+|   |   |   |   stormigplugin.dll
+|   |   |   |   
+|   |   |   \---en-us
+|   |   |           stormigplugin.dll.mui
+|   |   |           
+|   |   +---microsoft-windows-sxs
+|   |   |       sxsmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-tapisetup
+|   |   |       tapimigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-terminalservices-licenseserver
+|   |   |       tlsmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-textservicesframework-migration-dl
+|   |   |       imjpmig.dll
+|   |   |       imkrmig.dll
+|   |   |       imscmig.dll
+|   |   |       imtcmig.dll
+|   |   |       msctfmig.dll
+|   |   |       tabletextservicemig.dll
+|   |   |       
+|   |   +---microsoft-windows-unimodem-config
+|   |   |       modemmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-winsock-core-infrastructure-upgrade
+|   |   |       wsupgrade.dll
+|   |   |       
+|   |   +---microsoft-windows-wmi-core
+|   |   |       wmimigrationplugin.dll
+|   |   |       
+|   |   \---networking-mpssvc-svc
+|   |           icfupgd.dll
+|   |           
+|   +---en-us
+|   |       apds.dll.mui
+|   |       apircl.dll.mui
+|   |       apss.dll.mui
+|   |       arunres.dll.mui
+|   |       cbsmsg.dll.mui
+|   |       cmisetup.dll.mui
+|   |       compatprovider.dll.mui
+|   |       compres.dll.mui
+|   |       dism.exe.mui
+|   |       dismcore.dll.mui
+|   |       dismprov.dll.mui
+|   |       du_help_what_info_sent_to_ms.rtf
+|   |       du_help_why_get_updates.rtf
+|   |       folderprovider.dll.mui
+|   |       help_what_is_activation.rtf
+|   |       input.dll.mui
+|   |       logprovider.dll.mui
+|   |       mofd.dll.mui
+|   |       msxml6r.dll.mui
+|   |       nlsbres.dll.mui
+|   |       pnpibs.dll.mui
+|   |       readme.rtf
+|   |       rollback.exe.mui
+|   |       setup.exe.mui
+|   |       setup_help_upgrade_or_custom.rtf
+|   |       smiengine.dll.mui
+|   |       sperr32.exe.mui
+|   |       spwizres.dll.mui
+|   |       upgdriver.dll.mui
+|   |       upgloader.dll.mui
+|   |       upgreport.dll.mui
+|   |       upgres.dll.mui
+|   |       uxlibres.dll.mui
+|   |       vofflps.rtf
+|   |       w32uires.dll.mui
+|   |       wbemcore.dll.mui
+|   |       wdsclient.dll.mui
+|   |       wdsimage.dll.mui
+|   |       wdsmgmt.dll.mui
+|   |       wdstptmgmt.dll.mui
+|   |       winsetup.dll.mui
+|   |       wmiutils.dll.mui
+|   |       
+|   +---etwproviders
+|   |   |   auditetw.dll
+|   |   |   cmisetupetw.dll
+|   |   |   etwproviderinstall.vbs
+|   |   |   oobeldretw.dll
+|   |   |   setupcletw.dll
+|   |   |   setupugcetw.dll
+|   |   |   sysprepetw.dll
+|   |   |   windeployetw.dll
+|   |   |   winsetupetw.dll
+|   |   |   
+|   |   \---en-us
+|   |           auditetw.dll.mui
+|   |           cmisetupetw.dll.mui
+|   |           oobeldretw.dll.mui
+|   |           setupcletw.dll.mui
+|   |           setupugcetw.dll.mui
+|   |           sysprepetw.dll.mui
+|   |           windeployetw.dll.mui
+|   |           winsetupetw.dll.mui
+|   |           
+|   +---inf
+|   |       setup.cfg
+|   |       
+|   +---license
+|   |   +---_default
+|   |   |   +---_default
+|   |   |   |   |   lipeula.rtf
+|   |   |   |   |   lpeula.rtf
+|   |   |   |   |   
+|   |   |   |   +---business
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---businessn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---enterprise
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---enterprisen
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homebasic
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homebasicn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homepremium
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homepremiumn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---starter
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---ultimate
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   \---ultimaten
+|   |   |   |           license.rtf
+|   |   |   |           
+|   |   |   +---eval
+|   |   |   |   +---business
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---businessn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---enterprise
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---enterprisen
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homebasic
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homebasicn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homepremium
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---homepremiumn
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---starter
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   +---ultimate
+|   |   |   |   |       license.rtf
+|   |   |   |   |       
+|   |   |   |   \---ultimaten
+|   |   |   |           license.rtf
+|   |   |   |           
+|   |   |   \---oem
+|   |   |       +---business
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---businessn
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---enterprise
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---enterprisen
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---homebasic
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---homebasicn
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---homepremium
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---homepremiumn
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---starter
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       +---ultimate
+|   |   |       |       license.rtf
+|   |   |       |       
+|   |   |       \---ultimaten
+|   |   |               license.rtf
+|   |   |               
+|   |   \---en-us
+|   |       +---_default
+|   |       |   |   lipeula.rtf
+|   |       |   |   lpeula.rtf
+|   |       |   |   
+|   |       |   +---business
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---businessn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---enterprise
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---enterprisen
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homebasic
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homebasicn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homepremium
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homepremiumn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---starter
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---ultimate
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   \---ultimaten
+|   |       |           license.rtf
+|   |       |           
+|   |       +---eval
+|   |       |   +---business
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---businessn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---enterprise
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---enterprisen
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homebasic
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homebasicn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homepremium
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---homepremiumn
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---starter
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   +---ultimate
+|   |       |   |       license.rtf
+|   |       |   |       
+|   |       |   \---ultimaten
+|   |       |           license.rtf
+|   |       |           
+|   |       \---oem
+|   |           +---business
+|   |           |       license.rtf
+|   |           |       
+|   |           +---businessn
+|   |           |       license.rtf
+|   |           |       
+|   |           +---enterprise
+|   |           |       license.rtf
+|   |           |       
+|   |           +---enterprisen
+|   |           |       license.rtf
+|   |           |       
+|   |           +---homebasic
+|   |           |       license.rtf
+|   |           |       
+|   |           +---homebasicn
+|   |           |       license.rtf
+|   |           |       
+|   |           +---homepremium
+|   |           |       license.rtf
+|   |           |       
+|   |           +---homepremiumn
+|   |           |       license.rtf
+|   |           |       
+|   |           +---starter
+|   |           |       license.rtf
+|   |           |       
+|   |           +---ultimate
+|   |           |       license.rtf
+|   |           |       
+|   |           \---ultimaten
+|   |                   license.rtf
+|   |                   
+|   +---replacementmanifests
+|   |   |   activedirectory-webservices-replacement.man
+|   |   |   audiommecore-other-migration-replacement.man
+|   |   |   authui-migration-replacement.man
+|   |   |   cryptoconfig-replacement.man
+|   |   |   dhcpclientdll-repl.man
+|   |   |   dhcpservermigplugin-rep.man
+|   |   |   ehome-reg-inf_repl.man
+|   |   |   iis-ftpextensibility-rm.man
+|   |   |   iis-ftpsvc-rm.man
+|   |   |   iis-powershellprovider-rm.man
+|   |   |   iis-sharedlibraries-rm.man
+|   |   |   iis-webdav-rm.man
+|   |   |   mmsys-migration-replacement.man
+|   |   |   ndis-repl.man
+|   |   |   powermanagement-powerpolicy-replacement.man
+|   |   |   printing-localprinting-replacement.man
+|   |   |   sounds-migration-replacement.man
+|   |   |   srm-datascrndriver-repl.man
+|   |   |   srm-quotadriver-repl.man
+|   |   |   srm-service-repl.man
+|   |   |   srm-service-reports-repl.man
+|   |   |   srm-ui-repl.man
+|   |   |   stickynotes-replacement.man
+|   |   |   sysdm-replacement.man
+|   |   |   tabletpcstickynotes-replacement.man
+|   |   |   virtualdiskservice-repl.man
+|   |   |   vssservice-repl.man
+|   |   |   
+|   |   +---microsoft-activedirectory-webservices
+|   |   |       adwsmigrate.dll
+|   |   |       
+|   |   +---microsoft-windows-audio-mmecore-other
+|   |   |       audmigplugin.dll
+|   |   |       
+|   |   +---microsoft-windows-iis-rm
+|   |   |       iismig.dll
+|   |   |       
+|   |   +---microsoft-windows-ndis
+|   |   |       ndismigplugin.dll
+|   |   |       
+|   |   \---microsoft-windows-power-policy
+|   |           powermigplugin.dll
+|   |           
+|   +---servicing
+|   |   \---0.0.0.1
+|   |           xmllite.dll
+|   |           
+|   \---servicingstackmisc
+|           apds.dll
+|           apircl.dll
+|           apss.dll
+|           
++---support
+|   +---logging
+|   |   |   auditetw.dll
+|   |   |   cmisetupetw.dll
+|   |   |   etwproviderinstall.vbs
+|   |   |   microsoft-windows-audit-instrumentation.man
+|   |   |   microsoft-windows-cmisetup-instrumentation.man
+|   |   |   microsoft-windows-oobeldr-instrumentation.man
+|   |   |   microsoft-windows-setup-instrumentation.man
+|   |   |   microsoft-windows-setupcl-instrumentation.man
+|   |   |   microsoft-windows-setupugc-instrumentation.man
+|   |   |   microsoft-windows-sysprep-instrumentation.man
+|   |   |   microsoft-windows-windeploy-instrumentation.man
+|   |   |   oobeldretw.dll
+|   |   |   setupcletw.dll
+|   |   |   setupugcetw.dll
+|   |   |   sysprepetw.dll
+|   |   |   windeployetw.dll
+|   |   |   winsetupetw.dll
+|   |   |   
+|   |   \---en-us
+|   |           auditetw.dll.mui
+|   |           cmisetupetw.dll.mui
+|   |           oobeldretw.dll.mui
+|   |           setupcletw.dll.mui
+|   |           setupugcetw.dll.mui
+|   |           sysprepetw.dll.mui
+|   |           windeployetw.dll.mui
+|   |           winsetupetw.dll.mui
+|   |           
+|   +---migwiz
+|   |   |   cmi2migxml.dll
+|   |   |   csiagent.dll
+|   |   |   imjpmig.dll
+|   |   |   imkrmig.dll
+|   |   |   imscmig.dll
+|   |   |   imtcmig.dll
+|   |   |   input.dll
+|   |   |   installsvrmig.cmd
+|   |   |   migapp.xml
+|   |   |   migautoplay.exe
+|   |   |   migcore.dll
+|   |   |   migfiles.dat
+|   |   |   mighost.exe
+|   |   |   migisol.dll
+|   |   |   migres.dll
+|   |   |   migsetup.exe
+|   |   |   migstore.dll
+|   |   |   migsys.dll
+|   |   |   migwiz.exe
+|   |   |   msctfmig.dll
+|   |   |   mxeagent.dll
+|   |   |   postmig.exe
+|   |   |   segoeui.ttf
+|   |   |   sfcn.dat
+|   |   |   sflcid.dat
+|   |   |   sflistlh.dat
+|   |   |   sflistw7.dat
+|   |   |   sflistxp.dat
+|   |   |   sfpat.inf
+|   |   |   sfpatlh.inf
+|   |   |   sfpatw7.inf
+|   |   |   sfpatxp.inf
+|   |   |   svrmig.dll
+|   |   |   systemfilepaths.dat
+|   |   |   tabletextservicemig.dll
+|   |   |   unbcl.dll
+|   |   |   wdscore.dll
+|   |   |   wet.dll
+|   |   |   wetversion.txt
+|   |   |   
+|   |   +---cable
+|   |   |       cableinst.exe
+|   |   |       
+|   |   +---en-us
+|   |   |       input.dll.mui
+|   |   |       migautoplay.exe.mui
+|   |   |       migres.dll.mui
+|   |   |       migsetup.exe.mui
+|   |   |       migwiz.exe.mui
+|   |   |       postmig.exe.mui
+|   |   |       svrmig.dll.mui
+|   |   |       wet.dll.mui
+|   |   |       
+|   |   \---postmigres
+|   |       +---data
+|   |       |       hardwarevendors.xml
+|   |       |       
+|   |       \---web
+|   |           |   reportapi.js
+|   |           |   
+|   |           \---base_images
+|   |                   appinstalled.gif
+|   |                   clickdownexpanded.gif
+|   |                   clickdownnormal.gif
+|   |                   column.bmp
+|   |                   documents.gif
+|   |                   failure.gif
+|   |                   programs.gif
+|   |                   system.gif
+|   |                   users.gif
+|   |                   windowsmail.bmp
+|   |                   windowsmoviemaker.bmp
+|   |                   windowsoutlookexpress.bmp
+|   |                   windowsphotogallery.bmp
+|   |                   
+|   \---tools
+|           gbunicnv.exe
+|           
+\---upgrade
+    \---netfx
+            netfx.msi
+            netfx.msp
+            netfx1.cab
+            netfxupdate.exe
+            

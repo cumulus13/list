@@ -1,0 +1,479 @@
+Folder PATH listing for volume CHIP_08_2003
+Volume serial number is D4C0-DD07
+G:\
+|   AUTORUN.INF
+|   CHIP.EXE
+|   CHIP.ICO
+|   Readme.txt
+|   
++---Chip
+|   +---chip-lab
+|   |       08_2k3.zip
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---chip-tip
+|   |       List.rtf
+|   |       chip.txt
+|   |       
+|   +---chip-tv
+|   |       chip.txt
+|   |       lxg.mov
+|   |       scrshot.bmp
+|   |       
+|   +---digital
+|   |       07_2003.pdf
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   \---service
+|       +---Acread6
+|       |       AdRdr6.exe
+|       |       chip.txt
+|       |       scrshot.bmp
+|       |       
+|       +---Dx9a
+|       |       chip.txt
+|       |       dx90a.exe
+|       |       scrshot.bmp
+|       |       
+|       +---Qt6
+|       |       QT6.exe
+|       |       chip.txt
+|       |       scrshot.bmp
+|       |       
+|       +---VFW
+|       |       ACMCMPRS.DL_
+|       |       AVICAP.DL_
+|       |       AVIFILE.DL_
+|       |       CLEANUP.RE_
+|       |       COMPOBJ.DL_
+|       |       CTL3D.DL_
+|       |       DISPDIB.DL_
+|       |       DVA.38_
+|       |       ICCVID.DR_
+|       |       IMAADPCM.AC_
+|       |       INIUPD.DL_
+|       |       IR21_R.DL_
+|       |       IR32.DL_
+|       |       MAP_WIN.HL_
+|       |       MCIAVI.DR_
+|       |       MCIOLE.DL_
+|       |       MPLAYER.EX_
+|       |       MPLAYER.HL_
+|       |       MPLAYER.RE_
+|       |       MSACM.DL_
+|       |       MSACM.DR_
+|       |       MSADPCM.AC_
+|       |       MSCOMSTF.DL_
+|       |       MSCPYDIS.DL_
+|       |       MSCPYDIS.IN_
+|       |       MSCUISTF.DL_
+|       |       MSDETECT.IN_
+|       |       MSDETSTF.DL_
+|       |       MSINSSTF.DL_
+|       |       MSRLE.DR_
+|       |       MSSHLSTF.DL_
+|       |       MSUILSTF.DL_
+|       |       MSVIDC.DR_
+|       |       MSVIDEO.DL_
+|       |       MSVIDEO.NT_
+|       |       OLE2.DL_
+|       |       OLE2.RE_
+|       |       OLE2CONV.DL_
+|       |       OLE2DISP.DL_
+|       |       OLE2NLS.DL_
+|       |       OLE2PROX.DL_
+|       |       PROFDISP.EX_
+|       |       README.TXT
+|       |       SETUP.EXE
+|       |       SETUP.INI
+|       |       SETUP.IN_
+|       |       SETUP.LST
+|       |       SETUP.MST
+|       |       SETUPAPI.IN_
+|       |       STDOLE.TL_
+|       |       STORAGE.DL_
+|       |       TYPELIB.DL_
+|       |       _MSSETUP.EX_
+|       |       _MSTEST.EX_
+|       |       chip.txt
+|       |       
+|       +---WINZIP
+|       |   +---WIN31
+|       |   |       WINZIP31.EXE
+|       |   |       chip.txt
+|       |   |       
+|       |   \---WIN9X
+|       |           Scrshot.bmp
+|       |           chip.txt
+|       |           winzip81.exe
+|       |           
+|       +---Wm99xme
+|       |       MPSetup.exe
+|       |       chip.txt
+|       |       scrshot.bmp
+|       |       
+|       \---Wmc8
+|               chip.txt
+|               scrshot.bmp
+|               wmpcdcs8.exe
+|               
++---Game
+|   \---topgame
+|           Pirates.mov
+|           chip.txt
+|           scrshot.bmp
+|           
++---Lib
+|   |   chip.ini
+|   |   
+|   +---BUTTONS
+|   |       BUTT10A.BMP
+|   |       BUTT10B.BMP
+|   |       BUTT11A.BMP
+|   |       BUTT11B.BMP
+|   |       BUTT12A.BMP
+|   |       BUTT12B.BMP
+|   |       BUTT1A.BMP
+|   |       BUTT1B.BMP
+|   |       BUTT2A.BMP
+|   |       BUTT2B.BMP
+|   |       BUTT3A.BMP
+|   |       BUTT3B.BMP
+|   |       BUTT4A.BMP
+|   |       BUTT4B.BMP
+|   |       BUTT7A.BMP
+|   |       BUTT7B.BMP
+|   |       BUTT8A.BMP
+|   |       BUTT8B.BMP
+|   |       BUTT9A.BMP
+|   |       BUTT9B.BMP
+|   |       BUTTBM.BMP
+|   |       BUTTMM.BMP
+|   |       Butt5a.bmp
+|   |       Butt5b.bmp
+|   |       Butt6a.bmp
+|   |       Butt6b.bmp
+|   |       
+|   +---ICONS
+|   |       ICON11.BMP
+|   |       ICON11M.BMP
+|   |       ICON12.BMP
+|   |       ICON12M.BMP
+|   |       ICON13.BMP
+|   |       ICON13M.BMP
+|   |       ICON14.BMP
+|   |       ICON14M.BMP
+|   |       ICON15.BMP
+|   |       ICON21.BMP
+|   |       ICON21M.BMP
+|   |       ICON22.BMP
+|   |       ICON22M.BMP
+|   |       ICON23.BMP
+|   |       ICON23M.BMP
+|   |       ICON24.BMP
+|   |       ICON24M.BMP
+|   |       ICON25.BMP
+|   |       ICON31.BMP
+|   |       ICON31M.BMP
+|   |       ICON32.BMP
+|   |       ICON32M.BMP
+|   |       ICON33.BMP
+|   |       ICON33M.BMP
+|   |       ICON34.BMP
+|   |       ICON34M.BMP
+|   |       ICON35.BMP
+|   |       ICON41.BMP
+|   |       ICON41M.BMP
+|   |       ICON42.BMP
+|   |       ICON42M.BMP
+|   |       ICON43.BMP
+|   |       ICON43M.BMP
+|   |       ICON44.BMP
+|   |       ICON44M.BMP
+|   |       
+|   +---IMAGES
+|   |       0000.bmp
+|   |       1000.bmp
+|   |       2000.bmp
+|   |       3000.bmp
+|   |       3Danim.bmp
+|   |       4000.bmp
+|   |       5000.bmp
+|   |       6000.bmp
+|   |       7000.bmp
+|   |       8000.bmp
+|   |       9000.bmp
+|   |       Chipstrt.bmp
+|   |       
+|   +---SPLSHAVI
+|   |       CHIP.AVI
+|   |       
+|   \---WAV
+|           BANKRUPT.WAV
+|           CHIP.WAV
+|           CLICK.WAV
+|           DOORSLAM.WAV
+|           EASTREGG.WAV
+|           TING.WAV
+|           
++---Online
+|   +---Coffee
+|   |       Coffee.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---Eminem
+|   |       chip.txt
+|   |       eminem.exe
+|   |       scrshot.bmp
+|   |       
+|   +---IntChat
+|   |       chip.txt
+|   |       inchat3.exe
+|   |       scrshot.bmp
+|   |       
+|   +---NetGrab
+|   |       chip.txt
+|   |       netgrab.exe
+|   |       scrshot.bmp
+|   |       
+|   +---NetLimit
+|   |       NetLimit.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---Trilian
+|   |       chip.txt
+|   |       trillian.exe
+|   |       
+|   \---VNCMan
+|           chip.txt
+|           scrshot.bmp
+|           vncmana.exe
+|           
++---Program
+|   +---Utility
+|   |   +---AudioL
+|   |   |       Audiol.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---MacroEx
+|   |   |       chip.txt
+|   |   |       macex3.exe
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---PCMEdik
+|   |   |       chip.txt
+|   |   |       pcmedik.exe
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---WinRAR
+|   |   |       Wrar320.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---WordWeb
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       wordweb.exe
+|   |   |       
+|   |   +---X1
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       x1.zip
+|   |   |       
+|   |   +---cache
+|   |   |       cach550.zip
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---eCover
+|   |   |       chip.txt
+|   |   |       eCover.msi
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---ramturbo
+|   |   |       chip.txt
+|   |   |       ramturb.exe
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   \---winspee
+|   |           chip.txt
+|   |           scrshot.bmp
+|   |           winspee.exe
+|   |           
+|   +---anvirpr
+|   |   \---fprot
+|   |           chip.txt
+|   |           fp-win.exe
+|   |           scrshot.bmp
+|   |           
+|   +---mmedia
+|   |   +---3DCanv
+|   |   |       3DCanv.zip
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---Actdraw
+|   |   |       ActDr.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---CCEnc
+|   |   |       ccspt.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---GSpot
+|   |   |       chip.txt
+|   |   |       gspot221.exe
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---GuiTun
+|   |   |       chip.txt
+|   |   |       gutuner.exe
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---IsoBustr
+|   |   |       IsoBust.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   +---TVTool
+|   |   |       TVTool.exe
+|   |   |       chip.txt
+|   |   |       scrshot.bmp
+|   |   |       
+|   |   \---WinDVD
+|   |           WinDVD5.exe
+|   |           chip.txt
+|   |           scrshot.bmp
+|   |           
+|   \---pockpc
+|       +---SimpSMS
+|       |       SimSMS.zip
+|       |       chip.txt
+|       |       scrshot.bmp
+|       |       
+|       \---mphon
+|               chip.txt
+|               mphon.zip
+|               scrshot.bmp
+|               
++---QCam
+|   +---01
+|   |       Intro.bmp
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---02
+|   |       02.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---03_1
+|   |       03_1.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---03_2
+|   |       03_2.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---04
+|   |       04.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   +---05
+|   |       05.exe
+|   |       chip.txt
+|   |       scrshot.bmp
+|   |       
+|   \---06
+|           06.exe
+|           chip.txt
+|           scrshot.bmp
+|           
+\---Spesial
+    +---Nero
+    |       chip.txt
+    |       nero6009.exe
+    |       scrshot.bmp
+    |       
+    +---photoma
+    |   +---Compu
+    |   |       chip.txt
+    |   |       cpro32.exe
+    |   |       scrshot.bmp
+    |   |       
+    |   +---Phomeis
+    |   |       PhoMeis.exe
+    |   |       chip.txt
+    |   |       scrshot.bmp
+    |   |       
+    |   +---PhotAlb
+    |   |       chip.txt
+    |   |       phoalb.exe
+    |   |       scrshot.bmp
+    |   |       
+    |   \---paiPho
+    |           chip.txt
+    |           paints.exe
+    |           scrshot.bmp
+    |           
+    +---proxy
+    |   +---Anony
+    |   |       a4proxy.zip
+    |   |       chip.txt
+    |   |       scrshot.bmp
+    |   |       
+    |   +---CCProx
+    |   |       ccproxy.exe
+    |   |       chip.txt
+    |   |       scrshot.bmp
+    |   |       
+    |   +---FreeProx
+    |   |       chip.txt
+    |   |       freeprox.zip
+    |   |       scrshot.bmp
+    |   |       
+    |   +---MulProx
+    |   |       chip.txt
+    |   |       mproxy12.zip
+    |   |       scrshot.bmp
+    |   |       
+    |   +---NetProxy
+    |   |       chip.txt
+    |   |       np403.exe
+    |   |       scrshot.bmp
+    |   |       
+    |   +---ProxPro
+    |   |       ProxyPro.exe
+    |   |       chip.txt
+    |   |       scrshot.bmp
+    |   |       
+    |   +---Proxy
+    |   |       chip.txt
+    |   |       pplus.zip
+    |   |       scrshot.bmp
+    |   |       
+    |   +---Sygate
+    |   |       chip.txt
+    |   |       scrshot.bmp
+    |   |       shn.exe
+    |   |       
+    |   \---ezProxy
+    |           chip.txt
+    |           ezproxy.zip
+    |           scrshot.bmp
+    |           
+    \---xboxlad
+            XboxLad.msi
+            chip.txt
+            scrshot.bmp
+            

@@ -1,0 +1,57 @@
+ Volume in drive G is GIS-Knoppix
+ Volume Serial Number is B039-F1B3
+
+ Directory of G:\
+
+03/05/2004  05:02 PM    <DIR>          KNOPPIX
+06/17/2001  03:50 PM                54 autorun.bat
+02/23/2003  10:23 AM                45 autorun.inf
+09/16/2003  04:34 AM             3,262 cdrom.ico
+03/05/2004  05:02 PM            15,818 index.html
+03/05/2004  05:02 PM            18,203 index_de.html
+03/05/2004  05:02 PM            27,069 logo.2-5.web.png
+03/05/2004  05:02 PM               148 pixel.png
+               7 File(s)         64,599 bytes
+
+ Directory of G:\KNOPPIX
+
+03/05/2004  05:02 PM    <DIR>          .
+06/07/2005  03:35 PM    <DIR>          ..
+03/05/2004  02:26 AM       726,206,946 KNOPPIX
+10/04/2003  02:46 AM            18,487 LICENSE.txt
+08/24/2001  07:15 AM             2,530 README_Security.txt
+02/17/2004  03:14 PM            18,741 background.jpg
+03/05/2004  03:12 PM         1,474,560 boot-ch.img
+03/05/2004  03:12 PM         1,474,560 boot-de.img
+03/05/2004  03:12 PM         1,474,560 boot-en.img
+06/07/2005  03:39 PM             2,048 boot.cat
+03/05/2004  03:12 PM         1,474,560 boot.img
+09/16/2003  03:54 AM    <DIR>          images
+11/20/2003  02:42 AM             2,396 links.html
+06/05/2001  10:17 AM                27 mkfloppy.bat
+06/05/2001  10:17 AM             1,669 rawrite2-readme.txt
+06/05/2001  10:17 AM            17,863 rawrite2.exe
+              13 File(s)    732,168,947 bytes
+
+ Directory of G:\KNOPPIX\images
+
+09/16/2003  03:54 AM    <DIR>          .
+03/05/2004  05:02 PM    <DIR>          ..
+09/16/2003  01:33 AM               182 1stleftfill.gif
+09/16/2003  01:33 AM               149 2ndfill.gif
+09/16/2003  01:33 AM               813 2ndleftfill.gif
+09/16/2003  01:33 AM             2,288 button-knoppix.gif
+09/16/2003  01:33 AM             2,132 button-links.gif
+09/16/2003  01:33 AM             2,169 button-openmusic.gif
+09/16/2003  01:33 AM             2,095 button-selflinux.gif
+09/16/2003  01:33 AM             1,922 button-talks.gif
+09/08/2003  06:00 AM            19,353 knoppix-logo.gif
+09/16/2003  01:33 AM             1,978 sidefill.gif
+09/16/2003  01:33 AM               106 topfill.gif
+09/16/2003  01:33 AM            11,527 topleft.gif
+09/16/2003  01:33 AM             9,647 topright.gif
+              13 File(s)         54,361 bytes
+
+     Total Files Listed:
+              33 File(s)    732,287,907 bytes
+               6 Dir(s)               0 bytes free

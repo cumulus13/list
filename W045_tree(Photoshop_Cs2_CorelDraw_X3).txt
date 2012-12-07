@@ -1,0 +1,1300 @@
+Folder PATH listing for volume Potosop CS
+Volume serial number is FA6A-4A9E
+G:\
++---Adobe Photoshop CS2
+|   |   AUTORUN.INF
+|   |   Activation Read Me.html
+|   |   Creative Suite Brochure.pdf
+|   |   How To Install.html
+|   |   LegalNotices.pdf
+|   |   Photoshop At A Glance.pdf
+|   |   Photoshop New Features.pdf
+|   |   Read Me First.html
+|   |   Setup.exe
+|   |   Setup.exe.manifest
+|   |   epic_eula.dll
+|   |   unicows.dll
+|   |   
+|   +---Adobe DNG Converter
+|   |       Adobe DNG 3.0 Converter Read Me.pdf
+|   |       Adobe DNG Converter.exe
+|   |       
+|   +---Adobe(R) Photoshop(R) CS2
+|   |   |   0x0409.ini
+|   |   |   Abcpy.ini
+|   |   |   Adobe Photoshop CS2.msi
+|   |   |   Data1.cab
+|   |   |   Photoshop Read Me.wri
+|   |   |   Setup.ini
+|   |   |   instmsia.exe
+|   |   |   instmsiw.exe
+|   |   |   setup.exe
+|   |   |   
+|   |   +---bridge
+|   |   |       Adobe Bridge 1.0.msi
+|   |   |       
+|   |   +---commonfilesinstaller
+|   |   |       Adobe Common File Installer.msi
+|   |   |       Data1.cab
+|   |   |       
+|   |   +---help center
+|   |   |       Adobe Help Center 1.0.msi
+|   |   |       
+|   |   \---stock photography
+|   |           Adobe Stock Photos 1.0.msi
+|   |           
+|   +---AutoPlay
+|   |   |   eularesda_DK.dll
+|   |   |   eularesde_DE.dll
+|   |   |   eularesen_GB.dll
+|   |   |   eularesen_US.dll
+|   |   |   eulareses_ES.dll
+|   |   |   eularesfi_FI.dll
+|   |   |   eularesfr_FR.dll
+|   |   |   eularesit_IT.dll
+|   |   |   eularesja_JP.dll
+|   |   |   eularesko_KR.dll
+|   |   |   eularesnl_NL.dll
+|   |   |   eularesno_NO.dll
+|   |   |   eularespt_BR.dll
+|   |   |   eularessv_SE.dll
+|   |   |   eulareszh_CN.dll
+|   |   |   eulareszh_TW.dll
+|   |   |   main.ini
+|   |   |   
+|   |   +---LANGDATA
+|   |   |   +---DA_DK
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---DE_DE
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---EN_GB
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---EN_US
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---ES_ES
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---FI_FI
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---FR_FR
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---IT_IT
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---JA_JP
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---KO_KR
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---NL_NL
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---NO_NO
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---PT_BR
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---SV_SE
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   +---ZH_CN
+|   |   |   |       LANG.DAT
+|   |   |   |       
+|   |   |   \---ZH_TW
+|   |   |           LANG.DAT
+|   |   |           
+|   |   +---LEGAL
+|   |   |   \---Adobe Photoshop CS2
+|   |   |       \---4.0.0
+|   |   |           +---da_DK
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---de_DE
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---en_GB
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---en_US
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---es_ES
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---fi_FI
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---fr_FR
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---it_IT
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---ja_JP
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---ko_KR
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---nl_NL
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---no_NO
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---pt_BR
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---sv_SE
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           +---zh_CN
+|   |   |           |       License.html
+|   |   |           |       
+|   |   |           \---zh_TW
+|   |   |                   License.html
+|   |   |                   
+|   |   \---RESDATA
+|   |           AutoplayBtn_350x26_N.bmp
+|   |           AutoplayBtn_350x26_R.bmp
+|   |           AutoplayBtn_350x26_S.bmp
+|   |           AutoplayBtn_424x26_N.bmp
+|   |           AutoplayBtn_424x26_R.bmp
+|   |           AutoplayBtn_424x26_S.bmp
+|   |           Autoplay_LaunchIcon.ico
+|   |           Back_N.bmp
+|   |           Back_R.bmp
+|   |           Back_S.bmp
+|   |           Blank.ico
+|   |           CDIcon.ico
+|   |           CS2_AutoplayAcrobat_N.ico
+|   |           CS2_AutoplayAcrobat_R.ico
+|   |           CS2_AutoplayAcrobat_S.ico
+|   |           CS2_AutoplayBack_Md_N.ico
+|   |           CS2_AutoplayBack_Md_R.ico
+|   |           CS2_AutoplayBack_Md_S.ico
+|   |           CS2_AutoplayCD_Md_N.ico
+|   |           CS2_AutoplayCD_Md_R.ico
+|   |           CS2_AutoplayCD_Md_S.ico
+|   |           CS2_AutoplayGeneric_N.ico
+|   |           CS2_AutoplayGeneric_R.ico
+|   |           CS2_AutoplayGeneric_S.ico
+|   |           CS2_AutoplayIntro.avi
+|   |           CS2_AutoplayMusic.wav
+|   |           CS2_AutoplayNew_Md_N.ico
+|   |           CS2_AutoplayNew_Md_R.ico
+|   |           CS2_AutoplayNew_Md_S.ico
+|   |           CS2_AutoplayOnline_N.ico
+|   |           CS2_AutoplayOnline_R.ico
+|   |           CS2_AutoplayOnline_S.ico
+|   |           CS2_AutoplayQuit_Md_N.ico
+|   |           CS2_AutoplayQuit_Md_R.ico
+|   |           CS2_AutoplayQuit_Md_S.ico
+|   |           CS2_AutoplayReadMe_Md_N.ico
+|   |           CS2_AutoplayReadMe_Md_R.ico
+|   |           CS2_AutoplayReadMe_Md_S.ico
+|   |           CS2_AutoplaySoundOff_Md_N.ico
+|   |           CS2_AutoplaySoundOff_Md_R.ico
+|   |           CS2_AutoplaySoundOff_Md_S.ico
+|   |           CS2_AutoplaySoundOn_Md_N.ico
+|   |           CS2_AutoplaySoundOn_Md_R.ico
+|   |           CS2_AutoplaySoundOn_Md_S.ico
+|   |           CS2_AutoplaySound_Md_N.ico
+|   |           CS2_AutoplayTutorial_Md_N.ico
+|   |           CS2_AutoplayTutorial_Md_R.ico
+|   |           CS2_AutoplayTutorial_Md_S.ico
+|   |           C_AutoplayTour_Md_N.ico
+|   |           C_AutoplayTour_Md_R.ico
+|   |           C_AutoplayTour_Md_S.ico
+|   |           LanguageScreen.bmp
+|   |           MainScreen.bmp
+|   |           
+|   +---Goodies
+|   |   +---Channel Mixer Presets
+|   |   |   |   Channel Mixer Read Me.html
+|   |   |   |   
+|   |   |   +---Channel Swaps
+|   |   |   |       CMYK Rotate Channels Back.cha
+|   |   |   |       CMYK Rotate Channels Fore.cha
+|   |   |   |       CMYK Swap Cyan&Black.cha
+|   |   |   |       CMYK Swap Cyan&Magenta.cha
+|   |   |   |       CMYK Swap Cyan&Yellow.cha
+|   |   |   |       RGB Rotate Channels.cha
+|   |   |   |       RGB Swap Green&Blue.cha
+|   |   |   |       RGB Swap Red&Blue.cha
+|   |   |   |       RGB Swap Red&Green.cha
+|   |   |   |       
+|   |   |   +---Grayscale
+|   |   |   |       CMYK to Gray.cha
+|   |   |   |       Grayscale Blues.cha
+|   |   |   |       Grayscale Standard.cha
+|   |   |   |       Grayscale Yellows.cha
+|   |   |   |       Grayscale Yellows2.cha
+|   |   |   |       RGB Inverted Grayscale.cha
+|   |   |   |       
+|   |   |   +---Special Effects
+|   |   |   |       CMYK Holiday Wrap.cha
+|   |   |   |       RGB Blacklight.cha
+|   |   |   |       RGB Blueprint.cha
+|   |   |   |       RGB Burnt Foliage.cha
+|   |   |   |       RGB Easter colors.cha
+|   |   |   |       RGB Holiday Wrap.cha
+|   |   |   |       RGB Inverted Warm Brass.cha
+|   |   |   |       RGB Over Saturate.cha
+|   |   |   |       RGB Pastels.cha
+|   |   |   |       RGB Sepiatone subtle color.cha
+|   |   |   |       RGB Sepiatone subtle color2.cha
+|   |   |   |       RGB Sepiatone subtle color3.cha
+|   |   |   |       RGB Warmer.cha
+|   |   |   |       Yellows&Blues (RGB or CMYK).cha
+|   |   |   |       
+|   |   |   \---YCC Color
+|   |   |           RGB to YCrCb.cha
+|   |   |           YCrCb to RGB.cha
+|   |   |           
+|   |   +---Custom File Info Panels
+|   |   |   |   File Info Panels Read Me.html
+|   |   |   |   XMP Custom Panels.pdf
+|   |   |   |   
+|   |   |   \---Sample File Info Panels
+|   |   |           CustomPanel_allWidgets.txt
+|   |   |           Description.txt
+|   |   |           
+|   |   +---Optional Plug-Ins
+|   |   |   +---Ditherbox
+|   |   |   |       Dither Box filter.pdf
+|   |   |   |       DitherBx.8bf
+|   |   |   |       Ditherbox Read Me.html
+|   |   |   |       
+|   |   |   +---Ffactory
+|   |   |   |   |   Ffactory.8bf
+|   |   |   |   |   Ffactory.wri
+|   |   |   |   |   Ffexamp.8bf
+|   |   |   |   |   Ffexamp.afs
+|   |   |   |   |   Fftutor.pdf
+|   |   |   |   |   Filter Factory Read Me.html
+|   |   |   |   |   Filter_Factory.pdf
+|   |   |   |   |   Lights.8bf
+|   |   |   |   |   Lights.afs
+|   |   |   |   |   Msvcrt10.dll
+|   |   |   |   |   
+|   |   |   |   \---Transparency Examples
+|   |   |   |           Edittran.8bf
+|   |   |   |           Edittrns.afs
+|   |   |   |           Lumopac.8bf
+|   |   |   |           Lumopac.afs
+|   |   |   |           Opaclum.8bf
+|   |   |   |           Opaclum.afs
+|   |   |   |           Settrans.8bf
+|   |   |   |           Settrans.afs
+|   |   |   |           Transparency Read Me.pdf
+|   |   |   |           
+|   |   |   +---File Format
+|   |   |   |       About Alias Format.html
+|   |   |   |       About ElectricImage Format.html
+|   |   |   |       About IFF Format.html
+|   |   |   |       About RLA Format.html
+|   |   |   |       About SGI RGB Format.html
+|   |   |   |       About SoftImage Format.html
+|   |   |   |       Alias.8BI
+|   |   |   |       ElectricImage.8BI
+|   |   |   |       IFF Format.8BI
+|   |   |   |       Rla.8bi
+|   |   |   |       Sgirgb.8bi
+|   |   |   |       SoftImage.8BI
+|   |   |   |       
+|   |   |   +---Filters
+|   |   |   |       3D Transform.8BF
+|   |   |   |       Texture Fill.8BF
+|   |   |   |       
+|   |   |   \---Photoshop Only
+|   |   |       +---File Formats
+|   |   |       |       File Formats Read Me.html
+|   |   |       |       JPEG2000.8BI
+|   |   |       |       Mac Paint.8BI
+|   |   |       |       PIXPNT8B.8BI
+|   |   |       |       
+|   |   |       +---HSBHSL
+|   |   |       |       HSBHSL Read Me.html
+|   |   |       |       Hsbhsl.8bf
+|   |   |       |       
+|   |   |       \---Optional Extensions
+|   |   |               AllowNetworkScratch_OFF_D.reg
+|   |   |               AllowNetworkScratch_ON.reg
+|   |   |               AllowRemovableScrtch_OFF_D.reg
+|   |   |               AllowRemovableScrtch_ON.reg
+|   |   |               AlwaysImportClipbd_OFF_D.reg
+|   |   |               AlwaysImportClipbd_ON.reg
+|   |   |               AlwaysShowPalettes_OFF_D.reg
+|   |   |               AlwaysShowPalettes_ON.reg
+|   |   |               BadDriverRGBBlitCheck_OFF.reg
+|   |   |               BadDriverRGBBlitCheck_ON_D.reg
+|   |   |               BadDriverStickyCrsr_OFF_D.reg
+|   |   |               BadDriverStickyCrsr_ON.reg
+|   |   |               BlitSingleScanLines_OFF_D.reg
+|   |   |               BlitSingleScanLines_ON.reg
+|   |   |               BrokenLargeCursors_OFF.reg
+|   |   |               BrokenLargeCursors_ON_D.reg
+|   |   |               ClipboardSizeLimit_OFF.reg
+|   |   |               ClipboardSizeLimit_ON_D.reg
+|   |   |               DisableScratchCmprs_OFF_D.reg
+|   |   |               DisableScratchCmprs_ON.reg
+|   |   |               ForceProgress_OFF_D.reg
+|   |   |               ForceProgress_ON.reg
+|   |   |               ForceVMCompression_OFF_D.reg
+|   |   |               ForceVMCompression_ON.reg
+|   |   |               IgnoreEXIFsRGB_OFF_D.reg
+|   |   |               IgnoreEXIFsRGB_ON.reg
+|   |   |               OptimizeResizeDrawing_OFF.reg
+|   |   |               OptimizeResizeDrawing_ON_D.reg
+|   |   |               PrintPassthrough_NORM_D.reg
+|   |   |               PrintPassthrough_PASS.reg
+|   |   |               PrintPassthrough_PS_PASS.reg
+|   |   |               Registry Keys Read Me.html
+|   |   |               RememberSlowFiles_OFF_D.reg
+|   |   |               RememberSlowFiles_ON.reg
+|   |   |               ShowWindowsThumbnails_OFF.reg
+|   |   |               ShowWindowsThumbnails_ON_D.reg
+|   |   |               TaskDebugging_OFF_D.reg
+|   |   |               TaskDebugging_ON.reg
+|   |   |               UnlimitedPreviews_OFF_D.reg
+|   |   |               UnlimitedPreviews_ON.reg
+|   |   |               UseAsyncIO_OFF.reg
+|   |   |               UseAsyncIO_ON_D.reg
+|   |   |               UseAsyncScratch_OFF_D.reg
+|   |   |               UseAsyncScratch_ON.reg
+|   |   |               WarnSavePrefsFailure_OFF.reg
+|   |   |               WarnSavePrefsFailure_ON_D.reg
+|   |   |               
+|   |   +---Textures for Lighting Effects
+|   |   |       AdobeP8M.md0
+|   |   |       AdobeP8P.tb0
+|   |   |       AdobeP8T.tb0
+|   |   |       Amoeba.psd
+|   |   |       Bark.psd
+|   |   |       Blistered Paint.psd
+|   |   |       Bricks.psd
+|   |   |       Burlap.psd
+|   |   |       Canvas.psd
+|   |   |       Carpet.psd
+|   |   |       Caviar.psd
+|   |   |       Cinder Blocks.psd
+|   |   |       Clouds.psd
+|   |   |       Concrete.psd
+|   |   |       Confetti.psd
+|   |   |       Denim 1.psd
+|   |   |       Denim 2.psd
+|   |   |       Dragon Scales 1.psd
+|   |   |       Dragon Scales 2.psd
+|   |   |       Driven Snow.psd
+|   |   |       Feathers.psd
+|   |   |       Footprints.psd
+|   |   |       Frosted Glass.psd
+|   |   |       Frozen Rain.psd
+|   |   |       Gauze.psd
+|   |   |       Glass Block.psd
+|   |   |       Irish Short Hair.psd
+|   |   |       Knurl.psd
+|   |   |       Leather 1.psd
+|   |   |       Leather 2.psd
+|   |   |       Lichen.psd
+|   |   |       Lines.psd
+|   |   |       Loose Threads.psd
+|   |   |       Mountains 1.psd
+|   |   |       Mountains 2.psd
+|   |   |       Noise.psd
+|   |   |       Paper-Big Canvas.psd
+|   |   |       Paper-Fibrous.psd
+|   |   |       Paper-Fine.psd
+|   |   |       Paper-Regular.psd
+|   |   |       Paper-Rough.psd
+|   |   |       Paper-Rougher.psd
+|   |   |       Paper-Watercolor.psd
+|   |   |       Paper-XRough.psd
+|   |   |       Paper.psd
+|   |   |       Pine Bark.psd
+|   |   |       Puzzle.psd
+|   |   |       Rosette.psd
+|   |   |       Rust Flakes.psd
+|   |   |       Screen Door.psd
+|   |   |       Shagg Rug.psd
+|   |   |       Shingles 1.psd
+|   |   |       Shingles 2.psd
+|   |   |       Shredded Plastic 1.psd
+|   |   |       Shredded Plastic 2.psd
+|   |   |       Snake Skin.psd
+|   |   |       Sparse Basic Noise.psd
+|   |   |       Sphere Grid.psd
+|   |   |       Strands 1.psd
+|   |   |       Strands 2.psd
+|   |   |       Stucco 1.psd
+|   |   |       Stucco 2.psd
+|   |   |       Stucco 3.psd
+|   |   |       Styrofoam Balls.psd
+|   |   |       Textures Read Me.html
+|   |   |       Thick Hair.psd
+|   |   |       Tiles - Bumpy.psd
+|   |   |       Tiles - Smooth.psd
+|   |   |       Towel.psd
+|   |   |       Tread.psd
+|   |   |       Weave 1.psd
+|   |   |       Weave 2.psd
+|   |   |       Weave 3.psd
+|   |   |       Weave 4.psd
+|   |   |       Weave 5.psd
+|   |   |       Weave 6.psd
+|   |   |       Weave 7.psd
+|   |   |       Weave 8.psd
+|   |   |       Web.psd
+|   |   |       
+|   |   \---Web Photo Gallery Templates
+|   |       |   WPG Templates Read Me.html
+|   |       |   
+|   |       +---Horizontal Blue & Gray
+|   |       |   |   Caption.htm
+|   |       |   |   FrameSet.htm
+|   |       |   |   SubPage.htm
+|   |       |   |   Thumbnail.htm
+|   |       |   |   indexPage.htm
+|   |       |   |   
+|   |       |   \---images
+|   |       |           nextimage.gif
+|   |       |           previmage.gif
+|   |       |           rule.gif
+|   |       |           
+|   |       +---Horizontal Dark
+|   |       |   |   Caption.htm
+|   |       |   |   FrameSet.htm
+|   |       |   |   SubPage.htm
+|   |       |   |   Thumbnail.htm
+|   |       |   |   indexPage.htm
+|   |       |   |   
+|   |       |   \---images
+|   |       |           bannerimage.gif
+|   |       |           
+|   |       +---Horizontal Frame
+|   |       |       Caption.htm
+|   |       |       FrameSet.htm
+|   |       |       IndexPage.htm
+|   |       |       SubPage.htm
+|   |       |       Thumbnail.htm
+|   |       |       
+|   |       +---Horizontal Light
+|   |       |       Caption.htm
+|   |       |       FrameSet.htm
+|   |       |       SubPage.htm
+|   |       |       Thumbnail.htm
+|   |       |       indexPage.htm
+|   |       |       
+|   |       +---Horizontal Patterned
+|   |       |   |   Caption.htm
+|   |       |   |   FrameSet.htm
+|   |       |   |   SubPage.htm
+|   |       |   |   Thumbnail.htm
+|   |       |   |   indexPage.htm
+|   |       |   |   
+|   |       |   \---images
+|   |       |           bkgnd.gif
+|   |       |           nextimage.gif
+|   |       |           previmage.gif
+|   |       |           
+|   |       +---Table
+|   |       |   |   Caption.htm
+|   |       |   |   IndexPage.htm
+|   |       |   |   SubPage.htm
+|   |       |   |   Thumbnail.htm
+|   |       |   |   
+|   |       |   \---images
+|   |       |           background.jpg
+|   |       |           home.gif
+|   |       |           next.gif
+|   |       |           previous.gif
+|   |       |           
+|   |       +---Table - Blue
+|   |       |   |   Caption.htm
+|   |       |   |   SubPage.htm
+|   |       |   |   Thumbnail.htm
+|   |       |   |   indexPage.htm
+|   |       |   |   
+|   |       |   \---images
+|   |       |           bannerimage.gif
+|   |       |           currentindex.gif
+|   |       |           nextimage.gif
+|   |       |           previmage.gif
+|   |       |           rule.gif
+|   |       |           
+|   |       +---Vertical Frame
+|   |       |       Caption.htm
+|   |       |       FrameSet.htm
+|   |       |       IndexPage.htm
+|   |       |       SubPage.htm
+|   |       |       Thumbnail.htm
+|   |       |       
+|   |       +---Vertical Slide Show 1
+|   |       |       Caption.htm
+|   |       |       FrameSet.htm
+|   |       |       SubPage.htm
+|   |       |       Thumbnail.htm
+|   |       |       indexPage.htm
+|   |       |       
+|   |       \---Vertical Slide Show 2
+|   |           |   Caption.htm
+|   |           |   FrameSet.htm
+|   |           |   SubPage.htm
+|   |           |   Thumbnail.htm
+|   |           |   indexPage.htm
+|   |           |   
+|   |           \---images
+|   |                   arrow.gif
+|   |                   bkgnd.gif
+|   |                   
+|   +---Help
+|   |       Photoshop Help.pdf
+|   |       
+|   +---Keygen
+|   |       keygen.exe
+|   |       
+|   \---Technical Information
+|       \---Scripting Guide
+|               AppleScript Reference Guide.pdf
+|               JavaScript Reference Guide.pdf
+|               Photoshop Scripting Guide.pdf
+|               VisualBasic Reference Guide.pdf
+|               
+\---Corel Draw X3
+    |   Autorun.exe
+    |   Autorun.exe.manifest
+    |   Autorun.ico
+    |   Autorun.inf
+    |   Autorun.ini
+    |   
+    +---Bin
+    |   |   Background.gif
+    |   |   Button_close.gif
+    |   |   Button_close_r.gif
+    |   |   Button_explore.gif
+    |   |   Button_explore_r.gif
+    |   |   Button_readme.gif
+    |   |   Button_readme_r.gif
+    |   |   CGS13.dbd
+    |   |   Cgs13.txt
+    |   |   Cgs_menu.gif
+    |   |   Cgs_menu_r.gif
+    |   |   Desc_cgs.gif
+    |   |   Desc_raw.gif
+    |   |   Icon_01.gif
+    |   |   Icon_01_r.gif
+    |   |   Icon_02.gif
+    |   |   Icon_02_r.gif
+    |   |   Preview_cgs.gif
+    |   |   Preview_default.gif
+    |   |   Preview_rawshooter.gif
+    |   |   Raw_menu.gif
+    |   |   Raw_menu_info.GIF
+    |   |   Raw_menu_r.gif
+    |   |   Tagline.gif
+    |   |   Title.gif
+    |   |   demo32.exe
+    |   |   gdiplus.dll
+    |   |   
+    |   +---CHS
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---CHT
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---CSY
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---DEU
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---ENU
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---ESM
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---ESP
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---FIN
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---FRA
+    |   |       Background.bmp
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       background.GIF
+    |   |       
+    |   +---FRC
+    |   |       Background.bmp
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       background.GIF
+    |   |       
+    |   +---HUN
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---ITA
+    |   |       Background.bmp
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       background.GIF
+    |   |       
+    |   +---JPN
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---KRN
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---NLD
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---PLK
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   +---PTB
+    |   |       Background.bmp
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       background.GIF
+    |   |       
+    |   +---PTG
+    |   |       Background.bmp
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.GIF
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       background.GIF
+    |   |       
+    |   +---RUS
+    |   |       Background.bmp
+    |   |       Background.gif
+    |   |       Button_close.gif
+    |   |       Button_close_r.gif
+    |   |       Button_explore.gif
+    |   |       Button_explore_r.gif
+    |   |       Button_readme.gif
+    |   |       Button_readme_r.gif
+    |   |       Cgs_menu.gif
+    |   |       Cgs_menu_r.gif
+    |   |       Desc_cgs.gif
+    |   |       Desc_raw.gif
+    |   |       Icon_01.gif
+    |   |       Icon_01_r.gif
+    |   |       Icon_02.gif
+    |   |       Icon_02_r.gif
+    |   |       Preview_cgs.gif
+    |   |       Preview_default.gif
+    |   |       Preview_rawshooter.gif
+    |   |       Raw_menu.gif
+    |   |       Raw_menu_info.gif
+    |   |       Raw_menu_r.gif
+    |   |       Tagline.gif
+    |   |       Title.gif
+    |   |       
+    |   \---SVE
+    |           Background.bmp
+    |           Background.gif
+    |           Button_close.gif
+    |           Button_close_r.gif
+    |           Button_explore.gif
+    |           Button_explore_r.gif
+    |           Button_readme.gif
+    |           Button_readme_r.gif
+    |           Cgs_menu.gif
+    |           Cgs_menu_r.gif
+    |           Desc_cgs.gif
+    |           Desc_raw.gif
+    |           Icon_01.gif
+    |           Icon_01_r.gif
+    |           Icon_02.gif
+    |           Icon_02_r.gif
+    |           Preview_cgs.gif
+    |           Preview_default.gif
+    |           Preview_rawshooter.gif
+    |           Raw_menu.gif
+    |           Raw_menu_info.GIF
+    |           Raw_menu_r.gif
+    |           Tagline.gif
+    |           Title.gif
+    |           
+    +---CGS13
+    |   |   0x0404.ini
+    |   |   0x0405.ini
+    |   |   0x0407.ini
+    |   |   0x0409.ini
+    |   |   0x040a.ini
+    |   |   0x040b.ini
+    |   |   0x040c.ini
+    |   |   0x040e.ini
+    |   |   0x0410.ini
+    |   |   0x0411.ini
+    |   |   0x0412.ini
+    |   |   0x0413.ini
+    |   |   0x0415.ini
+    |   |   0x0416.ini
+    |   |   0x0419.ini
+    |   |   0x041d.ini
+    |   |   0x0804.ini
+    |   |   1028.mst
+    |   |   1029.mst
+    |   |   1031.mst
+    |   |   1033.mst
+    |   |   1034.mst
+    |   |   1035.mst
+    |   |   1036.mst
+    |   |   1038.mst
+    |   |   1040.mst
+    |   |   1041.mst
+    |   |   1042.mst
+    |   |   1043.mst
+    |   |   1045.mst
+    |   |   1046.mst
+    |   |   1049.mst
+    |   |   1053.mst
+    |   |   2052.mst
+    |   |   Afrika.cab
+    |   |   CaPFiles.cab
+    |   |   Catalan.cab
+    |   |   Czech.cab
+    |   |   DPTCSB.cab
+    |   |   Danish.cab
+    |   |   DrDupWiz.cab
+    |   |   DrLabels.cab
+    |   |   DrPFiles.cab
+    |   |   DrPP.cab
+    |   |   DrPPSF.cab
+    |   |   DrPPTrCa.cab
+    |   |   DrPPTrTD.cab
+    |   |   DrSBProf.cab
+    |   |   Dutch.cab
+    |   |   EN.msi
+    |   |   English.cab
+    |   |   Finnish.cab
+    |   |   FontNav.msi
+    |   |   French.cab
+    |   |   Galician.cab
+    |   |   German.cab
+    |   |   Greek.cab
+    |   |   ISUS.msi
+    |   |   Iceland.cab
+    |   |   Italian.cab
+    |   |   MainApp.cab
+    |   |   Norway.cab
+    |   |   PPPFiles.cab
+    |   |   PPTrCa.cab
+    |   |   Plugins.cab
+    |   |   Polish.cab
+    |   |   Portugue.cab
+    |   |   Russian.cab
+    |   |   SecFilt.cab
+    |   |   Setup.dll
+    |   |   Setup.exe
+    |   |   Setup.ini
+    |   |   Setup.msi
+    |   |   Slovak.cab
+    |   |   Sotho.cab
+    |   |   Spanish.cab
+    |   |   Swedish.cab
+    |   |   TaskMa~1.cab
+    |   |   TertFilt.cab
+    |   |   ThumDisp.cab
+    |   |   TiFra.cab
+    |   |   Tswana.cab
+    |   |   Turkish.cab
+    |   |   VBA.msi
+    |   |   VBARes.cab
+    |   |   WTools.cab
+    |   |   WindowsInstaller-KB893803-x86.exe
+    |   |   Xhosa.cab
+    |   |   Zulu.cab
+    |   |   instmsia.exe
+    |   |   instmsiw.exe
+    |   |   ycomp_setup_gs3.exe
+    |   |   
+    |   +---404
+    |   |       setup.bmp
+    |   |       
+    |   +---405
+    |   |       setup.bmp
+    |   |       
+    |   +---407
+    |   |       setup.bmp
+    |   |       
+    |   +---409
+    |   |       setup.bmp
+    |   |       
+    |   +---40a
+    |   |       setup.bmp
+    |   |       
+    |   +---40b
+    |   |       setup.bmp
+    |   |       
+    |   +---40c
+    |   |       setupFR.bmp
+    |   |       
+    |   +---40e
+    |   |       setup.bmp
+    |   |       
+    |   +---410
+    |   |       setupIT.bmp
+    |   |       
+    |   +---411
+    |   |       setup.bmp
+    |   |       
+    |   +---412
+    |   |       setup.bmp
+    |   |       
+    |   +---413
+    |   |       setup.bmp
+    |   |       
+    |   +---415
+    |   |       setup.bmp
+    |   |       
+    |   +---416
+    |   |       setupBR.bmp
+    |   |       
+    |   +---419
+    |   |       setup.bmp
+    |   |       
+    |   +---41d
+    |   |       setup.bmp
+    |   |       
+    |   +---804
+    |   |       setup.bmp
+    |   |       
+    |   \---Administrator
+    |           CorelDRAW Graphics Suite X3 BR.sms
+    |           CorelDRAW Graphics Suite X3 CS.sms
+    |           CorelDRAW Graphics Suite X3 CT.sms
+    |           CorelDRAW Graphics Suite X3 CZ.sms
+    |           CorelDRAW Graphics Suite X3 DE.sms
+    |           CorelDRAW Graphics Suite X3 EN.sms
+    |           CorelDRAW Graphics Suite X3 ES.sms
+    |           CorelDRAW Graphics Suite X3 FR.sms
+    |           CorelDRAW Graphics Suite X3 IT.sms
+    |           CorelDRAW Graphics Suite X3 JP.sms
+    |           CorelDRAW Graphics Suite X3 KR.sms
+    |           CorelDRAW Graphics Suite X3 MA.sms
+    |           CorelDRAW Graphics Suite X3 NL.sms
+    |           CorelDRAW Graphics Suite X3 PL.sms
+    |           CorelDRAW Graphics Suite X3 RU.sms
+    |           CorelDRAW Graphics Suite X3 SU.sms
+    |           CorelDRAW Graphics Suite X3 SV.sms
+    |           
+    +---Crack
+    |       keygen-corel x3.exe
+    |       
+    +---English
+    |       Readme.html
+    |       
+    \---Rawshooter
+            RawShooterEssentials2005.exe
+            

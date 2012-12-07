@@ -1,0 +1,3868 @@
+Folder PATH listing for volume GAMEHOUSE002
+Volume serial number is 3F9C-A515
+T:\
+|   W_Eleven 03-04.iso
+|   
+\---GAME-worm3d
+    |   AIPlanLog.txt
+    |   Launcher.exe
+    |   SetupReg.exe
+    |   launcher.dat
+    |   readme.html
+    |   setup.bat
+    |   uninstal.log
+    |   
+    +---Data
+    |   |   AITwk.xom
+    |   |   CamTwk.xom
+    |   |   DefSave.xom
+    |   |   HudTwk.xom
+    |   |   Local.xom
+    |   |   LvlSetup.xom
+    |   |   MenuTwk.xom
+    |   |   PartTwk.xom
+    |   |   Persist.xom
+    |   |   SaveGame.xom
+    |   |   Scripts.xom
+    |   |   Tweak.xom
+    |   |   WeapTwk.xom
+    |   |   
+    |   +---Audio
+    |   |   |   Alien.aud
+    |   |   |   American Wrestler.aud
+    |   |   |   Biggles.aud
+    |   |   |   Blues Man.aud
+    |   |   |   Capone.aud
+    |   |   |   Classic.aud
+    |   |   |   Confucious.aud
+    |   |   |   Conscience.aud
+    |   |   |   Cowgirl.aud
+    |   |   |   Cyberworms.aud
+    |   |   |   Drill Sergeant.aud
+    |   |   |   FEMUSPS2.aud
+    |   |   |   FESFXPS2.aud
+    |   |   |   FEnd.aud
+    |   |   |   FEndStrm.aud
+    |   |   |   Footy Fan.aud
+    |   |   |   French Lover.aud
+    |   |   |   French.aud
+    |   |   |   Gangsta.aud
+    |   |   |   Geordie.aud
+    |   |   |   German.aud
+    |   |   |   Grandpa.aud
+    |   |   |   Happy Days.aud
+    |   |   |   Hippy.aud
+    |   |   |   Horror.aud
+    |   |   |   Irish.aud
+    |   |   |   Italian.aud
+    |   |   |   London Cabbie.aud
+    |   |   |   MUSPS2.aud
+    |   |   |   Madchester.aud
+    |   |   |   Nagging Wife.aud
+    |   |   |   Patronising.aud
+    |   |   |   Pirate.aud
+    |   |   |   Russki.aud
+    |   |   |   SFXPS2.aud
+    |   |   |   Scotsman.aud
+    |   |   |   Southern Belle.aud
+    |   |   |   Spanish Inquisition.aud
+    |   |   |   Spanish.aud
+    |   |   |   StreamMusic.aud
+    |   |   |   Super Hero.aud
+    |   |   |   Super Villain.aud
+    |   |   |   Surfer.aud
+    |   |   |   Teenage Angst.aud
+    |   |   |   Two Smoking Barrels.aud
+    |   |   |   US Sports.aud
+    |   |   |   Viking.aud
+    |   |   |   War General.aud
+    |   |   |   Welsh.aud
+    |   |   |   Whoopsie.aud
+    |   |   |   sfx.aud
+    |   |   |   
+    |   |   +---music
+    |   |   +---sfx
+    |   |   |       AxeImpact.wav
+    |   |   |       AxeSwing.wav
+    |   |   |       BananaImpact.wav
+    |   |   |       BatSwing.wav
+    |   |   |       BirdsTweet.wav
+    |   |   |       BlowPipeRelease.wav
+    |   |   |       BombWhistle.wav
+    |   |   |       BulletImpact.wav
+    |   |   |       ConcreteDonkey.wav
+    |   |   |       ConcreteDonkeyImpact.wav
+    |   |   |       ConcreteDonkeyRelease.wav
+    |   |   |       CowFall.wav
+    |   |   |       CowWalk.wav
+    |   |   |       CrateImpact.wav
+    |   |   |       CratePickup.wav
+    |   |   |       CratePop.wav
+    |   |   |       DragonPunchImpact.wav
+    |   |   |       DrawEarthquake.wav
+    |   |   |       DrawFirePunch.wav
+    |   |   |       DrawItem.wav
+    |   |   |       DrawMiniGun.wav
+    |   |   |       DrawNuke.wav
+    |   |   |       DrawOldWoman.wav
+    |   |   |       DrawPigeon.wav
+    |   |   |       DrawRedbull.wav
+    |   |   |       Explosion1.wav
+    |   |   |       Explosion2.wav
+    |   |   |       Explosion3.WAV
+    |   |   |       FEClick.wav
+    |   |   |       FEDuff.wav
+    |   |   |       FEInFly.wav
+    |   |   |       FEInScale.wav
+    |   |   |       FEKeyClick.wav
+    |   |   |       FEKeyClickDelete.wav
+    |   |   |       FELetterInDrop.wav
+    |   |   |       FELetterInDrop2.wav
+    |   |   |       FELetterInFlip.wav
+    |   |   |       FELetterInHard.wav
+    |   |   |       FELetterInRotate.wav
+    |   |   |       FELetterOutFly.wav
+    |   |   |       FELetterOutRoll.wav
+    |   |   |       FELetterOutRotate.wav
+    |   |   |       FEMenuDown.wav
+    |   |   |       FESliderDown.wav
+    |   |   |       FESliderUp.wav
+    |   |   |       FETooltipIn1.wav
+    |   |   |       FETooltipIn2.wav
+    |   |   |       FETooltipIn3.wav
+    |   |   |       FETooltipOut1.wav
+    |   |   |       FETooltipOut2.wav
+    |   |   |       FETooltipOut3.wav
+    |   |   |       FireLoop.wav
+    |   |   |       FireNuke.wav
+    |   |   |       FireScales.wav
+    |   |   |       FlipGrenade.wav
+    |   |   |       GRENADEIMPACT.WAV
+    |   |   |       GasLoop.wav
+    |   |   |       GirderMove.wav
+    |   |   |       GirderPlace.wav
+    |   |   |       HOLYGRENADE.WAV
+    |   |   |       HOLYGRENADEIMPACT.WAV
+    |   |   |       JetPackFinish.wav
+    |   |   |       JetPackLoop1.wav
+    |   |   |       JetPackLoop2.wav
+    |   |   |       JetPackStart.wav
+    |   |   |       MINEARM.WAV
+    |   |   |       MINETICK.WAV
+    |   |   |       MegaMineImpact.wav
+    |   |   |       MineDud.wav
+    |   |   |       MiniGunFire.wav
+    |   |   |       MinigunEnd.wav
+    |   |   |       Minigunstart.wav
+    |   |   |       Missile.wav
+    |   |   |       NinjaRopeFire.wav
+    |   |   |       NinjaRopeImpact.wav
+    |   |   |       OldWoman.wav
+    |   |   |       PetrolBombImpact.wav
+    |   |   |       PigeonFlying.wav
+    |   |   |       PigeonImpact.wav
+    |   |   |       PigeonRelease.wav
+    |   |   |       ROCKETPOWERUP.WAV
+    |   |   |       ROCKETRELEASE.WAV
+    |   |   |       RainLoop.wav
+    |   |   |       Recover.wav
+    |   |   |       RedbullRelease.wav
+    |   |   |       SHEEPBAA.WAV
+    |   |   |       SHOTGUNRELOAD.WAV
+    |   |   |       SUPERSHEEPRELEASE.WAV
+    |   |   |       SUPERSHEEPWHOOSH.WAV
+    |   |   |       SheepJump.wav
+    |   |   |       ShotGunFire.wav
+    |   |   |       Splash.wav
+    |   |   |       Splish.wav
+    |   |   |       StickyBombImpact.wav
+    |   |   |       SuicideDraw.wav
+    |   |   |       TIMERTICK.wav
+    |   |   |       TargetHit.wav
+    |   |   |       Teleport.wav
+    |   |   |       Throw.wav
+    |   |   |       UZIFIRE.WAV
+    |   |   |       UziEnd.wav
+    |   |   |       WEAPONHOMING.wav
+    |   |   |       WORMSPRING.wav
+    |   |   |       Walk.wav
+    |   |   |       WormExplode.wav
+    |   |   |       Wormpot_button.wav
+    |   |   |       Wormpot_handle_pull.wav
+    |   |   |       Wormpot_intro.wav
+    |   |   |       Wormpot_nudge.wav
+    |   |   |       Wormpot_outro.wav
+    |   |   |       Wormpot_spin_loop.wav
+    |   |   |       Wormpot_spin_start.wav
+    |   |   |       Wormpot_spin_stop.wav
+    |   |   |       bathit.wav
+    |   |   |       bomber.wav
+    |   |   |       cratespawn.wav
+    |   |   |       debris1.wav
+    |   |   |       debris2.wav
+    |   |   |       debris3.wav
+    |   |   |       debris4.wav
+    |   |   |       drawaxe.wav
+    |   |   |       drawbat.wav
+    |   |   |       drawbazooka.wav
+    |   |   |       drawcow.wav
+    |   |   |       drawgrenade.wav
+    |   |   |       drawsheep.wav
+    |   |   |       drawshotgun.wav
+    |   |   |       drawuzi.wav
+    |   |   |       duff.wav
+    |   |   |       earthquakeloop.wav
+    |   |   |       fuse.wav
+    |   |   |       hitswing.wav
+    |   |   |       jetsuper.wav
+    |   |   |       oildrumexplosion.wav
+    |   |   |       telephone.wav
+    |   |   |       winloop.wav
+    |   |   |       wormknocked1.wav
+    |   |   |       wormknocked2.wav
+    |   |   |       wormknocked3.wav
+    |   |   |       wormknocked4.wav
+    |   |   |       wormlandback.wav
+    |   |   |       wormlandflip.wav
+    |   |   |       wormlandfront.wav
+    |   |   |       wormlandup.wav
+    |   |   |       
+    |   |   +---speech
+    |   |   |   +---Alien
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---American Wrestler
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Biggles
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Blues Man
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Capone
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Classic
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Confucious
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Conscience
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Cowgirl
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Cyberworms
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Drill Sergeant
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Footy Fan
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---French
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---French Lover
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Gangsta
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Geordie
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---German
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Grandpa
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Happy Days
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Hippy
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Horror
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Irish
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Italian
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---London Cabbie
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Madchester
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Nagging Wife
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       ooff1.wav
+    |   |   |   |       ooff2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Patronising
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Pirate
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Russki
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Scotsman
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Southern Belle
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Spanish
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Spanish Inquisition
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Super Hero
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Super Villain
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Surfer
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Teenage Angst
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Two Smoking Barrels
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---US Sports
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Viking
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---War General
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   +---Welsh
+    |   |   |   |       amazing.wav
+    |   |   |   |       angry.wav
+    |   |   |   |       angry2.wav
+    |   |   |   |       boring.wav
+    |   |   |   |       brilliant.wav
+    |   |   |   |       bummer.wav
+    |   |   |   |       byebye.wav
+    |   |   |   |       collect.wav
+    |   |   |   |       comeonthen.wav
+    |   |   |   |       coward.wav
+    |   |   |   |       dragonpunch.wav
+    |   |   |   |       drop.wav
+    |   |   |   |       excellent.wav
+    |   |   |   |       fatality.wav
+    |   |   |   |       fire.wav
+    |   |   |   |       fireball.wav
+    |   |   |   |       firstblood.wav
+    |   |   |   |       flawless.wav
+    |   |   |   |       goaway.wav
+    |   |   |   |       grenade.wav
+    |   |   |   |       happy2.wav
+    |   |   |   |       happy3.wav
+    |   |   |   |       hello.wav
+    |   |   |   |       hurry.wav
+    |   |   |   |       idle1.wav
+    |   |   |   |       idle2.wav
+    |   |   |   |       idle4.wav
+    |   |   |   |       illgetyou.wav
+    |   |   |   |       incoming.wav
+    |   |   |   |       jump1.wav
+    |   |   |   |       jump2.wav
+    |   |   |   |       justyouwait.wav
+    |   |   |   |       kamikaze.wav
+    |   |   |   |       laugh.wav
+    |   |   |   |       leavemealone.wav
+    |   |   |   |       loseloop.wav
+    |   |   |   |       missed.wav
+    |   |   |   |       no.wav
+    |   |   |   |       ohdear.wav
+    |   |   |   |       oinutter.wav
+    |   |   |   |       oof1.wav
+    |   |   |   |       oof2.wav
+    |   |   |   |       oops.wav
+    |   |   |   |       orders.wav
+    |   |   |   |       ouch.wav
+    |   |   |   |       ow1.wav
+    |   |   |   |       ow2.wav
+    |   |   |   |       perfect.wav
+    |   |   |   |       pray.wav
+    |   |   |   |       relief.wav
+    |   |   |   |       revenge.wav
+    |   |   |   |       runaway.wav
+    |   |   |   |       sad1.wav
+    |   |   |   |       sad2.wav
+    |   |   |   |       scared1.wav
+    |   |   |   |       scared2.wav
+    |   |   |   |       stupid.wav
+    |   |   |   |       takecover.wav
+    |   |   |   |       taunt1.wav
+    |   |   |   |       traitor.wav
+    |   |   |   |       uhoh.wav
+    |   |   |   |       victory.wav
+    |   |   |   |       watchthis.wav
+    |   |   |   |       whatthe.wav
+    |   |   |   |       yessir.wav
+    |   |   |   |       youllregretthat.wav
+    |   |   |   |       
+    |   |   |   \---Whoopsie
+    |   |   |           amazing.wav
+    |   |   |           angry.wav
+    |   |   |           angry2.wav
+    |   |   |           boring.wav
+    |   |   |           brilliant.wav
+    |   |   |           bummer.wav
+    |   |   |           byebye.wav
+    |   |   |           collect.wav
+    |   |   |           comeonthen.wav
+    |   |   |           coward.wav
+    |   |   |           dragonpunch.wav
+    |   |   |           drop.wav
+    |   |   |           excellent.wav
+    |   |   |           fatality.wav
+    |   |   |           fire.wav
+    |   |   |           fireball.wav
+    |   |   |           firstblood.wav
+    |   |   |           flawless.wav
+    |   |   |           goaway.wav
+    |   |   |           grenade.wav
+    |   |   |           happy2.wav
+    |   |   |           happy3.wav
+    |   |   |           hello.wav
+    |   |   |           hurry.wav
+    |   |   |           idle1.wav
+    |   |   |           idle2.wav
+    |   |   |           idle4.wav
+    |   |   |           illgetyou.wav
+    |   |   |           incoming.wav
+    |   |   |           jump1.wav
+    |   |   |           jump2.wav
+    |   |   |           justyouwait.wav
+    |   |   |           kamikaze.wav
+    |   |   |           laugh.wav
+    |   |   |           leavemealone.wav
+    |   |   |           loseloop.wav
+    |   |   |           missed.wav
+    |   |   |           no.wav
+    |   |   |           ohdear.wav
+    |   |   |           oinutter.wav
+    |   |   |           oof1.wav
+    |   |   |           oof2.wav
+    |   |   |           oops.wav
+    |   |   |           orders.wav
+    |   |   |           ouch.wav
+    |   |   |           ow1.wav
+    |   |   |           ow2.wav
+    |   |   |           perfect.wav
+    |   |   |           pray.wav
+    |   |   |           relief.wav
+    |   |   |           revenge.wav
+    |   |   |           runaway.wav
+    |   |   |           sad1.wav
+    |   |   |           sad2.wav
+    |   |   |           scared1.wav
+    |   |   |           scared2.wav
+    |   |   |           stupid.wav
+    |   |   |           takecover.wav
+    |   |   |           taunt1.wav
+    |   |   |           traitor.wav
+    |   |   |           uhoh.wav
+    |   |   |           victory.wav
+    |   |   |           watchthis.wav
+    |   |   |           whatthe.wav
+    |   |   |           yessir.wav
+    |   |   |           youllregretthat.wav
+    |   |   |           
+    |   |   \---strmsfx
+    |   |           Astronut.wav
+    |   |           BellRinging.wav
+    |   |           CampFire.wav
+    |   |           Chicken1.wav
+    |   |           Chicken2.wav
+    |   |           ChurchBell.wav
+    |   |           Cow.wav
+    |   |           CreakingTree.wav
+    |   |           CrkTree2.wav
+    |   |           EarthquakeRelease.wav
+    |   |           Elctrcty.wav
+    |   |           FireWorksExplosion.wav
+    |   |           FireWorksLaunch.wav
+    |   |           FlyingSaucer.wav
+    |   |           Fox.wav
+    |   |           Fuse.wav
+    |   |           FutzRadi.wav
+    |   |           Geysir.wav
+    |   |           GiantChicken.wav
+    |   |           Goat.wav
+    |   |           HoldEarthquake.wav
+    |   |           Horse.wav
+    |   |           HoseIntoWater.wav
+    |   |           HourGlass.wav
+    |   |           MetCrk1.wav
+    |   |           MetCrk2.wav
+    |   |           Monkey.wav
+    |   |           Mummy.wav
+    |   |           NukeExplosion.wav
+    |   |           OldRobot.wav
+    |   |           Parachute.wav
+    |   |           RatSqueaks.wav
+    |   |           RedBullEffect.wav
+    |   |           RustlingLeaves.wav
+    |   |           Sheep.wav
+    |   |           Spider.wav
+    |   |           TapIntoWater.wav
+    |   |           Tentacles.wav
+    |   |           Tractor.wav
+    |   |           WaterMill.wav
+    |   |           WooWooBeam.wav
+    |   |           brows.wav
+    |   |           bumblebee.wav
+    |   |           depthcharge.wav
+    |   |           flap.wav
+    |   |           grasshopper.wav
+    |   |           headers.wav
+    |   |           headscratch.wav
+    |   |           m60loop.wav
+    |   |           nips.wav
+    |   |           periscope.wav
+    |   |           sceneflash.wav
+    |   |           tash.wav
+    |   |           thunder.wav
+    |   |           windloop.wav
+    |   |           windmill.wav
+    |   |           wriggle.wav
+    |   |           
+    |   +---Bundles
+    |   |       Bundle00.xom
+    |   |       Bundle01.xom
+    |   |       Bundle02.xom
+    |   |       Bundle03.xom
+    |   |       Bundle04.xom
+    |   |       Bundle05.xom
+    |   |       Bundle06.xom
+    |   |       Bundle07.xom
+    |   |       Bundle08.xom
+    |   |       Bundle09.xom
+    |   |       Bundle10.xom
+    |   |       Bundle11.xom
+    |   |       Bundle12.xom
+    |   |       Bundle13.xom
+    |   |       Bundle14.xom
+    |   |       Bundle15.xom
+    |   |       Bundle16.xom
+    |   |       Bundle17.xom
+    |   |       Bundle18.xom
+    |   |       Bundle19.xom
+    |   |       Bundle20.xom
+    |   |       Bundle21.xom
+    |   |       Bundle22.xom
+    |   |       Bundle23.xom
+    |   |       Bundle24.xom
+    |   |       Bundle25.xom
+    |   |       Bundle26.xom
+    |   |       Bundle27.xom
+    |   |       Bundle28.xom
+    |   |       Bundle29.xom
+    |   |       Bundle30.xom
+    |   |       Bundle31.xom
+    |   |       Bundle32.xom
+    |   |       Bundle33.xom
+    |   |       Bundle34.xom
+    |   |       Bundle35.xom
+    |   |       Bundle36.xom
+    |   |       Bundle37.xom
+    |   |       Bundle38.xom
+    |   |       Bundle39.xom
+    |   |       Bundle40.xom
+    |   |       Bundle41.xom
+    |   |       Bundle42.xom
+    |   |       Bundle43.xom
+    |   |       Bundle44.xom
+    |   |       Bundle45.xom
+    |   |       Bundle46.xom
+    |   |       Bundle47.xom
+    |   |       Bundle48.xom
+    |   |       Bundle49.xom
+    |   |       Bundle50.xom
+    |   |       Bundle51.xom
+    |   |       Bundle52.xom
+    |   |       Bundle53.xom
+    |   |       Bundle54.xom
+    |   |       Bundle55.xom
+    |   |       Bundle56.xom
+    |   |       Bundle57.xom
+    |   |       Bundle58.xom
+    |   |       Bundle59.xom
+    |   |       Bundle60.xom
+    |   |       Bundle61.xom
+    |   |       Bundle62.xom
+    |   |       Bundle63.xom
+    |   |       Bundle64.xom
+    |   |       Bundle65.xom
+    |   |       Bundle66.xom
+    |   |       Bundle67.xom
+    |   |       Bundle68.xom
+    |   |       Bundle69.xom
+    |   |       Bundle70.xom
+    |   |       Bundle71.xom
+    |   |       Bundle72.xom
+    |   |       Bundle73.xom
+    |   |       Bundle74.xom
+    |   |       Bundle75.xom
+    |   |       Bundle76.xom
+    |   |       Bundle77.xom
+    |   |       Bundle78.xom
+    |   |       Bundle79.xom
+    |   |       Bundle80.xom
+    |   |       Bundle81.xom
+    |   |       Bundle82.xom
+    |   |       Bundle83.xom
+    |   |       Bundle84.xom
+    |   |       Bundle85.xom
+    |   |       Bundle86.xom
+    |   |       Bundle87.xom
+    |   |       Bundle88.xom
+    |   |       
+    |   +---FMV
+    |   +---Frontend
+    |   |   +---Levels
+    |   |   |       Challenge_JP1.tga
+    |   |   |       Challenge_JP3.tga
+    |   |   |       Challenge_SG3.tga
+    |   |   |       Challenge_SS3.tga
+    |   |   |       Level_PNMI.tga
+    |   |   |       Mission_ACI.tga
+    |   |   |       Mission_ACU.tga
+    |   |   |       Mission_AJS.tga
+    |   |   |       Mission_AQF.tga
+    |   |   |       Mission_BB.tga
+    |   |   |       Mission_BBB.tga
+    |   |   |       Mission_Balloon.tga
+    |   |   |       Mission_Beanstalk.tga
+    |   |   |       Mission_Breakfast.tga
+    |   |   |       Mission_CB.tga
+    |   |   |       Mission_CC.tga
+    |   |   |       Mission_CDD.tga
+    |   |   |       Mission_DD.tga
+    |   |   |       Mission_EYC.tga
+    |   |   |       Mission_FFY.tga
+    |   |   |       Mission_GD.tga
+    |   |   |       Mission_GNS.tga
+    |   |   |       Mission_HLS.tga
+    |   |   |       Mission_HP.tga
+    |   |   |       Mission_HS.tga
+    |   |   |       Mission_HUR.tga
+    |   |   |       Mission_HelterSkelter.tga
+    |   |   |       Mission_ISNCHYC.tga
+    |   |   |       Mission_Ice.tga
+    |   |   |       Mission_LVP.tga
+    |   |   |       Mission_MM.tga
+    |   |   |       Mission_NRFF.tga
+    |   |   |       Mission_OSS.tga
+    |   |   |       Mission_PH.tga
+    |   |   |       Mission_RD.tga
+    |   |   |       Mission_RR.tga
+    |   |   |       Mission_SFS.tga
+    |   |   |       Mission_SMT.tga
+    |   |   |       Mission_SOCR.tga
+    |   |   |       Mission_Schools.tga
+    |   |   |       Mission_TBG.tga
+    |   |   |       Mission_TC.tga
+    |   |   |       Mission_TD.tga
+    |   |   |       Mission_TMC.tga
+    |   |   |       Mission_TreeVillage.tga
+    |   |   |       Mission_WAC.tga
+    |   |   |       Tutorial_ATF.tga
+    |   |   |       Tutorial_CA.tga
+    |   |   |       Tutorial_DITD.tga
+    |   |   |       Tutorial_DR.tga
+    |   |   |       Tutorial_TMK.tga
+    |   |   |       Tutorial_TT.tga
+    |   |   |       
+    |   |   \---Wormapedia
+    |   |           wpd_Shrines.TGA
+    |   |           wpd_agentdennis.tga
+    |   |           wpd_airstrike.tga
+    |   |           wpd_aprilfools.tga
+    |   |           wpd_axe.tga
+    |   |           wpd_banana.tga
+    |   |           wpd_bazooka.tga
+    |   |           wpd_bbbat.tga
+    |   |           wpd_beatbox.tga
+    |   |           wpd_binoculars.tga
+    |   |           wpd_blowpipe.tga
+    |   |           wpd_boggypete.tga
+    |   |           wpd_brightside.TGA
+    |   |           wpd_buffalo.tga
+    |   |           wpd_chatter.tga
+    |   |           wpd_cluster.tga
+    |   |           wpd_cow.tga
+    |   |           wpd_crateview.TGA
+    |   |           wpd_darkside.tga
+    |   |           wpd_ddamage.tga
+    |   |           wpd_doctorstrike.tga
+    |   |           wpd_donkey.tga
+    |   |           wpd_dturn.tga
+    |   |           wpd_dynamite.tga
+    |   |           wpd_earthquake.tga
+    |   |           wpd_firepunch.tga
+    |   |           wpd_freeze.tga
+    |   |           wpd_gasgrenade.tga
+    |   |           wpd_giraffe.tga
+    |   |           wpd_girder.tga
+    |   |           wpd_grenade.tga
+    |   |           wpd_hhg.tga
+    |   |           wpd_history.tga
+    |   |           wpd_homingmissile.tga
+    |   |           wpd_horror.tga
+    |   |           wpd_jetpack.tga
+    |   |           wpd_lastworm.tga
+    |   |           wpd_lightside.tga
+    |   |           wpd_lostmissions.tga
+    |   |           wpd_lotterystrike.tga
+    |   |           wpd_lowgrav.tga
+    |   |           wpd_megamine.tga
+    |   |           wpd_mine.tga
+    |   |           wpd_mortar.tga
+    |   |           wpd_niagra.tga
+    |   |           wpd_ninjarope.tga
+    |   |           wpd_nuke.tga
+    |   |           wpd_oldwoman.tga
+    |   |           wpd_parachute.tga
+    |   |           wpd_petrolbomb.tga
+    |   |           wpd_pigeon.tga
+    |   |           wpd_pinball.TGA
+    |   |           wpd_pinkbeard.tga
+    |   |           wpd_prod.tga
+    |   |           wpd_prototype.tga
+    |   |           wpd_puppetmaster.TGA
+    |   |           wpd_religion.tga
+    |   |           wpd_sally.tga
+    |   |           wpd_scalesofjustice.tga
+    |   |           wpd_sheep.tga
+    |   |           wpd_shotgun.tga
+    |   |           wpd_skipgo.tga
+    |   |           wpd_stickybomb.tga
+    |   |           wpd_supersheep.tga
+    |   |           wpd_surrender.tga
+    |   |           wpd_tapper.tga
+    |   |           wpd_teleport.tga
+    |   |           wpd_uzi.tga
+    |   |           wpd_wormselect.tga
+    |   |           wpd_wormwear.tga
+    |   |           
+    |   +---Language
+    |   |   \---PC
+    |   |           English.xom
+    |   |           French.xom
+    |   |           German.xom
+    |   |           Italian.xom
+    |   |           Spanish.xom
+    |   |           
+    |   +---Maps
+    |   |       2Player.xom
+    |   |       4Player.xom
+    |   |       Alien.txt
+    |   |       Chute1.xom
+    |   |       Clean.txt
+    |   |       CollideNIGHT.csh
+    |   |       CrateBritain.txt
+    |   |       CropCircle.txt
+    |   |       Deathmatch1.xom
+    |   |       Deathmatch10.xom
+    |   |       Deathmatch2.txt
+    |   |       Deathmatch2.xom
+    |   |       Deathmatch3.xom
+    |   |       Deathmatch4.xom
+    |   |       Deathmatch5.xom
+    |   |       Deathmatch6.xom
+    |   |       Deathmatch7.xom
+    |   |       Deathmatch8.xom
+    |   |       Deathmatch9.xom
+    |   |       Deathmatch9DAY.csh
+    |   |       Deathmatch9NIGHT.csh
+    |   |       E3demo.xom
+    |   |       E3multi.xom
+    |   |       E3single.xom
+    |   |       FLATTEST.XOM
+    |   |       FunFair.txt
+    |   |       Graveyard.txt
+    |   |       Kong.txt
+    |   |       MD Random1.xom
+    |   |       MD Random2.xom
+    |   |       MD Random3.xom
+    |   |       MD Random4.xom
+    |   |       MD Random5.xom
+    |   |       MD Random6.xom
+    |   |       MD Random7.xom
+    |   |       MD Random8.xom
+    |   |       MD Random9.xom
+    |   |       PLAICE.txt
+    |   |       SCHOOLS.txt
+    |   |       Sheep1.xom
+    |   |       Sheep2.xom
+    |   |       Sheeptest.xom
+    |   |       Showdown.txt
+    |   |       StevesFlattest.XOM
+    |   |       TargetHunt.xom
+    |   |       TargetHunt2.xom
+    |   |       TargetHunt4.xom
+    |   |       TargetHuntNIGHT.csh
+    |   |       Trial.xom
+    |   |       Trial_custom.txt
+    |   |       Tutorial4.xom
+    |   |       VsCpu.xom
+    |   |       aitest.xom
+    |   |       alien.xom
+    |   |       animstest.xom
+    |   |       applecore.txt
+    |   |       applecore.xom
+    |   |       assaultcourse.xom
+    |   |       atlantis.txt
+    |   |       atlantis.xom
+    |   |       balloon.xom
+    |   |       beanstalk.txt
+    |   |       beanstalk.xom
+    |   |       boldly.txt
+    |   |       boldly.xom
+    |   |       breakfast.txt
+    |   |       breakfast.xom
+    |   |       camtest.xom
+    |   |       chateau.txt
+    |   |       chateau.xom
+    |   |       cherry.txt
+    |   |       cherry.xom
+    |   |       chute2.xom
+    |   |       chute3.xom
+    |   |       clean.xom
+    |   |       collide.xom
+    |   |       cooped.xom
+    |   |       countingsheep.txt
+    |   |       countingsheep.xom
+    |   |       crate britain.xom
+    |   |       crate britainDAY.csh
+    |   |       cratefun.xom
+    |   |       cratetest.xom
+    |   |       crocketeer.txt
+    |   |       crocketeer.xom
+    |   |       cropcircle.xom
+    |   |       crust.xom
+    |   |       crustEVENING.csh
+    |   |       dday.xom
+    |   |       ddayDAY.csh
+    |   |       deathtest.xom
+    |   |       driving.xom
+    |   |       drivingDAY.csh
+    |   |       dumps.txt
+    |   |       dumps.xom
+    |   |       falling.xom
+    |   |       farmyard.xom
+    |   |       funfair.xom
+    |   |       graveyard.xom
+    |   |       helterskelter.txt
+    |   |       helterskelter.xom
+    |   |       hide.txt
+    |   |       hide.xom
+    |   |       highstakes.xom
+    |   |       holiday.txt
+    |   |       holiday.xom
+    |   |       homing.xom
+    |   |       hookline.txt
+    |   |       hookline.xom
+    |   |       horror.xom
+    |   |       ice.txt
+    |   |       ice.xom
+    |   |       islands.xom
+    |   |       jeggett.xom
+    |   |       jetpackchall2.xom
+    |   |       jetpackchall3.xom
+    |   |       kong.xom
+    |   |       landing.txt
+    |   |       landing.xom
+    |   |       leek.txt
+    |   |       leek.xom
+    |   |       mike.xom
+    |   |       multiapplecore.xom
+    |   |       multifunfair.xom
+    |   |       multipegasus.xom
+    |   |       multitreevillage.xom
+    |   |       normaltest.xom
+    |   |       notpc.txt
+    |   |       notpc.xom
+    |   |       pack.txt
+    |   |       pack.xom
+    |   |       pdemo.xom
+    |   |       pdemo2.xom
+    |   |       pegasus.xom
+    |   |       pegasusDAY.csh
+    |   |       pirate.xom
+    |   |       piratetest.xom
+    |   |       piratetest2.xom
+    |   |       plaice.xom
+    |   |       pleasenomoreislands.xom
+    |   |       pleasenomoreislandsEVENING.csh
+    |   |       ps2test.XOM
+    |   |       random.xom
+    |   |       rum.txt
+    |   |       rum.xom
+    |   |       schools.xom
+    |   |       scriptai.xom
+    |   |       showdown.xom
+    |   |       snow.xom
+    |   |       spacestation.txt
+    |   |       spacestation.xom
+    |   |       stalag.xom
+    |   |       submission.xom
+    |   |       team17.txt
+    |   |       team17.xom
+    |   |       tennis.xom
+    |   |       testtubes.txt
+    |   |       timbers.txt
+    |   |       timbers.xom
+    |   |       treevillage.txt
+    |   |       treevillage.xom
+    |   |       tutorial1.xom
+    |   |       tutorial1EVENING.csh
+    |   |       tutorial2.xom
+    |   |       tutorial3.xom
+    |   |       tutorial5.xom
+    |   |       unitcube.xom
+    |   |       w.xom
+    |   |       wormisland.xom
+    |   |       
+    |   +---Scripts
+    |   |       1PTutorial.lub
+    |   |       2Player.lub
+    |   |       4Player.lub
+    |   |       ALIEN.lub
+    |   |       BALLOON.lub
+    |   |       BREAKFAST.lub
+    |   |       COLLIDE.lub
+    |   |       CROCKETEER.lub
+    |   |       Chute1.lub
+    |   |       Chute2.lub
+    |   |       Chute3.lub
+    |   |       CrateBritain.lub
+    |   |       Deathmatch1.lub
+    |   |       Deathmatch10.lub
+    |   |       Deathmatch2.lub
+    |   |       Deathmatch3.lub
+    |   |       Deathmatch4.lub
+    |   |       Deathmatch5.lub
+    |   |       Deathmatch6.lub
+    |   |       Deathmatch7.lub
+    |   |       Deathmatch8.lub
+    |   |       Deathmatch9.lub
+    |   |       E32AI.lub
+    |   |       E3multi.lub
+    |   |       E3single.lub
+    |   |       EarthquakeTest.lub
+    |   |       FALLING.lub
+    |   |       HOMING.lub
+    |   |       ICE.lub
+    |   |       MartinTest.lub
+    |   |       PLAICE.lub
+    |   |       PS2Vs.lub
+    |   |       PS2Vsdemo.lub
+    |   |       ParticleTest.lub
+    |   |       ParticleTest2.lub
+    |   |       SCHOOLS.lub
+    |   |       SHOWDOWN.lub
+    |   |       ShakeTest.lub
+    |   |       ShakeTest2.lub
+    |   |       ShakeTest3.lub
+    |   |       Sheep1.lub
+    |   |       Sheep2.lub
+    |   |       TRIAL.lub
+    |   |       TargetHunt.lub
+    |   |       TargetHunt2.lub
+    |   |       TargetHunt4.lub
+    |   |       Tutorial4.lub
+    |   |       VsCpu.lub
+    |   |       WormIsland.lub
+    |   |       Wormpot.lub
+    |   |       aitest.lub
+    |   |       animstest.lub
+    |   |       applecore.lub
+    |   |       attract.lub
+    |   |       beanstalk.lub
+    |   |       boldly.lub
+    |   |       camtest.lub
+    |   |       cherry.lub
+    |   |       clean.lub
+    |   |       cooped.lub
+    |   |       countingsheep.lub
+    |   |       cratefun.lub
+    |   |       cratetest.lub
+    |   |       cropcircle.lub
+    |   |       crust.lub
+    |   |       crustTEST.lub
+    |   |       dday.lub
+    |   |       deathtest.lub
+    |   |       driving.lub
+    |   |       drivingdemo.lub
+    |   |       ex1.lub
+    |   |       ex2.lub
+    |   |       ex3.lub
+    |   |       ex4.lub
+    |   |       ex5.lub
+    |   |       ex6.lub
+    |   |       ex7.lub
+    |   |       ex8.lub
+    |   |       funfair.lub
+    |   |       graveyard.lub
+    |   |       helterskelter.lub
+    |   |       hide.lub
+    |   |       highstakes.lub
+    |   |       holiday.lub
+    |   |       hookline.lub
+    |   |       jeggett.lub
+    |   |       jetpackchall2.lub
+    |   |       jetpackchall3.lub
+    |   |       landing.lub
+    |   |       leek.lub
+    |   |       level1.lub
+    |   |       level1demo.lub
+    |   |       mike.lub
+    |   |       notpc.lub
+    |   |       pack.lub
+    |   |       pdemo.lub
+    |   |       pdemo2.lub
+    |   |       pegasus.lub
+    |   |       rum.lub
+    |   |       scriptai.lub
+    |   |       spacestation.lub
+    |   |       stdlib.lub
+    |   |       stdvs.lub
+    |   |       submission.lub
+    |   |       team17.lub
+    |   |       timbers.lub
+    |   |       treevillage.lub
+    |   |       tutorial1.lub
+    |   |       tutorial2.lub
+    |   |       tutorial3.lub
+    |   |       tutorial5.lub
+    |   |       
+    |   \---Themes
+    |       +---Custom
+    |       |   +---Bank02
+    |       |   |       B02 Texture List.txt
+    |       |   |       
+    |       |   +---Bank03
+    |       |   |       B03 Texture List.txt
+    |       |   |       Loch Ness Steps.txt
+    |       |   |       
+    |       |   +---Bank04
+    |       |   |       B04 Texture List.txt
+    |       |   |       
+    |       |   +---Bank05
+    |       |   |       B05 Texture List.txt
+    |       |   |       Textures_Wormandveanstalk2.txt
+    |       |   |       wormandbeanstalk2.txt
+    |       |   |       
+    |       |   +---Bank06
+    |       |   |       B06 Texture List.txt
+    |       |   |       
+    |       |   +---Bank07
+    |       |   |       B07 Texture List.txt
+    |       |   |       Crate Britain.txt
+    |       |   |       
+    |       |   +---Bank08
+    |       |   |       B08 Texture List.txt
+    |       |   |       
+    |       |   +---Bank09
+    |       |   |       B09 Texture List.txt
+    |       |   |       
+    |       |   +---Bank10
+    |       |   |       B10 Texture List.txt
+    |       |   |       
+    |       |   +---Bank11
+    |       |   |       B11 Texture List.txt
+    |       |   |       
+    |       |   +---Bank12
+    |       |   |       B12 Texture List.txt
+    |       |   |       funfair.txt
+    |       |   |       
+    |       |   +---Bank13
+    |       |   |       B13 Texture List.txt
+    |       |   |       
+    |       |   +---Bank14
+    |       |   |       B14 Texture List.txt
+    |       |   |       
+    |       |   +---Bank15
+    |       |   |       B15 Texture List.txt
+    |       |   |       
+    |       |   +---Bank16
+    |       |   |       B16 Texture List.txt
+    |       |   |       Graveyard.txt
+    |       |   |       
+    |       |   +---Bank17
+    |       |   |       B17 Texture List.txt
+    |       |   |       
+    |       |   +---Bank18
+    |       |   |       B18 Texture List.txt
+    |       |   |       
+    |       |   +---Bank19
+    |       |   |       B19 Texture List.txt
+    |       |   |       
+    |       |   +---Bank20
+    |       |   |       B20 Texture List.txt
+    |       |   |       
+    |       |   +---Bank21
+    |       |   |       B21 Texture List.txt
+    |       |   |       
+    |       |   +---Bank22
+    |       |   |       B22 Texture List.txt
+    |       |   |       breakfast.txt
+    |       |   |       
+    |       |   +---Bank23
+    |       |   |       B23 Texture List.txt
+    |       |   |       
+    |       |   +---Bank24
+    |       |   |       B24 Texture List.txt
+    |       |   |       
+    |       |   +---Bank25
+    |       |   |       B25 Texture List.txt
+    |       |   |       
+    |       |   +---Bank27
+    |       |   |       B27 Texture List.txt
+    |       |   |       
+    |       |   +---Bank28
+    |       |   |       B28 Texture List.txt
+    |       |   |       
+    |       |   +---Bank29
+    |       |   |       B29 Texture List.txt
+    |       |   |       Texture_helterskelter.txt
+    |       |   |       helterskelter.txt
+    |       |   |       
+    |       |   +---Bank30
+    |       |   |       B30 Texture List.txt
+    |       |   |       
+    |       |   +---Bank32
+    |       |   |       B30 Texture List.txt
+    |       |   |       
+    |       |   +---Bank35
+    |       |   |       Texture_Treevillage.txt
+    |       |   |       
+    |       |   \---Bank36
+    |       |           notpc.txt
+    |       |           
+    |       +---ThemeArctic
+    |       |       ThemeArctic.txt
+    |       |       
+    |       +---ThemeEngland
+    |       |       ThemeEngland.txt
+    |       |       
+    |       +---ThemeHorror
+    |       |       H Detail List.txt
+    |       |       H Texture List.txt
+    |       |       ThemeHorror.txt
+    |       |       
+    |       +---ThemeLunar
+    |       |       LDetail list.txt
+    |       |       ThemeLunar.txt
+    |       |       texture list.txt
+    |       |       
+    |       +---ThemePirate
+    |       |       P Detail List.txt
+    |       |       P Texture List.txt
+    |       |       ThemePirate.txt
+    |       |       
+    |       +---ThemeWar
+    |       |       ThemeWar.txt
+    |       |       
+    |       \---Tutorial
+    |           \---Tutorial03
+    |                   Texture_Kong.txt
+    |                   
+    +---bin
+    |       Worms3D.exe
+    |       XomClsDb.dat
+    |       msvcp71.dll
+    |       msvcr71.dll
+    |       
+    \---images
+            logo_gamespy.gif
+            logo_lua.gif
+            logo_sega.gif
+            logo_team17.gif
+            logo_worms3d.gif
+            

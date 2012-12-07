@@ -1,0 +1,4058 @@
+ Volume in drive J is 741M_v1.0
+ Volume Serial Number is 067E-C7B1
+
+ Directory of J:\
+
+07/02/2004  01:57 PM            39,692 741M01C ReadMe.htm
+06/24/2004  09:31 AM    <DIR>          Acrobat
+06/24/2004  09:31 AM    <DIR>          ChipDrv
+06/24/2004  09:31 AM    <DIR>          DevDrv
+06/24/2004  09:32 AM    <DIR>          DirectX
+06/24/2004  09:32 AM    <DIR>          Norton
+06/24/2004  09:34 AM    <DIR>          Utilities
+07/31/2003  01:55 PM                43 autorun.inf
+               2 File(s)         39,735 bytes
+
+ Directory of J:\Acrobat
+
+01/15/1601  02:57 AM    <DIR>          .
+01/15/1601  02:57 AM    <DIR>          ..
+09/22/2003  07:10 AM        16,251,072 AdbeRdr60_enu_full.exe
+               1 File(s)     16,251,072 bytes
+
+ Directory of J:\Bin
+
+09/22/2003  03:03 AM    <DIR>          .
+09/22/2003  03:03 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv
+
+09/22/2003  03:03 AM    <DIR>          .
+09/22/2003  03:03 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          IDE
+06/24/2004  09:31 AM    <DIR>          SISRaid
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\IDE
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+08/23/2002  01:16 PM               112 DATA.TAG
+07/31/2002  10:16 AM               111 DATA.TAG.bak
+06/24/2004  09:31 AM    <DIR>          IDE
+01/22/1998  09:08 PM            60,416 SETUP.EXE
+09/05/2003  06:28 PM               629 SETUP.INI
+06/24/2004  09:31 AM    <DIR>          SISfiles
+01/22/1998  08:54 PM           290,733 _INST32I.EX_
+01/27/1998  01:07 PM             8,704 _ISDEL.EXE
+07/31/2002  10:16 AM         4,580,297 _sys1.cab
+07/31/2002  10:16 AM            75,421 _user1.cab
+07/31/2002  10:16 AM             2,085 data1.cab
+10/20/1997  09:20 AM             4,525 lang.dat
+07/31/2002  10:16 AM               353 layout.bin
+05/06/1997  01:15 PM               417 os.dat
+12/06/2002  08:37 AM            77,458 setup.ins
+03/07/2003  01:19 PM               291 setup.iss
+07/31/2002  10:16 AM               377 setup.lid
+06/24/2004  09:31 AM    <DIR>          setupdir
+              15 File(s)      5,101,929 bytes
+
+ Directory of J:\ChipDrv\IDE\EXERUN
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\IDE\IDE
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          IdeUtil
+06/24/2004  09:31 AM    <DIR>          win2k
+06/24/2004  09:31 AM    <DIR>          winxp
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\IDE\IDE\IdeUtil
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+08/20/2002  01:58 PM           139,264 IDEproperty.dll
+07/31/2002  09:59 AM            94,208 PropInstall.exe
+08/19/2002  08:09 PM           688,128 SISIDE.exe
+04/17/2002  08:55 AM             4,824 sisvsd.vxd
+               4 File(s)        926,424 bytes
+
+ Directory of J:\ChipDrv\IDE\IDE\win2k
+
+04/17/2002  02:56 PM    <DIR>          .
+04/17/2002  02:56 PM    <DIR>          ..
+10/21/2002  11:54 AM             1,579 SISIDE.INF
+03/28/2002  10:18 AM             7,680 SISIDE2K.DLL
+12/02/2002  04:22 PM             7,258 siside.cat
+10/21/2002  11:47 AM             6,891 siside.sys
+10/17/2002  02:22 PM            19,712 sisidex.sys
+08/20/2002  04:21 PM             9,472 sisperf.sys
+               6 File(s)         52,592 bytes
+
+ Directory of J:\ChipDrv\IDE\IDE\winxp
+
+08/20/2002  02:56 PM    <DIR>          .
+08/20/2002  02:56 PM    <DIR>          ..
+09/16/2003  02:02 PM             1,618 SISIDE.INF
+04/17/2002  08:16 AM            11,776 SISIDEXP.dll
+10/15/2003  10:28 AM             7,684 siside.cat
+03/25/2003  04:50 PM             4,096 siside.sys
+10/17/2002  02:14 PM            49,024 sisidex.sys
+08/20/2002  04:19 PM             9,472 sisperf.sys
+               6 File(s)         83,670 bytes
+
+ Directory of J:\ChipDrv\IDE\SISfiles
+
+06/28/1620  10:52 AM    <DIR>          .
+06/28/1620  10:52 AM    <DIR>          ..
+06/12/2002  09:14 AM           147,456 DMA98.exe
+12/06/2002  09:32 AM           118,784 HDinfo.exe
+03/11/2003  01:46 PM             8,192 INST2000.DLL
+06/27/2002  02:29 PM             4,736 SISVSD.VXD
+08/21/2002  04:24 PM            94,208 SisFilter.exe
+08/20/2002  04:15 PM            28,672 ata133ap.exe
+08/07/2002  11:18 AM            24,576 infinstall.exe
+06/12/2002  09:14 AM           121,614 waitwnd.exe
+               8 File(s)        548,238 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir
+
+06/12/2002  10:58 AM    <DIR>          .
+06/12/2002  10:58 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          0003
+06/24/2004  09:31 AM    <DIR>          0005
+06/24/2004  09:31 AM    <DIR>          0006
+06/24/2004  09:31 AM    <DIR>          0007
+06/24/2004  09:31 AM    <DIR>          0008
+06/24/2004  09:31 AM    <DIR>          0009
+06/24/2004  09:31 AM    <DIR>          000a
+06/24/2004  09:31 AM    <DIR>          000b
+06/24/2004  09:31 AM    <DIR>          000e
+06/24/2004  09:31 AM    <DIR>          0010
+06/24/2004  09:31 AM    <DIR>          0011
+06/24/2004  09:31 AM    <DIR>          0012
+06/24/2004  09:31 AM    <DIR>          0013
+06/24/2004  09:31 AM    <DIR>          0014
+06/24/2004  09:31 AM    <DIR>          0015
+06/24/2004  09:31 AM    <DIR>          0019
+06/24/2004  09:31 AM    <DIR>          001b
+06/24/2004  09:31 AM    <DIR>          001d
+06/24/2004  09:31 AM    <DIR>          001e
+06/24/2004  09:31 AM    <DIR>          001f
+06/24/2004  09:31 AM    <DIR>          0021
+06/24/2004  09:31 AM    <DIR>          0024
+06/24/2004  09:31 AM    <DIR>          002d
+06/24/2004  09:31 AM    <DIR>          0404
+06/24/2004  09:31 AM    <DIR>          040c
+06/24/2004  09:31 AM    <DIR>          0416
+06/24/2004  09:31 AM    <DIR>          0804
+06/24/2004  09:31 AM    <DIR>          0816
+06/24/2004  09:31 AM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0003
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/02/1998  01:18 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0005
+
+07/09/21370  02:51 PM    <DIR>          .
+07/09/21370  02:51 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0006
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0007
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/27/1998  01:15 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0008
+
+01/27/1998  02:56 PM    <DIR>          .
+01/27/1998  02:56 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0009
+
+01/22/1998  02:55 PM    <DIR>          .
+01/22/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:40 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\000a
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:08 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\000b
+
+02/01/3527  02:49 PM    <DIR>          .
+02/01/3527  02:49 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\000e
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/28/1998  04:50 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0010
+
+08/01/13586  02:50 PM    <DIR>          .
+08/01/13586  02:50 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0011
+
+01/22/1998  02:55 PM    <DIR>          .
+01/22/1998  02:55 PM    <DIR>          ..
+01/23/1998  11:49 AM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0012
+
+05/18/17475  02:51 PM    <DIR>          .
+05/18/17475  02:51 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0013
+
+01/23/1998  02:55 PM    <DIR>          .
+01/23/1998  02:55 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0014
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0015
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/23/1998  01:24 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0019
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\001b
+
+01/23/1998  02:55 PM    <DIR>          .
+01/23/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:17 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\001d
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/27/1998  11:20 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\001e
+
+01/27/1998  02:55 PM    <DIR>          .
+01/27/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:30 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\001f
+
+04/06/27689  02:52 PM    <DIR>          .
+04/06/27689  02:52 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0021
+
+07/06/30683  02:53 PM    <DIR>          .
+07/06/30683  02:53 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0024
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/23/1998  01:18 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\002d
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0404
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\040c
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0416
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0804
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0816
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\IDE\setupdir\0c0c
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\ChipDrv\SISRaid
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          RAID
+12/23/2003  07:46 AM         1,169,920 SIS SATA Raid user manual.doc
+06/24/2004  09:31 AM    <DIR>          disk_v1.05
+               1 File(s)      1,169,920 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          180
+06/24/2004  09:31 AM    <DIR>          180OB
+12/24/2003  01:43 PM         2,378,045 data1.cab
+12/24/2003  01:43 PM            42,393 data1.hdr
+12/24/2003  01:43 PM           420,847 data2.cab
+12/05/2002  01:16 PM           418,296 engine32.cab
+12/24/2003  01:43 PM               438 layout.bin
+12/24/2003  01:43 PM           405,649 setup.boot
+12/02/2002  02:33 PM           107,512 setup.exe
+12/24/2003  01:42 PM               880 setup.ini
+06/24/2004  09:31 AM    <DIR>          win98me
+               8 File(s)      3,774,060 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          win2000
+06/24/2004  09:31 AM    <DIR>          winxp
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180\win2000
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/09/2003  02:30 PM             1,783 SISRaid.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/18/2003  02:32 PM             8,228 sisraid.cat
+12/09/2003  02:53 PM            45,568 sisraid.sys
+               4 File(s)        190,747 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180\winxp
+
+12/09/2003  06:51 PM    <DIR>          .
+12/09/2003  06:51 PM    <DIR>          ..
+12/09/2003  02:29 PM             1,779 SISRaid.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/16/2003  03:23 PM             8,222 sisraid.cat
+12/09/2003  02:43 PM            45,568 sisraid.sys
+               4 File(s)        190,737 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180OB
+
+04/06/1750  02:49 PM    <DIR>          .
+04/06/1750  02:49 PM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          win2000
+06/24/2004  09:31 AM    <DIR>          winxp
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180OB\win2000
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/09/2003  02:58 PM             1,783 SISRaid1.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/22/2003  08:53 AM             8,232 sisraid.cat
+12/09/2003  02:52 PM            45,568 sisraid1.sys
+               4 File(s)        190,751 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\180OB\winxp
+
+05/03/23929  06:49 PM    <DIR>          .
+05/03/23929  06:49 PM    <DIR>          ..
+12/09/2003  02:56 PM             1,783 SISRaid1.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/16/2003  08:42 PM             8,226 sisraid.cat
+12/09/2003  02:50 PM            45,568 sisraid1.sys
+               4 File(s)        190,745 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\EXERUN
+
+09/19/1620  02:49 PM    <DIR>          .
+09/19/1620  02:49 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\SISRaid\RAID\win98me
+
+09/19/1620  02:49 PM    <DIR>          .
+09/19/1620  02:49 PM    <DIR>          ..
+12/09/2003  05:18 PM             1,423 sisraid.INF
+12/17/2003  11:49 AM             7,966 sisraid.cat
+11/21/2003  03:29 PM            71,680 sisraid.mpd
+               3 File(s)         81,069 bytes
+
+ Directory of J:\ChipDrv\SISRaid\disk_v1.05
+
+04/06/1750  10:52 AM    <DIR>          .
+04/06/1750  10:52 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          RAID
+03/31/2003  09:37 AM                 7 SISRAID
+01/05/2004  05:15 PM               823 TXTSETUP.OEM
+               2 File(s)            830 bytes
+
+ Directory of J:\ChipDrv\SISRaid\disk_v1.05\RAID
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          win2000
+06/24/2004  09:31 AM    <DIR>          win98me
+06/24/2004  09:31 AM    <DIR>          winxp
+               0 File(s)              0 bytes
+
+ Directory of J:\ChipDrv\SISRaid\disk_v1.05\RAID\win2000
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/09/2003  02:30 PM             1,783 SISRaid.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/18/2003  02:32 PM             8,228 sisraid.cat
+12/09/2003  02:53 PM            45,568 sisraid.sys
+               4 File(s)        190,747 bytes
+
+ Directory of J:\ChipDrv\SISRaid\disk_v1.05\RAID\win98me
+
+12/09/2003  06:51 PM    <DIR>          .
+12/09/2003  06:51 PM    <DIR>          ..
+12/09/2003  05:18 PM             1,423 sisraid.INF
+12/17/2003  11:49 AM             7,966 sisraid.cat
+11/21/2003  03:29 PM            71,680 sisraid.mpd
+               3 File(s)         81,069 bytes
+
+ Directory of J:\ChipDrv\SISRaid\disk_v1.05\RAID\winxp
+
+11/21/2003  06:51 PM    <DIR>          .
+11/21/2003  06:51 PM    <DIR>          ..
+12/09/2003  02:29 PM             1,779 SISRaid.INF
+07/24/2003  09:06 AM           135,168 property.dll
+12/16/2003  03:23 PM             8,222 sisraid.cat
+12/09/2003  02:43 PM            45,568 sisraid.sys
+               4 File(s)        190,737 bytes
+
+ Directory of J:\DevDrv
+
+10/26/1617  02:57 AM    <DIR>          .
+10/26/1617  02:57 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          AGP
+06/24/2004  09:32 AM    <DIR>          Audio
+06/24/2004  09:31 AM    <DIR>          LAN
+06/24/2004  09:32 AM    <DIR>          SilRAID
+06/24/2004  09:31 AM    <DIR>          USB2.0
+06/24/2004  09:31 AM    <DIR>          VGA
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          AGP
+08/23/2002  01:16 PM               112 DATA.TAG
+01/22/1998  09:08 PM            60,416 SETUP.EXE
+05/10/2004  03:36 PM               201 SETUP.INI
+06/24/2004  04:33 PM    <DIR>          SISfiles
+06/24/2004  04:33 PM    <DIR>          USB
+01/22/1998  08:54 PM           290,733 _INST32I.EX_
+01/27/1998  01:07 PM             8,704 _ISDEL.EXE
+07/31/2002  10:16 AM         4,580,297 _sys1.cab
+07/31/2002  10:16 AM            75,421 _user1.cab
+07/31/2002  10:16 AM             2,085 data1.cab
+10/20/1997  09:20 AM             4,525 lang.dat
+07/31/2002  10:16 AM               353 layout.bin
+05/06/1997  01:15 PM               417 os.dat
+12/20/2002  01:04 PM                 8 setup-s.bat
+05/09/2003  04:09 PM            81,036 setup.ins
+05/10/2004  10:32 AM               351 setup.iss
+07/31/2002  10:16 AM               377 setup.lid
+06/24/2004  04:33 PM    <DIR>          setupdir
+              15 File(s)      5,105,036 bytes
+
+ Directory of J:\DevDrv\AGP\AGP
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          AGPUtil
+06/24/2004  04:33 PM    <DIR>          current
+06/24/2004  04:33 PM    <DIR>          htpatch
+06/24/2004  04:33 PM    <DIR>          old
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\AGPUtil
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/21/2003  09:38 AM           110,592 AGPutil.exe
+03/01/2002  11:14 PM             5,174 WINIO.VXD
+03/19/2002  08:29 AM            45,056 WinIo.dll
+04/09/2002  01:31 PM             3,072 WinIo.sys
+               4 File(s)        163,894 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\current
+
+06/14/13695  02:50 PM    <DIR>          .
+06/14/13695  02:50 PM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          WIN2000
+06/24/2004  04:33 PM    <DIR>          WIN98
+06/24/2004  04:33 PM    <DIR>          WINME
+06/24/2004  04:33 PM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\current\WIN2000
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+08/28/2003  11:55 PM             7,772 sisagp.cat
+07/18/2003  09:20 AM             2,509 sisagp.inf
+07/18/2003  09:06 AM            26,368 sisagpx.sys
+               3 File(s)         36,649 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\current\WIN98
+
+02/11/13736  06:48 PM    <DIR>          .
+02/11/13736  06:48 PM    <DIR>          ..
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:35 PM            10,544 sisagp.inf
+               3 File(s)         31,186 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\current\WINME
+
+05/07/2004  06:53 PM    <DIR>          .
+05/07/2004  06:53 PM    <DIR>          ..
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:34 PM            10,568 sisagp.inf
+               3 File(s)         31,210 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\current\WINXP
+
+05/07/2004  06:52 PM    <DIR>          .
+05/07/2004  06:52 PM    <DIR>          ..
+08/28/2003  11:55 PM             7,768 sisagp.cat
+07/18/2003  09:20 AM             2,507 sisagp.inf
+07/18/2003  08:58 AM            36,992 sisagpx.sys
+               3 File(s)         47,267 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\htpatch
+
+04/06/1750  02:49 PM    <DIR>          .
+04/06/1750  02:49 PM    <DIR>          ..
+11/06/2002  02:08 PM            90,112 HTinst.exe
+03/27/2003  12:50 PM            28,672 HTpatch.exe
+11/06/2002  02:05 PM            90,112 HTuninst.exe
+03/19/2002  08:29 AM            45,056 WinIo.dll
+04/09/2002  01:31 PM             3,072 WinIo.sys
+               5 File(s)        257,024 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\old
+
+06/14/13695  02:50 PM    <DIR>          .
+06/14/13695  02:50 PM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          WIN2000
+06/24/2004  04:33 PM    <DIR>          WIN98
+06/24/2004  04:33 PM    <DIR>          WINME
+06/24/2004  04:33 PM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\old\WIN2000
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+10/17/2002  11:51 PM             7,260 sisagp.cat
+09/26/2002  01:53 PM             3,015 sisagp.inf
+09/26/2002  01:46 PM            25,414 sisagpx.sys
+               3 File(s)         35,689 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\old\WIN98
+
+05/20/30551  06:50 PM    <DIR>          .
+05/20/30551  06:50 PM    <DIR>          ..
+09/26/2002  01:51 PM            13,136 SISAGP.pci
+10/17/2002  11:51 PM             7,258 sisagp.cat
+06/16/2003  10:42 AM             7,456 sisagp.inf
+               3 File(s)         27,850 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\old\WINME
+
+04/10/19587  06:49 PM    <DIR>          .
+04/10/19587  06:49 PM    <DIR>          ..
+09/26/2002  01:51 PM            13,136 SISAGP.pci
+10/17/2002  11:51 PM             7,258 sisagp.cat
+09/26/2002  09:24 AM             7,427 sisagp.inf
+               3 File(s)         27,821 bytes
+
+ Directory of J:\DevDrv\AGP\AGP\old\WINXP
+
+09/26/2002  06:52 PM    <DIR>          .
+09/26/2002  06:52 PM    <DIR>          ..
+10/17/2002  11:51 PM             7,256 sisagp.cat
+09/26/2002  01:49 PM             3,013 sisagp.inf
+09/26/2002  01:41 PM            29,312 sisagpx.sys
+               3 File(s)         39,581 bytes
+
+ Directory of J:\DevDrv\AGP\SISfiles
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+10/31/2002  09:33 AM             7,168 AGPFunc.dll
+02/17/2003  02:20 PM             4,160 SISAGP98.dll
+08/20/2002  04:15 PM            28,672 ata133ap.exe
+08/24/2000  04:31 PM            30,208 instdrv.exe
+10/28/2002  01:58 PM           126,976 regmod.exe
+06/12/2002  09:14 AM           121,614 waitwnd.exe
+               6 File(s)        318,798 bytes
+
+ Directory of J:\DevDrv\AGP\USB
+
+06/12/2002  10:58 AM    <DIR>          .
+06/12/2002  10:58 AM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          Win2K_XP
+06/24/2004  04:33 PM    <DIR>          Win9x
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\USB\Win2K_XP
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          WinXPUSB
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\USB\Win2K_XP\WinXPUSB
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+12/07/2001  09:11 AM             3,583 SISPORT.SYS
+01/02/2002  02:40 PM            32,768 SIS_LIB.DLL
+07/12/2002  05:15 PM           106,496 SiSUSBrg.exe
+               3 File(s)        142,847 bytes
+
+ Directory of J:\DevDrv\AGP\USB\Win9x
+
+09/19/1620  02:49 PM    <DIR>          .
+09/19/1620  02:49 PM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          SiSFiles
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\USB\Win9x\SiSFiles
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+07/12/2002  05:15 PM           118,784 Mp_s3.exe
+06/14/2001  04:06 PM            24,240 Openhci.sys
+               2 File(s)        143,024 bytes
+
+ Directory of J:\DevDrv\AGP\agp661
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+06/24/2004  04:33 PM    <DIR>          0003
+06/24/2004  04:33 PM    <DIR>          0005
+06/24/2004  04:33 PM    <DIR>          0006
+06/24/2004  04:33 PM    <DIR>          0007
+06/24/2004  04:33 PM    <DIR>          0008
+06/24/2004  04:33 PM    <DIR>          0009
+06/24/2004  04:33 PM    <DIR>          000a
+06/24/2004  04:33 PM    <DIR>          000b
+06/24/2004  04:33 PM    <DIR>          000e
+06/24/2004  04:33 PM    <DIR>          0010
+06/24/2004  04:33 PM    <DIR>          0011
+06/24/2004  04:33 PM    <DIR>          0012
+06/24/2004  04:33 PM    <DIR>          0013
+06/24/2004  04:33 PM    <DIR>          0014
+06/24/2004  04:33 PM    <DIR>          0015
+06/24/2004  04:33 PM    <DIR>          0019
+06/24/2004  04:33 PM    <DIR>          001b
+06/24/2004  04:33 PM    <DIR>          001d
+06/24/2004  04:33 PM    <DIR>          001e
+06/24/2004  04:33 PM    <DIR>          001f
+06/24/2004  04:33 PM    <DIR>          0021
+06/24/2004  04:33 PM    <DIR>          0024
+06/24/2004  04:33 PM    <DIR>          002d
+06/24/2004  04:33 PM    <DIR>          0404
+06/24/2004  04:33 PM    <DIR>          040c
+06/24/2004  04:33 PM    <DIR>          0416
+06/24/2004  04:33 PM    <DIR>          0804
+06/24/2004  04:33 PM    <DIR>          0816
+06/24/2004  04:33 PM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0003
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+02/02/1998  01:18 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0005
+
+07/09/21370  02:51 PM    <DIR>          .
+07/09/21370  02:51 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0006
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0007
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/27/1998  01:15 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0008
+
+01/27/1998  02:56 PM    <DIR>          .
+01/27/1998  02:56 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0009
+
+01/22/1998  02:55 PM    <DIR>          .
+01/22/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:40 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\000a
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:08 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\000b
+
+02/01/3527  02:49 PM    <DIR>          .
+02/01/3527  02:49 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\000e
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/28/1998  04:50 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0010
+
+08/01/13586  02:50 PM    <DIR>          .
+08/01/13586  02:50 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0011
+
+01/22/1998  02:55 PM    <DIR>          .
+01/22/1998  02:55 PM    <DIR>          ..
+01/23/1998  11:49 AM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0012
+
+05/18/17475  02:51 PM    <DIR>          .
+05/18/17475  02:51 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0013
+
+01/23/1998  02:55 PM    <DIR>          .
+01/23/1998  02:55 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0014
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0015
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/23/1998  01:24 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0019
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\001b
+
+01/23/1998  02:55 PM    <DIR>          .
+01/23/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:17 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\001d
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/27/1998  11:20 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\001e
+
+01/27/1998  02:55 PM    <DIR>          .
+01/27/1998  02:55 PM    <DIR>          ..
+01/23/1998  01:30 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\001f
+
+04/06/27689  02:52 PM    <DIR>          .
+04/06/27689  02:52 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0021
+
+07/06/30683  02:53 PM    <DIR>          .
+07/06/30683  02:53 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0024
+
+01/23/1998  02:53 PM    <DIR>          .
+01/23/1998  02:53 PM    <DIR>          ..
+01/23/1998  01:18 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\002d
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0404
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\040c
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0416
+
+01/22/1998  02:54 PM    <DIR>          .
+01/22/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0804
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0816
+
+01/23/1998  02:54 PM    <DIR>          .
+01/23/1998  02:54 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\AGP\setupdir\0c0c
+
+01/22/1998  02:56 PM    <DIR>          .
+01/22/1998  02:56 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\Audio
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          Audio-v3.57
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+11/21/2003  02:48 PM           110,592 ALCCHKID.EXE
+02/02/2004  05:44 PM           139,264 ALCRMV.EXE
+11/21/2003  03:57 PM           126,976 ALCRMV9X.EXE
+02/27/2004  05:14 PM           208,896 ALCUPD.EXE
+11/04/2003  11:55 AM            31,388 ALCXDEV.EXE
+06/24/2004  09:32 AM    <DIR>          Ap
+06/24/2004  09:32 AM    <DIR>          CONFIG
+03/02/2004  09:17 AM           858,586 DATA1.CAB
+03/02/2004  09:17 AM            28,906 DATA1.HDR
+03/02/2004  09:17 AM               512 DATA2.CAB
+08/08/2003  02:41 PM            40,448 GETDXVER.EXE
+04/11/2001  03:29 PM           340,866 IKERNEL.EX_
+03/02/2004  09:17 AM               422 LAYOUT.BIN
+03/30/2004  10:20 AM            17,077 README.TXT
+03/02/2004  09:17 AM           170,426 SETUP.INX
+12/03/2002  12:33 PM               538 SETUP.ISS
+09/04/2002  04:39 PM             1,078 SOUNDMAN.ICO
+12/03/2001  12:27 AM            23,552 SetCDfmt.exe
+01/10/2000  01:52 PM           139,264 Setup.exe
+03/25/2004  01:05 PM             2,179 Setup.ini
+06/24/2004  09:32 AM    <DIR>          WDM
+06/24/2004  09:32 AM    <DIR>          Win95
+06/24/2004  09:32 AM    <DIR>          WinNT4
+              18 File(s)      2,240,970 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\Ap
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+07/05/2001  11:19 PM               164 AVRACK.INI
+04/04/2003  02:08 PM           794,624 AvRack2.exe
+05/14/2003  02:04 PM         1,833,984 Classic.dll
+04/04/2003  02:04 PM           468,056 Cool.bmp
+04/04/2003  02:06 PM           468,056 Grass.bmp
+04/04/2003  02:06 PM           157,080 GrayScale.bmp
+09/29/1998  11:32 PM         1,602,328 MPIE4STD.EXE
+04/04/2003  02:05 PM           468,056 Magenta.bmp
+09/29/1998  11:32 PM         3,812,120 Mpstd.exe
+02/09/2004  02:36 PM         3,645,440 RtlRack.exe
+04/04/2003  02:07 PM           468,056 Wooden.bmp
+              11 File(s)     13,717,964 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\CONFIG
+
+04/04/2003  02:55 PM    <DIR>          .
+04/04/2003  02:55 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          Win98gold
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\CONFIG\Win98gold
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+01/05/2004  01:04 PM            27,232 Alcxwdm.inf
+               1 File(s)         27,232 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\WDM
+
+01/22/1621  02:49 PM    <DIR>          .
+01/22/1621  02:49 PM    <DIR>          ..
+02/24/2004  10:08 AM           400,384 ALCXSENS.SYS
+03/19/2004  07:02 PM           613,244 ALCXWDM.SYS
+02/05/2002  12:54 PM           141,016 ALSNDMGR.WAV
+03/19/2004  09:44 AM        14,250,496 ALSndMgr.cpl
+08/19/2003  06:36 PM            65,536 AUDIO3D.DLL
+03/29/2004  02:21 PM           364,932 Alcxwdm.cat
+03/25/2004  12:57 PM            27,292 Alcxwdm.inf
+03/19/2004  07:42 PM            62,875 Alcxwdm0.inf
+03/19/2004  08:04 PM            61,512 Alcxwdm1.inf
+03/19/2004  07:39 PM            38,140 Alcxwdm10.inf
+03/19/2004  07:39 PM            24,934 Alcxwdm11.inf
+03/19/2004  07:58 PM            28,034 Alcxwdm12.inf
+03/19/2004  07:39 PM            37,166 Alcxwdm13.inf
+03/19/2004  07:39 PM            26,048 Alcxwdm14.inf
+03/19/2004  07:39 PM            24,064 Alcxwdm15.inf
+03/19/2004  07:48 PM            24,940 Alcxwdm16.inf
+03/19/2004  07:39 PM            25,834 Alcxwdm17.inf
+03/19/2004  07:38 PM            23,382 Alcxwdm18.inf
+03/19/2004  07:40 PM            24,064 Alcxwdm19.inf
+03/19/2004  07:40 PM            63,682 Alcxwdm2.inf
+03/19/2004  02:34 PM            24,188 Alcxwdm20.inf
+03/19/2004  07:40 PM            26,916 Alcxwdm3.inf
+03/19/2004  07:58 PM            43,842 Alcxwdm4.inf
+03/19/2004  07:39 PM            24,064 Alcxwdm5.inf
+03/19/2004  07:41 PM            31,325 Alcxwdm6.inf
+03/19/2004  07:39 PM            23,920 Alcxwdm7.inf
+03/19/2004  07:39 PM            28,962 Alcxwdm8.inf
+03/19/2004  07:39 PM            27,288 Alcxwdm9.inf
+11/21/2002  02:07 PM           765,952 CRLDS3D.DLL
+03/19/2004  06:28 PM         6,964,736 RTLCPL.EXE
+02/09/2004  02:18 PM           155,648 RtlCPAPI.dll
+02/26/2004  03:53 PM            65,024 SoundMan.exe
+              32 File(s)     24,509,440 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\Win95
+
+03/16/1949  02:49 PM    <DIR>          .
+03/16/1949  02:49 PM    <DIR>          ..
+10/17/2002  04:25 PM           142,080 ALCX95.DRV
+06/18/2001  04:23 PM             1,127 ALCX95.INI
+11/26/1999  09:26 AM            14,928 ALSWWT.DRV
+11/26/1999  09:26 AM            86,864 ALSWWT16.DLL
+11/10/1999  01:33 PM           247,244 SWWTAC97.DAT
+11/10/1999  01:33 PM         3,101,546 SWWTAC97.TON
+10/17/2002  05:24 PM             6,037 VALCX95.INF
+10/17/2002  04:25 PM            97,457 VALCX95.VXD
+               8 File(s)      3,697,283 bytes
+
+ Directory of J:\DevDrv\Audio\Audio-v3.57\WinNT4
+
+12/17/10052  02:50 PM    <DIR>          .
+12/17/10052  02:50 PM    <DIR>          ..
+03/17/2004  12:16 PM            43,128 ALCXNT.DLL
+03/17/2004  12:15 PM           209,496 ALCXNT.SYS
+10/22/1999  12:17 AM           247,244 ALSWWTNT.DAT
+10/22/1999  12:16 AM         3,101,546 ALSWWTNT.TON
+04/04/2003  01:37 PM            23,040 Alswwtnt.dll
+04/04/2003  01:37 PM           115,168 Alswwtnt.sys
+03/17/2004  12:16 PM            17,396 MMDRV.DLL
+10/17/2002  06:28 PM               640 Oemsetup.inf
+04/21/2003  05:05 PM           155,136 SoundMan.exe
+               9 File(s)      3,912,794 bytes
+
+ Directory of J:\DevDrv\LAN
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/24/2004  09:31 AM    <DIR>          SiS900
+06/24/2004  09:32 AM    <DIR>          realtek
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+11/09/2000  01:50 AM             3,014 DATA1.CAB
+07/18/2002  01:54 PM           159,758 DIAG.EXE
+04/22/2002  12:50 PM             5,165 DIAG.TXT
+08/07/2001  09:52 AM             4,608 INST2000.DLL
+10/24/2000  03:07 PM            99,024 IPDETECT.EXE
+10/21/1997  12:20 AM             4,525 LANG.DAT
+11/09/2000  01:50 AM               353 LAYOUT.BIN
+11/28/1995  12:53 AM           128,760 MAIN.BMP
+06/24/2004  09:32 AM    <DIR>          MSLANMAN.DOS
+06/24/2004  09:32 AM    <DIR>          NT40
+06/24/2004  09:32 AM    <DIR>          Ndis2
+06/24/2004  09:32 AM    <DIR>          Nwserver.41x
+06/24/2004  09:32 AM    <DIR>          Nwserver.42
+06/24/2004  09:32 AM    <DIR>          Nwserver.5x
+06/24/2004  09:32 AM    <DIR>          Nwserver.60
+05/07/1997  04:15 AM               417 OS.DAT
+09/20/2000  09:55 AM             5,856 Remove.exe
+01/23/1998  12:08 PM            60,416 SETUP.EXE
+07/10/2002  06:10 PM               180 SETUP.INI
+04/18/2001  03:18 PM            64,224 SETUP.INS
+04/07/2000  03:08 AM               304 SETUP.ISS
+11/09/2000  01:50 AM               377 SETUP.LID
+08/28/2001  12:56 PM             1,642 SETUP.TXT
+06/24/2004  09:32 AM    <DIR>          WFW311
+06/24/2004  09:32 AM    <DIR>          WIN95
+06/24/2004  09:32 AM    <DIR>          WIN95.SR2
+06/24/2004  09:32 AM    <DIR>          WIN98
+06/24/2004  09:32 AM    <DIR>          WINME
+06/24/2004  09:32 AM    <DIR>          Win2000
+06/24/2004  09:32 AM    <DIR>          WinXP
+01/23/1998  11:54 AM           290,733 _INST32I.EX_
+01/28/1998  04:07 AM             8,704 _ISDEL.EXE
+11/09/2000  01:50 AM            81,716 _USER1.CAB
+11/09/2000  01:50 AM         9,868,900 _sys1.cab
+08/18/2000  09:11 PM            42,900 inf2cat.exe
+06/24/2004  09:32 AM    <DIR>          nwclient
+06/24/2004  09:32 AM    <DIR>          pktdrv
+01/16/2001  03:06 PM            38,036 refresh.exe
+06/24/2004  09:32 AM    <DIR>          setupdir
+              22 File(s)     10,869,612 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\MSLANMAN.DOS
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          DRIVERS
+03/19/1999  05:52 PM             2,567 Readme.txt
+               1 File(s)          2,567 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\MSLANMAN.DOS\DRIVERS
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          Ethernet
+06/24/2004  09:32 AM    <DIR>          NIF
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\MSLANMAN.DOS\DRIVERS\Ethernet
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          SIS900
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\MSLANMAN.DOS\DRIVERS\Ethernet\SIS900
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+11/16/2000  04:53 PM             1,146 PROTOCOL.INI
+06/28/2002  08:36 AM            43,971 sis900.dos
+               2 File(s)         45,117 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\MSLANMAN.DOS\DRIVERS\NIF
+
+06/20/1625  10:44 PM    <DIR>          .
+06/20/1625  10:44 PM    <DIR>          ..
+03/19/1999  05:25 PM               137 SIS900.nif
+               1 File(s)            137 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\NT40
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+04/29/2002  01:58 PM            34,419 OEMSETUP.INF
+08/28/2000  12:08 PM             1,394 README.TXT
+11/06/1998  01:15 PM             7,568 SISNIC.HLP
+07/11/2002  12:39 AM            39,844 SISNIC.sys
+               4 File(s)         83,225 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Ndis2
+
+07/11/2002  02:55 PM    <DIR>          .
+07/11/2002  02:55 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          dos
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Ndis2\dos
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+11/07/2000  02:30 PM               671 OEMSETUP.INF
+11/07/2000  02:33 PM             1,154 PROTOCOL.INI
+11/07/2000  02:31 PM             3,038 README.TXT
+06/28/2002  08:36 AM            43,971 SIS900.DOS
+               4 File(s)         48,834 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Nwserver.41x
+
+04/06/1750  02:49 PM    <DIR>          .
+04/06/1750  02:49 PM    <DIR>          ..
+07/03/1996  06:53 AM            11,926 ETHERTSM.NLM
+08/22/1996  05:12 PM            56,649 MSM.NLM
+08/30/1996  12:31 PM            17,028 NBI.NLM
+04/28/1999  06:42 PM             4,937 README.TXT
+08/16/2002  02:40 PM            47,564 sis900.lan
+08/16/2002  03:14 PM            44,685 sis900.ldi
+               6 File(s)        182,789 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Nwserver.42
+
+08/16/2002  02:56 PM    <DIR>          .
+08/16/2002  02:56 PM    <DIR>          ..
+03/03/2000  04:02 PM             4,591 README.TXT
+09/02/2002  05:02 PM            47,771 sis900.lan
+09/05/2002  11:41 AM            44,716 sis900.ldi
+               3 File(s)         97,078 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Nwserver.5x
+
+09/05/2002  02:53 PM    <DIR>          .
+09/05/2002  02:53 PM    <DIR>          ..
+07/31/2001  09:26 AM             4,419 README.TXT
+09/02/2002  05:02 PM            47,771 sis900.lan
+09/05/2002  11:41 AM            44,716 sis900.ldi
+               3 File(s)         96,906 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Nwserver.60
+
+09/05/2002  02:53 PM    <DIR>          .
+09/05/2002  02:53 PM    <DIR>          ..
+07/31/2001  09:25 AM             4,419 README.TXT
+09/02/2002  05:02 PM            47,771 sis900.lan
+09/05/2002  11:41 AM            44,716 sis900.ldi
+               3 File(s)         96,906 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WFW311
+
+09/05/2002  02:53 PM    <DIR>          .
+09/05/2002  02:53 PM    <DIR>          ..
+07/10/2002  04:10 PM               831 OEMSETUP.INF
+01/17/2001  10:22 AM             1,634 README.TXT
+07/11/2002  12:44 AM            50,323 SISNIC.386
+               3 File(s)         52,788 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WIN95
+
+09/05/29664  02:52 PM    <DIR>          .
+09/05/29664  02:52 PM    <DIR>          ..
+07/11/2002  12:25 PM            25,370 NETOEM.INF
+12/11/1998  12:56 PM                 4 OEMNIC.CAT
+11/17/2000  09:37 AM             2,372 README.TXT
+07/11/2002  12:41 AM            39,912 SISNIC.sys
+02/27/2001  09:12 AM            12,128 UNINST.EXE
+               5 File(s)         79,786 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WIN95.SR2
+
+02/27/2001  02:54 PM    <DIR>          .
+02/27/2001  02:54 PM    <DIR>          ..
+07/11/2002  12:25 PM            25,370 NETOEM.INF
+12/11/1998  12:56 PM                 4 OEMNIC.CAT
+11/17/2000  09:37 AM             2,372 README.TXT
+07/11/2002  12:39 AM            39,844 SISNIC.sys
+02/27/2001  09:12 AM            12,128 UNINST.EXE
+               5 File(s)         79,718 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WIN98
+
+02/27/2001  02:54 PM    <DIR>          .
+02/27/2001  02:54 PM    <DIR>          ..
+01/13/2003  04:22 PM            28,534 NETOEM.INF
+12/11/1998  12:56 PM                 4 OEMNIC.CAT
+11/10/2000  03:27 PM             2,825 README.TXT
+08/02/2002  09:30 AM            35,427 SISNIC.sys
+02/27/2001  09:12 AM            12,128 UNINST.EXE
+               5 File(s)         78,918 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WINME
+
+02/27/2001  02:54 PM    <DIR>          .
+02/27/2001  02:54 PM    <DIR>          ..
+08/02/2002  09:36 AM            26,717 NETOEM.INF
+08/09/2002  03:10 AM            33,764 OEMNIC.CAT
+11/10/2000  04:00 PM             3,016 README.TXT
+08/02/2002  09:30 AM            35,427 SISNIC.sys
+02/27/2001  09:12 AM            12,128 UNINST.EXE
+               5 File(s)        111,052 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\Win2000
+
+02/27/2001  02:54 PM    <DIR>          .
+02/27/2001  02:54 PM    <DIR>          ..
+08/02/2002  09:35 AM            28,132 NETOEM.INF
+08/09/2002  02:01 AM            33,772 OEMNIC.CAT
+11/10/2000  03:28 PM             2,102 README.TXT
+08/02/2002  09:30 AM            35,427 SISNIC.sys
+02/23/2001  03:21 PM            36,395 uninst.exe
+               5 File(s)        135,828 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\WinXP
+
+02/23/2001  02:53 PM    <DIR>          .
+02/23/2001  02:53 PM    <DIR>          ..
+07/11/2002  12:26 PM            25,141 NETOEM.INF
+04/19/2001  10:15 AM             2,090 README.TXT
+07/10/2002  10:39 PM            32,256 SISNIC.SYS
+07/31/2002  06:06 AM            33,766 oemnic.cat
+08/07/2001  09:53 AM            37,376 uninst.exe
+               5 File(s)        130,629 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\nwclient
+
+09/28/8076  02:50 PM    <DIR>          .
+09/28/8076  02:50 PM    <DIR>          ..
+07/19/2002  06:22 PM             1,384 NET.CFG
+08/19/2002  09:36 AM            51,728 SIS900.COM
+04/28/1999  06:41 PM             3,050 readme.txt
+10/22/1998  11:02 AM               481 sis900.ins
+               4 File(s)         56,643 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\pktdrv
+
+10/22/1998  02:54 PM    <DIR>          .
+10/22/1998  02:54 PM    <DIR>          ..
+08/16/2002  11:21 AM            29,525 SIS900.EXE
+11/02/2000  09:10 AM             4,393 readme.TXT
+               2 File(s)         33,918 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir
+
+01/10/2100  02:49 PM    <DIR>          .
+01/10/2100  02:49 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          0003
+06/24/2004  09:32 AM    <DIR>          0005
+06/24/2004  09:32 AM    <DIR>          0006
+06/24/2004  09:32 AM    <DIR>          0007
+06/24/2004  09:32 AM    <DIR>          0008
+06/24/2004  09:32 AM    <DIR>          0009
+06/24/2004  09:32 AM    <DIR>          000a
+06/24/2004  09:32 AM    <DIR>          000b
+06/24/2004  09:32 AM    <DIR>          000e
+06/24/2004  09:32 AM    <DIR>          0010
+06/24/2004  09:32 AM    <DIR>          0011
+06/24/2004  09:32 AM    <DIR>          0012
+06/24/2004  09:32 AM    <DIR>          0013
+06/24/2004  09:32 AM    <DIR>          0014
+06/24/2004  09:32 AM    <DIR>          0015
+06/24/2004  09:32 AM    <DIR>          0019
+06/24/2004  09:32 AM    <DIR>          001b
+06/24/2004  09:32 AM    <DIR>          001d
+06/24/2004  09:32 AM    <DIR>          001e
+06/24/2004  09:32 AM    <DIR>          001f
+06/24/2004  09:32 AM    <DIR>          0021
+06/24/2004  09:32 AM    <DIR>          0024
+06/24/2004  09:32 AM    <DIR>          002d
+06/24/2004  09:32 AM    <DIR>          0404
+06/24/2004  09:32 AM    <DIR>          040c
+06/24/2004  09:32 AM    <DIR>          0416
+06/24/2004  09:32 AM    <DIR>          0804
+06/24/2004  09:32 AM    <DIR>          0816
+06/24/2004  09:32 AM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0003
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+02/02/1998  01:18 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0005
+
+07/09/21370  06:49 PM    <DIR>          .
+07/09/21370  06:49 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0006
+
+01/22/1998  06:51 PM    <DIR>          .
+01/22/1998  06:51 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0007
+
+01/22/1998  06:51 PM    <DIR>          .
+01/22/1998  06:51 PM    <DIR>          ..
+01/27/1998  01:15 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0008
+
+01/27/1998  06:53 PM    <DIR>          .
+01/27/1998  06:53 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0009
+
+01/22/1998  06:52 PM    <DIR>          .
+01/22/1998  06:52 PM    <DIR>          ..
+01/23/1998  01:40 PM                 0 _SETUP.DLL
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\000a
+
+01/23/1998  06:52 PM    <DIR>          .
+01/23/1998  06:52 PM    <DIR>          ..
+01/22/1998  06:08 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\000b
+
+02/01/3527  06:47 PM    <DIR>          .
+02/01/3527  06:47 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\000e
+
+01/22/1998  06:52 PM    <DIR>          .
+01/22/1998  06:52 PM    <DIR>          ..
+01/28/1998  04:50 PM                 0 _setup.dll
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0010
+
+08/01/13586  06:48 PM    <DIR>          .
+08/01/13586  06:48 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0011
+
+01/22/1998  06:53 PM    <DIR>          .
+01/22/1998  06:53 PM    <DIR>          ..
+01/23/1998  11:49 AM                 0 _setup.dll
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0012
+
+05/18/17475  06:48 PM    <DIR>          .
+05/18/17475  06:48 PM    <DIR>          ..
+01/23/1998  01:26 PM                 0 _setup.dll
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0013
+
+01/23/1998  06:52 PM    <DIR>          .
+01/23/1998  06:52 PM    <DIR>          ..
+01/22/1998  06:06 PM                 0 _SETUP.DLL
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0014
+
+01/22/1998  06:52 PM    <DIR>          .
+01/22/1998  06:52 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0015
+
+01/22/1998  06:53 PM    <DIR>          .
+01/22/1998  06:53 PM    <DIR>          ..
+01/23/1998  01:24 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0019
+
+01/23/1998  06:50 PM    <DIR>          .
+01/23/1998  06:50 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\001b
+
+01/23/1998  06:53 PM    <DIR>          .
+01/23/1998  06:53 PM    <DIR>          ..
+01/23/1998  01:17 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\001d
+
+01/23/1998  06:50 PM    <DIR>          .
+01/23/1998  06:50 PM    <DIR>          ..
+01/27/1998  11:20 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\001e
+
+01/27/1998  06:53 PM    <DIR>          .
+01/27/1998  06:53 PM    <DIR>          ..
+01/23/1998  01:30 PM                 0 _SETUP.DLL
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\001f
+
+04/06/27689  06:50 PM    <DIR>          .
+04/06/27689  06:50 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0021
+
+07/06/30683  06:50 PM    <DIR>          .
+07/06/30683  06:50 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0024
+
+01/23/1998  06:50 PM    <DIR>          .
+01/23/1998  06:50 PM    <DIR>          ..
+01/23/1998  01:18 PM                 0 _setup.dll
+               1 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\002d
+
+01/23/1998  06:51 PM    <DIR>          .
+01/23/1998  06:51 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0404
+
+01/22/1998  06:51 PM    <DIR>          .
+01/22/1998  06:51 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\040c
+
+01/23/1998  06:51 PM    <DIR>          .
+01/23/1998  06:51 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0416
+
+01/22/1998  06:52 PM    <DIR>          .
+01/22/1998  06:52 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0804
+
+01/22/1998  06:53 PM    <DIR>          .
+01/22/1998  06:53 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0816
+
+01/23/1998  06:51 PM    <DIR>          .
+01/23/1998  06:51 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\SiS900\setupdir\0c0c
+
+01/22/1998  06:53 PM    <DIR>          .
+01/22/1998  06:53 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\LAN\realtek
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          giga
+06/24/2004  09:32 AM    <DIR>          mega
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          9x2kxp
+06/24/2004  09:32 AM    <DIR>          NT4
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+10/06/2003  03:36 PM         1,479,344 DATA1.CAB
+10/06/2003  03:36 PM            41,649 DATA1.HDR
+10/06/2003  03:36 PM            56,751 DATA2.CAB
+07/25/2002  03:07 PM           346,602 IKERNEL.EX_
+10/06/2003  03:36 PM               417 LAYOUT.BIN
+04/11/2001  06:07 PM           166,912 SETUP.EXE
+10/06/2003  03:37 PM               610 SETUP.INI
+10/06/2003  03:36 PM           147,379 SETUP.INX
+08/19/2003  02:08 PM               700 SETUP.ISS
+09/23/2003  01:40 PM             2,454 SETUP.TXT
+06/24/2004  09:32 AM    <DIR>          WIN2000
+06/24/2004  09:32 AM    <DIR>          WIN98
+06/24/2004  09:32 AM    <DIR>          WIN98SE
+06/24/2004  09:32 AM    <DIR>          WINME
+06/24/2004  09:32 AM    <DIR>          WINXP
+              10 File(s)      2,242,818 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp\WIN2000
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+09/04/2003  09:29 AM            63,987 NETRT2KA.INF
+09/04/2003  09:28 AM            63,686 NETRT2KB.INF
+09/04/2003  12:25 PM           119,188 NETRT2KO.CAT
+08/11/2003  03:18 PM            24,895 NETRTL.INF
+09/03/2003  12:05 PM             8,324 NETRTL2K.CAT
+08/13/2003  02:28 PM            64,512 RTLNIC5.SYS
+               6 File(s)        344,592 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp\WIN98
+
+12/22/26631  10:47 PM    <DIR>          .
+12/22/26631  10:47 PM    <DIR>          ..
+08/27/2003  05:38 PM            10,920 NETRTL4.INF
+08/13/2003  02:34 PM            81,472 RTLNIC4.SYS
+               2 File(s)         92,392 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp\WIN98SE
+
+03/15/22345  10:46 PM    <DIR>          .
+03/15/22345  10:46 PM    <DIR>          ..
+09/18/2003  04:54 PM            24,899 NETRTL.INF
+09/19/2003  08:24 PM            63,993 NETRTLA.INF
+09/19/2003  08:24 PM            63,692 NETRTLB.INF
+08/18/2003  02:56 PM            64,512 RTLNIC5.SYS
+               4 File(s)        217,096 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp\WINME
+
+02/06/18507  10:46 PM    <DIR>          .
+02/06/18507  10:46 PM    <DIR>          ..
+09/03/2003  12:05 PM             8,324 NETRTL.CAT
+08/11/2003  03:18 PM            24,895 NETRTL.INF
+09/04/2003  09:36 AM            63,989 NETRTLA.INF
+09/04/2003  09:36 AM            63,688 NETRTLB.INF
+09/04/2003  12:25 PM           119,184 NETRTLO.CAT
+08/18/2003  02:56 PM            64,512 RTLNIC5.SYS
+               6 File(s)        344,592 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\9x2kxp\WINXP
+
+04/22/18779  10:46 PM    <DIR>          .
+04/22/18779  10:46 PM    <DIR>          ..
+09/03/2003  12:05 PM             8,326 NETRTLXP.CAT
+08/11/2003  03:18 PM            20,165 NETRTLXP.INF
+09/04/2003  09:33 AM            59,319 NETRTXPA.INF
+09/04/2003  09:33 AM            59,018 NETRTXPB.INF
+09/04/2003  12:25 PM           119,184 NETRTXPO.CAT
+08/13/2003  02:27 PM            65,280 RTLNIC51.SYS
+               6 File(s)        331,292 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\giga\NT4
+
+06/20/1625  06:46 PM    <DIR>          .
+06/20/1625  06:46 PM    <DIR>          ..
+05/20/2003  03:28 PM            49,539 OEMSETUP.INF
+02/08/2002  11:18 AM             8,312 R8169HLP.HLP
+08/15/2003  09:21 AM             2,071 RELEASE.TXT
+08/13/2003  02:34 PM            81,472 RTLNIC4.SYS
+               4 File(s)        141,394 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega
+
+04/06/1750  02:49 PM    <DIR>          .
+04/06/1750  02:49 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          9x2Kxp
+06/24/2004  09:32 AM    <DIR>          NT4
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+10/06/2003  03:36 PM         1,479,344 DATA1.CAB
+10/06/2003  03:36 PM            41,649 DATA1.HDR
+10/06/2003  03:36 PM            56,751 DATA2.CAB
+07/25/2002  03:07 PM           346,602 IKERNEL.EX_
+10/06/2003  03:36 PM               417 LAYOUT.BIN
+04/11/2001  06:07 PM           166,912 SETUP.EXE
+10/06/2003  03:37 PM               610 SETUP.INI
+10/06/2003  03:36 PM           147,379 SETUP.INX
+08/19/2003  02:08 PM               700 SETUP.ISS
+09/23/2003  01:40 PM             2,454 SETUP.TXT
+06/24/2004  09:32 AM    <DIR>          WIN2000
+06/24/2004  09:32 AM    <DIR>          WIN98
+06/24/2004  09:32 AM    <DIR>          WIN98SE
+06/24/2004  09:32 AM    <DIR>          WINME
+06/24/2004  09:32 AM    <DIR>          WINXP
+              10 File(s)      2,242,818 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp\WIN2000
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+09/04/2003  09:29 AM            63,987 NETRT2KA.INF
+09/04/2003  09:28 AM            63,686 NETRT2KB.INF
+09/04/2003  12:25 PM           119,188 NETRT2KO.CAT
+08/11/2003  03:18 PM            24,895 NETRTL.INF
+09/03/2003  12:05 PM             8,324 NETRTL2K.CAT
+08/13/2003  02:28 PM            64,512 RTLNIC5.SYS
+               6 File(s)        344,592 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp\WIN98
+
+12/22/26631  10:47 PM    <DIR>          .
+12/22/26631  10:47 PM    <DIR>          ..
+08/27/2003  05:38 PM            10,920 NETRTL4.INF
+08/13/2003  02:34 PM            81,472 RTLNIC4.SYS
+               2 File(s)         92,392 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp\WIN98SE
+
+03/15/22345  10:46 PM    <DIR>          .
+03/15/22345  10:46 PM    <DIR>          ..
+09/18/2003  04:54 PM            24,899 NETRTL.INF
+09/19/2003  08:24 PM            63,993 NETRTLA.INF
+09/19/2003  08:24 PM            63,692 NETRTLB.INF
+08/18/2003  02:56 PM            64,512 RTLNIC5.SYS
+               4 File(s)        217,096 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp\WINME
+
+02/06/18507  10:46 PM    <DIR>          .
+02/06/18507  10:46 PM    <DIR>          ..
+09/03/2003  12:05 PM             8,324 NETRTL.CAT
+08/11/2003  03:18 PM            24,895 NETRTL.INF
+09/04/2003  09:36 AM            63,989 NETRTLA.INF
+09/04/2003  09:36 AM            63,688 NETRTLB.INF
+09/04/2003  12:25 PM           119,184 NETRTLO.CAT
+08/18/2003  02:56 PM            64,512 RTLNIC5.SYS
+               6 File(s)        344,592 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\9x2Kxp\WINXP
+
+04/22/18779  10:46 PM    <DIR>          .
+04/22/18779  10:46 PM    <DIR>          ..
+09/03/2003  12:05 PM             8,326 NETRTLXP.CAT
+08/11/2003  03:18 PM            20,165 NETRTLXP.INF
+09/04/2003  09:33 AM            59,319 NETRTXPA.INF
+09/04/2003  09:33 AM            59,018 NETRTXPB.INF
+09/04/2003  12:25 PM           119,184 NETRTXPO.CAT
+08/13/2003  02:27 PM            65,280 RTLNIC51.SYS
+               6 File(s)        331,292 bytes
+
+ Directory of J:\DevDrv\LAN\realtek\mega\NT4
+
+06/20/1625  06:46 PM    <DIR>          .
+06/20/1625  06:46 PM    <DIR>          ..
+05/20/2003  04:13 PM            49,752 OEMSETUP.INF
+08/15/2003  09:21 AM             2,071 RELEASE.TXT
+08/13/2003  02:34 PM            81,472 RTLNIC4.SYS
+11/20/2001  09:55 AM             8,305 RTSNTHLP.HLP
+               4 File(s)        141,600 bytes
+
+ Directory of J:\DevDrv\SilRAID
+
+10/25/1617  06:54 AM    <DIR>          .
+10/25/1617  06:54 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          Raid Controller
+06/24/2004  09:32 AM    <DIR>          Windows GUI
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\SilRAID\EXERUN
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\SilRAID\Raid Controller
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+12/16/2003  10:23 AM             6,547 DriverLanguageMap.xml
+04/30/2003  04:01 PM            20,560 SIISUPP.VXD
+09/17/2003  04:29 PM            10,240 SIWinAcc.sys
+12/12/2003  10:23 AM            30,907 Si3112r.inf
+09/22/2003  12:46 PM            97,530 Si3112r.mpd
+09/22/2003  12:46 PM            97,530 Si3112r.sys
+12/12/2003  10:24 AM             5,088 TxtSetup.oem
+10/04/2002  10:58 AM            12,362 readme.txt
+12/15/2003  04:52 PM            15,013 si3112r.cat
+               9 File(s)        295,777 bytes
+
+ Directory of J:\DevDrv\SilRAID\Windows GUI
+
+10/10/13313  10:53 AM    <DIR>          .
+10/10/13313  10:53 AM    <DIR>          ..
+09/11/2003  01:55 PM         8,518,156 Java SATARaid_v-1.10.exe
+08/20/2003  10:59 AM         1,390,120 j2re-1_4_2-windows-i586-iftw.exe
+12/02/2003  02:02 PM               344 sil311X java gui readme.txt
+               3 File(s)      9,908,620 bytes
+
+ Directory of J:\DevDrv\USB2.0
+
+11/25/1619  06:54 AM    <DIR>          .
+11/25/1619  06:54 AM    <DIR>          ..
+06/17/2004  07:53 AM             1,354 ENote.txt
+06/24/2004  04:25 PM    <DIR>          Win2K
+               1 File(s)          1,354 bytes
+
+ Directory of J:\DevDrv\USB2.0\Win2K
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+08/07/2001  10:17 AM             6,093 INST2000.DLL
+06/24/2004  04:25 PM    <DIR>          MISC
+09/19/2003  12:41 PM            65,536 USB20.exe
+08/27/2002  02:46 PM            24,576 UnSiSUSB.exe
+06/24/2004  04:25 PM    <DIR>          WIN2K
+11/22/2001  09:30 AM            32,768 sis_lib.dll
+11/16/2001  12:24 PM             3,583 sisport.sys
+               5 File(s)        132,556 bytes
+
+ Directory of J:\DevDrv\USB2.0\Win2K\MISC
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+08/14/2003  03:23 AM            54,272 Patch_98.exe
+08/14/2003  03:26 AM            61,952 Patch_Me.exe
+               2 File(s)        116,224 bytes
+
+ Directory of J:\DevDrv\USB2.0\Win2K\WIN2K
+
+12/19/15315  02:51 PM    <DIR>          .
+12/19/15315  02:51 PM    <DIR>          ..
+04/18/2002  10:46 AM             6,416 HCCOIN.DLL
+04/23/2002  09:46 AM            19,216 USBEHCI.SYS
+04/18/2002  10:46 AM            49,392 USBHUB20.SYS
+04/23/2002  09:46 AM           135,920 USBPORT.SYS
+10/07/2002  08:21 PM             8,837 usb2.cat
+10/02/2002  07:13 PM             7,344 usb2.inf
+               6 File(s)        227,125 bytes
+
+ Directory of J:\DevDrv\VGA
+
+03/26/18685  06:56 AM    <DIR>          .
+03/26/18685  06:56 AM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          3.59_logo
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          AGPPack
+04/02/2003  10:56 AM             2,733 ReadMe.txt
+06/24/2004  04:28 PM    <DIR>          SETUPRES
+05/20/2004  10:34 AM             1,120 Setup.iss
+06/24/2004  04:28 PM    <DIR>          UtilRes
+06/24/2004  04:28 PM    <DIR>          Win98&ME
+06/24/2004  04:28 PM    <DIR>          WinXP&2K
+05/12/2004  03:30 PM         1,649,069 data1.cab
+05/12/2004  03:30 PM            39,996 data1.hdr
+05/12/2004  03:30 PM         3,233,343 data2.cab
+12/05/2002  01:16 PM           418,296 engine32.cab
+05/12/2004  03:30 PM               474 layout.bin
+05/12/2004  03:30 PM           405,649 setup.boot
+12/02/2002  02:33 PM           107,512 setup.exe
+05/20/2004  10:33 AM           108,021 setup.ini
+05/12/2004  03:30 PM           247,134 setup.inx
+06/24/2004  04:28 PM    <DIR>          setupDLL
+06/24/2004  04:28 PM    <DIR>          utilDLL
+              11 File(s)      6,213,347 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          AGP
+08/23/2002  01:16 PM               112 DATA.TAG
+10/31/2002  12:36 PM             3,700 README.TXT
+05/11/2004  03:17 PM             3,073 RelNote.txt
+01/22/1998  09:08 PM            60,416 SETUP.EXE
+05/07/2004  04:33 PM               201 SETUP.INI
+06/24/2004  04:28 PM    <DIR>          SISfiles
+06/24/2004  04:28 PM    <DIR>          USB
+01/22/1998  08:54 PM           290,733 _INST32I.EX_
+01/27/1998  01:07 PM             8,704 _ISDEL.EXE
+07/31/2002  10:16 AM         4,580,297 _sys1.cab
+07/31/2002  10:16 AM            75,421 _user1.cab
+07/31/2002  10:16 AM             2,085 data1.cab
+10/20/1997  09:20 AM             4,525 lang.dat
+07/31/2002  10:16 AM               353 layout.bin
+05/06/1997  01:15 PM               417 os.dat
+12/20/2002  01:04 PM                 8 setup-s.bat
+05/09/2003  04:09 PM            81,036 setup.ins
+05/13/2004  08:13 AM               352 setup.iss
+07/31/2002  10:16 AM               377 setup.lid
+06/24/2004  04:28 PM    <DIR>          setupdir
+              17 File(s)      5,111,810 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          AGPUtil
+06/24/2004  04:28 PM    <DIR>          current
+06/24/2004  04:28 PM    <DIR>          htpatch
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\AGPUtil
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+02/21/2003  09:38 AM           110,592 AGPutil.exe
+03/01/2002  11:14 PM             5,174 WINIO.VXD
+03/19/2002  08:29 AM            45,056 WinIo.dll
+04/09/2002  01:31 PM             3,072 WinIo.sys
+               4 File(s)        163,894 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\current
+
+06/14/13695  10:45 PM    <DIR>          .
+06/14/13695  10:45 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          WIN2000
+06/24/2004  04:28 PM    <DIR>          WIN98
+06/24/2004  04:28 PM    <DIR>          WINME
+06/24/2004  04:28 PM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\current\WIN2000
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,772 sisagp.cat
+07/18/2003  09:20 AM             2,509 sisagp.inf
+07/18/2003  09:06 AM            26,368 sisagpx.sys
+               3 File(s)         36,649 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\current\WIN98
+
+02/11/13736  02:43 AM    <DIR>          .
+02/11/13736  02:43 AM    <DIR>          ..
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:35 PM            10,544 sisagp.inf
+               3 File(s)         31,186 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\current\WINME
+
+05/07/2004  02:48 AM    <DIR>          .
+05/07/2004  02:48 AM    <DIR>          ..
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:34 PM            10,568 sisagp.inf
+               3 File(s)         31,210 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\current\WINXP
+
+05/07/2004  02:47 AM    <DIR>          .
+05/07/2004  02:47 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,768 sisagp.cat
+07/18/2003  09:20 AM             2,507 sisagp.inf
+07/18/2003  08:58 AM            36,992 sisagpx.sys
+               3 File(s)         47,267 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\AGP\htpatch
+
+06/21/1620  10:44 PM    <DIR>          .
+06/21/1620  10:44 PM    <DIR>          ..
+11/06/2002  02:08 PM            90,112 HTinst.exe
+03/27/2003  12:50 PM            28,672 HTpatch.exe
+11/06/2002  02:05 PM            90,112 HTuninst.exe
+03/19/2002  08:29 AM            45,056 WinIo.dll
+04/09/2002  01:31 PM             3,072 WinIo.sys
+               5 File(s)        257,024 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\SISfiles
+
+01/22/1621  06:46 PM    <DIR>          .
+01/22/1621  06:46 PM    <DIR>          ..
+10/31/2002  09:33 AM             7,168 AGPFunc.dll
+02/17/2003  02:20 PM             4,160 SISAGP98.dll
+08/20/2002  04:15 PM            28,672 ata133ap.exe
+08/24/2000  04:31 PM            30,208 instdrv.exe
+10/28/2002  01:58 PM           126,976 regmod.exe
+06/12/2002  09:14 AM           121,614 waitwnd.exe
+               6 File(s)        318,798 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\USB
+
+06/12/2002  06:53 PM    <DIR>          .
+06/12/2002  06:53 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          Win2K_XP
+06/24/2004  04:28 PM    <DIR>          Win9x
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\USB\Win2K_XP
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          WinXPUSB
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\USB\Win2K_XP\WinXPUSB
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+12/07/2001  09:11 AM             3,583 SISPORT.SYS
+01/02/2002  02:40 PM            32,768 SIS_LIB.DLL
+07/12/2002  05:15 PM           106,496 SiSUSBrg.exe
+               3 File(s)        142,847 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\USB\Win9x
+
+03/04/1752  10:44 PM    <DIR>          .
+03/04/1752  10:44 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          SiSFiles
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\USB\Win9x\SiSFiles
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+07/12/2002  05:15 PM           118,784 Mp_s3.exe
+06/14/2001  04:06 PM            24,240 Openhci.sys
+               2 File(s)        143,024 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          0003
+06/24/2004  04:28 PM    <DIR>          0005
+06/24/2004  04:28 PM    <DIR>          0006
+06/24/2004  04:28 PM    <DIR>          0007
+06/24/2004  04:28 PM    <DIR>          0008
+06/24/2004  04:28 PM    <DIR>          0009
+06/24/2004  04:28 PM    <DIR>          000a
+06/24/2004  04:28 PM    <DIR>          000b
+06/24/2004  04:28 PM    <DIR>          000e
+06/24/2004  04:28 PM    <DIR>          0010
+06/24/2004  04:28 PM    <DIR>          0011
+06/24/2004  04:28 PM    <DIR>          0012
+06/24/2004  04:28 PM    <DIR>          0013
+06/24/2004  04:28 PM    <DIR>          0014
+06/24/2004  04:28 PM    <DIR>          0015
+06/24/2004  04:28 PM    <DIR>          0019
+06/24/2004  04:28 PM    <DIR>          001b
+06/24/2004  04:28 PM    <DIR>          001d
+06/24/2004  04:28 PM    <DIR>          001e
+06/24/2004  04:28 PM    <DIR>          001f
+06/24/2004  04:28 PM    <DIR>          0021
+06/24/2004  04:28 PM    <DIR>          0024
+06/24/2004  04:28 PM    <DIR>          002d
+06/24/2004  04:28 PM    <DIR>          0404
+06/24/2004  04:28 PM    <DIR>          040c
+06/24/2004  04:28 PM    <DIR>          0416
+06/24/2004  04:28 PM    <DIR>          0804
+06/24/2004  04:28 PM    <DIR>          0816
+06/24/2004  04:28 PM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0003
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+02/02/1998  01:18 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0005
+
+07/09/21370  10:46 PM    <DIR>          .
+07/09/21370  10:46 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0006
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0007
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/27/1998  01:15 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0008
+
+01/27/1998  10:51 PM    <DIR>          .
+01/27/1998  10:51 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0009
+
+01/22/1998  10:50 PM    <DIR>          .
+01/22/1998  10:50 PM    <DIR>          ..
+01/23/1998  01:40 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\000a
+
+01/23/1998  10:49 PM    <DIR>          .
+01/23/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:08 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\000b
+
+02/01/3527  10:44 PM    <DIR>          .
+02/01/3527  10:44 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\000e
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/28/1998  04:50 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0010
+
+08/01/13586  10:45 PM    <DIR>          .
+08/01/13586  10:45 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0011
+
+01/22/1998  10:50 PM    <DIR>          .
+01/22/1998  10:50 PM    <DIR>          ..
+01/23/1998  11:49 AM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0012
+
+05/18/17475  10:46 PM    <DIR>          .
+05/18/17475  10:46 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0013
+
+01/23/1998  10:49 PM    <DIR>          .
+01/23/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0014
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0015
+
+01/22/1998  10:50 PM    <DIR>          .
+01/22/1998  10:50 PM    <DIR>          ..
+01/23/1998  01:24 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0019
+
+01/23/1998  10:48 PM    <DIR>          .
+01/23/1998  10:48 PM    <DIR>          ..
+01/23/1998  01:26 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\001b
+
+01/23/1998  10:50 PM    <DIR>          .
+01/23/1998  10:50 PM    <DIR>          ..
+01/23/1998  01:17 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\001d
+
+01/23/1998  10:48 PM    <DIR>          .
+01/23/1998  10:48 PM    <DIR>          ..
+01/27/1998  11:20 AM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\001e
+
+01/27/1998  10:50 PM    <DIR>          .
+01/27/1998  10:50 PM    <DIR>          ..
+01/23/1998  01:30 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\001f
+
+04/06/27689  10:47 PM    <DIR>          .
+04/06/27689  10:47 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0021
+
+07/06/30683  10:47 PM    <DIR>          .
+07/06/30683  10:47 PM    <DIR>          ..
+01/23/1998  01:31 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0024
+
+01/23/1998  10:48 PM    <DIR>          .
+01/23/1998  10:48 PM    <DIR>          ..
+01/23/1998  01:18 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\002d
+
+01/23/1998  10:49 PM    <DIR>          .
+01/23/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:05 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0404
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\040c
+
+01/23/1998  10:49 PM    <DIR>          .
+01/23/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0416
+
+01/22/1998  10:49 PM    <DIR>          .
+01/22/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0804
+
+01/22/1998  10:51 PM    <DIR>          .
+01/22/1998  10:51 PM    <DIR>          ..
+01/23/1998  01:32 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0816
+
+01/23/1998  10:49 PM    <DIR>          .
+01/23/1998  10:49 PM    <DIR>          ..
+01/22/1998  06:07 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\AGPPack\setupdir\0c0c
+
+01/22/1998  10:51 PM    <DIR>          .
+01/22/1998  10:51 PM    <DIR>          ..
+01/22/1998  06:06 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\SETUPRES
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+03/12/2001  01:04 PM           375,824 Setup.bmp
+03/06/2001  08:53 AM            62,542 Setup16.bmp
+08/22/2000  10:37 AM             6,960 title.bmp
+               3 File(s)        445,326 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes
+
+10/12/18795  02:51 PM    <DIR>          .
+10/12/18795  02:51 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          AGPinfo
+06/24/2004  04:28 PM    <DIR>          Gamma
+06/24/2004  04:28 PM    <DIR>          General
+06/24/2004  04:28 PM    <DIR>          ICO
+06/24/2004  04:28 PM    <DIR>          Info
+06/24/2004  04:28 PM    <DIR>          Manager
+06/24/2004  04:28 PM    <DIR>          OSD
+06/24/2004  04:28 PM    <DIR>          Sistray
+06/24/2004  04:28 PM    <DIR>          Video
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\AGPinfo
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+11/05/2002  12:45 PM               264 agp.lst
+11/08/2002  10:41 AM               766 agpinfo.ico
+11/05/2002  02:50 PM               234 nonagp.lst
+               3 File(s)          1,264 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\Gamma
+
+07/06/3922  06:47 PM    <DIR>          .
+07/06/3922  06:47 PM    <DIR>          ..
+03/12/2001  10:44 AM            87,416 gamma.bmp
+               1 File(s)         87,416 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\General
+
+03/12/2001  06:51 PM    <DIR>          .
+03/12/2001  06:51 PM    <DIR>          ..
+03/27/2002  01:44 PM           500,274 BK33x.BMP
+04/25/2002  03:47 PM           628,174 Bk31x.bmp
+03/12/2001  10:44 AM             4,578 logo.bmp
+03/12/2001  10:44 AM             1,918 logo4.BMP
+               4 File(s)      1,134,944 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\ICO
+
+03/12/2001  06:51 PM    <DIR>          .
+03/12/2001  06:51 PM    <DIR>          ..
+03/11/2002  02:44 PM               766 UNINS.ico
+06/22/2003  11:28 AM               766 XRotate.ico
+07/10/2003  04:41 PM             8,478 trayicon.ico
+               3 File(s)         10,010 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\Info
+
+07/10/2003  06:50 PM    <DIR>          .
+07/10/2003  06:50 PM    <DIR>          ..
+05/13/2004  03:11 PM            36,574 650.bmp
+05/13/2004  03:11 PM            36,574 651.bmp
+05/13/2004  03:11 PM            36,574 740.bmp
+05/13/2004  03:11 PM            36,574 mirage.bmp
+05/13/2004  03:11 PM            36,574 mirage1.bmp
+05/13/2004  03:11 PM            36,574 mirage2.bmp
+05/13/2004  03:11 PM            36,574 mirage3.bmp
+               7 File(s)        256,018 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\Manager
+
+05/13/2004  06:53 PM    <DIR>          .
+05/13/2004  06:53 PM    <DIR>          ..
+11/05/1999  04:17 PM           432,352 83D.AVI
+11/19/1999  04:33 PM           219,304 8DM.AVI
+11/05/1999  04:17 PM           120,312 8GAMMA.AVI
+11/05/1999  04:17 PM           210,144 8INFO.AVI
+11/05/1999  04:17 PM           204,240 8TV.AVI
+11/05/1999  04:17 PM           219,304 8TVLCD.AVI
+11/19/1999  04:33 PM           262,344 8VIDEO.AVI
+11/05/1999  04:17 PM            10,512 8X3D.AVI
+11/05/1999  04:17 PM             6,256 8XDM.AVI
+11/05/1999  04:17 PM             6,256 8XGAMMA.AVI
+11/05/1999  04:17 PM             6,288 8XINFO.AVI
+11/05/1999  04:17 PM             6,256 8XTV.AVI
+11/05/1999  04:17 PM             6,256 8XTVLCD.AVI
+11/05/1999  04:17 PM             6,528 8XVIDEO.AVI
+11/05/1999  04:17 PM         1,292,112 SIS3D.AVI
+11/05/1999  04:17 PM           651,312 SISDM.AVI
+11/05/1999  04:17 PM           330,912 SISGAMMA.AVI
+11/05/1999  04:17 PM           651,312 SISINFO.AVI
+11/05/1999  04:17 PM           260,192 SISTV.AVI
+11/05/1999  04:17 PM           651,312 SISTVLCD.AVI
+11/05/1999  04:17 PM           878,208 SISVIDEO.AVI
+11/05/1999  04:17 PM            10,512 X3D.AVI
+11/05/1999  04:17 PM            10,512 XDM.AVI
+11/05/1999  04:17 PM            10,512 XGAMMA.AVI
+11/05/1999  04:17 PM            10,464 XINFO.AVI
+11/05/1999  04:17 PM            10,512 XTV.AVI
+11/05/1999  04:17 PM            10,512 XTVLCD.AVI
+11/05/1999  04:17 PM            11,328 XVIDEO.AVI
+              28 File(s)      6,506,064 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\OSD
+
+11/05/1999  06:50 PM    <DIR>          .
+11/05/1999  06:50 PM    <DIR>          ..
+03/16/2000  07:37 PM             2,814 darrow.bmp
+03/24/2000  10:09 AM             2,038 fail.bmp
+03/16/2000  07:28 PM             2,102 larrow.bmp
+03/21/2000  12:14 PM             2,102 osdbkgnd.bmp
+03/16/2000  07:29 PM             2,102 rarrow.bmp
+03/28/2000  11:54 AM             3,310 sbar.bmp
+03/16/2000  07:38 PM             2,814 uarrow.bmp
+               7 File(s)         17,282 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\Sistray
+
+03/16/2000  06:50 PM    <DIR>          .
+03/16/2000  06:50 PM    <DIR>          ..
+04/25/2002  03:56 PM             9,478 traylogo.bmp
+               1 File(s)          9,478 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\UtilRes\Video
+
+03/02/5814  06:47 PM    <DIR>          .
+03/02/5814  06:47 PM    <DIR>          ..
+03/12/2001  10:44 AM            97,256 overlay1.bmp
+               1 File(s)         97,256 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\Win98&ME
+
+09/19/1620  02:49 PM    <DIR>          .
+09/19/1620  02:49 PM    <DIR>          ..
+05/12/2004  03:20 PM            45,056 SiSBase.dll
+05/12/2004  03:21 PM           180,224 SiSInst.dll
+05/12/2004  03:21 PM           258,048 SiSParse.dll
+05/12/2004  08:42 AM            49,152 oemrom.bin
+05/12/2004  08:59 AM            65,632 sisdx.dll
+05/12/2004  09:04 AM           902,144 sisdx32.dll
+05/12/2004  09:16 AM         2,210,204 sisgl.dll
+11/27/2000  11:46 PM                 2 sisgr.cat
+05/12/2004  08:59 AM           516,272 sisgr.drv
+05/14/2004  06:49 PM            36,736 sisgr.inf
+05/12/2004  08:59 AM            95,442 sisgr.vxd
+              11 File(s)      4,358,912 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\WinXP&2K
+
+05/12/2004  02:54 PM    <DIR>          .
+05/12/2004  02:54 PM    <DIR>          ..
+05/13/2004  03:08 PM             7,168 InstFunc.dll
+05/12/2004  03:20 PM            45,056 SiSBase.dll
+05/12/2004  03:21 PM           180,224 SiSInst.dll
+05/12/2004  03:21 PM           258,048 SiSParse.dll
+05/12/2004  08:42 AM            49,152 sis650.bin
+05/12/2004  08:42 AM            49,152 sis660.bin
+05/12/2004  08:42 AM            49,152 sis740.bin
+11/26/2003  03:10 PM            65,536 sis741.bin
+11/26/2003  03:10 PM            65,536 sis760.bin
+05/12/2004  09:26 AM         1,864,425 sisgl.dll
+05/19/2004  02:34 PM            30,418 sisgr.cat
+05/14/2004  08:56 PM            34,893 sisgr.inf
+05/14/2004  05:26 PM           217,600 sisgrp.sys
+05/14/2004  05:34 PM           804,864 sisgrv.dll
+05/12/2004  09:28 AM            12,416 srvkp.sys
+              15 File(s)      3,733,640 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\setupDLL
+
+05/12/2004  02:54 PM    <DIR>          .
+05/12/2004  02:54 PM    <DIR>          ..
+08/24/2000  04:31 PM            30,208 Instdrv.exe
+04/25/2002  08:42 PM           316,416 IsUninst.exe
+05/12/2004  03:22 PM           208,896 Progress.exe
+05/12/2004  03:22 PM            94,208 waitwnd.exe
+               4 File(s)        649,728 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\utilDLL
+
+07/05/13107  02:50 PM    <DIR>          .
+07/05/13107  02:50 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          9xBin
+04/08/2004  02:22 PM            20,480 LCDMode.exe
+05/13/2004  04:09 PM           176,128 SiSApCom.dll
+05/12/2004  03:25 PM            73,728 SiSCom.dll
+05/29/2003  03:54 PM                94 SiSCom.ini
+05/12/2004  03:25 PM             6,144 SiSCom.sys
+05/12/2004  03:25 PM           106,496 TVMode.dll
+06/24/2004  04:28 PM    <DIR>          ntBin
+06/13/2003  04:09 AM           118,784 sislib.dll
+12/12/2002  10:43 AM             1,663 sislib.ini
+05/12/2004  08:59 AM            30,928 sisvb.dll
+               9 File(s)        534,445 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\utilDLL\9xBin
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  04:28 PM    <DIR>          315
+06/24/2004  04:28 PM    <DIR>          Xabre
+               0 File(s)              0 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\utilDLL\9xBin\315
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/29/2002  01:20 PM            65,536 oemrom.bin
+               1 File(s)         65,536 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\utilDLL\9xBin\Xabre
+
+12/18/6484  10:44 PM    <DIR>          .
+12/18/6484  10:44 PM    <DIR>          ..
+05/12/2004  08:42 AM            65,536 oemrom.bin
+               1 File(s)         65,536 bytes
+
+ Directory of J:\DevDrv\VGA\3.59_logo\utilDLL\ntBin
+
+01/22/1621  06:46 PM    <DIR>          .
+01/22/1621  06:46 PM    <DIR>          ..
+07/29/2002  01:20 PM            65,536 sis315.bin
+05/12/2004  08:42 AM            65,536 xabre.bin
+               2 File(s)        131,072 bytes
+
+ Directory of J:\DirectX
+
+10/26/1617  02:57 AM    <DIR>          .
+10/26/1617  02:57 AM    <DIR>          ..
+10/21/2003  08:21 AM        36,775,008 dx90b_redist.exe
+               1 File(s)     36,775,008 bytes
+
+ Directory of J:\DirectX\dx90update_redist
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\DirectX\dx90update_redist\DirectX9
+
+01/02/1601  10:52 AM    <DIR>          .
+01/02/1601  10:52 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\DirectX\dx90update_redist\License
+
+01/02/1601  10:52 AM    <DIR>          .
+01/02/1601  10:52 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          English
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\EXERUN
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English
+
+01/16/1601  06:54 AM    <DIR>          .
+01/16/1601  06:54 AM    <DIR>          ..
+09/07/2003  06:51 AM               125 AUTORUN.INF
+09/07/2003  06:36 AM           234,680 CDSTART.EXE
+07/22/2003  01:04 AM            26,934 GNULICNS.TXT
+06/24/2004  09:32 AM    <DIR>          MANUAL
+06/24/2004  09:32 AM    <DIR>          NAV
+09/04/2003  12:13 AM            16,023 README.TXT
+06/24/2004  09:33 AM    <DIR>          SETUP
+06/24/2004  09:33 AM    <DIR>          SUPPORT
+09/07/2003  06:36 AM         1,733,816 SYMSETUP.EXE
+06/24/2004  09:34 AM    <DIR>          VIRUSDEF
+               5 File(s)      2,011,578 bytes
+
+ Directory of J:\Norton\English\MANUAL
+
+01/16/1601  10:52 AM    <DIR>          .
+01/16/1601  10:52 AM    <DIR>          ..
+05/30/2003  12:34 AM         9,115,704 ADBERDR6.EXE
+08/19/2003  03:58 AM         2,558,952 NIS.PDF
+               2 File(s)     11,674,656 bytes
+
+ Directory of J:\Norton\English\NAV
+
+06/13/30328  10:55 AM    <DIR>          .
+06/13/30328  10:55 AM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          EXTERNAL
+11/15/2002  02:30 AM           616,128 IAMAPP.DLL
+09/07/2003  06:52 AM             5,236 INSTOPTS.DAT
+08/18/2003  02:03 PM         2,580,480 NAV.MSI
+08/18/2003  06:34 AM           119,976 OMIGRATE.EXE
+09/07/2003  06:44 AM           404,992 PARENT.MSI
+08/02/2001  05:01 PM           557,129 SWPLUGIN.DLL
+08/02/2001  05:15 PM            36,864 UPSWPLUG.EXE
+08/18/2003  01:20 AM               114 VERSION.DAT
+               8 File(s)      4,320,919 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMONFI
+06/24/2004  09:32 AM    <DIR>          NORTON
+06/24/2004  09:32 AM    <DIR>          SYMANTEC
+06/24/2004  09:32 AM    <DIR>          SYSTEM32
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\COMMONFI
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\COMMONFI\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/16/2003  01:24 AM           107,712 ACTRES.DLL
+06/24/2004  09:33 AM    <DIR>          CCPD-LC
+08/16/2003  01:24 AM           124,096 CFGWIZ.EXE
+08/16/2003  01:08 AM             3,832 CFGWIZ.TLB
+08/16/2003  01:24 AM           140,480 DJSALERT.DLL
+08/16/2003  01:24 AM            54,464 DJSNETCN.EXE
+08/16/2003  01:24 AM           181,440 DRWEBWND.DLL
+06/24/2004  09:33 AM    <DIR>          HELP
+08/16/2003  01:23 AM            22,720 LRSEND.EXE
+07/17/2003  06:50 AM            50,376 SMNLNCH.EXE
+08/16/2003  01:24 AM            42,688 SSAUTORN.EXE
+08/16/2003  01:23 AM            99,520 SYMLCUI.DLL
+08/16/2003  01:24 AM           160,960 SYMLTCHK.DLL
+08/16/2003  01:24 AM            70,848 SYMLTCOM.DLL
+08/16/2003  01:24 AM           304,320 SYMUIAX.OCX
+08/16/2003  01:24 AM           869,568 SYMUIHLP.DLL
+08/16/2003  01:24 AM           726,208 SYMUISS.DLL
+              15 File(s)      2,959,232 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\COMMONFI\SYMSHARE\CCPD-LC
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+08/16/2003  01:03 AM           245,408 UNICOWS.DLL
+               1 File(s)        245,408 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\COMMONFI\SYMSHARE\HELP
+
+08/16/2003  02:45 AM    <DIR>          .
+08/16/2003  02:45 AM    <DIR>          ..
+08/02/2003  01:18 AM            14,082 ADP_FEAT.CHM
+07/22/2003  12:36 AM            13,732 BASICS.CHM
+08/15/2003  02:50 PM             8,192 BASICS.DLL
+08/16/2003  01:03 AM            14,110 CPDDRM00.CHM
+08/16/2003  01:03 AM                 0 CPDDRM00.CHW
+08/16/2003  01:03 AM            15,670 CPDDRM01.CHM
+08/16/2003  01:03 AM                 0 CPDDRM01.CHW
+08/16/2003  01:03 AM            13,900 CPDDRM02.CHM
+08/16/2003  01:03 AM                 0 CPDDRM02.CHW
+08/16/2003  01:03 AM            13,984 CPDDRM03.CHM
+08/16/2003  01:03 AM                 0 CPDDRM03.CHW
+07/22/2003  02:45 AM            13,354 DISABLE.CHM
+08/15/2003  02:50 PM             8,192 DISABLE.DLL
+07/22/2003  12:45 AM            15,690 EDISK.CHM
+08/15/2003  02:50 PM             8,192 EDISK.DLL
+07/22/2003  12:45 AM            14,098 EMERG.CHM
+08/15/2003  02:51 PM             8,192 EMERG.DLL
+08/13/2003  04:57 AM            16,202 FAQ.CHM
+08/15/2003  02:51 PM             8,192 FAQ.DLL
+07/22/2003  12:43 AM            13,431 FEAT_SUM.CHM
+08/15/2003  02:51 PM             8,192 FEAT_SUM.DLL
+07/22/2003  02:45 AM            13,266 GETSTART.CHM
+08/15/2003  02:51 PM             8,192 GETSTART.DLL
+07/22/2003  12:41 AM            22,464 LU_PC.CHM
+08/15/2003  02:51 PM             8,192 LU_PC.DLL
+07/24/2003  12:01 AM            13,909 LU_SUB.CHM
+08/15/2003  02:51 PM             8,192 LU_SUB.DLL
+07/22/2003  02:45 AM            13,090 MONITOR.CHM
+08/15/2003  02:51 PM             8,192 MONITOR.DLL
+08/01/2003  12:04 AM            17,430 NAV_ACC.CHM
+07/25/2003  02:07 AM            18,848 NAV_C_SB.CHM
+07/25/2003  02:26 AM            15,462 NAV_DIS.CHM
+07/24/2003  06:26 AM            14,637 NAV_EMRG.CHM
+07/24/2003  06:28 AM            15,005 NAV_EMSS.CHM
+07/24/2003  06:45 AM            22,906 NAV_FAQ.CHM
+07/24/2003  06:30 AM            17,048 NAV_FEAT.CHM
+07/24/2003  06:36 AM            16,305 NAV_MON.CHM
+08/13/2003  04:37 PM            52,428 NAV_OPTS.CHM
+08/04/2003  05:35 PM            16,425 NAV_PVNT.CHM
+07/24/2003  06:34 AM            15,411 NAV_TASK.CHM
+07/25/2003  02:09 AM            14,811 NAV_UNIN.CHM
+07/22/2003  12:42 AM            13,458 OPTIONS.CHM
+08/15/2003  02:51 PM             8,192 OPTIONS.DLL
+08/04/2003  05:59 PM            59,536 PROTECT.CHM
+07/19/2003  06:19 AM            23,737 RESCUE.CHM
+07/19/2003  06:19 AM            17,697 RES_FAQ.CHM
+07/22/2003  01:00 AM            17,907 SUPT_CPD.CHM
+08/15/2003  02:51 PM             8,192 SUPT_CPD.DLL
+08/15/2003  02:50 PM            34,354 SYMHELP.CHM
+08/15/2003  02:51 PM             8,192 SYMHELP.DLL
+07/22/2003  02:45 AM            13,074 UNIN.CHM
+08/15/2003  02:51 PM             8,192 UNIN.DLL
+07/24/2003  12:04 AM            15,673 V_AUTOLU.CHM
+08/04/2003  02:18 PM            40,234 V_FOUND.CHM
+              54 File(s)        808,056 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\NORTON
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+08/16/2003  01:09 AM           163,840 ACTLANG.DLL
+06/24/2004  09:32 AM    <DIR>          APP
+08/18/2003  06:29 AM            73,728 AVSTE.DLL
+08/18/2003  06:33 AM           103,592 BOOTWARN.EXE
+05/30/2002  12:53 AM                90 BRANDING.INI
+04/21/2003  06:02 AM                 0 NAVAPW32.EXE
+08/18/2003  06:35 AM           214,184 NAVOPTRF.DLL
+08/18/2003  06:34 AM           550,056 NAVUIRES.DLL
+               7 File(s)      1,105,490 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\NORTON\APP
+
+01/15/1601  10:44 PM    <DIR>          .
+01/15/1601  10:44 PM    <DIR>          ..
+08/18/2003  06:33 AM           156,840 ABOUTPLG.DLL
+08/18/2003  06:34 AM           746,664 APWCMD9X.DLL
+08/18/2003  06:34 AM           275,624 APWCMDNT.DLL
+08/18/2003  06:34 AM            36,008 APWUTIL.DLL
+08/15/2003  03:00 PM           103,584 CCIMSCAN.DLL
+08/15/2003  02:59 PM            74,912 CCIMSCAN.EXE
+07/20/2003  04:15 AM             1,372 CFGWIZ.DAT
+08/18/2003  06:33 AM           492,712 CFGWZRES.DLL
+01/23/2001  02:20 AM             3,971 COUNTRY.DAT
+08/18/2003  06:33 AM           185,512 DEFALERT.DLL
+07/31/2003  03:11 AM            12,223 END_USER.TXT
+03/19/1988  08:00 PM            24,576 LSUTILS.DLL
+08/15/2003  03:03 PM            62,624 N32CALL.DLL
+08/18/2003  06:34 AM            35,496 N32EXCLU.DLL
+08/10/2003  02:26 PM           120,088 NAVAP32.DLL
+08/18/2003  06:34 AM            79,016 NAVAPSCR.DLL
+08/18/2003  06:34 AM           158,376 NAVAPSVC.EXE
+08/18/2003  06:34 AM           132,264 NAVAPW32.DLL
+08/18/2003  06:34 AM           107,688 NAVCFGWZ.DLL
+08/18/2003  06:34 AM           582,824 NAVCOMUI.DLL
+07/27/2002  02:13 AM            11,447 NAVDX.EXE
+07/27/2002  02:13 AM           676,588 NAVDX.OVL
+08/15/2003  03:00 PM            58,528 NAVEMAIL.DLL
+08/18/2003  06:34 AM            83,112 NAVERROR.DLL
+08/18/2003  06:34 AM           255,144 NAVEVENT.DLL
+08/18/2003  06:34 AM            44,712 NAVINOC.DLL
+08/03/2002  02:48 AM             6,917 NAVKRNLO.VXD
+08/18/2003  06:34 AM           218,280 NAVLCOM.DLL
+08/18/2003  06:34 AM            74,920 NAVLNCH.DLL
+08/18/2003  06:34 AM           140,456 NAVLOGV.DLL
+08/18/2003  06:34 AM         1,049,768 NAVLUCBK.DLL
+08/18/2003  06:34 AM            50,344 NAVNTUTL.DLL
+08/02/2003  04:19 AM             6,148 NAVOPTS.DAT
+08/18/2003  06:34 AM           885,928 NAVOPTS.DLL
+08/18/2003  06:33 AM            46,248 NAVPROD.DLL
+08/18/2003  04:22 AM           148,680 NAVRESC.DLL
+08/13/2003  01:45 AM             1,423 NAVSESS.TPL
+06/02/2001  04:59 AM                 0 NAVSESS.TXT
+08/18/2003  06:34 AM           103,592 NAVSHEXT.DLL
+01/23/2001  02:25 AM               447 NAVSTART.DAT
+08/18/2003  06:34 AM           119,976 NAVSTATS.DLL
+08/18/2003  06:34 AM            42,664 NAVSTUB.EXE
+08/18/2003  06:34 AM           136,360 NAVTASKS.DLL
+08/18/2003  06:34 AM           226,472 NAVTSKWZ.DLL
+08/18/2003  06:34 AM           177,320 NAVUI.DLL
+03/08/2002  12:57 AM                16 NAVUI.NSI
+08/18/2003  06:34 AM            87,208 NAVW32.EXE
+08/18/2003  06:34 AM            34,472 NAVWNT.EXE
+08/15/2003  03:03 PM            50,848 NETBREXT.DLL
+08/15/2003  03:00 PM           591,008 OEHEUR.DLL
+08/15/2003  03:00 PM            66,720 OFFICEAV.DLL
+08/15/2003  03:00 PM            66,720 OPSCAN.EXE
+07/12/2003  01:17 AM            76,800 PATCH32I.DLL
+08/18/2003  06:34 AM            44,712 QCONRES.DLL
+08/18/2003  06:34 AM           754,856 QCONSOLE.EXE
+08/18/2003  06:34 AM            23,208 QSPAK32.DLL
+08/18/2003  06:34 AM            66,728 QUAR32.DLL
+03/19/1988  09:00 PM               612 QUAROPTS.DAT
+08/18/2003  04:07 AM            10,457 README.TXT
+06/07/2001  05:09 AM                 0 RESQLOC.DAT
+08/15/2003  03:03 PM            84,640 S32INTEG.DLL
+08/15/2003  03:03 PM           473,760 S32NAVO.DLL
+08/16/2003  12:35 AM             7,145 SAVRT.CAT
+08/05/2003  03:32 AM             5,996 SAVRT.DAT
+08/15/2003  06:02 AM               617 SAVRT.INF
+08/07/2003  06:02 AM           300,736 SAVRT.SYS
+08/10/2003  02:18 PM           281,488 SAVRT.VXD
+08/10/2003  02:26 PM           222,488 SAVRT32.DLL
+08/16/2003  12:35 AM             7,151 SAVRTPEL.CAT
+08/15/2003  06:11 AM               633 SAVRTPEL.INF
+08/07/2003  06:02 AM            35,008 SAVRTPEL.SYS
+08/10/2003  02:18 PM            23,923 SAVRTPEL.VXD
+08/10/2003  02:26 PM           193,816 SAVSCAN.EXE
+02/14/2001  09:00 PM               462 SCANCFG.DAT
+08/18/2003  06:34 AM           115,880 SCANDLVR.DLL
+08/18/2003  06:34 AM           337,064 SCANDRES.DLL
+08/18/2003  06:34 AM           140,456 SCANMGR.DLL
+08/18/2003  06:34 AM           271,528 SCRIPTUI.DLL
+08/18/2003  06:34 AM           103,592 SDPCK32I.DLL
+08/18/2003  06:34 AM            12,968 SDSND32I.DLL
+08/18/2003  06:34 AM            12,968 SDSOK32I.DLL
+08/18/2003  06:34 AM            54,440 SDSTP32I.DLL
+08/03/2002  02:41 AM           343,504 SYMNAVO.DLL
+03/07/2003  03:37 AM                76 THREXCL.DAT
+03/07/2003  03:37 AM                76 THRLEXCL.DAT
+08/03/2002  02:41 AM             5,696 TKNV16O.DLL
+08/03/2002  02:40 AM            19,456 TKNV32O.DLL
+07/27/2002  02:13 AM            44,955 UNDOBOOT.EXE
+08/18/2003  01:20 AM               114 VERSION.DAT
+01/23/2001  02:35 AM                10 VIRSCAN6.INI
+06/24/2004  09:33 AM    <DIR>          WIN98NT
+06/24/2004  09:33 AM    <DIR>          WINME
+06/24/2004  09:33 AM    <DIR>          WINXP
+              90 File(s)     12,932,859 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\NORTON\APP\WIN98NT
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+08/04/2002  01:52 AM                76 EXCLUDE.DAT
+06/21/2001  06:21 AM                76 EXCLUDEL.DAT
+08/05/2003  03:32 AM                76 SRTLEXCL.DAT
+08/05/2003  03:32 AM                76 SRTSEXCL.DAT
+               4 File(s)            304 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\NORTON\APP\WINME
+
+08/05/2003  02:45 AM    <DIR>          .
+08/05/2003  02:45 AM    <DIR>          ..
+08/04/2002  01:53 AM               276 EXCLUDE.DAT
+06/13/2001  01:57 AM                76 EXCLUDEL.DAT
+08/05/2003  03:32 AM                76 SRTLEXCL.DAT
+08/05/2003  03:32 AM               276 SRTSEXCL.DAT
+               4 File(s)            704 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\NORTON\APP\WINXP
+
+08/05/2003  02:45 AM    <DIR>          .
+08/05/2003  02:45 AM    <DIR>          ..
+08/04/2002  01:54 AM                76 EXCLUDE.DAT
+08/02/2001  04:17 AM               388 EXCLUDEL.DAT
+08/05/2003  03:32 AM               388 SRTLEXCL.DAT
+08/05/2003  03:32 AM                76 SRTSEXCL.DAT
+               4 File(s)            928 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\SYMANTEC
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+06/24/2004  09:32 AM    <DIR>          NORTON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\SYMANTEC\NORTON
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/02/2003  02:49 PM               172 ALERT.DAT
+06/24/2004  09:32 AM    <DIR>          TASKS
+               1 File(s)            172 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\SYMANTEC\NORTON\TASKS
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+05/12/2001  04:48 AM               420 DRIVES.SCA
+05/12/2001  04:48 AM               420 FILES.SCA
+06/14/2001  05:38 AM               428 FLOPPY.SCA
+05/12/2001  04:48 AM               420 FOLDERS.SCA
+05/12/2001  12:28 AM               428 MYCOMP.SCA
+05/12/2001  04:49 AM               436 REM.SCA
+               6 File(s)          2,552 bytes
+
+ Directory of J:\Norton\English\NAV\EXTERNAL\SYSTEM32
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+08/10/2003  02:26 PM            39,392 SAVRTGUI.DLL
+08/16/2003  01:03 AM           245,408 UNICOWS.DLL
+               2 File(s)        284,800 bytes
+
+ Directory of J:\Norton\English\SETUP
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ADBLCK
+09/02/2003  06:04 AM         1,220,608 ADBLCK.MSI
+06/24/2004  09:33 AM    <DIR>          ASCORE
+09/02/2003  06:01 AM         1,241,088 ASCORE.MSI
+10/18/2002  01:13 AM            34,456 CPDOEM.DLL
+06/24/2004  09:33 AM    <DIR>          FIREWALL
+09/07/2003  06:40 AM         1,049,088 FIREWALL.MSI
+06/24/2004  09:33 AM    <DIR>          HELP
+09/07/2003  06:44 AM           199,680 HELP.MSI
+09/07/2003  12:39 AM             5,236 INSTOPTS.DAT
+06/24/2004  09:33 AM    <DIR>          ISCOMMON
+09/07/2003  06:39 AM         1,618,432 ISCOMMON.MSI
+09/07/2003  06:19 AM                64 NISVER.DAT
+09/07/2003  06:43 AM           192,000 OEM.MSI
+06/24/2004  09:33 AM    <DIR>          PCONTROL
+09/07/2003  06:41 AM         1,229,824 PCONTROL.MSI
+06/24/2004  09:33 AM    <DIR>          PRIVACY
+09/07/2003  06:40 AM         1,015,296 PRIVACY.MSI
+06/24/2004  09:33 AM    <DIR>          SETUP
+09/07/2003  06:41 AM         1,294,336 SETUP.MSI
+06/24/2004  09:33 AM    <DIR>          SYMLT
+09/07/2003  06:39 AM           287,744 SYMLT.MSI
+              13 File(s)      9,387,852 bytes
+
+ Directory of J:\Norton\English\SETUP\ADBLCK
+
+01/15/1601  02:49 PM    <DIR>          .
+01/15/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ADBLCK\COMMON
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ADBLCK\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ADBLCK
+06/24/2004  09:33 AM    <DIR>          HELP
+09/02/2003  05:15 AM            95,392 PFADBLK.DLL
+               1 File(s)         95,392 bytes
+
+ Directory of J:\Norton\English\SETUP\ADBLCK\COMMON\SYMSHARE\ADBLCK
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+09/02/2003  05:55 AM           180,293 ADDEF.DAT
+09/02/2003  05:56 AM           218,272 ADTRASH.EXE
+09/02/2003  05:57 AM           144,552 FREADBLK.DLL
+09/02/2003  05:57 AM           304,304 SYMAD.DLL
+09/02/2003  05:57 AM           169,128 SYMWBOPT.DLL
+               5 File(s)      1,016,549 bytes
+
+ Directory of J:\Norton\English\SETUP\ADBLCK\COMMON\SYMSHARE\HELP
+
+08/27/29207  02:45 AM    <DIR>          .
+08/27/29207  02:45 AM    <DIR>          ..
+09/02/2003  05:37 AM            15,730 AB_FAQ.CHM
+09/02/2003  05:37 AM            24,514 AD_BLOCK.CHM
+08/12/2003  12:35 AM            16,244 AD_TASK.CHM
+               3 File(s)         56,488 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMON
+06/24/2004  09:33 AM    <DIR>          SYSTEM32
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE\COMMON
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ANTISPAM
+06/24/2004  09:33 AM    <DIR>          HELP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE\COMMON\SYMSHARE\ANTISPAM
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/02/2003  05:56 AM           156,872 ASENGBAY.DLL
+09/02/2003  05:56 AM            58,568 ASENGBWL.DLL
+09/02/2003  05:56 AM            79,040 ASENGUR.DLL
+09/02/2003  05:56 AM           206,008 ASFILTER.DLL
+09/02/2003  05:56 AM            43,688 ASLOADER.DLL
+09/02/2003  05:56 AM            83,136 ASLOGHLP.DLL
+09/02/2003  05:56 AM           107,728 ASLUCBK.DLL
+09/02/2003  05:56 AM           197,800 ASOEHOOK.DLL
+09/02/2003  05:56 AM            38,568 ASOELNCH.EXE
+09/02/2003  05:57 AM           160,952 ASSPMEVT.DLL
+09/02/2003  05:57 AM           140,456 ASSPMLOG.DLL
+09/02/2003  05:56 AM            95,416 ASUNIPLG.DLL
+09/02/2003  05:57 AM           103,608 EUDOPLUG.DLL
+09/02/2003  05:57 AM           222,376 FRESPAM.DLL
+09/02/2003  05:57 AM           242,888 MSOUPLUG.DLL
+09/02/2003  05:57 AM            79,024 RULEWIZ.EXE
+09/02/2003  05:57 AM           722,088 SYMSPAM.DLL
+              17 File(s)      2,738,216 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE\COMMON\SYMSHARE\HELP
+
+06/14/28935  02:45 AM    <DIR>          .
+06/14/28935  02:45 AM    <DIR>          ..
+09/02/2003  05:37 AM            13,234 NAS_DIS.CHM
+09/02/2003  05:37 AM            20,115 NAS_FAQ.CHM
+09/02/2003  05:37 AM            18,131 NAS_TASK.CHM
+               3 File(s)         51,480 bytes
+
+ Directory of J:\Norton\English\SETUP\ASCORE\SYSTEM32
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+09/02/2003  05:37 AM           246,424 UNICOWS.DLL
+               1 File(s)        246,424 bytes
+
+ Directory of J:\Norton\English\SETUP\FIREWALL
+
+06/20/1625  02:49 PM    <DIR>          .
+06/20/1625  02:49 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\FIREWALL\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/06/2003  02:21 PM           115,872 CCALE.DLL
+09/06/2003  02:21 PM           115,872 CCFWRULS.DLL
+09/06/2003  02:21 PM           337,056 CCFWSETG.DLL
+09/06/2003  02:21 PM           238,752 CCRULEIO.DLL
+09/07/2003  06:36 AM           165,048 FRERULES.DLL
+09/07/2003  06:36 AM           234,680 FRESETTG.DLL
+09/07/2003  06:36 AM           152,760 HNETCORE.DLL
+09/07/2003  06:36 AM           124,088 HNETWIZ.EXE
+09/06/2003  02:21 PM           103,584 PPROFILE.DLL
+09/07/2003  06:33 AM            38,713 TLDATA.DAT
+09/07/2003  06:33 AM            64,098 TLDATA2.DAT
+              11 File(s)      1,690,523 bytes
+
+ Directory of J:\Norton\English\SETUP\HELP
+
+09/19/1620  02:49 PM    <DIR>          .
+09/19/1620  02:49 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\HELP\COMMON
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\HELP\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          HELP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\HELP\COMMON\SYMSHARE\HELP
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/06/2003  02:00 PM            13,732 BASICS.CHM
+09/06/2003  02:00 PM             8,192 BASICS.DLL
+09/06/2003  02:00 PM            13,354 DISABLE.CHM
+09/06/2003  02:00 PM             8,192 DISABLE.DLL
+09/06/2003  02:00 PM            16,202 FAQ.CHM
+09/06/2003  02:00 PM             8,192 FAQ.DLL
+09/06/2003  02:00 PM            13,431 FEAT_SUM.CHM
+09/06/2003  02:00 PM             8,192 FEAT_SUM.DLL
+08/19/2003  03:38 AM            62,420 FIREWALL.CHM
+09/06/2003  02:00 PM            13,266 GETSTART.CHM
+09/06/2003  02:00 PM             8,192 GETSTART.DLL
+09/06/2003  02:00 PM            21,379 LU_PC.CHM
+09/06/2003  02:00 PM             8,192 LU_PC.DLL
+09/06/2003  02:00 PM            13,090 MONITOR.CHM
+09/06/2003  02:00 PM             8,192 MONITOR.DLL
+08/13/2003  03:43 AM            31,735 NIS_FAQ.CHM
+08/13/2003  03:15 AM            16,650 NIS_FEAT.CHM
+09/06/2003  02:00 PM            13,330 OPTIONS.CHM
+09/06/2003  02:01 PM             8,192 OPTIONS.DLL
+09/06/2003  02:00 PM            35,582 SYMHELP.CHM
+09/06/2003  02:01 PM             8,192 SYMHELP.DLL
+09/06/2003  02:00 PM            13,074 UNIN.CHM
+09/06/2003  02:01 PM             8,192 UNIN.DLL
+              23 File(s)        359,165 bytes
+
+ Directory of J:\Norton\English\SETUP\ISCOMMON
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ISCOMMON\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/06/2003  02:20 PM           287,904 ACDISP.DLL
+09/07/2003  06:36 AM           287,928 ALERTAST.EXE
+09/07/2003  06:28 AM             1,832 ALERTAST.TLB
+09/06/2003  02:20 PM            58,528 ALESCAN.EXE
+09/02/2003  05:57 AM           398,504 FREINTEG.DLL
+09/06/2003  02:21 PM           353,440 FWUI.DLL
+09/06/2003  02:20 PM           136,352 IAMSTATS.EXE
+09/07/2003  06:36 AM           148,664 ISLALERT.DLL
+09/07/2003  06:36 AM           136,376 LOCWIZ.DLL
+09/06/2003  02:20 PM            95,392 LOGEXPRT.EXE
+09/03/2003  02:37 AM             6,110 LOGEXPRT.TXT
+09/07/2003  06:36 AM           128,184 NISABOUT.DLL
+09/06/2003  02:21 PM           713,888 NISALERT.DLL
+09/07/2003  06:36 AM           242,872 NISCMNHT.DLL
+09/07/2003  06:36 AM           189,624 NISLUCBK.DLL
+09/07/2003  06:36 AM           103,608 NISLVPLG.DLL
+09/07/2003  06:36 AM           287,928 SNLOG.DLL
+09/06/2003  02:21 PM           623,776 SYMFWAGT.DLL
+09/06/2003  02:21 PM            53,920 TLEVEL.DLL
+09/07/2003  06:36 AM           259,256 WRAPUM.DLL
+              20 File(s)      4,514,086 bytes
+
+ Directory of J:\Norton\English\SETUP\ISCOMMON\COMMON
+
+09/07/2003  06:52 PM    <DIR>          .
+09/07/2003  06:52 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ISCOMMON\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ADBLCK
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\ISCOMMON\COMMON\SYMSHARE\ADBLCK
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/07/2003  06:31 AM           126,976 NISSHEXT.DLL
+09/07/2003  06:36 AM           169,144 NSMDTR.EXE
+               2 File(s)        296,120 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+06/24/2004  09:33 AM    <DIR>          COMMON
+06/24/2004  09:33 AM    <DIR>          SYMANTEC
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/07/2003  06:36 AM           165,048 FREPCTRL.DLL
+09/07/2003  06:36 AM           246,968 PCWIZ.DLL
+09/07/2003  06:36 AM            70,840 PCWIZ.EXE
+09/07/2003  06:36 AM           271,544 SYMURL.DLL
+09/07/2003  06:36 AM            70,840 URLLSTCK.EXE
+09/07/2003  06:36 AM           132,280 URLUPDAT.EXE
+               6 File(s)        957,520 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL\COMMON
+
+09/07/2003  06:52 PM    <DIR>          .
+09/07/2003  06:52 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+09/06/2003  02:21 PM            28,320 PFRES.DLL
+09/06/2003  02:21 PM            21,664 PXYIM.DLL
+09/06/2003  02:21 PM            37,024 PXYNNTP.DLL
+               3 File(s)         87,008 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL\SYMANTEC
+
+06/21/1620  06:46 PM    <DIR>          .
+06/21/1620  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\PCONTROL\SYMANTEC\APP
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/20/2003  03:28 AM            15,004 CATS.DAT
+12/18/1999  12:36 AM                84 CUSTOMB
+12/18/1999  12:36 AM                43 CUSTOMP
+               3 File(s)         15,131 bytes
+
+ Directory of J:\Norton\English\SETUP\PRIVACY
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\PRIVACY\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/07/2003  06:36 AM           148,664 FREPRVCY.DLL
+09/07/2003  06:36 AM           156,856 NISEMAIL.DLL
+09/07/2003  06:36 AM           124,088 NISEMSVR.EXE
+               3 File(s)        429,608 bytes
+
+ Directory of J:\Norton\English\SETUP\PRIVACY\COMMON
+
+09/07/2003  06:51 PM    <DIR>          .
+09/07/2003  06:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\PRIVACY\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+09/06/2003  02:21 PM            34,976 PFMISC.DLL
+09/06/2003  02:21 PM            99,488 PFPRIV.DLL
+09/06/2003  02:21 PM            50,336 PFSEC.DLL
+09/06/2003  02:21 PM            21,664 PXYIM.DLL
+               4 File(s)        206,464 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\APP\APP
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/21/2003  03:55 AM           136,384 ACTLANG.DLL
+07/24/2002  11:50 PM               158 BRANDING.INI
+08/09/2003  04:08 AM               460 CFGWIZ.DAT
+09/07/2003  06:36 AM           566,456 CFGWZRES.DLL
+07/02/2003  01:21 AM                 0 COMMS.TXT
+07/22/2003  01:04 AM            26,934 GNULICNS.TXT
+09/07/2003  06:37 AM           210,104 ISSTE.DLL
+09/07/2003  06:36 AM           115,896 NISCFGWZ.DLL
+09/07/2003  06:33 AM           231,477 NISDEF.DAT
+09/07/2003  06:36 AM           300,216 NISOPTS.DLL
+09/07/2003  06:36 AM         1,266,872 NISPLUG.DLL
+05/27/2000  03:13 AM                16 NISPLUG.NSI
+09/07/2003  06:36 AM           177,336 NISPROD.DLL
+09/07/2003  06:36 AM           304,312 NISRES.DLL
+08/19/2003  01:49 AM             1,715 NISSESS.TPL
+09/07/2003  06:19 AM                64 NISVER.DAT
+09/04/2003  12:13 AM            16,023 README.TXT
+09/07/2003  06:36 AM           263,352 RLEVEL.DLL
+08/23/2003  02:13 AM            17,311 RLSNOTES.TXT
+09/04/2003  12:18 AM             1,972 TECHINFO.TXT
+              20 File(s)      3,637,058 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\COMMON
+
+09/19/1620  06:46 PM    <DIR>          .
+09/19/1620  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ADBLCK
+06/24/2004  09:33 AM    <DIR>          ANTISPAM
+06/24/2004  09:33 AM    <DIR>          HELP
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\COMMON\SYMSHARE\ADBLCK
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/02/2003  05:57 AM           287,912 PXYLOG.DLL
+               1 File(s)        287,912 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\COMMON\SYMSHARE\ANTISPAM
+
+05/14/23491  02:44 AM    <DIR>          .
+05/14/23491  02:44 AM    <DIR>          ..
+09/02/2003  05:43 AM            77,824 EUDOHELP.EXE
+               1 File(s)         77,824 bytes
+
+ Directory of J:\Norton\English\SETUP\SETUP\COMMON\SYMSHARE\HELP
+
+01/26/29615  02:45 AM    <DIR>          .
+01/26/29615  02:45 AM    <DIR>          ..
+09/06/2003  02:00 PM            15,690 EDISK.CHM
+09/06/2003  02:00 PM             8,192 EDISK.DLL
+09/06/2003  02:00 PM            13,992 EMERG.CHM
+09/06/2003  02:00 PM             8,192 EMERG.DLL
+08/13/2003  03:11 AM            22,635 IDS.CHM
+08/21/2003  02:07 AM            15,453 I_AUTOLU.CHM
+08/13/2003  03:22 AM            22,033 LOCATION.CHM
+09/02/2003  05:37 AM            13,586 NAS_ACC.CHM
+08/13/2003  03:12 AM            15,971 NIS_ACC.CHM
+08/13/2003  03:20 AM            22,548 NIS_ACCT.CHM
+08/14/2003  12:17 AM            14,241 NIS_DIS.CHM
+08/13/2003  03:45 AM            29,434 NIS_MON.CHM
+08/13/2003  03:34 AM            23,873 NIS_OPTS.CHM
+08/13/2003  03:20 AM            25,133 NIS_TASK.CHM
+08/13/2003  03:18 AM            15,291 NIS_UNIN.CHM
+08/13/2003  03:12 AM            34,189 PC.CHM
+08/13/2003  06:03 AM            33,172 PRIVCTRL.CHM
+09/02/2003  05:37 AM            22,017 SP_BLOCK.CHM
+              18 File(s)        355,642 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          APP
+06/24/2004  09:33 AM    <DIR>          COMMON
+06/24/2004  09:33 AM    <DIR>          SYSTEM32
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT\APP
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+09/07/2003  06:36 AM           345,272 NISLCOM.DLL
+               1 File(s)        345,272 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT\COMMON
+
+09/07/2003  06:51 PM    <DIR>          .
+09/07/2003  06:51 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT\COMMON\SYMSHARE
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+08/21/2003  03:55 AM           124,096 CFGWIZ.EXE
+08/21/2003  03:39 AM             3,832 CFGWIZ.TLB
+08/21/2003  03:55 AM           185,536 DRWEBWND.DLL
+06/24/2004  09:33 AM    <DIR>          HELP
+07/17/2003  06:50 AM            50,376 SMNLNCH.EXE
+08/21/2003  03:55 AM           160,960 SYMLTCHK.DLL
+08/21/2003  03:55 AM            70,848 SYMLTCOM.DLL
+               6 File(s)        595,648 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT\COMMON\SYMSHARE\HELP
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+09/06/2003  02:00 PM            14,731 LU_SUB.CHM
+09/06/2003  02:00 PM             8,192 LU_SUB.DLL
+09/06/2003  02:00 PM            17,907 SUPT_CPD.CHM
+09/06/2003  02:01 PM             8,192 SUPT_CPD.DLL
+               4 File(s)         49,022 bytes
+
+ Directory of J:\Norton\English\SETUP\SYMLT\SYSTEM32
+
+03/26/18685  06:48 PM    <DIR>          .
+03/26/18685  06:48 PM    <DIR>          ..
+08/21/2003  03:35 AM           245,408 UNICOWS.DLL
+               1 File(s)        245,408 bytes
+
+ Directory of J:\Norton\English\SUPPORT
+
+03/26/18685  10:54 AM    <DIR>          .
+03/26/18685  10:54 AM    <DIR>          ..
+06/24/2004  09:34 AM    <DIR>          ALERULES
+06/24/2004  09:34 AM    <DIR>          CCCOMMON
+06/24/2004  09:34 AM    <DIR>          CCSTART
+06/24/2004  09:34 AM    <DIR>          DCOM98
+06/24/2004  09:34 AM    <DIR>          EDISK
+06/24/2004  09:34 AM    <DIR>          FRE
+06/24/2004  09:34 AM    <DIR>          LIVEREG
+06/24/2004  09:34 AM    <DIR>          LUPDATE
+06/24/2004  09:34 AM    <DIR>          MEMSCAN
+06/24/2004  09:34 AM    <DIR>          MSI
+06/24/2004  09:33 AM    <DIR>          MSIE
+06/24/2004  09:33 AM    <DIR>          MSREDIST
+06/24/2004  09:33 AM    <DIR>          NAVTOOLS
+06/24/2004  09:33 AM    <DIR>          NISTOOLS
+06/24/2004  09:33 AM    <DIR>          PCA_HOST
+06/24/2004  09:33 AM    <DIR>          PRESCAN
+06/24/2004  09:33 AM    <DIR>          PROXY
+06/24/2004  09:33 AM    <DIR>          RESCUE
+06/24/2004  09:33 AM    <DIR>          SCRBLOCK
+06/24/2004  09:33 AM    <DIR>          SEVINST
+06/24/2004  09:33 AM    <DIR>          SPAMDEFS
+06/24/2004  09:33 AM    <DIR>          SYMLNCH
+06/24/2004  09:33 AM    <DIR>          SYMNET
+06/24/2004  09:33 AM    <DIR>          URLLIST
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\ALERULES
+
+01/16/1601  02:49 PM    <DIR>          .
+01/16/1601  02:49 PM    <DIR>          ..
+09/07/2003  06:34 AM         1,070,441 ALERULES.EXE
+               1 File(s)      1,070,441 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON
+
+03/05/27684  02:52 PM    <DIR>          .
+03/05/27684  02:52 PM    <DIR>          ..
+06/24/2004  09:34 AM    <DIR>          CCCOMMON
+09/06/2003  02:25 PM         1,191,936 CCCOMMON.MSI
+               1 File(s)      1,191,936 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON\CCCOMMON
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:34 AM    <DIR>          COMMONFI
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON\CCCOMMON\COMMONFI
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:34 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON\CCCOMMON\COMMONFI\SYMSHARE
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/06/2003  02:21 PM           189,600 CCALERT.DLL
+09/06/2003  02:20 PM            70,816 CCAPP.EXE
+09/06/2003  02:20 PM            35,488 CCDEC.DLL
+09/06/2003  02:21 PM           201,888 CCEMLPXY.DLL
+09/06/2003  02:21 PM           144,544 CCERRDSP.DLL
+09/06/2003  02:20 PM           255,136 CCEVTMGR.EXE
+09/06/2003  02:20 PM           197,792 CCLGVIEW.EXE
+09/06/2003  02:21 PM            31,392 CCPROD.DLL
+09/06/2003  02:21 PM            62,624 CCPROSUB.DLL
+09/06/2003  02:21 PM           132,256 CCPWD.DLL
+09/06/2003  02:20 PM            87,200 CCPWDSVC.EXE
+09/06/2003  02:20 PM           685,216 CCSCAN.DLL
+09/06/2003  02:21 PM            95,392 CCSET.DLL
+09/06/2003  02:21 PM            91,296 CCSETEVT.DLL
+09/06/2003  02:20 PM           234,656 CCSETMGR.EXE
+09/06/2003  02:21 PM           115,872 CCVRTRST.DLL
+09/06/2003  02:21 PM           181,408 CCWEBWND.DLL
+06/24/2004  09:34 AM    <DIR>          DECOMP
+06/27/2003  02:15 AM            42,160 ECMLDR32.DLL
+06/24/2004  09:34 AM    <DIR>          HELP
+09/06/2003  02:20 PM           623,776 NMAIN.EXE
+              19 File(s)      3,478,512 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON\CCCOMMON\COMMONFI\SYMSHARE\DECOMP
+
+01/15/1601  06:39 AM    <DIR>          .
+01/15/1601  06:39 AM    <DIR>          ..
+07/26/2003  05:16 AM            32,768 DEC2.DLL
+07/26/2003  05:16 AM            90,112 DEC2AMG.DLL
+07/26/2003  05:16 AM            40,960 DEC2ARJ.DLL
+07/26/2003  05:16 AM            57,344 DEC2CAB.DLL
+07/26/2003  05:16 AM            77,824 DEC2EXE.DLL
+07/26/2003  05:16 AM            77,824 DEC2GZIP.DLL
+07/26/2003  05:16 AM            36,864 DEC2ID.DLL
+07/26/2003  05:16 AM            77,824 DEC2LHA.DLL
+07/26/2003  05:16 AM            36,864 DEC2LZ.DLL
+07/26/2003  05:16 AM           102,400 DEC2MIME.DLL
+07/26/2003  05:16 AM           114,688 DEC2RAR.DLL
+07/26/2003  05:16 AM            61,440 DEC2RTF.DLL
+07/26/2003  05:16 AM            69,632 DEC2SS.DLL
+07/26/2003  05:16 AM            45,056 DEC2TAR.DLL
+07/26/2003  05:16 AM           204,800 DEC2TEXT.DLL
+07/26/2003  05:16 AM            69,632 DEC2TNEF.DLL
+07/26/2003  05:16 AM           217,088 DEC2ZIP.DLL
+07/26/2003  05:16 AM            57,344 DECSDK.DLL
+              18 File(s)      1,470,464 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCCOMMON\CCCOMMON\COMMONFI\SYMSHARE\HELP
+
+06/21/25666  06:42 AM    <DIR>          .
+06/21/25666  06:42 AM    <DIR>          ..
+07/22/2003  12:57 AM            18,090 CCLGVIEW.CHM
+               1 File(s)         18,090 bytes
+
+ Directory of J:\Norton\English\SUPPORT\CCSTART
+
+10/23/1617  02:49 PM    <DIR>          .
+10/23/1617  02:49 PM    <DIR>          ..
+09/06/2003  02:25 PM           690,688 CCSTART.MSI
+               1 File(s)        690,688 bytes
+
+ Directory of J:\Norton\English\SUPPORT\DCOM98
+
+10/05/3193  02:49 PM    <DIR>          .
+10/05/3193  02:49 PM    <DIR>          ..
+06/25/2002  12:29 AM         1,229,056 DCOM98.EXE
+               1 File(s)      1,229,056 bytes
+
+ Directory of J:\Norton\English\SUPPORT\EDISK
+
+06/25/2002  02:54 PM    <DIR>          .
+06/25/2002  02:54 PM    <DIR>          ..
+08/18/2003  06:38 AM         1,475,072 DISK1.IMG
+08/18/2003  06:40 AM         1,475,072 DISK2.IMG
+08/18/2003  06:43 AM         1,475,072 DISK3.IMG
+08/18/2003  02:22 AM            73,728 NED.EXE
+08/18/2003  02:18 AM             1,715 README.TXT
+               5 File(s)      4,500,659 bytes
+
+ Directory of J:\Norton\English\SUPPORT\FRE
+
+09/18/24856  02:52 PM    <DIR>          .
+09/18/24856  02:52 PM    <DIR>          ..
+02/01/2003  05:44 AM           415,432 FREMSI.EXE
+09/07/2003  06:36 AM           140,472 FREUPDT.EXE
+               2 File(s)        555,904 bytes
+
+ Directory of J:\Norton\English\SUPPORT\LIVEREG
+
+09/07/2003  02:54 PM    <DIR>          .
+09/07/2003  02:54 PM    <DIR>          ..
+08/20/2003  12:39 AM         1,662,612 LRSETUP.EXE
+               1 File(s)      1,662,612 bytes
+
+ Directory of J:\Norton\English\SUPPORT\LUPDATE
+
+08/20/2003  02:55 PM    <DIR>          .
+08/20/2003  02:55 PM    <DIR>          ..
+08/14/2003  01:40 AM         2,528,080 LUSETUP.EXE
+               1 File(s)      2,528,080 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MEMSCAN
+
+09/02/23815  02:52 PM    <DIR>          .
+09/02/23815  02:52 PM    <DIR>          ..
+08/18/2003  06:33 AM           914,600 MEMSCAN.EXE
+               1 File(s)        914,600 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSI
+
+08/10/3368  02:49 PM    <DIR>          .
+08/10/3368  02:49 PM    <DIR>          ..
+03/10/2003  04:15 AM         1,709,160 INSTMSIA.EXE
+03/10/2003  04:15 AM         1,822,848 INSTMSIW.EXE
+               2 File(s)      3,532,008 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSIE
+
+03/10/2003  02:56 PM    <DIR>          .
+03/10/2003  02:56 PM    <DIR>          ..
+08/21/2001  02:49 AM           133,032 ACTSETUP.CAB
+08/21/2001  02:50 AM            46,055 ADVAUTH.CAB
+08/21/2001  02:50 AM           170,617 AOLSUPP.CAB
+08/18/2001  04:34 AM           656,426 AXA.CAB
+08/18/2001  04:34 AM           207,529 AXA3.CAB
+08/21/2001  02:50 AM             7,953 BRANDING.CAB
+08/21/2001  02:50 AM            12,696 CRLUPD.CAB
+08/18/2001  04:34 AM            35,993 DXDDEX.CAB
+03/14/2002  01:44 AM                22 FILELIST.DAT
+08/18/2001  04:34 AM           762,249 FONTCORE.CAB
+08/18/2001  04:34 AM           643,814 FONTSUP.CAB
+08/21/2001  02:50 AM           281,952 GSETUP95.CAB
+08/21/2001  02:50 AM           261,820 GSETUPNT.CAB
+08/21/2001  02:50 AM           360,001 HELPCONT.CAB
+08/18/2001  04:34 AM           697,316 HHUPD.CAB
+08/21/2001  02:50 AM           479,811 ICW.CAB
+08/21/2001  02:50 AM           476,989 ICWCON.CAB
+08/18/2001  04:34 AM         1,107,861 IE4SHLNT.CAB
+08/21/2001  02:50 AM           508,240 IE6SETUP.EXE
+08/21/2001  02:50 AM         3,324,724 IEAK6OPT.CAB
+08/21/2001  02:50 AM            15,213 IECIF.CAB
+08/21/2001  02:50 AM            66,686 IEDATA.CAB
+08/21/2001  02:50 AM           109,874 IEDOM.CAB
+08/21/2001  02:50 AM            24,852 IEEXINST.CAB
+08/18/2001  04:34 AM           122,295 IELPKAD.CAB
+08/18/2001  04:34 AM           305,214 IELPKAR.CAB
+08/18/2001  04:34 AM           312,913 IELPKIW.CAB
+08/18/2001  04:34 AM         2,885,870 IELPKJA.CAB
+08/18/2001  04:34 AM         2,296,003 IELPKKO.CAB
+08/18/2001  04:34 AM         1,936,091 IELPKPE.CAB
+08/18/2001  04:34 AM           411,248 IELPKTH.CAB
+08/18/2001  04:34 AM           444,709 IELPKVI.CAB
+08/18/2001  04:34 AM         2,869,539 IELPKZHC.CAB
+08/18/2001  04:34 AM         4,125,349 IELPKZHT.CAB
+08/21/2001  02:50 AM         1,424,232 IEMIL_1.CAB
+08/21/2001  02:50 AM         2,176,424 IEMIL_2.CAB
+08/21/2001  02:50 AM         2,134,478 IEMIL_3.CAB
+08/21/2001  02:50 AM         1,313,681 IEMIL_4.CAB
+08/21/2001  02:50 AM         1,303,263 IENT_S1.CAB
+08/21/2001  02:50 AM         1,457,927 IENT_S2.CAB
+08/21/2001  02:50 AM         1,457,927 IENT_S3.CAB
+08/21/2001  02:50 AM         1,457,927 IENT_S4.CAB
+08/21/2001  02:50 AM         1,457,927 IENT_S5.CAB
+08/21/2001  02:51 AM           451,742 IENT_S6.CAB
+08/18/2001  04:43 AM               104 IESETUP.INI
+08/21/2001  02:51 AM         1,677,861 IEW2K_1.CAB
+08/21/2001  02:51 AM         1,708,585 IEW2K_2.CAB
+08/21/2001  02:51 AM         1,884,801 IEW2K_3.CAB
+08/21/2001  02:51 AM         2,136,834 IEW2K_4.CAB
+08/21/2001  02:51 AM           141,376 IE_EXTRA.CAB
+08/21/2001  02:51 AM         1,508,109 IE_S1.CAB
+08/21/2001  02:51 AM         1,457,925 IE_S2.CAB
+08/21/2001  02:51 AM         1,457,925 IE_S3.CAB
+08/21/2001  02:51 AM         1,457,925 IE_S4.CAB
+08/21/2001  02:51 AM         1,457,925 IE_S5.CAB
+08/21/2001  02:51 AM           242,396 IE_S6.CAB
+08/18/2001  04:34 AM         3,820,622 JAAIME.CAB
+08/18/2001  04:34 AM           232,925 KOAIME.CAB
+08/21/2001  02:51 AM         1,937,657 MAILNEWS.CAB
+08/18/2001  04:34 AM         2,295,653 MDAC_IE5.CAB
+08/21/2001  02:51 AM           371,109 MOBILE95.CAB
+08/21/2001  02:51 AM           360,488 MOBILENT.CAB
+08/18/2001  04:34 AM           567,271 MPCDCS.CAB
+08/18/2001  04:34 AM           761,549 MPLAY2A.CAB
+08/18/2001  04:34 AM           848,455 MPLAY2U.CAB
+08/18/2001  04:34 AM         1,673,649 MPLAYER2.CAB
+08/21/2001  02:51 AM            41,565 MSN_AUTH.CAB
+08/21/2001  02:51 AM           475,182 OAINST.CAB
+08/21/2001  02:51 AM            19,692 OEEXCEP.CAB
+08/21/2001  02:51 AM            24,681 README.CAB
+08/18/2001  04:34 AM         2,377,395 SCAIME.CAB
+08/18/2001  04:34 AM           835,007 SCR56EN.CAB
+08/18/2001  04:34 AM           834,837 SCRIPTEN.CAB
+08/21/2001  02:51 AM           760,091 SETUPNT.CAB
+08/21/2001  02:51 AM           950,428 SETUPW95.CAB
+08/18/2001  04:34 AM           224,603 SWFLASH.CAB
+08/18/2001  04:34 AM           658,724 TCAIME.CAB
+08/18/2001  04:34 AM           158,641 TS95.CAB
+08/18/2001  04:34 AM           161,550 TSNT.CAB
+08/18/2001  04:34 AM           166,754 USP10.CAB
+08/21/2001  02:51 AM         1,054,506 VGX.CAB
+08/21/2001  02:51 AM           593,545 WAB.CAB
+              82 File(s)     78,074,829 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST
+
+08/21/2001  02:53 PM    <DIR>          .
+08/21/2001  02:53 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          MSREDIST
+06/12/2003  05:16 AM           351,744 MSREDIST.MSI
+               1 File(s)        351,744 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYSTEM32
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ANSI
+01/05/2002  04:18 PM            84,992 ATL70.DLL
+01/05/2002  06:48 PM           974,848 MFC70.DLL
+01/05/2002  06:36 PM           964,608 MFC70U.DLL
+01/05/2002  05:38 PM            54,784 MSVCI70.DLL
+01/05/2002  05:40 PM           487,424 MSVCP70.DLL
+01/05/2002  05:37 PM           344,064 MSVCR70.DLL
+07/31/2001  12:42 AM         1,118,720 MSXML3.DLL
+07/31/2001  12:40 AM            24,576 MSXML3A.DLL
+07/31/2001  12:40 AM            44,032 MSXML3R.DLL
+06/24/2004  09:33 AM    <DIR>          REDIST
+               9 File(s)      4,098,048 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32\ANSI
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+01/05/2002  04:18 PM           102,400 ATL70.DLL
+               1 File(s)        102,400 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32\REDIST
+
+01/05/2002  02:48 AM    <DIR>          .
+01/05/2002  02:48 AM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          MS
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32\REDIST\MS
+
+01/16/1601  06:39 AM    <DIR>          .
+01/16/1601  06:39 AM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYSTEM
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32\REDIST\MS\SYSTEM
+
+01/16/1601  10:36 AM    <DIR>          .
+01/16/1601  10:36 AM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          ANSI
+03/09/1999  02:50 AM           147,728 ASYCFILT.DLL
+04/07/2000  03:09 AM            58,938 ATL.DLL
+12/10/1998  02:52 AM            22,288 COMCAT.DLL
+05/23/2000  06:58 AM           608,448 COMCTL32.OCX
+04/07/2000  03:13 AM           995,383 MFC42.DLL
+05/23/2000  06:58 AM         1,066,176 MSCOMCTL.OCX
+04/07/2000  03:10 AM            77,878 MSVCIRT.DLL
+04/07/2000  03:10 AM           401,462 MSVCP60.DLL
+04/07/2000  03:10 AM           278,581 MSVCRT.DLL
+04/13/2000  04:00 AM           598,288 OLEAUT32.DLL
+03/09/1999  02:50 AM           164,112 OLEPRO32.DLL
+03/29/2000  06:58 AM            17,920 STDOLE2.TLB
+              12 File(s)      4,437,202 bytes
+
+ Directory of J:\Norton\English\SUPPORT\MSREDIST\MSREDIST\SYSTEM32\REDIST\MS\SYSTEM\ANSI
+
+01/15/1601  02:33 PM    <DIR>          .
+01/15/1601  02:33 PM    <DIR>          ..
+04/07/2000  03:09 AM            73,785 ATL.DLL
+               1 File(s)         73,785 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS
+
+01/01/1601  02:49 PM    <DIR>          .
+01/01/1601  02:49 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          REPAIR
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR
+
+01/16/1601  06:46 PM    <DIR>          .
+01/16/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          AUTOUPDR
+06/24/2004  09:33 AM    <DIR>          BLASTER
+06/24/2004  09:33 AM    <DIR>          BUGBEAR
+06/24/2004  09:33 AM    <DIR>          KLEZ
+06/24/2004  09:33 AM    <DIR>          OPASERV
+06/24/2004  09:33 AM    <DIR>          SOBIG.A
+06/24/2004  09:33 AM    <DIR>          SOBIG.B
+06/24/2004  09:33 AM    <DIR>          SOBIG.C
+06/24/2004  09:33 AM    <DIR>          SOBIG.E
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\AUTOUPDR
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+07/10/2003  05:26 AM           162,960 FIXUPDTR.EXE
+07/10/2003  05:46 AM             8,836 README.TXT
+               2 File(s)        171,796 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\BLASTER
+
+07/10/2003  10:50 PM    <DIR>          .
+07/10/2003  10:50 PM    <DIR>          ..
+08/15/2003  04:30 AM           143,040 FIXBLAST.EXE
+08/15/2003  04:46 AM            11,505 README.TXT
+               2 File(s)        154,545 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\BUGBEAR
+
+08/15/2003  10:48 PM    <DIR>          .
+08/15/2003  10:48 PM    <DIR>          ..
+07/13/2003  03:13 AM           164,040 FIXBUGB.EXE
+07/13/2003  03:30 AM             9,449 README.TXT
+               2 File(s)        173,489 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\KLEZ
+
+05/01/23815  10:46 PM    <DIR>          .
+05/01/23815  10:46 PM    <DIR>          ..
+07/10/2003  05:48 AM           100,472 FIXKLEZ.COM
+07/10/2003  06:01 AM             9,998 README.TXT
+               2 File(s)        110,470 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\OPASERV
+
+09/03/4093  10:44 PM    <DIR>          .
+09/03/4093  10:44 PM    <DIR>          ..
+07/10/2003  03:49 AM           173,760 FIXOPSRV.EXE
+07/10/2003  05:34 AM            11,793 README.TXT
+               2 File(s)        185,553 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\SOBIG.A
+
+06/21/15524  10:45 PM    <DIR>          .
+06/21/15524  10:45 PM    <DIR>          ..
+07/13/2003  03:33 AM           164,024 FIXSOBIG.EXE
+07/13/2003  03:50 AM             7,221 README.TXT
+               2 File(s)        171,245 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\SOBIG.B
+
+04/13/15310  10:45 PM    <DIR>          .
+04/13/15310  10:45 PM    <DIR>          ..
+07/13/2003  03:54 AM           168,640 FXSOBIGB.EXE
+07/13/2003  04:04 AM             8,437 README.TXT
+               2 File(s)        177,077 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\SOBIG.C
+
+08/21/13269  10:45 PM    <DIR>          .
+08/21/13269  10:45 PM    <DIR>          ..
+07/13/2003  04:05 AM           163,008 FIXSBIGC.EXE
+07/13/2003  04:15 AM             8,328 README.TXT
+               2 File(s)        171,336 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NAVTOOLS\REPAIR\SOBIG.E
+
+07/13/2003  10:49 PM    <DIR>          .
+07/13/2003  10:49 PM    <DIR>          ..
+07/13/2003  04:16 AM           168,640 FIXSBIGE.EXE
+07/13/2003  04:25 AM             8,338 README.TXT
+               2 File(s)        176,978 bytes
+
+ Directory of J:\Norton\English\SUPPORT\NISTOOLS
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+09/07/2003  06:36 AM            54,456 ISRLRSTR.EXE
+               1 File(s)         54,456 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PCA_HOST
+
+09/07/2003  02:54 PM    <DIR>          .
+09/07/2003  02:54 PM    <DIR>          ..
+10/22/2002  01:30 AM        11,203,584 PCA_HOST.MSI
+               1 File(s)     11,203,584 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PRESCAN
+
+10/22/2002  02:56 PM    <DIR>          .
+10/22/2002  02:56 PM    <DIR>          ..
+08/15/2003  03:00 PM           902,304 CCSCANS.DLL
+06/27/2003  02:15 AM            42,160 ECMLDR32.DLL
+08/18/2003  06:34 AM           132,264 PRESCAN.EXE
+               3 File(s)      1,076,728 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PROXY
+
+01/23/6635  02:50 PM    <DIR>          .
+01/23/6635  02:50 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          CCPXYMSI
+09/06/2003  02:26 PM         1,068,544 CCPXYMSI.MSI
+               1 File(s)      1,068,544 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PROXY\CCPXYMSI
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMON
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PROXY\CCPXYMSI\COMMON
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\PROXY\CCPXYMSI\COMMON\SYMSHARE
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+09/06/2003  02:21 PM           115,872 CCLOGIN.DLL
+09/06/2003  02:20 PM           218,272 CCPROXY.EXE
+09/06/2003  02:21 PM           292,000 CCPXYEVT.DLL
+09/06/2003  02:21 PM           128,160 DPHTML.DLL
+09/06/2003  02:21 PM            42,144 DPHTTP.DLL
+09/06/2003  02:21 PM            54,432 DPJS.DLL
+09/06/2003  02:21 PM            54,432 DPVBS.DLL
+09/06/2003  02:21 PM            70,816 PXYHTTP.DLL
+09/06/2003  02:21 PM           119,968 STRMFILT.DLL
+09/06/2003  02:21 PM           619,680 SYMICONV.DLL
+              10 File(s)      1,715,776 bytes
+
+ Directory of J:\Norton\English\SUPPORT\RESCUE
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+08/18/2003  02:23 AM         2,375,168 RESCUE.MSI
+               1 File(s)      2,375,168 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SCRBLOCK
+
+08/18/2003  02:56 PM    <DIR>          .
+08/18/2003  02:56 PM    <DIR>          ..
+06/30/2003  02:18 AM             1,816 NISSBALE
+06/25/2003  01:25 AM           433,664 SCRBLOCK.MSI
+               2 File(s)        435,480 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SEVINST
+
+03/21/2461  02:49 PM    <DIR>          .
+03/21/2461  02:49 PM    <DIR>          ..
+08/16/2003  02:22 PM           599,304 SEVINST.EXE
+               1 File(s)        599,304 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SPAMDEFS
+
+03/26/8050  02:50 PM    <DIR>          .
+03/26/8050  02:50 PM    <DIR>          ..
+09/02/2003  05:37 AM           509,867 ENGLISH.MBK
+               1 File(s)        509,867 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMLNCH
+
+09/02/2003  02:54 PM    <DIR>          .
+09/02/2003  02:54 PM    <DIR>          ..
+08/18/2003  06:05 AM            69,632 SYMLNCH.EXE
+               1 File(s)         69,632 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET
+
+02/05/7722  02:50 PM    <DIR>          .
+02/05/7722  02:50 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMNET
+09/07/2003  06:44 AM           546,304 SYMNET.MSI
+               1 File(s)        546,304 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET
+
+01/15/1601  06:46 PM    <DIR>          .
+01/15/1601  06:46 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          COMMON
+06/24/2004  09:33 AM    <DIR>          SYSTEM
+06/24/2004  09:33 AM    <DIR>          SYSTEM32
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\COMMON
+
+01/16/1601  10:44 PM    <DIR>          .
+01/16/1601  10:44 PM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          SYMSHARE
+               0 File(s)              0 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\COMMON\SYMSHARE
+
+01/16/1601  02:41 AM    <DIR>          .
+01/16/1601  02:41 AM    <DIR>          ..
+06/24/2004  09:33 AM    <DIR>          IDSDEFS
+09/01/2003  04:27 AM            29,960 SNDINST.EXE
+09/01/2003  04:27 AM           197,896 SNDSRVC.EXE
+09/01/2003  04:16 AM               324 VALIDATE.DAT
+               3 File(s)        228,180 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\COMMON\SYMSHARE\IDSDEFS
+
+01/15/1601  06:39 AM    <DIR>          .
+01/15/1601  06:39 AM    <DIR>          ..
+09/01/2003  04:27 AM           201,992 IDSCOLU.EXE
+09/01/2003  04:27 AM           197,896 IDSLU.EXE
+09/01/2003  04:27 AM           509,192 SYMNETI2.DLL
+               3 File(s)        909,080 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\SYSTEM
+
+03/26/18685  10:46 PM    <DIR>          .
+03/26/18685  10:46 PM    <DIR>          ..
+09/01/2003  04:21 AM            10,523 SYMDNS.VXD
+09/01/2003  04:21 AM           202,350 SYMFW.VXD
+09/01/2003  04:21 AM            46,027 SYMIDS.VXD
+09/01/2003  04:21 AM            37,570 SYMNDIS.VXD
+09/01/2003  04:21 AM            14,617 SYMREDRV.VXD
+09/01/2003  04:21 AM           241,678 SYMTDI.VXD
+               6 File(s)        552,765 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\SYSTEM32
+
+09/01/2003  10:50 PM    <DIR>          .
+09/01/2003  10:50 PM    <DIR>          ..
+09/01/2003  04:16 AM             4,756 DEFAULT.RUL
+06/24/2004  09:33 AM    <DIR>          DRIVERS
+09/01/2003  04:21 AM           127,867 SYMIDSCO.VXD
+09/01/2003  04:27 AM           509,192 SYMNETI.DLL
+09/01/2003  04:27 AM           115,976 SYMREDIR.DLL
+               4 File(s)        757,791 bytes
+
+ Directory of J:\Norton\English\SUPPORT\SYMNET\SYMNET\SYSTEM32\DRIVERS
+
+01/15/1601  02:41 AM    <DIR>          .
+01/15/1601  02:41 AM    <DIR>          ..
+09/01/2003  04:27 AM            10,728 SYMDNS.SYS
+09/01/2003  04:27 AM           164,552 SYMFW.SYS
+09/01/2003  04:27 AM            46,376 SYMIDS.SYS
+09/01/2003  04:27 AM           123,240 SYMIDSCO.SYS
+09/01/2003  04:27 AM            51,560 SYMNDIS.SYS
+09/01/2003  04:16 AM                20 SYMREDIR.CAT
+09/01/2003  04:16 AM             1,133 SYMREDIR.INF
+09/01/2003  04:27 AM            16,328 SYMREDRV.SYS
+09/01/2003  04:27 AM           263,240 SYMTDI.SYS
+               9 File(s)        677,177 bytes
+
+ Directory of J:\Norton\English\SUPPORT\URLLIST
+
+03/26/18685  02:51 PM    <DIR>          .
+03/26/18685  02:51 PM    <DIR>          ..
+09/07/2003  06:33 AM        16,292,978 URLLIST.EXE
+               1 File(s)     16,292,978 bytes
+
+ Directory of J:\Norton\English\VIRUSDEF
+
+04/06/1750  10:52 AM    <DIR>          .
+04/06/1750  10:52 AM    <DIR>          ..
+08/14/2003  03:00 PM             2,432 CATALOG.DAT
+07/19/2002  04:33 AM            69,632 DEFINST.EXE
+08/14/2003  03:00 PM             6,883 ECBOOTIL.VXD
+08/14/2003  03:00 PM           206,000 ECMSVR32.DLL
+08/14/2003  03:00 PM             1,525 HH
+08/14/2003  03:00 PM           100,976 NAVENG.EXP
+08/14/2003  03:00 PM            67,800 NAVENG.SYS
+08/14/2003  03:00 PM           119,801 NAVENG.VXD
+08/14/2003  03:00 PM           120,024 NAVENG32.DLL
+08/14/2003  03:00 PM           823,568 NAVEX15.EXP
+08/14/2003  03:00 PM           531,160 NAVEX15.SYS
+08/14/2003  03:00 PM           781,297 NAVEX15.VXD
+08/14/2003  03:00 PM           578,776 NAVEX32A.DLL
+08/14/2003  03:00 PM             6,479 NCSACERT.TXT
+08/14/2003  03:00 PM            72,944 SCRAUTH.DAT
+08/14/2003  03:00 PM             7,971 SYMAVENG.CAT
+08/14/2003  03:00 PM               901 SYMAVENG.INF
+08/14/2003  03:00 PM               801 TCDEFS.DAT
+08/14/2003  03:00 PM             2,747 TCSCAN7.DAT
+08/14/2003  03:00 PM            41,791 TCSCAN8.DAT
+08/14/2003  03:00 PM            95,019 TCSCAN9.DAT
+08/14/2003  03:00 PM               875 TECHNOTE.TXT
+08/14/2003  03:00 PM               453 TINF.DAT
+08/14/2003  03:00 PM               148 TINFIDX.DAT
+08/14/2003  03:00 PM             1,957 TINFL.DAT
+08/14/2003  03:00 PM            23,836 TSCAN1.DAT
+08/14/2003  03:00 PM             1,179 TSCAN1HD.DAT
+08/14/2003  03:00 PM             5,382 V.GRD
+08/14/2003  03:00 PM             2,225 V.SIG
+08/14/2003  03:00 PM           106,236 VIRSCAN.INF
+08/14/2003  03:00 PM           813,441 VIRSCAN1.DAT
+08/14/2003  03:00 PM           580,008 VIRSCAN2.DAT
+08/14/2003  03:00 PM           142,400 VIRSCAN3.DAT
+08/14/2003  03:00 PM           314,056 VIRSCAN4.DAT
+08/14/2003  03:00 PM            70,616 VIRSCAN5.DAT
+08/14/2003  03:00 PM           369,019 VIRSCAN6.DAT
+08/14/2003  03:00 PM           826,467 VIRSCAN7.DAT
+08/14/2003  03:00 PM           852,015 VIRSCAN8.DAT
+08/14/2003  03:00 PM           762,302 VIRSCAN9.DAT
+08/14/2003  03:00 PM                32 VIRSCANT.DAT
+08/14/2003  03:00 PM            24,739 WHATSNEW.TXT
+08/14/2003  03:00 PM               224 ZDONE.DAT
+              42 File(s)      8,536,137 bytes
+
+ Directory of J:\Utilities
+
+03/26/18685  02:59 AM    <DIR>          .
+03/26/18685  02:59 AM    <DIR>          ..
+07/02/2004  04:42 PM           276,380 data1.cab
+07/02/2004  04:42 PM            12,246 data1.hdr
+07/02/2004  04:42 PM         7,393,342 data2.cab
+12/05/2002  01:16 PM           418,296 engine32.cab
+07/02/2004  04:42 PM               474 layout.bin
+07/23/2003  08:02 AM         1,092,534 setup.bmp
+07/02/2004  04:41 PM           342,212 setup.boot
+12/02/2002  02:33 PM           107,512 setup.exe
+07/02/2004  04:41 PM               384 setup.ini
+06/12/2004  01:39 PM           172,351 setup.inx
+              10 File(s)      9,815,731 bytes
+
+     Total Files Listed:
+            1341 File(s)    415,776,826 bytes
+            1155 Dir(s)               0 bytes free

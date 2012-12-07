@@ -1,0 +1,272 @@
+Folder PATH listing for volume Ubuntu 10.04 LTS
+Volume serial number is C9EE-4DD2
+J:\
+|   README.diskdefines
+|   autorun.inf
+|   md5sum.txt
+|   ubuntu
+|   wubi.exe
+|   
++---.disk
+|       base_installable
+|       casper-uuid-generic
+|       cd_type
+|       info
+|       release_notes_url
+|       
++---casper
+|       filesystem.manifest
+|       filesystem.manifest-desktop
+|       filesystem.size
+|       filesystem.squashfs
+|       initrd.lz
+|       vmlinuz
+|       
++---dists
+|   |   stable
+|   |   unstable
+|   |   
+|   \---lucid
+|       |   Release
+|       |   Release.gpg
+|       |   
+|       +---main
+|       |   +---binary-i386
+|       |   |       Packages.gz
+|       |   |       Release
+|       |   |       
+|       |   \---source
+|       \---restricted
+|           +---binary-i386
+|           |       Packages.gz
+|           |       Release
+|           |       
+|           \---source
++---install
+|       README.sbm
+|       mt86plus
+|       sbm.bin
+|       
++---isolinux
+|       16x16.fnt
+|       access.pcx
+|       adtext.cfg
+|       am.tr
+|       ast.hlp
+|       ast.tr
+|       back.jpg
+|       be.hlp
+|       be.tr
+|       bg.hlp
+|       bg.tr
+|       blank.pcx
+|       boot.cat
+|       bootlogo
+|       bs.tr
+|       ca.hlp
+|       ca.tr
+|       cs.tr
+|       da.hlp
+|       da.tr
+|       de.hlp
+|       de.tr
+|       el.hlp
+|       el.tr
+|       en.hlp
+|       en.tr
+|       eo.hlp
+|       eo.tr
+|       es.hlp
+|       es.tr
+|       et.hlp
+|       et.tr
+|       eu.hlp
+|       eu.tr
+|       f1.txt
+|       f10.txt
+|       f2.txt
+|       f3.txt
+|       f4.txt
+|       f5.txt
+|       f6.txt
+|       f7.txt
+|       f8.txt
+|       f9.txt
+|       fi.hlp
+|       fi.tr
+|       fr.hlp
+|       fr.tr
+|       ga.tr
+|       gfxboot.cfg
+|       gl.hlp
+|       gl.tr
+|       he.hlp
+|       he.tr
+|       hi.hlp
+|       hr.tr
+|       hu.hlp
+|       hu.tr
+|       id.hlp
+|       id.tr
+|       isolinux.bin
+|       isolinux.cfg
+|       it.hlp
+|       it.tr
+|       ja.hlp
+|       ja.tr
+|       ka.tr
+|       kk.hlp
+|       kk.tr
+|       ko.hlp
+|       ko.tr
+|       ku.tr
+|       langlist
+|       lt.tr
+|       lv.hlp
+|       lv.tr
+|       menu.cfg
+|       mk.tr
+|       nb.hlp
+|       nb.tr
+|       nl.hlp
+|       nl.tr
+|       nn.hlp
+|       nn.tr
+|       pl.hlp
+|       pl.tr
+|       po4a.cfg
+|       prompt.cfg
+|       pt.hlp
+|       pt.tr
+|       pt_BR.hlp
+|       pt_BR.tr
+|       ro.hlp
+|       ro.tr
+|       ru.hlp
+|       ru.tr
+|       sk.hlp
+|       sk.tr
+|       sl.tr
+|       splash.pcx
+|       splash.png
+|       sq.hlp
+|       sq.tr
+|       sr.hlp
+|       sr.tr
+|       stdmenu.cfg
+|       sv.hlp
+|       sv.tr
+|       text.cfg
+|       tl.tr
+|       tr.hlp
+|       tr.tr
+|       uk.hlp
+|       uk.tr
+|       vesamenu.c32
+|       vi.hlp
+|       vi.tr
+|       zh_CN.hlp
+|       zh_CN.tr
+|       zh_TW.hlp
+|       zh_TW.tr
+|       
++---pics
+|       blue-lowerleft.png
+|       blue-lowerright.png
+|       blue-upperleft.png
+|       blue-upperright.png
+|       debian.jpg
+|       logo-50.jpg
+|       red-lowerleft.png
+|       red-lowerright.png
+|       red-upperleft.png
+|       red-upperright.png
+|       
++---pool
+|   +---main
+|   |   +---b
+|   |   |   +---b43-fwcutter
+|   |   |   |       b43-fwcutter_012-1build1_i386.deb
+|   |   |   |       
+|   |   |   \---build-essential
+|   |   |           build-essential_11.4build1_i386.deb
+|   |   |           
+|   |   +---d
+|   |   |   +---dkms
+|   |   |   |       dkms_2.1.1.2-2fakesync1_all.deb
+|   |   |   |       
+|   |   |   \---dpkg
+|   |   |           dpkg-dev_1.15.5.6ubuntu4_all.deb
+|   |   |           
+|   |   +---f
+|   |   |   \---fakeroot
+|   |   |           fakeroot_1.14.4-1ubuntu1_i386.deb
+|   |   |           
+|   |   +---g
+|   |   |   +---gcc-4.4
+|   |   |   |       g++-4.4_4.4.3-4ubuntu5_i386.deb
+|   |   |   |       libstdc++6-4.4-dev_4.4.3-4ubuntu5_i386.deb
+|   |   |   |       
+|   |   |   \---gcc-defaults
+|   |   |           g++_4.4.3-1ubuntu1_i386.deb
+|   |   |           
+|   |   +---l
+|   |   |   +---linux-wlan-ng
+|   |   |   |       linux-wlan-ng-doc_0.2.9+dfsg-4_all.deb
+|   |   |   |       linux-wlan-ng_0.2.9+dfsg-4_i386.deb
+|   |   |   |       
+|   |   |   \---lupin
+|   |   |           lupin-support_0.29_all.deb
+|   |   |           
+|   |   +---m
+|   |   |   \---mouseemu
+|   |   |           mouseemu_0.16-0ubuntu6_i386.deb
+|   |   |           
+|   |   +---n
+|   |   |   +---ndisgtk
+|   |   |   |       ndisgtk_0.8.5-1_i386.deb
+|   |   |   |       
+|   |   |   \---ndiswrapper
+|   |   |           ndiswrapper-common_1.54-2ubuntu1_all.deb
+|   |   |           ndiswrapper-utils-1.9_1.54-2ubuntu1_i386.deb
+|   |   |           
+|   |   +---p
+|   |   |   \---patch
+|   |   |           patch_2.6-2ubuntu1_i386.deb
+|   |   |           
+|   |   +---s
+|   |   |   \---setserial
+|   |   |           setserial_2.17-45.2_i386.deb
+|   |   |           
+|   |   +---u
+|   |   |   \---ubiquity
+|   |   |           oem-config-gtk_2.2.24_all.deb
+|   |   |           oem-config_2.2.24_all.deb
+|   |   |           
+|   |   +---w
+|   |   |   +---wvdial
+|   |   |   |       wvdial_1.60.3_i386.deb
+|   |   |   |       
+|   |   |   \---wvstreams
+|   |   |           libuniconf4.6_4.6.1-1_i386.deb
+|   |   |           libwvstreams4.6-base_4.6.1-1_i386.deb
+|   |   |           libwvstreams4.6-extras_4.6.1-1_i386.deb
+|   |   |           
+|   |   \---x
+|   |       \---xz-utils
+|   |               xz-utils_4.999.9beta+20091116-1_i386.deb
+|   |               
+|   \---restricted
+|       +---b
+|       |   \---bcmwl
+|       |           bcmwl-kernel-source_5.60.48.36+bdcom-0ubuntu3_i386.deb
+|       |           
+|       \---s
+|           \---sl-modem
+|                   sl-modem-daemon_2.9.11~20100303-2_i386.deb
+|                   
+\---preseed
+        cli.seed
+        ltsp.seed
+        ubuntu.seed
+        

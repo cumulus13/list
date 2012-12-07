@@ -1,0 +1,202 @@
+ Volume in drive J is Colonization
+ Volume Serial Number is A78E-6CDB
+
+ Directory of J:\
+
+07/30/2008  11:44 PM    <DIR>          Autorun
+09/23/2008  09:52 PM    <DIR>          Crack
+07/30/2008  11:44 PM    <DIR>          DirectX9
+04/22/2008  05:08 AM            77,672 GameuxInstallHelper.dll
+03/01/2007  03:59 AM           492,032 ISSetup.dll
+07/30/2008  11:44 PM    <DIR>          Readme
+05/17/2006  10:21 PM           373,680 _setup.dll
+07/16/2008  09:29 PM           263,480 autorun.exe
+06/26/2008  01:07 PM             6,103 autorun.inf
+07/30/2008  11:30 PM         5,361,999 data1.cab
+07/30/2008  11:30 PM           954,704 data1.hdr
+07/30/2008  11:33 PM       615,504,904 data2.cab
+07/30/2008  11:33 PM               505 layout.bin
+02/28/2007  03:08 AM           456,416 setup.exe
+07/30/2008  11:26 PM               586 setup.ini
+07/30/2008  11:26 PM           256,219 setup.inx
+06/25/2008  11:23 PM           328,081 setup.isn
+              13 File(s)    624,076,381 bytes
+
+ Directory of J:\Autorun
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+06/05/2008  10:03 AM             5,836 BTN01-Install.bmp
+06/05/2008  10:03 AM             5,836 BTN01-Install_OVER.bmp
+06/05/2008  10:03 AM             5,836 BTN01-Play.bmp
+06/05/2008  10:03 AM             5,836 BTN01-Play_OVER.bmp
+06/05/2008  10:03 AM             5,836 BTN02-ReadMe.bmp
+06/05/2008  10:03 AM             5,836 BTN02-ReadMe_OVER.bmp
+06/05/2008  10:03 AM             5,136 BTN03-Exit.bmp
+06/05/2008  10:03 AM             5,136 BTN03-Exit_OVER.bmp
+06/05/2008  10:03 AM             5,136 BTN04-PlayMovie1.bmp
+04/22/2008  05:08 AM             5,138 BTN04-PlayMovie1_OVER.bmp
+06/05/2008  10:03 AM             5,136 BTN05-PlayMovie2.bmp
+04/22/2008  05:08 AM             5,138 BTN05-PlayMovie2_OVER.bmp
+04/22/2008  05:08 AM             9,326 Civ4Installer.ico
+06/06/2008  06:56 PM           250,676 ColonizationAutoRunBG.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN01-Install.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN01-Install_OVER.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN01-Play.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN01-Play_OVER.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN02-ReadMe.bmp
+06/05/2008  10:03 AM             5,836 FR_BTN02-ReadMe_OVER.bmp
+06/05/2008  10:03 AM             5,136 FR_BTN03-Exit.bmp
+06/05/2008  10:03 AM             5,136 FR_BTN03-Exit_OVER.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN01-Install.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN01-Install_OVER.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN01-Play.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN01-Play_OVER.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN02-ReadMe.bmp
+06/05/2008  10:03 AM             5,836 GE_BTN02-ReadMe_OVER.bmp
+06/05/2008  10:03 AM             5,136 GE_BTN03-Exit.bmp
+06/05/2008  10:03 AM             5,136 GE_BTN03-Exit_OVER.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN01-Install.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN01-Install_OVER.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN01-Play.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN01-Play_OVER.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN02-ReadMe.bmp
+06/05/2008  10:03 AM             5,836 IT_BTN02-ReadMe_OVER.bmp
+06/05/2008  10:03 AM             5,136 IT_BTN03-Exit.bmp
+06/05/2008  10:03 AM             5,136 IT_BTN03-Exit_OVER.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN01-Install.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN01-Install_OVER.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN01-Play.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN01-Play_OVER.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN02-ReadMe.bmp
+06/05/2008  10:03 AM             5,836 SP_BTN02-ReadMe_OVER.bmp
+06/05/2008  10:03 AM             5,136 SP_BTN03-Exit.bmp
+06/05/2008  10:03 AM             5,136 SP_BTN03-Exit_OVER.bmp
+              46 File(s)        506,990 bytes
+
+ Directory of J:\Crack
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+09/23/2008  09:41 PM        40,834,360 colonization.exe
+               1 File(s)     40,834,360 bytes
+
+ Directory of J:\DirectX9
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+06/21/2007  07:40 AM           199,366 APR2007_XACT_x64.cab
+06/21/2007  07:40 AM           154,825 APR2007_XACT_x86.cab
+06/21/2007  07:40 AM           702,212 APR2007_d3dx10_33_x64.cab
+06/21/2007  07:40 AM           699,465 APR2007_d3dx10_33_x86.cab
+06/21/2007  07:40 AM         1,610,958 APR2007_d3dx9_33_x64.cab
+06/21/2007  07:40 AM         1,609,639 APR2007_d3dx9_33_x86.cab
+06/21/2007  07:40 AM           100,417 APR2007_xinput_x64.cab
+06/21/2007  07:40 AM            56,902 APR2007_xinput_x86.cab
+06/21/2007  07:40 AM           183,863 AUG2006_XACT_x64.cab
+06/21/2007  07:40 AM           138,195 AUG2006_XACT_x86.cab
+06/21/2007  07:40 AM            88,102 AUG2006_xinput_x64.cab
+06/21/2007  07:40 AM            47,018 AUG2006_xinput_x86.cab
+06/21/2007  07:40 AM         1,348,242 Apr2005_d3dx9_25_x64.cab
+06/21/2007  07:40 AM         1,079,850 Apr2005_d3dx9_25_x86.cab
+06/21/2007  07:40 AM           917,318 Apr2006_MDX1_x86.cab
+06/21/2007  07:40 AM         4,163,518 Apr2006_MDX1_x86_Archive.cab
+06/21/2007  07:40 AM           180,021 Apr2006_XACT_x64.cab
+06/21/2007  07:40 AM           133,991 Apr2006_XACT_x86.cab
+06/21/2007  07:40 AM         1,398,718 Apr2006_d3dx9_30_x64.cab
+06/21/2007  07:40 AM         1,116,109 Apr2006_d3dx9_30_x86.cab
+06/21/2007  07:40 AM            87,989 Apr2006_xinput_x64.cab
+06/21/2007  07:40 AM            46,898 Apr2006_xinput_x86.cab
+06/21/2007  07:40 AM         1,351,430 Aug2005_d3dx9_27_x64.cab
+06/21/2007  07:40 AM         1,078,532 Aug2005_d3dx9_27_x86.cab
+06/21/2007  07:40 AM         1,156,363 BDANT.cab
+06/21/2007  07:40 AM           976,020 BDAXP.cab
+06/21/2007  07:40 AM           193,435 DEC2006_XACT_x64.cab
+06/21/2007  07:40 AM           146,559 DEC2006_XACT_x86.cab
+06/21/2007  07:40 AM           213,767 DEC2006_d3dx10_00_x64.cab
+06/21/2007  07:40 AM           192,680 DEC2006_d3dx10_00_x86.cab
+06/21/2007  07:40 AM         1,572,114 DEC2006_d3dx9_32_x64.cab
+06/21/2007  07:40 AM         1,575,336 DEC2006_d3dx9_32_x86.cab
+06/21/2007  07:40 AM            77,160 DSETUP.dll
+06/21/2007  07:40 AM           503,144 DXSETUP.exe
+06/21/2007  07:40 AM         1,358,864 Dec2005_d3dx9_28_x64.cab
+06/21/2007  07:40 AM         1,080,344 Dec2005_d3dx9_28_x86.cab
+06/21/2007  07:40 AM           198,275 FEB2007_XACT_x64.cab
+06/21/2007  07:40 AM           151,583 FEB2007_XACT_x86.cab
+06/21/2007  07:40 AM         1,248,387 Feb2005_d3dx9_24_x64.cab
+06/21/2007  07:40 AM         1,014,113 Feb2005_d3dx9_24_x86.cab
+06/21/2007  07:40 AM           179,247 Feb2006_XACT_x64.cab
+06/21/2007  07:40 AM           133,297 Feb2006_XACT_x86.cab
+06/21/2007  07:40 AM         1,363,684 Feb2006_d3dx9_29_x64.cab
+06/21/2007  07:40 AM         1,085,608 Feb2006_d3dx9_29_x86.cab
+06/21/2007  07:40 AM           181,745 JUN2006_XACT_x64.cab
+06/21/2007  07:40 AM           134,631 JUN2006_XACT_x86.cab
+06/21/2007  08:00 AM           200,722 JUN2007_XACT_x64.cab
+06/21/2007  08:00 AM           156,509 JUN2007_XACT_x86.cab
+06/21/2007  08:00 AM           702,644 JUN2007_d3dx10_34_x64.cab
+06/21/2007  08:00 AM           702,072 JUN2007_d3dx10_34_x86.cab
+06/21/2007  08:00 AM         1,611,374 JUN2007_d3dx9_34_x64.cab
+06/21/2007  08:00 AM         1,610,886 JUN2007_d3dx9_34_x86.cab
+06/21/2007  07:40 AM         1,336,890 Jun2005_d3dx9_26_x64.cab
+06/21/2007  07:40 AM         1,065,813 Jun2005_d3dx9_26_x86.cab
+06/21/2007  07:40 AM           183,321 OCT2006_XACT_x64.cab
+06/21/2007  07:40 AM           138,977 OCT2006_XACT_x86.cab
+06/21/2007  07:40 AM         1,413,862 OCT2006_d3dx9_31_x64.cab
+06/21/2007  07:40 AM         1,128,177 OCT2006_d3dx9_31_x86.cab
+06/21/2007  07:40 AM            86,925 Oct2005_xinput_x64.cab
+06/21/2007  07:40 AM            46,247 Oct2005_xinput_x86.cab
+06/21/2007  07:40 AM         1,673,576 dsetup32.dll
+06/21/2007  08:00 AM            45,302 dxdllreg_x86.cab
+06/21/2007  07:40 AM        13,265,040 dxnt.cab
+06/21/2007  07:40 AM            86,400 dxupdate.cab
+              64 File(s)     58,684,671 bytes
+
+ Directory of J:\Readme
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/30/2008  11:44 PM    <DIR>          English
+07/30/2008  11:44 PM    <DIR>          French
+07/30/2008  11:44 PM    <DIR>          German
+07/30/2008  11:44 PM    <DIR>          Italian
+07/30/2008  11:44 PM    <DIR>          Spanish
+               0 File(s)              0 bytes
+
+ Directory of J:\Readme\English
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/18/2008  10:32 PM            99,963 Readme.htm
+               1 File(s)         99,963 bytes
+
+ Directory of J:\Readme\French
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/18/2008  10:32 PM           128,271 Readme.htm
+               1 File(s)        128,271 bytes
+
+ Directory of J:\Readme\German
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/18/2008  10:32 PM           108,853 Readme.htm
+               1 File(s)        108,853 bytes
+
+ Directory of J:\Readme\Italian
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/18/2008  10:32 PM           119,471 Readme.htm
+               1 File(s)        119,471 bytes
+
+ Directory of J:\Readme\Spanish
+
+09/23/2008  09:57 PM    <DIR>          .
+09/23/2008  09:57 PM    <DIR>          ..
+07/21/2008  06:55 AM           127,889 Readme.htm
+               1 File(s)        127,889 bytes
+
+     Total Files Listed:
+             129 File(s)    724,686,849 bytes
+              27 Dir(s)               0 bytes free

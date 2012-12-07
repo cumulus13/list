@@ -1,0 +1,69 @@
+Folder PATH listing for volume cd_buku_colinux
+Volume serial number is F11F-7E00
+G:\
+|   readme.txt
+|   
++---colinux
+|       WinPcap_3_0.exe
+|       coLinux-0.6.2.exe
+|       
++---config_sample
+|   +---batch
+|   |       debian.bat
+|   |       fedora.bat
+|   |       mandrake.bat
+|   |       slackware.bat
+|   |       
+|   +---clm
+|   |       clm.bat
+|   |       clm.conf.bat
+|   |       
+|   \---conf
+|           debian.colinux.xml
+|           fedora.colinux.xml
+|           mandrake.colinux.xml
+|           slackware.colinux.xml
+|           
++---development
+|       MSYS-1.0.10.exe
+|       MinGW-3.1.0-1.exe
+|       
++---images
+|       Debian-3.0r0.ext3.1gb.bz2
+|       fedora.7z
+|       fs_1024Mb.bz2
+|       fs_10Gb.bz2
+|       fs_1536Mb.bz2
+|       fs_2048Mb.bz2
+|       fs_4095Mb.bz2
+|       fs_512Mb.bz2
+|       fs_768Mb.bz2
+|       mandrake.7z
+|       slackware.7z
+|       swap_128Mb.bz2
+|       
++---utilities
+|       7z313.exe
+|       WinSCP2.exe
+|       clm-1.3.0.zip
+|       putty.exe
+|       topo_enlarge.7z
+|       winscp356.exe
+|       
++---vnc
+|   +---RealVNC
+|   |       vnc-4.0-x86_win32.zip
+|   |       
+|   +---TightVNC
+|   |       tightvnc-1.2.9_x86.zip
+|   |       
+|   \---UltraVNC
+|           UltraVNC-100-RC18-bin.zip
+|           
+\---win_xserver
+    +---X-Deep
+    |       xdp40Full.exe
+    |       
+    \---XMing
+            Xming_Archive.zip
+            

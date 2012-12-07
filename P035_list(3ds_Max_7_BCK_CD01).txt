@@ -1,0 +1,952 @@
+ Volume in drive T is 3ds max 7
+ Volume Serial Number is 5EB3-804A
+
+ Directory of T:\
+
+10/05/2004  01:29 AM               134 3dsmaxcd.mid
+10/06/2004  04:34 PM    <DIR>          Bin
+10/22/2004  11:28 AM    <DIR>          CRACK
+10/06/2004  04:34 PM    <DIR>          Installs
+10/06/2004  04:34 PM    <DIR>          Manuals
+10/06/2004  12:12 AM           138,430 Readme.rtf
+10/05/2004  01:21 AM                45 autorun.inf
+10/05/2004  01:21 AM            17,574 maxicon.ico
+10/05/2004  01:21 AM           126,976 setup.exe
+10/05/2004  01:21 AM               395 setup.ini
+               6 File(s)        283,554 bytes
+
+ Directory of T:\Bin
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  03:32 PM               158 3DSMAXFEUI.INI
+10/05/2004  01:21 AM            32,019 3DSMAXFEUI.dbd
+10/05/2004  01:21 AM               831 3DSMAXFEUI.dsj
+10/05/2004  01:21 AM            10,256 AdskButton1-on.bmp
+10/05/2004  01:21 AM            10,256 AdskButton1-pressed.bmp
+10/05/2004  01:21 AM            10,256 AdskButton1-unpressed.bmp
+10/05/2004  01:21 AM            10,256 AdskButton2-on.bmp
+10/05/2004  01:21 AM            10,256 AdskButton2-pressed.bmp
+10/05/2004  01:21 AM            10,256 AdskButton2-unpressed.bmp
+10/05/2004  01:21 AM         1,440,056 Adsk_Back_Acad.BMP
+10/05/2004  01:21 AM           481,076 Adsk_Splash_Acad.bmp
+10/05/2004  01:21 AM           247,716 Dialog1.bmp
+10/05/2004  01:21 AM             6,776 Dialogbutton-on.bmp
+10/05/2004  01:21 AM             6,776 Dialogbutton-pressed.bmp
+10/05/2004  01:21 AM             6,776 Dialogbutton-unpressed.bmp
+10/05/2004  01:21 AM           503,808 demo32.exe
+              16 File(s)      2,787,528 bytes
+
+ Directory of T:\CRACK
+
+10/22/2004  11:28 AM    <DIR>          .
+10/22/2004  11:28 AM    <DIR>          ..
+10/21/2004  05:54 PM            55,296 Keygen.exe
+               1 File(s)         55,296 bytes
+
+ Directory of T:\Installs
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          3dsmax
+10/06/2004  04:34 PM    <DIR>          AddMapsMat
+10/06/2004  04:34 PM    <DIR>          Adobe
+10/06/2004  04:34 PM    <DIR>          ArchMat
+10/06/2004  04:34 PM    <DIR>          CADManager
+10/06/2004  04:34 PM    <DIR>          DirectX9
+10/06/2004  04:34 PM    <DIR>          NSA
+08/05/2004  08:07 PM        12,297,384 QuickTimeFullInstaller.exe
+10/06/2004  04:34 PM    <DIR>          Reference
+10/06/2004  04:34 PM    <DIR>          Sdk
+10/06/2004  04:34 PM    <DIR>          Tutorial
+10/06/2004  04:34 PM    <DIR>          backburner
+10/06/2004  04:34 PM    <DIR>          nlm
+               1 File(s)     12,297,384 bytes
+
+ Directory of T:\Installs\3dsmax
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:30 AM         4,652,032 3dsmax.msi
+10/05/2004  01:21 AM            40,448 3dsmaxsetup.exe
+10/05/2004  01:21 AM               754 3dsmaxsetup.ini
+10/05/2004  01:29 AM            85,383 AcMPolygonObj16.cab
+10/06/2004  04:34 PM    <DIR>          EULA
+10/05/2004  01:28 AM            50,452 EXE.cab
+10/05/2004  01:28 AM        26,335,063 EXE1.cab
+10/05/2004  01:28 AM        38,854,347 EXE2.cab
+10/05/2004  01:28 AM         1,047,060 Lbu.cab
+10/05/2004  01:29 AM            43,036 Odbx16extra.cab
+10/05/2004  01:29 AM           135,319 OdbxAsm_full16glob.cab
+10/05/2004  01:29 AM         3,260,591 OdbxCore16glob.cab
+10/05/2004  01:28 AM           888,310 Plu.cab
+10/05/2004  01:28 AM           259,784 PluEnu.cab
+10/05/2004  01:28 AM             5,159 Plucfg.cab
+10/06/2004  12:12 AM           138,430 Readme.rtf
+10/05/2004  01:29 AM            35,572 ad16asm80.cab
+10/05/2004  01:29 AM         8,574,311 asm80_acad.cab
+10/05/2004  01:29 AM            29,257 asm80_acmessages.cab
+10/05/2004  01:29 AM            61,917 atl.cab
+10/05/2004  01:28 AM         1,203,667 bb.cab
+10/05/2004  01:29 AM             8,190 comcat.cab
+10/05/2004  01:28 AM         1,147,849 idrop.cab
+10/05/2004  01:29 AM           464,639 mfc42.cab
+10/05/2004  01:29 AM            52,506 mpolygoncom16enu.cab
+10/05/2004  01:29 AM           503,614 mscomctl.cab
+10/06/2004  04:34 PM    <DIR>          msi
+10/05/2004  01:29 AM            37,870 msstkprp.cab
+10/05/2004  01:29 AM            23,257 msvcirt.cab
+10/05/2004  01:29 AM           114,755 msvcp60.cab
+10/05/2004  01:29 AM           139,308 msvcrt.cab
+10/05/2004  01:29 AM           262,699 odbxbrep16.cab
+10/05/2004  01:29 AM           459,224 oleaut32.cab
+              31 File(s)     88,914,803 bytes
+
+ Directory of T:\Installs\3dsmax\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\3dsmax\msi
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM         1,708,856 instmsi.exe
+10/05/2004  01:21 AM         1,822,520 instmsiw.exe
+               2 File(s)      3,531,376 bytes
+
+ Directory of T:\Installs\AddMapsMat
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            40,448 3dsmax7AddMapsMat.exe
+10/05/2004  01:21 AM               715 3dsmax7AddMapsMat.ini
+10/05/2004  01:32 AM         3,727,872 3dsmax7AddMapsMat.msi
+10/05/2004  01:32 AM        66,822,832 AddMapsMat.cab
+10/06/2004  04:34 PM    <DIR>          EULA
+               4 File(s)     70,591,867 bytes
+
+ Directory of T:\Installs\AddMapsMat\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\Adobe
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+12/22/2003  06:34 PM        16,706,160 AdbeRdr60_enu_full.exe
+               1 File(s)     16,706,160 bytes
+
+ Directory of T:\Installs\ArchMat
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            40,448 3dsmax7ArchMat.exe
+10/05/2004  01:21 AM               733 3dsmax7ArchMat.ini
+10/05/2004  01:34 AM         3,784,704 3dsmax7ArchMat.msi
+10/05/2004  01:33 AM       136,303,775 ArchMat.cab
+10/06/2004  04:34 PM    <DIR>          EULA
+               4 File(s)    140,129,660 bytes
+
+ Directory of T:\Installs\ArchMat\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\CADManager
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+09/07/2004  01:27 AM         1,079,808 CADManager.msi
+10/06/2004  04:34 PM    <DIR>          EULA
+10/06/2004  04:34 PM    <DIR>          Msi
+10/06/2004  04:34 PM    <DIR>          Program Files
+09/07/2004  01:03 AM            78,968 Setup.exe
+10/06/2004  04:34 PM    <DIR>          Windows
+04/30/2004  08:00 PM               673 setup.ini
+               3 File(s)      1,159,449 bytes
+
+ Directory of T:\Installs\CADManager\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+02/06/2004  12:18 AM           107,398 APac English.rtf
+02/11/2004  08:31 PM            18,243 AdskLicense.ini
+02/06/2004  12:17 AM           107,184 All Other Countries.rtf
+02/06/2004  12:18 AM           107,488 Americas All Other.rtf
+02/20/2004  07:16 AM           118,910 Belgie.rtf
+02/20/2004  07:17 AM            78,465 Belgique.rtf
+06/14/2004  07:45 PM            37,109 Ceska Republika.rtf
+02/06/2004  05:01 PM           108,551 Danmark.rtf
+02/20/2004  07:19 AM           123,741 Deutschland.rtf
+02/20/2004  07:20 AM           132,098 Espana.rtf
+02/20/2004  06:30 AM            78,418 France.rtf
+02/06/2004  05:13 PM           108,079 Greece.rtf
+02/06/2004  01:24 PM           108,591 Ireland.rtf
+02/20/2004  06:58 AM           123,790 Italia.rtf
+02/20/2004  07:00 AM           240,170 Japanese.rtf
+02/20/2004  07:01 AM           838,529 Korean.rtf
+02/20/2004  07:01 AM           132,540 LA Brazil.rtf
+02/20/2004  07:02 AM           131,318 LA Spanish.rtf
+02/20/2004  07:04 AM            78,356 Luxembourg-Luxemburg.rtf
+02/20/2004  07:06 AM           177,503 Magyar.rtf
+02/20/2004  07:07 AM           118,677 Nederland.rtf
+02/06/2004  05:16 PM           107,799 Norge.rtf
+02/20/2004  07:09 AM           123,773 Oesterreich.rtf
+02/20/2004  07:09 AM           152,003 Polska.rtf
+02/20/2004  07:10 AM           132,916 Portugal.rtf
+02/20/2004  07:11 AM           266,900 Russia.rtf
+02/20/2004  07:25 AM           124,296 Schweiz.rtf
+02/20/2004  07:13 AM           425,152 Simplified Chinese.rtf
+02/20/2004  07:13 AM           115,809 Slovenska Republika.rtf
+02/20/2004  07:14 AM            78,520 Suisse.rtf
+02/06/2004  04:37 PM           108,017 Suomi.rtf
+02/06/2004  04:36 PM           108,129 Sverige.rtf
+02/20/2004  07:15 AM           141,122 Traditional Chinese.rtf
+02/06/2004  04:44 PM           108,265 Turkiye.rtf
+02/06/2004  04:52 PM           109,440 US Canada.rtf
+02/06/2004  04:47 PM           107,712 United Kingdom.rtf
+              36 File(s)      5,285,011 bytes
+
+ Directory of T:\Installs\CADManager\Msi
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          NT
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\CADManager\Msi\NT
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/14/2002  08:18 PM         1,822,848 instmsi.exe
+               1 File(s)      1,822,848 bytes
+
+ Directory of T:\Installs\CADManager\Program Files
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Autodesk
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\CADManager\Program Files\Autodesk
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          CAD Manager Tools
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\CADManager\Program Files\Autodesk\CAD Manager Tools
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+09/06/2004  11:48 PM           471,672 AdPM.exe
+09/06/2004  11:48 PM           301,176 AdPMQEngine.dll
+09/06/2004  11:52 PM           164,984 AdPMRes.dll
+09/06/2004  11:48 PM           152,184 AdPMXML.dll
+09/06/2004  11:48 PM            63,096 AdSGDeploy.exe
+09/06/2004  11:52 PM            95,352 AdSGDeployRes.dll
+07/28/2004  06:36 PM           236,046 AdpmProducts.bin
+12/18/2003  06:29 PM           187,338 CADMgr.chm
+11/20/2003  06:08 PM            11,476 CADMgr.hlp
+12/18/2003  06:53 PM           166,951 CAD_MGR_CNTRL.chm
+09/06/2004  11:48 PM           218,232 CMControl.exe
+09/06/2004  11:53 PM            46,200 CMControlRes.dll
+12/16/2002  11:50 PM             4,157 ReadMe_CADMgr.htm
+01/05/2002  11:48 AM           974,848 mfc70.dll
+01/05/2002  11:36 AM           964,608 mfc70u.dll
+01/05/2002  10:37 AM           344,064 msvcr70.dll
+              16 File(s)      4,402,384 bytes
+
+ Directory of T:\Installs\CADManager\Windows
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Installer
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\CADManager\Windows\Installer
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+09/07/2004  01:03 AM            21,112 CustomRes.dll
+               1 File(s)         21,112 bytes
+
+ Directory of T:\Installs\DirectX9
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+07/09/2004  04:13 PM           703,080 BDA.cab
+07/20/2004  05:58 AM         1,156,363 BDANT.cab
+07/20/2004  05:53 AM           976,020 BDAXP.cab
+07/09/2004  10:03 AM            62,976 DSETUP.dll
+07/09/2004  04:13 PM        15,493,481 DirectX.cab
+07/22/2004  05:51 PM         3,432,656 ManagedDX.CAB
+07/09/2004  11:08 AM         2,242,560 dsetup32.dll
+07/09/2004  09:17 PM        13,265,040 dxnt.cab
+07/09/2004  11:08 AM           472,576 dxsetup.exe
+03/31/2003  10:06 PM         1,127,936 mdxredist.msi
+              10 File(s)     38,932,688 bytes
+
+ Directory of T:\Installs\NSA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Msi
+09/27/2004  10:21 PM           856,576 NSA.msi
+10/06/2004  04:34 PM    <DIR>          Program Files
+10/06/2004  04:34 PM    <DIR>          eula
+07/10/2003  06:56 PM            50,688 setup.exe
+09/28/2004  07:24 PM               919 setup.ini
+               3 File(s)        908,183 bytes
+
+ Directory of T:\Installs\NSA\Msi
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          9x
+10/06/2004  04:34 PM    <DIR>          NT
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\NSA\Msi\9x
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/14/2002  09:14 PM         1,709,160 instmsi.exe
+               1 File(s)      1,709,160 bytes
+
+ Directory of T:\Installs\NSA\Msi\NT
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/14/2002  09:18 PM         1,822,848 instmsi.exe
+               1 File(s)      1,822,848 bytes
+
+ Directory of T:\Installs\NSA\Program Files
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Autodesk Network License Manager
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\NSA\Program Files\Autodesk Network License Manager
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Network License Authorization
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\NSA\Program Files\Autodesk Network License Manager\Network License Authorization
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          enu
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\NSA\Program Files\Autodesk Network License Manager\Network License Authorization\enu
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+09/27/2004  08:38 PM            33,400 3DSMAX7NLA.exe
+02/25/2004  08:36 AM           281,208 Ereg.dll
+02/25/2004  08:39 AM            17,016 Eregres.dll
+10/06/2004  04:34 PM    <DIR>          WebDepot
+01/05/2002  12:48 PM           974,848 mfc70.dll
+01/05/2002  12:36 PM           964,608 mfc70u.dll
+01/05/2002  11:40 AM           487,424 msvcp70.dll
+01/05/2002  11:37 AM           344,064 msvcr70.dll
+               7 File(s)      3,102,568 bytes
+
+ Directory of T:\Installs\NSA\Program Files\Autodesk Network License Manager\Network License Authorization\enu\WebDepot
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+08/28/2002  07:53 PM             2,259 ADSKLogo.png
+11/13/2003  07:04 PM             4,178 NSA_RT0102SNInvalid.html
+11/13/2003  07:04 PM             4,257 NSA_RT113TooManySeats.html
+11/13/2003  07:04 PM             3,218 NSA_RTAuthConfirmed.html
+11/13/2003  07:04 PM             3,765 NSA_RTBegin.html
+11/13/2003  07:04 PM             5,638 NSA_RTConfirmServerAndSeat.html
+12/01/2003  08:25 PM            14,336 NSA_RTEditServerAndSeat.html
+11/25/2003  10:09 PM             6,583 NSA_RTSaveLicense.html
+11/26/2003  12:06 AM             3,501 NSA_RTSaveLicenseHelp.html
+01/20/2004  04:38 PM             2,114 NSA_RTServerModelHelp.html
+09/24/2002  06:20 PM             5,753 PrivacyPolicy.html
+11/13/2003  07:04 PM             5,039 RT0015TempSysErr.html
+12/09/2003  10:06 PM             4,538 RT010203071213CannotCompErrA.html
+11/13/2003  07:04 PM             3,040 RT09AlreadyReg.html
+11/13/2003  07:04 PM             3,167 RT10ExceededAuths.html
+11/13/2003  07:04 PM             4,485 RT18OldSNInvalid.html
+12/09/2003  10:06 PM             5,416 RT20DataError.html
+11/13/2003  07:01 PM             5,099 RT21CustIDTelErr.html
+11/13/2003  07:01 PM             2,057 RT22NetworkInstallation.html
+12/09/2003  10:06 PM             5,745 RT900SystemNotResponding.html
+01/25/2004  10:18 PM            11,062 RTAnimDots.js
+11/13/2003  07:01 PM             3,276 RTAuthConfirmed.html
+11/13/2003  07:01 PM             4,050 RTAuthEntryError.html
+12/09/2003  10:06 PM             5,826 RTAuthError.html
+11/13/2003  07:01 PM             4,498 RTAuthNow.html
+11/13/2003  07:01 PM             2,121 RTAuthPermissionError.html
+11/13/2003  07:01 PM             4,760 RTBeginReg.html
+11/13/2003  07:01 PM             2,792 RTBuyInformation.html
+12/09/2003  10:14 PM             8,128 RTConfirm.html
+12/09/2003  10:14 PM             6,668 RTConnect.html
+12/09/2003  10:14 PM             5,587 RTConnectFail.html
+11/13/2003  07:01 PM             2,859 RTContactAutodesk.html
+01/25/2004  10:19 PM            46,046 RTCountry.js
+11/13/2003  07:01 PM             6,324 RTCountryPage.html
+01/06/2004  07:39 PM             3,126 RTCustID.html
+12/09/2003  10:14 PM             3,105 RTCustIDConfirm.html
+11/13/2003  07:01 PM             1,880 RTEaseReAuthBeginReg.html
+12/10/2003  11:41 PM            10,529 RTEmail.html
+12/10/2003  11:24 PM             5,636 RTEmailOptions.html
+03/30/2000  08:43 PM               210 RTError.gif
+11/13/2003  07:01 PM             7,519 RTFaxUS.html
+01/25/2004  10:19 PM            10,314 RTHeader.js
+10/27/2003  09:19 PM               213 RTHelp.gif
+11/13/2003  07:01 PM             5,107 RTLicFileSaveError.html
+01/14/2004  06:38 PM             7,431 RTMailUS.html
+11/13/2003  07:01 PM             4,749 RTNoNewSN.html
+12/09/2003  10:14 PM             5,145 RTPurchAuthFailed.html
+11/13/2003  07:01 PM             2,374 RTPurchConfirmOther.html
+11/13/2003  07:01 PM             2,415 RTPurchConfirmPerm.html
+11/13/2003  07:01 PM             2,872 RTPurchConfirmReg.html
+11/13/2003  07:01 PM             2,345 RTPurchConfirmRegVol.html
+11/13/2003  07:01 PM             2,456 RTPurchConfirmRent.html
+11/13/2003  07:01 PM             2,826 RTPurchConfirmUnReg.html
+11/13/2003  07:01 PM             4,893 RTPurchConnectionFailed.html
+11/13/2003  07:01 PM             5,081 RTPurchaseError.html
+11/13/2003  07:01 PM             2,581 RTPurchaseOffline.html
+11/13/2003  07:01 PM             2,120 RTRegConfirmed.html
+11/13/2003  07:01 PM             5,638 RTRegVol.html
+02/05/2004  04:14 PM            70,915 RTResStrings.js
+02/05/2004  04:14 PM            48,794 RTResource.js
+11/13/2003  07:01 PM             4,681 RTSNMismatch.html
+11/13/2003  07:01 PM             2,106 RTSUNDataConfirm.html
+11/13/2003  07:01 PM             2,303 RTSUNOldSNInvalid.html
+11/13/2003  07:01 PM             2,477 RTSUNServer.html
+11/13/2003  07:01 PM             8,788 RTSUNSubmit.html
+01/25/2004  10:21 PM            11,292 RTServerInfoBlock.js
+01/25/2004  10:21 PM             9,538 RTSoftwareSection.js
+11/11/2003  11:34 PM               526 RTStyle1.css
+01/25/2004  10:21 PM             9,177 RTTempPath.js
+11/13/2003  07:01 PM            10,488 RTUserInfo.html
+02/05/2004  04:14 PM             9,190 RTVersion.js
+10/28/2003  06:39 PM               605 RTWarning.gif
+              72 File(s)        499,630 bytes
+
+ Directory of T:\Installs\NSA\eula
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+02/06/2004  01:18 AM           107,398 APac English.rtf
+02/11/2004  09:31 PM            18,243 AdskLicense.ini
+02/06/2004  01:17 AM           107,184 All Other Countries.rtf
+02/06/2004  01:18 AM           107,488 Americas All Other.rtf
+02/20/2004  08:16 AM           118,910 Belgie.rtf
+02/20/2004  08:17 AM            78,465 Belgique.rtf
+02/20/2004  08:18 AM           116,124 Ceska Republika.rtf
+02/06/2004  06:01 PM           108,551 Danmark.rtf
+02/20/2004  08:19 AM           123,741 Deutschland.rtf
+02/20/2004  08:20 AM           132,098 Espana.rtf
+02/20/2004  07:30 AM            78,418 France.rtf
+02/06/2004  06:13 PM           108,079 Greece.rtf
+02/06/2004  02:24 PM           108,591 Ireland.rtf
+02/20/2004  07:58 AM           123,790 Italia.rtf
+02/20/2004  08:00 AM           240,170 Japanese.rtf
+02/20/2004  08:01 AM           838,529 Korean.rtf
+02/20/2004  08:01 AM           132,540 LA Brazil.rtf
+02/20/2004  08:02 AM           131,318 LA Spanish.rtf
+02/20/2004  08:04 AM            78,356 Luxembourg-Luxemburg.rtf
+02/20/2004  08:06 AM           177,503 Magyar.rtf
+02/20/2004  08:07 AM           118,677 Nederland.rtf
+02/06/2004  06:16 PM           107,799 Norge.rtf
+02/20/2004  08:09 AM           123,773 Oesterreich.rtf
+02/20/2004  08:09 AM           152,003 Polska.rtf
+02/20/2004  08:10 AM           132,916 Portugal.rtf
+02/20/2004  08:11 AM           266,900 Russia.rtf
+02/20/2004  08:25 AM           124,296 Schweiz.rtf
+02/20/2004  08:13 AM           425,152 Simplified Chinese.rtf
+02/20/2004  08:13 AM           115,809 Slovenska Republika.rtf
+02/20/2004  08:14 AM            78,520 Suisse.rtf
+02/06/2004  05:37 PM           108,017 Suomi.rtf
+02/06/2004  05:36 PM           108,129 Sverige.rtf
+02/20/2004  08:15 AM           141,122 Traditional Chinese.rtf
+02/06/2004  05:44 PM           108,265 Turkiye.rtf
+02/06/2004  05:52 PM           109,440 US Canada.rtf
+02/06/2004  05:47 PM           107,712 United Kingdom.rtf
+              36 File(s)      5,364,026 bytes
+
+ Directory of T:\Installs\Reference
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            40,448 3dsmax7Reference.exe
+10/05/2004  01:21 AM               727 3dsmax7Reference.ini
+10/05/2004  01:31 AM         3,668,480 3dsmax7Reference.msi
+10/06/2004  04:34 PM    <DIR>          EULA
+10/05/2004  01:31 AM       129,218,877 Reference.cab
+               4 File(s)    132,928,532 bytes
+
+ Directory of T:\Installs\Reference\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\Sdk
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            40,448 3dsmax7Sdk.exe
+10/05/2004  01:21 AM               764 3dsmax7Sdk.ini
+10/05/2004  01:36 AM         4,619,776 3dsmax7Sdk.msi
+10/06/2004  04:34 PM    <DIR>          EULA
+10/05/2004  01:36 AM        20,795,190 Sdk.cab
+               4 File(s)     25,456,178 bytes
+
+ Directory of T:\Installs\Sdk\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\Tutorial
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\backburner
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          EULA
+10/05/2004  01:36 AM         1,203,289 backburner.cab
+10/05/2004  01:21 AM            40,448 backburnerSetup.exe
+10/05/2004  01:21 AM               688 backburnerSetup.ini
+10/05/2004  01:36 AM         3,662,848 backburnerSetup.msi
+               4 File(s)      4,907,273 bytes
+
+ Directory of T:\Installs\backburner\EULA
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/05/2004  01:21 AM            64,727 APac English.rtf
+10/05/2004  01:21 AM            17,358 AdskLicense.ini
+10/05/2004  01:21 AM            65,044 All Other Countries.rtf
+10/05/2004  01:21 AM            65,210 Americas All Other.rtf
+10/05/2004  01:21 AM            61,045 Belgie.rtf
+10/05/2004  01:21 AM            70,178 Belgique.rtf
+10/05/2004  01:21 AM            75,861 Ceska Republika.rtf
+10/05/2004  01:21 AM            79,893 Danmark.rtf
+10/05/2004  01:21 AM            68,292 Deutschland.rtf
+10/05/2004  01:21 AM            65,698 Espana.rtf
+10/05/2004  01:21 AM            82,764 France.rtf
+10/05/2004  01:21 AM           147,703 Greece.rtf
+10/05/2004  01:21 AM            68,808 Ireland.rtf
+10/05/2004  01:21 AM            61,615 Italia.rtf
+10/05/2004  01:21 AM           205,457 Japanese.rtf
+10/05/2004  01:21 AM           697,067 Korean.rtf
+10/05/2004  01:21 AM            65,428 LA Brazil.rtf
+10/05/2004  01:21 AM            77,754 LA Spanish.rtf
+10/05/2004  01:21 AM            73,244 Luxembourg-Luxemburg.rtf
+10/05/2004  01:21 AM            69,930 Magyar.rtf
+10/05/2004  01:21 AM            58,240 Nederland.rtf
+10/05/2004  01:21 AM            86,246 Norge.rtf
+10/05/2004  01:21 AM            69,040 Oesterreich.rtf
+10/05/2004  01:21 AM            66,420 Polska.rtf
+10/05/2004  01:21 AM            70,187 Portugal.rtf
+10/05/2004  01:21 AM           147,486 Russia.rtf
+10/05/2004  01:21 AM            78,887 Schweiz.rtf
+10/05/2004  01:21 AM           170,612 Simplified Chinese.rtf
+10/05/2004  01:21 AM            68,593 Slovenska Republika.rtf
+10/05/2004  01:21 AM            69,620 Suisse.rtf
+10/05/2004  01:21 AM            54,193 Suomi.rtf
+10/05/2004  01:21 AM            67,810 Sverige.rtf
+10/05/2004  01:21 AM           160,943 Traditional Chinese.rtf
+10/05/2004  01:21 AM           121,713 Turkiye.rtf
+10/05/2004  01:21 AM            55,606 US Canada.rtf
+10/05/2004  01:21 AM            56,648 United Kingdom.rtf
+              36 File(s)      3,585,320 bytes
+
+ Directory of T:\Installs\nlm
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Msi
+02/25/2004  11:22 AM           815,616 NLM.msi
+10/06/2004  04:34 PM    <DIR>          Program Files
+10/06/2004  04:34 PM    <DIR>          SAMreport-Lite
+10/06/2004  04:34 PM    <DIR>          eula
+07/10/2003  06:56 PM            50,688 setup.exe
+10/21/2002  09:16 PM               914 setup.ini
+               3 File(s)        867,218 bytes
+
+ Directory of T:\Installs\nlm\Msi
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          9x
+10/06/2004  04:34 PM    <DIR>          NT
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\nlm\Msi\9x
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/14/2002  09:14 PM         1,709,160 instmsi.exe
+               1 File(s)      1,709,160 bytes
+
+ Directory of T:\Installs\nlm\Msi\NT
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/14/2002  09:18 PM         1,822,848 instmsi.exe
+               1 File(s)      1,822,848 bytes
+
+ Directory of T:\Installs\nlm\Program Files
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Autodesk Network License Manager
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\nlm\Program Files\Autodesk Network License Manager
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          Docs
+02/02/2004  11:23 PM         1,004,664 adskflex.exe
+12/10/2003  11:10 PM           659,456 lmgrd.exe
+12/10/2003  11:23 PM           761,856 lmtools.exe
+12/10/2003  11:11 PM           630,784 lmutil.exe
+               4 File(s)      3,056,760 bytes
+
+ Directory of T:\Installs\nlm\Program Files\Autodesk Network License Manager\Docs
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+10/06/2004  04:34 PM    <DIR>          FlexUser
+               0 File(s)              0 bytes
+
+ Directory of T:\Installs\nlm\Program Files\Autodesk Network License Manager\Docs\FlexUser
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+07/08/2003  05:20 PM            45,105 IX.htm
+07/08/2003  05:20 PM            25,463 TOC.htm
+08/09/2002  04:20 PM            14,860 catalog.css
+07/08/2003  05:20 PM             7,721 chap0.htm
+07/08/2003  05:20 PM            40,002 chap1.htm
+07/08/2003  05:20 PM            56,125 chap10.htm
+07/08/2003  05:20 PM            13,682 chap11.htm
+07/08/2003  05:20 PM             9,770 chap12.htm
+07/08/2003  05:20 PM            33,844 chap13.htm
+07/08/2003  05:20 PM             7,483 chap14.htm
+07/08/2003  05:20 PM            26,034 chap15.htm
+07/08/2003  05:20 PM            22,597 chap16.htm
+07/08/2003  05:20 PM            21,890 chap2.htm
+07/08/2003  05:20 PM            25,898 chap3.htm
+07/08/2003  05:20 PM            19,373 chap4.htm
+07/08/2003  05:20 PM            75,998 chap5.htm
+07/08/2003  05:20 PM            24,865 chap6.htm
+07/08/2003  05:20 PM            83,374 chap7.htm
+07/08/2003  05:20 PM            29,600 chap8.htm
+07/08/2003  05:20 PM            16,430 chap9.htm
+08/09/2002  04:20 PM               456 document.css
+10/06/2004  04:34 PM    <DIR>          graphics
+              21 File(s)        600,570 bytes
+
+ Directory of T:\Installs\nlm\Program Files\Autodesk Network License Manager\Docs\FlexUser\graphics
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+08/09/2002  04:20 PM               722 BALL.gif
+08/09/2002  04:20 PM             2,921 FLEXlm.gif
+08/16/2000  02:10 PM               833 arrwrite.gif
+08/09/2002  04:20 PM               888 check_mark.gif
+10/17/2002  04:30 PM            10,822 feu_intro.gif
+10/17/2002  04:30 PM            25,729 feu_intro2.gif
+08/09/2002  04:20 PM            44,936 feu_multiple2.gif
+08/09/2002  04:20 PM            22,427 feu_multiple3.gif
+08/09/2002  04:20 PM            20,561 feu_multiple4.gif
+08/09/2002  04:20 PM            14,813 feu_multiple5.gif
+08/09/2002  04:20 PM            27,165 feu_multiplea.gif
+07/08/2003  05:20 PM             1,827 footerAddress.gif
+07/08/2003  05:20 PM             2,977 gsitoplogo.gif
+08/09/2002  04:20 PM             1,205 indexx.gif
+08/09/2002  04:20 PM               178 indexxsb.gif
+07/08/2003  05:20 PM            10,302 lmtools.gif
+07/08/2003  05:20 PM            48,278 myvendor.gif
+07/08/2003  05:20 PM             9,280 myvendor_noservices.gif
+08/09/2002  04:20 PM               946 nextx.gif
+08/09/2002  04:20 PM               193 nextxsb.gif
+08/09/2002  04:20 PM               951 prevx.gif
+08/09/2002  04:20 PM               193 prevxsb.gif
+08/09/2002  04:20 PM             1,057 sindex.gif
+08/09/2002  04:20 PM               280 sindexsb.gif
+08/09/2002  04:20 PM               946 snext.gif
+08/09/2002  04:20 PM               193 snextsb.gif
+08/09/2002  04:20 PM               951 sprev.gif
+08/09/2002  04:20 PM               193 sprevsb.gif
+07/08/2003  05:20 PM             8,490 startstop.gif
+08/09/2002  04:20 PM             1,029 stoc.gif
+08/09/2002  04:20 PM               268 stocsb.gif
+08/09/2002  04:20 PM             1,177 tocx.gif
+08/09/2002  04:20 PM               212 tocxsb.gif
+              33 File(s)        262,943 bytes
+
+ Directory of T:\Installs\nlm\SAMreport-Lite
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+11/22/2002  09:06 PM         4,498,430 SAMreport.exe
+10/18/2002  08:15 PM         9,937,344 j2re-1_4_1_01-windows-i586-i.exe
+08/23/2004  12:17 PM        15,633,128 j2re-1_4_2_05-windows-i586-p.exe
+               3 File(s)     30,068,902 bytes
+
+ Directory of T:\Installs\nlm\eula
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+02/06/2004  01:18 AM           107,398 APac English.rtf
+02/11/2004  09:31 PM            18,243 AdskLicense.ini
+02/06/2004  01:17 AM           107,184 All Other Countries.rtf
+02/06/2004  01:18 AM           107,488 Americas All Other.rtf
+02/20/2004  08:16 AM           118,910 Belgie.rtf
+02/20/2004  08:17 AM            78,465 Belgique.rtf
+02/20/2004  08:18 AM           116,124 Ceska Republika.rtf
+02/06/2004  06:01 PM           108,551 Danmark.rtf
+02/20/2004  08:19 AM           123,741 Deutschland.rtf
+02/20/2004  08:20 AM           132,098 Espana.rtf
+02/20/2004  07:30 AM            78,418 France.rtf
+02/06/2004  06:13 PM           108,079 Greece.rtf
+02/06/2004  02:24 PM           108,591 Ireland.rtf
+02/20/2004  07:58 AM           123,790 Italia.rtf
+02/20/2004  08:00 AM           240,170 Japanese.rtf
+02/20/2004  08:01 AM           838,529 Korean.rtf
+02/20/2004  08:01 AM           132,540 LA Brazil.rtf
+02/20/2004  08:02 AM           131,318 LA Spanish.rtf
+02/20/2004  08:04 AM            78,356 Luxembourg-Luxemburg.rtf
+02/20/2004  08:06 AM           177,503 Magyar.rtf
+02/20/2004  08:07 AM           118,677 Nederland.rtf
+02/06/2004  06:16 PM           107,799 Norge.rtf
+02/20/2004  08:09 AM           123,773 Oesterreich.rtf
+02/20/2004  08:09 AM           152,003 Polska.rtf
+02/20/2004  08:10 AM           132,916 Portugal.rtf
+02/20/2004  08:11 AM           266,900 Russia.rtf
+02/20/2004  08:25 AM           124,296 Schweiz.rtf
+02/20/2004  08:13 AM           425,152 Simplified Chinese.rtf
+02/20/2004  08:13 AM           115,809 Slovenska Republika.rtf
+02/20/2004  08:14 AM            78,520 Suisse.rtf
+02/06/2004  05:37 PM           108,017 Suomi.rtf
+02/06/2004  05:36 PM           108,129 Sverige.rtf
+02/20/2004  08:15 AM           141,122 Traditional Chinese.rtf
+02/06/2004  05:44 PM           108,265 Turkiye.rtf
+02/06/2004  05:52 PM           109,440 US Canada.rtf
+02/06/2004  05:47 PM           107,712 United Kingdom.rtf
+              36 File(s)      5,364,026 bytes
+
+ Directory of T:\Manuals
+
+10/06/2004  04:34 PM    <DIR>          .
+10/06/2004  04:34 PM    <DIR>          ..
+09/22/2004  10:59 PM        15,536,322 3dsmax7_ig.pdf
+01/07/2004  07:13 PM            30,125 ADSK_PLU250.HLP
+09/23/2004  10:59 PM           141,560 NetInstallGuide.pdf
+01/07/2004  06:59 PM           166,991 acad_brw.chm
+02/20/2004  01:23 AM           663,856 adsk_nlg.pdf
+12/16/2003  11:54 PM           216,437 adsk_plu250.chm
+02/07/2004  02:14 AM           219,093 adsk_slg.pdf
+09/23/2004  11:01 PM        17,554,193 newfeatures.pdf
+02/05/2004  12:47 AM           318,070 samlite_ug.pdf
+               9 File(s)     34,846,647 bytes
+
+     Total Files Listed:
+             592 File(s)    663,730,512 bytes
+             150 Dir(s)               0 bytes free

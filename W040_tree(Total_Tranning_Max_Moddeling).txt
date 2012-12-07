@@ -1,0 +1,198 @@
+Folder PATH listing for volume TTMMOD
+Volume serial number is 0FF7-5799
+G:\
++---Bonus
+|   +---PDF Tutorial
+|   |       Buggy_tutorial.pdf
+|   |       
+|   \---Video tutorial
+|           array.mov
+|           bevel_profile.mov
+|           bridge.mov
+|           cap.mov
+|           chamfer.mov
+|           conform.mov
+|           connect.mov
+|           cut.mov
+|           kabel.mov
+|           lathe.mov
+|           level_of_detail.mov
+|           merge.mov
+|           pathdeform.mov
+|           pivot.mov
+|           readme.txt
+|           scatter.mov
+|           shape_merge.mov
+|           smooth.mov
+|           symmetry.mov
+|           terrain.mov
+|           
++---Gallery
+|       Lambo_lowres.jpg
+|       Sci-fi_armored_vehicle.jpg
+|       Somethin_Bandit.jpg
+|       Somethin_Bandit2.jpg
+|       Universe_DVD_pack.jpg
+|       Universe_Experience.jpg
+|       Universe_Value_Pack.jpg
+|       
++---Models
+|       LowRes_Lambo_Gallardo.max
+|       RC.max
+|       Sci-Fi_Light_Armored_Vehicle.max
+|       
++---StarterKit
+|       concept.max
+|       garage1.max
+|       garage2.max
+|       level_design_for_game.max
+|       murcielago.max
+|       sci-fi_concept.max
+|       
+\---Tutorial
+    +---Ch01
+    |       asteroid_finished.max
+    |       boolean.max
+    |       chair_finished.max
+    |       dna.max
+    |       rock.max
+    |       spacingtool.max
+    |       spacingtool_finished.max
+    |       
+    +---Ch02
+    |       3dtext_finished.max
+    |       lathe_finished.max
+    |       loft01.max
+    |       loft01_finished.max
+    |       loft02.max
+    |       loft02_finished.max
+    |       logo.jpg
+    |       logo.max
+    |       logo_finished.max
+    |       urban_street.max
+    |       urban_street_finished.max
+    |       
+    +---Ch03
+    |       apache_finished.max
+    |       building_finished.max
+    |       
+    +---Ch04
+    |       bathtub.max
+    |       bathtub_finished.max
+    |       bottle1.max
+    |       bottle1_finished.max
+    |       bottle2.max
+    |       bottle2_finished.max
+    |       mouse.max
+    |       mouse_finished.max
+    |       mouse_side.jpg
+    |       mouse_top.jpg
+    |       
+    +---Ch05
+    |       body.jpg
+    |       cliff.jpg
+    |       landscape_finished.max
+    |       sixpackbody.max
+    |       sixpackbody_finished.max
+    |       
+    +---Ch06
+    |       Back.jpg
+    |       Front.jpg
+    |       Side.jpg
+    |       Top.jpg
+    |       blueprint_finished.max
+    |       
+    +---Ch07
+    |       RC_Car_00.max
+    |       RC_Car_01.max
+    |       RC_Car_02.max
+    |       RC_Car_03.max
+    |       RC_Car_finished.max
+    |       align.max
+    |       bridge.max
+    |       cap.max
+    |       conform.max
+    |       conform_finished.max
+    |       connect.max
+    |       constraints.max
+    |       create_polygon.max
+    |       extrude_along_spline.max
+    |       extrude_along_spline_finished.max
+    |       extrude_edge.max
+    |       hinge_from_edge.max
+    |       hinge_from_edge_finished.max
+    |       octopus.max
+    |       pathdeform.max
+    |       pathdeform_finished.max
+    |       remove_vertex.max
+    |       scar.max
+    |       scar_finished.max
+    |       selection.max
+    |       shark.max
+    |       shell.max
+    |       smooth_subobject.max
+    |       targetweld.max
+    |       terrain_paintdeformation.max
+    |       trash.max
+    |       turbosmooth.max
+    |       
+    +---Ch08
+    |       ROOM1.max
+    |       ROOM2.max
+    |       ROOM_merged.max
+    |       ROOM_xref.max
+    |       multires.max
+    |       polycount.max
+    |       
+    +---Ch09
+    |       juvenile.jpg
+    |       shark.max
+    |       shark_finished.max
+    |       
+    +---Ch10
+    |       readme.txt
+    |       
+    +---Ch11
+    |       Back.jpg
+    |       Front.jpg
+    |       Side.jpg
+    |       Top.jpg
+    |       lambo01.max
+    |       lambo02.max
+    |       lambo03.max
+    |       lambo04.max
+    |       lambo05.max
+    |       lambo06.max
+    |       lambo07.max
+    |       lambo08.max
+    |       lambo09.max
+    |       lambo_start.max
+    |       pct1.jpg
+    |       pct2.jpg
+    |       
+    \---Materials
+            CONCGRAY.JPG
+            Cement_render.jpg
+            ESRB.jpg
+            Sitework.Paving.jpg
+            asphalt stripe.jpg
+            body.jpg
+            box.jpg
+            bunker.jpg
+            cliff.jpg
+            door.jpg
+            elect.jpg
+            flakeywall.jpg
+            juvenile.jpg
+            lamp.jpg
+            mouse_side.jpg
+            mouse_top.jpg
+            oldmetal.jpg
+            pipe.jpg
+            roof1.jpg
+            rubble.jpg
+            rust_paint.jpg
+            tex43.bmp
+            wall.jpg
+            wall2.jpg
+            

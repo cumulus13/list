@@ -1,0 +1,2030 @@
+Folder PATH listing for volume 741M_v1.0
+Volume serial number is 067E-C7B1
+J:\
+|   741M01C ReadMe.htm
+|   autorun.inf
+|   
++---Acrobat
+|       AdbeRdr60_enu_full.exe
+|       
++---ChipDrv
+|   +---IDE
+|   |   |   DATA.TAG
+|   |   |   DATA.TAG.bak
+|   |   |   SETUP.EXE
+|   |   |   SETUP.INI
+|   |   |   _INST32I.EX_
+|   |   |   _ISDEL.EXE
+|   |   |   _sys1.cab
+|   |   |   _user1.cab
+|   |   |   data1.cab
+|   |   |   lang.dat
+|   |   |   layout.bin
+|   |   |   os.dat
+|   |   |   setup.ins
+|   |   |   setup.iss
+|   |   |   setup.lid
+|   |   |   
+|   |   +---IDE
+|   |   |   +---IdeUtil
+|   |   |   |       IDEproperty.dll
+|   |   |   |       PropInstall.exe
+|   |   |   |       SISIDE.exe
+|   |   |   |       sisvsd.vxd
+|   |   |   |       
+|   |   |   +---win2k
+|   |   |   |       SISIDE.INF
+|   |   |   |       SISIDE2K.DLL
+|   |   |   |       siside.cat
+|   |   |   |       siside.sys
+|   |   |   |       sisidex.sys
+|   |   |   |       sisperf.sys
+|   |   |   |       
+|   |   |   \---winxp
+|   |   |           SISIDE.INF
+|   |   |           SISIDEXP.dll
+|   |   |           siside.cat
+|   |   |           siside.sys
+|   |   |           sisidex.sys
+|   |   |           sisperf.sys
+|   |   |           
+|   |   +---SISfiles
+|   |   |       DMA98.exe
+|   |   |       HDinfo.exe
+|   |   |       INST2000.DLL
+|   |   |       SISVSD.VXD
+|   |   |       SisFilter.exe
+|   |   |       ata133ap.exe
+|   |   |       infinstall.exe
+|   |   |       waitwnd.exe
+|   |   |       
+|   |   \---setupdir
+|   |       +---0003
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0005
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0006
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0007
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0008
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0009
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---000a
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---000b
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---000e
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0010
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0011
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0012
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0013
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0014
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0015
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0019
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---001b
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---001d
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---001e
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---001f
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0021
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0024
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---002d
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0404
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---040c
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0416
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0804
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0816
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       \---0c0c
+|   |               _SETUP.DLL
+|   |               
+|   \---SISRaid
+|       |   SIS SATA Raid user manual.doc
+|       |   
+|       +---RAID
+|       |   |   data1.cab
+|       |   |   data1.hdr
+|       |   |   data2.cab
+|       |   |   engine32.cab
+|       |   |   layout.bin
+|       |   |   setup.boot
+|       |   |   setup.exe
+|       |   |   setup.ini
+|       |   |   
+|       |   +---180
+|       |   |   +---win2000
+|       |   |   |       SISRaid.INF
+|       |   |   |       property.dll
+|       |   |   |       sisraid.cat
+|       |   |   |       sisraid.sys
+|       |   |   |       
+|       |   |   \---winxp
+|       |   |           SISRaid.INF
+|       |   |           property.dll
+|       |   |           sisraid.cat
+|       |   |           sisraid.sys
+|       |   |           
+|       |   +---180OB
+|       |   |   +---win2000
+|       |   |   |       SISRaid1.INF
+|       |   |   |       property.dll
+|       |   |   |       sisraid.cat
+|       |   |   |       sisraid1.sys
+|       |   |   |       
+|       |   |   \---winxp
+|       |   |           SISRaid1.INF
+|       |   |           property.dll
+|       |   |           sisraid.cat
+|       |   |           sisraid1.sys
+|       |   |           
+|       |   \---win98me
+|       |           sisraid.INF
+|       |           sisraid.cat
+|       |           sisraid.mpd
+|       |           
+|       \---disk_v1.05
+|           |   SISRAID
+|           |   TXTSETUP.OEM
+|           |   
+|           \---RAID
+|               +---win2000
+|               |       SISRaid.INF
+|               |       property.dll
+|               |       sisraid.cat
+|               |       sisraid.sys
+|               |       
+|               +---win98me
+|               |       sisraid.INF
+|               |       sisraid.cat
+|               |       sisraid.mpd
+|               |       
+|               \---winxp
+|                       SISRaid.INF
+|                       property.dll
+|                       sisraid.cat
+|                       sisraid.sys
+|                       
++---DevDrv
+|   +---AGP
+|   |   |   DATA.TAG
+|   |   |   SETUP.EXE
+|   |   |   SETUP.INI
+|   |   |   _INST32I.EX_
+|   |   |   _ISDEL.EXE
+|   |   |   _sys1.cab
+|   |   |   _user1.cab
+|   |   |   data1.cab
+|   |   |   lang.dat
+|   |   |   layout.bin
+|   |   |   os.dat
+|   |   |   setup-s.bat
+|   |   |   setup.ins
+|   |   |   setup.iss
+|   |   |   setup.lid
+|   |   |   
+|   |   +---AGP
+|   |   |   +---AGPUtil
+|   |   |   |       AGPutil.exe
+|   |   |   |       WINIO.VXD
+|   |   |   |       WinIo.dll
+|   |   |   |       WinIo.sys
+|   |   |   |       
+|   |   |   +---current
+|   |   |   |   +---WIN2000
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       sisagpx.sys
+|   |   |   |   |       
+|   |   |   |   +---WIN98
+|   |   |   |   |       SISAGP.PCI
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       
+|   |   |   |   +---WINME
+|   |   |   |   |       SISAGP.PCI
+|   |   |   |   |       sisagp.cat
+|   |   |   |   |       sisagp.inf
+|   |   |   |   |       
+|   |   |   |   \---WINXP
+|   |   |   |           sisagp.cat
+|   |   |   |           sisagp.inf
+|   |   |   |           sisagpx.sys
+|   |   |   |           
+|   |   |   +---htpatch
+|   |   |   |       HTinst.exe
+|   |   |   |       HTpatch.exe
+|   |   |   |       HTuninst.exe
+|   |   |   |       WinIo.dll
+|   |   |   |       WinIo.sys
+|   |   |   |       
+|   |   |   \---old
+|   |   |       +---WIN2000
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       sisagpx.sys
+|   |   |       |       
+|   |   |       +---WIN98
+|   |   |       |       SISAGP.pci
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       
+|   |   |       +---WINME
+|   |   |       |       SISAGP.pci
+|   |   |       |       sisagp.cat
+|   |   |       |       sisagp.inf
+|   |   |       |       
+|   |   |       \---WINXP
+|   |   |               sisagp.cat
+|   |   |               sisagp.inf
+|   |   |               sisagpx.sys
+|   |   |               
+|   |   +---SISfiles
+|   |   |       AGPFunc.dll
+|   |   |       SISAGP98.dll
+|   |   |       ata133ap.exe
+|   |   |       instdrv.exe
+|   |   |       regmod.exe
+|   |   |       waitwnd.exe
+|   |   |       
+|   |   +---USB
+|   |   |   +---Win2K_XP
+|   |   |   |   \---WinXPUSB
+|   |   |   |           SISPORT.SYS
+|   |   |   |           SIS_LIB.DLL
+|   |   |   |           SiSUSBrg.exe
+|   |   |   |           
+|   |   |   \---Win9x
+|   |   |       \---SiSFiles
+|   |   |               Mp_s3.exe
+|   |   |               Openhci.sys
+|   |   |               
+|   |   \---setupdir
+|   |       +---0003
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0005
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0006
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0007
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0008
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0009
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---000a
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---000b
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---000e
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0010
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0011
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0012
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0013
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0014
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0015
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0019
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---001b
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---001d
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---001e
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---001f
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0021
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0024
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---002d
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---0404
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       +---040c
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0416
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0804
+|   |       |       _setup.dll
+|   |       |       
+|   |       +---0816
+|   |       |       _SETUP.DLL
+|   |       |       
+|   |       \---0c0c
+|   |               _SETUP.DLL
+|   |               
+|   +---Audio
+|   |   \---Audio-v3.57
+|   |       |   ALCCHKID.EXE
+|   |       |   ALCRMV.EXE
+|   |       |   ALCRMV9X.EXE
+|   |       |   ALCUPD.EXE
+|   |       |   ALCXDEV.EXE
+|   |       |   DATA1.CAB
+|   |       |   DATA1.HDR
+|   |       |   DATA2.CAB
+|   |       |   GETDXVER.EXE
+|   |       |   IKERNEL.EX_
+|   |       |   LAYOUT.BIN
+|   |       |   README.TXT
+|   |       |   SETUP.INX
+|   |       |   SETUP.ISS
+|   |       |   SOUNDMAN.ICO
+|   |       |   SetCDfmt.exe
+|   |       |   Setup.exe
+|   |       |   Setup.ini
+|   |       |   
+|   |       +---Ap
+|   |       |       AVRACK.INI
+|   |       |       AvRack2.exe
+|   |       |       Classic.dll
+|   |       |       Cool.bmp
+|   |       |       Grass.bmp
+|   |       |       GrayScale.bmp
+|   |       |       MPIE4STD.EXE
+|   |       |       Magenta.bmp
+|   |       |       Mpstd.exe
+|   |       |       RtlRack.exe
+|   |       |       Wooden.bmp
+|   |       |       
+|   |       +---CONFIG
+|   |       |   \---Win98gold
+|   |       |           Alcxwdm.inf
+|   |       |           
+|   |       +---WDM
+|   |       |       ALCXSENS.SYS
+|   |       |       ALCXWDM.SYS
+|   |       |       ALSNDMGR.WAV
+|   |       |       ALSndMgr.cpl
+|   |       |       AUDIO3D.DLL
+|   |       |       Alcxwdm.cat
+|   |       |       Alcxwdm.inf
+|   |       |       Alcxwdm0.inf
+|   |       |       Alcxwdm1.inf
+|   |       |       Alcxwdm10.inf
+|   |       |       Alcxwdm11.inf
+|   |       |       Alcxwdm12.inf
+|   |       |       Alcxwdm13.inf
+|   |       |       Alcxwdm14.inf
+|   |       |       Alcxwdm15.inf
+|   |       |       Alcxwdm16.inf
+|   |       |       Alcxwdm17.inf
+|   |       |       Alcxwdm18.inf
+|   |       |       Alcxwdm19.inf
+|   |       |       Alcxwdm2.inf
+|   |       |       Alcxwdm20.inf
+|   |       |       Alcxwdm3.inf
+|   |       |       Alcxwdm4.inf
+|   |       |       Alcxwdm5.inf
+|   |       |       Alcxwdm6.inf
+|   |       |       Alcxwdm7.inf
+|   |       |       Alcxwdm8.inf
+|   |       |       Alcxwdm9.inf
+|   |       |       CRLDS3D.DLL
+|   |       |       RTLCPL.EXE
+|   |       |       RtlCPAPI.dll
+|   |       |       SoundMan.exe
+|   |       |       
+|   |       +---Win95
+|   |       |       ALCX95.DRV
+|   |       |       ALCX95.INI
+|   |       |       ALSWWT.DRV
+|   |       |       ALSWWT16.DLL
+|   |       |       SWWTAC97.DAT
+|   |       |       SWWTAC97.TON
+|   |       |       VALCX95.INF
+|   |       |       VALCX95.VXD
+|   |       |       
+|   |       \---WinNT4
+|   |               ALCXNT.DLL
+|   |               ALCXNT.SYS
+|   |               ALSWWTNT.DAT
+|   |               ALSWWTNT.TON
+|   |               Alswwtnt.dll
+|   |               Alswwtnt.sys
+|   |               MMDRV.DLL
+|   |               Oemsetup.inf
+|   |               SoundMan.exe
+|   |               
+|   +---LAN
+|   |   +---SiS900
+|   |   |   |   DATA1.CAB
+|   |   |   |   DIAG.EXE
+|   |   |   |   DIAG.TXT
+|   |   |   |   INST2000.DLL
+|   |   |   |   IPDETECT.EXE
+|   |   |   |   LANG.DAT
+|   |   |   |   LAYOUT.BIN
+|   |   |   |   MAIN.BMP
+|   |   |   |   OS.DAT
+|   |   |   |   Remove.exe
+|   |   |   |   SETUP.EXE
+|   |   |   |   SETUP.INI
+|   |   |   |   SETUP.INS
+|   |   |   |   SETUP.ISS
+|   |   |   |   SETUP.LID
+|   |   |   |   SETUP.TXT
+|   |   |   |   _INST32I.EX_
+|   |   |   |   _ISDEL.EXE
+|   |   |   |   _USER1.CAB
+|   |   |   |   _sys1.cab
+|   |   |   |   inf2cat.exe
+|   |   |   |   refresh.exe
+|   |   |   |   
+|   |   |   +---MSLANMAN.DOS
+|   |   |   |   |   Readme.txt
+|   |   |   |   |   
+|   |   |   |   \---DRIVERS
+|   |   |   |       +---Ethernet
+|   |   |   |       |   \---SIS900
+|   |   |   |       |           PROTOCOL.INI
+|   |   |   |       |           sis900.dos
+|   |   |   |       |           
+|   |   |   |       \---NIF
+|   |   |   |               SIS900.nif
+|   |   |   |               
+|   |   |   +---NT40
+|   |   |   |       OEMSETUP.INF
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.HLP
+|   |   |   |       SISNIC.sys
+|   |   |   |       
+|   |   |   +---Ndis2
+|   |   |   |   \---dos
+|   |   |   |           OEMSETUP.INF
+|   |   |   |           PROTOCOL.INI
+|   |   |   |           README.TXT
+|   |   |   |           SIS900.DOS
+|   |   |   |           
+|   |   |   +---Nwserver.41x
+|   |   |   |       ETHERTSM.NLM
+|   |   |   |       MSM.NLM
+|   |   |   |       NBI.NLM
+|   |   |   |       README.TXT
+|   |   |   |       sis900.lan
+|   |   |   |       sis900.ldi
+|   |   |   |       
+|   |   |   +---Nwserver.42
+|   |   |   |       README.TXT
+|   |   |   |       sis900.lan
+|   |   |   |       sis900.ldi
+|   |   |   |       
+|   |   |   +---Nwserver.5x
+|   |   |   |       README.TXT
+|   |   |   |       sis900.lan
+|   |   |   |       sis900.ldi
+|   |   |   |       
+|   |   |   +---Nwserver.60
+|   |   |   |       README.TXT
+|   |   |   |       sis900.lan
+|   |   |   |       sis900.ldi
+|   |   |   |       
+|   |   |   +---WFW311
+|   |   |   |       OEMSETUP.INF
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.386
+|   |   |   |       
+|   |   |   +---WIN95
+|   |   |   |       NETOEM.INF
+|   |   |   |       OEMNIC.CAT
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.sys
+|   |   |   |       UNINST.EXE
+|   |   |   |       
+|   |   |   +---WIN95.SR2
+|   |   |   |       NETOEM.INF
+|   |   |   |       OEMNIC.CAT
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.sys
+|   |   |   |       UNINST.EXE
+|   |   |   |       
+|   |   |   +---WIN98
+|   |   |   |       NETOEM.INF
+|   |   |   |       OEMNIC.CAT
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.sys
+|   |   |   |       UNINST.EXE
+|   |   |   |       
+|   |   |   +---WINME
+|   |   |   |       NETOEM.INF
+|   |   |   |       OEMNIC.CAT
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.sys
+|   |   |   |       UNINST.EXE
+|   |   |   |       
+|   |   |   +---Win2000
+|   |   |   |       NETOEM.INF
+|   |   |   |       OEMNIC.CAT
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.sys
+|   |   |   |       uninst.exe
+|   |   |   |       
+|   |   |   +---WinXP
+|   |   |   |       NETOEM.INF
+|   |   |   |       README.TXT
+|   |   |   |       SISNIC.SYS
+|   |   |   |       oemnic.cat
+|   |   |   |       uninst.exe
+|   |   |   |       
+|   |   |   +---nwclient
+|   |   |   |       NET.CFG
+|   |   |   |       SIS900.COM
+|   |   |   |       readme.txt
+|   |   |   |       sis900.ins
+|   |   |   |       
+|   |   |   +---pktdrv
+|   |   |   |       SIS900.EXE
+|   |   |   |       readme.TXT
+|   |   |   |       
+|   |   |   \---setupdir
+|   |   |       +---0003
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---0005
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0006
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0007
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0008
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---0009
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---000a
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---000b
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---000e
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0010
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---0011
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0012
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0013
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---0014
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0015
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0019
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---001b
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---001d
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---001e
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---001f
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0021
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0024
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---002d
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---0404
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       +---040c
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0416
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0804
+|   |   |       |       _setup.dll
+|   |   |       |       
+|   |   |       +---0816
+|   |   |       |       _SETUP.DLL
+|   |   |       |       
+|   |   |       \---0c0c
+|   |   |               _SETUP.DLL
+|   |   |               
+|   |   \---realtek
+|   |       +---giga
+|   |       |   +---9x2kxp
+|   |       |   |   |   DATA1.CAB
+|   |       |   |   |   DATA1.HDR
+|   |       |   |   |   DATA2.CAB
+|   |       |   |   |   IKERNEL.EX_
+|   |       |   |   |   LAYOUT.BIN
+|   |       |   |   |   SETUP.EXE
+|   |       |   |   |   SETUP.INI
+|   |       |   |   |   SETUP.INX
+|   |       |   |   |   SETUP.ISS
+|   |       |   |   |   SETUP.TXT
+|   |       |   |   |   
+|   |       |   |   +---WIN2000
+|   |       |   |   |       NETRT2KA.INF
+|   |       |   |   |       NETRT2KB.INF
+|   |       |   |   |       NETRT2KO.CAT
+|   |       |   |   |       NETRTL.INF
+|   |       |   |   |       NETRTL2K.CAT
+|   |       |   |   |       RTLNIC5.SYS
+|   |       |   |   |       
+|   |       |   |   +---WIN98
+|   |       |   |   |       NETRTL4.INF
+|   |       |   |   |       RTLNIC4.SYS
+|   |       |   |   |       
+|   |       |   |   +---WIN98SE
+|   |       |   |   |       NETRTL.INF
+|   |       |   |   |       NETRTLA.INF
+|   |       |   |   |       NETRTLB.INF
+|   |       |   |   |       RTLNIC5.SYS
+|   |       |   |   |       
+|   |       |   |   +---WINME
+|   |       |   |   |       NETRTL.CAT
+|   |       |   |   |       NETRTL.INF
+|   |       |   |   |       NETRTLA.INF
+|   |       |   |   |       NETRTLB.INF
+|   |       |   |   |       NETRTLO.CAT
+|   |       |   |   |       RTLNIC5.SYS
+|   |       |   |   |       
+|   |       |   |   \---WINXP
+|   |       |   |           NETRTLXP.CAT
+|   |       |   |           NETRTLXP.INF
+|   |       |   |           NETRTXPA.INF
+|   |       |   |           NETRTXPB.INF
+|   |       |   |           NETRTXPO.CAT
+|   |       |   |           RTLNIC51.SYS
+|   |       |   |           
+|   |       |   \---NT4
+|   |       |           OEMSETUP.INF
+|   |       |           R8169HLP.HLP
+|   |       |           RELEASE.TXT
+|   |       |           RTLNIC4.SYS
+|   |       |           
+|   |       \---mega
+|   |           +---9x2Kxp
+|   |           |   |   DATA1.CAB
+|   |           |   |   DATA1.HDR
+|   |           |   |   DATA2.CAB
+|   |           |   |   IKERNEL.EX_
+|   |           |   |   LAYOUT.BIN
+|   |           |   |   SETUP.EXE
+|   |           |   |   SETUP.INI
+|   |           |   |   SETUP.INX
+|   |           |   |   SETUP.ISS
+|   |           |   |   SETUP.TXT
+|   |           |   |   
+|   |           |   +---WIN2000
+|   |           |   |       NETRT2KA.INF
+|   |           |   |       NETRT2KB.INF
+|   |           |   |       NETRT2KO.CAT
+|   |           |   |       NETRTL.INF
+|   |           |   |       NETRTL2K.CAT
+|   |           |   |       RTLNIC5.SYS
+|   |           |   |       
+|   |           |   +---WIN98
+|   |           |   |       NETRTL4.INF
+|   |           |   |       RTLNIC4.SYS
+|   |           |   |       
+|   |           |   +---WIN98SE
+|   |           |   |       NETRTL.INF
+|   |           |   |       NETRTLA.INF
+|   |           |   |       NETRTLB.INF
+|   |           |   |       RTLNIC5.SYS
+|   |           |   |       
+|   |           |   +---WINME
+|   |           |   |       NETRTL.CAT
+|   |           |   |       NETRTL.INF
+|   |           |   |       NETRTLA.INF
+|   |           |   |       NETRTLB.INF
+|   |           |   |       NETRTLO.CAT
+|   |           |   |       RTLNIC5.SYS
+|   |           |   |       
+|   |           |   \---WINXP
+|   |           |           NETRTLXP.CAT
+|   |           |           NETRTLXP.INF
+|   |           |           NETRTXPA.INF
+|   |           |           NETRTXPB.INF
+|   |           |           NETRTXPO.CAT
+|   |           |           RTLNIC51.SYS
+|   |           |           
+|   |           \---NT4
+|   |                   OEMSETUP.INF
+|   |                   RELEASE.TXT
+|   |                   RTLNIC4.SYS
+|   |                   RTSNTHLP.HLP
+|   |                   
+|   +---SilRAID
+|   |   +---Raid Controller
+|   |   |       DriverLanguageMap.xml
+|   |   |       SIISUPP.VXD
+|   |   |       SIWinAcc.sys
+|   |   |       Si3112r.inf
+|   |   |       Si3112r.mpd
+|   |   |       Si3112r.sys
+|   |   |       TxtSetup.oem
+|   |   |       readme.txt
+|   |   |       si3112r.cat
+|   |   |       
+|   |   \---Windows GUI
+|   |           Java SATARaid_v-1.10.exe
+|   |           j2re-1_4_2-windows-i586-iftw.exe
+|   |           sil311X java gui readme.txt
+|   |           
+|   +---USB2.0
+|   |   |   ENote.txt
+|   |   |   
+|   |   \---Win2K
+|   |       |   INST2000.DLL
+|   |       |   USB20.exe
+|   |       |   UnSiSUSB.exe
+|   |       |   sis_lib.dll
+|   |       |   sisport.sys
+|   |       |   
+|   |       +---MISC
+|   |       |       Patch_98.exe
+|   |       |       Patch_Me.exe
+|   |       |       
+|   |       \---WIN2K
+|   |               HCCOIN.DLL
+|   |               USBEHCI.SYS
+|   |               USBHUB20.SYS
+|   |               USBPORT.SYS
+|   |               usb2.cat
+|   |               usb2.inf
+|   |               
+|   \---VGA
+|       \---3.59_logo
+|           |   ReadMe.txt
+|           |   Setup.iss
+|           |   data1.cab
+|           |   data1.hdr
+|           |   data2.cab
+|           |   engine32.cab
+|           |   layout.bin
+|           |   setup.boot
+|           |   setup.exe
+|           |   setup.ini
+|           |   setup.inx
+|           |   
+|           +---AGPPack
+|           |   |   DATA.TAG
+|           |   |   README.TXT
+|           |   |   RelNote.txt
+|           |   |   SETUP.EXE
+|           |   |   SETUP.INI
+|           |   |   _INST32I.EX_
+|           |   |   _ISDEL.EXE
+|           |   |   _sys1.cab
+|           |   |   _user1.cab
+|           |   |   data1.cab
+|           |   |   lang.dat
+|           |   |   layout.bin
+|           |   |   os.dat
+|           |   |   setup-s.bat
+|           |   |   setup.ins
+|           |   |   setup.iss
+|           |   |   setup.lid
+|           |   |   
+|           |   +---AGP
+|           |   |   +---AGPUtil
+|           |   |   |       AGPutil.exe
+|           |   |   |       WINIO.VXD
+|           |   |   |       WinIo.dll
+|           |   |   |       WinIo.sys
+|           |   |   |       
+|           |   |   +---current
+|           |   |   |   +---WIN2000
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       sisagpx.sys
+|           |   |   |   |       
+|           |   |   |   +---WIN98
+|           |   |   |   |       SISAGP.PCI
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       
+|           |   |   |   +---WINME
+|           |   |   |   |       SISAGP.PCI
+|           |   |   |   |       sisagp.cat
+|           |   |   |   |       sisagp.inf
+|           |   |   |   |       
+|           |   |   |   \---WINXP
+|           |   |   |           sisagp.cat
+|           |   |   |           sisagp.inf
+|           |   |   |           sisagpx.sys
+|           |   |   |           
+|           |   |   \---htpatch
+|           |   |           HTinst.exe
+|           |   |           HTpatch.exe
+|           |   |           HTuninst.exe
+|           |   |           WinIo.dll
+|           |   |           WinIo.sys
+|           |   |           
+|           |   +---SISfiles
+|           |   |       AGPFunc.dll
+|           |   |       SISAGP98.dll
+|           |   |       ata133ap.exe
+|           |   |       instdrv.exe
+|           |   |       regmod.exe
+|           |   |       waitwnd.exe
+|           |   |       
+|           |   +---USB
+|           |   |   +---Win2K_XP
+|           |   |   |   \---WinXPUSB
+|           |   |   |           SISPORT.SYS
+|           |   |   |           SIS_LIB.DLL
+|           |   |   |           SiSUSBrg.exe
+|           |   |   |           
+|           |   |   \---Win9x
+|           |   |       \---SiSFiles
+|           |   |               Mp_s3.exe
+|           |   |               Openhci.sys
+|           |   |               
+|           |   \---setupdir
+|           |       +---0003
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---0005
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0006
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0007
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0008
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---0009
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---000a
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---000b
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---000e
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0010
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---0011
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0012
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0013
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---0014
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0015
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0019
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---001b
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---001d
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---001e
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---001f
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0021
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0024
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---002d
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---0404
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       +---040c
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0416
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0804
+|           |       |       _setup.dll
+|           |       |       
+|           |       +---0816
+|           |       |       _SETUP.DLL
+|           |       |       
+|           |       \---0c0c
+|           |               _SETUP.DLL
+|           |               
+|           +---SETUPRES
+|           |       Setup.bmp
+|           |       Setup16.bmp
+|           |       title.bmp
+|           |       
+|           +---UtilRes
+|           |   +---AGPinfo
+|           |   |       agp.lst
+|           |   |       agpinfo.ico
+|           |   |       nonagp.lst
+|           |   |       
+|           |   +---Gamma
+|           |   |       gamma.bmp
+|           |   |       
+|           |   +---General
+|           |   |       BK33x.BMP
+|           |   |       Bk31x.bmp
+|           |   |       logo.bmp
+|           |   |       logo4.BMP
+|           |   |       
+|           |   +---ICO
+|           |   |       UNINS.ico
+|           |   |       XRotate.ico
+|           |   |       trayicon.ico
+|           |   |       
+|           |   +---Info
+|           |   |       650.bmp
+|           |   |       651.bmp
+|           |   |       740.bmp
+|           |   |       mirage.bmp
+|           |   |       mirage1.bmp
+|           |   |       mirage2.bmp
+|           |   |       mirage3.bmp
+|           |   |       
+|           |   +---Manager
+|           |   |       83D.AVI
+|           |   |       8DM.AVI
+|           |   |       8GAMMA.AVI
+|           |   |       8INFO.AVI
+|           |   |       8TV.AVI
+|           |   |       8TVLCD.AVI
+|           |   |       8VIDEO.AVI
+|           |   |       8X3D.AVI
+|           |   |       8XDM.AVI
+|           |   |       8XGAMMA.AVI
+|           |   |       8XINFO.AVI
+|           |   |       8XTV.AVI
+|           |   |       8XTVLCD.AVI
+|           |   |       8XVIDEO.AVI
+|           |   |       SIS3D.AVI
+|           |   |       SISDM.AVI
+|           |   |       SISGAMMA.AVI
+|           |   |       SISINFO.AVI
+|           |   |       SISTV.AVI
+|           |   |       SISTVLCD.AVI
+|           |   |       SISVIDEO.AVI
+|           |   |       X3D.AVI
+|           |   |       XDM.AVI
+|           |   |       XGAMMA.AVI
+|           |   |       XINFO.AVI
+|           |   |       XTV.AVI
+|           |   |       XTVLCD.AVI
+|           |   |       XVIDEO.AVI
+|           |   |       
+|           |   +---OSD
+|           |   |       darrow.bmp
+|           |   |       fail.bmp
+|           |   |       larrow.bmp
+|           |   |       osdbkgnd.bmp
+|           |   |       rarrow.bmp
+|           |   |       sbar.bmp
+|           |   |       uarrow.bmp
+|           |   |       
+|           |   +---Sistray
+|           |   |       traylogo.bmp
+|           |   |       
+|           |   \---Video
+|           |           overlay1.bmp
+|           |           
+|           +---Win98&ME
+|           |       SiSBase.dll
+|           |       SiSInst.dll
+|           |       SiSParse.dll
+|           |       oemrom.bin
+|           |       sisdx.dll
+|           |       sisdx32.dll
+|           |       sisgl.dll
+|           |       sisgr.cat
+|           |       sisgr.drv
+|           |       sisgr.inf
+|           |       sisgr.vxd
+|           |       
+|           +---WinXP&2K
+|           |       InstFunc.dll
+|           |       SiSBase.dll
+|           |       SiSInst.dll
+|           |       SiSParse.dll
+|           |       sis650.bin
+|           |       sis660.bin
+|           |       sis740.bin
+|           |       sis741.bin
+|           |       sis760.bin
+|           |       sisgl.dll
+|           |       sisgr.cat
+|           |       sisgr.inf
+|           |       sisgrp.sys
+|           |       sisgrv.dll
+|           |       srvkp.sys
+|           |       
+|           +---setupDLL
+|           |       Instdrv.exe
+|           |       IsUninst.exe
+|           |       Progress.exe
+|           |       waitwnd.exe
+|           |       
+|           \---utilDLL
+|               |   LCDMode.exe
+|               |   SiSApCom.dll
+|               |   SiSCom.dll
+|               |   SiSCom.ini
+|               |   SiSCom.sys
+|               |   TVMode.dll
+|               |   sislib.dll
+|               |   sislib.ini
+|               |   sisvb.dll
+|               |   
+|               +---9xBin
+|               |   +---315
+|               |   |       oemrom.bin
+|               |   |       
+|               |   \---Xabre
+|               |           oemrom.bin
+|               |           
+|               \---ntBin
+|                       sis315.bin
+|                       xabre.bin
+|                       
++---DirectX
+|       dx90b_redist.exe
+|       
++---Norton
+|   \---English
+|       |   AUTORUN.INF
+|       |   CDSTART.EXE
+|       |   GNULICNS.TXT
+|       |   README.TXT
+|       |   SYMSETUP.EXE
+|       |   
+|       +---MANUAL
+|       |       ADBERDR6.EXE
+|       |       NIS.PDF
+|       |       
+|       +---NAV
+|       |   |   IAMAPP.DLL
+|       |   |   INSTOPTS.DAT
+|       |   |   NAV.MSI
+|       |   |   OMIGRATE.EXE
+|       |   |   PARENT.MSI
+|       |   |   SWPLUGIN.DLL
+|       |   |   UPSWPLUG.EXE
+|       |   |   VERSION.DAT
+|       |   |   
+|       |   \---EXTERNAL
+|       |       +---COMMONFI
+|       |       |   \---SYMSHARE
+|       |       |       |   ACTRES.DLL
+|       |       |       |   CFGWIZ.EXE
+|       |       |       |   CFGWIZ.TLB
+|       |       |       |   DJSALERT.DLL
+|       |       |       |   DJSNETCN.EXE
+|       |       |       |   DRWEBWND.DLL
+|       |       |       |   LRSEND.EXE
+|       |       |       |   SMNLNCH.EXE
+|       |       |       |   SSAUTORN.EXE
+|       |       |       |   SYMLCUI.DLL
+|       |       |       |   SYMLTCHK.DLL
+|       |       |       |   SYMLTCOM.DLL
+|       |       |       |   SYMUIAX.OCX
+|       |       |       |   SYMUIHLP.DLL
+|       |       |       |   SYMUISS.DLL
+|       |       |       |   
+|       |       |       +---CCPD-LC
+|       |       |       |       UNICOWS.DLL
+|       |       |       |       
+|       |       |       \---HELP
+|       |       |               ADP_FEAT.CHM
+|       |       |               BASICS.CHM
+|       |       |               BASICS.DLL
+|       |       |               CPDDRM00.CHM
+|       |       |               CPDDRM00.CHW
+|       |       |               CPDDRM01.CHM
+|       |       |               CPDDRM01.CHW
+|       |       |               CPDDRM02.CHM
+|       |       |               CPDDRM02.CHW
+|       |       |               CPDDRM03.CHM
+|       |       |               CPDDRM03.CHW
+|       |       |               DISABLE.CHM
+|       |       |               DISABLE.DLL
+|       |       |               EDISK.CHM
+|       |       |               EDISK.DLL
+|       |       |               EMERG.CHM
+|       |       |               EMERG.DLL
+|       |       |               FAQ.CHM
+|       |       |               FAQ.DLL
+|       |       |               FEAT_SUM.CHM
+|       |       |               FEAT_SUM.DLL
+|       |       |               GETSTART.CHM
+|       |       |               GETSTART.DLL
+|       |       |               LU_PC.CHM
+|       |       |               LU_PC.DLL
+|       |       |               LU_SUB.CHM
+|       |       |               LU_SUB.DLL
+|       |       |               MONITOR.CHM
+|       |       |               MONITOR.DLL
+|       |       |               NAV_ACC.CHM
+|       |       |               NAV_C_SB.CHM
+|       |       |               NAV_DIS.CHM
+|       |       |               NAV_EMRG.CHM
+|       |       |               NAV_EMSS.CHM
+|       |       |               NAV_FAQ.CHM
+|       |       |               NAV_FEAT.CHM
+|       |       |               NAV_MON.CHM
+|       |       |               NAV_OPTS.CHM
+|       |       |               NAV_PVNT.CHM
+|       |       |               NAV_TASK.CHM
+|       |       |               NAV_UNIN.CHM
+|       |       |               OPTIONS.CHM
+|       |       |               OPTIONS.DLL
+|       |       |               PROTECT.CHM
+|       |       |               RESCUE.CHM
+|       |       |               RES_FAQ.CHM
+|       |       |               SUPT_CPD.CHM
+|       |       |               SUPT_CPD.DLL
+|       |       |               SYMHELP.CHM
+|       |       |               SYMHELP.DLL
+|       |       |               UNIN.CHM
+|       |       |               UNIN.DLL
+|       |       |               V_AUTOLU.CHM
+|       |       |               V_FOUND.CHM
+|       |       |               
+|       |       +---NORTON
+|       |       |   |   ACTLANG.DLL
+|       |       |   |   AVSTE.DLL
+|       |       |   |   BOOTWARN.EXE
+|       |       |   |   BRANDING.INI
+|       |       |   |   NAVAPW32.EXE
+|       |       |   |   NAVOPTRF.DLL
+|       |       |   |   NAVUIRES.DLL
+|       |       |   |   
+|       |       |   \---APP
+|       |       |       |   ABOUTPLG.DLL
+|       |       |       |   APWCMD9X.DLL
+|       |       |       |   APWCMDNT.DLL
+|       |       |       |   APWUTIL.DLL
+|       |       |       |   CCIMSCAN.DLL
+|       |       |       |   CCIMSCAN.EXE
+|       |       |       |   CFGWIZ.DAT
+|       |       |       |   CFGWZRES.DLL
+|       |       |       |   COUNTRY.DAT
+|       |       |       |   DEFALERT.DLL
+|       |       |       |   END_USER.TXT
+|       |       |       |   LSUTILS.DLL
+|       |       |       |   N32CALL.DLL
+|       |       |       |   N32EXCLU.DLL
+|       |       |       |   NAVAP32.DLL
+|       |       |       |   NAVAPSCR.DLL
+|       |       |       |   NAVAPSVC.EXE
+|       |       |       |   NAVAPW32.DLL
+|       |       |       |   NAVCFGWZ.DLL
+|       |       |       |   NAVCOMUI.DLL
+|       |       |       |   NAVDX.EXE
+|       |       |       |   NAVDX.OVL
+|       |       |       |   NAVEMAIL.DLL
+|       |       |       |   NAVERROR.DLL
+|       |       |       |   NAVEVENT.DLL
+|       |       |       |   NAVINOC.DLL
+|       |       |       |   NAVKRNLO.VXD
+|       |       |       |   NAVLCOM.DLL
+|       |       |       |   NAVLNCH.DLL
+|       |       |       |   NAVLOGV.DLL
+|       |       |       |   NAVLUCBK.DLL
+|       |       |       |   NAVNTUTL.DLL
+|       |       |       |   NAVOPTS.DAT
+|       |       |       |   NAVOPTS.DLL
+|       |       |       |   NAVPROD.DLL
+|       |       |       |   NAVRESC.DLL
+|       |       |       |   NAVSESS.TPL
+|       |       |       |   NAVSESS.TXT
+|       |       |       |   NAVSHEXT.DLL
+|       |       |       |   NAVSTART.DAT
+|       |       |       |   NAVSTATS.DLL
+|       |       |       |   NAVSTUB.EXE
+|       |       |       |   NAVTASKS.DLL
+|       |       |       |   NAVTSKWZ.DLL
+|       |       |       |   NAVUI.DLL
+|       |       |       |   NAVUI.NSI
+|       |       |       |   NAVW32.EXE
+|       |       |       |   NAVWNT.EXE
+|       |       |       |   NETBREXT.DLL
+|       |       |       |   OEHEUR.DLL
+|       |       |       |   OFFICEAV.DLL
+|       |       |       |   OPSCAN.EXE
+|       |       |       |   PATCH32I.DLL
+|       |       |       |   QCONRES.DLL
+|       |       |       |   QCONSOLE.EXE
+|       |       |       |   QSPAK32.DLL
+|       |       |       |   QUAR32.DLL
+|       |       |       |   QUAROPTS.DAT
+|       |       |       |   README.TXT
+|       |       |       |   RESQLOC.DAT
+|       |       |       |   S32INTEG.DLL
+|       |       |       |   S32NAVO.DLL
+|       |       |       |   SAVRT.CAT
+|       |       |       |   SAVRT.DAT
+|       |       |       |   SAVRT.INF
+|       |       |       |   SAVRT.SYS
+|       |       |       |   SAVRT.VXD
+|       |       |       |   SAVRT32.DLL
+|       |       |       |   SAVRTPEL.CAT
+|       |       |       |   SAVRTPEL.INF
+|       |       |       |   SAVRTPEL.SYS
+|       |       |       |   SAVRTPEL.VXD
+|       |       |       |   SAVSCAN.EXE
+|       |       |       |   SCANCFG.DAT
+|       |       |       |   SCANDLVR.DLL
+|       |       |       |   SCANDRES.DLL
+|       |       |       |   SCANMGR.DLL
+|       |       |       |   SCRIPTUI.DLL
+|       |       |       |   SDPCK32I.DLL
+|       |       |       |   SDSND32I.DLL
+|       |       |       |   SDSOK32I.DLL
+|       |       |       |   SDSTP32I.DLL
+|       |       |       |   SYMNAVO.DLL
+|       |       |       |   THREXCL.DAT
+|       |       |       |   THRLEXCL.DAT
+|       |       |       |   TKNV16O.DLL
+|       |       |       |   TKNV32O.DLL
+|       |       |       |   UNDOBOOT.EXE
+|       |       |       |   VERSION.DAT
+|       |       |       |   VIRSCAN6.INI
+|       |       |       |   
+|       |       |       +---WIN98NT
+|       |       |       |       EXCLUDE.DAT
+|       |       |       |       EXCLUDEL.DAT
+|       |       |       |       SRTLEXCL.DAT
+|       |       |       |       SRTSEXCL.DAT
+|       |       |       |       
+|       |       |       +---WINME
+|       |       |       |       EXCLUDE.DAT
+|       |       |       |       EXCLUDEL.DAT
+|       |       |       |       SRTLEXCL.DAT
+|       |       |       |       SRTSEXCL.DAT
+|       |       |       |       
+|       |       |       \---WINXP
+|       |       |               EXCLUDE.DAT
+|       |       |               EXCLUDEL.DAT
+|       |       |               SRTLEXCL.DAT
+|       |       |               SRTSEXCL.DAT
+|       |       |               
+|       |       +---SYMANTEC
+|       |       |   \---NORTON
+|       |       |       |   ALERT.DAT
+|       |       |       |   
+|       |       |       \---TASKS
+|       |       |               DRIVES.SCA
+|       |       |               FILES.SCA
+|       |       |               FLOPPY.SCA
+|       |       |               FOLDERS.SCA
+|       |       |               MYCOMP.SCA
+|       |       |               REM.SCA
+|       |       |               
+|       |       \---SYSTEM32
+|       |               SAVRTGUI.DLL
+|       |               UNICOWS.DLL
+|       |               
+|       +---SETUP
+|       |   |   ADBLCK.MSI
+|       |   |   ASCORE.MSI
+|       |   |   CPDOEM.DLL
+|       |   |   FIREWALL.MSI
+|       |   |   HELP.MSI
+|       |   |   INSTOPTS.DAT
+|       |   |   ISCOMMON.MSI
+|       |   |   NISVER.DAT
+|       |   |   OEM.MSI
+|       |   |   PCONTROL.MSI
+|       |   |   PRIVACY.MSI
+|       |   |   SETUP.MSI
+|       |   |   SYMLT.MSI
+|       |   |   
+|       |   +---ADBLCK
+|       |   |   \---COMMON
+|       |   |       \---SYMSHARE
+|       |   |           |   PFADBLK.DLL
+|       |   |           |   
+|       |   |           +---ADBLCK
+|       |   |           |       ADDEF.DAT
+|       |   |           |       ADTRASH.EXE
+|       |   |           |       FREADBLK.DLL
+|       |   |           |       SYMAD.DLL
+|       |   |           |       SYMWBOPT.DLL
+|       |   |           |       
+|       |   |           \---HELP
+|       |   |                   AB_FAQ.CHM
+|       |   |                   AD_BLOCK.CHM
+|       |   |                   AD_TASK.CHM
+|       |   |                   
+|       |   +---ASCORE
+|       |   |   +---COMMON
+|       |   |   |   \---SYMSHARE
+|       |   |   |       +---ANTISPAM
+|       |   |   |       |       ASENGBAY.DLL
+|       |   |   |       |       ASENGBWL.DLL
+|       |   |   |       |       ASENGUR.DLL
+|       |   |   |       |       ASFILTER.DLL
+|       |   |   |       |       ASLOADER.DLL
+|       |   |   |       |       ASLOGHLP.DLL
+|       |   |   |       |       ASLUCBK.DLL
+|       |   |   |       |       ASOEHOOK.DLL
+|       |   |   |       |       ASOELNCH.EXE
+|       |   |   |       |       ASSPMEVT.DLL
+|       |   |   |       |       ASSPMLOG.DLL
+|       |   |   |       |       ASUNIPLG.DLL
+|       |   |   |       |       EUDOPLUG.DLL
+|       |   |   |       |       FRESPAM.DLL
+|       |   |   |       |       MSOUPLUG.DLL
+|       |   |   |       |       RULEWIZ.EXE
+|       |   |   |       |       SYMSPAM.DLL
+|       |   |   |       |       
+|       |   |   |       \---HELP
+|       |   |   |               NAS_DIS.CHM
+|       |   |   |               NAS_FAQ.CHM
+|       |   |   |               NAS_TASK.CHM
+|       |   |   |               
+|       |   |   \---SYSTEM32
+|       |   |           UNICOWS.DLL
+|       |   |           
+|       |   +---FIREWALL
+|       |   |   \---APP
+|       |   |           CCALE.DLL
+|       |   |           CCFWRULS.DLL
+|       |   |           CCFWSETG.DLL
+|       |   |           CCRULEIO.DLL
+|       |   |           FRERULES.DLL
+|       |   |           FRESETTG.DLL
+|       |   |           HNETCORE.DLL
+|       |   |           HNETWIZ.EXE
+|       |   |           PPROFILE.DLL
+|       |   |           TLDATA.DAT
+|       |   |           TLDATA2.DAT
+|       |   |           
+|       |   +---HELP
+|       |   |   \---COMMON
+|       |   |       \---SYMSHARE
+|       |   |           \---HELP
+|       |   |                   BASICS.CHM
+|       |   |                   BASICS.DLL
+|       |   |                   DISABLE.CHM
+|       |   |                   DISABLE.DLL
+|       |   |                   FAQ.CHM
+|       |   |                   FAQ.DLL
+|       |   |                   FEAT_SUM.CHM
+|       |   |                   FEAT_SUM.DLL
+|       |   |                   FIREWALL.CHM
+|       |   |                   GETSTART.CHM
+|       |   |                   GETSTART.DLL
+|       |   |                   LU_PC.CHM
+|       |   |                   LU_PC.DLL
+|       |   |                   MONITOR.CHM
+|       |   |                   MONITOR.DLL
+|       |   |                   NIS_FAQ.CHM
+|       |   |                   NIS_FEAT.CHM
+|       |   |                   OPTIONS.CHM
+|       |   |                   OPTIONS.DLL
+|       |   |                   SYMHELP.CHM
+|       |   |                   SYMHELP.DLL
+|       |   |                   UNIN.CHM
+|       |   |                   UNIN.DLL
+|       |   |                   
+|       |   +---ISCOMMON
+|       |   |   +---APP
+|       |   |   |       ACDISP.DLL
+|       |   |   |       ALERTAST.EXE
+|       |   |   |       ALERTAST.TLB
+|       |   |   |       ALESCAN.EXE
+|       |   |   |       FREINTEG.DLL
+|       |   |   |       FWUI.DLL
+|       |   |   |       IAMSTATS.EXE
+|       |   |   |       ISLALERT.DLL
+|       |   |   |       LOCWIZ.DLL
+|       |   |   |       LOGEXPRT.EXE
+|       |   |   |       LOGEXPRT.TXT
+|       |   |   |       NISABOUT.DLL
+|       |   |   |       NISALERT.DLL
+|       |   |   |       NISCMNHT.DLL
+|       |   |   |       NISLUCBK.DLL
+|       |   |   |       NISLVPLG.DLL
+|       |   |   |       SNLOG.DLL
+|       |   |   |       SYMFWAGT.DLL
+|       |   |   |       TLEVEL.DLL
+|       |   |   |       WRAPUM.DLL
+|       |   |   |       
+|       |   |   \---COMMON
+|       |   |       \---SYMSHARE
+|       |   |           \---ADBLCK
+|       |   |                   NISSHEXT.DLL
+|       |   |                   NSMDTR.EXE
+|       |   |                   
+|       |   +---PCONTROL
+|       |   |   +---APP
+|       |   |   |       FREPCTRL.DLL
+|       |   |   |       PCWIZ.DLL
+|       |   |   |       PCWIZ.EXE
+|       |   |   |       SYMURL.DLL
+|       |   |   |       URLLSTCK.EXE
+|       |   |   |       URLUPDAT.EXE
+|       |   |   |       
+|       |   |   +---COMMON
+|       |   |   |   \---SYMSHARE
+|       |   |   |           PFRES.DLL
+|       |   |   |           PXYIM.DLL
+|       |   |   |           PXYNNTP.DLL
+|       |   |   |           
+|       |   |   \---SYMANTEC
+|       |   |       \---APP
+|       |   |               CATS.DAT
+|       |   |               CUSTOMB
+|       |   |               CUSTOMP
+|       |   |               
+|       |   +---PRIVACY
+|       |   |   +---APP
+|       |   |   |       FREPRVCY.DLL
+|       |   |   |       NISEMAIL.DLL
+|       |   |   |       NISEMSVR.EXE
+|       |   |   |       
+|       |   |   \---COMMON
+|       |   |       \---SYMSHARE
+|       |   |               PFMISC.DLL
+|       |   |               PFPRIV.DLL
+|       |   |               PFSEC.DLL
+|       |   |               PXYIM.DLL
+|       |   |               
+|       |   +---SETUP
+|       |   |   +---APP
+|       |   |   |   \---APP
+|       |   |   |           ACTLANG.DLL
+|       |   |   |           BRANDING.INI
+|       |   |   |           CFGWIZ.DAT
+|       |   |   |           CFGWZRES.DLL
+|       |   |   |           COMMS.TXT
+|       |   |   |           GNULICNS.TXT
+|       |   |   |           ISSTE.DLL
+|       |   |   |           NISCFGWZ.DLL
+|       |   |   |           NISDEF.DAT
+|       |   |   |           NISOPTS.DLL
+|       |   |   |           NISPLUG.DLL
+|       |   |   |           NISPLUG.NSI
+|       |   |   |           NISPROD.DLL
+|       |   |   |           NISRES.DLL
+|       |   |   |           NISSESS.TPL
+|       |   |   |           NISVER.DAT
+|       |   |   |           README.TXT
+|       |   |   |           RLEVEL.DLL
+|       |   |   |           RLSNOTES.TXT
+|       |   |   |           TECHINFO.TXT
+|       |   |   |           
+|       |   |   \---COMMON
+|       |   |       \---SYMSHARE
+|       |   |           +---ADBLCK
+|       |   |           |       PXYLOG.DLL
+|       |   |           |       
+|       |   |           +---ANTISPAM
+|       |   |           |       EUDOHELP.EXE
+|       |   |           |       
+|       |   |           \---HELP
+|       |   |                   EDISK.CHM
+|       |   |                   EDISK.DLL
+|       |   |                   EMERG.CHM
+|       |   |                   EMERG.DLL
+|       |   |                   IDS.CHM
+|       |   |                   I_AUTOLU.CHM
+|       |   |                   LOCATION.CHM
+|       |   |                   NAS_ACC.CHM
+|       |   |                   NIS_ACC.CHM
+|       |   |                   NIS_ACCT.CHM
+|       |   |                   NIS_DIS.CHM
+|       |   |                   NIS_MON.CHM
+|       |   |                   NIS_OPTS.CHM
+|       |   |                   NIS_TASK.CHM
+|       |   |                   NIS_UNIN.CHM
+|       |   |                   PC.CHM
+|       |   |                   PRIVCTRL.CHM
+|       |   |                   SP_BLOCK.CHM
+|       |   |                   
+|       |   \---SYMLT
+|       |       +---APP
+|       |       |       NISLCOM.DLL
+|       |       |       
+|       |       +---COMMON
+|       |       |   \---SYMSHARE
+|       |       |       |   CFGWIZ.EXE
+|       |       |       |   CFGWIZ.TLB
+|       |       |       |   DRWEBWND.DLL
+|       |       |       |   SMNLNCH.EXE
+|       |       |       |   SYMLTCHK.DLL
+|       |       |       |   SYMLTCOM.DLL
+|       |       |       |   
+|       |       |       \---HELP
+|       |       |               LU_SUB.CHM
+|       |       |               LU_SUB.DLL
+|       |       |               SUPT_CPD.CHM
+|       |       |               SUPT_CPD.DLL
+|       |       |               
+|       |       \---SYSTEM32
+|       |               UNICOWS.DLL
+|       |               
+|       +---SUPPORT
+|       |   +---ALERULES
+|       |   |       ALERULES.EXE
+|       |   |       
+|       |   +---CCCOMMON
+|       |   |   |   CCCOMMON.MSI
+|       |   |   |   
+|       |   |   \---CCCOMMON
+|       |   |       \---COMMONFI
+|       |   |           \---SYMSHARE
+|       |   |               |   CCALERT.DLL
+|       |   |               |   CCAPP.EXE
+|       |   |               |   CCDEC.DLL
+|       |   |               |   CCEMLPXY.DLL
+|       |   |               |   CCERRDSP.DLL
+|       |   |               |   CCEVTMGR.EXE
+|       |   |               |   CCLGVIEW.EXE
+|       |   |               |   CCPROD.DLL
+|       |   |               |   CCPROSUB.DLL
+|       |   |               |   CCPWD.DLL
+|       |   |               |   CCPWDSVC.EXE
+|       |   |               |   CCSCAN.DLL
+|       |   |               |   CCSET.DLL
+|       |   |               |   CCSETEVT.DLL
+|       |   |               |   CCSETMGR.EXE
+|       |   |               |   CCVRTRST.DLL
+|       |   |               |   CCWEBWND.DLL
+|       |   |               |   ECMLDR32.DLL
+|       |   |               |   NMAIN.EXE
+|       |   |               |   
+|       |   |               +---DECOMP
+|       |   |               |       DEC2.DLL
+|       |   |               |       DEC2AMG.DLL
+|       |   |               |       DEC2ARJ.DLL
+|       |   |               |       DEC2CAB.DLL
+|       |   |               |       DEC2EXE.DLL
+|       |   |               |       DEC2GZIP.DLL
+|       |   |               |       DEC2ID.DLL
+|       |   |               |       DEC2LHA.DLL
+|       |   |               |       DEC2LZ.DLL
+|       |   |               |       DEC2MIME.DLL
+|       |   |               |       DEC2RAR.DLL
+|       |   |               |       DEC2RTF.DLL
+|       |   |               |       DEC2SS.DLL
+|       |   |               |       DEC2TAR.DLL
+|       |   |               |       DEC2TEXT.DLL
+|       |   |               |       DEC2TNEF.DLL
+|       |   |               |       DEC2ZIP.DLL
+|       |   |               |       DECSDK.DLL
+|       |   |               |       
+|       |   |               \---HELP
+|       |   |                       CCLGVIEW.CHM
+|       |   |                       
+|       |   +---CCSTART
+|       |   |       CCSTART.MSI
+|       |   |       
+|       |   +---DCOM98
+|       |   |       DCOM98.EXE
+|       |   |       
+|       |   +---EDISK
+|       |   |       DISK1.IMG
+|       |   |       DISK2.IMG
+|       |   |       DISK3.IMG
+|       |   |       NED.EXE
+|       |   |       README.TXT
+|       |   |       
+|       |   +---FRE
+|       |   |       FREMSI.EXE
+|       |   |       FREUPDT.EXE
+|       |   |       
+|       |   +---LIVEREG
+|       |   |       LRSETUP.EXE
+|       |   |       
+|       |   +---LUPDATE
+|       |   |       LUSETUP.EXE
+|       |   |       
+|       |   +---MEMSCAN
+|       |   |       MEMSCAN.EXE
+|       |   |       
+|       |   +---MSI
+|       |   |       INSTMSIA.EXE
+|       |   |       INSTMSIW.EXE
+|       |   |       
+|       |   +---MSIE
+|       |   |       ACTSETUP.CAB
+|       |   |       ADVAUTH.CAB
+|       |   |       AOLSUPP.CAB
+|       |   |       AXA.CAB
+|       |   |       AXA3.CAB
+|       |   |       BRANDING.CAB
+|       |   |       CRLUPD.CAB
+|       |   |       DXDDEX.CAB
+|       |   |       FILELIST.DAT
+|       |   |       FONTCORE.CAB
+|       |   |       FONTSUP.CAB
+|       |   |       GSETUP95.CAB
+|       |   |       GSETUPNT.CAB
+|       |   |       HELPCONT.CAB
+|       |   |       HHUPD.CAB
+|       |   |       ICW.CAB
+|       |   |       ICWCON.CAB
+|       |   |       IE4SHLNT.CAB
+|       |   |       IE6SETUP.EXE
+|       |   |       IEAK6OPT.CAB
+|       |   |       IECIF.CAB
+|       |   |       IEDATA.CAB
+|       |   |       IEDOM.CAB
+|       |   |       IEEXINST.CAB
+|       |   |       IELPKAD.CAB
+|       |   |       IELPKAR.CAB
+|       |   |       IELPKIW.CAB
+|       |   |       IELPKJA.CAB
+|       |   |       IELPKKO.CAB
+|       |   |       IELPKPE.CAB
+|       |   |       IELPKTH.CAB
+|       |   |       IELPKVI.CAB
+|       |   |       IELPKZHC.CAB
+|       |   |       IELPKZHT.CAB
+|       |   |       IEMIL_1.CAB
+|       |   |       IEMIL_2.CAB
+|       |   |       IEMIL_3.CAB
+|       |   |       IEMIL_4.CAB
+|       |   |       IENT_S1.CAB
+|       |   |       IENT_S2.CAB
+|       |   |       IENT_S3.CAB
+|       |   |       IENT_S4.CAB
+|       |   |       IENT_S5.CAB
+|       |   |       IENT_S6.CAB
+|       |   |       IESETUP.INI
+|       |   |       IEW2K_1.CAB
+|       |   |       IEW2K_2.CAB
+|       |   |       IEW2K_3.CAB
+|       |   |       IEW2K_4.CAB
+|       |   |       IE_EXTRA.CAB
+|       |   |       IE_S1.CAB
+|       |   |       IE_S2.CAB
+|       |   |       IE_S3.CAB
+|       |   |       IE_S4.CAB
+|       |   |       IE_S5.CAB
+|       |   |       IE_S6.CAB
+|       |   |       JAAIME.CAB
+|       |   |       KOAIME.CAB
+|       |   |       MAILNEWS.CAB
+|       |   |       MDAC_IE5.CAB
+|       |   |       MOBILE95.CAB
+|       |   |       MOBILENT.CAB
+|       |   |       MPCDCS.CAB
+|       |   |       MPLAY2A.CAB
+|       |   |       MPLAY2U.CAB
+|       |   |       MPLAYER2.CAB
+|       |   |       MSN_AUTH.CAB
+|       |   |       OAINST.CAB
+|       |   |       OEEXCEP.CAB
+|       |   |       README.CAB
+|       |   |       SCAIME.CAB
+|       |   |       SCR56EN.CAB
+|       |   |       SCRIPTEN.CAB
+|       |   |       SETUPNT.CAB
+|       |   |       SETUPW95.CAB
+|       |   |       SWFLASH.CAB
+|       |   |       TCAIME.CAB
+|       |   |       TS95.CAB
+|       |   |       TSNT.CAB
+|       |   |       USP10.CAB
+|       |   |       VGX.CAB
+|       |   |       WAB.CAB
+|       |   |       
+|       |   +---MSREDIST
+|       |   |   |   MSREDIST.MSI
+|       |   |   |   
+|       |   |   \---MSREDIST
+|       |   |       \---SYSTEM32
+|       |   |           |   ATL70.DLL
+|       |   |           |   MFC70.DLL
+|       |   |           |   MFC70U.DLL
+|       |   |           |   MSVCI70.DLL
+|       |   |           |   MSVCP70.DLL
+|       |   |           |   MSVCR70.DLL
+|       |   |           |   MSXML3.DLL
+|       |   |           |   MSXML3A.DLL
+|       |   |           |   MSXML3R.DLL
+|       |   |           |   
+|       |   |           +---ANSI
+|       |   |           |       ATL70.DLL
+|       |   |           |       
+|       |   |           \---REDIST
+|       |   |               \---MS
+|       |   |                   \---SYSTEM
+|       |   |                       |   ASYCFILT.DLL
+|       |   |                       |   ATL.DLL
+|       |   |                       |   COMCAT.DLL
+|       |   |                       |   COMCTL32.OCX
+|       |   |                       |   MFC42.DLL
+|       |   |                       |   MSCOMCTL.OCX
+|       |   |                       |   MSVCIRT.DLL
+|       |   |                       |   MSVCP60.DLL
+|       |   |                       |   MSVCRT.DLL
+|       |   |                       |   OLEAUT32.DLL
+|       |   |                       |   OLEPRO32.DLL
+|       |   |                       |   STDOLE2.TLB
+|       |   |                       |   
+|       |   |                       \---ANSI
+|       |   |                               ATL.DLL
+|       |   |                               
+|       |   +---NAVTOOLS
+|       |   |   \---REPAIR
+|       |   |       +---AUTOUPDR
+|       |   |       |       FIXUPDTR.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---BLASTER
+|       |   |       |       FIXBLAST.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---BUGBEAR
+|       |   |       |       FIXBUGB.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---KLEZ
+|       |   |       |       FIXKLEZ.COM
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---OPASERV
+|       |   |       |       FIXOPSRV.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---SOBIG.A
+|       |   |       |       FIXSOBIG.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---SOBIG.B
+|       |   |       |       FXSOBIGB.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       +---SOBIG.C
+|       |   |       |       FIXSBIGC.EXE
+|       |   |       |       README.TXT
+|       |   |       |       
+|       |   |       \---SOBIG.E
+|       |   |               FIXSBIGE.EXE
+|       |   |               README.TXT
+|       |   |               
+|       |   +---NISTOOLS
+|       |   |       ISRLRSTR.EXE
+|       |   |       
+|       |   +---PCA_HOST
+|       |   |       PCA_HOST.MSI
+|       |   |       
+|       |   +---PRESCAN
+|       |   |       CCSCANS.DLL
+|       |   |       ECMLDR32.DLL
+|       |   |       PRESCAN.EXE
+|       |   |       
+|       |   +---PROXY
+|       |   |   |   CCPXYMSI.MSI
+|       |   |   |   
+|       |   |   \---CCPXYMSI
+|       |   |       \---COMMON
+|       |   |           \---SYMSHARE
+|       |   |                   CCLOGIN.DLL
+|       |   |                   CCPROXY.EXE
+|       |   |                   CCPXYEVT.DLL
+|       |   |                   DPHTML.DLL
+|       |   |                   DPHTTP.DLL
+|       |   |                   DPJS.DLL
+|       |   |                   DPVBS.DLL
+|       |   |                   PXYHTTP.DLL
+|       |   |                   STRMFILT.DLL
+|       |   |                   SYMICONV.DLL
+|       |   |                   
+|       |   +---RESCUE
+|       |   |       RESCUE.MSI
+|       |   |       
+|       |   +---SCRBLOCK
+|       |   |       NISSBALE
+|       |   |       SCRBLOCK.MSI
+|       |   |       
+|       |   +---SEVINST
+|       |   |       SEVINST.EXE
+|       |   |       
+|       |   +---SPAMDEFS
+|       |   |       ENGLISH.MBK
+|       |   |       
+|       |   +---SYMLNCH
+|       |   |       SYMLNCH.EXE
+|       |   |       
+|       |   +---SYMNET
+|       |   |   |   SYMNET.MSI
+|       |   |   |   
+|       |   |   \---SYMNET
+|       |   |       +---COMMON
+|       |   |       |   \---SYMSHARE
+|       |   |       |       |   SNDINST.EXE
+|       |   |       |       |   SNDSRVC.EXE
+|       |   |       |       |   VALIDATE.DAT
+|       |   |       |       |   
+|       |   |       |       \---IDSDEFS
+|       |   |       |               IDSCOLU.EXE
+|       |   |       |               IDSLU.EXE
+|       |   |       |               SYMNETI2.DLL
+|       |   |       |               
+|       |   |       +---SYSTEM
+|       |   |       |       SYMDNS.VXD
+|       |   |       |       SYMFW.VXD
+|       |   |       |       SYMIDS.VXD
+|       |   |       |       SYMNDIS.VXD
+|       |   |       |       SYMREDRV.VXD
+|       |   |       |       SYMTDI.VXD
+|       |   |       |       
+|       |   |       \---SYSTEM32
+|       |   |           |   DEFAULT.RUL
+|       |   |           |   SYMIDSCO.VXD
+|       |   |           |   SYMNETI.DLL
+|       |   |           |   SYMREDIR.DLL
+|       |   |           |   
+|       |   |           \---DRIVERS
+|       |   |                   SYMDNS.SYS
+|       |   |                   SYMFW.SYS
+|       |   |                   SYMIDS.SYS
+|       |   |                   SYMIDSCO.SYS
+|       |   |                   SYMNDIS.SYS
+|       |   |                   SYMREDIR.CAT
+|       |   |                   SYMREDIR.INF
+|       |   |                   SYMREDRV.SYS
+|       |   |                   SYMTDI.SYS
+|       |   |                   
+|       |   \---URLLIST
+|       |           URLLIST.EXE
+|       |           
+|       \---VIRUSDEF
+|               CATALOG.DAT
+|               DEFINST.EXE
+|               ECBOOTIL.VXD
+|               ECMSVR32.DLL
+|               HH
+|               NAVENG.EXP
+|               NAVENG.SYS
+|               NAVENG.VXD
+|               NAVENG32.DLL
+|               NAVEX15.EXP
+|               NAVEX15.SYS
+|               NAVEX15.VXD
+|               NAVEX32A.DLL
+|               NCSACERT.TXT
+|               SCRAUTH.DAT
+|               SYMAVENG.CAT
+|               SYMAVENG.INF
+|               TCDEFS.DAT
+|               TCSCAN7.DAT
+|               TCSCAN8.DAT
+|               TCSCAN9.DAT
+|               TECHNOTE.TXT
+|               TINF.DAT
+|               TINFIDX.DAT
+|               TINFL.DAT
+|               TSCAN1.DAT
+|               TSCAN1HD.DAT
+|               V.GRD
+|               V.SIG
+|               VIRSCAN.INF
+|               VIRSCAN1.DAT
+|               VIRSCAN2.DAT
+|               VIRSCAN3.DAT
+|               VIRSCAN4.DAT
+|               VIRSCAN5.DAT
+|               VIRSCAN6.DAT
+|               VIRSCAN7.DAT
+|               VIRSCAN8.DAT
+|               VIRSCAN9.DAT
+|               VIRSCANT.DAT
+|               WHATSNEW.TXT
+|               ZDONE.DAT
+|               
+\---Utilities
+        data1.cab
+        data1.hdr
+        data2.cab
+        engine32.cab
+        layout.bin
+        setup.bmp
+        setup.boot
+        setup.exe
+        setup.ini
+        setup.inx
+        

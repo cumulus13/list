@@ -1,0 +1,115 @@
+ Volume in drive G is DVD-IL082007
+ Volume Serial Number is 77F0-837E
+
+ Directory of G:\
+
+07/01/2007  11:33 PM            33,218 MD5SUM
+06/30/2007  12:39 PM    <DIR>          boot
+07/01/2007  11:13 PM    <DIR>          indeks_debian_package
+06/30/2007  12:39 PM    <DIR>          isolinux
+06/30/2007  12:40 PM       725,917,696 livecd.sqfs
+               2 File(s)    725,950,914 bytes
+
+ Directory of G:\boot
+
+06/30/2007  12:39 PM    <DIR>          .
+07/01/2007  11:33 PM    <DIR>          ..
+06/30/2007  12:39 PM    <DIR>          grub
+               0 File(s)              0 bytes
+
+ Directory of G:\boot\grub
+
+06/30/2007  12:39 PM    <DIR>          .
+06/30/2007  12:39 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\indeks_debian_package
+
+07/01/2007  11:13 PM    <DIR>          .
+07/01/2007  11:33 PM    <DIR>          ..
+07/01/2007  11:13 PM             5,386 Packages.gz
+               1 File(s)          5,386 bytes
+
+ Directory of G:\isolinux
+
+06/30/2007  12:39 PM    <DIR>          .
+07/01/2007  11:33 PM    <DIR>          ..
+06/30/2007  12:39 PM           100,640 16x16.fnt
+06/30/2007  12:39 PM            25,966 back.jpg
+06/30/2007  12:39 PM            17,537 bg.hlp
+06/30/2007  12:39 PM             2,209 bg.tr
+07/01/2007  11:36 PM             2,048 boot.cat
+06/30/2007  12:39 PM            75,264 bootlogo
+06/30/2007  12:39 PM             1,196 bs.tr
+06/30/2007  12:39 PM             9,254 cs.hlp
+06/30/2007  12:39 PM             1,218 cs.tr
+06/30/2007  12:39 PM             1,133 cy.tr
+06/30/2007  12:39 PM            10,346 da.hlp
+06/30/2007  12:39 PM             1,241 da.tr
+06/30/2007  12:39 PM            10,487 de.hlp
+06/30/2007  12:39 PM             1,283 de.tr
+06/30/2007  12:39 PM            18,883 el.hlp
+06/30/2007  12:39 PM             2,371 el.tr
+06/30/2007  12:39 PM             9,199 en.hlp
+06/30/2007  12:39 PM             1,095 en.tr
+06/30/2007  12:39 PM            11,305 es.hlp
+06/30/2007  12:39 PM             1,368 es.tr
+06/30/2007  12:39 PM             1,225 et.tr
+06/30/2007  12:39 PM             9,996 fi.hlp
+06/30/2007  12:39 PM             1,288 fi.tr
+06/30/2007  12:39 PM            11,739 fr.hlp
+06/30/2007  12:39 PM             1,409 fr.tr
+06/30/2007  12:39 PM            11,621 hu.hlp
+06/30/2007  12:39 PM             1,493 hu.tr
+06/30/2007  12:39 PM             1,099 id.tr
+06/30/2007  12:39 PM         2,901,394 initrd.gz
+06/30/2007  12:39 PM             1,149 is.tr
+06/30/2007  12:39 PM            13,260 isolinux.bin
+06/30/2007  12:39 PM             1,190 isolinux.cfg
+06/30/2007  12:39 PM            10,908 it.hlp
+06/30/2007  12:39 PM             1,335 it.tr
+06/30/2007  12:39 PM            13,431 ja.hlp
+06/30/2007  12:39 PM             1,663 ja.tr
+06/30/2007  12:39 PM             1,254 lt.tr
+06/30/2007  12:39 PM             1,360 ltg.tr
+06/30/2007  12:39 PM           121,888 mediacheck
+06/30/2007  12:39 PM            94,600 memtest
+06/30/2007  12:39 PM             2,509 mk.tr
+06/30/2007  12:39 PM             9,849 nb.hlp
+06/30/2007  12:39 PM             1,177 nb.tr
+06/30/2007  12:39 PM            10,615 nl.hlp
+06/30/2007  12:39 PM             1,327 nl.tr
+06/30/2007  12:39 PM             1,209 nn.tr
+06/30/2007  12:39 PM            13,401 pclinuxos.pcx
+06/30/2007  12:39 PM             9,951 pl.hlp
+06/30/2007  12:39 PM             1,324 pl.tr
+06/30/2007  12:39 PM            10,931 pt.hlp
+06/30/2007  12:39 PM             1,316 pt.tr
+06/30/2007  12:39 PM            10,533 pt_BR.hlp
+06/30/2007  12:39 PM             1,361 pt_BR.tr
+06/30/2007  12:39 PM             1,196 ro.tr
+06/30/2007  12:39 PM            16,583 ru.hlp
+06/30/2007  12:39 PM             2,172 ru.tr
+06/30/2007  12:39 PM             1,232 sk.tr
+06/30/2007  12:39 PM            10,063 sl.hlp
+06/30/2007  12:39 PM             1,324 sl.tr
+06/30/2007  12:39 PM             2,056 sr.tr
+06/30/2007  12:39 PM             1,239 sr@Latn.tr
+06/30/2007  12:39 PM            16,384 star.dat
+06/30/2007  12:39 PM            10,001 sv.hlp
+06/30/2007  12:39 PM             1,212 sv.tr
+06/30/2007  12:39 PM             1,719 timer_a.jpg
+06/30/2007  12:39 PM            17,472 uk.hlp
+06/30/2007  12:39 PM             2,260 uk.tr
+06/30/2007  12:39 PM         1,582,984 vmlinuz
+06/30/2007  12:39 PM             1,481 wa.tr
+06/30/2007  12:39 PM            12,579 welcome.jpg
+06/30/2007  12:39 PM             8,249 zh_CN.hlp
+06/30/2007  12:39 PM             1,096 zh_CN.tr
+06/30/2007  12:39 PM             8,431 zh_TW.hlp
+06/30/2007  12:39 PM             1,095 zh_TW.tr
+              74 File(s)      5,283,676 bytes
+
+     Total Files Listed:
+              77 File(s)    731,239,976 bytes
+              12 Dir(s)               0 bytes free

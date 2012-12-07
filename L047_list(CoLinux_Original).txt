@@ -1,0 +1,153 @@
+ Volume in drive G is cd_buku_colinux
+ Volume Serial Number is F11F-7E00
+
+ Directory of G:\
+
+06/11/2005  12:12 AM    <DIR>          colinux
+06/11/2005  12:12 AM    <DIR>          config_sample
+06/11/2005  12:12 AM    <DIR>          development
+06/11/2005  12:12 AM    <DIR>          images
+06/11/2005  12:12 AM               345 readme.txt
+06/11/2005  12:12 AM    <DIR>          utilities
+06/11/2005  12:12 AM    <DIR>          vnc
+06/11/2005  12:12 AM    <DIR>          win_xserver
+               1 File(s)            345 bytes
+
+ Directory of G:\colinux
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:12 AM           440,557 WinPcap_3_0.exe
+06/11/2005  12:12 AM         4,708,555 coLinux-0.6.2.exe
+               2 File(s)      5,149,112 bytes
+
+ Directory of G:\config_sample
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:12 AM    <DIR>          batch
+06/11/2005  12:12 AM    <DIR>          clm
+06/11/2005  12:12 AM    <DIR>          conf
+               0 File(s)              0 bytes
+
+ Directory of G:\config_sample\batch
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM                96 debian.bat
+06/11/2005  12:13 AM                96 fedora.bat
+06/11/2005  12:13 AM                98 mandrake.bat
+06/11/2005  12:13 AM                97 slackware.bat
+               4 File(s)            387 bytes
+
+ Directory of G:\config_sample\clm
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM            20,763 clm.bat
+06/11/2005  12:13 AM             1,307 clm.conf.bat
+               2 File(s)         22,070 bytes
+
+ Directory of G:\config_sample\conf
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM             1,473 debian.colinux.xml
+06/11/2005  12:13 AM             1,474 fedora.colinux.xml
+06/11/2005  12:13 AM             1,479 mandrake.colinux.xml
+06/11/2005  12:13 AM             1,561 slackware.colinux.xml
+               4 File(s)          5,987 bytes
+
+ Directory of G:\development
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:13 AM         2,808,061 MSYS-1.0.10.exe
+06/11/2005  12:13 AM        15,219,417 MinGW-3.1.0-1.exe
+               2 File(s)     18,027,478 bytes
+
+ Directory of G:\images
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:13 AM        18,038,385 Debian-3.0r0.ext3.1gb.bz2
+06/11/2005  12:12 AM       262,874,199 fedora.7z
+06/11/2005  12:13 AM             5,984 fs_1024Mb.bz2
+06/11/2005  12:13 AM            18,319 fs_10Gb.bz2
+06/11/2005  12:13 AM             6,892 fs_1536Mb.bz2
+06/11/2005  12:13 AM             7,484 fs_2048Mb.bz2
+06/11/2005  12:13 AM            10,938 fs_4095Mb.bz2
+06/11/2005  12:13 AM             7,840 fs_512Mb.bz2
+06/11/2005  12:13 AM             4,120 fs_768Mb.bz2
+06/11/2005  12:13 AM       252,796,133 mandrake.7z
+06/11/2005  12:13 AM        69,777,073 slackware.7z
+06/11/2005  12:13 AM               148 swap_128Mb.bz2
+              12 File(s)    603,547,515 bytes
+
+ Directory of G:\utilities
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:12 AM           942,512 7z313.exe
+06/11/2005  12:12 AM           681,984 WinSCP2.exe
+06/11/2005  12:12 AM             5,237 clm-1.3.0.zip
+06/11/2005  12:12 AM           356,352 putty.exe
+06/11/2005  12:12 AM         1,447,200 topo_enlarge.7z
+06/11/2005  12:12 AM           857,600 winscp356.exe
+               6 File(s)      4,290,885 bytes
+
+ Directory of G:\vnc
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:12 AM    <DIR>          RealVNC
+06/11/2005  12:12 AM    <DIR>          TightVNC
+06/11/2005  12:12 AM    <DIR>          UltraVNC
+               0 File(s)              0 bytes
+
+ Directory of G:\vnc\RealVNC
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM           720,051 vnc-4.0-x86_win32.zip
+               1 File(s)        720,051 bytes
+
+ Directory of G:\vnc\TightVNC
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM           691,916 tightvnc-1.2.9_x86.zip
+               1 File(s)        691,916 bytes
+
+ Directory of G:\vnc\UltraVNC
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM         1,140,546 UltraVNC-100-RC18-bin.zip
+               1 File(s)      1,140,546 bytes
+
+ Directory of G:\win_xserver
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:14 AM    <DIR>          ..
+06/11/2005  12:12 AM    <DIR>          X-Deep
+06/11/2005  12:12 AM    <DIR>          XMing
+               0 File(s)              0 bytes
+
+ Directory of G:\win_xserver\X-Deep
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM        16,318,049 xdp40Full.exe
+               1 File(s)     16,318,049 bytes
+
+ Directory of G:\win_xserver\XMing
+
+06/11/2005  12:12 AM    <DIR>          .
+06/11/2005  12:12 AM    <DIR>          ..
+06/11/2005  12:13 AM        24,143,197 Xming_Archive.zip
+               1 File(s)     24,143,197 bytes
+
+     Total Files Listed:
+              38 File(s)    674,057,538 bytes
+              45 Dir(s)               0 bytes free

@@ -1,0 +1,2244 @@
+ Volume in drive G is SoftwareDisc
+ Volume Serial Number is 3D20-7D13
+
+ Directory of G:\
+
+09/14/2005  08:05 AM               966 Autorun.inf
+09/12/2005  08:26 AM    <DIR>          Common Files
+09/12/2005  08:26 AM    <DIR>          InCD 4
+09/12/2005  08:26 AM    <DIR>          InCD Reader
+04/05/2005  04:13 PM         1,392,640 Launcher.exe
+09/12/2005  08:27 AM    <DIR>          Nero
+09/12/2005  08:27 AM    <DIR>          Nero BurnRights
+09/12/2005  08:28 AM    <DIR>          Nero Media Player
+03/13/2003  01:27 AM            12,390 Nero.ico
+09/12/2005  08:28 AM    <DIR>          Redist
+10/31/2005  09:06 AM    <DIR>          chinese_s
+10/31/2005  09:06 AM    <DIR>          chinese_t
+10/31/2005  09:06 AM    <DIR>          dutch
+10/31/2005  09:06 AM    <DIR>          english
+10/31/2005  09:06 AM    <DIR>          french
+10/31/2005  09:06 AM    <DIR>          german
+10/31/2005  09:06 AM    <DIR>          italian
+10/31/2005  09:06 AM    <DIR>          japanese
+10/31/2005  09:06 AM    <DIR>          korean
+09/12/2005  08:25 AM    <DIR>          launchres
+10/31/2005  09:06 AM    <DIR>          portuguese
+03/21/2005  05:18 PM           237,568 setup.exe
+06/20/2005  08:41 PM         1,409,024 setupx.exe
+10/31/2005  09:08 AM    <DIR>          spanish
+10/31/2005  09:08 AM    <DIR>          swedish
+09/12/2005  08:25 AM    <DIR>          usersupport
+               5 File(s)      3,052,588 bytes
+
+ Directory of G:\Common Files
+
+09/12/2005  08:26 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:26 AM    <DIR>          AudioPlugins
+09/12/2005  08:26 AM    <DIR>          DSFilters
+09/12/2005  08:26 AM    <DIR>          Lib
+               0 File(s)              0 bytes
+
+ Directory of G:\Common Files\AudioPlugins
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+02/23/2005  08:54 PM           799,311 Aac.dll.cab
+05/13/2005  11:22 PM            28,000 Aiff.dll.cab
+05/13/2005  11:22 PM            22,073 DefConvertor.dll.cab
+07/07/2004  10:03 PM            31,871 Downloaders.dll.cab
+11/11/2002  06:20 PM           258,957 TWINVQ2.CDB.cab
+02/01/2005  05:51 PM            32,338 Vqf.dll.cab
+02/01/2005  05:50 PM           409,463 VqfDecLib.dll.cab
+02/01/2005  05:51 PM           518,449 VqfEncLib.dll.cab
+02/01/2005  05:51 PM            97,020 VqfEncLib1.dll.cab
+06/28/2005  09:05 PM           413,863 aacenc32.dll.cab
+02/17/2004  05:20 PM           103,527 lame_enc.dll.cab
+07/07/2004  10:03 PM            40,412 midi.dll.cab
+05/13/2005  11:22 PM           271,931 mp3PP.dll.cab
+05/13/2005  11:23 PM           646,090 mp3PRO.dll.cab
+05/13/2005  11:23 PM            42,640 mp3PRO_dmo.dll.cab
+05/13/2005  11:23 PM            39,626 mp3PRO_hlp.dll.cab
+05/13/2005  11:22 PM           202,142 msa.dll.cab
+09/12/2005  08:26 AM    <DIR>          msa7
+05/13/2005  11:23 PM           445,777 ogg.dll.cab
+07/07/2004  10:22 PM            26,592 video.dll.cab
+05/13/2005  11:24 PM            40,122 wav.dll.cab
+              20 File(s)      4,470,204 bytes
+
+ Directory of G:\Common Files\AudioPlugins\msa7
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+06/28/2002  11:22 PM            68,734 msa.dll.cab
+               1 File(s)         68,734 bytes
+
+ Directory of G:\Common Files\DSFilters
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+06/28/2005  10:09 PM           160,953 NDParser.ax.cab
+06/28/2005  09:05 PM           215,360 NeAMR.dll.cab
+06/28/2005  09:05 PM           109,177 NeAudCD.ax.cab
+06/29/2005  06:50 PM           557,938 NeAudio.ax.cab
+06/28/2005  09:05 PM           103,003 NeAudioConv.ax.cab
+06/28/2005  09:05 PM            60,637 NeCapture.ax.cab
+06/28/2005  10:09 PM           409,113 NeDVD.ax.cab
+06/28/2005  09:05 PM            79,139 NeDVSplitter.ax.cab
+06/28/2005  09:05 PM           189,300 NeFSource.ax.cab
+06/28/2005  09:05 PM           107,823 NeFileSourceAsync.ax.cab
+06/28/2005  09:05 PM            36,485 NeFileSrc.ax.cab
+06/28/2005  09:05 PM           169,087 NeNDAud.ax.cab
+06/28/2005  09:05 PM           629,531 NeNDGui.dll.cab
+06/28/2005  09:05 PM           199,388 NeNDMux.ax.cab
+06/28/2005  09:05 PM           444,806 NeNDVid.ax.cab
+06/28/2005  09:05 PM            42,345 NePSMuxer.ax.cab
+06/28/2005  09:05 PM           106,827 NePhotoSource.ax.cab
+06/28/2005  09:05 PM            21,553 NeQTDec.ax.cab
+06/28/2005  09:05 PM            23,373 NeRender.ax.cab
+06/28/2005  10:09 PM            26,342 NeSceneDetector.ax.cab
+06/28/2005  09:05 PM            89,541 NeSplitter.ax.cab
+06/28/2005  09:05 PM           244,921 NeVCR.ax.cab
+06/28/2005  09:05 PM            96,357 NeVcd.ax.cab
+06/28/2005  09:05 PM           625,169 NeVideo.ax.cab
+06/28/2005  09:05 PM            57,698 NeVideoAnalyzer.ax.cab
+06/28/2005  09:05 PM            61,771 NeroFormatConv.ax.cab
+06/28/2005  09:05 PM            68,795 NeroVideoProc.ax.cab
+06/28/2005  09:05 PM           174,542 aacplus.dll.cab
+06/28/2005  09:05 PM            30,894 dvddisc.dll.cab
+06/28/2005  09:05 PM            36,159 ndvddisc.dll.cab
+06/28/2005  09:05 PM            34,915 neroadb.dll.cab
+06/28/2005  09:05 PM            27,436 neroapl.dll.cab
+              32 File(s)      5,240,378 bytes
+
+ Directory of G:\Common Files\Lib
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+08/04/2005  11:25 PM         1,156,688 AdvrCntr.dll.cab
+12/09/2004  02:58 AM            53,917 DriveLocker.dll.cab
+06/28/2005  10:23 PM           140,582 MultiChannel.dll.cab
+06/28/2005  09:05 PM            79,918 NeAcEnc.dll.cab
+06/28/2005  10:05 PM           121,454 NeEm2a.dll.cab
+06/28/2005  09:05 PM           132,174 NeVcr.dll.cab
+05/13/2005  10:07 PM           501,377 NeroCBUI.dll.cab
+06/28/2005  09:05 PM           224,331 NeroIPP.dll.cab
+06/28/2005  10:20 PM           279,084 NeroMediaCon.dll.cab
+04/30/2005  01:11 AM           264,186 apreg.dll.cab
+06/28/2005  10:24 PM            68,188 em2v.dll.cab
+05/17/2005  05:14 PM           236,384 specialoffer.exe.cab
+              12 File(s)      3,258,283 bytes
+
+ Directory of G:\InCD 4
+
+09/12/2005  08:26 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:26 AM    <DIR>          InCD
+09/12/2005  08:26 AM    <DIR>          Redist
+09/12/2005  08:26 AM    <DIR>          Setup
+09/06/2005  04:31 PM            58,990 Setupx.cfg
+05/17/2005  04:30 PM         2,916,352 Setupx.exe
+09/12/2005  08:26 AM    <DIR>          Sharedi386
+09/12/2005  08:26 AM    <DIR>          i386
+09/12/2005  08:26 AM    <DIR>          w9x
+               2 File(s)      2,975,342 bytes
+
+ Directory of G:\InCD 4\InCD
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:39 PM               104 Error.log.cab
+09/30/2004  06:54 PM            15,152 InCD 4 - FAQ.html.cab
+03/02/2005  04:26 PM           143,688 InCD_chs.chm
+03/02/2005  04:26 PM           145,339 InCD_cht.chm
+03/02/2005  04:26 PM           196,109 InCD_deu.chm
+03/02/2005  04:26 PM           193,434 InCD_eng.chm
+03/02/2005  04:26 PM           152,174 InCD_esp.chm
+03/02/2005  04:26 PM           151,778 InCD_fra.chm
+03/02/2005  04:26 PM           150,762 InCD_ita.chm
+03/02/2005  04:26 PM           158,590 InCD_jpn.chm
+03/02/2005  04:26 PM           145,818 InCD_kor.chm
+03/02/2005  04:26 PM           148,858 InCD_nld.chm
+03/02/2005  04:26 PM           149,087 InCD_ptg.chm
+03/02/2005  04:26 PM           172,851 InCD_sve.chm
+01/26/2005  08:35 PM            27,738 dma.bin.cab
+12/29/2004  12:32 AM            31,286 gaa.bin.cab
+04/12/2005  04:06 PM            11,652 incd1252.txt.cab
+01/26/2005  08:35 PM            27,741 lgc.bin.cab
+04/14/2004  04:28 PM               105 shared.txt.cab
+              19 File(s)      2,022,266 bytes
+
+ Directory of G:\InCD 4\Redist
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+01/23/2001  05:13 PM           117,288 ShFolder.exe
+08/23/2001  07:00 PM           995,383 mfc42.dll
+05/04/2001  05:05 PM           290,869 msvcrt.dll
+               3 File(s)      1,403,540 bytes
+
+ Directory of G:\InCD 4\Setup
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+12/09/2004  05:00 PM            10,369 Eula_chs.txt
+12/09/2004  05:01 PM            11,068 Eula_cht.txt
+01/12/2005  10:21 PM            20,817 Eula_deu.txt
+01/12/2005  10:18 PM            17,755 Eula_eng.txt
+01/12/2005  10:09 PM            18,590 Eula_enu.txt
+12/09/2004  05:06 PM            17,331 Eula_esp.txt
+12/09/2004  05:06 PM            18,028 Eula_fra.txt
+12/09/2004  05:06 PM            18,324 Eula_ita.txt
+12/09/2004  05:07 PM            13,987 Eula_jpn.txt
+12/09/2004  05:08 PM            13,134 Eula_kor.txt
+12/09/2004  05:09 PM            18,050 Eula_nld.txt
+12/09/2004  05:09 PM            18,558 Eula_ptg.txt
+12/09/2004  05:15 PM            16,650 Eula_sve.txt
+04/08/2005  11:50 PM           733,254 shortcut.dll
+              14 File(s)        945,915 bytes
+
+ Directory of G:\InCD 4\Sharedi386
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:33 PM            34,802 InCDL.exe.cab
+04/12/2005  04:16 PM            55,824 incdshx.dll.cab
+               2 File(s)         90,626 bytes
+
+ Directory of G:\InCD 4\i386
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:15 PM         1,383,936 InCD.exe
+04/12/2005  04:07 PM            79,374 InCDFat.sys.cab
+04/12/2005  04:07 PM             3,503 InCDFatRec.sys.cab
+04/12/2005  04:07 PM            56,095 InCDfs.sys.cab
+04/12/2005  04:07 PM            16,947 InCDpass.sys.cab
+04/12/2005  04:07 PM             4,245 InCDrec.sys.cab
+04/12/2005  04:07 PM            28,160 InCDrm.sys
+04/12/2005  04:15 PM           442,661 InCDsrv.exe.cab
+09/06/2004  11:47 PM               107 SrvError.Log.cab
+04/12/2005  04:14 PM           353,136 incdapi.dll.cab
+              10 File(s)      2,368,164 bytes
+
+ Directory of G:\InCD 4\w9x
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:33 PM         1,540,208 InCD.exe
+04/12/2005  04:32 PM            30,896 InCDrm.vxd
+04/12/2005  04:32 PM             3,574 bsudf.vxd.cab
+04/12/2005  04:29 PM           449,142 incdapi.dll.cab
+04/12/2005  04:31 PM           311,028 incdfs.vxd.cab
+04/12/2005  04:32 PM            69,201 incdpass.vxd.cab
+               6 File(s)      2,404,049 bytes
+
+ Directory of G:\InCD Reader
+
+09/12/2005  08:26 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:26 AM    <DIR>          InCD
+09/12/2005  08:26 AM    <DIR>          Redist
+09/12/2005  08:26 AM    <DIR>          Setup
+09/06/2005  04:31 PM            56,036 Setupx.cfg
+05/17/2005  04:30 PM         2,916,352 Setupx.exe
+09/12/2005  08:26 AM    <DIR>          Sharedi386
+09/12/2005  08:26 AM    <DIR>          W9x
+09/12/2005  08:26 AM    <DIR>          i386
+               2 File(s)      2,972,388 bytes
+
+ Directory of G:\InCD Reader\InCD
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:06 PM            11,652 incd1252.txt.cab
+04/14/2004  04:28 PM               105 shared.txt.cab
+               2 File(s)         11,757 bytes
+
+ Directory of G:\InCD Reader\Redist
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+08/23/2001  07:00 PM           995,383 mfc42.dll
+05/04/2001  05:05 PM           290,869 msvcrt.dll
+               2 File(s)      1,286,252 bytes
+
+ Directory of G:\InCD Reader\Setup
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+12/09/2004  05:00 PM            10,369 Eula_chs.txt
+12/09/2004  05:01 PM            11,068 Eula_cht.txt
+01/12/2005  10:21 PM            20,817 Eula_deu.txt
+01/12/2005  10:18 PM            17,755 Eula_eng.txt
+01/12/2005  10:09 PM            18,590 Eula_enu.txt
+12/09/2004  05:06 PM            17,331 Eula_esp.txt
+12/09/2004  05:06 PM            18,028 Eula_fra.txt
+12/09/2004  05:06 PM            18,324 Eula_ita.txt
+12/09/2004  05:07 PM            13,987 Eula_jpn.txt
+12/09/2004  05:08 PM            13,134 Eula_kor.txt
+12/09/2004  05:09 PM            18,050 Eula_nld.txt
+12/09/2004  05:09 PM            18,558 Eula_ptg.txt
+12/09/2004  05:15 PM            16,650 Eula_sve.txt
+              13 File(s)        212,661 bytes
+
+ Directory of G:\InCD Reader\Sharedi386
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:16 PM            55,824 incdshx.dll.cab
+               1 File(s)         55,824 bytes
+
+ Directory of G:\InCD Reader\W9x
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:32 PM           181,592 InCDpard.vxd
+04/12/2005  04:32 PM            30,896 InCDrm.vxd
+04/12/2005  04:32 PM           809,871 InCDudfr.vxd
+               3 File(s)      1,022,359 bytes
+
+ Directory of G:\InCD Reader\i386
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:26 AM    <DIR>          ..
+04/12/2005  04:15 PM         1,383,936 InCD.exe
+04/12/2005  04:07 PM            79,374 InCDFat.sys.cab
+04/12/2005  04:07 PM             3,503 InCDFatRec.sys.cab
+04/12/2005  04:07 PM            56,095 InCDfs.sys.cab
+04/12/2005  04:07 PM            16,947 InCDpass.sys.cab
+04/12/2005  04:07 PM             4,245 InCDrec.sys.cab
+04/12/2005  04:07 PM            28,160 InCDrm.sys
+04/12/2005  04:15 PM           869,376 InCDsrv.exe
+04/12/2005  04:14 PM           353,136 incdapi.dll.cab
+               9 File(s)      2,794,772 bytes
+
+ Directory of G:\Nero
+
+09/12/2005  08:27 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:27 AM    <DIR>          CoverDesigner
+09/12/2005  08:27 AM    <DIR>          Nero
+09/12/2005  08:27 AM    <DIR>          Nero BackItUp
+09/12/2005  08:27 AM    <DIR>          Nero StartSmart
+09/12/2005  08:27 AM    <DIR>          Nero Toolkit
+09/12/2005  08:27 AM    <DIR>          Nero Wave Editor
+09/12/2005  08:26 AM    <DIR>          Redist
+09/06/2005  04:31 PM           116,987 Setupx.cfg
+07/01/2005  08:56 PM         2,969,600 Setupx.exe
+09/12/2005  08:26 AM    <DIR>          System
+09/12/2005  08:26 AM    <DIR>          WMPBurn
+09/12/2005  08:26 AM    <DIR>          nero soundtrax
+09/12/2005  08:26 AM    <DIR>          setup
+               2 File(s)      3,086,587 bytes
+
+ Directory of G:\Nero\CoverDesigner
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/18/2005  12:59 AM         1,007,707 CoverDes.exe.cab
+05/18/2005  01:02 AM           946,644 CoverEdCtrl.ocx.cab
+09/12/2005  08:27 AM    <DIR>          LSTemplates
+07/17/2003  12:40 PM         1,901,606 NeroCoverDesigner_chs.chm
+07/16/2003  09:52 PM         1,952,022 NeroCoverDesigner_cht.chm
+07/17/2003  12:35 PM         1,994,295 NeroCoverDesigner_deu.chm
+07/15/2003  06:25 PM         1,934,941 NeroCoverDesigner_eng.chm
+07/17/2003  12:37 PM         1,964,321 NeroCoverDesigner_esp.chm
+07/17/2003  12:36 PM         1,997,245 NeroCoverDesigner_fra.chm
+06/21/2004  03:35 PM         1,974,899 NeroCoverDesigner_ita.chm
+07/17/2003  12:36 PM         2,075,011 NeroCoverDesigner_jpn.chm
+07/17/2003  12:38 PM         1,995,410 NeroCoverDesigner_kor.chm
+01/14/2004  05:32 PM         2,094,464 NeroCoverDesigner_nld.chm
+07/17/2003  12:38 PM         1,976,439 NeroCoverDesigner_ptg.chm
+04/27/2004  06:45 PM         2,029,012 NeroCoverDesigner_sve.chm
+09/12/2005  08:27 AM    <DIR>          Templates
+05/18/2005  01:02 AM           145,830 covered-chs.nls.cab
+05/18/2005  01:02 AM           145,034 covered-cht.nls.cab
+05/18/2005  01:02 AM           153,522 covered-deu.nls.cab
+05/18/2005  01:01 AM           151,325 covered-esp.nls.cab
+05/18/2005  01:01 AM           152,978 covered-fra.nls.cab
+05/18/2005  01:01 AM           151,127 covered-ita.nls.cab
+05/18/2005  01:01 AM           146,961 covered-jpn.nls.cab
+05/18/2005  01:01 AM           148,189 covered-kor.nls.cab
+05/18/2005  01:00 AM           152,595 covered-nld.nls.cab
+05/18/2005  01:00 AM           151,565 covered-ptg.nls.cab
+05/18/2005  12:59 AM           150,491 covered-sve.nls.cab
+01/14/2005  01:04 AM           166,547 def.dat.cab
+03/22/2005  01:39 AM             8,746 stocks.dat.cab
+              27 File(s)     27,668,926 bytes
+
+ Directory of G:\Nero\CoverDesigner\LSTemplates
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+01/21/2005  09:58 PM             2,523 Audio_Content.nct
+01/21/2005  09:58 PM             1,723 Audio_Title.nct
+05/17/2005  06:34 PM             1,667 Audio_TitleMax.nct
+01/21/2005  09:58 PM             2,135 Data_Content.nct
+01/21/2005  09:58 PM             1,706 Data_Title.nct
+05/17/2005  06:34 PM             1,651 Data_TitleMax.nct
+               6 File(s)         11,405 bytes
+
+ Directory of G:\Nero\CoverDesigner\Templates
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+01/12/2005  12:45 AM           349,623 AudioData.nct
+01/12/2005  12:45 AM           320,087 AudioData_B&W.nct
+01/12/2005  12:45 AM            12,623 AudioData_Classic.nct
+01/12/2005  12:45 AM            12,605 Audio_Classic.nct
+01/21/2005  09:58 PM             2,523 Audio_Content.nct
+01/21/2005  09:58 PM             1,723 Audio_Title.nct
+05/17/2005  06:34 PM             1,667 Audio_TitleMax.nct
+01/12/2005  12:45 AM           163,033 DanceHiphop.nct
+01/12/2005  12:45 AM           261,761 DanceHiphop_B&W.nct
+01/12/2005  12:45 AM           281,776 Data.nct
+01/12/2005  12:45 AM           218,332 Data_B&W.nct
+01/12/2005  12:45 AM            10,509 Data_Classic.nct
+01/21/2005  09:58 PM             2,135 Data_Content.nct
+01/21/2005  09:58 PM             1,706 Data_Title.nct
+05/17/2005  06:34 PM             1,651 Data_TitleMax.nct
+01/12/2005  12:45 AM           523,357 Jazz_Classical.nct
+01/12/2005  12:45 AM           379,479 Rock.nct
+01/12/2005  12:45 AM           563,635 Vocal.nct
+01/12/2005  12:45 AM           772,198 disco.nct
+01/12/2005  12:45 AM         2,439,899 jazz.nct
+              20 File(s)      6,320,322 bytes
+
+ Directory of G:\Nero\Nero
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/13/2005  11:24 PM            43,266 AudioPluginMgr.dll.cab
+08/11/1998  05:19 PM            59,939 Boo.wav.cab
+05/24/2005  05:23 PM            96,412 CDCopy.dll.cab
+09/12/2005  08:27 AM    <DIR>          CDI
+10/29/2004  03:11 PM            17,815 CDROM.CFG.cab
+05/24/2005  05:22 PM           118,977 CDROM.dll.cab
+05/24/2005  04:04 PM         1,021,341 DRWEBASE.VDB.cab
+10/01/2003  08:02 PM            44,695 DVDREALLOC.dll.cab
+08/11/1998  04:16 PM            11,335 DingDong.wav.cab
+05/13/2005  10:07 PM           945,444 DosBootimage.IMA.cab
+09/01/2004  08:51 PM           382,018 Drweb32.dll.cab
+05/24/2005  05:22 PM           109,121 Dws114x.dll.cab
+05/24/2005  05:23 PM            50,252 Equalize.dll.cab
+05/24/2005  05:50 PM            84,377 FATImporter.dll.cab
+05/24/2005  05:24 PM            31,292 GENCUSH.dll.cab
+05/24/2005  05:25 PM            80,589 GenFAT.dll.cab
+05/24/2005  05:23 PM           109,583 GenPCHy.dll.cab
+05/24/2005  05:23 PM           152,569 GenUDF.dll.cab
+05/24/2005  05:23 PM            31,265 Generatr.dll.cab
+05/24/2005  05:23 PM           100,656 ISOFS.dll.cab
+05/24/2005  05:23 PM            46,712 ImageGen.dll.cab
+10/01/2003  08:02 PM            14,320 KARAOKE.dll.cab
+08/17/2005  07:15 PM           285,782 MMC.dll.cab
+10/01/2003  08:02 PM            66,877 MPGEnc.dll.cab
+05/14/2004  08:56 PM            97,857 NRESTORE.EXE.cab
+05/24/2005  05:25 PM            43,228 NeHDBlkAccess.dll.cab
+05/24/2005  05:50 PM           214,148 NeMP3Dmo.dll.cab
+05/24/2005  05:23 PM            34,658 NeMP3Hlp.dll.cab
+05/24/2005  05:24 PM            78,841 NeVCDEngine.dll.cab
+02/16/2005  01:05 AM            11,968 Nero.txt.cab
+04/25/2005  08:33 PM           341,672 NeroBurningRom_chs.chm
+04/25/2005  08:34 PM           362,632 NeroBurningRom_cht.chm
+03/07/2005  05:28 PM           456,824 NeroBurningRom_deu.chm
+03/07/2005  05:28 PM           347,684 NeroBurningRom_eng.chm
+03/07/2005  05:29 PM           379,526 NeroBurningRom_esp.chm
+03/07/2005  05:28 PM           382,935 NeroBurningRom_fra.chm
+03/07/2005  05:28 PM           371,300 NeroBurningRom_ita.chm
+04/25/2005  08:34 PM           420,905 NeroBurningRom_jpn.chm
+04/25/2005  08:34 PM           367,870 NeroBurningRom_kor.chm
+03/07/2005  05:28 PM           373,033 NeroBurningRom_nld.chm
+07/08/2003  06:25 PM           365,135 NeroBurningRom_ptb.chm
+03/07/2005  05:29 PM           376,229 NeroBurningRom_ptg.chm
+03/07/2005  05:29 PM           354,147 NeroBurningRom_sve.chm
+10/29/2004  03:11 PM            64,289 NeroCmd.exe.cab
+04/14/2005  08:31 PM           142,170 NeroCom.dll.cab
+03/07/2005  05:31 PM         2,334,726 NeroExpress_chs.chm
+03/07/2005  05:31 PM         2,295,503 NeroExpress_cht.chm
+03/03/2005  04:41 PM         2,348,786 NeroExpress_deu.chm
+03/03/2005  04:41 PM         2,935,884 NeroExpress_eng.chm
+03/03/2005  04:43 PM         2,313,830 NeroExpress_esp.chm
+03/03/2005  04:42 PM         2,322,388 NeroExpress_fra.chm
+03/03/2005  04:42 PM         2,278,904 NeroExpress_ita.chm
+03/07/2005  05:31 PM         2,398,950 NeroExpress_jpn.chm
+03/07/2005  05:31 PM         2,333,582 NeroExpress_kor.chm
+04/25/2005  08:34 PM         2,277,808 NeroExpress_nld.chm
+03/03/2005  04:43 PM         2,320,188 NeroExpress_ptg.chm
+03/03/2005  04:43 PM         2,299,700 NeroExpress_sve.chm
+09/01/2004  11:17 PM           141,585 NeroNet.dll.cab
+02/03/2005  05:24 PM           957,219 Nero_LS_ENG.CHM
+05/24/2005  05:56 PM           138,701 Nerochs.nls.cab
+03/22/2005  01:38 AM            11,219 Nerochs.txt.cab
+05/24/2005  05:56 PM           142,329 Nerocht.nls.cab
+05/13/2005  10:07 PM            11,580 Nerocht.txt.cab
+05/24/2005  05:56 PM           168,668 Nerodeu.nls.cab
+03/22/2005  01:38 AM            13,878 Nerodeu.txt.cab
+05/24/2005  05:55 PM           160,936 Neroesp.nls.cab
+03/22/2005  01:38 AM            12,989 Neroesp.txt.cab
+05/24/2005  05:54 PM           166,268 Nerofra.nls.cab
+05/13/2005  10:07 PM            13,267 Nerofra.txt.cab
+05/24/2005  05:54 PM           163,146 Neroita.nls.cab
+04/18/2005  11:49 PM            12,970 Neroita.txt.cab
+05/24/2005  05:54 PM           145,296 Nerojpn.nls.cab
+05/13/2005  10:07 PM            12,966 Nerojpn.txt.cab
+05/24/2005  05:54 PM           147,160 Nerokor.nls.cab
+04/18/2005  11:49 PM            12,490 Nerokor.txt.cab
+05/24/2005  05:53 PM           164,909 Neronld.nls.cab
+03/22/2005  01:38 AM            12,815 Neronld.txt.cab
+05/24/2005  05:53 PM           163,993 Neroptg.nls.cab
+03/22/2005  01:38 AM            12,831 Neroptg.txt.cab
+05/24/2005  05:52 PM           156,591 Nerosve.nls.cab
+04/19/2005  01:59 AM            12,596 Nerosve.txt.cab
+05/24/2005  05:24 PM            89,143 NetRecorder.dll.cab
+10/01/2003  08:02 PM             3,474 READHD16.dll.cab
+10/01/2003  08:02 PM             8,634 ReadHD32.dll.cab
+05/24/2005  05:50 PM            30,794 TMPVImporter.dll.cab
+08/11/1998  04:10 PM            41,104 Trumpet1.wav.cab
+05/24/2005  05:25 PM           225,124 UDFImporter.dll.cab
+09/12/2005  08:27 AM    <DIR>          Uninstall
+05/13/2005  11:32 PM            77,263 VCDMenu.dll.cab
+05/13/2005  11:38 PM            75,969 VMPEGEnc.dll.cab
+10/01/2003  08:02 PM           158,624 VMPEGEncNDX.dll.cab
+10/26/2004  11:35 PM           164,112 WNASPI32.DLL
+05/24/2005  05:22 PM           111,568 cdr100.dll.cab
+05/24/2005  05:22 PM           115,273 cdr50s.dll.cab
+05/24/2005  05:22 PM           129,947 cdu920.dll.cab
+05/24/2005  05:22 PM           112,241 cr2200cs.dll.cab
+05/24/2005  05:23 PM           107,529 geniso.dll.cab
+05/24/2005  05:22 PM            61,113 image.dll.cab
+05/24/2005  05:23 PM           113,349 ims.dll.cab
+05/13/2005  11:31 PM            38,521 neRSDB.dll.cab
+05/24/2005  05:50 PM        15,429,699 nero.exe
+05/24/2005  05:51 PM         1,440,753 neroAPI.dll.cab
+05/24/2005  05:23 PM           105,218 neroDB.dll.cab
+05/24/2005  05:22 PM           137,701 neroErr.dll.cab
+03/11/2002  04:55 PM            18,403 nerocd95.vxd.cab
+05/24/2005  05:22 PM            78,393 neroscsi.dll.cab
+07/07/2003  09:07 PM           112,984 neroshx.dll.cab
+05/24/2005  05:22 PM           142,404 newtrf.dll.cab
+05/27/2004  07:29 PM             4,663 nres_dan.msg.cab
+05/14/2004  08:56 PM             5,178 nres_deu.msg.cab
+05/14/2004  08:56 PM             4,402 nres_eng.msg.cab
+05/27/2004  07:29 PM             4,590 nres_esp.msg.cab
+05/14/2004  08:56 PM             4,920 nres_fin.msg.cab
+05/14/2004  08:56 PM             4,988 nres_fra.msg.cab
+05/27/2004  07:29 PM             4,924 nres_hun.msg.cab
+05/14/2004  08:56 PM             4,901 nres_ita.msg.cab
+05/14/2004  08:56 PM             4,896 nres_jpn.msg.cab
+05/14/2004  08:56 PM             5,014 nres_nld.msg.cab
+05/14/2004  08:56 PM             4,665 nres_nor.msg.cab
+05/27/2004  07:29 PM             4,833 nres_ptg.msg.cab
+05/27/2004  07:29 PM             4,826 nres_rus.msg.cab
+05/27/2004  07:29 PM             4,721 nres_sve.msg.cab
+05/27/2004  07:29 PM             4,704 nres_trk.msg.cab
+11/28/2003  02:32 AM               273 nrestore.cfg.cab
+05/24/2005  05:23 PM           112,493 ro1420c.dll.cab
+             123 File(s)     60,222,667 bytes
+
+ Directory of G:\Nero\Nero\CDI
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+10/01/2003  04:02 PM           309,723 CDI_IMAG.RTF.cab
+10/01/2003  04:02 PM             5,211 CDI_TEXT.FNT.cab
+10/01/2003  04:02 PM            50,783 CDI_VCD.APP.cab
+10/01/2003  04:02 PM               193 CDI_VCD.CFG
+               4 File(s)        365,910 bytes
+
+ Directory of G:\Nero\Nero\Uninstall
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+07/01/2005  10:21 PM           242,374 UNNero.cfg
+               1 File(s)        242,374 bytes
+
+ Directory of G:\Nero\Nero BackItUp
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/20/2005  12:32 AM           102,337 BackItUp-Jpn.nls.cab
+05/20/2005  12:32 AM            25,305 NBJ-Jpn.nls.cab
+05/20/2005  12:32 AM            18,480 NBR-Jpn.nls.cab
+03/09/2004  09:25 PM           735,716 NeroBackItUp_Jpn.chm
+               4 File(s)        881,838 bytes
+
+ Directory of G:\Nero\Nero StartSmart
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+04/30/2005  01:11 AM         1,485,117 NeroStartSmart.exe.cab
+11/06/2004  02:10 AM           231,114 NeroStartSmart_chs.chm
+11/06/2004  02:10 AM           239,930 NeroStartSmart_cht.chm
+11/06/2004  02:11 AM           238,802 NeroStartSmart_deu.chm
+11/06/2004  02:11 AM           234,500 NeroStartSmart_eng.chm
+11/06/2004  02:12 AM           237,128 NeroStartSmart_esp.chm
+11/06/2004  02:11 AM           239,864 NeroStartSmart_fra.chm
+11/06/2004  02:12 AM           235,579 NeroStartSmart_ita.chm
+02/10/2005  03:30 PM           241,629 NeroStartSmart_jpn.chm
+11/06/2004  02:12 AM           240,196 NeroStartSmart_kor.chm
+11/06/2004  02:10 AM           235,292 NeroStartSmart_nld.chm
+11/06/2004  02:12 AM           237,104 NeroStartSmart_ptg.chm
+11/06/2004  02:12 AM           234,746 NeroStartSmart_sve.chm
+12/09/2004  03:25 AM               328 Sony.oem.cab
+              14 File(s)      4,331,329 bytes
+
+ Directory of G:\Nero\Nero Toolkit
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/20/2005  04:08 PM           539,361 CDSpeed.exe.cab
+06/25/2003  10:24 PM           286,560 CDSpeed_eng.chm
+04/20/2005  11:46 PM           281,811 DriveSpeed.exe.cab
+07/14/2005  10:24 PM           217,638 InfoTool.exe.cab
+03/10/2003  06:10 PM             6,836 hwinfo.exe.cab
+               5 File(s)      1,332,206 bytes
+
+ Directory of G:\Nero\Nero Wave Editor
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/14/2005  12:24 AM           235,173 AudioControls2.ocx.cab
+05/14/2005  12:23 AM           210,773 Axis.ocx.cab
+05/14/2005  12:26 AM           220,434 DXBridge.wpl.cab
+05/14/2005  12:27 AM            47,084 DXEnum.exe.cab
+05/14/2005  12:24 AM           204,748 LEDMeter.ocx.cab
+04/13/2005  05:40 PM           714,728 NeroWaveEditor_chs.chm
+04/15/2005  09:57 PM           670,924 NeroWaveEditor_cht.chm
+04/15/2005  09:58 PM           715,270 NeroWaveEditor_deu.chm
+04/15/2005  09:58 PM           705,963 NeroWaveEditor_eng.chm
+04/15/2005  10:00 PM           698,097 NeroWaveEditor_esp.chm
+04/15/2005  09:58 PM           711,214 NeroWaveEditor_fra.chm
+04/15/2005  09:59 PM           700,440 NeroWaveEditor_ita.chm
+04/15/2005  09:59 PM           681,290 NeroWaveEditor_jpn.chm
+04/15/2005  09:59 PM           676,335 NeroWaveEditor_kor.chm
+04/15/2005  09:58 PM           697,835 NeroWaveEditor_nld.chm
+04/15/2005  10:00 PM           717,907 NeroWaveEditor_ptg.chm
+04/15/2005  10:00 PM           782,771 NeroWaveEditor_sve.chm
+09/12/2005  08:27 AM    <DIR>          Presets
+05/14/2005  12:26 AM           191,335 VSTBridge.wpl.cab
+05/14/2005  12:26 AM            43,241 WaveEdit.exe.cab
+05/14/2005  12:26 AM           532,347 vPlugIns.wpl.cab
+05/14/2005  12:23 AM            16,859 vplugins-chs.nls.cab
+05/14/2005  12:23 AM            16,945 vplugins-cht.nls.cab
+05/14/2005  12:23 AM            17,135 vplugins-deu.nls.cab
+05/14/2005  12:23 AM            16,847 vplugins-esp.nls.cab
+05/14/2005  12:23 AM            17,134 vplugins-fra.nls.cab
+05/14/2005  12:23 AM            16,924 vplugins-ita.nls.cab
+05/14/2005  12:23 AM            16,561 vplugins-jpn.nls.cab
+05/14/2005  12:23 AM            17,360 vplugins-kor.nls.cab
+05/14/2005  12:23 AM            16,877 vplugins-nld.nls.cab
+05/14/2005  12:22 AM            16,928 vplugins-ptg.nls.cab
+05/14/2005  12:22 AM            16,711 vplugins-sve.nls.cab
+05/14/2005  12:23 AM           273,820 waveedit-chs.nls.cab
+05/14/2005  12:23 AM           274,130 waveedit-cht.nls.cab
+05/14/2005  12:23 AM           275,052 waveedit-deu.nls.cab
+05/14/2005  12:23 AM           274,500 waveedit-esp.nls.cab
+05/14/2005  12:23 AM           274,970 waveedit-fra.nls.cab
+05/14/2005  12:23 AM           274,691 waveedit-ita.nls.cab
+05/14/2005  12:23 AM           273,861 waveedit-jpn.nls.cab
+05/14/2005  12:23 AM           275,230 waveedit-kor.nls.cab
+05/14/2005  12:23 AM           274,755 waveedit-nld.nls.cab
+05/14/2005  12:22 AM           274,510 waveedit-ptg.nls.cab
+05/14/2005  12:22 AM           274,283 waveedit-sve.nls.cab
+05/14/2005  12:29 AM           844,110 waveedit.dll.cab
+              43 File(s)     14,208,102 bytes
+
+ Directory of G:\Nero\Nero Wave Editor\Presets
+
+09/12/2005  08:27 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+06/30/2003  07:35 PM               286 1e61b927-8c5044d4-ae889c51-dd586cd3.pre.cab
+06/30/2003  08:32 PM               224 2c7682e2-d38b40b0-afd3ab3f-1119f089.pre.cab
+06/30/2003  07:35 PM               219 36b69eab-4da7410e-a9233458-ff920a91.pre.cab
+06/30/2003  07:35 PM               340 3e837f70-d5764187-951f9de3-34cf0129.pre.cab
+06/30/2003  08:32 PM               326 53e09fcc-6dc04140-9f962ece-93584bc.pre.cab
+06/30/2003  07:35 PM               314 541c03d3-cbfb40c0-b0385740-afec9f4.pre.cab
+06/30/2003  07:35 PM               250 5d1f0052-f8114a9f-9deea25e-39d99e88.pre.cab
+06/30/2003  08:32 PM               209 6073de43-6e416f-90412ea3-2b56d0af.pre.cab
+06/30/2003  08:32 PM               273 73a712b4-d614426e-bd00e28a-2680e483.pre.cab
+06/30/2003  07:35 PM               278 73abe042-a4514a93-853113e3-8a42a686.pre.cab
+06/30/2003  07:35 PM               283 7c25acb5-fb1c458e-87732cad-5b483c26.pre.cab
+06/30/2003  07:35 PM               314 8c3d0948-7044dc-8325bbcd-3a3a56ce.pre.cab
+06/30/2003  07:35 PM               495 9568266b-fc044b76-aad47a1d-2a20fe2c.pre.cab
+06/30/2003  08:32 PM               204 9ccd71-dd314df9-b871a1b2-adb7d13c.pre.cab
+06/30/2003  07:35 PM               289 9d61817f-45664ed8-9445daa0-a46641de.pre.cab
+06/30/2003  07:35 PM               296 a1d2638d-b23f429f-b0afdee5-a3350131.pre.cab
+06/30/2003  07:35 PM             6,989 ac92b519-53b641d6-89c2ba98-44554b2c.pre.cab
+06/30/2003  08:32 PM               237 b12dd394-8ac74eb1-95c9d1ec-2bf2ee19.pre.cab
+06/30/2003  07:35 PM               214 b18df606-87964fc1-8b5c6414-bbe887a3.pre.cab
+06/30/2003  07:35 PM               275 c62798c7-f50a4226-a88470d-37015a98.pre.cab
+06/30/2003  08:32 PM               354 d8684a6c-a1a14e4a-93c59908-d63ba37e.pre.cab
+06/30/2003  07:35 PM               336 d9608ef8-5d0d4927-a0091465-535f57ed.pre.cab
+06/30/2003  07:35 PM               458 e450dd9d-ff584493-9bfcd356-9d10547c.pre.cab
+06/30/2003  07:35 PM               215 fed38076-c8f547a7-9f8e0da5-8e44486.pre.cab
+              24 File(s)         13,678 bytes
+
+ Directory of G:\Nero\Redist
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+12/18/2002  06:43 PM           509,984 50comupd.exe
+08/29/2000  05:00 AM           401,462 MSVCP60.DLL
+01/30/2002  06:07 PM         1,958,184 WMFADist.exe
+05/04/2004  04:53 PM           925,749 gdiplus.dll.cab
+08/23/2001  07:00 PM           995,383 mfc42.DLL
+05/04/2001  05:05 PM           290,869 msvcrt.dll
+01/23/2001  05:13 PM           117,288 shfolder.exe
+12/12/2002  02:11 AM         4,085,904 wmfdist.exe
+               8 File(s)      9,284,823 bytes
+
+ Directory of G:\Nero\System
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+07/26/2004  10:16 PM           996,278 ImagX7.dll.cab
+07/26/2004  10:16 PM           220,195 ImagXR7.dll.cab
+07/26/2004  10:16 PM           420,543 ImagXRA7.dll.cab
+07/26/2004  10:16 PM           182,045 ImagXpr7.dll.cab
+07/09/2001  04:50 PM            70,338 NeroCheck.exe.cab
+06/26/2000  04:45 PM            45,748 TwnLib20.dll.cab
+               6 File(s)      1,935,147 bytes
+
+ Directory of G:\Nero\WMPBurn
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+01/08/2004  10:17 PM           129,111 NeroBurnPlugin.dll.cab
+01/08/2004  10:19 PM           559,384 WMPBurn.exe.cab
+               2 File(s)        688,495 bytes
+
+ Directory of G:\Nero\nero soundtrax
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+05/14/2005  12:29 AM           206,443 EffectCtrl.ocx.cab
+05/14/2005  12:29 AM           840,043 SoundTrax.exe.cab
+               2 File(s)      1,046,486 bytes
+
+ Directory of G:\Nero\setup
+
+09/12/2005  08:26 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+12/09/2004  05:00 PM            10,369 Eula_chs.txt
+12/09/2004  05:01 PM            11,068 Eula_cht.txt
+05/10/2005  05:41 PM            20,589 Eula_deu.txt
+05/10/2005  06:10 PM            17,723 Eula_eng.txt
+04/22/2005  08:39 PM            16,979 Eula_esp.txt
+04/22/2005  08:43 PM            17,726 Eula_fra.txt
+04/22/2005  08:46 PM            18,029 Eula_ita.txt
+05/09/2005  11:56 PM            17,551 Eula_jpn.txt
+12/09/2004  05:08 PM            13,134 Eula_kor.txt
+04/22/2005  08:50 PM            17,724 Eula_nld.txt
+04/22/2005  08:55 PM            18,238 Eula_ptg.txt
+04/22/2005  08:59 PM            16,333 Eula_sve.txt
+05/14/2005  12:31 AM           733,245 shortcut.dll
+              13 File(s)        928,708 bytes
+
+ Directory of G:\Nero BurnRights
+
+09/12/2005  08:27 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:28 AM    <DIR>          NeroBurnRights
+09/06/2005  04:31 PM            23,988 Setup.cfg
+01/20/2005  07:29 PM         2,658,304 Setup.exe
+               2 File(s)      2,682,292 bytes
+
+ Directory of G:\Nero BurnRights\NeroBurnRights
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:27 AM    <DIR>          ..
+10/09/2002  07:36 PM            21,646 NeroBurnRights.cpl.cab
+01/24/2005  08:58 PM           819,297 NeroBurnRights.exe
+01/24/2005  08:56 PM             4,886 NeroBurnRightsHelp.dll.cab
+12/27/2004  09:52 PM            65,290 NeroBurnRights_deu.chm
+12/27/2004  09:52 PM            62,868 NeroBurnRights_eng.chm
+02/16/2005  08:18 PM            41,398 NeroCo.dll.cab
+               6 File(s)      1,015,385 bytes
+
+ Directory of G:\Nero Media Player
+
+09/12/2005  08:28 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:28 AM    <DIR>          NeroMediaPlayer
+09/12/2005  08:28 AM    <DIR>          Redist
+09/12/2005  08:28 AM    <DIR>          Setup
+09/06/2005  04:31 PM            47,652 Setup.cfg
+02/08/2005  07:12 PM         2,670,592 Setup.exe
+               2 File(s)      2,718,244 bytes
+
+ Directory of G:\Nero Media Player\NeroMediaPlayer
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+03/11/2005  07:02 PM               533 EQUA_ENG.PRF.cab
+02/04/2005  06:57 PM         1,150,976 NeroMediaPlayer.exe
+02/04/2005  06:57 PM            33,023 NmpChs.nls.cab
+02/04/2005  06:57 PM            32,898 NmpCht.nls.cab
+02/04/2005  06:57 PM            35,476 NmpEsp.nls.cab
+02/04/2005  06:57 PM            36,262 NmpFra.nls.cab
+02/04/2005  06:57 PM            35,415 NmpIta.nls.cab
+02/04/2005  06:57 PM            34,092 NmpJpn.nls.cab
+02/04/2005  06:58 PM            34,318 NmpKor.nls.cab
+02/04/2005  06:58 PM            35,842 NmpNld.nls.cab
+02/04/2005  06:58 PM            35,898 NmpPtg.nls.cab
+02/04/2005  06:58 PM            35,129 NmpSve.nls.cab
+02/04/2005  06:57 PM            36,434 Nmpdeu.nls.cab
+09/12/2005  08:28 AM    <DIR>          Services
+09/12/2005  08:28 AM    <DIR>          Skins
+08/27/2002  03:37 PM           103,272 Stream.dll.cab
+09/12/2005  08:28 AM    <DIR>          api
+08/27/2002  03:37 PM               778 dBicons.bmp.cab
+01/27/2005  11:27 PM            28,024 default.BMP.cab
+05/26/2003  11:32 PM             2,663 default.nps.cab
+01/21/2004  05:48 PM             2,039 nmp.spr.cab
+08/27/2002  03:37 PM             2,546 video.ani.cab
+              19 File(s)      1,675,618 bytes
+
+ Directory of G:\Nero Media Player\NeroMediaPlayer\Services
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+02/01/2005  05:53 PM            43,240 AudioPluginMgr.dll.cab
+10/09/2002  07:28 PM            61,803 CompChs.nls.cab
+10/09/2002  07:28 PM            61,882 CompCht.nls.cab
+10/09/2002  07:28 PM            63,439 CompDeu.nls.cab
+10/09/2002  07:28 PM            63,012 CompEsp.nls.cab
+10/09/2002  07:28 PM            63,313 CompFra.nls.cab
+10/09/2002  07:28 PM            63,034 CompIta.nls.cab
+10/09/2002  07:28 PM            62,535 CompJpn.nls.cab
+10/09/2002  07:28 PM            62,689 CompKor.nls.cab
+02/04/2005  06:43 PM             5,638 CompMem.dll.cab
+10/09/2002  07:28 PM            62,894 CompNld.nls.cab
+10/09/2002  07:28 PM            62,974 CompPtg.nls.cab
+10/09/2002  07:28 PM            62,682 CompSve.nls.cab
+10/09/2002  07:28 PM           191,105 Compilation.exe.cab
+08/10/2002  02:46 AM             5,366 GDIRES16.DLL.cab
+08/10/2002  02:46 AM            16,934 GdiRes32.dll.cab
+10/19/2004  02:39 PM            67,424 InetCdDb.dll.cab
+12/01/2003  10:19 PM            31,529 NMPEqlz.dll.cab
+08/09/2002  08:24 PM            63,199 NeroDb.dll.cab
+              19 File(s)      1,114,692 bytes
+
+ Directory of G:\Nero Media Player\NeroMediaPlayer\Skins
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+01/27/2005  11:30 PM           312,958 NMPStartSmart.bmp.cab
+10/06/2003  02:21 PM             2,583 NMPStartSmart.nps.cab
+               2 File(s)        315,541 bytes
+
+ Directory of G:\Nero Media Player\NeroMediaPlayer\api
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+05/24/2005  05:23 PM            96,412 CDCopy.dll.cab
+10/29/2004  03:11 PM            17,815 CDROM.CFG.cab
+05/24/2005  05:22 PM           118,977 CDROM.dll.cab
+05/24/2005  05:22 PM           109,121 Dws114x.dll.cab
+05/24/2005  05:23 PM            31,265 Generatr.dll.cab
+05/24/2005  05:23 PM           100,656 ISOFS.dll.cab
+05/24/2005  05:23 PM            46,712 ImageGen.dll.cab
+08/17/2005  07:15 PM           285,782 MMC.dll.cab
+03/22/2005  01:38 AM            12,989 NEROESP.TXT.cab
+05/13/2005  11:31 PM            38,521 NeRSDB.dll.cab
+05/24/2005  05:51 PM         1,440,753 NeroAPI.dll.cab
+05/24/2005  05:22 PM           137,701 NeroErr.dll.cab
+04/18/2005  11:49 PM            12,490 NeroKor.txt.cab
+03/22/2005  01:38 AM            11,219 Nerochs.txt.cab
+10/26/2004  11:35 PM            78,783 WNASPI32.DLL.cab
+05/24/2005  05:22 PM           111,568 cdr100.dll.cab
+05/24/2005  05:22 PM           115,273 cdr50s.dll.cab
+05/24/2005  05:22 PM           129,947 cdu920.dll.cab
+05/24/2005  05:22 PM           112,241 cr2200cs.dll.cab
+05/24/2005  05:23 PM           107,529 geniso.dll.cab
+05/24/2005  05:22 PM            61,113 image.dll.cab
+05/24/2005  05:23 PM           113,349 ims.dll.cab
+02/16/2005  01:05 AM            11,968 nero.txt.cab
+05/13/2005  10:07 PM            11,580 neroCht.txt.cab
+03/22/2005  01:38 AM            12,831 neroPtg.txt.cab
+03/11/2002  04:55 PM            18,403 nerocd95.vxd.cab
+03/22/2005  01:38 AM            13,878 nerodeu.txt.cab
+05/13/2005  10:07 PM            13,267 nerofra.txt.cab
+04/18/2005  11:49 PM            12,970 neroita.txt.cab
+05/13/2005  10:07 PM            12,966 nerojpn.txt.cab
+03/22/2005  01:38 AM            12,815 neronld.txt.cab
+05/24/2005  05:22 PM            78,393 neroscsi.dll.cab
+04/19/2005  01:59 AM            12,596 nerosve.txt.cab
+05/24/2005  05:22 PM           142,404 newtrf.dll.cab
+05/24/2005  05:23 PM           112,493 ro1420c.dll.cab
+              35 File(s)      3,756,780 bytes
+
+ Directory of G:\Nero Media Player\Redist
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+01/23/2001  05:13 PM           117,288 ShFolder.exe
+01/30/2002  06:07 PM         1,958,184 WMFADist.exe
+08/23/2001  07:00 PM           995,383 mfc42.DLL
+08/29/2000  05:00 AM           401,462 msvcp60.DLL
+05/04/2001  05:05 PM           290,869 msvcrt.DLL
+12/12/2002  02:11 AM         4,085,904 wmfdist.exe
+               6 File(s)      7,849,090 bytes
+
+ Directory of G:\Nero Media Player\Setup
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+12/09/2004  05:00 PM            10,369 Eula_chs.txt
+12/09/2004  05:01 PM            11,068 Eula_cht.txt
+01/12/2005  10:21 PM            20,817 Eula_deu.txt
+01/12/2005  10:18 PM            17,755 Eula_eng.txt
+01/12/2005  10:09 PM            18,590 Eula_enu.txt
+12/09/2004  05:06 PM            17,331 Eula_esp.txt
+12/09/2004  05:06 PM            18,028 Eula_fra.txt
+12/09/2004  05:06 PM            18,324 Eula_ita.txt
+12/09/2004  05:07 PM            13,987 Eula_jpn.txt
+12/09/2004  05:08 PM            13,134 Eula_kor.txt
+12/09/2004  05:09 PM            18,050 Eula_nld.txt
+12/09/2004  05:09 PM            18,558 Eula_ptg.txt
+12/09/2004  05:15 PM            16,650 Eula_sve.txt
+02/04/2005  01:00 AM           712,774 ShortCut.dll
+              14 File(s)        925,435 bytes
+
+ Directory of G:\Redist
+
+09/12/2005  08:28 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:28 AM    <DIR>          Images
+09/06/2005  04:30 PM           173,248 trch._ex
+               1 File(s)        173,248 bytes
+
+ Directory of G:\Redist\Images
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+09/12/2005  08:28 AM    <DIR>          Bckg
+09/12/2005  08:28 AM    <DIR>          Info
+09/12/2005  08:28 AM    <DIR>          Logo
+               0 File(s)              0 bytes
+
+ Directory of G:\Redist\Images\Bckg
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+12/10/2003  04:51 PM           684,854 backgrnd.bmp
+12/10/2003  04:51 PM           684,854 nero.bmp
+05/06/2004  09:42 PM           684,854 unbackgrnd.bmp
+               3 File(s)      2,054,562 bytes
+
+ Directory of G:\Redist\Images\Info
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+11/26/2003  04:33 PM            26,904 Cool_Main.png
+11/26/2003  04:18 PM            35,584 Main.png
+11/26/2003  09:16 PM             1,101 Prog.png
+               3 File(s)         63,589 bytes
+
+ Directory of G:\Redist\Images\Logo
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+09/12/2005  08:28 AM    <DIR>          Default
+09/12/2005  08:28 AM    <DIR>          NMP
+09/12/2005  08:28 AM    <DIR>          Nero
+               0 File(s)              0 bytes
+
+ Directory of G:\Redist\Images\Logo\Default
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+11/21/2003  04:47 PM             9,406 1.png
+               1 File(s)          9,406 bytes
+
+ Directory of G:\Redist\Images\Logo\NMP
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+11/21/2003  04:50 PM            11,841 1.png
+               1 File(s)         11,841 bytes
+
+ Directory of G:\Redist\Images\Logo\Nero
+
+09/12/2005  08:28 AM    <DIR>          .
+09/12/2005  08:28 AM    <DIR>          ..
+11/21/2003  04:49 PM            12,744 1.png
+11/21/2003  04:45 PM            17,158 2.png
+11/21/2003  04:47 PM            15,462 4.png
+11/21/2003  04:41 PM            10,597 5.png
+11/21/2003  04:41 PM            11,644 6.png
+11/21/2003  04:39 PM            12,948 7.png
+11/21/2003  04:50 PM            14,614 9.png
+11/21/2003  04:51 PM            13,099 99.png
+               8 File(s)        108,266 bytes
+
+ Directory of G:\chinese_s
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\chinese_s\manuals
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:48 PM             2,009 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,566 bytes
+
+ Directory of G:\chinese_s\manuals\atapi_users
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:04 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/05/2001  04:01 PM             1,308 00222cs.gif
+03/05/2001  04:27 PM             1,320 00223cs.gif
+03/05/2001  04:30 PM             3,167 00230cs.gif
+03/05/2001  04:32 PM             3,218 00240cs.gif
+11/14/2003  05:57 PM             2,465 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  10:26 AM             1,689 care.htm
+05/23/2002  10:26 AM             2,247 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+05/23/2002  10:27 AM             1,335 copyrght.htm
+05/23/2002  09:51 AM             1,708 crx.css
+10/27/2005  01:45 PM             9,893 discs.htm
+10/21/2005  02:17 PM             3,803 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/05/2001  04:35 PM             6,384 i0020cs.gif
+03/05/2001  04:41 PM             4,952 i0030cs.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/05/2001  04:46 PM            10,081 i0050cs.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:27 PM             3,567 i0100cs.gif
+03/05/2001  04:51 PM             3,570 i0110cs.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/05/2001  04:53 PM             1,508 i0590cs.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+12/03/2004  02:49 PM             2,306 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  02:45 PM             4,462 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  05:24 PM             2,565 support.htm
+02/28/2002  09:11 AM             1,324 top_b.gif
+12/03/2004  02:47 PM            13,958 trouble.htm
+05/23/2002  10:25 AM             2,491 usage.htm
+03/10/2003  01:49 PM             2,536 warranty.htm
+              68 File(s)        242,302 bytes
+
+ Directory of G:\chinese_t
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\chinese_t\manuals
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:49 PM             2,008 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,565 bytes
+
+ Directory of G:\chinese_t\manuals\atapi_users
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:04 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/05/2001  04:26 PM             1,305 00222ct.gif
+03/05/2001  04:29 PM             1,325 00223ct.gif
+03/05/2001  04:31 PM             3,155 00230ct.gif
+03/05/2001  04:33 PM             3,214 00240ct.gif
+11/14/2003  06:11 PM             2,454 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  10:16 AM             1,683 care.htm
+05/23/2002  10:16 AM             2,247 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+05/23/2002  10:17 AM             1,332 copyrght.htm
+05/23/2002  09:51 AM             1,708 crx.css
+10/27/2005  02:00 PM             9,906 discs.htm
+10/21/2005  02:29 PM             3,824 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/05/2001  04:39 PM             6,568 i0020ct.gif
+03/05/2001  04:44 PM             4,982 i0030ct.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/05/2001  04:48 PM            10,158 i0050ct.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:28 PM             3,570 i0100ct.gif
+03/05/2001  04:52 PM             3,576 i0110ct.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/05/2001  04:54 PM             1,545 i0590ct.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+12/03/2004  02:49 PM             2,310 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  02:50 PM             4,461 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  07:25 AM             2,563 support.htm
+02/28/2002  09:04 AM             1,343 top_b.gif
+12/03/2004  02:52 PM            13,973 trouble.htm
+05/23/2002  10:12 AM             2,487 usage.htm
+03/10/2003  02:38 PM             2,531 warranty.htm
+              68 File(s)        242,665 bytes
+
+ Directory of G:\dutch
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\dutch\manuals
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:50 PM             2,171 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,728 bytes
+
+ Directory of G:\dutch\manuals\atapi_users
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:04 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/02/2001  04:47 PM             1,351 00222nl.gif
+03/02/2001  04:47 PM             1,338 00223nl.gif
+03/02/2001  04:47 PM             3,275 00230nl.gif
+03/02/2001  04:47 PM             3,283 00240nl.gif
+11/14/2003  01:38 PM             3,023 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:06 AM             2,231 care.htm
+05/23/2002  09:06 AM             3,096 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:11 PM             2,343 compliance.htm
+05/23/2002  09:07 AM             1,473 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:23 PM            11,825 discs.htm
+10/21/2005  12:13 PM             5,497 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/02/2001  09:33 AM             7,124 i0020nl.gif
+03/02/2001  09:33 AM             5,151 i0030nl.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/02/2001  09:34 AM            10,195 i0050nl.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:29 PM             3,670 i0100nl.gif
+03/02/2001  04:47 PM             3,564 i0110nl.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/02/2001  04:46 PM             1,717 i0590nl.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/19/2005  02:47 PM             3,065 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  02:55 PM             6,214 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/07/2003  08:04 PM             3,393 support.htm
+02/27/2002  09:42 AM             2,352 top_b.gif
+12/13/2004  09:52 PM            17,453 trouble.htm
+05/23/2002  09:05 AM             2,783 usage.htm
+03/11/2003  07:28 AM             3,762 warranty.htm
+              71 File(s)        265,254 bytes
+
+ Directory of G:\english
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\english\manuals
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:04 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:00 PM             2,088 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,645 bytes
+
+ Directory of G:\english\manuals\atapi_users
+
+10/31/2005  09:04 AM    <DIR>          .
+10/31/2005  09:05 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+02/21/2001  05:29 PM             1,321 00222gb.gif
+02/21/2001  05:29 PM             1,298 00223gb.gif
+02/23/2001  08:05 AM             3,194 00230gb.gif
+02/23/2001  08:05 AM             3,151 00240gb.gif
+11/14/2003  03:23 PM             2,906 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+03/04/2002  07:38 PM             2,018 care.htm
+03/04/2002  07:37 PM             2,762 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:19 PM             2,259 compliance.htm
+03/04/2002  07:46 PM             1,371 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:24 PM            11,188 discs.htm
+10/21/2005  12:20 PM             4,854 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+02/21/2001  05:37 PM             6,038 i0020gb.gif
+02/21/2001  05:37 PM             4,953 i0030gb.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+02/21/2001  05:37 PM            10,036 i0050gb.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:29 PM             3,628 i0100gb.gif
+02/22/2001  08:06 AM             3,564 i0110gb.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+02/21/2001  05:30 PM             1,531 i0590gb.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/19/2005  03:26 PM             2,813 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  02:59 PM             5,629 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/04/2003  11:24 AM             3,237 support.htm
+02/14/2002  01:59 PM             2,094 top_b.gif
+12/03/2004  03:00 PM            16,107 trouble.htm
+03/04/2002  07:33 PM             2,708 usage.htm
+03/11/2003  11:14 AM             3,480 warranty.htm
+              70 File(s)        255,361 bytes
+
+ Directory of G:\french
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\french\manuals
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:01 PM             2,134 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,691 bytes
+
+ Directory of G:\french\manuals\atapi_users
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:05 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/02/2001  11:39 AM             1,320 00222fr.gif
+03/02/2001  11:39 AM             1,339 00223fr.gif
+03/02/2001  11:43 AM             3,199 00230fr.gif
+03/02/2001  11:44 AM             3,278 00240fr.gif
+11/14/2003  03:35 PM             3,192 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:11 AM             2,144 care.htm
+05/23/2002  09:11 AM             3,072 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:26 PM             2,289 compliance.htm
+05/23/2002  09:12 AM             1,493 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:25 PM            11,943 discs.htm
+10/21/2005  12:27 PM             5,625 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/02/2001  11:24 AM             6,303 i0020fr.gif
+03/02/2001  11:26 AM             5,070 i0030fr.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/02/2001  11:29 AM            10,263 i0050fr.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:30 PM             3,645 i0100fr.gif
+03/02/2001  02:54 PM             3,581 i0110fr.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/02/2001  11:36 AM             1,642 i0590fr.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/19/2005  03:35 PM             3,060 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:02 PM             6,013 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  04:31 PM             3,458 support.htm
+02/22/2002  07:19 PM             1,794 top_b.gif
+12/03/2004  03:02 PM            17,318 trouble.htm
+05/23/2002  09:10 AM             2,822 usage.htm
+03/10/2003  04:30 PM             3,617 warranty.htm
+              71 File(s)        263,556 bytes
+
+ Directory of G:\german
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\german\manuals
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:02 PM             2,160 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,717 bytes
+
+ Directory of G:\german\manuals\atapi_users
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:05 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+02/27/2001  03:12 PM             1,322 00222de.gif
+02/27/2001  12:38 PM             1,353 00223de.gif
+02/27/2001  12:39 PM             3,233 00230de.gif
+02/27/2001  12:40 PM             3,196 00240de.gif
+11/14/2003  04:10 PM             3,227 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:16 AM             2,243 care.htm
+05/23/2002  09:16 AM             3,067 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:33 PM             2,326 compliance.htm
+05/23/2002  09:16 AM             1,511 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:26 PM            11,888 discs.htm
+10/21/2005  12:33 PM             5,762 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+02/27/2001  02:51 PM             7,327 i0020de.gif
+02/27/2001  02:45 PM             5,001 i0030de.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+02/27/2001  01:45 PM            10,200 i0050de.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:31 PM             3,575 i0100de.gif
+02/27/2001  02:58 PM             3,590 i0110de.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+02/27/2001  12:34 PM             1,592 i0590de.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/19/2005  04:13 PM             3,190 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:03 PM             6,171 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  05:03 PM             3,459 support.htm
+02/22/2002  04:42 PM             2,230 top_b.gif
+12/03/2004  03:05 PM            17,700 trouble.htm
+05/23/2002  09:15 AM             2,738 usage.htm
+03/10/2003  05:02 PM             3,784 warranty.htm
+              71 File(s)        265,761 bytes
+
+ Directory of G:\italian
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\italian\manuals
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:05 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:05 PM             2,170 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,727 bytes
+
+ Directory of G:\italian\manuals\atapi_users
+
+10/31/2005  09:05 AM    <DIR>          .
+10/31/2005  09:05 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+02/27/2001  02:26 PM             1,315 00222it.gif
+02/27/2001  02:25 PM             1,324 00223it.gif
+02/27/2001  02:27 PM             3,196 00230it.gif
+02/28/2001  09:57 AM             3,232 00240it.gif
+11/14/2003  04:20 PM             3,071 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:20 AM             1,989 care.htm
+05/23/2002  09:19 AM             2,809 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:40 PM             2,335 compliance.htm
+05/23/2002  09:20 AM             1,449 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:27 PM            11,825 discs.htm
+10/21/2005  12:41 PM             5,721 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+02/27/2001  02:58 PM             6,870 i0020it.gif
+02/27/2001  03:00 PM             5,310 i0030it.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+02/27/2001  03:04 PM            10,483 i0050it.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:31 PM             3,612 i0100it.gif
+03/02/2001  04:37 PM             3,591 i0110it.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+02/21/2001  05:30 PM             1,531 i0590gb.gif
+02/27/2001  03:09 PM             1,872 i0590it.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/19/2005  04:50 PM             3,112 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:07 PM             5,985 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  05:33 PM             3,283 support.htm
+02/25/2002  12:42 PM             2,248 top_b.gif
+12/03/2004  03:07 PM            17,299 trouble.htm
+05/23/2002  09:19 AM             2,739 usage.htm
+03/10/2003  05:32 PM             3,659 warranty.htm
+              72 File(s)        265,936 bytes
+
+ Directory of G:\japanese
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\japanese\manuals
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:08 PM             1,883 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,440 bytes
+
+ Directory of G:\japanese\manuals\atapi_users
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+02/21/2001  11:27 AM             1,308 00222.gif
+02/21/2001  11:27 AM             1,297 00223.gif
+02/21/2001  11:29 AM             3,172 00230.gif
+02/21/2001  11:29 AM             3,200 00240.gif
+11/14/2003  12:40 PM             2,723 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+03/01/2002  05:36 PM             2,618 care.htm
+03/01/2002  05:14 PM             3,405 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+03/01/2002  05:47 PM             1,363 copyrght.htm
+08/06/2001  08:34 PM             1,735 crxj.css
+10/27/2005  02:41 PM            11,690 discs.htm
+10/21/2005  10:47 AM             5,195 frpanels.htm
+02/23/2001  11:43 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+02/21/2001  11:15 AM             6,188 i002000.gif
+02/21/2001  11:16 AM             5,172 i003000.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+02/21/2001  11:16 AM            10,204 i005000.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:33 PM             3,572 i010000.gif
+02/22/2001  08:01 AM             3,543 i011000.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+02/21/2001  11:30 AM             1,757 i059000.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/19/2002  03:34 PM            26,452 i141000.gif
+08/19/2002  03:36 PM            30,737 i142000.gif
+12/03/2004  03:09 PM             3,294 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:09 PM             5,599 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/04/2003  08:31 AM             2,979 support.htm
+02/12/2002  01:13 PM             2,037 top_b.gif
+12/03/2004  03:10 PM            16,445 trouble.htm
+03/01/2002  03:56 PM             3,006 usage.htm
+03/11/2003  11:03 AM             2,975 warranty.htm
+              68 File(s)        253,642 bytes
+
+ Directory of G:\korean
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\korean\manuals
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:11 PM             2,084 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,641 bytes
+
+ Directory of G:\korean\manuals\atapi_users
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/05/2001  05:14 PM             1,291 00222kr.gif
+03/05/2001  05:15 PM             1,310 00223kr.gif
+03/05/2001  05:18 PM             3,148 00230kr.gif
+03/05/2001  05:20 PM             3,163 00240kr.gif
+11/14/2003  06:16 PM             2,848 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:41 AM             2,055 care.htm
+05/23/2002  09:41 AM             2,665 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+05/23/2002  09:42 AM             1,415 copyrght.htm
+05/23/2002  09:51 AM             1,708 crx.css
+10/27/2005  02:07 PM            11,005 discs.htm
+10/21/2005  02:42 PM             4,535 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/05/2001  05:51 PM             6,820 i0020kr.gif
+03/05/2001  05:34 PM             4,940 i0030kr.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/05/2001  05:59 PM            10,138 i0050kr.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:34 PM             3,566 i0100kr.gif
+03/05/2001  05:12 PM             3,537 i0110kr.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/05/2001  05:10 PM             1,478 i0590kr.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+12/03/2004  03:13 PM             2,558 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:13 PM             5,336 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+05/23/2002  09:42 AM             2,928 support.htm
+02/28/2002  09:08 AM             1,378 top_b.gif
+12/03/2004  03:14 PM            15,948 trouble.htm
+05/23/2002  09:40 AM             2,735 usage.htm
+03/10/2003  03:25 PM             2,988 warranty.htm
+              68 File(s)        249,938 bytes
+
+ Directory of G:\launchres
+
+09/12/2005  08:25 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+09/12/2005  08:25 AM    <DIR>          1028
+09/12/2005  08:25 AM    <DIR>          1031
+09/12/2005  08:25 AM    <DIR>          1033
+09/12/2005  08:25 AM    <DIR>          1034
+09/12/2005  08:25 AM    <DIR>          1036
+09/12/2005  08:25 AM    <DIR>          1040
+09/12/2005  08:25 AM    <DIR>          1041
+09/12/2005  08:25 AM    <DIR>          1042
+09/12/2005  08:25 AM    <DIR>          1043
+09/12/2005  08:25 AM    <DIR>          1053
+09/12/2005  08:25 AM    <DIR>          2052
+09/12/2005  08:25 AM    <DIR>          2070
+               0 File(s)              0 bytes
+
+ Directory of G:\launchres\1028
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1031
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1033
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1034
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1036
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1040
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,200,128 LaunchRes.dll
+               1 File(s)      1,200,128 bytes
+
+ Directory of G:\launchres\1041
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1042
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1043
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\1053
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\2052
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\launchres\2070
+
+09/12/2005  08:25 AM    <DIR>          .
+09/12/2005  08:25 AM    <DIR>          ..
+04/05/2005  04:13 PM         1,204,224 LaunchRes.dll
+               1 File(s)      1,204,224 bytes
+
+ Directory of G:\portuguese
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\portuguese\manuals
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+10/31/2005  09:06 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:14 PM             2,119 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,676 bytes
+
+ Directory of G:\portuguese\manuals\atapi_users
+
+10/31/2005  09:06 AM    <DIR>          .
+10/31/2005  09:06 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+07/13/2001  05:07 PM             1,309 00222pt.gif
+07/13/2001  05:06 PM             1,328 00223pt.gif
+07/13/2001  05:09 PM             3,231 00230pt.gif
+07/13/2001  05:10 PM             3,282 00240pt.gif
+11/14/2003  04:27 PM             3,031 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:29 AM             2,103 care.htm
+05/23/2002  09:52 AM             2,986 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:52 PM             2,317 compliance.htm
+05/23/2002  09:30 AM             1,460 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:27 PM            11,734 discs.htm
+10/21/2005  12:52 PM             5,558 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+07/18/2001  09:52 AM             6,908 i0020pt.gif
+07/24/2001  09:25 AM             4,967 i0030pt.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+07/18/2001  09:54 AM            10,369 i0050pt.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:35 PM             3,649 i0100pt.gif
+07/13/2001  05:05 PM             3,548 i0110pt.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+07/13/2001  05:04 PM             1,806 i0590pt.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/21/2005  07:59 AM             3,007 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/13/2004  09:56 PM             5,984 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/10/2003  07:59 PM             3,355 support.htm
+02/27/2002  09:44 AM             2,280 top_b.gif
+12/03/2004  03:16 PM            17,316 trouble.htm
+05/23/2002  09:23 AM             2,709 usage.htm
+03/10/2003  07:59 PM             3,619 warranty.htm
+              71 File(s)        263,932 bytes
+
+ Directory of G:\spanish
+
+10/31/2005  09:08 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:07 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\spanish\manuals
+
+10/31/2005  09:07 AM    <DIR>          .
+10/31/2005  09:08 AM    <DIR>          ..
+10/31/2005  09:07 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+12/03/2004  03:16 PM             2,187 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,744 bytes
+
+ Directory of G:\spanish\manuals\atapi_users
+
+10/31/2005  09:07 AM    <DIR>          .
+10/31/2005  09:07 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/01/2001  01:45 PM             1,306 00222es.gif
+03/01/2001  01:44 PM             1,298 00223es.gif
+03/01/2001  01:49 PM             3,331 00230es.gif
+03/01/2001  01:51 PM             3,332 00240es.gif
+11/14/2003  04:34 PM             3,089 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:44 AM             2,138 care.htm
+05/23/2002  09:44 AM             3,155 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  12:58 PM             2,341 compliance.htm
+05/23/2002  09:44 AM             1,497 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:28 PM            11,961 discs.htm
+10/21/2005  12:59 PM             5,652 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/01/2001  01:59 PM             6,870 i0020es.gif
+03/01/2001  02:00 PM             5,043 i0030es.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/01/2001  02:14 PM            10,342 i0050es.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:35 PM             3,614 i0100es.gif
+03/05/2001  02:54 PM             3,567 i0110es.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/01/2001  01:42 PM             1,629 i0590es.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/21/2005  08:05 AM             3,170 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:45 PM             6,139 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/11/2003  08:02 AM             3,477 support.htm
+02/22/2002  07:21 PM             1,683 top_b.gif
+12/13/2004  09:57 PM            17,617 trouble.htm
+05/23/2002  09:43 AM             2,764 usage.htm
+03/11/2003  08:01 AM             3,918 warranty.htm
+              71 File(s)        265,009 bytes
+
+ Directory of G:\swedish
+
+10/31/2005  09:08 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+10/31/2005  09:07 AM    <DIR>          manuals
+               0 File(s)              0 bytes
+
+ Directory of G:\swedish\manuals
+
+10/31/2005  09:07 AM    <DIR>          .
+10/31/2005  09:08 AM    <DIR>          ..
+10/31/2005  09:07 AM    <DIR>          atapi_users
+07/28/2001  03:58 PM             1,134 bar.gif
+07/27/2001  07:03 PM            30,104 disk.gif
+07/28/2001  03:56 PM             5,679 head.gif
+04/21/2005  08:32 AM             2,130 index.htm
+07/27/2001  01:01 PM               597 point.gif
+02/27/2001  04:38 PM                43 spacer.gif
+               6 File(s)         39,687 bytes
+
+ Directory of G:\swedish\manuals\atapi_users
+
+10/31/2005  09:07 AM    <DIR>          .
+10/31/2005  09:07 AM    <DIR>          ..
+01/25/2001  11:03 PM               807 0.gif
+02/21/2001  11:26 AM             2,553 00221.gif
+03/05/2001  11:45 AM             1,324 00222se.gif
+03/05/2001  11:44 AM             1,299 00223se.gif
+03/05/2001  11:49 AM             3,229 00230se.gif
+03/05/2001  11:50 AM             3,290 00240se.gif
+11/14/2003  04:45 PM             2,953 52xresp.htm
+08/19/2002  02:27 PM               499 answer.gif
+07/31/2001  04:53 PM               154 arrow.gif
+02/21/2001  02:53 PM             1,200 atapi.gif
+05/23/2002  09:47 AM             2,167 care.htm
+05/23/2002  09:47 AM             2,957 caution.htm
+02/22/2001  10:57 AM                91 circle.gif
+10/21/2005  01:19 PM             2,219 compliance.htm
+05/23/2002  09:48 AM             1,451 copyrght.htm
+08/17/2001  09:19 AM             1,833 crx.css
+10/27/2005  02:29 PM            11,801 discs.htm
+10/21/2005  01:20 PM             5,348 frpanels.htm
+02/23/2001  11:44 AM             5,759 header.gif
+02/21/2001  11:15 AM             5,007 i001000.gif
+03/05/2001  12:04 PM             6,743 i0020se.gif
+03/05/2001  12:06 PM             5,076 i0030se.gif
+10/19/2005  06:38 PM             7,348 i004000.gif
+03/05/2001  12:09 PM            10,150 i0050se.gif
+10/19/2005  06:38 PM             5,197 i006000.gif
+10/19/2005  06:40 PM             2,609 i008000.gif
+02/21/2001  11:29 AM             3,227 i009000.gif
+10/19/2005  06:36 PM             3,646 i0100se.gif
+03/05/2001  11:46 AM             3,606 i0110se.gif
+02/22/2001  11:49 AM             2,839 i016000.gif
+02/21/2001  04:48 PM             2,409 i017000.gif
+02/21/2001  04:48 PM             1,898 i018000.gif
+02/21/2001  04:49 PM             2,248 i019000.gif
+02/21/2001  04:50 PM             2,399 i020000.gif
+03/12/2003  11:04 AM             1,824 i021000.gif
+02/21/2001  04:51 PM             2,389 i022000.gif
+03/12/2003  11:05 AM             2,067 i023000.gif
+02/21/2001  04:52 PM             2,495 i024000.gif
+03/12/2003  11:07 AM             1,755 i025000.gif
+02/21/2001  04:53 PM             2,505 i026000.gif
+02/21/2001  04:54 PM             2,734 i027000.gif
+02/21/2001  04:54 PM             2,365 i028000.gif
+02/21/2001  05:52 PM             2,855 i029000.gif
+02/21/2001  05:51 PM             2,701 i030000.gif
+08/23/2002  10:52 AM             5,202 i031000.gif
+02/14/2002  11:18 AM             1,922 i031000_2.gif
+06/11/2003  12:22 PM             5,629 i031100.gif
+02/14/2002  11:07 AM             1,038 i032000.gif
+02/21/2001  11:30 AM               568 i044000.gif
+02/21/2001  11:30 AM               354 i045000.gif
+02/21/2001  11:30 AM             1,190 i046000.gif
+03/05/2001  11:38 AM             1,614 i0590se.gif
+02/21/2001  11:30 AM               351 i060000.gif
+08/01/2001  10:05 AM             1,025 i131000.gif
+08/01/2001  11:20 AM             1,024 i132000.gif
+08/20/2002  06:15 PM               886 i133000.gif
+08/19/2002  01:14 PM               937 i134000.gif
+03/11/2004  07:02 PM             2,948 i135000.gif
+08/26/2005  08:08 AM             1,260 i137000.gif
+08/27/2002  08:28 AM            25,199 i1410gb.gif
+08/27/2002  08:29 AM            33,270 i1420gb.gif
+04/14/2005  05:42 PM               943 i161000.gif
+04/21/2005  08:06 AM             2,972 index.htm
+08/19/2002  01:58 PM               526 question.gif
+12/03/2004  03:47 PM             5,701 setupgd.htm
+08/02/2001  12:13 PM                37 shead.gif
+03/11/2003  08:48 AM             3,430 support.htm
+02/27/2002  09:49 AM             2,834 top_b.gif
+12/03/2004  03:48 PM            16,600 trouble.htm
+05/23/2002  09:46 AM             2,652 usage.htm
+03/11/2003  08:47 AM             3,504 warranty.htm
+              71 File(s)        262,642 bytes
+
+ Directory of G:\usersupport
+
+09/12/2005  08:25 AM    <DIR>          .
+10/31/2005  09:09 AM    <DIR>          ..
+01/26/2001  03:03 PM               807 0.gif
+08/24/2002  09:42 AM             2,312 crx.css
+08/03/2005  04:49 PM             1,687 global_link.htm
+08/20/2002  03:13 AM             6,855 header.gif
+02/28/2001  08:38 AM                43 spacer.gif
+               5 File(s)         11,704 bytes
+
+     Total Files Listed:
+            1513 File(s)    211,729,215 bytes
+             309 Dir(s)               0 bytes free

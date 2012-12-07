@@ -1,0 +1,1567 @@
+Folder PATH listing for volume Zenwalk Linux 5.
+Volume serial number is 0660-E724
+G:\
+|   COPYING
+|   COPYRIGHT
+|   Changelog
+|   VERSION
+|   VERSIONS.TXT
+|   
++---isolinux
+|       f2.txt
+|       initrd.img
+|       iso.sort
+|       isolinux.bin
+|       isolinux.boot
+|       isolinux.cfg
+|       message.txt
+|       splash.lss
+|       
++---kernels
+|   |   VERSIONS.TXT
+|   |   
+|   +---ata
+|   |       System.map.gz
+|   |       bzImage
+|   |       config
+|   |       
+|   \---scsi
+|           System.map.gz
+|           bzImage
+|           config
+|           
+\---zenwalk
+    |   CHECKSUMS.md5
+    |   CHECKSUMS.md5.gz
+    |   PACKAGES.TXT
+    |   PACKAGES.TXT.gz
+    |   
+    +---a
+    |       aaa_base-5.2-noarch-52.1.dep
+    |       aaa_base-5.2-noarch-52.1.meta
+    |       aaa_base-5.2-noarch-52.1.tgz
+    |       aaa_base-5.2-noarch-52.1.txt
+    |       acl-2.2.47_1-i486-1.dep
+    |       acl-2.2.47_1-i486-1.meta
+    |       acl-2.2.47_1-i486-1.tgz
+    |       acl-2.2.47_1-i486-1.txt
+    |       acpid-1.0.4-i486-2.dep
+    |       acpid-1.0.4-i486-2.meta
+    |       acpid-1.0.4-i486-2.tgz
+    |       acpid-1.0.4-i486-2.txt
+    |       alsa-firmware-1.0.16-i486-52.1.dep
+    |       alsa-firmware-1.0.16-i486-52.1.meta
+    |       alsa-firmware-1.0.16-i486-52.1.tgz
+    |       alsa-firmware-1.0.16-i486-52.1.txt
+    |       attr-2.4.41_1-i486-1.dep
+    |       attr-2.4.41_1-i486-1.meta
+    |       attr-2.4.41_1-i486-1.tgz
+    |       attr-2.4.41_1-i486-1.txt
+    |       bash-3.1.017-i486-2.dep
+    |       bash-3.1.017-i486-2.meta
+    |       bash-3.1.017-i486-2.tgz
+    |       bash-3.1.017-i486-2.txt
+    |       bin-11.1-i486-1.dep
+    |       bin-11.1-i486-1.meta
+    |       bin-11.1-i486-1.tgz
+    |       bin-11.1-i486-1.txt
+    |       bootsplash-3.1-i486-52.1.dep
+    |       bootsplash-3.1-i486-52.1.meta
+    |       bootsplash-3.1-i486-52.1.tgz
+    |       bootsplash-3.1-i486-52.1.txt
+    |       bzip2-1.0.5-i486-1.dep
+    |       bzip2-1.0.5-i486-1.meta
+    |       bzip2-1.0.5-i486-1.tgz
+    |       bzip2-1.0.5-i486-1.txt
+    |       coreutils-6.9-i486-1.dep
+    |       coreutils-6.9-i486-1.meta
+    |       coreutils-6.9-i486-1.tgz
+    |       coreutils-6.9-i486-1.txt
+    |       cpio-2.5-i486-3.dep
+    |       cpio-2.5-i486-3.meta
+    |       cpio-2.5-i486-3.tgz
+    |       cpio-2.5-i486-3.txt
+    |       cxxlibs-6.0.9-i486-1.dep
+    |       cxxlibs-6.0.9-i486-1.meta
+    |       cxxlibs-6.0.9-i486-1.tgz
+    |       cxxlibs-6.0.9-i486-1.txt
+    |       dcron-2.3.3-i486-6.dep
+    |       dcron-2.3.3-i486-6.meta
+    |       dcron-2.3.3-i486-6.tgz
+    |       dcron-2.3.3-i486-6.txt
+    |       devs-2.3.1-noarch-24.dep
+    |       devs-2.3.1-noarch-24.meta
+    |       devs-2.3.1-noarch-24.tgz
+    |       devs-2.3.1-noarch-24.txt
+    |       dosfstools-2.11-i486-1.dep
+    |       dosfstools-2.11-i486-1.meta
+    |       dosfstools-2.11-i486-1.tgz
+    |       dosfstools-2.11-i486-1.txt
+    |       e2fsprogs-1.40.8-i486-1.dep
+    |       e2fsprogs-1.40.8-i486-1.meta
+    |       e2fsprogs-1.40.8-i486-1.tgz
+    |       e2fsprogs-1.40.8-i486-1.txt
+    |       ed-0.9-i486-2.dep
+    |       ed-0.9-i486-2.meta
+    |       ed-0.9-i486-2.tgz
+    |       ed-0.9-i486-2.txt
+    |       eject-2.1.5-i486-1.dep
+    |       eject-2.1.5-i486-1.meta
+    |       eject-2.1.5-i486-1.tgz
+    |       eject-2.1.5-i486-1.txt
+    |       etc-52-noarch-52.1.dep
+    |       etc-52-noarch-52.1.meta
+    |       etc-52-noarch-52.1.tgz
+    |       etc-52-noarch-52.1.txt
+    |       file-4.21-i486-1.dep
+    |       file-4.21-i486-1.meta
+    |       file-4.21-i486-1.tgz
+    |       file-4.21-i486-1.txt
+    |       findutils-4.2.31-i486-1.dep
+    |       findutils-4.2.31-i486-1.meta
+    |       findutils-4.2.31-i486-1.tgz
+    |       findutils-4.2.31-i486-1.txt
+    |       floppy-5.4-i386-3.dep
+    |       floppy-5.4-i386-3.meta
+    |       floppy-5.4-i386-3.tgz
+    |       floppy-5.4-i386-3.txt
+    |       fuse-2.7.3-i486-52.1.dep
+    |       fuse-2.7.3-i486-52.1.meta
+    |       fuse-2.7.3-i486-52.1.tgz
+    |       fuse-2.7.3-i486-52.1.txt
+    |       gawk-3.1.5-i486-3.dep
+    |       gawk-3.1.5-i486-3.meta
+    |       gawk-3.1.5-i486-3.tgz
+    |       gawk-3.1.5-i486-3.txt
+    |       gettext-0.17-i486-2.dep
+    |       gettext-0.17-i486-2.meta
+    |       gettext-0.17-i486-2.tgz
+    |       gettext-0.17-i486-2.txt
+    |       getty-ps-2.1.0b-i486-1.dep
+    |       getty-ps-2.1.0b-i486-1.meta
+    |       getty-ps-2.1.0b-i486-1.tgz
+    |       getty-ps-2.1.0b-i486-1.txt
+    |       gpm-1.20.1-i486-5.dep
+    |       gpm-1.20.1-i486-5.meta
+    |       gpm-1.20.1-i486-5.tgz
+    |       gpm-1.20.1-i486-5.txt
+    |       grep-2.5-i486-3.dep
+    |       grep-2.5-i486-3.meta
+    |       grep-2.5-i486-3.tgz
+    |       grep-2.5-i486-3.txt
+    |       gzip-1.3.12-i486-1.dep
+    |       gzip-1.3.12-i486-1.meta
+    |       gzip-1.3.12-i486-1.tgz
+    |       gzip-1.3.12-i486-1.txt
+    |       hal-0.5.11-i486-52.3.dep
+    |       hal-0.5.11-i486-52.3.meta
+    |       hal-0.5.11-i486-52.3.tgz
+    |       hal-0.5.11-i486-52.3.txt
+    |       infozip-5.52-i486-2.dep
+    |       infozip-5.52-i486-2.meta
+    |       infozip-5.52-i486-2.tgz
+    |       infozip-5.52-i486-2.txt
+    |       inotify-tools-3.13-i486-1.dep
+    |       inotify-tools-3.13-i486-1.meta
+    |       inotify-tools-3.13-i486-1.tgz
+    |       inotify-tools-3.13-i486-1.txt
+    |       kbd-1.12-i486-52.2.dep
+    |       kbd-1.12-i486-52.2.meta
+    |       kbd-1.12-i486-52.2.tgz
+    |       kbd-1.12-i486-52.2.txt
+    |       kernel-2.6.25.4-i486-52.1.dep
+    |       kernel-2.6.25.4-i486-52.1.meta
+    |       kernel-2.6.25.4-i486-52.1.tgz
+    |       kernel-2.6.25.4-i486-52.1.txt
+    |       less-394-i486-1.dep
+    |       less-394-i486-1.meta
+    |       less-394-i486-1.tgz
+    |       less-394-i486-1.txt
+    |       lha-114i-i486-1.dep
+    |       lha-114i-i486-1.meta
+    |       lha-114i-i486-1.tgz
+    |       lha-114i-i486-1.txt
+    |       lilo-22.8-i486-48.1.dep
+    |       lilo-22.8-i486-48.1.meta
+    |       lilo-22.8-i486-48.1.tgz
+    |       lilo-22.8-i486-48.1.txt
+    |       loadlin-1.6c-i386-1.dep
+    |       loadlin-1.6c-i386-1.meta
+    |       loadlin-1.6c-i386-1.tgz
+    |       loadlin-1.6c-i386-1.txt
+    |       logrotate-3.7.4-i486-1.dep
+    |       logrotate-3.7.4-i486-1.meta
+    |       logrotate-3.7.4-i486-1.tgz
+    |       logrotate-3.7.4-i486-1.txt
+    |       minicom-2.1-i486-2.dep
+    |       minicom-2.1-i486-2.meta
+    |       minicom-2.1-i486-2.tgz
+    |       minicom-2.1-i486-2.txt
+    |       mkinitrd-1.3.2-i486-3.dep
+    |       mkinitrd-1.3.2-i486-3.meta
+    |       mkinitrd-1.3.2-i486-3.tgz
+    |       mkinitrd-1.3.2-i486-3.txt
+    |       module-init-tools-3.4-i486-1.dep
+    |       module-init-tools-3.4-i486-1.meta
+    |       module-init-tools-3.4-i486-1.tgz
+    |       module-init-tools-3.4-i486-1.txt
+    |       ncompress-4.2.4-i486-1.dep
+    |       ncompress-4.2.4-i486-1.meta
+    |       ncompress-4.2.4-i486-1.tgz
+    |       ncompress-4.2.4-i486-1.txt
+    |       patch-2.5.4-i486-1.dep
+    |       patch-2.5.4-i486-1.meta
+    |       patch-2.5.4-i486-1.tgz
+    |       patch-2.5.4-i486-1.txt
+    |       pciutils-2.2.10-i486-1.dep
+    |       pciutils-2.2.10-i486-1.meta
+    |       pciutils-2.2.10-i486-1.tgz
+    |       pciutils-2.2.10-i486-1.txt
+    |       pcmciautils-014-i486-4.dep
+    |       pcmciautils-014-i486-4.meta
+    |       pcmciautils-014-i486-4.tgz
+    |       pcmciautils-014-i486-4.txt
+    |       procps-3.2.7-i486-2.dep
+    |       procps-3.2.7-i486-2.meta
+    |       procps-3.2.7-i486-2.tgz
+    |       procps-3.2.7-i486-2.txt
+    |       reiserfsprogs-3.6.20-i486-48.1.dep
+    |       reiserfsprogs-3.6.20-i486-48.1.meta
+    |       reiserfsprogs-3.6.20-i486-48.1.tgz
+    |       reiserfsprogs-3.6.20-i486-48.1.txt
+    |       rpm2tgz-1.0-i486-1.dep
+    |       rpm2tgz-1.0-i486-1.meta
+    |       rpm2tgz-1.0-i486-1.tgz
+    |       rpm2tgz-1.0-i486-1.txt
+    |       sed-4.1.5-i486-1.dep
+    |       sed-4.1.5-i486-1.meta
+    |       sed-4.1.5-i486-1.tgz
+    |       sed-4.1.5-i486-1.txt
+    |       shadow-4.0.3-i486-2z30.dep
+    |       shadow-4.0.3-i486-2z30.meta
+    |       shadow-4.0.3-i486-2z30.tgz
+    |       shadow-4.0.3-i486-2z30.txt
+    |       slocate-3.1-i486-1.dep
+    |       slocate-3.1-i486-1.meta
+    |       slocate-3.1-i486-1.tgz
+    |       slocate-3.1-i486-1.txt
+    |       smartmontools-5.38-i486-1.dep
+    |       smartmontools-5.38-i486-1.meta
+    |       smartmontools-5.38-i486-1.tgz
+    |       smartmontools-5.38-i486-1.txt
+    |       splitvt-1.6.5-i486-1.dep
+    |       splitvt-1.6.5-i486-1.meta
+    |       splitvt-1.6.5-i486-1.tgz
+    |       splitvt-1.6.5-i486-1.txt
+    |       sysfsutils-2.1.0-i486-1.dep
+    |       sysfsutils-2.1.0-i486-1.meta
+    |       sysfsutils-2.1.0-i486-1.tgz
+    |       sysfsutils-2.1.0-i486-1.txt
+    |       sysklogd-1.4.1-i486-10.dep
+    |       sysklogd-1.4.1-i486-10.meta
+    |       sysklogd-1.4.1-i486-10.tgz
+    |       sysklogd-1.4.1-i486-10.txt
+    |       syslinux-3.52-i486-1.dep
+    |       syslinux-3.52-i486-1.meta
+    |       syslinux-3.52-i486-1.tgz
+    |       syslinux-3.52-i486-1.txt
+    |       sysvinit-2.86-i486-52.3.dep
+    |       sysvinit-2.86-i486-52.3.meta
+    |       sysvinit-2.86-i486-52.3.tgz
+    |       sysvinit-2.86-i486-52.3.txt
+    |       tar-1.16.1-i486-1.dep
+    |       tar-1.16.1-i486-1.meta
+    |       tar-1.16.1-i486-1.tgz
+    |       tar-1.16.1-i486-1.txt
+    |       time-1.7-i486-1.dep
+    |       time-1.7-i486-1.meta
+    |       time-1.7-i486-1.tgz
+    |       time-1.7-i486-1.txt
+    |       tree-1.5.0-i486-1.dep
+    |       tree-1.5.0-i486-1.meta
+    |       tree-1.5.0-i486-1.tgz
+    |       tree-1.5.0-i486-1.txt
+    |       udev-122-i486-52.2.dep
+    |       udev-122-i486-52.2.meta
+    |       udev-122-i486-52.2.tgz
+    |       udev-122-i486-52.2.txt
+    |       usbutils-0.73-i486-2.dep
+    |       usbutils-0.73-i486-2.meta
+    |       usbutils-0.73-i486-2.tgz
+    |       usbutils-0.73-i486-2.txt
+    |       utempter-1.1.4-i486-1.dep
+    |       utempter-1.1.4-i486-1.meta
+    |       utempter-1.1.4-i486-1.tgz
+    |       utempter-1.1.4-i486-1.txt
+    |       util-linux-ng-2.13.1-i486-1.dep
+    |       util-linux-ng-2.13.1-i486-1.meta
+    |       util-linux-ng-2.13.1-i486-1.tgz
+    |       util-linux-ng-2.13.1-i486-1.txt
+    |       which-2.16-i486-1.dep
+    |       which-2.16-i486-1.meta
+    |       which-2.16-i486-1.tgz
+    |       which-2.16-i486-1.txt
+    |       xfsprogs-2.9.7_1-i486-1.dep
+    |       xfsprogs-2.9.7_1-i486-1.meta
+    |       xfsprogs-2.9.7_1-i486-1.tgz
+    |       xfsprogs-2.9.7_1-i486-1.txt
+    |       zoo-2.10-i486-1.dep
+    |       zoo-2.10-i486-1.meta
+    |       zoo-2.10-i486-1.tgz
+    |       zoo-2.10-i486-1.txt
+    |       
+    +---ap
+    |       a2ps-4.13b-i386-2.dep
+    |       a2ps-4.13b-i386-2.meta
+    |       a2ps-4.13b-i386-2.tgz
+    |       a2ps-4.13b-i386-2.txt
+    |       alsa-utils-1.0.16-i486-52.1.dep
+    |       alsa-utils-1.0.16-i486-52.1.meta
+    |       alsa-utils-1.0.16-i486-52.1.tgz
+    |       alsa-utils-1.0.16-i486-52.1.txt
+    |       at-3.1.10-i486-1.dep
+    |       at-3.1.10-i486-1.meta
+    |       at-3.1.10-i486-1.tgz
+    |       at-3.1.10-i486-1.txt
+    |       aumix-2.8-i486-1.dep
+    |       aumix-2.8-i486-1.meta
+    |       aumix-2.8-i486-1.tgz
+    |       aumix-2.8-i486-1.txt
+    |       cdparanoia-III10pre0-i486-1.dep
+    |       cdparanoia-III10pre0-i486-1.meta
+    |       cdparanoia-III10pre0-i486-1.tgz
+    |       cdparanoia-III10pre0-i486-1.txt
+    |       cdrdao-1.2.1-i486-1.dep
+    |       cdrdao-1.2.1-i486-1.meta
+    |       cdrdao-1.2.1-i486-1.tgz
+    |       cdrdao-1.2.1-i486-1.txt
+    |       cdrkit-1.1.8-i486-52.1.dep
+    |       cdrkit-1.1.8-i486-52.1.meta
+    |       cdrkit-1.1.8-i486-52.1.tgz
+    |       cdrkit-1.1.8-i486-52.1.txt
+    |       cups-1.3.7-i486-52.3.dep
+    |       cups-1.3.7-i486-52.3.meta
+    |       cups-1.3.7-i486-52.3.tgz
+    |       cups-1.3.7-i486-52.3.txt
+    |       dbus-1.2.1-i486-52.2.dep
+    |       dbus-1.2.1-i486-52.2.meta
+    |       dbus-1.2.1-i486-52.2.tgz
+    |       dbus-1.2.1-i486-52.2.txt
+    |       dialog-1.1.20080316-i486-52.1.dep
+    |       dialog-1.1.20080316-i486-52.1.meta
+    |       dialog-1.1.20080316-i486-52.1.tgz
+    |       dialog-1.1.20080316-i486-52.1.txt
+    |       diffutils-2.8.1-i486-3.dep
+    |       diffutils-2.8.1-i486-3.meta
+    |       diffutils-2.8.1-i486-3.tgz
+    |       diffutils-2.8.1-i486-3.txt
+    |       dmapi-2.2.8_1-i486-1.dep
+    |       dmapi-2.2.8_1-i486-1.meta
+    |       dmapi-2.2.8_1-i486-1.tgz
+    |       dmapi-2.2.8_1-i486-1.txt
+    |       dmidecode-2.9-i486-1.dep
+    |       dmidecode-2.9-i486-1.meta
+    |       dmidecode-2.9-i486-1.tgz
+    |       dmidecode-2.9-i486-1.txt
+    |       dvd+rw-tools-7.1-i486-1.dep
+    |       dvd+rw-tools-7.1-i486-1.meta
+    |       dvd+rw-tools-7.1-i486-1.tgz
+    |       dvd+rw-tools-7.1-i486-1.txt
+    |       enscript-1.6.3-i386-1.dep
+    |       enscript-1.6.3-i386-1.meta
+    |       enscript-1.6.3-i386-1.tgz
+    |       enscript-1.6.3-i386-1.txt
+    |       flac-1.2.1-i486-50.1.dep
+    |       flac-1.2.1-i486-50.1.meta
+    |       flac-1.2.1-i486-50.1.tgz
+    |       flac-1.2.1-i486-50.1.txt
+    |       flac123-0.0.11-i486-52.1.dep
+    |       flac123-0.0.11-i486-52.1.meta
+    |       flac123-0.0.11-i486-52.1.tgz
+    |       flac123-0.0.11-i486-52.1.txt
+    |       foomatic-filters-3.0_20080423-i486-52.1.dep
+    |       foomatic-filters-3.0_20080423-i486-52.1.meta
+    |       foomatic-filters-3.0_20080423-i486-52.1.tgz
+    |       foomatic-filters-3.0_20080423-i486-52.1.txt
+    |       fusesmb-0.8.7-i486-48.1.dep
+    |       fusesmb-0.8.7-i486-48.1.meta
+    |       fusesmb-0.8.7-i486-48.1.tgz
+    |       fusesmb-0.8.7-i486-48.1.txt
+    |       ghostscript-8.62-i486-5.dep
+    |       ghostscript-8.62-i486-5.meta
+    |       ghostscript-8.62-i486-5.tgz
+    |       ghostscript-8.62-i486-5.txt
+    |       gnu-gs-fonts-6.0-noarch-1.dep
+    |       gnu-gs-fonts-6.0-noarch-1.meta
+    |       gnu-gs-fonts-6.0-noarch-1.tgz
+    |       gnu-gs-fonts-6.0-noarch-1.txt
+    |       gphoto2-2.4.1-i486-52.1.dep
+    |       gphoto2-2.4.1-i486-52.1.meta
+    |       gphoto2-2.4.1-i486-52.1.tgz
+    |       gphoto2-2.4.1-i486-52.1.txt
+    |       groff-1.19.2-i486-1.dep
+    |       groff-1.19.2-i486-1.meta
+    |       groff-1.19.2-i486-1.tgz
+    |       groff-1.19.2-i486-1.txt
+    |       gutenprint-5.0.2-i486-50.1.dep
+    |       gutenprint-5.0.2-i486-50.1.meta
+    |       gutenprint-5.0.2-i486-50.1.tgz
+    |       gutenprint-5.0.2-i486-50.1.txt
+    |       hdparm-8.6-i486-52.1.dep
+    |       hdparm-8.6-i486-52.1.meta
+    |       hdparm-8.6-i486-52.1.tgz
+    |       hdparm-8.6-i486-52.1.txt
+    |       htop-0.7-i486-50.1.dep
+    |       htop-0.7-i486-50.1.meta
+    |       htop-0.7-i486-50.1.tgz
+    |       htop-0.7-i486-50.1.txt
+    |       lsof-4.78-i486-1.dep
+    |       lsof-4.78-i486-1.meta
+    |       lsof-4.78-i486-1.tgz
+    |       lsof-4.78-i486-1.txt
+    |       lsscsi-0.19-i486-1.dep
+    |       lsscsi-0.19-i486-1.meta
+    |       lsscsi-0.19-i486-1.tgz
+    |       lsscsi-0.19-i486-1.txt
+    |       man-1.6f-i486-1.dep
+    |       man-1.6f-i486-1.meta
+    |       man-1.6f-i486-1.tgz
+    |       man-1.6f-i486-1.txt
+    |       man-pages-2.79-noarch-1.dep
+    |       man-pages-2.79-noarch-1.meta
+    |       man-pages-2.79-noarch-1.tgz
+    |       man-pages-2.79-noarch-1.txt
+    |       mc-4.6.1_20070309-i486-2.dep
+    |       mc-4.6.1_20070309-i486-2.meta
+    |       mc-4.6.1_20070309-i486-2.tgz
+    |       mc-4.6.1_20070309-i486-2.txt
+    |       mdadm-2.6.4-i486-1.dep
+    |       mdadm-2.6.4-i486-1.meta
+    |       mdadm-2.6.4-i486-1.tgz
+    |       mdadm-2.6.4-i486-1.txt
+    |       most-5.0.0a-i486-50.1.dep
+    |       most-5.0.0a-i486-50.1.meta
+    |       most-5.0.0a-i486-50.1.tgz
+    |       most-5.0.0a-i486-50.1.txt
+    |       mpg321-0.2.10-i486-2.dep
+    |       mpg321-0.2.10-i486-2.meta
+    |       mpg321-0.2.10-i486-2.tgz
+    |       mpg321-0.2.10-i486-2.txt
+    |       netpkg-4.2-i486-52.1.dep
+    |       netpkg-4.2-i486-52.1.meta
+    |       netpkg-4.2-i486-52.1.tgz
+    |       netpkg-4.2-i486-52.1.txt
+    |       ntfs-3g-1.2531-i486-52.1.dep
+    |       ntfs-3g-1.2531-i486-52.1.meta
+    |       ntfs-3g-1.2531-i486-52.1.tgz
+    |       ntfs-3g-1.2531-i486-52.1.txt
+    |       pkgtools-12.1.0-noarch-52.1.dep
+    |       pkgtools-12.1.0-noarch-52.1.meta
+    |       pkgtools-12.1.0-noarch-52.1.tgz
+    |       pkgtools-12.1.0-noarch-52.1.txt
+    |       requiredbuilder-0.16.3-noarch-48.4.dep
+    |       requiredbuilder-0.16.3-noarch-48.4.meta
+    |       requiredbuilder-0.16.3-noarch-48.4.tgz
+    |       requiredbuilder-0.16.3-noarch-48.4.txt
+    |       rzip-2.1-i486-1.dep
+    |       rzip-2.1-i486-1.meta
+    |       rzip-2.1-i486-1.tgz
+    |       rzip-2.1-i486-1.txt
+    |       sdparm-1.02-i486-46.1.dep
+    |       sdparm-1.02-i486-46.1.meta
+    |       sdparm-1.02-i486-46.1.tgz
+    |       sdparm-1.02-i486-46.1.txt
+    |       sox-12.18.1-i486-1.dep
+    |       sox-12.18.1-i486-1.meta
+    |       sox-12.18.1-i486-1.tgz
+    |       sox-12.18.1-i486-1.txt
+    |       streamripper-1.63.1-i486-52.1.dep
+    |       streamripper-1.63.1-i486-52.1.meta
+    |       streamripper-1.63.1-i486-52.1.tgz
+    |       streamripper-1.63.1-i486-52.1.txt
+    |       sudo-1.6.8p12-i486-46.1.dep
+    |       sudo-1.6.8p12-i486-46.1.meta
+    |       sudo-1.6.8p12-i486-46.1.tgz
+    |       sudo-1.6.8p12-i486-46.1.txt
+    |       suspend-scripts-5.2-i486-52.9.dep
+    |       suspend-scripts-5.2-i486-52.9.meta
+    |       suspend-scripts-5.2-i486-52.9.tgz
+    |       suspend-scripts-5.2-i486-52.9.txt
+    |       systemtools-5.2-i486-52.4.dep
+    |       systemtools-5.2-i486-52.4.meta
+    |       systemtools-5.2-i486-52.4.tgz
+    |       systemtools-5.2-i486-52.4.txt
+    |       unarj-265-i486-1.dep
+    |       unarj-265-i486-1.meta
+    |       unarj-265-i486-1.tgz
+    |       unarj-265-i486-1.txt
+    |       unrar-3.7.8-i486-50.1.dep
+    |       unrar-3.7.8-i486-50.1.meta
+    |       unrar-3.7.8-i486-50.1.tgz
+    |       unrar-3.7.8-i486-50.1.txt
+    |       vim-7.1-i486-52.1.dep
+    |       vim-7.1-i486-52.1.meta
+    |       vim-7.1-i486-52.1.tgz
+    |       vim-7.1-i486-52.1.txt
+    |       vorbis-tools-r14788-i486-52.1.dep
+    |       vorbis-tools-r14788-i486-52.1.meta
+    |       vorbis-tools-r14788-i486-52.1.tgz
+    |       vorbis-tools-r14788-i486-52.1.txt
+    |       xfsdump-2.2.48_1-i486-1.dep
+    |       xfsdump-2.2.48_1-i486-1.meta
+    |       xfsdump-2.2.48_1-i486-1.tgz
+    |       xfsdump-2.2.48_1-i486-1.txt
+    |       zenrmpkg-ng-2.3.1-i486-52.1.dep
+    |       zenrmpkg-ng-2.3.1-i486-52.1.meta
+    |       zenrmpkg-ng-2.3.1-i486-52.1.tgz
+    |       zenrmpkg-ng-2.3.1-i486-52.1.txt
+    |       
+    +---d
+    |       autoconf-2.61-noarch-1.dep
+    |       autoconf-2.61-noarch-1.meta
+    |       autoconf-2.61-noarch-1.tgz
+    |       autoconf-2.61-noarch-1.txt
+    |       automake-1.9.6-noarch-1.dep
+    |       automake-1.9.6-noarch-1.meta
+    |       automake-1.9.6-noarch-1.tgz
+    |       automake-1.9.6-noarch-1.txt
+    |       bin86-0.16.15-i486-1.dep
+    |       bin86-0.16.15-i486-1.meta
+    |       bin86-0.16.15-i486-1.tgz
+    |       bin86-0.16.15-i486-1.txt
+    |       binutils-2.17.50.0.17-i486-1.dep
+    |       binutils-2.17.50.0.17-i486-1.meta
+    |       binutils-2.17.50.0.17-i486-1.tgz
+    |       binutils-2.17.50.0.17-i486-1.txt
+    |       bison-2.3-i486-1.dep
+    |       bison-2.3-i486-1.meta
+    |       bison-2.3-i486-1.tgz
+    |       bison-2.3-i486-1.txt
+    |       ccache-2.4-i486-1.dep
+    |       ccache-2.4-i486-1.meta
+    |       ccache-2.4-i486-1.tgz
+    |       ccache-2.4-i486-1.txt
+    |       cvs-1.11.22-i486-1.dep
+    |       cvs-1.11.22-i486-1.meta
+    |       cvs-1.11.22-i486-1.tgz
+    |       cvs-1.11.22-i486-1.txt
+    |       flex-2.5.33-i486-3.dep
+    |       flex-2.5.33-i486-3.meta
+    |       flex-2.5.33-i486-3.tgz
+    |       flex-2.5.33-i486-3.txt
+    |       gcc-4.2.3-i486-1.dep
+    |       gcc-4.2.3-i486-1.meta
+    |       gcc-4.2.3-i486-1.tgz
+    |       gcc-4.2.3-i486-1.txt
+    |       gcc-g++-4.2.3-i486-1.dep
+    |       gcc-g++-4.2.3-i486-1.meta
+    |       gcc-g++-4.2.3-i486-1.tgz
+    |       gcc-g++-4.2.3-i486-1.txt
+    |       gdb-6.8-i486-1.dep
+    |       gdb-6.8-i486-1.meta
+    |       gdb-6.8-i486-1.tgz
+    |       gdb-6.8-i486-1.txt
+    |       gettext-tools-0.17-i486-2.dep
+    |       gettext-tools-0.17-i486-2.meta
+    |       gettext-tools-0.17-i486-2.tgz
+    |       gettext-tools-0.17-i486-2.txt
+    |       indent-2.2.9-i386-1.dep
+    |       indent-2.2.9-i386-1.meta
+    |       indent-2.2.9-i386-1.tgz
+    |       indent-2.2.9-i386-1.txt
+    |       intltool-0.37.1-i486-52.1.dep
+    |       intltool-0.37.1-i486-52.1.meta
+    |       intltool-0.37.1-i486-52.1.tgz
+    |       intltool-0.37.1-i486-52.1.txt
+    |       kernelheaders-2.6.25.4-i486-52.1.dep
+    |       kernelheaders-2.6.25.4-i486-52.1.meta
+    |       kernelheaders-2.6.25.4-i486-52.1.tgz
+    |       kernelheaders-2.6.25.4-i486-52.1.txt
+    |       libtool-1.5.24-i486-1.dep
+    |       libtool-1.5.24-i486-1.meta
+    |       libtool-1.5.24-i486-1.tgz
+    |       libtool-1.5.24-i486-1.txt
+    |       lua-5.1.2-i486-46.1.dep
+    |       lua-5.1.2-i486-46.1.meta
+    |       lua-5.1.2-i486-46.1.tgz
+    |       lua-5.1.2-i486-46.1.txt
+    |       m4-1.4.11-i486-1.dep
+    |       m4-1.4.11-i486-1.meta
+    |       m4-1.4.11-i486-1.tgz
+    |       m4-1.4.11-i486-1.txt
+    |       make-3.81-i486-1.dep
+    |       make-3.81-i486-1.meta
+    |       make-3.81-i486-1.tgz
+    |       make-3.81-i486-1.txt
+    |       nasm-0.98.39-i486-48.1.dep
+    |       nasm-0.98.39-i486-48.1.meta
+    |       nasm-0.98.39-i486-48.1.tgz
+    |       nasm-0.98.39-i486-48.1.txt
+    |       perl-5.8.8-i486-50.1.dep
+    |       perl-5.8.8-i486-50.1.meta
+    |       perl-5.8.8-i486-50.1.tgz
+    |       perl-5.8.8-i486-50.1.txt
+    |       pkg-config-0.23-i486-2.dep
+    |       pkg-config-0.23-i486-2.meta
+    |       pkg-config-0.23-i486-2.tgz
+    |       pkg-config-0.23-i486-2.txt
+    |       pmake-2.1.35-i386-2.dep
+    |       pmake-2.1.35-i386-2.meta
+    |       pmake-2.1.35-i386-2.tgz
+    |       pmake-2.1.35-i386-2.txt
+    |       pyorbit-2.14.3-i486-50.1.dep
+    |       pyorbit-2.14.3-i486-50.1.meta
+    |       pyorbit-2.14.3-i486-50.1.tgz
+    |       pyorbit-2.14.3-i486-50.1.txt
+    |       python-2.5.2-i486-52.1.dep
+    |       python-2.5.2-i486-52.1.meta
+    |       python-2.5.2-i486-52.1.tgz
+    |       python-2.5.2-i486-52.1.txt
+    |       pyxdg-0.15-i486-52.1.dep
+    |       pyxdg-0.15-i486-52.1.meta
+    |       pyxdg-0.15-i486-52.1.tgz
+    |       pyxdg-0.15-i486-52.1.txt
+    |       rcs-5.7-i486-2.dep
+    |       rcs-5.7-i486-2.meta
+    |       rcs-5.7-i486-2.tgz
+    |       rcs-5.7-i486-2.txt
+    |       strace-4.5.15-i486-1.dep
+    |       strace-4.5.15-i486-1.meta
+    |       strace-4.5.15-i486-1.tgz
+    |       strace-4.5.15-i486-1.txt
+    |       subversion-1.4.6-i486-1.dep
+    |       subversion-1.4.6-i486-1.meta
+    |       subversion-1.4.6-i486-1.tgz
+    |       subversion-1.4.6-i486-1.txt
+    |       
+    +---l
+    |       aalib-1.4rc5-i486-3z32.dep
+    |       aalib-1.4rc5-i486-3z32.meta
+    |       aalib-1.4rc5-i486-3z32.tgz
+    |       aalib-1.4rc5-i486-3z32.txt
+    |       alsa-lib-1.0.16-i486-52.1.dep
+    |       alsa-lib-1.0.16-i486-52.1.meta
+    |       alsa-lib-1.0.16-i486-52.1.tgz
+    |       alsa-lib-1.0.16-i486-52.1.txt
+    |       alsa-oss-1.0.15-i486-52.1.dep
+    |       alsa-oss-1.0.15-i486-52.1.meta
+    |       alsa-oss-1.0.15-i486-52.1.tgz
+    |       alsa-oss-1.0.15-i486-52.1.txt
+    |       apr-1.2.12-i486-1.dep
+    |       apr-1.2.12-i486-1.meta
+    |       apr-1.2.12-i486-1.tgz
+    |       apr-1.2.12-i486-1.txt
+    |       apr-util-1.2.12-i486-1.dep
+    |       apr-util-1.2.12-i486-1.meta
+    |       apr-util-1.2.12-i486-1.tgz
+    |       apr-util-1.2.12-i486-1.txt
+    |       atk-1.22.0-i486-52.1.dep
+    |       atk-1.22.0-i486-52.1.meta
+    |       atk-1.22.0-i486-52.1.tgz
+    |       atk-1.22.0-i486-52.1.txt
+    |       audiofile-0.2.6-i486-2.dep
+    |       audiofile-0.2.6-i486-2.meta
+    |       audiofile-0.2.6-i486-2.tgz
+    |       audiofile-0.2.6-i486-2.txt
+    |       avahi-0.6.22-i486-52.2.dep
+    |       avahi-0.6.22-i486-52.2.meta
+    |       avahi-0.6.22-i486-52.2.tgz
+    |       avahi-0.6.22-i486-52.2.txt
+    |       db44-4.4.20-i486-2.dep
+    |       db44-4.4.20-i486-2.meta
+    |       db44-4.4.20-i486-2.tgz
+    |       db44-4.4.20-i486-2.txt
+    |       dbus-glib-0.74-i486-48.1.dep
+    |       dbus-glib-0.74-i486-48.1.meta
+    |       dbus-glib-0.74-i486-48.1.tgz
+    |       dbus-glib-0.74-i486-48.1.txt
+    |       dbus-python-0.82.4-i486-50.1.dep
+    |       dbus-python-0.82.4-i486-50.1.meta
+    |       dbus-python-0.82.4-i486-50.1.tgz
+    |       dbus-python-0.82.4-i486-50.1.txt
+    |       directfb-1.0.1-i686-52.1.dep
+    |       directfb-1.0.1-i686-52.1.meta
+    |       directfb-1.0.1-i686-52.1.tgz
+    |       directfb-1.0.1-i686-52.1.txt
+    |       enchant-1.3.0-i486-50.1.dep
+    |       enchant-1.3.0-i486-50.1.meta
+    |       enchant-1.3.0-i486-50.1.tgz
+    |       enchant-1.3.0-i486-50.1.txt
+    |       esound-0.2.38-i486-1.dep
+    |       esound-0.2.38-i486-1.meta
+    |       esound-0.2.38-i486-1.tgz
+    |       esound-0.2.38-i486-1.txt
+    |       expat-2.0.1-i486-48.1.dep
+    |       expat-2.0.1-i486-48.1.meta
+    |       expat-2.0.1-i486-48.1.tgz
+    |       expat-2.0.1-i486-48.1.txt
+    |       feedparser-4.1-noarch-50.1.dep
+    |       feedparser-4.1-noarch-50.1.meta
+    |       feedparser-4.1-noarch-50.1.tgz
+    |       feedparser-4.1-noarch-50.1.txt
+    |       fribidi-0.10.9-i486-2.dep
+    |       fribidi-0.10.9-i486-2.meta
+    |       fribidi-0.10.9-i486-2.tgz
+    |       fribidi-0.10.9-i486-2.txt
+    |       gail-1.22.1-i486-52.1.dep
+    |       gail-1.22.1-i486-52.1.meta
+    |       gail-1.22.1-i486-52.1.tgz
+    |       gail-1.22.1-i486-52.1.txt
+    |       gamin-0.1.9-i486-1.dep
+    |       gamin-0.1.9-i486-1.meta
+    |       gamin-0.1.9-i486-1.tgz
+    |       gamin-0.1.9-i486-1.txt
+    |       gconf-2.22.0-i486-52.1.dep
+    |       gconf-2.22.0-i486-52.1.meta
+    |       gconf-2.22.0-i486-52.1.tgz
+    |       gconf-2.22.0-i486-52.1.txt
+    |       gd-2.0.35-i486-2.dep
+    |       gd-2.0.35-i486-2.meta
+    |       gd-2.0.35-i486-2.tgz
+    |       gd-2.0.35-i486-2.txt
+    |       gdbm-1.8.3-i486-4.dep
+    |       gdbm-1.8.3-i486-4.meta
+    |       gdbm-1.8.3-i486-4.tgz
+    |       gdbm-1.8.3-i486-4.txt
+    |       glib2-2.16.3-i486-52.1.dep
+    |       glib2-2.16.3-i486-52.1.meta
+    |       glib2-2.16.3-i486-52.1.tgz
+    |       glib2-2.16.3-i486-52.1.txt
+    |       glibc-2.7-i486-10.dep
+    |       glibc-2.7-i486-10.meta
+    |       glibc-2.7-i486-10.tgz
+    |       glibc-2.7-i486-10.txt
+    |       gmp-4.2.2-i486-1.dep
+    |       gmp-4.2.2-i486-1.meta
+    |       gmp-4.2.2-i486-1.tgz
+    |       gmp-4.2.2-i486-1.txt
+    |       gnome-keyring-2.22.1-i486-52.1.dep
+    |       gnome-keyring-2.22.1-i486-52.1.meta
+    |       gnome-keyring-2.22.1-i486-52.1.tgz
+    |       gnome-keyring-2.22.1-i486-52.1.txt
+    |       gnome-mime-data-2.18.0-i486-48.1.dep
+    |       gnome-mime-data-2.18.0-i486-48.1.meta
+    |       gnome-mime-data-2.18.0-i486-48.1.tgz
+    |       gnome-mime-data-2.18.0-i486-48.1.txt
+    |       gnome-python-2.22.0-i486-52.1.dep
+    |       gnome-python-2.22.0-i486-52.1.meta
+    |       gnome-python-2.22.0-i486-52.1.tgz
+    |       gnome-python-2.22.0-i486-52.1.txt
+    |       gnome-vfs-2.22.0-i486-52.2.dep
+    |       gnome-vfs-2.22.0-i486-52.2.meta
+    |       gnome-vfs-2.22.0-i486-52.2.tgz
+    |       gnome-vfs-2.22.0-i486-52.2.txt
+    |       goffice-0.6.4-i486-52.1.dep
+    |       goffice-0.6.4-i486-52.1.meta
+    |       goffice-0.6.4-i486-52.1.tgz
+    |       goffice-0.6.4-i486-52.1.txt
+    |       gst-plugins-base-0.10.19-i486-52.1.dep
+    |       gst-plugins-base-0.10.19-i486-52.1.meta
+    |       gst-plugins-base-0.10.19-i486-52.1.tgz
+    |       gst-plugins-base-0.10.19-i486-52.1.txt
+    |       gst-plugins-standard-0.10.7-i486-52.1.dep
+    |       gst-plugins-standard-0.10.7-i486-52.1.meta
+    |       gst-plugins-standard-0.10.7-i486-52.1.tgz
+    |       gst-plugins-standard-0.10.7-i486-52.1.txt
+    |       gstreamer-0.10.19-i486-52.1.dep
+    |       gstreamer-0.10.19-i486-52.1.meta
+    |       gstreamer-0.10.19-i486-52.1.tgz
+    |       gstreamer-0.10.19-i486-52.1.txt
+    |       gtk+2-2.12.9-i486-52.2.dep
+    |       gtk+2-2.12.9-i486-52.2.meta
+    |       gtk+2-2.12.9-i486-52.2.tgz
+    |       gtk+2-2.12.9-i486-52.2.txt
+    |       gtk-engines-2.14.2-i486-52.1.dep
+    |       gtk-engines-2.14.2-i486-52.1.meta
+    |       gtk-engines-2.14.2-i486-52.1.tgz
+    |       gtk-engines-2.14.2-i486-52.1.txt
+    |       gtkdialog-0.7.21-i486-52.1.dep
+    |       gtkdialog-0.7.21-i486-52.1.meta
+    |       gtkdialog-0.7.21-i486-52.1.tgz
+    |       gtkdialog-0.7.21-i486-52.1.txt
+    |       hal-info-20080508-noarch-52.1.dep
+    |       hal-info-20080508-noarch-52.1.meta
+    |       hal-info-20080508-noarch-52.1.tgz
+    |       hal-info-20080508-noarch-52.1.txt
+    |       hunspell-1.2.2-i486-52.1.dep
+    |       hunspell-1.2.2-i486-52.1.meta
+    |       hunspell-1.2.2-i486-52.1.tgz
+    |       hunspell-1.2.2-i486-52.1.txt
+    |       lcms-1.17-i486-48.1.dep
+    |       lcms-1.17-i486-48.1.meta
+    |       lcms-1.17-i486-48.1.tgz
+    |       lcms-1.17-i486-48.1.txt
+    |       libao-0.8.8-i486-1.dep
+    |       libao-0.8.8-i486-1.meta
+    |       libao-0.8.8-i486-1.tgz
+    |       libao-0.8.8-i486-1.txt
+    |       libart_lgpl-2.3.20-i486-1.dep
+    |       libart_lgpl-2.3.20-i486-1.meta
+    |       libart_lgpl-2.3.20-i486-1.tgz
+    |       libart_lgpl-2.3.20-i486-1.txt
+    |       libbonobo-2.22.0-i486-52.1.dep
+    |       libbonobo-2.22.0-i486-52.1.meta
+    |       libbonobo-2.22.0-i486-52.1.tgz
+    |       libbonobo-2.22.0-i486-52.1.txt
+    |       libbonoboui-2.22.0-i486-52.1.dep
+    |       libbonoboui-2.22.0-i486-52.1.meta
+    |       libbonoboui-2.22.0-i486-52.1.tgz
+    |       libbonoboui-2.22.0-i486-52.1.txt
+    |       libcap-1.10-i486-50.1.dep
+    |       libcap-1.10-i486-50.1.meta
+    |       libcap-1.10-i486-50.1.tgz
+    |       libcap-1.10-i486-50.1.txt
+    |       libcddb-1.3.0-i486-48.1.dep
+    |       libcddb-1.3.0-i486-48.1.meta
+    |       libcddb-1.3.0-i486-48.1.tgz
+    |       libcddb-1.3.0-i486-48.1.txt
+    |       libcdio-0.80-i486-52.1.dep
+    |       libcdio-0.80-i486-52.1.meta
+    |       libcdio-0.80-i486-52.1.tgz
+    |       libcdio-0.80-i486-52.1.txt
+    |       libcroco-0.6.1-i486-46.1.dep
+    |       libcroco-0.6.1-i486-46.1.meta
+    |       libcroco-0.6.1-i486-46.1.tgz
+    |       libcroco-0.6.1-i486-46.1.txt
+    |       libdaemon-0.12-i486-48.1.dep
+    |       libdaemon-0.12-i486-48.1.meta
+    |       libdaemon-0.12-i486-48.1.tgz
+    |       libdaemon-0.12-i486-48.1.txt
+    |       libdvdnav-4.1.2-i486-52.1.dep
+    |       libdvdnav-4.1.2-i486-52.1.meta
+    |       libdvdnav-4.1.2-i486-52.1.tgz
+    |       libdvdnav-4.1.2-i486-52.1.txt
+    |       libexif-0.6.16-i486-1.dep
+    |       libexif-0.6.16-i486-1.meta
+    |       libexif-0.6.16-i486-1.tgz
+    |       libexif-0.6.16-i486-1.txt
+    |       libexif-gtk-0.3.5-i486-52.1.dep
+    |       libexif-gtk-0.3.5-i486-52.1.meta
+    |       libexif-gtk-0.3.5-i486-52.1.tgz
+    |       libexif-gtk-0.3.5-i486-52.1.txt
+    |       libgadu-1.8.0-i486-52.1.dep
+    |       libgadu-1.8.0-i486-52.1.meta
+    |       libgadu-1.8.0-i486-52.1.tgz
+    |       libgadu-1.8.0-i486-52.1.txt
+    |       libgcrypt-1.4.0-i486-2.dep
+    |       libgcrypt-1.4.0-i486-2.meta
+    |       libgcrypt-1.4.0-i486-2.tgz
+    |       libgcrypt-1.4.0-i486-2.txt
+    |       libglade-2.6.2-i486-48.1.dep
+    |       libglade-2.6.2-i486-48.1.meta
+    |       libglade-2.6.2-i486-48.1.tgz
+    |       libglade-2.6.2-i486-48.1.txt
+    |       libgnome-2.22.0-i486-52.1.dep
+    |       libgnome-2.22.0-i486-52.1.meta
+    |       libgnome-2.22.0-i486-52.1.tgz
+    |       libgnome-2.22.0-i486-52.1.txt
+    |       libgnomecanvas-2.20.1.1-i486-50.1.dep
+    |       libgnomecanvas-2.20.1.1-i486-50.1.meta
+    |       libgnomecanvas-2.20.1.1-i486-50.1.tgz
+    |       libgnomecanvas-2.20.1.1-i486-50.1.txt
+    |       libgnomecups-0.2.3-i486-52.1.dep
+    |       libgnomecups-0.2.3-i486-52.1.meta
+    |       libgnomecups-0.2.3-i486-52.1.tgz
+    |       libgnomecups-0.2.3-i486-52.1.txt
+    |       libgnomeprint-2.18.4-i486-52.1.dep
+    |       libgnomeprint-2.18.4-i486-52.1.meta
+    |       libgnomeprint-2.18.4-i486-52.1.tgz
+    |       libgnomeprint-2.18.4-i486-52.1.txt
+    |       libgnomeprintui-2.18.2-i486-52.1.dep
+    |       libgnomeprintui-2.18.2-i486-52.1.meta
+    |       libgnomeprintui-2.18.2-i486-52.1.tgz
+    |       libgnomeprintui-2.18.2-i486-52.1.txt
+    |       libgnomeui-2.22.1-i486-52.1.dep
+    |       libgnomeui-2.22.1-i486-52.1.meta
+    |       libgnomeui-2.22.1-i486-52.1.tgz
+    |       libgnomeui-2.22.1-i486-52.1.txt
+    |       libgpg-error-1.6-i486-3.dep
+    |       libgpg-error-1.6-i486-3.meta
+    |       libgpg-error-1.6-i486-3.tgz
+    |       libgpg-error-1.6-i486-3.txt
+    |       libgphoto2-2.4.1-i486-52.1.dep
+    |       libgphoto2-2.4.1-i486-52.1.meta
+    |       libgphoto2-2.4.1-i486-52.1.tgz
+    |       libgphoto2-2.4.1-i486-52.1.txt
+    |       libgsf-1.14.8-i486-52.1.dep
+    |       libgsf-1.14.8-i486-52.1.meta
+    |       libgsf-1.14.8-i486-52.1.tgz
+    |       libgsf-1.14.8-i486-52.1.txt
+    |       libid3tag-0.15.1b-i486-50.2.dep
+    |       libid3tag-0.15.1b-i486-50.2.meta
+    |       libid3tag-0.15.1b-i486-50.2.tgz
+    |       libid3tag-0.15.1b-i486-50.2.txt
+    |       libidl-0.8.10-i486-1.dep
+    |       libidl-0.8.10-i486-1.meta
+    |       libidl-0.8.10-i486-1.tgz
+    |       libidl-0.8.10-i486-1.txt
+    |       libidn-1.5-i486-1.dep
+    |       libidn-1.5-i486-1.meta
+    |       libidn-1.5-i486-1.tgz
+    |       libidn-1.5-i486-1.txt
+    |       libieee1284-0.2.11-i486-1.dep
+    |       libieee1284-0.2.11-i486-1.meta
+    |       libieee1284-0.2.11-i486-1.tgz
+    |       libieee1284-0.2.11-i486-1.txt
+    |       libjpeg-6b-i486-5.dep
+    |       libjpeg-6b-i486-5.meta
+    |       libjpeg-6b-i486-5.tgz
+    |       libjpeg-6b-i486-5.txt
+    |       libmad-0.15.1b-i486-50.2.dep
+    |       libmad-0.15.1b-i486-50.2.meta
+    |       libmad-0.15.1b-i486-50.2.tgz
+    |       libmad-0.15.1b-i486-50.2.txt
+    |       libmng-1.0.10-i486-1.dep
+    |       libmng-1.0.10-i486-1.meta
+    |       libmng-1.0.10-i486-1.tgz
+    |       libmng-1.0.10-i486-1.txt
+    |       libmpcdec-1.2.6-i486-48.1.dep
+    |       libmpcdec-1.2.6-i486-48.1.meta
+    |       libmpcdec-1.2.6-i486-48.1.tgz
+    |       libmpcdec-1.2.6-i486-48.1.txt
+    |       libnotify-0.4.4-i486-46.1.dep
+    |       libnotify-0.4.4-i486-46.1.meta
+    |       libnotify-0.4.4-i486-46.1.tgz
+    |       libnotify-0.4.4-i486-46.1.txt
+    |       libogg-1.1.3-i486-2.dep
+    |       libogg-1.1.3-i486-2.meta
+    |       libogg-1.1.3-i486-2.tgz
+    |       libogg-1.1.3-i486-2.txt
+    |       liboil-0.3.13-i486-52.1.dep
+    |       liboil-0.3.13-i486-52.1.meta
+    |       liboil-0.3.13-i486-52.1.tgz
+    |       liboil-0.3.13-i486-52.1.txt
+    |       libpng-1.2.27-i486-1.dep
+    |       libpng-1.2.27-i486-1.meta
+    |       libpng-1.2.27-i486-1.tgz
+    |       libpng-1.2.27-i486-1.txt
+    |       librsvg-2.22.2-i486-52.1.dep
+    |       librsvg-2.22.2-i486-52.1.meta
+    |       librsvg-2.22.2-i486-52.1.tgz
+    |       librsvg-2.22.2-i486-52.1.txt
+    |       libsexy-0.1.11-i486-46.1.dep
+    |       libsexy-0.1.11-i486-46.1.meta
+    |       libsexy-0.1.11-i486-46.1.tgz
+    |       libsexy-0.1.11-i486-46.1.txt
+    |       libtasn-1.3-i486-52.1.dep
+    |       libtasn-1.3-i486-52.1.meta
+    |       libtasn-1.3-i486-52.1.tgz
+    |       libtasn-1.3-i486-52.1.txt
+    |       libtermcap-1.2.3-i486-7.dep
+    |       libtermcap-1.2.3-i486-7.meta
+    |       libtermcap-1.2.3-i486-7.tgz
+    |       libtermcap-1.2.3-i486-7.txt
+    |       libtheora-1.0beta2-i486-1.dep
+    |       libtheora-1.0beta2-i486-1.meta
+    |       libtheora-1.0beta2-i486-1.tgz
+    |       libtheora-1.0beta2-i486-1.txt
+    |       libtiff-3.8.2-i486-3.dep
+    |       libtiff-3.8.2-i486-3.meta
+    |       libtiff-3.8.2-i486-3.tgz
+    |       libtiff-3.8.2-i486-3.txt
+    |       libungif-4.1.4-i486-4.dep
+    |       libungif-4.1.4-i486-4.meta
+    |       libungif-4.1.4-i486-4.tgz
+    |       libungif-4.1.4-i486-4.txt
+    |       libusb-0.1.12-i486-2.dep
+    |       libusb-0.1.12-i486-2.meta
+    |       libusb-0.1.12-i486-2.tgz
+    |       libusb-0.1.12-i486-2.txt
+    |       libvorbis-aotuv.b5.5-i486-52.2.dep
+    |       libvorbis-aotuv.b5.5-i486-52.2.meta
+    |       libvorbis-aotuv.b5.5-i486-52.2.tgz
+    |       libvorbis-aotuv.b5.5-i486-52.2.txt
+    |       libwmf-0.2.8.4-i486-3.dep
+    |       libwmf-0.2.8.4-i486-3.meta
+    |       libwmf-0.2.8.4-i486-3.tgz
+    |       libwmf-0.2.8.4-i486-3.txt
+    |       libxml2-2.6.32-i486-52.1.dep
+    |       libxml2-2.6.32-i486-52.1.meta
+    |       libxml2-2.6.32-i486-52.1.tgz
+    |       libxml2-2.6.32-i486-52.1.txt
+    |       libxslt-1.1.24-i486-52.1.dep
+    |       libxslt-1.1.24-i486-52.1.meta
+    |       libxslt-1.1.24-i486-52.1.tgz
+    |       libxslt-1.1.24-i486-52.1.txt
+    |       luaglade-0.5.3-i486-46.1.dep
+    |       luaglade-0.5.3-i486-46.1.meta
+    |       luaglade-0.5.3-i486-46.1.tgz
+    |       luaglade-0.5.3-i486-46.1.txt
+    |       meanwhile-1.0.2-i486-48.1.dep
+    |       meanwhile-1.0.2-i486-48.1.meta
+    |       meanwhile-1.0.2-i486-48.1.tgz
+    |       meanwhile-1.0.2-i486-48.1.txt
+    |       mhash-0.9.9-i486-1.dep
+    |       mhash-0.9.9-i486-1.meta
+    |       mhash-0.9.9-i486-1.tgz
+    |       mhash-0.9.9-i486-1.txt
+    |       mpfr-2.3.1-i486-1.dep
+    |       mpfr-2.3.1-i486-1.meta
+    |       mpfr-2.3.1-i486-1.tgz
+    |       mpfr-2.3.1-i486-1.txt
+    |       ncurses-5.6-i486-3.dep
+    |       ncurses-5.6-i486-3.meta
+    |       ncurses-5.6-i486-3.tgz
+    |       ncurses-5.6-i486-3.txt
+    |       neon-0.26.4-i486-1.dep
+    |       neon-0.26.4-i486-1.meta
+    |       neon-0.26.4-i486-1.tgz
+    |       neon-0.26.4-i486-1.txt
+    |       nss-mdns-0.9-i486-44.1.dep
+    |       nss-mdns-0.9-i486-44.1.meta
+    |       nss-mdns-0.9-i486-44.1.tgz
+    |       nss-mdns-0.9-i486-44.1.txt
+    |       nss-nspr-3.11.9-i486-52.1.dep
+    |       nss-nspr-3.11.9-i486-52.1.meta
+    |       nss-nspr-3.11.9-i486-52.1.tgz
+    |       nss-nspr-3.11.9-i486-52.1.txt
+    |       orbit2-2.14.11-i486-52.1.dep
+    |       orbit2-2.14.11-i486-52.1.meta
+    |       orbit2-2.14.11-i486-52.1.tgz
+    |       orbit2-2.14.11-i486-52.1.txt
+    |       pango-1.20.2-i486-52.1.dep
+    |       pango-1.20.2-i486-52.1.meta
+    |       pango-1.20.2-i486-52.1.tgz
+    |       pango-1.20.2-i486-52.1.txt
+    |       pcre-7.7-i486-52.1.dep
+    |       pcre-7.7-i486-52.1.meta
+    |       pcre-7.7-i486-52.1.tgz
+    |       pcre-7.7-i486-52.1.txt
+    |       perl-gtk2-2.20.0-i486-52.2.dep
+    |       perl-gtk2-2.20.0-i486-52.2.meta
+    |       perl-gtk2-2.20.0-i486-52.2.tgz
+    |       perl-gtk2-2.20.0-i486-52.2.txt
+    |       perl-pvfilter-0.2-i486-52.1.dep
+    |       perl-pvfilter-0.2-i486-52.1.meta
+    |       perl-pvfilter-0.2-i486-52.1.tgz
+    |       perl-pvfilter-0.2-i486-52.1.txt
+    |       poppler-0.8.2-i486-52.1.dep
+    |       poppler-0.8.2-i486-52.1.meta
+    |       poppler-0.8.2-i486-52.1.tgz
+    |       poppler-0.8.2-i486-52.1.txt
+    |       popt-1.7-i486-2.dep
+    |       popt-1.7-i486-2.meta
+    |       popt-1.7-i486-2.tgz
+    |       popt-1.7-i486-2.txt
+    |       pycairo-1.4.12-i486-50.1.dep
+    |       pycairo-1.4.12-i486-50.1.meta
+    |       pycairo-1.4.12-i486-50.1.tgz
+    |       pycairo-1.4.12-i486-50.1.txt
+    |       pycups-1.9.38-i486-52.1.dep
+    |       pycups-1.9.38-i486-52.1.meta
+    |       pycups-1.9.38-i486-52.1.tgz
+    |       pycups-1.9.38-i486-52.1.txt
+    |       pygobject-2.14.2-i486-52.1.dep
+    |       pygobject-2.14.2-i486-52.1.meta
+    |       pygobject-2.14.2-i486-52.1.tgz
+    |       pygobject-2.14.2-i486-52.1.txt
+    |       pygtk-2.12.1-i486-50.1.dep
+    |       pygtk-2.12.1-i486-50.1.meta
+    |       pygtk-2.12.1-i486-50.1.tgz
+    |       pygtk-2.12.1-i486-50.1.txt
+    |       pynotify-0.1.1-i486-48.1.dep
+    |       pynotify-0.1.1-i486-48.1.meta
+    |       pynotify-0.1.1-i486-48.1.tgz
+    |       pynotify-0.1.1-i486-48.1.txt
+    |       rarian-0.8.0-i486-52.1.dep
+    |       rarian-0.8.0-i486-52.1.meta
+    |       rarian-0.8.0-i486-52.1.tgz
+    |       rarian-0.8.0-i486-52.1.txt
+    |       readline-5.2-i486-3.dep
+    |       readline-5.2-i486-3.meta
+    |       readline-5.2-i486-3.tgz
+    |       readline-5.2-i486-3.txt
+    |       sdl-1.2.13-i486-52.1.dep
+    |       sdl-1.2.13-i486-52.1.meta
+    |       sdl-1.2.13-i486-52.1.tgz
+    |       sdl-1.2.13-i486-52.1.txt
+    |       shared-mime-info-0.23-i486-52.1.dep
+    |       shared-mime-info-0.23-i486-52.1.meta
+    |       shared-mime-info-0.23-i486-52.1.tgz
+    |       shared-mime-info-0.23-i486-52.1.txt
+    |       slang-2.1.3-i486-1.dep
+    |       slang-2.1.3-i486-1.meta
+    |       slang-2.1.3-i486-1.tgz
+    |       slang-2.1.3-i486-1.txt
+    |       startup-notification-0.9-i486-46.1.dep
+    |       startup-notification-0.9-i486-46.1.meta
+    |       startup-notification-0.9-i486-46.1.tgz
+    |       startup-notification-0.9-i486-46.1.txt
+    |       t1lib-5.1.0-i486-3.dep
+    |       t1lib-5.1.0-i486-3.meta
+    |       t1lib-5.1.0-i486-3.tgz
+    |       t1lib-5.1.0-i486-3.txt
+    |       taglib-1.5-i486-1.dep
+    |       taglib-1.5-i486-1.meta
+    |       taglib-1.5-i486-1.tgz
+    |       taglib-1.5-i486-1.txt
+    |       tre-0.7.5-i486-50.1.dep
+    |       tre-0.7.5-i486-50.1.meta
+    |       tre-0.7.5-i486-50.1.tgz
+    |       tre-0.7.5-i486-50.1.txt
+    |       vte-0.16.13-i486-52.1.dep
+    |       vte-0.16.13-i486-52.1.meta
+    |       vte-0.16.13-i486-52.1.tgz
+    |       vte-0.16.13-i486-52.1.txt
+    |       wv-1.2.4-i486-52.1.dep
+    |       wv-1.2.4-i486-52.1.meta
+    |       wv-1.2.4-i486-52.1.tgz
+    |       wv-1.2.4-i486-52.1.txt
+    |       xdialog-2.3.1-i486-46.1.dep
+    |       xdialog-2.3.1-i486-46.1.meta
+    |       xdialog-2.3.1-i486-46.1.tgz
+    |       xdialog-2.3.1-i486-46.1.txt
+    |       zlib-1.2.3-i486-2.dep
+    |       zlib-1.2.3-i486-2.meta
+    |       zlib-1.2.3-i486-2.tgz
+    |       zlib-1.2.3-i486-2.txt
+    |       
+    +---n
+    |       autofs-3.1.7-i386-1.dep
+    |       autofs-3.1.7-i386-1.meta
+    |       autofs-3.1.7-i386-1.tgz
+    |       autofs-3.1.7-i386-1.txt
+    |       bluez-libs-3.26-i486-1.dep
+    |       bluez-libs-3.26-i486-1.meta
+    |       bluez-libs-3.26-i486-1.tgz
+    |       bluez-libs-3.26-i486-1.txt
+    |       bridge-utils-1.2-i486-1.dep
+    |       bridge-utils-1.2-i486-1.meta
+    |       bridge-utils-1.2-i486-1.tgz
+    |       bridge-utils-1.2-i486-1.txt
+    |       bsd-finger-0.17-i486-1.dep
+    |       bsd-finger-0.17-i486-1.meta
+    |       bsd-finger-0.17-i486-1.tgz
+    |       bsd-finger-0.17-i486-1.txt
+    |       curl-7.16.2-i486-1.dep
+    |       curl-7.16.2-i486-1.meta
+    |       curl-7.16.2-i486-1.tgz
+    |       curl-7.16.2-i486-1.txt
+    |       cyrus-sasl-2.1.22-i486-1.dep
+    |       cyrus-sasl-2.1.22-i486-1.meta
+    |       cyrus-sasl-2.1.22-i486-1.tgz
+    |       cyrus-sasl-2.1.22-i486-1.txt
+    |       dhcpcd-3.2.3-i486-52.1.dep
+    |       dhcpcd-3.2.3-i486-52.1.meta
+    |       dhcpcd-3.2.3-i486-52.1.tgz
+    |       dhcpcd-3.2.3-i486-52.1.txt
+    |       dnstools-9.4.2-i486-50.1.dep
+    |       dnstools-9.4.2-i486-50.1.meta
+    |       dnstools-9.4.2-i486-50.1.tgz
+    |       dnstools-9.4.2-i486-50.1.txt
+    |       ethtool-5-i486-1.dep
+    |       ethtool-5-i486-1.meta
+    |       ethtool-5-i486-1.tgz
+    |       ethtool-5-i486-1.txt
+    |       gnupg-1.4.9-i486-1.dep
+    |       gnupg-1.4.9-i486-1.meta
+    |       gnupg-1.4.9-i486-1.tgz
+    |       gnupg-1.4.9-i486-1.txt
+    |       gnutls-2.2.2-i486-1.dep
+    |       gnutls-2.2.2-i486-1.meta
+    |       gnutls-2.2.2-i486-1.tgz
+    |       gnutls-2.2.2-i486-1.txt
+    |       icmpinfo-1.11-i486-1.dep
+    |       icmpinfo-1.11-i486-1.meta
+    |       icmpinfo-1.11-i486-1.tgz
+    |       icmpinfo-1.11-i486-1.txt
+    |       inetd-1.79s-i486-8.dep
+    |       inetd-1.79s-i486-8.meta
+    |       inetd-1.79s-i486-8.tgz
+    |       inetd-1.79s-i486-8.txt
+    |       iptables-1.4.0-i486-1.dep
+    |       iptables-1.4.0-i486-1.meta
+    |       iptables-1.4.0-i486-1.tgz
+    |       iptables-1.4.0-i486-1.txt
+    |       iputils-s20070202-i486-2.dep
+    |       iputils-s20070202-i486-2.meta
+    |       iputils-s20070202-i486-2.tgz
+    |       iputils-s20070202-i486-2.txt
+    |       ipw2x00fw-1.0-noarch-52.1.dep
+    |       ipw2x00fw-1.0-noarch-52.1.meta
+    |       ipw2x00fw-1.0-noarch-52.1.tgz
+    |       ipw2x00fw-1.0-noarch-52.1.txt
+    |       iwlwifi-3945-ucode-2.14.1.5-noarch-52.1.dep
+    |       iwlwifi-3945-ucode-2.14.1.5-noarch-52.1.meta
+    |       iwlwifi-3945-ucode-2.14.1.5-noarch-52.1.tgz
+    |       iwlwifi-3945-ucode-2.14.1.5-noarch-52.1.txt
+    |       iwlwifi-4965-ucode-4.44.1.20-noarch-52.1.dep
+    |       iwlwifi-4965-ucode-4.44.1.20-noarch-52.1.meta
+    |       iwlwifi-4965-ucode-4.44.1.20-noarch-52.1.tgz
+    |       iwlwifi-4965-ucode-4.44.1.20-noarch-52.1.txt
+    |       nc-1.10-i386-1.dep
+    |       nc-1.10-i386-1.meta
+    |       nc-1.10-i386-1.tgz
+    |       nc-1.10-i386-1.txt
+    |       ndiswrapper-1.52-i486-2.6.25.4.dep
+    |       ndiswrapper-1.52-i486-2.6.25.4.meta
+    |       ndiswrapper-1.52-i486-2.6.25.4.tgz
+    |       ndiswrapper-1.52-i486-2.6.25.4.txt
+    |       net-tools-1.60-i486-2.dep
+    |       net-tools-1.60-i486-2.meta
+    |       net-tools-1.60-i486-2.tgz
+    |       net-tools-1.60-i486-2.txt
+    |       netdate-bsd4-i486-1.dep
+    |       netdate-bsd4-i486-1.meta
+    |       netdate-bsd4-i486-1.tgz
+    |       netdate-bsd4-i486-1.txt
+    |       netkit-ftp-0.17-i486-1.dep
+    |       netkit-ftp-0.17-i486-1.meta
+    |       netkit-ftp-0.17-i486-1.tgz
+    |       netkit-ftp-0.17-i486-1.txt
+    |       netkit-ntalk-0.17-i486-2.dep
+    |       netkit-ntalk-0.17-i486-2.meta
+    |       netkit-ntalk-0.17-i486-2.tgz
+    |       netkit-ntalk-0.17-i486-2.txt
+    |       netkit-routed-0.17-i486-1.dep
+    |       netkit-routed-0.17-i486-1.meta
+    |       netkit-routed-0.17-i486-1.tgz
+    |       netkit-routed-0.17-i486-1.txt
+    |       netkit-timed-0.17-i486-1.dep
+    |       netkit-timed-0.17-i486-1.meta
+    |       netkit-timed-0.17-i486-1.tgz
+    |       netkit-timed-0.17-i486-1.txt
+    |       network-scripts-5.2-i486-52.2.dep
+    |       network-scripts-5.2-i486-52.2.meta
+    |       network-scripts-5.2-i486-52.2.tgz
+    |       network-scripts-5.2-i486-52.2.txt
+    |       netwrite-0.17-i486-1.dep
+    |       netwrite-0.17-i486-1.meta
+    |       netwrite-0.17-i486-1.tgz
+    |       netwrite-0.17-i486-1.txt
+    |       nfs-utils-1.1.2-i486-1.dep
+    |       nfs-utils-1.1.2-i486-1.meta
+    |       nfs-utils-1.1.2-i486-1.tgz
+    |       nfs-utils-1.1.2-i486-1.txt
+    |       nmap-4.62-i486-52.1.dep
+    |       nmap-4.62-i486-52.1.meta
+    |       nmap-4.62-i486-52.1.tgz
+    |       nmap-4.62-i486-52.1.txt
+    |       ntp-4.2.4p0-i486-46.1.dep
+    |       ntp-4.2.4p0-i486-46.1.meta
+    |       ntp-4.2.4p0-i486-46.1.tgz
+    |       ntp-4.2.4p0-i486-46.1.txt
+    |       openldap-client-2.4.9-i486-52.2.dep
+    |       openldap-client-2.4.9-i486-52.2.meta
+    |       openldap-client-2.4.9-i486-52.2.tgz
+    |       openldap-client-2.4.9-i486-52.2.txt
+    |       openssh-5.0p1-i486-52.1.dep
+    |       openssh-5.0p1-i486-52.1.meta
+    |       openssh-5.0p1-i486-52.1.tgz
+    |       openssh-5.0p1-i486-52.1.txt
+    |       openssl-0.9.8g-i486-1.dep
+    |       openssl-0.9.8g-i486-1.meta
+    |       openssl-0.9.8g-i486-1.tgz
+    |       openssl-0.9.8g-i486-1.txt
+    |       pidentd-3.0.19-i486-1.dep
+    |       pidentd-3.0.19-i486-1.meta
+    |       pidentd-3.0.19-i486-1.tgz
+    |       pidentd-3.0.19-i486-1.txt
+    |       portmap-6.0-i486-1.dep
+    |       portmap-6.0-i486-1.meta
+    |       portmap-6.0-i486-1.tgz
+    |       portmap-6.0-i486-1.txt
+    |       ppp-2.4.4-i486-50.1.dep
+    |       ppp-2.4.4-i486-50.1.meta
+    |       ppp-2.4.4-i486-50.1.tgz
+    |       ppp-2.4.4-i486-50.1.txt
+    |       rp-pppoe-3.8-i486-2.dep
+    |       rp-pppoe-3.8-i486-2.meta
+    |       rp-pppoe-3.8-i486-2.tgz
+    |       rp-pppoe-3.8-i486-2.txt
+    |       rsync-3.0.2-i486-1.dep
+    |       rsync-3.0.2-i486-1.meta
+    |       rsync-3.0.2-i486-1.tgz
+    |       rsync-3.0.2-i486-1.txt
+    |       sambaclient-3.0.30-i486-52.2.dep
+    |       sambaclient-3.0.30-i486-52.2.meta
+    |       sambaclient-3.0.30-i486-52.2.tgz
+    |       sambaclient-3.0.30-i486-52.2.txt
+    |       tcp_wrappers-7.6-i486-1.dep
+    |       tcp_wrappers-7.6-i486-1.meta
+    |       tcp_wrappers-7.6-i486-1.tgz
+    |       tcp_wrappers-7.6-i486-1.txt
+    |       tcpdump-3.9.8-i486-1.dep
+    |       tcpdump-3.9.8-i486-1.meta
+    |       tcpdump-3.9.8-i486-1.tgz
+    |       tcpdump-3.9.8-i486-1.txt
+    |       telnet-0.17-i486-1.dep
+    |       telnet-0.17-i486-1.meta
+    |       telnet-0.17-i486-1.tgz
+    |       telnet-0.17-i486-1.txt
+    |       tftp-hpa-0.48-i486-1.dep
+    |       tftp-hpa-0.48-i486-1.meta
+    |       tftp-hpa-0.48-i486-1.tgz
+    |       tftp-hpa-0.48-i486-1.txt
+    |       traceroute-1.4a12-i386-2.dep
+    |       traceroute-1.4a12-i386-2.meta
+    |       traceroute-1.4a12-i386-2.tgz
+    |       traceroute-1.4a12-i386-2.txt
+    |       vlan-1.9-i486-2.dep
+    |       vlan-1.9-i486-2.meta
+    |       vlan-1.9-i486-2.tgz
+    |       vlan-1.9-i486-2.txt
+    |       wget-1.11.3-i486-52.1.dep
+    |       wget-1.11.3-i486-52.1.meta
+    |       wget-1.11.3-i486-52.1.tgz
+    |       wget-1.11.3-i486-52.1.txt
+    |       whois-4.7.26-i486-1.dep
+    |       whois-4.7.26-i486-1.meta
+    |       whois-4.7.26-i486-1.tgz
+    |       whois-4.7.26-i486-1.txt
+    |       wireless-tools-29-i486-3.dep
+    |       wireless-tools-29-i486-3.meta
+    |       wireless-tools-29-i486-3.tgz
+    |       wireless-tools-29-i486-3.txt
+    |       wpa-supplicant-0.5.10-i486-52.1.dep
+    |       wpa-supplicant-0.5.10-i486-52.1.meta
+    |       wpa-supplicant-0.5.10-i486-52.1.tgz
+    |       wpa-supplicant-0.5.10-i486-52.1.txt
+    |       
+    +---x
+    |       dejavu-ttf-2.25-noarch-52.1.dep
+    |       dejavu-ttf-2.25-noarch-52.1.meta
+    |       dejavu-ttf-2.25-noarch-52.1.tgz
+    |       dejavu-ttf-2.25-noarch-52.1.txt
+    |       fontconfig-2.5.92-i486-52.3.dep
+    |       fontconfig-2.5.92-i486-52.3.meta
+    |       fontconfig-2.5.92-i486-52.3.tgz
+    |       fontconfig-2.5.92-i486-52.3.txt
+    |       freetype-2.3.5-i486-52.2.dep
+    |       freetype-2.3.5-i486-52.2.meta
+    |       freetype-2.3.5-i486-52.2.tgz
+    |       freetype-2.3.5-i486-52.2.txt
+    |       libdrm-2.3.0-i486-52.4.dep
+    |       libdrm-2.3.0-i486-52.4.meta
+    |       libdrm-2.3.0-i486-52.4.tgz
+    |       libdrm-2.3.0-i486-52.4.txt
+    |       mesa-7.0.3-i486-52.1.dep
+    |       mesa-7.0.3-i486-52.1.meta
+    |       mesa-7.0.3-i486-52.1.tgz
+    |       mesa-7.0.3-i486-52.1.txt
+    |       synaptics-0.14.6-i486-50.3.dep
+    |       synaptics-0.14.6-i486-50.3.meta
+    |       synaptics-0.14.6-i486-50.3.tgz
+    |       synaptics-0.14.6-i486-50.3.txt
+    |       xaw3d-1.5-i486-52.2.dep
+    |       xaw3d-1.5-i486-52.2.meta
+    |       xaw3d-1.5-i486-52.2.tgz
+    |       xaw3d-1.5-i486-52.2.txt
+    |       xcb-1.1-i486-52.2.dep
+    |       xcb-1.1-i486-52.2.meta
+    |       xcb-1.1-i486-52.2.tgz
+    |       xcb-1.1-i486-52.2.txt
+    |       xorg-apps-7.3-i486-52.3.dep
+    |       xorg-apps-7.3-i486-52.3.meta
+    |       xorg-apps-7.3-i486-52.3.tgz
+    |       xorg-apps-7.3-i486-52.3.txt
+    |       xorg-data-7.3-i486-52.2.dep
+    |       xorg-data-7.3-i486-52.2.meta
+    |       xorg-data-7.3-i486-52.2.tgz
+    |       xorg-data-7.3-i486-52.2.txt
+    |       xorg-drivers-input-7.3-i486-52.3.dep
+    |       xorg-drivers-input-7.3-i486-52.3.meta
+    |       xorg-drivers-input-7.3-i486-52.3.tgz
+    |       xorg-drivers-input-7.3-i486-52.3.txt
+    |       xorg-drivers-video-7.3-i486-52.4.dep
+    |       xorg-drivers-video-7.3-i486-52.4.meta
+    |       xorg-drivers-video-7.3-i486-52.4.tgz
+    |       xorg-drivers-video-7.3-i486-52.4.txt
+    |       xorg-fonts-base-7.3-i486-52.1.dep
+    |       xorg-fonts-base-7.3-i486-52.1.meta
+    |       xorg-fonts-base-7.3-i486-52.1.tgz
+    |       xorg-fonts-base-7.3-i486-52.1.txt
+    |       xorg-libs-7.3-i486-52.2.dep
+    |       xorg-libs-7.3-i486-52.2.meta
+    |       xorg-libs-7.3-i486-52.2.tgz
+    |       xorg-libs-7.3-i486-52.2.txt
+    |       xorg-protocols-7.3-noarch-52.3.dep
+    |       xorg-protocols-7.3-noarch-52.3.meta
+    |       xorg-protocols-7.3-noarch-52.3.tgz
+    |       xorg-protocols-7.3-noarch-52.3.txt
+    |       xorg-server-1.4.0.90-i486-52.1.dep
+    |       xorg-server-1.4.0.90-i486-52.1.meta
+    |       xorg-server-1.4.0.90-i486-52.1.tgz
+    |       xorg-server-1.4.0.90-i486-52.1.txt
+    |       xorg-utils-7.3-i486-52.1.dep
+    |       xorg-utils-7.3-i486-52.1.meta
+    |       xorg-utils-7.3-i486-52.1.tgz
+    |       xorg-utils-7.3-i486-52.1.txt
+    |       
+    \---xap
+            abiword-2.6.3-i486-52.1.dep
+            abiword-2.6.3-i486-52.1.meta
+            abiword-2.6.3-i486-52.1.tgz
+            abiword-2.6.3-i486-52.1.txt
+            asunder-1.5-i486-52.1.dep
+            asunder-1.5-i486-52.1.meta
+            asunder-1.5-i486-52.1.tgz
+            asunder-1.5-i486-52.1.txt
+            brasero-0.7.90-i486-52.2.dep
+            brasero-0.7.90-i486-52.2.meta
+            brasero-0.7.90-i486-52.2.tgz
+            brasero-0.7.90-i486-52.2.txt
+            catfish-0.3-noarch-50.1.dep
+            catfish-0.3-noarch-50.1.meta
+            catfish-0.3-noarch-50.1.tgz
+            catfish-0.3-noarch-50.1.txt
+            desktop-file-utils-0.15-i486-52.1.dep
+            desktop-file-utils-0.15-i486-52.1.meta
+            desktop-file-utils-0.15-i486-52.1.tgz
+            desktop-file-utils-0.15-i486-52.1.txt
+            evince-2.22.2-i486-52.1.dep
+            evince-2.22.2-i486-52.1.meta
+            evince-2.22.2-i486-52.1.tgz
+            evince-2.22.2-i486-52.1.txt
+            galculator-1.3.1-i486-48.1.dep
+            galculator-1.3.1-i486-48.1.meta
+            galculator-1.3.1-i486-48.1.tgz
+            galculator-1.3.1-i486-48.1.txt
+            gdm-2.20.5-i486-52.1.dep
+            gdm-2.20.5-i486-52.1.meta
+            gdm-2.20.5-i486-52.1.tgz
+            gdm-2.20.5-i486-52.1.txt
+            geany-0.14-i486-52.2.dep
+            geany-0.14-i486-52.2.meta
+            geany-0.14-i486-52.2.tgz
+            geany-0.14-i486-52.2.txt
+            gftp-2.0.18.99-i486-50.2.dep
+            gftp-2.0.18.99-i486-50.2.meta
+            gftp-2.0.18.99-i486-50.2.tgz
+            gftp-2.0.18.99-i486-50.2.txt
+            ghex-2.22.0-i486-52.1.dep
+            ghex-2.22.0-i486-52.1.meta
+            ghex-2.22.0-i486-52.1.tgz
+            ghex-2.22.0-i486-52.1.txt
+            gimp-2.4.6-i486-52.1.meta
+            gimp-2.4.6-i486-52.1.tgz
+            gimp-2.4.6-i486-52.1.txt
+            gmusicbrowser-0.964-i486-52.1.dep
+            gmusicbrowser-0.964-i486-52.1.meta
+            gmusicbrowser-0.964-i486-52.1.tgz
+            gmusicbrowser-0.964-i486-52.1.txt
+            gnome-mplayer-0.6.2-i486-52.1.dep
+            gnome-mplayer-0.6.2-i486-52.1.meta
+            gnome-mplayer-0.6.2-i486-52.1.tgz
+            gnome-mplayer-0.6.2-i486-52.1.txt
+            gnumeric-1.8.3-i486-52.1.dep
+            gnumeric-1.8.3-i486-52.1.meta
+            gnumeric-1.8.3-i486-52.1.tgz
+            gnumeric-1.8.3-i486-52.1.txt
+            gqview-2.1.5-i486-2.dep
+            gqview-2.1.5-i486-2.meta
+            gqview-2.1.5-i486-2.tgz
+            gqview-2.1.5-i486-2.txt
+            grsync-0.6.1-i486-50.1.dep
+            grsync-0.6.1-i486-50.1.meta
+            grsync-0.6.1-i486-50.1.tgz
+            grsync-0.6.1-i486-50.1.txt
+            gtkam-0.1.15-i486-52.1.dep
+            gtkam-0.1.15-i486-52.1.meta
+            gtkam-0.1.15-i486-52.1.tgz
+            gtkam-0.1.15-i486-52.1.txt
+            gucharmap-2.22.1-i486-52.1.dep
+            gucharmap-2.22.1-i486-52.1.meta
+            gucharmap-2.22.1-i486-52.1.tgz
+            gucharmap-2.22.1-i486-52.1.txt
+            icedove-2.0.0.14-i486-52.1.dep
+            icedove-2.0.0.14-i486-52.1.meta
+            icedove-2.0.0.14-i486-52.1.tgz
+            icedove-2.0.0.14-i486-52.1.txt
+            iceweasel-2.0.0.14-i486-52.1.dep
+            iceweasel-2.0.0.14-i486-52.1.meta
+            iceweasel-2.0.0.14-i486-52.1.tgz
+            iceweasel-2.0.0.14-i486-52.1.txt
+            icon-themes-5.0-noarch-50.7.dep
+            icon-themes-5.0-noarch-50.7.meta
+            icon-themes-5.0-noarch-50.7.tgz
+            icon-themes-5.0-noarch-50.7.txt
+            ktsuss-1.3-i486-52.1.dep
+            ktsuss-1.3-i486-52.1.meta
+            ktsuss-1.3-i486-52.1.tgz
+            ktsuss-1.3-i486-52.1.txt
+            lshw-B.02.13-i486-52.1.dep
+            lshw-B.02.13-i486-52.1.meta
+            lshw-B.02.13-i486-52.1.tgz
+            lshw-B.02.13-i486-52.1.txt
+            mozilla-plugin-flash-9.0.124.0-i386-52.1.dep
+            mozilla-plugin-flash-9.0.124.0-i386-52.1.meta
+            mozilla-plugin-flash-9.0.124.0-i386-52.1.tgz
+            mozilla-plugin-flash-9.0.124.0-i386-52.1.txt
+            mpeg2dec-0.4.1-i486-46.1.dep
+            mpeg2dec-0.4.1-i486-46.1.meta
+            mpeg2dec-0.4.1-i486-46.1.tgz
+            mpeg2dec-0.4.1-i486-46.1.txt
+            mplayer-1.0rc2-i486-52.1.dep
+            mplayer-1.0rc2-i486-52.1.meta
+            mplayer-1.0rc2-i486-52.1.tgz
+            mplayer-1.0rc2-i486-52.1.txt
+            ndisgtk-0.8.3-i486-52.1.dep
+            ndisgtk-0.8.3-i486-52.1.meta
+            ndisgtk-0.8.3-i486-52.1.tgz
+            ndisgtk-0.8.3-i486-52.1.txt
+            notification-daemon-xfce-0.3.7-i486-50.1.dep
+            notification-daemon-xfce-0.3.7-i486-50.1.meta
+            notification-daemon-xfce-0.3.7-i486-50.1.tgz
+            notification-daemon-xfce-0.3.7-i486-50.1.txt
+            pidgin-2.4.2-i486-52.1.dep
+            pidgin-2.4.2-i486-52.1.meta
+            pidgin-2.4.2-i486-52.1.tgz
+            pidgin-2.4.2-i486-52.1.txt
+            sane-1.0.19-i486-52.1.dep
+            sane-1.0.19-i486-52.1.meta
+            sane-1.0.19-i486-52.1.tgz
+            sane-1.0.19-i486-52.1.txt
+            streamtuner-0.99.99-i486-52.1.dep
+            streamtuner-0.99.99-i486-52.1.meta
+            streamtuner-0.99.99-i486-52.1.tgz
+            streamtuner-0.99.99-i486-52.1.txt
+            system-config-printer-1.0.0-i486-52.1.dep
+            system-config-printer-1.0.0-i486-52.1.meta
+            system-config-printer-1.0.0-i486-52.1.tgz
+            system-config-printer-1.0.0-i486-52.1.txt
+            transmission-1.21-i486-52.1.dep
+            transmission-1.21-i486-52.1.meta
+            transmission-1.21-i486-52.1.tgz
+            transmission-1.21-i486-52.1.txt
+            wicd-1.4.2-noarch-52.1.dep
+            wicd-1.4.2-noarch-52.1.meta
+            wicd-1.4.2-noarch-52.1.tgz
+            wicd-1.4.2-noarch-52.1.txt
+            xfce-apps-4.4.2-i486-52.1.dep
+            xfce-apps-4.4.2-i486-52.1.meta
+            xfce-apps-4.4.2-i486-52.1.tgz
+            xfce-apps-4.4.2-i486-52.1.txt
+            xfce-base-4.4.2-i486-52.2.dep
+            xfce-base-4.4.2-i486-52.2.meta
+            xfce-base-4.4.2-i486-52.2.tgz
+            xfce-base-4.4.2-i486-52.2.txt
+            xfce-desktop-4.4.2-noarch-52.6.dep
+            xfce-desktop-4.4.2-noarch-52.6.meta
+            xfce-desktop-4.4.2-noarch-52.6.tgz
+            xfce-desktop-4.4.2-noarch-52.6.txt
+            xfce-plugins-4.4.2-i486-52.2.dep
+            xfce-plugins-4.4.2-i486-52.2.meta
+            xfce-plugins-4.4.2-i486-52.2.tgz
+            xfce-plugins-4.4.2-i486-52.2.txt
+            xfce-rss-plugin-0.0.1-i486-50.1.dep
+            xfce-rss-plugin-0.0.1-i486-50.1.meta
+            xfce-rss-plugin-0.0.1-i486-50.1.tgz
+            xfce-rss-plugin-0.0.1-i486-50.1.txt
+            xpad-2.14-i486-50.1.dep
+            xpad-2.14-i486-50.1.meta
+            xpad-2.14-i486-50.1.tgz
+            xpad-2.14-i486-50.1.txt
+            xsane-0.995-i486-50.1.dep
+            xsane-0.995-i486-50.1.meta
+            xsane-0.995-i486-50.1.tgz
+            xsane-0.995-i486-50.1.txt
+            xscreensaver-5.05-i486-52.1.dep
+            xscreensaver-5.05-i486-52.1.meta
+            xscreensaver-5.05-i486-52.1.tgz
+            xscreensaver-5.05-i486-52.1.txt
+            xterm-235-i486-52.1.dep
+            xterm-235-i486-52.1.meta
+            xterm-235-i486-52.1.tgz
+            xterm-235-i486-52.1.txt
+            

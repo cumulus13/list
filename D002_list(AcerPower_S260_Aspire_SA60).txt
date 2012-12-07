@@ -1,0 +1,3382 @@
+ Volume in drive G is ResourceCD
+ Volume Serial Number is 1B89-822B
+
+ Directory of G:\
+
+05/19/2005  08:48 AM    <DIR>          ACER
+04/11/2002  09:11 AM               766 acer.ico
+05/19/2005  08:47 AM    <DIR>          APP
+09/03/2004  02:53 PM           262,144 Autorun.exe
+06/02/2004  12:47 PM                67 AUTORUN.INF
+05/19/2005  08:46 AM    <DIR>          Book
+05/19/2005  08:46 AM    <DIR>          Drivers
+09/02/2004  02:14 PM                 0 ery.DAT
+05/19/2005  08:46 AM    <DIR>          HowToUse
+05/03/2005  12:40 PM            95,005 RECOVERY.EXE
+05/19/2005  10:26 AM               172 SCD.DAT
+05/03/2005  11:10 AM             1,598 STCDInfo.ini
+               7 File(s)        359,752 bytes
+
+ Directory of G:\ACER
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  10:27 AM    <DIR>          ..
+05/19/2005  08:48 AM    <DIR>          RECOVERY
+05/19/2005  08:48 AM    <DIR>          TOOLS
+05/19/2005  08:48 AM    <DIR>          Wallpapr
+               0 File(s)              0 bytes
+
+ Directory of G:\ACER\RECOVERY
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+05/19/2005  08:48 AM    <DIR>          CTRLINI
+05/19/2005  08:48 AM    <DIR>          UI
+               0 File(s)              0 bytes
+
+ Directory of G:\ACER\RECOVERY\CTRLINI
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+03/07/2005  12:37 PM             2,140 command.ini
+               1 File(s)          2,140 bytes
+
+ Directory of G:\ACER\RECOVERY\UI
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+05/19/2005  08:48 AM    <DIR>          ALL
+05/19/2005  08:48 AM    <DIR>          DE
+05/19/2005  08:48 AM    <DIR>          EN
+05/19/2005  08:48 AM    <DIR>          ES
+05/19/2005  08:48 AM    <DIR>          FR
+05/19/2005  08:48 AM    <DIR>          IT
+05/19/2005  08:48 AM    <DIR>          JA
+05/19/2005  08:48 AM    <DIR>          NL
+05/19/2005  08:48 AM    <DIR>          PT
+05/19/2005  08:48 AM    <DIR>          SC
+05/19/2005  08:48 AM    <DIR>          SV
+05/19/2005  08:48 AM    <DIR>          TC
+               0 File(s)              0 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\ALL
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+03/09/2004  02:24 PM           124,447 BkGdImg.PCX
+08/01/2002  01:01 PM             1,420 CheckBut.pcx
+02/19/2004  03:29 PM             9,531 Dialogbx.pcx
+02/19/2004  03:37 PM             6,187 Dlgbar.pcx
+02/19/2004  03:30 PM            11,123 DlgMode.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+08/01/2002  12:56 PM            14,699 Dlgresiz.pcx
+03/09/2004  02:31 PM             2,699 enter.pcx
+03/16/2004  01:08 PM             3,828 ICONExit.pcx
+03/15/2004  03:42 PM             3,143 IconExts.pcx
+03/16/2004  12:23 PM             2,920 Iconhdrb.pcx
+01/08/2003  10:21 AM             1,499 LangAR.pcx
+01/08/2003  10:21 AM             1,530 LangCS.pcx
+01/08/2003  10:22 AM             1,412 LangCZ.pcx
+01/08/2003  10:44 AM             1,487 LangDA.pcx
+01/08/2003  10:23 AM             1,562 LangDE.pcx
+01/08/2003  10:59 AM             1,487 LangDK.pcx
+01/14/2002  04:23 AM             1,685 LangEL.pcx
+01/08/2003  10:23 AM             1,579 LangEN.pcx
+06/23/2003  10:05 AM             1,545 LangES.pcx
+01/08/2003  09:42 AM             1,487 LangFI.pcx
+01/08/2003  10:24 AM             1,543 LangFR.pcx
+01/08/2003  10:25 AM             1,520 LangGR.pcx
+01/08/2003  10:26 AM             1,559 LangHE.pcx
+01/08/2003  10:30 AM             1,575 LangHU.pcx
+01/08/2003  10:30 AM             1,593 LangIT.pcx
+01/08/2003  12:44 PM             1,465 LangJA.pcx
+01/08/2003  12:44 PM             1,465 LangJP.pcx
+01/08/2003  10:31 AM             1,510 LangKO.pcx
+01/08/2003  10:31 AM             1,779 LangNL.pcx
+01/08/2003  10:33 AM             1,499 LangNO.pcx
+01/08/2003  10:57 AM             1,507 LangPL.pcx
+01/08/2003  10:12 AM             1,511 LangPO.pcx
+01/08/2003  10:21 AM             1,773 LangPT.pcx
+01/08/2003  10:44 AM             1,617 LangRU.pcx
+01/08/2003  12:45 PM             1,683 LangSC.pcx
+01/08/2003  10:47 AM             1,653 LangSK.pcx
+01/08/2003  11:00 AM             1,730 LangSL.pcx
+01/08/2003  10:55 AM             1,563 LangSP.pcx
+01/08/2003  10:56 AM             1,569 LangSU.pcx
+01/08/2003  10:58 AM             1,540 LangSV.pcx
+01/08/2003  12:43 PM             1,569 LangTC.pcx
+01/08/2003  11:02 AM             1,627 LangTH.pcx
+01/08/2003  11:03 AM             1,715 LangTR.pcx
+01/08/2003  12:43 PM             1,569 LangTW.pcx
+01/08/2003  11:04 AM             1,579 LangUK.pcx
+01/08/2003  11:04 AM             1,579 LangUS.pcx
+01/15/2003  09:26 AM             1,637 LangXC.pcx
+01/08/2003  12:43 PM             1,915 LangZH.pcx
+08/30/2002  01:33 PM             1,194 Pointer.pcx
+03/09/2004  02:31 PM             3,409 scroll.pcx
+03/05/2004  05:12 PM             3,801 SLMenu.pcx
+03/31/2004  08:53 AM             1,228 WarnP.pcx
+02/25/2004  01:35 PM             4,236 WarnP0.pcx
+              54 File(s)        262,733 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\DE
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  10:12 AM             2,342 bartxt.pcx
+03/10/2004  03:08 PM             6,643 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/10/2003  10:13 AM             1,548 cdsts1.pcx
+01/10/2003  10:14 AM             2,309 cdsts2.pcx
+01/10/2003  10:14 AM             2,294 cdsts3.pcx
+02/26/2004  02:59 PM            10,453 Dlgcd1.pcx
+02/26/2004  03:00 PM             8,428 Dlgcd2.pcx
+01/10/2003  10:18 AM             6,847 Dlgcdejt.pcx
+01/10/2003  10:19 AM            10,499 Dlgcdout.pcx
+01/15/2003  10:13 AM             9,327 Dlgdiflg.pcx
+03/08/2004  12:52 PM            10,091 Dlghrb.pcx
+01/10/2003  10:23 AM            12,082 DlghrbM.pcx
+01/10/2003  10:25 AM            11,326 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  10:26 AM             5,640 DlgPatch.pcx
+03/15/2004  04:20 PM             3,269 enter.pcx
+01/10/2003  10:28 AM             9,240 resztxt1.pcx
+01/10/2003  10:31 AM             2,204 resztxt2.pcx
+03/15/2004  04:20 PM             3,478 scroll.pcx
+01/10/2003  10:31 AM             2,112 TxtExit.pcx
+03/17/2005  09:44 AM             5,787 TxtHDRB.pcx
+01/10/2003  10:31 AM             4,678 txtmode1.pcx
+01/10/2003  10:31 AM             4,429 txtmode2.pcx
+              25 File(s)        159,647 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\EN
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+08/30/2002  09:52 AM             1,798 bartxt.pcx
+03/09/2004  01:15 PM             6,549 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/15/2003  10:00 AM             1,758 cdsts1.pcx
+01/15/2003  09:57 AM             2,066 cdsts2.pcx
+01/15/2003  09:58 AM             1,975 cdsts3.pcx
+02/25/2004  02:29 PM            10,755 DlgCD1.pcx
+02/25/2004  02:31 PM             7,927 DlgCD2.pcx
+01/15/2003  10:02 AM             6,261 DlgCDEjt.pcx
+01/15/2003  10:02 AM            10,343 DlgCDout.pcx
+01/15/2003  10:06 AM             6,543 Dlgdiflg.pcx
+03/08/2004  10:10 AM             9,691 Dlghrb.pcx
+01/15/2003  10:16 AM             8,439 DlghrbM.pcx
+01/15/2003  10:16 AM             8,371 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/15/2003  10:17 AM             5,227 Dlgpatch.pcx
+03/09/2004  02:31 PM             2,699 enter.pcx
+08/30/2002  01:25 PM            10,007 resztxt1.pcx
+08/30/2002  12:44 PM             2,290 resztxt2.pcx
+03/09/2004  02:31 PM             3,409 scroll.pcx
+09/04/2002  04:58 PM             1,863 TxtExit.pcx
+03/17/2005  09:45 AM             4,545 TxtHDRB.pcx
+08/30/2002  10:10 AM             4,039 txtmode1.pcx
+08/30/2002  10:10 AM             4,221 txtmode2.pcx
+              25 File(s)        145,397 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\ES
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  12:25 PM             1,764 bartxt.pcx
+03/10/2004  02:53 PM             6,629 Bt_c.pcx
+03/19/2004  05:58 PM             5,485 Bt_y.pcx
+08/29/2002  04:26 PM             1,889 cdsts1.pcx
+08/29/2002  04:28 PM             2,085 cdsts2.pcx
+08/29/2002  04:28 PM             2,825 cdsts3.pcx
+02/26/2004  05:50 PM             9,354 Dlgcd1.pcx
+02/26/2004  05:59 PM             9,446 Dlgcd2.pcx
+01/10/2003  12:35 PM             6,787 Dlgcdejt.pcx
+01/10/2003  12:39 PM            10,551 Dlgcdout.pcx
+01/10/2003  12:43 PM             8,604 Dlgdiflg.pcx
+03/08/2004  12:48 PM             9,613 Dlghrb.pcx
+01/10/2003  12:50 PM             9,294 DlghrbM.pcx
+01/10/2003  12:53 PM             8,979 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  12:55 PM             6,091 DlgPatch.pcx
+03/15/2004  04:10 PM             3,219 enter.pcx
+01/10/2003  01:07 PM            11,991 resztxt1.pcx
+01/10/2003  01:10 PM             2,256 resztxt2.pcx
+03/15/2004  04:10 PM             3,483 scroll.pcx
+01/10/2003  01:10 PM             1,930 TxtExit.pcx
+03/17/2005  09:48 AM             5,323 TxtHDRB.pcx
+01/10/2003  01:10 PM             3,954 txtmode1.pcx
+01/10/2003  01:10 PM             4,040 txtmode2.pcx
+              25 File(s)        153,144 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\FR
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  01:13 PM             1,931 bartxt.pcx
+03/10/2004  03:03 PM             6,600 BT_C.pcx
+03/09/2004  01:12 PM             7,069 BT_Y.pcx
+01/10/2003  01:14 PM             1,538 cdsts1.pcx
+01/10/2003  01:14 PM             2,240 cdsts2.pcx
+01/10/2003  01:15 PM             2,428 cdsts3.pcx
+02/27/2004  09:59 AM             9,579 Dlgcd1.pcx
+02/27/2004  10:07 AM             9,309 DlgCD2.pcx
+01/10/2003  01:18 PM             6,412 DlgCDEjt.pcx
+01/10/2003  01:19 PM            10,666 DlgCDout.pcx
+01/10/2003  01:19 PM             8,612 Dlgdiflg.pcx
+03/08/2004  12:51 PM            10,541 Dlghrb.pcx
+01/10/2003  01:21 PM            12,781 DlghrbM.pcx
+01/10/2003  01:22 PM             9,466 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  01:23 PM             6,162 Dlgpatch.pcx
+03/15/2004  04:17 PM             3,178 enter.pcx
+01/10/2003  01:25 PM            10,513 resztxt1.pcx
+01/10/2003  01:26 PM             2,282 resztxt2.pcx
+03/15/2004  04:17 PM             3,584 scroll.pcx
+01/10/2003  01:26 PM             2,090 TxtExit.pcx
+03/17/2005  09:46 AM             4,939 TxtHDRB.pcx
+01/10/2003  01:26 PM             4,550 txtmode1.pcx
+01/10/2003  01:26 PM             4,377 txtmode2.pcx
+              25 File(s)        158,399 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\IT
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  09:28 AM             1,643 bartxt.pcx
+03/11/2004  08:18 AM             6,598 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/10/2003  09:35 AM             1,546 cdsts1.pcx
+01/10/2003  09:35 AM             1,785 cdsts2.pcx
+01/10/2003  09:35 AM             2,033 cdsts3.pcx
+02/27/2004  12:42 PM             8,254 Dlgcd1.pcx
+02/27/2004  12:44 PM             7,656 DlgCD2.pcx
+01/10/2003  09:36 AM             5,386 DlgCDEjt.pcx
+01/10/2003  09:36 AM             8,658 DlgCDout.pcx
+01/10/2003  09:36 AM             7,654 Dlgdiflg.pcx
+03/08/2004  12:54 PM             9,593 Dlghrb.pcx
+01/10/2003  09:36 AM             9,582 DlghrbM.pcx
+01/10/2003  09:36 AM             8,938 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  09:36 AM             5,146 Dlgpatch.pcx
+03/15/2004  04:05 PM             2,786 enter.pcx
+01/10/2003  09:40 AM             9,113 resztxt1.pcx
+01/10/2003  09:39 AM             2,258 resztxt2.pcx
+03/16/2004  01:16 PM             3,041 scroll.pcx
+10/30/2002  01:35 PM             1,849 TxtExit.pcx
+03/17/2005  09:47 AM             5,423 TxtHDRB.pcx
+01/10/2003  09:32 AM             3,951 txtmode1.pcx
+01/10/2003  09:32 AM             4,310 txtmode2.pcx
+              25 File(s)        141,824 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\JA
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+09/03/2002  09:17 AM             1,465 Bartxt.pcx
+03/11/2004  08:28 AM             6,572 Bt_c.pcx
+03/11/2004  08:21 AM             7,069 Bt_y.pcx
+09/03/2002  09:17 AM             1,559 cdsts1.pcx
+09/03/2002  09:17 AM             1,954 cdsts2.pcx
+09/03/2002  09:16 AM             2,081 cdsts3.pcx
+02/27/2004  01:05 PM             8,033 Dlgcd1.pcx
+02/27/2004  01:06 PM             7,492 Dlgcd2.pcx
+09/03/2002  09:16 AM             5,362 Dlgcdejt.pcx
+09/03/2002  09:17 AM             8,898 Dlgcdout.pcx
+09/03/2002  09:18 AM             5,980 Dlgdiflg.pcx
+03/08/2004  11:00 AM             8,013 Dlghrb.pcx
+09/03/2002  09:18 AM             7,554 DlghrbM.pcx
+09/03/2002  09:18 AM            29,021 DlgLic.pcx
+09/03/2002  09:18 AM             8,648 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+09/03/2002  09:18 AM             5,020 DlgPatch.pcx
+03/11/2004  08:29 AM             2,800 enter.pcx
+09/03/2002  09:18 AM             8,237 resztxt1.pcx
+09/03/2002  09:18 AM             2,317 Resztxt2.pcx
+03/11/2004  08:28 AM             2,996 scroll.pcx
+01/17/2003  01:53 PM             1,939 TxtExit.pcx
+03/17/2005  10:08 AM             4,405 TxtHDRB.pcx
+01/16/2003  03:40 AM             3,089 txtmode1.pcx
+01/16/2003  03:40 AM             3,009 txtmode2.pcx
+              26 File(s)        161,065 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\NL
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  09:43 AM             2,230 bartxt.pcx
+03/10/2004  02:43 PM             6,680 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/10/2003  09:44 AM             1,606 cdsts1.pcx
+01/10/2003  09:45 AM             2,068 cdsts2.pcx
+01/10/2003  09:45 AM             2,175 cdsts3.pcx
+02/27/2004  01:17 PM            10,496 Dlgcd1.pcx
+02/27/2004  01:24 PM             8,977 DlgCD2.pcx
+01/10/2003  09:50 AM             6,434 DlgCDEjt.pcx
+01/10/2003  09:51 AM             9,443 DlgCDout.pcx
+01/10/2003  09:52 AM             7,883 Dlgdiflg.pcx
+03/08/2004  12:47 PM            10,249 Dlghrb.pcx
+01/10/2003  09:53 AM            10,250 DlghrbM.pcx
+01/10/2003  09:54 AM             8,731 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  09:55 AM             6,638 Dlgpatch.pcx
+03/10/2004  02:41 PM             2,847 enter.pcx
+01/10/2003  09:58 AM            11,861 resztxt1.pcx
+01/10/2003  10:01 AM             2,645 resztxt2.pcx
+03/10/2004  02:36 PM             3,302 scroll.pcx
+10/30/2002  03:11 PM             2,216 TxtExit.pcx
+03/17/2005  09:56 AM             5,537 TxtHDRB.pcx
+01/10/2003  09:35 AM             4,312 txtmode1.pcx
+01/10/2003  09:35 AM             4,007 txtmode2.pcx
+              25 File(s)        155,208 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\PT
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/13/2003  10:29 AM             1,639 bartxt.pcx
+03/10/2004  02:45 PM             6,629 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/13/2003  10:31 AM             1,573 cdsts1.pcx
+01/13/2003  10:32 AM             2,371 cdsts2.pcx
+01/13/2003  10:32 AM             2,764 cdsts3.pcx
+02/27/2004  02:32 PM             8,986 Dlgcd1.pcx
+02/27/2004  02:33 PM             8,658 DlgCD2.pcx
+01/13/2003  10:35 AM             6,013 DlgCDEjt.pcx
+01/13/2003  10:35 AM             9,244 DlgCDout.pcx
+01/13/2003  10:36 AM             7,895 Dlgdiflg.pcx
+03/08/2004  10:41 AM             9,769 Dlghrb.pcx
+01/13/2003  10:37 AM            11,639 DlghrbM.pcx
+01/13/2003  10:38 AM             8,930 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/13/2003  10:39 AM             5,050 Dlgpatch.pcx
+03/10/2004  02:46 PM             2,968 enter.pcx
+01/13/2003  10:42 AM             9,985 resztxt1.pcx
+01/13/2003  10:46 AM             2,254 resztxt2.pcx
+03/19/2004  06:00 PM             2,907 scroll.pcx
+12/18/2002  01:01 PM             1,901 TxtExit.pcx
+03/17/2005  09:50 AM             5,195 TxtHDRB.pcx
+01/13/2003  10:50 AM             4,108 txtmode1.pcx
+01/13/2003  10:51 AM             4,299 txtmode2.pcx
+              25 File(s)        149,398 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\SC
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+09/03/2002  09:25 AM             1,719 bartxt.pcx
+03/11/2004  09:22 AM             6,496 Bt_c.pcx
+03/11/2004  09:22 AM             7,086 Bt_y.pcx
+09/03/2002  09:25 AM             1,404 cdsts1.pcx
+09/03/2002  09:25 AM             1,780 cdsts2.pcx
+09/03/2002  09:25 AM             1,975 cdsts3.pcx
+02/27/2004  02:49 PM             7,182 Dlgcd1.pcx
+02/27/2004  02:50 PM             6,768 DlgCD2.pcx
+09/03/2002  09:25 AM             5,596 DlgCDEjt.pcx
+09/03/2002  09:25 AM             6,900 DlgCDout.pcx
+09/03/2002  09:25 AM             6,514 Dlgdiflg.pcx
+03/08/2004  12:55 PM             8,531 Dlghrb.pcx
+09/03/2002  09:24 AM             9,266 DlghrbM.pcx
+09/03/2002  09:24 AM             6,348 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+09/03/2002  09:24 AM             5,024 Dlgpatch.pcx
+03/15/2004  03:52 PM             2,612 enter.pcx
+09/03/2002  09:24 AM             7,655 resztxt1.pcx
+09/03/2002  09:24 AM             2,119 resztxt2.pcx
+03/16/2004  01:15 PM             2,720 scroll.pcx
+03/17/2005  10:31 AM             1,975 TxtExit.pcx
+03/17/2005  10:35 AM             3,777 TxtHDRB.pcx
+09/11/2002  12:43 PM             3,633 txtmode1.pcx
+09/11/2002  12:43 PM             3,281 txtmode2.pcx
+              25 File(s)        127,913 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\SV
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+01/10/2003  08:54 AM             1,667 bartxt.pcx
+03/11/2004  09:03 AM             6,548 Bt_c.pcx
+03/09/2004  01:12 PM             7,069 Bt_y.pcx
+01/10/2003  08:54 AM             1,514 cdsts1.pcx
+01/10/2003  08:54 AM             2,006 cdsts2.pcx
+01/10/2003  08:55 AM             2,210 cdsts3.pcx
+02/27/2004  02:52 PM             8,046 Dlgcd1.pcx
+02/27/2004  02:52 PM             6,010 DlgCD2.pcx
+01/10/2003  08:55 AM             5,622 DlgCDEjt.pcx
+01/10/2003  08:58 AM             7,994 DlgCDout.pcx
+01/10/2003  08:59 AM             7,636 Dlgdiflg.pcx
+03/08/2004  12:40 PM            10,505 Dlghrb.pcx
+01/10/2003  08:59 AM            10,680 DlghrbM.pcx
+01/10/2003  09:00 AM            28,483 Dlglic.pcx
+01/10/2003  09:00 AM             9,610 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+01/10/2003  09:00 AM             4,858 Dlgpatch.pcx
+03/11/2004  09:05 AM             2,743 enter.pcx
+01/10/2003  09:00 AM             9,481 resztxt1.pcx
+01/10/2003  09:00 AM             2,349 resztxt2.pcx
+03/11/2004  09:05 AM             3,603 scroll.pcx
+01/10/2003  09:01 AM             2,104 TxtExit.pcx
+03/17/2005  09:59 AM             5,121 TxtHDRB.pcx
+01/10/2003  09:23 AM             4,468 txtmode1.pcx
+01/10/2003  09:25 AM             4,511 txtmode2.pcx
+              26 File(s)        172,390 bytes
+
+ Directory of G:\ACER\RECOVERY\UI\TC
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+09/10/2002  01:18 PM             1,969 bartxt.pcx
+03/11/2004  09:25 AM             6,496 Bt_c.pcx
+03/11/2004  09:26 AM             7,134 Bt_y.pcx
+01/15/2003  10:46 AM             1,627 cdsts1.pcx
+01/15/2003  10:47 AM             1,639 cdsts2.pcx
+01/15/2003  10:47 AM             1,642 cdsts3.pcx
+02/25/2004  02:37 PM             8,404 Dlgcd1.pcx
+02/25/2004  02:38 PM             5,138 Dlgcd2.pcx
+09/10/2002  01:17 PM             3,923 Dlgcdejt.pcx
+09/10/2002  01:17 PM             8,888 Dlgcdout.pcx
+09/10/2002  01:17 PM             7,470 Dlgdiflg.pcx
+03/08/2004  12:57 PM             8,355 Dlghrb.pcx
+09/10/2002  01:22 PM             7,810 DlghrbM.pcx
+09/10/2002  01:22 PM             7,398 DlgNoHDD.pcx
+01/07/2003  04:13 PM             8,801 Dlgnolag.pcx
+01/07/2003  04:12 PM             8,751 Dlgnopn.pcx
+09/10/2002  01:21 PM             5,098 DlgPatch.pcx
+03/15/2004  03:52 PM             2,635 enter.pcx
+09/10/2002  01:31 PM            11,051 resztxt1.pcx
+09/10/2002  01:31 PM             3,507 resztxt2.pcx
+03/16/2004  01:14 PM             2,664 scroll.pcx
+03/17/2005  10:15 AM             2,251 TxtExit.pcx
+03/17/2005  10:40 AM             3,939 TxtHDRB.pcx
+09/11/2002  03:42 PM             4,439 txtmode1.pcx
+09/11/2002  12:54 PM             4,421 txtmode2.pcx
+              25 File(s)        135,450 bytes
+
+ Directory of G:\ACER\TOOLS
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+04/19/2001  11:10 PM                 1 A
+06/25/2004  04:20 PM               508 AcerLang.txt
+06/25/2004  04:01 PM             1,946 AddLang.bat
+06/23/2004  03:20 PM               199 ara.ini
+08/24/1996  03:11 AM            15,252 ATTRIB.EXE
+11/08/2000  10:52 AM            20,733 Biosbsu.exe
+04/01/1998  09:49 PM               577 CDOPEN.COM
+05/10/2004  12:22 PM            10,889 CHGBSU.EXE
+01/08/2002  11:05 AM             9,859 chkacer.exe
+10/06/1999  05:10 AM            21,503 DBIOS.EXE
+08/18/1998  12:09 PM            18,087 EDITINI.EXE
+07/05/1999  09:37 AM               683 EJECT.EXE
+11/17/1996  09:46 PM            49,623 FORMAT.COM
+04/19/2001  03:45 AM           275,896 gdisk.exe
+06/09/2004  11:22 AM               142 heb.ini
+01/09/2004  10:23 AM           311,296 LaunchRS.ocx
+08/24/1994  02:44 PM            87,554 MOUSE.EXE
+06/24/1998  11:34 PM             1,029 MOUSEDRV.INI
+04/20/1990  09:20 AM             4,405 REBOOT.EXE
+08/28/2002  11:39 AM           385,024 RegActvX.exe
+11/07/2003  03:22 PM         1,403,284 Restore.exe
+08/28/2002  04:40 AM           202,637 SHELEXEC.EXE
+02/28/1998  12:19 AM            45,379 SMARTDRV.EXE
+11/07/2003  04:06 PM            36,280 SPAN.BMP
+05/19/2005  10:09 AM             1,441 STLink.INI
+06/09/2004  11:21 AM               142 tha.ini
+06/18/1998  12:01 PM             3,878 XCOPY.EXE
+08/24/1996  03:11 AM            41,472 XCOPY32.EXE
+05/05/1999  02:22 PM            41,472 XCOPY32.MOD
+06/30/2004  04:31 PM               468 xphara.ini
+04/20/2004  10:07 AM               456 xphheb.ini
+06/08/2004  03:46 PM               465 xphtha.ini
+06/30/2004  04:31 PM               464 xppara.ini
+06/08/2004  10:38 AM               461 xppcan.ini
+05/11/2004  11:26 PM               456 xppheb.ini
+06/08/2004  10:38 AM               461 xpptha.ini
+02/25/2004  01:07 PM                 3 Y
+              37 File(s)      2,994,425 bytes
+
+ Directory of G:\ACER\Wallpapr
+
+05/19/2005  08:48 AM    <DIR>          .
+05/19/2005  08:48 AM    <DIR>          ..
+08/26/2004  09:40 AM         3,932,214 Acer.bmp
+               1 File(s)      3,932,214 bytes
+
+ Directory of G:\APP
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  10:27 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          CDMAKER
+05/19/2005  08:47 AM    <DIR>          NAV
+05/19/2005  08:47 AM    <DIR>          PowerDVD
+05/19/2005  08:47 AM    <DIR>          SunJVM
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\CDMAKER
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+11/13/2002  11:12 AM            32,256 addfilter.exe
+05/19/2005  08:47 AM    <DIR>          BUN
+03/08/2005  05:26 PM            16,896 BurnRights.exe
+10/15/2004  02:18 PM            21,912 CDDVD-MAKER_TITLE.jpg
+03/17/2005  03:57 PM                12 CDMaker.ver
+03/16/2005  08:04 PM               870 CDMKR32.INI
+05/16/2005  11:33 AM           459,638 Cdrw32.bdb
+03/17/2005  03:53 PM        64,131,727 Data1.cab
+04/26/2002  11:39 AM           226,816 htvcdsvcd.ax
+08/30/2004  01:44 PM            14,014 logo_oem.jpg
+02/28/2005  10:42 AM            53,248 NtiAspi.dll
+03/17/2005  03:55 PM        12,754,432 NTI CD & DVD-Maker.msi
+05/16/2005  11:34 AM            40,131 Readme.txt
+03/17/2005  03:55 PM         7,092,881 setup.exe
+03/07/2005  11:14 AM             1,858 setup.iss
+03/07/2005  11:03 AM                33 setup.log
+12/06/2004  01:47 PM           518,456 splash01.bmp
+12/08/2004  10:28 AM             9,082 UPGRADE.htm
+05/15/2001  07:11 PM           386,952 WMDMDist.exe
+05/15/2001  07:11 PM         2,041,744 WMFADist.exe
+05/15/2001  07:11 PM         2,447,000 WMFDist.exe
+              20 File(s)     90,249,958 bytes
+
+ Directory of G:\APP\CDMAKER\BUN
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+12/06/2004  02:56 PM           518,456 bunsplash.bmp
+03/17/2005  03:58 PM             2,527 CDBAK32.INI
+05/16/2005  11:33 AM           459,638 Cdrw32.bdb
+03/17/2005  03:42 PM        40,295,306 Data1.cab
+02/28/2005  10:42 AM            53,248 NtiAspi.dll
+03/17/2005  04:40 PM         4,976,884 NTI Backup NOW! 4.msi
+05/16/2005  11:33 AM            41,969 Readme.txt
+06/06/2003  09:23 AM             4,608 Setup.BJF
+03/17/2005  04:40 PM         6,029,663 setup.exe
+03/07/2005  11:13 AM               947 setup.iss
+05/17/2005  05:05 PM               126 setup.log
+              11 File(s)     52,383,372 bytes
+
+ Directory of G:\APP\NAV
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          EN
+05/19/2005  08:47 AM    <DIR>          SC
+05/19/2005  08:47 AM    <DIR>          TC
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\NAV\EN
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/18/2005  04:42 PM        30,393,025 nav.exe
+               1 File(s)     30,393,025 bytes
+
+ Directory of G:\APP\NAV\SC
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/18/2005  04:43 PM        31,645,537 NAV.exe
+               1 File(s)     31,645,537 bytes
+
+ Directory of G:\APP\NAV\TC
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/18/2005  04:43 PM        31,846,929 NAV.exe
+               1 File(s)     31,846,929 bytes
+
+ Directory of G:\APP\PowerDVD
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+01/13/2005  07:44 PM               199 CLAud.sim
+01/13/2005  11:16 PM               467 Custom.ini
+01/13/2005  07:44 PM         2,145,968 data1.cab
+01/13/2005  07:44 PM            78,427 data1.hdr
+01/13/2005  07:44 PM        23,747,978 data2.cab
+08/13/2004  06:20 PM               352 Guid.reg
+05/19/2005  08:47 AM    <DIR>          HTML
+07/25/2002  10:07 PM           346,602 ikernel.ex_
+01/13/2005  07:45 PM               265 info.ini
+01/13/2005  07:42 PM               205 iPower.txt
+01/13/2005  07:44 PM               417 layout.bin
+09/01/2004  06:10 AM               524 MCE_Sym.reg
+09/17/2003  10:57 PM                94 MPackCaps.reg
+01/13/2005  07:44 PM               199 PowerDVD.sim
+05/19/2005  08:47 AM    <DIR>          Readme
+11/28/2000  12:23 AM           166,400 Setup.exe
+01/13/2005  07:44 PM               422 Setup.ini
+01/13/2005  07:44 PM           319,777 setup.inx
+01/13/2005  07:45 PM               138 ureg.ini
+              17 File(s)     26,808,434 bytes
+
+ Directory of G:\APP\PowerDVD\HTML
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          cht
+05/19/2005  08:47 AM    <DIR>          enu
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          chinese
+07/13/2004  05:24 PM            36,751 e-training.css
+05/19/2005  08:47 AM    <DIR>          english
+01/24/2003  09:00 PM                92 ipower_1.txt
+07/13/2004  05:24 PM             5,251 new.css
+08/06/2004  11:15 PM            64,745 start.htm
+               4 File(s)        106,839 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          2004-main-page
+05/19/2005  08:47 AM    <DIR>          dv-entertainment
+05/19/2005  08:47 AM    <DIR>          e-training
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\2004-main-page
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          images
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\2004-main-page\images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          inc
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\2004-main-page\images\inc
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,559 bottom.gif
+07/13/2004  05:24 PM               454 top-on_12.gif
+07/13/2004  05:24 PM               487 top-on_13.gif
+07/13/2004  05:24 PM               459 top-on_14.gif
+07/13/2004  05:24 PM               430 top-on_08.gif
+07/13/2004  05:24 PM               511 top-on_09.gif
+07/13/2004  05:24 PM               465 top-on_10.gif
+07/13/2004  05:24 PM               479 top-on_11.gif
+07/13/2004  05:24 PM             1,959 top_01.gif
+07/13/2004  05:24 PM               833 top_06.gif
+07/13/2004  05:24 PM               623 top_08.gif
+07/13/2004  05:24 PM               764 top_09.gif
+07/13/2004  05:24 PM               667 top_10.gif
+07/13/2004  05:24 PM               806 top_11.gif
+07/13/2004  05:24 PM               796 top_12.gif
+07/13/2004  05:24 PM               854 top_13.gif
+07/13/2004  05:24 PM               818 top_14.gif
+              17 File(s)         12,964 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          images
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               344 close.gif
+05/19/2005  08:47 AM    <DIR>          graphics
+07/13/2004  05:24 PM               470 heading-tutorials.gif
+07/13/2004  05:24 PM                96 line-vertical-dots.gif
+05/19/2005  08:47 AM    <DIR>          links
+07/13/2004  05:24 PM               434 more-text.gif
+07/13/2004  05:24 PM                90 popup-bg.gif
+07/13/2004  05:24 PM                99 popup-down.gif
+07/13/2004  05:24 PM               100 popup-top.gif
+05/19/2005  08:47 AM    <DIR>          products
+05/19/2005  08:47 AM    <DIR>          update
+               7 File(s)          1,633 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\graphics
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,293 i-power.gif
+07/13/2004  05:24 PM             1,441 i-power2.gif
+               2 File(s)          2,734 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\links
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               389 link-off_07.gif
+07/13/2004  05:24 PM               980 link-on_01.gif
+07/13/2004  05:24 PM             1,030 link-on_02.gif
+07/13/2004  05:24 PM             1,054 link-on_06.gif
+07/13/2004  05:24 PM               952 link-on_03.gif
+07/13/2004  05:24 PM               794 link-on_04.gif
+07/13/2004  05:24 PM               809 link-on_07.gif
+07/13/2004  05:24 PM               343 link-off_02.gif
+07/13/2004  05:24 PM               378 link-off_03.gif
+07/13/2004  05:24 PM               358 link-off_04.gif
+07/13/2004  05:24 PM               413 link-off_06.gif
+              11 File(s)          7,500 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          mediashow
+05/19/2005  08:47 AM    <DIR>          powercinema
+05/19/2005  08:47 AM    <DIR>          powerdvd
+05/19/2005  08:47 AM    <DIR>          powerdirector
+05/19/2005  08:47 AM    <DIR>          powerproducer
+05/19/2005  08:47 AM    <DIR>          powervcr
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\mediashow
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             3,641 ms.gif
+               1 File(s)          3,641 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\powercinema
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             9,276 pcm.jpg
+               1 File(s)          9,276 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\powerdvd
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             4,343 dvd5.gif
+               1 File(s)          4,343 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\powerdirector
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             7,244 dir.gif
+               1 File(s)          7,244 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\powerproducer
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             3,978 pp2.gif
+               1 File(s)          3,978 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\products\powervcr
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             3,254 vcr.gif
+               1 File(s)          3,254 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\dv-entertainment\images\update
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               995 buy-update.gif
+07/13/2004  05:24 PM             1,029 e-paper.gif
+07/13/2004  05:24 PM            15,676 index-top.gif
+               3 File(s)         17,700 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\chinese\e-training
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,276 e-training-css.css
+               1 File(s)          1,276 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\english
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          dv-entertainment
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\english\dv-entertainment
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          update-img
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\cht\english\dv-entertainment\update-img
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               618 go.gif
+               1 File(s)            618 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          dynamic
+05/19/2005  08:47 AM    <DIR>          english
+01/24/2003  09:00 PM                90 ipower_1.txt
+07/13/2004  05:24 PM             5,251 new.css
+07/13/2004  05:24 PM            70,236 start.htm
+               3 File(s)         75,577 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\dynamic
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          english
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\dynamic\english
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          dv-entertainment
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\dynamic\english\dv-entertainment
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          images
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\dynamic\english\dv-entertainment\images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          products
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\dynamic\english\dv-entertainment\images\products
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             4,273 dir-e.jpg
+07/13/2004  05:24 PM             4,343 dvd5.gif
+07/13/2004  05:24 PM             4,494 pcm.jpg
+07/13/2004  05:24 PM             3,831 pp2.gif
+               4 File(s)         16,941 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          2004-main-page
+05/19/2005  08:47 AM    <DIR>          dv-entertainment
+05/19/2005  08:47 AM    <DIR>          e-training
+05/19/2005  08:47 AM    <DIR>          membership_program
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\2004-main-page
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          images
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\2004-main-page\images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          inc
+07/13/2004  05:24 PM               591 top_05.gif
+               1 File(s)            591 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\2004-main-page\images\inc
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,212 bottom.gif
+07/13/2004  05:24 PM               564 top-on_12.gif
+07/13/2004  05:24 PM               410 top-on_13.gif
+07/13/2004  05:24 PM               362 top-on_14.gif
+07/13/2004  05:24 PM               412 top-on_08.gif
+07/13/2004  05:24 PM               479 top-on_09.gif
+07/13/2004  05:24 PM               418 top-on_10.gif
+07/13/2004  05:24 PM               477 top-on_11.gif
+07/13/2004  05:24 PM             1,332 top_01.gif
+07/13/2004  05:24 PM               425 top_08.gif
+07/13/2004  05:24 PM               489 top_09.gif
+07/13/2004  05:24 PM               429 top_10.gif
+07/13/2004  05:24 PM               488 top_11.gif
+07/13/2004  05:24 PM               576 top_12.gif
+07/13/2004  05:24 PM               421 top_13.gif
+07/13/2004  05:24 PM               374 top_14.gif
+              16 File(s)          8,868 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          images
+05/19/2005  08:47 AM    <DIR>          update-img
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment\images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          banners
+07/13/2004  05:24 PM               409 close.gif
+07/13/2004  05:24 PM               470 heading-tutorials.gif
+07/13/2004  05:24 PM                96 line-vertical-dots.gif
+05/19/2005  08:47 AM    <DIR>          links
+07/13/2004  05:24 PM                90 popup-bg.gif
+07/13/2004  05:24 PM                99 popup-down.gif
+07/13/2004  05:24 PM               100 popup-top.gif
+05/19/2005  08:47 AM    <DIR>          products
+07/13/2004  05:24 PM               430 whatisit-01.gif
+               7 File(s)          1,694 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment\images\banners
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,351 i-power-01.gif
+07/13/2004  05:24 PM             1,569 i-power-02.gif
+               2 File(s)          2,920 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment\images\links
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,231 link-on_02.gif
+07/13/2004  05:24 PM             1,631 link-on_06.gif
+07/13/2004  05:24 PM             1,353 link-on_04.gif
+07/13/2004  05:24 PM             1,390 link-on_07.gif
+07/13/2004  05:24 PM               285 link-off_02.gif
+07/13/2004  05:24 PM               486 link-off_04.gif
+07/13/2004  05:24 PM               533 link-off_06.gif
+07/13/2004  05:24 PM               417 link-off_07.gif
+               8 File(s)          7,326 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment\images\products
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             4,064 mshow.jpg
+07/13/2004  05:24 PM             3,402 vcr.jpg
+               2 File(s)          7,466 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\dv-entertainment\update-img
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               352 bg-right.jpg
+07/13/2004  05:24 PM             1,022 buy-update.gif
+07/13/2004  05:24 PM               618 go.gif
+07/13/2004  05:24 PM            15,215 index-top.gif
+07/13/2004  05:24 PM             1,276 newsletter.gif
+07/13/2004  05:24 PM             1,148 volume-license.gif
+               6 File(s)         19,631 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\e-training
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM             1,319 e-training-css.css
+               1 File(s)          1,319 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\membership_program
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          member_area
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\membership_program\member_area
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          Images
+               0 File(s)              0 bytes
+
+ Directory of G:\APP\PowerDVD\HTML\enu\english\membership_program\member_area\Images
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+07/13/2004  05:24 PM               555 top_3.gif
+               1 File(s)            555 bytes
+
+ Directory of G:\APP\PowerDVD\Readme
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+06/30/2004  08:57 PM            18,336 readchs.htm
+06/30/2004  09:21 PM            17,851 readcht.htm
+06/02/2003  02:26 PM            16,705 readCsy.htm
+06/02/2003  02:03 AM            16,370 readdan.htm
+06/30/2004  11:25 PM            18,495 readdeu.htm
+05/31/2003  08:29 PM            17,972 readEll.htm
+09/29/2003  10:25 PM            16,876 readenu.htm
+06/30/2004  10:58 PM            18,507 readesp.htm
+05/30/2003  10:43 PM            16,257 readFin.htm
+06/30/2004  11:07 PM            18,971 readfra.htm
+06/02/2003  02:23 AM            17,860 readFrc.htm
+07/08/2003  09:08 PM            16,999 readHun.htm
+06/30/2004  11:09 PM            18,464 readita.htm
+08/23/2004  11:25 PM            24,684 readjpn.htm
+05/20/2003  06:06 PM            15,352 readkor.htm
+06/30/2004  11:14 PM            17,953 readnld.htm
+06/02/2003  06:28 AM            16,399 readNor.htm
+06/02/2003  07:25 AM            17,748 readPlk.htm
+06/02/2003  03:57 AM            16,950 readPtb.htm
+06/02/2003  05:00 AM            17,304 readPtg.htm
+06/02/2003  03:12 PM            17,101 readRus.htm
+06/02/2003  01:11 PM            17,054 readSky.htm
+06/02/2003  01:45 PM            15,624 readslv.htm
+06/02/2003  04:46 PM            16,295 readSve.htm
+05/20/2003  06:07 PM            15,783 readTha.htm
+06/02/2003  04:50 PM            16,404 readTrk.htm
+              26 File(s)        454,314 bytes
+
+ Directory of G:\APP\SunJVM
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+04/07/2005  09:11 AM        15,991,392 jre15020.exe
+               1 File(s)     15,991,392 bytes
+
+ Directory of G:\Book
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  10:27 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          adobe
+05/19/2005  08:46 AM    <DIR>          Guide
+               0 File(s)              0 bytes
+
+ Directory of G:\Book\adobe
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          EN
+05/19/2005  08:47 AM    <DIR>          SC
+05/19/2005  08:47 AM    <DIR>          TC
+               0 File(s)              0 bytes
+
+ Directory of G:\Book\adobe\EN
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+04/19/2005  10:05 AM        32,139,712 setup.exe
+               1 File(s)     32,139,712 bytes
+
+ Directory of G:\Book\adobe\SC
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+04/19/2005  10:05 AM        47,935,770 setup.exe
+               1 File(s)     47,935,770 bytes
+
+ Directory of G:\Book\adobe\TC
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:47 AM    <DIR>          ..
+04/19/2005  10:04 AM        43,259,947 setup.exe
+               1 File(s)     43,259,947 bytes
+
+ Directory of G:\Book\Guide
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:47 AM    <DIR>          CA
+05/19/2005  08:46 AM    <DIR>          CS
+05/19/2005  08:46 AM    <DIR>          DA
+05/19/2005  08:46 AM    <DIR>          DE
+05/19/2005  08:46 AM    <DIR>          EL
+05/19/2005  08:46 AM    <DIR>          EN
+05/19/2005  08:46 AM    <DIR>          ES
+05/19/2005  08:46 AM    <DIR>          FI
+05/19/2005  08:46 AM    <DIR>          FR
+05/19/2005  08:46 AM    <DIR>          HU
+05/19/2005  08:46 AM    <DIR>          IN
+05/19/2005  08:46 AM    <DIR>          IT
+05/19/2005  08:46 AM    <DIR>          NL
+05/19/2005  08:46 AM    <DIR>          NO
+05/19/2005  08:46 AM    <DIR>          PL
+05/19/2005  08:46 AM    <DIR>          PT
+05/19/2005  08:46 AM    <DIR>          RU
+05/19/2005  08:46 AM    <DIR>          SC
+05/19/2005  08:46 AM    <DIR>          SV
+05/19/2005  08:46 AM    <DIR>          TC
+05/19/2005  08:46 AM    <DIR>          ZH
+               0 File(s)              0 bytes
+
+ Directory of G:\Book\Guide\CA
+
+05/19/2005  08:47 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           483,935 AcerPowe.pdf
+03/31/2005  01:15 PM           486,494 Aspire.pdf
+               2 File(s)        970,429 bytes
+
+ Directory of G:\Book\Guide\CS
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           833,964 AcerPowe.pdf
+03/31/2005  01:14 PM           833,993 Aspire.pdf
+               2 File(s)      1,667,957 bytes
+
+ Directory of G:\Book\Guide\DA
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           478,752 AcerPowe.pdf
+03/31/2005  01:14 PM           477,487 Aspire.pdf
+               2 File(s)        956,239 bytes
+
+ Directory of G:\Book\Guide\DE
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           477,595 AcerPowe.pdf
+03/31/2005  01:14 PM           480,018 Aspire.pdf
+               2 File(s)        957,613 bytes
+
+ Directory of G:\Book\Guide\EL
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           849,295 AcerPowe.pdf
+03/31/2005  01:15 PM           849,296 Aspire.pdf
+               2 File(s)      1,698,591 bytes
+
+ Directory of G:\Book\Guide\EN
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           474,492 AcerPowe.pdf
+03/31/2005  01:14 PM           477,085 Aspire.pdf
+               2 File(s)        951,577 bytes
+
+ Directory of G:\Book\Guide\ES
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           407,071 AcerPowe.pdf
+03/31/2005  01:14 PM           409,572 Aspire.pdf
+               2 File(s)        816,643 bytes
+
+ Directory of G:\Book\Guide\FI
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           746,137 AcerPowe.pdf
+03/31/2005  01:15 PM           745,858 Aspire.pdf
+               2 File(s)      1,491,995 bytes
+
+ Directory of G:\Book\Guide\FR
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           483,935 AcerPowe.pdf
+03/31/2005  01:15 PM           486,494 Aspire.pdf
+               2 File(s)        970,429 bytes
+
+ Directory of G:\Book\Guide\HU
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           798,438 AcerPowe.pdf
+03/31/2005  01:15 PM           798,448 Aspire.pdf
+               2 File(s)      1,596,886 bytes
+
+ Directory of G:\Book\Guide\IN
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           447,461 AcerPowe.pdf
+03/31/2005  01:15 PM           446,938 Aspire.pdf
+               2 File(s)        894,399 bytes
+
+ Directory of G:\Book\Guide\IT
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           484,570 AcerPowe.pdf
+03/31/2005  01:15 PM           487,071 Aspire.pdf
+               2 File(s)        971,641 bytes
+
+ Directory of G:\Book\Guide\NL
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           476,875 AcerPowe.pdf
+03/31/2005  01:14 PM           479,510 Aspire.pdf
+               2 File(s)        956,385 bytes
+
+ Directory of G:\Book\Guide\NO
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           737,755 AcerPowe.pdf
+03/31/2005  01:15 PM           737,678 Aspire.pdf
+               2 File(s)      1,475,433 bytes
+
+ Directory of G:\Book\Guide\PL
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           829,096 Acerpowe.pdf
+03/31/2005  01:15 PM           829,049 Aspire.pdf
+               2 File(s)      1,658,145 bytes
+
+ Directory of G:\Book\Guide\PT
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           565,729 AcerPowe.pdf
+03/31/2005  01:14 PM           568,173 Aspire.pdf
+               2 File(s)      1,133,902 bytes
+
+ Directory of G:\Book\Guide\RU
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           852,121 AcerPowe.pdf
+03/31/2005  01:15 PM           852,122 Aspire.pdf
+               2 File(s)      1,704,243 bytes
+
+ Directory of G:\Book\Guide\SC
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/28/2005  04:13 AM           585,056 AcerPowe.pdf
+04/25/2005  10:07 AM           575,775 Aspire.pdf
+               2 File(s)      1,160,831 bytes
+
+ Directory of G:\Book\Guide\SV
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/31/2005  01:14 PM           474,389 AcerPowe.pdf
+03/31/2005  01:15 PM           476,953 Aspire.pdf
+               2 File(s)        951,342 bytes
+
+ Directory of G:\Book\Guide\TC
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+04/25/2005  09:33 AM           660,218 AcerPowe.pdf
+04/25/2005  09:50 AM           662,791 Aspire.pdf
+               2 File(s)      1,323,009 bytes
+
+ Directory of G:\Book\Guide\ZH
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+04/25/2005  09:33 AM           660,218 AcerPowe.pdf
+04/25/2005  09:50 AM           662,791 Aspire.pdf
+               2 File(s)      1,323,009 bytes
+
+ Directory of G:\Drivers
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  10:27 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          AGP
+05/19/2005  08:46 AM    <DIR>          AUDIO
+05/19/2005  08:46 AM    <DIR>          LAN
+05/19/2005  08:46 AM    <DIR>          MODEM
+05/19/2005  08:46 AM    <DIR>          VGA
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          AGP
+03/18/2005  02:47 PM               112 DATA.TAG
+03/18/2005  02:47 PM             2,085 data1.cab
+03/18/2005  02:47 PM             4,525 lang.dat
+03/18/2005  02:47 PM               353 layout.bin
+03/18/2005  02:47 PM               417 os.dat
+03/18/2005  02:47 PM                 8 setup-s.bat
+03/18/2005  02:47 PM            60,416 SETUP.EXE
+03/18/2005  02:47 PM               201 SETUP.INI
+03/18/2005  02:47 PM            81,036 setup.ins
+04/12/2005  01:28 PM               351 setup.iss
+03/18/2005  02:47 PM               377 setup.lid
+05/19/2005  08:46 AM    <DIR>          setupdir
+05/19/2005  08:46 AM    <DIR>          SISfiles
+05/19/2005  08:46 AM    <DIR>          USB
+03/18/2005  02:47 PM           290,733 _INST32I.EX_
+03/18/2005  02:47 PM             8,704 _ISDEL.EXE
+03/18/2005  02:48 PM         4,580,297 _sys1.cab
+03/18/2005  02:47 PM            75,421 _user1.cab
+              15 File(s)      5,105,036 bytes
+
+ Directory of G:\Drivers\AGP\AGP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          AGPUtil
+05/19/2005  08:46 AM    <DIR>          current
+05/19/2005  08:46 AM    <DIR>          htpatch
+05/19/2005  08:46 AM    <DIR>          old
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\AGP\AGPUtil
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM           110,592 AGPutil.exe
+03/18/2005  02:48 PM            45,056 WinIo.dll
+03/18/2005  02:48 PM             3,072 WinIo.sys
+03/18/2005  02:48 PM             5,174 WINIO.VXD
+               4 File(s)        163,894 bytes
+
+ Directory of G:\Drivers\AGP\AGP\current
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WIN2000
+05/19/2005  08:46 AM    <DIR>          WIN98
+05/19/2005  08:46 AM    <DIR>          WINME
+05/19/2005  08:46 AM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\AGP\current\WIN2000
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,772 sisagp.cat
+03/18/2005  02:48 PM             2,509 sisagp.inf
+03/18/2005  02:48 PM            26,368 sisagpx.sys
+               3 File(s)         36,649 bytes
+
+ Directory of G:\Drivers\AGP\AGP\current\WIN98
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,770 sisagp.cat
+03/18/2005  02:48 PM            10,544 sisagp.inf
+03/18/2005  02:48 PM            12,872 SISAGP.PCI
+               3 File(s)         31,186 bytes
+
+ Directory of G:\Drivers\AGP\AGP\current\WINME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,770 sisagp.cat
+03/18/2005  02:48 PM            10,568 sisagp.inf
+03/18/2005  02:48 PM            12,872 SISAGP.PCI
+               3 File(s)         31,210 bytes
+
+ Directory of G:\Drivers\AGP\AGP\current\WINXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,768 sisagp.cat
+03/18/2005  02:48 PM             2,507 sisagp.inf
+03/18/2005  02:48 PM            36,992 sisagpx.sys
+               3 File(s)         47,267 bytes
+
+ Directory of G:\Drivers\AGP\AGP\htpatch
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            90,112 HTinst.exe
+03/18/2005  02:48 PM            28,672 HTpatch.exe
+03/18/2005  02:48 PM            90,112 HTuninst.exe
+03/18/2005  02:48 PM            45,056 WinIo.dll
+03/18/2005  02:48 PM             3,072 WinIo.sys
+               5 File(s)        257,024 bytes
+
+ Directory of G:\Drivers\AGP\AGP\old
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WIN2000
+05/19/2005  08:46 AM    <DIR>          WIN98
+05/19/2005  08:46 AM    <DIR>          WINME
+05/19/2005  08:46 AM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\AGP\old\WIN2000
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,260 sisagp.cat
+03/18/2005  02:48 PM             3,015 sisagp.inf
+03/18/2005  02:48 PM            25,414 sisagpx.sys
+               3 File(s)         35,689 bytes
+
+ Directory of G:\Drivers\AGP\AGP\old\WIN98
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,258 sisagp.cat
+03/18/2005  02:48 PM             7,456 sisagp.inf
+03/18/2005  02:48 PM            13,136 SISAGP.pci
+               3 File(s)         27,850 bytes
+
+ Directory of G:\Drivers\AGP\AGP\old\WINME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,258 sisagp.cat
+03/18/2005  02:48 PM             7,427 sisagp.inf
+03/18/2005  02:48 PM            13,136 SISAGP.pci
+               3 File(s)         27,821 bytes
+
+ Directory of G:\Drivers\AGP\AGP\old\WINXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             7,256 sisagp.cat
+03/18/2005  02:48 PM             3,013 sisagp.inf
+03/18/2005  02:48 PM            29,312 sisagpx.sys
+               3 File(s)         39,581 bytes
+
+ Directory of G:\Drivers\AGP\setupdir
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          0003
+05/19/2005  08:46 AM    <DIR>          0005
+05/19/2005  08:46 AM    <DIR>          0006
+05/19/2005  08:46 AM    <DIR>          0007
+05/19/2005  08:46 AM    <DIR>          0008
+05/19/2005  08:46 AM    <DIR>          0009
+05/19/2005  08:46 AM    <DIR>          000a
+05/19/2005  08:46 AM    <DIR>          000b
+05/19/2005  08:46 AM    <DIR>          000e
+05/19/2005  08:46 AM    <DIR>          0010
+05/19/2005  08:46 AM    <DIR>          0011
+05/19/2005  08:46 AM    <DIR>          0012
+05/19/2005  08:46 AM    <DIR>          0013
+05/19/2005  08:46 AM    <DIR>          0014
+05/19/2005  08:46 AM    <DIR>          0015
+05/19/2005  08:46 AM    <DIR>          0019
+05/19/2005  08:46 AM    <DIR>          001b
+05/19/2005  08:46 AM    <DIR>          001d
+05/19/2005  08:46 AM    <DIR>          001e
+05/19/2005  08:46 AM    <DIR>          001f
+05/19/2005  08:46 AM    <DIR>          0021
+05/19/2005  08:46 AM    <DIR>          0024
+05/19/2005  08:46 AM    <DIR>          002d
+05/19/2005  08:46 AM    <DIR>          0404
+05/19/2005  08:46 AM    <DIR>          040c
+05/19/2005  08:46 AM    <DIR>          0416
+05/19/2005  08:46 AM    <DIR>          0804
+05/19/2005  08:46 AM    <DIR>          0816
+05/19/2005  08:46 AM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0003
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0005
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0006
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0007
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0008
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0009
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\000a
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\000b
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\000e
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0010
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0011
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0012
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0013
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0014
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0015
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0019
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\001b
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\001d
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\001e
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\001f
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0021
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0024
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\002d
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0404
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\040c
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0416
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0804
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0816
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\setupdir\0c0c
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\AGP\SISfiles
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM             7,168 AGPFunc.dll
+03/18/2005  02:47 PM            28,672 ata133ap.exe
+03/18/2005  02:47 PM            30,208 instdrv.exe
+03/18/2005  02:47 PM           126,976 regmod.exe
+03/18/2005  02:47 PM             4,160 SISAGP98.dll
+03/18/2005  02:47 PM           121,614 waitwnd.exe
+               6 File(s)        318,798 bytes
+
+ Directory of G:\Drivers\AGP\USB
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          Win2K_XP
+05/19/2005  08:46 AM    <DIR>          Win9x
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\USB\Win2K_XP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WinXPUSB
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\USB\Win2K_XP\WinXPUSB
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM             3,583 SISPORT.SYS
+03/18/2005  02:47 PM           106,496 SiSUSBrg.exe
+03/18/2005  02:47 PM            32,768 SIS_LIB.DLL
+               3 File(s)        142,847 bytes
+
+ Directory of G:\Drivers\AGP\USB\Win9x
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          SiSFiles
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AGP\USB\Win9x\SiSFiles
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:47 PM           118,784 Mp_s3.exe
+03/18/2005  02:47 PM            24,240 Openhci.sys
+               2 File(s)        143,024 bytes
+
+ Directory of G:\Drivers\AUDIO
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM           110,592 ALCCHKID.EXE
+03/18/2005  02:48 PM           139,264 ALCRMV.EXE
+03/18/2005  02:48 PM           126,976 ALCRMV9X.EXE
+03/18/2005  02:48 PM           208,896 ALCUPD.EXE
+03/18/2005  02:48 PM            31,388 ALCXDEV.EXE
+05/19/2005  08:46 AM    <DIR>          Ap
+03/18/2005  02:48 PM               321 ApiSpy.ini
+05/19/2005  08:46 AM    <DIR>          CONFIG
+03/18/2005  02:48 PM           863,483 DATA1.CAB
+03/18/2005  02:48 PM            29,302 DATA1.HDR
+03/18/2005  02:48 PM               512 DATA2.CAB
+03/18/2005  02:48 PM           233,472 EXERUN.exe
+03/18/2005  02:48 PM           114,688 Fxdrv.dll
+03/18/2005  02:48 PM            13,440 Fxdrv.sys
+03/18/2005  02:48 PM             7,254 Fxdrv.vxd
+03/18/2005  02:48 PM            40,448 GETDXVER.EXE
+03/18/2005  02:48 PM           344,923 IKERNEL.EX_
+03/18/2005  02:48 PM               422 LAYOUT.BIN
+03/18/2005  02:48 PM            17,736 README.TXT
+03/18/2005  02:48 PM            23,552 SetCDfmt.exe
+03/18/2005  02:48 PM           139,264 Setup.exe
+03/18/2005  02:48 PM             2,179 Setup.ini
+03/18/2005  02:48 PM           170,546 SETUP.INX
+03/18/2005  02:48 PM               538 SETUP.ISS
+03/18/2005  02:48 PM             1,078 SOUNDMAN.ICO
+05/19/2005  08:46 AM    <DIR>          WDM
+05/19/2005  08:46 AM    <DIR>          Win95
+05/19/2005  08:46 AM    <DIR>          WinNT4
+              23 File(s)      2,620,274 bytes
+
+ Directory of G:\Drivers\AUDIO\Ap
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM               164 AVRACK.INI
+03/18/2005  02:48 PM           794,624 AvRack2.exe
+03/18/2005  02:48 PM         1,833,984 Classic.dll
+03/18/2005  02:48 PM           468,056 Cool.bmp
+03/18/2005  02:48 PM           468,056 Grass.bmp
+03/18/2005  02:48 PM           157,080 GrayScale.bmp
+03/18/2005  02:48 PM           468,056 Magenta.bmp
+03/18/2005  02:48 PM         1,602,328 MPIE4STD.EXE
+03/18/2005  02:48 PM         3,812,120 Mpstd.exe
+03/18/2005  02:48 PM         3,645,440 RtlRack.exe
+03/18/2005  02:48 PM           468,056 Wooden.bmp
+              11 File(s)     13,717,964 bytes
+
+ Directory of G:\Drivers\AUDIO\CONFIG
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          Win98gold
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\AUDIO\CONFIG\Win98gold
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            27,232 Alcxwdm.inf
+               1 File(s)         27,232 bytes
+
+ Directory of G:\Drivers\AUDIO\WDM
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            26,623 Alcxwdm20.inf
+03/18/2005  02:48 PM            27,429 Alcxwdm14.inf
+03/18/2005  02:48 PM            23,957 Alcxwdm18.inf
+03/18/2005  02:48 PM            25,259 Alcxwdm21.inf
+03/18/2005  02:48 PM            25,755 Alcxwdm15.inf
+03/18/2005  02:48 PM            25,197 Alcxwdm19.inf
+03/18/2005  02:48 PM            33,443 Alcxwdm22.inf
+03/18/2005  02:48 PM            26,631 Alcxwdm16.inf
+03/18/2005  02:48 PM            26,409 Alcxwdm17.inf
+03/18/2005  02:48 PM           400,384 ALCXSENS.SYS
+03/18/2005  02:48 PM           423,908 Alcxwdm.cat
+03/18/2005  02:48 PM            27,867 Alcxwdm.inf
+03/18/2005  02:48 PM           626,977 ALCXWDM.SYS
+03/18/2005  02:48 PM            63,513 Alcxwdm0.inf
+03/18/2005  02:48 PM            62,831 Alcxwdm1.inf
+03/18/2005  02:48 PM            64,381 Alcxwdm2.inf
+03/18/2005  02:48 PM            28,049 Alcxwdm3.inf
+03/18/2005  02:48 PM            46,525 Alcxwdm4.inf
+03/18/2005  02:48 PM            25,259 Alcxwdm5.inf
+03/18/2005  02:48 PM            32,024 Alcxwdm6.inf
+03/18/2005  02:48 PM            24,619 Alcxwdm7.inf
+03/18/2005  02:48 PM            30,343 Alcxwdm8.inf
+03/18/2005  02:48 PM            28,607 Alcxwdm9.inf
+03/18/2005  02:48 PM            39,273 Alcxwdm10.inf
+03/18/2005  02:48 PM            26,067 Alcxwdm11.inf
+03/18/2005  02:48 PM            34,375 Alcxwdm12.inf
+03/18/2005  02:48 PM            40,548 Alcxwdm13.inf
+03/18/2005  02:48 PM        15,692,800 ALSndMgr.cpl
+03/18/2005  02:48 PM           141,016 ALSNDMGR.WAV
+03/18/2005  02:48 PM            65,536 AUDIO3D.DLL
+03/18/2005  02:48 PM            40,448 ChCfg.exe
+03/18/2005  02:48 PM           765,952 CRLDS3D.DLL
+03/18/2005  02:48 PM           155,648 RtlCPAPI.dll
+03/18/2005  02:48 PM         7,509,504 RTLCPL.EXE
+03/18/2005  02:48 PM            67,584 SoundMan.exe
+              35 File(s)     26,704,741 bytes
+
+ Directory of G:\Drivers\AUDIO\Win95
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM           142,080 ALCX95.DRV
+03/18/2005  02:48 PM             1,127 ALCX95.INI
+03/18/2005  02:48 PM            14,928 ALSWWT.DRV
+03/18/2005  02:48 PM            86,864 ALSWWT16.DLL
+03/18/2005  02:48 PM           247,244 SWWTAC97.DAT
+03/18/2005  02:48 PM         3,101,546 SWWTAC97.TON
+03/18/2005  02:48 PM             6,037 VALCX95.INF
+03/18/2005  02:48 PM            97,457 VALCX95.VXD
+               8 File(s)      3,697,283 bytes
+
+ Directory of G:\Drivers\AUDIO\WinNT4
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            43,128 ALCXNT.DLL
+03/18/2005  02:48 PM           209,496 ALCXNT.SYS
+03/18/2005  02:48 PM           247,244 ALSWWTNT.DAT
+03/18/2005  02:48 PM            23,040 Alswwtnt.dll
+03/18/2005  02:48 PM           115,168 Alswwtnt.sys
+03/18/2005  02:48 PM         3,101,546 ALSWWTNT.TON
+03/18/2005  02:48 PM            17,396 MMDRV.DLL
+03/18/2005  02:48 PM               640 Oemsetup.inf
+03/18/2005  02:48 PM           155,136 SoundMan.exe
+               9 File(s)      3,912,794 bytes
+
+ Directory of G:\Drivers\LAN
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          SIS
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\LAN\SIS
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             3,014 DATA1.CAB
+03/18/2005  02:48 PM           159,758 DIAG.EXE
+03/18/2005  02:48 PM             5,165 DIAG.TXT
+03/18/2005  02:48 PM            42,900 inf2cat.exe
+03/18/2005  02:48 PM             4,608 INST2000.DLL
+03/18/2005  02:48 PM            99,024 IPDETECT.EXE
+03/18/2005  02:48 PM             4,525 LANG.DAT
+03/18/2005  02:48 PM               353 LAYOUT.BIN
+03/18/2005  02:48 PM           128,760 MAIN.BMP
+05/19/2005  08:46 AM    <DIR>          MSLANMAN.DOS
+05/19/2005  08:46 AM    <DIR>          Ndis2
+05/19/2005  08:46 AM    <DIR>          NT40
+05/19/2005  08:46 AM    <DIR>          nwclient
+05/19/2005  08:46 AM    <DIR>          Nwserver.41x
+05/19/2005  08:46 AM    <DIR>          Nwserver.42
+05/19/2005  08:46 AM    <DIR>          Nwserver.5x
+05/19/2005  08:46 AM    <DIR>          Nwserver.60
+03/18/2005  02:48 PM               417 OS.DAT
+05/19/2005  08:46 AM    <DIR>          pktdrv
+03/18/2005  02:48 PM            38,036 refresh.exe
+03/18/2005  02:48 PM             5,856 Remove.exe
+03/18/2005  02:48 PM            60,416 SETUP.EXE
+03/18/2005  02:48 PM               180 SETUP.INI
+03/18/2005  02:48 PM            64,224 SETUP.INS
+03/18/2005  02:48 PM               304 SETUP.ISS
+03/18/2005  02:48 PM               377 SETUP.LID
+03/18/2005  02:48 PM             1,642 SETUP.TXT
+05/19/2005  08:46 AM    <DIR>          setupdir
+05/19/2005  08:46 AM    <DIR>          WFW311
+05/19/2005  08:46 AM    <DIR>          Win2000
+05/19/2005  08:46 AM    <DIR>          WIN95
+05/19/2005  08:46 AM    <DIR>          WIN95.SR2
+05/19/2005  08:46 AM    <DIR>          WIN98
+05/19/2005  08:46 AM    <DIR>          WINME
+05/19/2005  08:46 AM    <DIR>          WinXP
+03/18/2005  02:48 PM           290,733 _INST32I.EX_
+03/18/2005  02:48 PM             8,704 _ISDEL.EXE
+03/18/2005  02:48 PM         9,868,900 _sys1.cab
+03/18/2005  02:48 PM            81,716 _USER1.CAB
+              22 File(s)     10,869,612 bytes
+
+ Directory of G:\Drivers\LAN\SIS\MSLANMAN.DOS
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          DRIVERS
+03/18/2005  02:48 PM             2,567 Readme.txt
+               1 File(s)          2,567 bytes
+
+ Directory of G:\Drivers\LAN\SIS\MSLANMAN.DOS\DRIVERS
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          Ethernet
+05/19/2005  08:46 AM    <DIR>          NIF
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\LAN\SIS\MSLANMAN.DOS\DRIVERS\Ethernet
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          SIS900
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\LAN\SIS\MSLANMAN.DOS\DRIVERS\Ethernet\SIS900
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             1,146 PROTOCOL.INI
+03/18/2005  02:48 PM            43,971 sis900.dos
+               2 File(s)         45,117 bytes
+
+ Directory of G:\Drivers\LAN\SIS\MSLANMAN.DOS\DRIVERS\NIF
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM               137 SIS900.nif
+               1 File(s)            137 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Ndis2
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          dos
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Ndis2\dos
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM               671 OEMSETUP.INF
+03/18/2005  02:48 PM             1,154 PROTOCOL.INI
+03/18/2005  02:48 PM             3,038 README.TXT
+03/18/2005  02:48 PM            43,971 SIS900.DOS
+               4 File(s)         48,834 bytes
+
+ Directory of G:\Drivers\LAN\SIS\NT40
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            34,419 OEMSETUP.INF
+03/18/2005  02:48 PM             1,394 README.TXT
+03/18/2005  02:48 PM             7,568 SISNIC.HLP
+03/18/2005  02:48 PM            39,844 SISNIC.sys
+               4 File(s)         83,225 bytes
+
+ Directory of G:\Drivers\LAN\SIS\nwclient
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             1,384 NET.CFG
+03/18/2005  02:48 PM             3,050 readme.txt
+03/18/2005  02:48 PM            51,728 SIS900.COM
+03/18/2005  02:48 PM               481 sis900.ins
+               4 File(s)         56,643 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Nwserver.41x
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,926 ETHERTSM.NLM
+03/18/2005  02:48 PM            56,649 MSM.NLM
+03/18/2005  02:48 PM            17,028 NBI.NLM
+03/18/2005  02:48 PM             4,937 README.TXT
+03/18/2005  02:48 PM            47,564 sis900.lan
+03/18/2005  02:48 PM            44,685 sis900.ldi
+               6 File(s)        182,789 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Nwserver.42
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             4,591 README.TXT
+03/18/2005  02:48 PM            47,771 sis900.lan
+03/18/2005  02:48 PM            44,716 sis900.ldi
+               3 File(s)         97,078 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Nwserver.5x
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             4,419 README.TXT
+03/18/2005  02:48 PM            47,771 sis900.lan
+03/18/2005  02:48 PM            44,716 sis900.ldi
+               3 File(s)         96,906 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Nwserver.60
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             4,419 README.TXT
+03/18/2005  02:48 PM            47,771 sis900.lan
+03/18/2005  02:48 PM            44,716 sis900.ldi
+               3 File(s)         96,906 bytes
+
+ Directory of G:\Drivers\LAN\SIS\pktdrv
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM             4,393 readme.TXT
+03/18/2005  02:48 PM            29,525 SIS900.EXE
+               2 File(s)         33,918 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          0003
+05/19/2005  08:46 AM    <DIR>          0005
+05/19/2005  08:46 AM    <DIR>          0006
+05/19/2005  08:46 AM    <DIR>          0007
+05/19/2005  08:46 AM    <DIR>          0008
+05/19/2005  08:46 AM    <DIR>          000a
+05/19/2005  08:46 AM    <DIR>          000b
+05/19/2005  08:46 AM    <DIR>          0010
+05/19/2005  08:46 AM    <DIR>          0014
+05/19/2005  08:46 AM    <DIR>          0015
+05/19/2005  08:46 AM    <DIR>          0019
+05/19/2005  08:46 AM    <DIR>          001b
+05/19/2005  08:46 AM    <DIR>          001d
+05/19/2005  08:46 AM    <DIR>          001f
+05/19/2005  08:46 AM    <DIR>          0021
+05/19/2005  08:46 AM    <DIR>          002d
+05/19/2005  08:46 AM    <DIR>          0404
+05/19/2005  08:46 AM    <DIR>          040c
+05/19/2005  08:46 AM    <DIR>          0416
+05/19/2005  08:46 AM    <DIR>          0804
+05/19/2005  08:46 AM    <DIR>          0816
+05/19/2005  08:46 AM    <DIR>          0c0c
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0003
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0005
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0006
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0007
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0008
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\000a
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\000b
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0010
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0014
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0015
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0019
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\001b
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _SETUP.DLL
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\001d
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\001f
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0021
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,776 _setup.dll
+               1 File(s)         11,776 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\002d
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0404
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\040c
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0416
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0804
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _setup.dll
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0816
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\setupdir\0c0c
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            11,264 _SETUP.DLL
+               1 File(s)         11,264 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WFW311
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM               831 OEMSETUP.INF
+03/18/2005  02:48 PM             1,634 README.TXT
+03/18/2005  02:48 PM            50,323 SISNIC.386
+               3 File(s)         52,788 bytes
+
+ Directory of G:\Drivers\LAN\SIS\Win2000
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            28,132 NETOEM.INF
+03/18/2005  02:48 PM            33,772 OEMNIC.CAT
+03/18/2005  02:48 PM             2,102 README.TXT
+03/18/2005  02:48 PM            35,427 SISNIC.sys
+03/18/2005  02:48 PM            36,395 uninst.exe
+               5 File(s)        135,828 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WIN95
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            25,370 NETOEM.INF
+03/18/2005  02:48 PM                 4 OEMNIC.CAT
+03/18/2005  02:48 PM             2,372 README.TXT
+03/18/2005  02:48 PM            39,912 SISNIC.sys
+03/18/2005  02:48 PM            12,128 UNINST.EXE
+               5 File(s)         79,786 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WIN95.SR2
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            25,370 NETOEM.INF
+03/18/2005  02:48 PM                 4 OEMNIC.CAT
+03/18/2005  02:48 PM             2,372 README.TXT
+03/18/2005  02:48 PM            39,844 SISNIC.sys
+03/18/2005  02:48 PM            12,128 UNINST.EXE
+               5 File(s)         79,718 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WIN98
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            28,534 NETOEM.INF
+03/18/2005  02:48 PM                 4 OEMNIC.CAT
+03/18/2005  02:48 PM             2,825 README.TXT
+03/18/2005  02:48 PM            35,427 SISNIC.sys
+03/18/2005  02:48 PM            12,128 UNINST.EXE
+               5 File(s)         78,918 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WINME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            26,717 NETOEM.INF
+03/18/2005  02:48 PM            33,764 OEMNIC.CAT
+03/18/2005  02:48 PM             3,016 README.TXT
+03/18/2005  02:48 PM            35,427 SISNIC.sys
+03/18/2005  02:48 PM            12,128 UNINST.EXE
+               5 File(s)        111,052 bytes
+
+ Directory of G:\Drivers\LAN\SIS\WinXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/18/2005  02:48 PM            25,141 NETOEM.INF
+03/18/2005  02:48 PM            33,766 oemnic.cat
+03/18/2005  02:48 PM             2,090 README.TXT
+03/18/2005  02:48 PM            32,256 SISNIC.SYS
+03/18/2005  02:48 PM            37,376 uninst.exe
+               5 File(s)        130,629 bytes
+
+ Directory of G:\Drivers\MODEM
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          GVC
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\MODEM\GVC
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          2140
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\MODEM\GVC\2140
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+04/13/2004  02:48 PM         1,266,380 AGRSM.sys
+04/05/2004  09:49 AM            64,512 agrsmdel.exe
+04/13/2004  11:49 AM            88,363 AGRSMMsg.exe
+05/27/2004  10:18 AM             9,392 AGRSMxp.cat
+04/14/2004  03:21 PM            50,484 AGRSMxp.inf
+04/05/2004  10:10 AM             3,612 AGSETUP.INI
+04/05/2004  09:50 AM            29,184 agsetup1.dll
+04/05/2004  09:51 AM            72,704 agsetup2.dll
+08/31/2001  10:35 AM             7,840 agsetup3.EXE
+04/05/2004  09:50 AM            97,792 setup.exe
+              10 File(s)      1,690,263 bytes
+
+ Directory of G:\Drivers\VGA
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          ATI
+05/19/2005  08:46 AM    <DIR>          NVIDIA
+05/19/2005  08:46 AM    <DIR>          SIS
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\ATI
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          ACE
+03/23/2005  09:05 AM           151,552 AtiCim.bin
+03/23/2005  09:05 AM           110,592 AtiCimUn.exe
+05/19/2005  08:46 AM    <DIR>          BIN
+03/23/2005  09:05 AM            69,632 CheckVer.exe
+05/19/2005  08:46 AM    <DIR>          CPanel
+03/23/2005  09:05 AM         1,740,351 data1.cab
+03/23/2005  09:05 AM            46,737 data1.hdr
+03/23/2005  09:05 AM               512 data2.cab
+05/19/2005  08:46 AM    <DIR>          Driver
+03/23/2005  09:05 AM           154,624 DrvUI64A.exe
+03/23/2005  09:05 AM           344,923 ikernel.ex_
+03/23/2005  09:05 AM               257 install.ini
+03/23/2005  09:05 AM           127,488 issetup.exe
+03/23/2005  09:05 AM               569 layout.bin
+01/26/2004  10:29 AM           127,488 makensisw.exe
+03/23/2005  09:05 AM            18,192 psapi.dll
+03/23/2005  09:05 AM            65,536 Setup.exe
+03/23/2005  09:05 AM               446 Setup.ini
+03/23/2005  09:05 AM           159,610 setup.inx
+05/19/2005  08:46 AM    <DIR>          WDM
+03/31/2005  09:52 PM             1,540 wxp-w2k-catalyst-AIB-8-121-050322a-022142C.txt
+              17 File(s)      3,120,049 bytes
+
+ Directory of G:\Drivers\VGA\ATI\ACE
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/29/2005  02:36 AM            32,256 1028.mst
+03/29/2005  02:36 AM            41,984 1029.mst
+03/29/2005  02:36 AM            41,984 1030.mst
+03/29/2005  02:36 AM            46,592 1031.mst
+03/29/2005  02:36 AM            46,592 1032.mst
+03/29/2005  02:37 AM             3,584 1033.mst
+03/29/2005  02:37 AM            44,544 1034.mst
+03/29/2005  02:36 AM            41,472 1035.mst
+03/29/2005  02:36 AM            46,592 1036.mst
+03/29/2005  02:36 AM            45,568 1038.mst
+03/29/2005  02:36 AM            46,592 1040.mst
+03/29/2005  02:36 AM            44,032 1041.mst
+03/29/2005  02:36 AM            39,936 1042.mst
+03/29/2005  02:36 AM            46,080 1043.mst
+03/29/2005  02:36 AM            41,984 1044.mst
+03/29/2005  02:36 AM            42,496 1045.mst
+03/29/2005  02:36 AM            44,032 1046.mst
+03/29/2005  02:37 AM            41,472 1049.mst
+03/29/2005  02:37 AM            41,472 1053.mst
+03/29/2005  02:37 AM            39,936 1054.mst
+03/29/2005  02:37 AM            41,472 1055.mst
+03/29/2005  02:36 AM            32,768 2052.mst
+03/29/2005  02:36 AM            44,032 2070.mst
+03/29/2005  02:36 AM            46,592 3084.mst
+03/29/2005  02:39 AM             6,447 ACE.dat
+03/23/2005  12:01 PM            94,208 ACE.dll
+03/29/2005  02:37 AM        14,697,472 ATI Catalyst Control Center.msi
+03/29/2005  02:35 AM        53,514,161 Data1.cab
+03/29/2005  02:37 AM         3,002,846 setup.exe
+              29 File(s)     72,299,198 bytes
+
+ Directory of G:\Drivers\VGA\ATI\BIN
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/23/2005  11:59 AM             6,656 aticd64a.sys
+03/23/2005  11:58 AM           368,640 aticds10.dll
+03/23/2005  12:01 PM            45,056 AtiCIM.dll
+03/18/2005  01:29 AM            81,342 atiicdxx.dat
+03/23/2005  12:00 PM           380,928 atiicdxx.dll
+03/23/2005  11:59 AM           278,016 atiicdxx.exe
+02/06/2000  01:02 AM                11 atiicdxx.ini
+03/18/2005  01:29 AM            28,672 atiicdxx.msi
+03/23/2005  11:59 AM             6,144 atiicdxx.sys
+04/15/2003  08:07 AM             7,849 atiicdxx.vxd
+03/23/2005  11:58 AM            64,000 atricd6a.dft
+03/23/2005  11:58 AM            64,000 atricd6a.enu
+03/23/2005  11:58 AM            73,728 atricdxx.dft
+03/23/2005  11:58 AM            73,728 atricdxx.enu
+03/23/2005  12:00 PM           121,344 EnumDev.exe
+03/19/2004  02:02 AM         1,440,056 OEMInstall.bmp
+03/23/2005  12:00 PM           125,440 UpdatPnP.exe
+              17 File(s)      3,165,610 bytes
+
+ Directory of G:\Drivers\VGA\ATI\CPanel
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/29/2005  02:11 AM             3,025 22142_2K.REG
+03/29/2005  02:39 AM             3,061 22142_XP.REG
+03/29/2005  02:39 AM             6,332 CPanel.dat
+03/23/2005  12:01 PM            94,208 CPANEL.dll
+03/29/2005  02:11 AM             3,025 CP_2K.REG
+03/29/2005  02:39 AM             3,061 CP_XP.REG
+03/23/2005  09:05 AM         2,306,666 data1.cab
+03/23/2005  09:05 AM            91,434 data1.hdr
+03/23/2005  09:05 AM         8,705,270 data2.cab
+03/23/2005  09:05 AM            13,152 FGL_32.REG
+03/23/2005  09:05 AM           344,923 ikernel.ex_
+03/29/2005  02:39 AM               625 INSTALL.INI
+03/23/2005  09:05 AM               504 layout.bin
+03/23/2005  09:05 AM           139,264 Setup.exe
+03/23/2005  09:05 AM               451 Setup.ini
+03/23/2005  09:05 AM           157,082 setup.inx
+03/23/2005  09:05 AM             1,082 setup.iss
+03/23/2005  09:05 AM               959 shortcut.iss
+              18 File(s)     11,874,124 bytes
+
+ Directory of G:\Drivers\VGA\ATI\Driver
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          2KXP_INF
+03/29/2005  02:11 AM             2,382 C2_22142.INI
+03/29/2005  02:39 AM             2,382 CX_22142.INI
+03/23/2005  09:05 AM         3,021,354 data1.cab
+03/23/2005  09:05 AM            48,849 data1.hdr
+03/23/2005  09:05 AM               512 data2.cab
+03/29/2005  02:39 AM             5,868 Driver.dat
+03/23/2005  12:01 PM            94,208 Driver.DLL
+03/23/2005  09:05 AM           344,923 ikernel.ex_
+03/29/2005  02:39 AM             2,060 INSTALL.INI
+03/23/2005  09:05 AM               482 layout.bin
+03/23/2005  09:05 AM           139,264 Setup.exe
+03/23/2005  09:05 AM               452 Setup.ini
+03/23/2005  09:05 AM           161,555 setup.inx
+03/23/2005  09:05 AM               772 setup.iss
+03/23/2005  09:05 AM           308,168 _setup.bmp
+              15 File(s)      4,133,231 bytes
+
+ Directory of G:\Drivers\VGA\ATI\Driver\2KXP_INF
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/29/2005  02:39 AM               112 atiiseag.ini
+05/19/2005  08:46 AM    <DIR>          B_22056
+03/29/2005  02:40 AM           142,784 C2_22142.inf
+03/29/2005  09:51 PM            60,471 CX_22142.cat
+03/29/2005  02:40 AM           145,520 CX_22142.inf
+               4 File(s)        348,887 bytes
+
+ Directory of G:\Drivers\VGA\ATI\Driver\2KXP_INF\B_22056
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/23/2005  09:23 AM           118,598 ati2cqag.dl_
+03/23/2005  10:01 AM           144,130 ati2dvag.dl_
+03/23/2005  09:56 AM            26,721 ati2edxx.dl_
+03/23/2005  09:29 AM             8,938 ati2erec.dl_
+03/23/2005  09:56 AM            29,744 ati2evxx.dl_
+03/23/2005  09:55 AM           191,328 ati2evxx.ex_
+03/23/2005  09:56 AM            15,671 ati2mdxx.ex_
+03/23/2005  10:00 AM           641,751 ati2mtag.sy_
+03/23/2005  09:47 AM         1,251,769 ati3duag.dl_
+03/23/2005  09:54 AM            28,095 atiddc.dl_
+03/23/2005  11:34 AM            90,489 atidemgr.dl_
+01/29/2005  02:12 AM             9,684 atifglpf.xml
+03/18/2005  01:29 AM            81,342 atiicdxx.dat
+03/23/2005  12:06 PM           299,008 atiiiexx.dll
+03/23/2005  09:29 AM            75,326 atikvmag.dl_
+03/23/2005  10:22 AM         3,118,480 atioglxx.dl_
+03/23/2005  09:56 AM            49,286 atipdlxx.dl_
+03/23/2005  09:28 AM             8,347 atitvo32.dl_
+11/09/2001  11:01 PM            12,614 ativcoxx.dl_
+03/23/2005  09:41 AM           317,598 ativvaxx.dl_
+03/23/2005  09:56 AM            39,673 oemdspif.dl_
+              21 File(s)      6,558,592 bytes
+
+ Directory of G:\Drivers\VGA\ATI\WDM
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/02/2005  04:30 AM         3,407,711 data1.cab
+02/02/2005  04:30 AM            48,156 data1.hdr
+02/02/2005  04:30 AM               512 data2.cab
+02/02/2005  04:30 AM           344,923 ikernel.ex_
+02/02/2005  04:56 AM             8,007 install.ini
+02/02/2005  04:30 AM               422 layout.bin
+02/02/2005  04:30 AM           139,264 Setup.exe
+02/02/2005  04:30 AM               441 Setup.ini
+02/02/2005  04:30 AM           163,984 setup.inx
+02/02/2005  04:56 AM             5,442 WDM.dat
+02/02/2005  04:50 AM            90,112 WDM.dll
+05/19/2005  08:46 AM    <DIR>          WDM_XP
+              11 File(s)      4,208,974 bytes
+
+ Directory of G:\Drivers\VGA\ATI\WDM\WDM_XP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/02/2005  04:56 AM            32,312 atiehwdm.inf
+02/02/2005  04:35 AM            57,856 atinbtxx.SYS
+02/02/2005  04:45 AM            74,240 atinesxx.SYS
+02/02/2005  04:46 AM            56,320 atineuxx.SYS
+02/02/2005  04:42 AM           165,888 atinevxx.SYS
+02/02/2005  04:41 AM            15,360 atinmdxx.SYS
+02/02/2005  04:41 AM            14,848 atinpdxx.SYS
+02/02/2005  04:37 AM            55,296 atinraxx.SYS
+02/02/2005  04:35 AM            28,672 atinsnxx.SYS
+02/02/2005  04:36 AM            13,824 atinttxx.SYS
+02/02/2005  04:35 AM            31,744 atinxbxx.SYS
+02/02/2005  04:37 AM             9,728 ATIVdaxx.AX
+10/13/2004  10:04 PM            64,352 ativmc20.cod
+02/02/2005  04:36 AM            23,552 ativmvxx.AX
+02/02/2005  04:36 AM            33,280 ativtmxx.DLL
+02/12/2005  03:21 AM            15,621 atixpwdm.cat
+              16 File(s)        692,893 bytes
+
+ Directory of G:\Drivers\VGA\NVIDIA
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/24/2005  06:32 AM             6,101 Advanced.tv_
+02/24/2005  06:32 AM            14,779 aliagp.sy_
+02/24/2005  06:32 AM             5,661 CAD.tv_
+02/24/2005  06:32 AM         4,820,726 data1.cab
+02/24/2005  06:32 AM            29,096 data1.hdr
+02/24/2005  06:32 AM               512 data2.cab
+02/24/2005  06:32 AM             5,857 DCC.tv_
+02/24/2005  06:32 AM            10,222 default.tv_
+02/24/2005  06:32 AM           459,544 engine32.cab
+02/24/2005  06:32 AM             6,144 Finance.tv_
+02/24/2005  06:32 AM           198,528 keystone.ex_
+02/24/2005  06:32 AM               510 layout.bin
+02/24/2005  06:32 AM            75,641 modes.txt
+02/24/2005  06:32 AM            26,479 nv4disp2.inf
+03/02/2005  01:03 PM            24,827 nv4_disp.cat
+02/24/2005  06:32 AM         2,142,505 nv4_disp.dl_
+02/24/2005  06:32 AM            39,962 nv4_disp.inf
+02/24/2005  06:32 AM         1,815,132 nv4_mini.sy_
+02/24/2005  06:32 AM           204,571 nvappbar.ex_
+02/24/2005  06:32 AM             4,945 NvApps.xm_
+02/24/2005  06:32 AM            21,612 nvcod.dl_
+02/24/2005  06:32 AM            86,194 NvColor.ex_
+02/24/2005  06:32 AM           143,605 NVCPAR.HL_
+02/24/2005  06:32 AM           133,526 NVCPCS.HL_
+02/24/2005  06:32 AM           156,289 NVCPDA.HL_
+02/24/2005  06:32 AM           164,923 NVCPDE.HL_
+02/24/2005  06:32 AM           140,967 NVCPEL.HL_
+02/24/2005  06:32 AM           144,219 NVCPENG.HL_
+02/24/2005  06:32 AM           157,301 NVCPES.HL_
+02/24/2005  06:32 AM           156,432 NVCPESM.HL_
+02/24/2005  06:32 AM           158,000 NVCPFI.HL_
+02/24/2005  06:32 AM           157,903 NVCPFR.HL_
+02/24/2005  06:32 AM           158,810 NVCPHE.HL_
+02/24/2005  06:32 AM           180,943 NVCPHU.HL_
+02/24/2005  06:32 AM           149,253 NVCPIT.HL_
+02/24/2005  06:32 AM           137,689 NVCPJA.HL_
+02/24/2005  06:32 AM           135,986 NVCPKO.HL_
+02/24/2005  06:32 AM         3,322,141 NvCpl.dl_
+02/24/2005  06:32 AM           144,073 NVCPL.HL_
+02/24/2005  06:32 AM           152,115 NVCPNL.HL_
+02/24/2005  06:32 AM           150,390 NVCPNO.HL_
+02/24/2005  06:32 AM           164,435 NVCPPL.HL_
+02/24/2005  06:32 AM           159,528 NVCPPT.HL_
+02/24/2005  06:32 AM           158,046 NVCPPTB.HL_
+02/24/2005  06:32 AM           153,108 NVCPRU.HL_
+02/24/2005  06:32 AM           135,272 NVCPSK.HL_
+02/24/2005  06:32 AM           159,910 NVCPSL.HL_
+02/24/2005  06:32 AM           158,707 NVCPSV.HL_
+02/24/2005  06:32 AM           146,332 NVCPTH.HL_
+02/24/2005  06:32 AM           172,172 NVCPTR.HL_
+02/24/2005  06:32 AM           145,207 NVCPZHC.HL_
+02/24/2005  06:32 AM           145,322 NVCPZHT.HL_
+02/24/2005  06:32 AM               331 NvDccApp.cf_
+02/24/2005  06:32 AM            14,435 NVDisp.nvu
+02/24/2005  06:32 AM           468,444 nvdspsch.ex_
+02/24/2005  06:32 AM            80,663 NVEPClnt.ex_
+02/24/2005  06:32 AM             2,223 NVGFX.dl_
+02/24/2005  06:32 AM           135,125 nvhwvid.dl_
+02/24/2005  06:32 AM           646,418 nview.dl_
+02/24/2005  06:32 AM            44,071 NvMCTray.dl_
+02/24/2005  06:32 AM           129,710 nvnt4cpl.dl_
+02/24/2005  06:32 AM         2,732,288 nvoglnt.dl_
+02/24/2005  06:32 AM           100,318 NVRSAR.dl_
+02/24/2005  06:32 AM            73,808 NVRSCS.dl_
+02/24/2005  06:32 AM            71,130 NVRSDA.dl_
+02/24/2005  06:32 AM            77,188 NVRSDE.dl_
+02/24/2005  06:32 AM            81,704 NVRSEL.dl_
+02/24/2005  06:32 AM            68,855 NVRSENG.dl_
+02/24/2005  06:32 AM            75,582 NVRSES.dl_
+02/24/2005  06:32 AM            73,241 NVRSESM.dl_
+02/24/2005  06:32 AM            69,580 NVRSFI.dl_
+02/24/2005  06:32 AM            76,307 NVRSFR.dl_
+02/24/2005  06:32 AM           100,178 NVRSHE.dl_
+02/24/2005  06:32 AM            75,259 NVRSHU.dl_
+02/24/2005  06:32 AM            74,857 NVRSIT.dl_
+02/24/2005  06:32 AM            93,826 NVRSJA.dl_
+02/24/2005  06:32 AM            92,727 NVRSKO.dl_
+02/24/2005  06:32 AM            74,734 NVRSNL.dl_
+02/24/2005  06:32 AM            70,263 NVRSNO.dl_
+02/24/2005  06:32 AM            74,268 NVRSPL.dl_
+02/24/2005  06:32 AM            73,971 NVRSPT.dl_
+02/24/2005  06:32 AM            73,355 NVRSPTB.dl_
+02/24/2005  06:32 AM            78,683 NVRSRU.dl_
+02/24/2005  06:32 AM            75,663 NVRSSK.dl_
+02/24/2005  06:32 AM            72,351 NVRSSL.dl_
+02/24/2005  06:32 AM            70,630 NVRSSV.dl_
+02/24/2005  06:32 AM            73,133 NVRSTR.dl_
+02/24/2005  06:32 AM            86,997 NVRSZHC.dl_
+02/24/2005  06:32 AM            52,788 NVRSZHT.dl_
+02/24/2005  06:32 AM           199,762 nvshell.dl_
+02/24/2005  06:32 AM            74,569 nvsvc32.ex_
+02/24/2005  06:32 AM            35,228 nvtuicpl.cp_
+02/24/2005  06:32 AM           176,128 nvudisp.exe
+02/24/2005  06:32 AM            38,806 nvwcpar.hl_
+02/24/2005  06:32 AM            39,301 nvwcpcs.hl_
+02/24/2005  06:32 AM            40,838 nvwcpda.hl_
+02/24/2005  06:32 AM            43,073 nvwcpde.hl_
+02/24/2005  06:32 AM            41,316 nvwcpel.hl_
+02/24/2005  06:32 AM            39,664 nvwcpeng.hl_
+02/24/2005  06:32 AM            39,225 nvwcpes.hl_
+02/24/2005  06:32 AM            38,947 nvwcpesm.hl_
+02/24/2005  06:32 AM            42,463 nvwcpfi.hl_
+02/24/2005  06:32 AM            41,145 nvwcpfr.hl_
+02/24/2005  06:32 AM            40,985 nvwcphe.hl_
+02/24/2005  06:32 AM            47,658 nvwcphu.hl_
+02/24/2005  06:32 AM            39,429 nvwcpit.hl_
+02/24/2005  06:32 AM            37,162 nvwcpja.hl_
+02/24/2005  06:32 AM            39,122 nvwcpko.hl_
+02/24/2005  06:32 AM            37,359 nvwcplen.hl_
+02/24/2005  06:32 AM            40,537 nvwcpnl.hl_
+02/24/2005  06:32 AM            39,485 nvwcpno.hl_
+02/24/2005  06:32 AM            43,643 nvwcppl.hl_
+02/24/2005  06:32 AM            41,660 nvwcppt.hl_
+02/24/2005  06:32 AM            41,410 nvwcpptb.hl_
+02/24/2005  06:32 AM            41,617 nvwcpru.hl_
+02/24/2005  06:32 AM            44,393 nvwcpsk.hl_
+02/24/2005  06:32 AM            41,882 nvwcpsl.hl_
+02/24/2005  06:32 AM            42,128 nvwcpsv.hl_
+02/24/2005  06:32 AM            35,852 nvwcpth.hl_
+02/24/2005  06:32 AM            47,108 nvwcptr.hl_
+02/24/2005  06:32 AM            31,172 nvwcpzhc.hl_
+02/24/2005  06:32 AM            32,079 nvwcpzht.hl_
+02/24/2005  06:32 AM            48,430 nvwddi.dl_
+02/24/2005  06:32 AM           861,502 nvwdmcpl.dl_
+02/24/2005  06:32 AM           336,370 nvwimg.dl_
+02/24/2005  06:32 AM            81,541 nvwrsar.dl_
+02/24/2005  06:32 AM            84,953 nvwrscs.dl_
+02/24/2005  06:32 AM            83,545 nvwrsda.dl_
+02/24/2005  06:32 AM            87,761 nvwrsde.dl_
+02/24/2005  06:32 AM            97,451 nvwrsel.dl_
+02/24/2005  06:32 AM            79,353 nvwrseng.dl_
+02/24/2005  06:32 AM            90,230 nvwrses.dl_
+02/24/2005  06:32 AM            88,117 nvwrsesm.dl_
+02/24/2005  06:32 AM            85,085 nvwrsfi.dl_
+02/24/2005  06:32 AM            88,744 nvwrsfr.dl_
+02/24/2005  06:32 AM            82,449 nvwrshe.dl_
+02/24/2005  06:32 AM            91,391 nvwrshu.dl_
+02/24/2005  06:32 AM            87,872 nvwrsit.dl_
+02/24/2005  06:32 AM            71,481 nvwrsja.dl_
+02/24/2005  06:32 AM            68,134 nvwrsko.dl_
+02/24/2005  06:32 AM            88,105 nvwrsnl.dl_
+02/24/2005  06:32 AM            83,433 nvwrsno.dl_
+02/24/2005  06:32 AM            88,008 nvwrspl.dl_
+02/24/2005  06:32 AM            89,116 nvwrspt.dl_
+02/24/2005  06:32 AM            87,338 nvwrsptb.dl_
+02/24/2005  06:32 AM            92,975 nvwrsru.dl_
+02/24/2005  06:32 AM            87,671 nvwrssk.dl_
+02/24/2005  06:32 AM            85,988 nvwrssl.dl_
+02/24/2005  06:32 AM            83,411 nvwrssv.dl_
+02/24/2005  06:32 AM            87,056 nvwrstr.dl_
+02/24/2005  06:32 AM            63,621 nvwrszhc.dl_
+02/24/2005  06:32 AM            64,747 nvwrszht.dl_
+02/24/2005  06:32 AM             2,048 NvWsApps.cf_
+02/24/2005  06:32 AM           633,625 nwiz.ex_
+02/24/2005  06:32 AM             4,981 Readme.txt
+02/24/2005  06:32 AM           176,760 setup.bmp
+02/24/2005  06:32 AM           116,880 setup.exe
+02/24/2005  06:32 AM           435,969 setup.ibt
+02/24/2005  06:32 AM               878 setup.ini
+02/24/2005  06:32 AM           224,118 setup.inx
+02/24/2005  06:32 AM               431 setup.iss
+02/24/2005  06:32 AM            68,593 setup.skin
+             162 File(s)     30,912,563 bytes
+
+ Directory of G:\Drivers\VGA\SIS
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          AGPPack
+03/10/2005  09:49 AM         1,649,069 data1.cab
+03/10/2005  09:49 AM            40,004 data1.hdr
+03/10/2005  09:49 AM         2,799,941 data2.cab
+12/05/2002  01:16 PM           418,296 engine32.cab
+05/19/2005  08:46 AM    <DIR>          Language
+03/10/2005  09:49 AM               474 layout.bin
+12/08/2004  01:16 PM             3,076 ReadMe.txt
+12/02/2002  02:33 PM           107,512 setup.exe
+04/15/2005  12:13 PM            73,874 Setup.ini
+03/04/2005  02:41 AM           248,187 setup.inx
+03/10/2005  01:29 PM             1,126 Setup.iss
+05/19/2005  08:46 AM    <DIR>          setupDLL
+05/19/2005  08:46 AM    <DIR>          SETUPRES
+03/04/2005  02:41 AM           405,649 setup.boot
+05/19/2005  08:46 AM    <DIR>          utilDLL
+05/19/2005  08:46 AM    <DIR>          UtilRes
+05/19/2005  08:46 AM    <DIR>          Win98_ME
+05/19/2005  08:46 AM    <DIR>          WinXP64
+05/19/2005  08:46 AM    <DIR>          WinXP_2K
+              11 File(s)      5,747,208 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          AGP
+03/01/2005  07:23 PM         2,153,757 data1.cab
+03/01/2005  07:23 PM            40,856 data1.hdr
+03/01/2005  07:23 PM               512 data2.cab
+12/05/2002  01:16 PM           418,296 engine32.cab
+03/01/2005  07:23 PM               456 layout.bin
+10/29/2004  08:05 PM             3,726 README.TXT
+03/01/2005  07:25 PM             3,424 RelNote.txt
+12/20/2002  01:04 PM                 8 setup-s.bat
+12/02/2002  02:33 PM           107,512 setup.exe
+03/02/2005  10:45 AM               900 setup.ini
+03/01/2005  07:23 PM           188,363 setup.inx
+03/02/2005  04:22 PM               533 setup.iss
+03/01/2005  07:23 PM           405,649 setup.boot
+05/19/2005  08:46 AM    <DIR>          SISfiles
+05/19/2005  08:46 AM    <DIR>          USB
+              13 File(s)      3,323,992 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          current
+05/19/2005  08:46 AM    <DIR>          old
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WIN2000
+05/19/2005  08:46 AM    <DIR>          WIN2003
+05/19/2005  08:46 AM    <DIR>          WIN98
+05/19/2005  08:46 AM    <DIR>          WINME
+05/19/2005  08:46 AM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current\WIN2000
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,772 sisagp.cat
+07/18/2003  09:20 AM             2,509 sisagp.inf
+07/18/2003  09:06 AM            26,368 sisagpx.sys
+               3 File(s)         36,649 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current\WIN2003
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+12/07/2004  09:50 AM             7,972 sisagp.cat
+11/01/2004  01:30 PM             2,507 sisagp.inf
+11/01/2004  01:27 PM            37,376 sisagpx.sys
+               3 File(s)         47,855 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current\WIN98
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:35 PM            10,544 sisagp.inf
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+               3 File(s)         31,186 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current\WINME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,770 sisagp.cat
+05/07/2004  05:34 PM            10,568 sisagp.inf
+05/07/2004  05:30 PM            12,872 SISAGP.PCI
+               3 File(s)         31,210 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\current\WINXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+08/28/2003  11:55 PM             7,768 sisagp.cat
+07/18/2003  09:20 AM             2,507 sisagp.inf
+07/18/2003  08:58 AM            36,992 sisagpx.sys
+               3 File(s)         47,267 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\old
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WIN2000
+05/19/2005  08:46 AM    <DIR>          WIN98
+05/19/2005  08:46 AM    <DIR>          WINME
+05/19/2005  08:46 AM    <DIR>          WINXP
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\old\WIN2000
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+10/17/2002  11:51 PM             7,260 sisagp.cat
+09/26/2002  01:53 PM             3,015 sisagp.inf
+09/26/2002  01:46 PM            25,414 sisagpx.sys
+               3 File(s)         35,689 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\old\WIN98
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+10/17/2002  11:51 PM             7,258 sisagp.cat
+06/16/2003  10:42 AM             7,456 sisagp.inf
+09/26/2002  01:51 PM            13,136 SISAGP.pci
+               3 File(s)         27,850 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\old\WINME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+10/17/2002  11:51 PM             7,258 sisagp.cat
+09/26/2002  09:24 AM             7,427 sisagp.inf
+09/26/2002  01:51 PM            13,136 SISAGP.pci
+               3 File(s)         27,821 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\AGP\old\WINXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+10/17/2002  11:51 PM             7,256 sisagp.cat
+09/26/2002  01:49 PM             3,013 sisagp.inf
+09/26/2002  01:41 PM            29,312 sisagpx.sys
+               3 File(s)         39,581 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\SISfiles
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+10/31/2002  09:33 AM             7,168 AGPFunc.dll
+08/20/2002  04:15 PM            28,672 ata133ap.exe
+08/24/2000  04:31 PM            30,208 instdrv.exe
+02/17/2003  02:20 PM             4,160 SISAGP98.dll
+06/12/2002  09:14 AM           121,614 waitwnd.exe
+               5 File(s)        191,822 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\USB
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          Win2K_XP
+05/19/2005  08:46 AM    <DIR>          Win9x
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\USB\Win2K_XP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          WinXPUSB
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\USB\Win2K_XP\WinXPUSB
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+12/07/2001  09:11 AM             3,583 SISPORT.SYS
+07/12/2002  05:15 PM           106,496 SiSUSBrg.exe
+01/02/2002  02:40 PM            32,768 SIS_LIB.DLL
+               3 File(s)        142,847 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\USB\Win9x
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          SiSFiles
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\AGPPack\USB\Win9x\SiSFiles
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+07/12/2002  05:15 PM           118,784 Mp_s3.exe
+06/14/2001  04:06 PM            24,240 Openhci.sys
+               2 File(s)        143,024 bytes
+
+ Directory of G:\Drivers\VGA\SIS\Language
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/24/2005  08:45 PM            11,346 0006.lng
+02/24/2005  08:45 PM            12,467 0007.lng
+02/24/2005  08:45 PM            11,349 0009.lng
+02/24/2005  08:45 PM            12,705 000a.lng
+02/24/2005  08:45 PM            11,379 000b.lng
+02/24/2005  08:45 PM            13,321 0010.lng
+02/24/2005  03:32 PM            10,285 0011.lng
+02/24/2005  03:32 PM            10,217 0012.lng
+02/24/2005  03:32 PM            12,281 0013.lng
+02/24/2005  03:32 PM            11,279 0014.lng
+02/24/2005  04:01 PM            11,980 0019.lng
+02/24/2005  04:02 PM            11,316 001d.lng
+02/24/2005  04:02 PM             8,647 001e.lng
+02/24/2005  08:44 PM             8,543 0404.lng
+02/24/2005  04:03 PM            13,333 040c.lng
+02/24/2005  04:03 PM            12,238 0416.lng
+02/24/2005  04:04 PM             8,403 0804.lng
+02/24/2005  04:04 PM            12,564 0816.lng
+02/24/2005  04:05 PM             1,254 0c0c.lng
+              19 File(s)        204,907 bytes
+
+ Directory of G:\Drivers\VGA\SIS\setupDLL
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+08/24/2000  04:31 PM            30,208 Instdrv.exe
+04/25/2002  08:42 PM           316,416 IsUninst.exe
+11/10/2004  01:46 AM           208,896 Progress.exe
+11/10/2004  01:46 AM            94,208 waitwnd.exe
+               4 File(s)        649,728 bytes
+
+ Directory of G:\Drivers\VGA\SIS\SETUPRES
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/12/2001  01:04 PM           375,824 Setup.bmp
+03/06/2001  08:53 AM            62,542 Setup16.bmp
+08/22/2000  10:37 AM             6,960 title.bmp
+               3 File(s)        445,326 bytes
+
+ Directory of G:\Drivers\VGA\SIS\utilDLL
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          9xBin
+03/04/2005  01:49 AM            20,480 LCDMode.exe
+05/19/2005  08:46 AM    <DIR>          ntBin
+03/04/2005  01:46 AM           176,128 SiSApCom.dll
+03/04/2005  01:49 AM            73,728 SiSCom.dll
+05/29/2003  03:54 PM                94 SiSCom.ini
+03/04/2005  01:49 AM             6,144 SiSCom.sys
+03/08/2005  05:11 PM            28,672 SiSHook.dll
+06/13/2003  04:09 AM           118,784 sislib.dll
+12/12/2002  10:43 AM             1,663 sislib.ini
+03/04/2005  02:14 AM            30,928 sisvb.dll
+03/04/2005  01:49 AM           110,592 TVMode.dll
+              10 File(s)        567,213 bytes
+
+ Directory of G:\Drivers\VGA\SIS\utilDLL\9xBin
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          315
+05/19/2005  08:46 AM    <DIR>          Xabre
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\utilDLL\9xBin\315
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+07/29/2002  01:20 PM            65,536 oemrom.bin
+               1 File(s)         65,536 bytes
+
+ Directory of G:\Drivers\VGA\SIS\utilDLL\9xBin\Xabre
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/04/2005  01:57 AM            65,536 oemrom.bin
+               1 File(s)         65,536 bytes
+
+ Directory of G:\Drivers\VGA\SIS\utilDLL\ntBin
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+07/29/2002  01:20 PM            65,536 sis315.bin
+03/04/2005  01:57 AM            65,536 xabre.bin
+               2 File(s)        131,072 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          3DWizard
+05/19/2005  08:46 AM    <DIR>          Gamma
+05/19/2005  08:46 AM    <DIR>          General
+05/19/2005  08:46 AM    <DIR>          ICO
+05/19/2005  08:46 AM    <DIR>          Info
+05/19/2005  08:46 AM    <DIR>          Manager
+05/19/2005  08:46 AM    <DIR>          Sistray
+05/19/2005  08:46 AM    <DIR>          Video
+               0 File(s)              0 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\3DWizard
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+06/13/2003  04:11 AM           524,288 sisut3d.dll
+               1 File(s)        524,288 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\Gamma
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/12/2001  10:44 AM            87,416 gamma.bmp
+               1 File(s)         87,416 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\General
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+04/25/2002  03:47 PM           628,174 Bk31x.bmp
+03/12/2001  10:44 AM             4,578 logo.bmp
+               2 File(s)        632,752 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\ICO
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+07/10/2003  04:41 PM             8,478 trayicon.ico
+03/11/2002  02:44 PM               766 UNINS.ico
+06/22/2003  11:28 AM               766 XRotate.ico
+               3 File(s)         10,010 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\Info
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/11/2004  08:56 PM            36,574 650.bmp
+05/11/2004  09:04 PM            36,574 651.bmp
+05/11/2004  09:04 PM            36,574 740.bmp
+05/11/2004  08:13 PM            36,574 mirage.bmp
+05/11/2004  09:05 PM            36,574 mirage1.bmp
+05/11/2004  08:09 PM            36,574 mirage2.bmp
+05/11/2004  08:35 PM            36,574 mirage3.bmp
+               7 File(s)        256,018 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\Manager
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+11/05/1999  04:17 PM         1,292,112 SIS3D.AVI
+11/05/1999  04:17 PM           651,312 SISDM.AVI
+11/05/1999  04:17 PM           330,912 SISGAMMA.AVI
+11/05/1999  04:17 PM           651,312 SISINFO.AVI
+11/05/1999  04:17 PM           260,192 SISTV.AVI
+11/05/1999  04:17 PM           651,312 SISTVLCD.AVI
+11/05/1999  04:17 PM           878,208 SISVIDEO.AVI
+               7 File(s)      4,715,360 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\Sistray
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+04/25/2002  03:56 PM             9,478 traylogo.bmp
+               1 File(s)          9,478 bytes
+
+ Directory of G:\Drivers\VGA\SIS\UtilRes\Video
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/12/2001  10:44 AM            97,256 overlay1.bmp
+               1 File(s)         97,256 bytes
+
+ Directory of G:\Drivers\VGA\SIS\Win98_ME
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/04/2005  01:57 AM            49,152 oemrom.bin
+03/04/2005  01:45 AM            49,152 SiSBase.dll
+03/04/2005  03:50 PM            83,648 sisdx.dll
+03/04/2005  03:55 PM           926,720 sisdx32.dll
+03/04/2005  02:30 AM         2,210,292 sisgl.dll
+11/27/2000  11:46 PM                 2 sisgr.cat
+03/04/2005  02:13 AM           521,136 sisgr.drv
+03/10/2005  01:30 PM            41,177 sisgr.inf
+03/04/2005  02:14 AM            95,442 sisgr.vxd
+03/04/2005  01:46 AM           184,320 SiSInst.dll
+03/04/2005  01:46 AM           258,048 SiSParse.dll
+03/07/2005  01:15 PM            28,672 SiSPInst.dll
+              12 File(s)      4,447,761 bytes
+
+ Directory of G:\Drivers\VGA\SIS\WinXP64
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/04/2005  01:47 AM             7,168 InstFunc.dll
+02/22/2005  03:35 PM            46,080 InstFunc.exe
+03/04/2005  01:57 AM            49,152 sis660.bin
+03/04/2005  01:45 AM            49,152 SiSBase.dll
+03/04/2005  02:40 AM         1,864,409 sisgl.dll
+11/27/2000  11:46 PM                 2 sisgr.cat
+03/07/2005  03:39 PM            37,852 sisgr.inf
+03/04/2005  01:58 AM           510,976 sisgrp.pdb
+03/04/2005  02:41 PM           307,712 sisgrp.sys
+03/04/2005  02:55 PM           952,320 sisgrv.dll
+03/04/2005  02:12 AM         1,240,064 sisgrv.pdb
+03/04/2005  01:47 AM           184,320 SiSInst.dll
+03/04/2005  01:46 AM           258,048 SiSParse.dll
+03/07/2005  01:15 PM            28,672 SiSPInst.dll
+03/04/2005  01:50 AM            47,616 SiSPower.dll
+03/04/2005  01:49 AM           401,408 sisumgr.dll
+              16 File(s)      5,984,951 bytes
+
+ Directory of G:\Drivers\VGA\SIS\WinXP_2K
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+03/04/2005  01:47 AM             7,168 InstFunc.dll
+02/22/2005  03:35 PM            36,864 InstFunc.exe
+03/04/2005  01:57 AM            49,152 sis650.bin
+03/04/2005  01:57 AM            49,152 sis660.bin
+03/04/2005  01:57 AM            49,152 sis740.bin
+11/26/2003  03:10 PM            65,536 sis741.bin
+11/26/2003  03:10 PM            65,536 sis760.bin
+03/04/2005  01:45 AM            49,152 SiSBase.dll
+03/04/2005  02:40 AM         1,864,409 sisgl.dll
+03/09/2005  04:11 PM            32,681 sisgr.cat
+03/07/2005  03:53 PM            39,439 sisgr.inf
+03/04/2005  02:40 PM           429,056 sisgrp.pdb
+03/04/2005  02:40 PM           243,200 sisgrp.sys
+03/04/2005  02:48 PM           870,400 sisgrv.dll
+03/04/2005  02:48 PM         1,313,792 sisgrv.pdb
+03/04/2005  01:47 AM           184,320 SiSInst.dll
+03/04/2005  01:46 AM           258,048 SiSParse.dll
+03/07/2005  01:15 PM            28,672 SiSPInst.dll
+03/04/2005  01:50 AM            49,152 SiSPower.dll
+03/04/2005  02:41 AM            11,776 srvkp.sys
+              20 File(s)      5,696,657 bytes
+
+ Directory of G:\HowToUse
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  10:27 AM    <DIR>          ..
+05/19/2005  08:46 AM    <DIR>          Contents
+05/19/2005  08:46 AM    <DIR>          Guide
+05/19/2005  08:46 AM    <DIR>          Home
+03/14/2005  09:39 AM             3,769 Howtouse.html
+05/19/2005  08:46 AM    <DIR>          Images
+05/19/2005  08:46 AM    <DIR>          Install
+05/19/2005  08:46 AM    <DIR>          _notes
+               1 File(s)          3,769 bytes
+
+ Directory of G:\HowToUse\Contents
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+07/01/2003  02:24 PM               636 contents.html
+05/19/2004  04:41 PM               436 Howtouse-old.html
+02/12/2001  10:37 PM               273 left-00.htm
+02/15/2001  06:46 PM             3,376 menu-contents.html
+05/19/2005  09:06 AM            10,431 right-contents.html
+               5 File(s)         15,152 bytes
+
+ Directory of G:\HowToUse\Guide
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+06/26/2003  10:55 AM               600 guide.html
+05/19/2004  04:58 PM               433 Howtouse-old.html
+05/19/2005  09:09 AM             1,915 left-guide.html
+12/19/2002  05:22 PM             3,093 menu-guide.html
+04/13/2005  06:19 PM             4,082 right-guide-sc.html
+04/13/2005  06:19 PM             4,083 right-guide-tc.html
+04/13/2005  06:18 PM             4,070 right-guide-pl.html
+04/13/2005  06:17 PM             4,073 right-guide-in.html
+04/13/2005  04:59 PM             4,071 right-guide-en.html
+04/13/2005  06:16 PM             4,071 right-guide-fi.html
+04/13/2005  06:15 PM             4,069 right-guide-nl.html
+04/13/2005  06:17 PM             4,073 right-guide-hu.html
+04/13/2005  06:14 PM             4,074 right-guide-pt.html
+04/13/2005  06:17 PM             4,071 right-guide-it.html
+04/13/2005  06:18 PM             4,071 right-guide-ru.html
+04/13/2005  06:19 PM             4,071 right-guide-sv.html
+04/13/2005  06:15 PM             4,071 right-guide-es.html
+04/13/2005  06:16 PM             4,070 right-guide-fr.html
+04/13/2005  06:18 PM             4,074 right-guide-no.html
+09/21/2004  05:13 PM             5,540 right-guide.html
+04/13/2005  06:14 PM             4,069 right-guide-cs.html
+04/13/2005  06:15 PM             4,070 right-guide-da.html
+04/13/2005  05:07 PM             4,017 right-guide-de.html
+04/13/2005  06:16 PM             4,070 right-guide-el.html
+              24 File(s)         88,901 bytes
+
+ Directory of G:\HowToUse\Home
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/10/2001  11:28 AM               590 bd-main.html
+02/15/2001  06:07 PM               276 left-00.htm
+02/13/2004  02:58 PM             3,396 menu.html
+02/13/2004  09:27 AM             1,501 right-main.htm
+06/14/2004  05:01 PM               709 top.html
+05/19/2005  08:46 AM    <DIR>          _notes
+               5 File(s)          6,472 bytes
+
+ Directory of G:\HowToUse\Home\_notes
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\HowToUse\Images
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+02/13/2004  09:08 AM             3,643 bg.jpg
+12/17/2000  11:00 PM                35 dot-gray.gif
+01/10/2001  12:21 PM               262 function_01.gif
+05/20/2002  10:20 PM               277 function_02.gif
+02/13/2004  09:11 AM             7,633 icon_contents01.jpg
+02/13/2004  09:11 AM             7,008 icon_contents02.jpg
+02/17/2004  01:06 PM             7,868 icon_contents03.jpg
+05/21/2004  04:47 PM             7,670 icon_detect01.jpg
+05/21/2004  04:48 PM             7,087 icon_detect02.jpg
+05/21/2004  04:47 PM             7,975 icon_detect03.jpg
+02/13/2004  09:12 AM             7,536 icon_guide01.jpg
+02/13/2004  09:13 AM             6,897 icon_guide02.jpg
+02/17/2004  01:07 PM             7,815 icon_guide03.jpg
+02/13/2004  09:12 AM             7,340 icon_install01.jpg
+02/13/2004  09:12 AM             6,769 icon_install02.jpg
+02/17/2004  01:07 PM             7,706 icon_install03.jpg
+11/30/2004  03:45 PM            26,168 index_bg.jpg
+01/09/2001  01:22 PM                54 left-bk.gif
+07/15/2002  01:23 PM            47,151 mane-image.jpg
+01/10/2001  08:08 AM                46 menu-bk-white.gif
+02/07/2001  01:19 PM               816 menu-bk-00.gif
+02/13/2004  09:35 AM             1,201 menu-bk-01.gif
+02/07/2001  01:37 PM               343 menu-bk-02-white.gif
+02/13/2004  09:32 AM               255 menu-bk-02.gif
+02/13/2004  09:39 AM                49 menu-white.gif
+01/09/2001  12:28 PM                61 menu_arrow_dn.gif
+05/13/2002  09:44 PM                56 menu_arrow_sm.gif
+12/17/2000  11:00 PM                43 orange-light.gif
+12/17/2000  11:00 PM                35 orange-light2.gif
+01/09/2001  03:36 PM                43 sub-dot-gray.gif
+02/12/2001  12:00 PM             6,684 table-1.jpg
+02/12/2001  09:52 AM               756 Table-1B.jpg
+02/09/2001  01:04 PM             2,789 table-2.jpg
+01/09/2001  12:48 PM                51 top-bk0.gif
+11/30/2004  03:42 PM            10,863 top-name.gif
+12/13/2000  11:00 PM                43 transparent.gif
+05/19/2005  08:46 AM    <DIR>          _notes
+              36 File(s)        191,028 bytes
+
+ Directory of G:\HowToUse\Images\_notes
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\HowToUse\Install
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+12/19/2002  12:08 PM             7,352 2k_NAV.htm
+05/19/2004  04:58 PM               435 Howtouse-old.html
+12/06/2001  09:52 AM               653 install.html
+06/16/2004  04:04 PM             1,882 left-install.html
+02/15/2001  06:48 PM             3,615 menu-install.html
+03/14/2005  09:38 AM             3,686 right-install.html
+05/19/2005  08:46 AM    <DIR>          Win2K
+05/19/2005  08:46 AM    <DIR>          WinXP
+               6 File(s)         17,623 bytes
+
+ Directory of G:\HowToUse\Install\Win2K
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/20/2003  04:56 PM             9,266 2k_80211.htm
+05/20/2003  04:58 PM             2,427 2k_App.html
+05/20/2003  04:50 PM             5,816 2k_Driver.html
+01/16/2003  01:48 PM             3,606 2k_inf.htm
+01/16/2003  02:06 PM             4,200 2k_Launch.htm
+01/16/2003  01:56 PM             2,400 2K_List.html
+05/22/2003  05:16 PM            10,248 2K_MODEM.htm
+01/24/2003  01:12 PM             3,471 2k_speedstp.htm
+01/16/2003  01:50 PM             3,463 2k_TouchPad.htm
+02/07/2003  02:37 PM             7,954 2k_USB20.htm
+01/16/2003  02:08 PM             3,048 2k_Utility.html
+              11 File(s)         55,899 bytes
+
+ Directory of G:\HowToUse\Install\WinXP
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+05/20/2004  11:14 AM             5,306 xp_80211.htm
+07/07/2004  06:16 PM             9,740 xp_80211bg.htm
+10/09/2001  05:33 PM             4,372 xp_aceroobe.htm
+03/22/2005  01:10 PM             3,363 xp_agp.htm
+05/20/2004  11:24 AM             4,984 xp_AMD64.htm
+08/14/2003  04:12 PM            14,954 xp_AMDPONW.htm
+05/19/2005  09:50 AM             3,248 xp_App.html
+09/25/2003  11:47 PM             3,432 xp_Arcade.htm
+05/20/2004  10:51 AM             3,699 xp_Audio.htm
+06/29/2004  05:36 PM             3,843 xp_bluetooth.htm
+09/25/2003  11:46 PM             3,756 XP_Cardbus.htm
+09/25/2003  02:23 PM             3,778 XP_cardreader.htm
+07/26/2002  05:40 PM             3,868 xp_cdmmc.htm
+09/21/2004  04:17 PM             3,631 xp_cdmaker.htm
+09/26/2003  01:33 PM             3,444 xp_Director.htm
+06/10/2004  04:10 PM             3,626 xp_DirectX.htm
+04/14/2005  03:09 PM             9,077 xp_Display.htm
+04/14/2005  09:04 AM             4,095 xp_Driver.html
+07/26/2002  06:45 PM             3,885 xp_easybut.htm
+10/06/2004  03:49 PM             3,799 xp_eManager.htm
+07/07/2004  06:12 PM             3,859 xp_ePower.htm
+01/13/2003  04:01 PM             3,458 xp_FileCD.htm
+06/20/2003  02:54 PM             3,777 xp_FIR.htm
+03/22/2005  01:10 PM             3,352 xp_inf.htm
+03/01/2002  09:37 PM             3,477 xp_InviLink.htm
+04/15/2005  04:23 PM            16,077 xp_lan.htm
+05/20/2004  11:16 AM             3,745 xp_lanXX.htm
+07/07/2004  09:14 AM             4,149 xp_Launch.htm
+03/14/2005  05:30 PM             2,411 xp_List.html
+03/14/2005  09:42 AM             9,853 XP_MODEM.htm
+01/13/2003  01:39 PM             4,048 xp_NBMgr.htm
+05/19/2005  10:00 AM             5,360 xp_Norton.htm
+05/20/2004  11:25 AM             3,722 XP_P2P.htm
+09/21/2004  04:17 PM             3,657 xp_PowerDVD.htm
+09/25/2003  11:57 PM             3,431 xp_Proset.htm
+10/15/2003  09:10 AM            13,460 xp_q823980.htm
+02/19/2003  10:29 AM             3,472 xp_smartap.htm
+01/24/2003  12:45 PM             3,654 xp_smartc.htm
+03/01/2002  09:47 PM             3,422 xp_speedstp.htm
+04/19/2005  12:40 PM             3,621 xp_SunJVM.htm
+05/20/2004  10:50 AM             3,662 xp_TouchPad.htm
+09/21/2004  03:47 PM             2,041 xp_Utility.html
+              42 File(s)        207,608 bytes
+
+ Directory of G:\HowToUse\_notes
+
+05/19/2005  08:46 AM    <DIR>          .
+05/19/2005  08:46 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+            1510 File(s)    682,288,008 bytes
+             798 Dir(s)               0 bytes free

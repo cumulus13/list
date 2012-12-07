@@ -1,0 +1,769 @@
+ Volume in drive T is OpenSolaris
+ Volume Serial Number is 88E3-0414
+
+ Directory of T:\
+
+05/14/2009  11:33 PM             2,048 .catalog
+05/14/2009  10:53 PM    <DIR>          .cdrom
+05/14/2009  11:07 PM                50 .image_info
+05/14/2009  11:33 PM             4,219 .livecd-cdrom-content
+05/14/2009  11:33 PM                 0 bin
+05/14/2009  11:07 PM    <DIR>          boot
+05/14/2009  10:53 PM    <DIR>          dev
+05/14/2009  10:48 PM    <DIR>          devices
+05/14/2009  10:53 PM    <DIR>          jack
+05/14/2009  10:53 PM    <DIR>          mnt
+05/14/2009  10:51 PM    <DIR>          platform
+05/14/2009  10:48 PM    <DIR>          proc
+05/14/2009  10:48 PM                 0 reconfigure
+05/14/2009  10:48 PM    <DIR>          root
+05/14/2009  10:53 PM    <DIR>          save
+05/14/2009  11:31 PM       588,066,304 solaris.zlib
+05/14/2009  11:33 PM        29,468,672 solarismisc.zlib
+05/14/2009  10:48 PM    <DIR>          system
+05/14/2009  10:48 PM    <DIR>          tmp
+               7 File(s)    617,541,293 bytes
+
+ Directory of T:\.cdrom
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\boot
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM    <DIR>          acpi
+05/14/2009  11:03 PM    <DIR>          amd64
+05/14/2009  10:52 PM    <DIR>          grub
+05/14/2009  10:52 PM    <DIR>          solaris
+05/14/2009  10:52 PM           309,397 solaris.xpm
+05/14/2009  11:07 PM        37,819,325 x86.microroot
+               2 File(s)     38,128,722 bytes
+
+ Directory of T:\boot\acpi
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:48 PM    <DIR>          tables
+               0 File(s)              0 bytes
+
+ Directory of T:\boot\acpi\tables
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:48 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\boot\amd64
+
+05/14/2009  11:03 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  11:03 PM        45,565,694 x86.microroot
+               1 File(s)     45,565,694 bytes
+
+ Directory of T:\boot\grub
+
+05/14/2009  10:52 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:52 PM    <DIR>          bin
+05/14/2009  10:52 PM             1,867 capability
+05/14/2009  10:52 PM                10 default
+05/14/2009  10:52 PM             8,692 e2fs_stage1_5
+05/14/2009  10:52 PM             8,420 fat_stage1_5
+05/14/2009  10:52 PM             7,700 ffs_stage1_5
+05/14/2009  10:52 PM             1,447 install_menu
+05/14/2009  10:52 PM             7,800 iso9660_stage1_5
+05/14/2009  10:52 PM             9,188 jfs_stage1_5
+05/14/2009  11:07 PM             1,001 menu.lst
+05/14/2009  10:52 PM             7,892 minix_stage1_5
+05/14/2009  10:52 PM           138,000 nbgrub
+05/14/2009  10:52 PM           139,024 pxegrub
+05/14/2009  10:52 PM            10,132 reiserfs_stage1_5
+05/14/2009  10:52 PM            52,654 splash.xpm.gz
+05/14/2009  10:52 PM               512 stage1
+05/14/2009  10:52 PM           138,608 stage2
+05/14/2009  10:52 PM           138,608 stage2_eltorito
+05/14/2009  10:52 PM             7,976 ufs2_stage1_5
+05/14/2009  10:52 PM             7,572 ufs_stage1_5
+05/14/2009  10:52 PM             7,380 vstafs_stage1_5
+05/14/2009  10:52 PM            10,028 xfs_stage1_5
+05/14/2009  10:52 PM            18,348 zfs_stage1_5
+              22 File(s)        722,859 bytes
+
+ Directory of T:\boot\grub\bin
+
+05/14/2009  10:52 PM    <DIR>          .
+05/14/2009  10:52 PM    <DIR>          ..
+05/14/2009  10:52 PM           179,584 grub
+               1 File(s)        179,584 bytes
+
+ Directory of T:\boot\solaris
+
+05/14/2009  10:52 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:48 PM    <DIR>          bin
+05/14/2009  10:52 PM             1,275 bootenv.rc
+05/14/2009  10:52 PM    <DIR>          devicedb
+05/14/2009  10:48 PM               490 filelist.ramdisk
+05/14/2009  10:48 PM               144 filelist.safe
+               3 File(s)          1,909 bytes
+
+ Directory of T:\boot\solaris\bin
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:52 PM    <DIR>          ..
+05/14/2009  10:48 PM             1,421 create_diskmap
+05/14/2009  10:48 PM            14,675 create_ramdisk
+05/14/2009  10:48 PM             2,936 extract_boot_filelist
+05/14/2009  10:48 PM            12,612 mbr
+05/14/2009  10:48 PM                 0 root_archive
+05/14/2009  10:48 PM            12,700 symdef
+05/14/2009  10:48 PM             4,185 update_grub
+               7 File(s)         48,529 bytes
+
+ Directory of T:\boot\solaris\devicedb
+
+05/14/2009  10:52 PM    <DIR>          .
+05/14/2009  10:52 PM    <DIR>          ..
+05/14/2009  10:52 PM            26,916 master
+               1 File(s)         26,916 bytes
+
+ Directory of T:\dev
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM                 0 dld
+05/14/2009  10:48 PM    <DIR>          dsk
+05/14/2009  10:48 PM    <DIR>          fd
+05/14/2009  10:48 PM    <DIR>          ipnet
+05/14/2009  10:48 PM    <DIR>          net
+05/14/2009  10:48 PM                 0 nvidia0
+05/14/2009  10:48 PM                 0 nvidia1
+05/14/2009  10:48 PM                 0 nvidia10
+05/14/2009  10:48 PM                 0 nvidia11
+05/14/2009  10:48 PM                 0 nvidia12
+05/14/2009  11:33 PM                 0 nvidia13
+05/14/2009  10:48 PM                 0 nvidia14
+05/14/2009  10:48 PM                 0 nvidia15
+05/14/2009  10:48 PM                 0 nvidia2
+05/14/2009  10:48 PM                 0 nvidia3
+05/14/2009  10:48 PM                 0 nvidia4
+05/14/2009  10:48 PM                 0 nvidia5
+05/14/2009  10:48 PM                 0 nvidia6
+05/14/2009  10:48 PM                 0 nvidia7
+05/14/2009  10:48 PM                 0 nvidia8
+05/14/2009  10:48 PM                 0 nvidia9
+05/14/2009  10:48 PM                 0 nvidiactl
+05/14/2009  10:48 PM    <DIR>          pts
+05/14/2009  10:48 PM    <DIR>          rdsk
+05/14/2009  10:48 PM    <DIR>          rmt
+05/14/2009  10:48 PM    <DIR>          sad
+05/14/2009  10:48 PM                 0 stderr
+05/14/2009  10:48 PM                 0 stdin
+05/14/2009  10:48 PM                 0 stdout
+05/14/2009  10:48 PM    <DIR>          swap
+05/14/2009  10:48 PM    <DIR>          term
+05/14/2009  10:48 PM    <DIR>          vt
+05/14/2009  10:48 PM    <DIR>          zcons
+              21 File(s)              0 bytes
+
+ Directory of T:\dev\dsk
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\fd
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\ipnet
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\net
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\pts
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\rdsk
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\rmt
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\sad
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\swap
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\term
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\vt
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\dev\zcons
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\devices
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM    <DIR>          pseudo
+               0 File(s)              0 bytes
+
+ Directory of T:\devices\pseudo
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:48 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\jack
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:53 PM             1,000 .Xclients
+05/14/2009  10:53 PM               280 .bashrc
+05/14/2009  10:53 PM    <DIR>          .config
+05/14/2009  10:53 PM               611 .profile
+05/14/2009  10:53 PM                61 .xscreensaver
+05/14/2009  10:53 PM    <DIR>          Desktop
+05/14/2009  10:53 PM    <DIR>          Documents
+05/14/2009  10:53 PM             5,430 install-icon.png
+05/14/2009  10:53 PM             2,587 xorg.conf.vesa
+               6 File(s)          9,969 bytes
+
+ Directory of T:\jack\.config
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          autostart
+               0 File(s)              0 bytes
+
+ Directory of T:\jack\.config\autostart
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM               146 iotrace.desktop
+               1 File(s)            146 bytes
+
+ Directory of T:\jack\Desktop
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM                 0 .os-icons-installed
+05/14/2009  10:53 PM             1,848 ddu.desktop
+05/14/2009  10:53 PM             1,485 getting_started.desktop
+05/14/2009  10:53 PM             1,457 install_opensolaris.desktop
+               4 File(s)          4,790 bytes
+
+ Directory of T:\jack\Documents
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\mnt
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          misc
+               0 File(s)              0 bytes
+
+ Directory of T:\mnt\misc
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          i86hvm
+05/14/2009  11:07 PM    <DIR>          i86pc
+05/14/2009  10:51 PM    <DIR>          i86xpv
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          kernel
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm\kernel
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          drv
+05/14/2009  11:07 PM    <DIR>          misc
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm\kernel\drv
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm\kernel\drv\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm\kernel\misc
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86hvm\kernel\misc\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          amd64
+05/14/2009  10:51 PM    <DIR>          kernel
+05/14/2009  11:07 PM    <DIR>          ucode
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\amd64
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          amd64
+05/14/2009  11:07 PM    <DIR>          cpu
+05/14/2009  11:07 PM    <DIR>          dacf
+05/14/2009  11:07 PM    <DIR>          drv
+05/14/2009  11:07 PM    <DIR>          kmdb
+05/14/2009  11:07 PM    <DIR>          mach
+05/14/2009  11:07 PM    <DIR>          misc
+05/14/2009  11:07 PM    <DIR>          sys
+05/14/2009  10:51 PM         1,319,308 unix
+               1 File(s)      1,319,308 bytes
+
+ Directory of T:\platform\i86pc\kernel\amd64
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM         1,777,648 unix
+               1 File(s)      1,777,648 bytes
+
+ Directory of T:\platform\i86pc\kernel\cpu
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\cpu\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\dacf
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\dacf\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\drv
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\drv\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\kmdb
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+05/14/2009  10:51 PM            63,388 unix
+               1 File(s)         63,388 bytes
+
+ Directory of T:\platform\i86pc\kernel\kmdb\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:51 PM            87,576 unix
+               1 File(s)         87,576 bytes
+
+ Directory of T:\platform\i86pc\kernel\mach
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\mach\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\misc
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\misc\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\sys
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\kernel\sys\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86pc\ucode
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          kernel
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM    <DIR>          amd64
+05/14/2009  11:07 PM    <DIR>          cpu
+05/14/2009  11:07 PM    <DIR>          dacf
+05/14/2009  11:07 PM    <DIR>          drv
+05/14/2009  11:07 PM    <DIR>          kmdb
+05/14/2009  11:07 PM    <DIR>          mach
+05/14/2009  11:07 PM    <DIR>          misc
+05/14/2009  11:07 PM    <DIR>          tod
+05/14/2009  10:51 PM         1,508,968 unix
+               1 File(s)      1,508,968 bytes
+
+ Directory of T:\platform\i86xpv\kernel\amd64
+
+05/14/2009  10:51 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  10:51 PM         2,014,032 unix
+               1 File(s)      2,014,032 bytes
+
+ Directory of T:\platform\i86xpv\kernel\cpu
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\cpu\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\dacf
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\dacf\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\drv
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\drv\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\kmdb
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+05/14/2009  10:51 PM            76,680 unix
+               1 File(s)         76,680 bytes
+
+ Directory of T:\platform\i86xpv\kernel\kmdb\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+05/14/2009  10:51 PM            99,544 unix
+               1 File(s)         99,544 bytes
+
+ Directory of T:\platform\i86xpv\kernel\mach
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\mach\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\misc
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\misc\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\tod
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  10:51 PM    <DIR>          ..
+05/14/2009  11:07 PM    <DIR>          amd64
+               0 File(s)              0 bytes
+
+ Directory of T:\platform\i86xpv\kernel\tod\amd64
+
+05/14/2009  11:07 PM    <DIR>          .
+05/14/2009  11:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\proc
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\root
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM               280 .bashrc
+05/14/2009  10:48 PM               611 .profile
+               2 File(s)            891 bytes
+
+ Directory of T:\save
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          etc
+05/14/2009  10:53 PM    <DIR>          usr
+               0 File(s)              0 bytes
+
+ Directory of T:\save\etc
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          X11
+05/14/2009  10:53 PM    <DIR>          gconf
+05/14/2009  10:48 PM             2,693 system
+05/14/2009  10:53 PM    <DIR>          xdg
+               1 File(s)          2,693 bytes
+
+ Directory of T:\save\etc\X11
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          gdm
+               0 File(s)              0 bytes
+
+ Directory of T:\save\etc\X11\gdm
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:51 PM             3,251 custom.conf
+               1 File(s)          3,251 bytes
+
+ Directory of T:\save\etc\gconf
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          schemas
+               0 File(s)              0 bytes
+
+ Directory of T:\save\etc\gconf\schemas
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM            42,944 panel-default-setup.entries
+               1 File(s)         42,944 bytes
+
+ Directory of T:\save\etc\xdg
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          autostart
+               0 File(s)              0 bytes
+
+ Directory of T:\save\etc\xdg\autostart
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:52 PM             3,291 updatemanagernotifier.desktop
+               1 File(s)          3,291 bytes
+
+ Directory of T:\save\usr
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          share
+               0 File(s)              0 bytes
+
+ Directory of T:\save\usr\share
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          dbus-1
+05/14/2009  10:53 PM    <DIR>          gnome
+               0 File(s)              0 bytes
+
+ Directory of T:\save\usr\share\dbus-1
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          services
+               0 File(s)              0 bytes
+
+ Directory of T:\save\usr\share\dbus-1\services
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:52 PM                99 gnome-power-manager.service
+               1 File(s)             99 bytes
+
+ Directory of T:\save\usr\share\gnome
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:53 PM    <DIR>          autostart
+               0 File(s)              0 bytes
+
+ Directory of T:\save\usr\share\gnome\autostart
+
+05/14/2009  10:53 PM    <DIR>          .
+05/14/2009  10:53 PM    <DIR>          ..
+05/14/2009  10:52 PM             2,685 gnome-keyring-daemon-wr.desktop
+05/14/2009  10:52 PM             6,238 gnome-power-manager.desktop
+               2 File(s)          8,923 bytes
+
+ Directory of T:\system
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM    <DIR>          contract
+05/14/2009  10:48 PM    <DIR>          object
+               0 File(s)              0 bytes
+
+ Directory of T:\system\contract
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:48 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\system\object
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  10:48 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\tmp
+
+05/14/2009  10:48 PM    <DIR>          .
+05/14/2009  11:33 PM    <DIR>          ..
+05/14/2009  10:48 PM                 0 AdDrEm.lck
+               1 File(s)              0 bytes
+
+     Total Files Listed:
+              94 File(s)    709,239,647 bytes
+             285 Dir(s)               0 bytes free

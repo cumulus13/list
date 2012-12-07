@@ -1,0 +1,123 @@
+ Volume in drive T is x-code_Linux
+ Volume Serial Number is 072E-8ACD
+
+ Directory of T:\
+
+09/19/2008  09:45 PM    <DIR>          boot
+09/19/2008  09:45 PM    <DIR>          xcode
+               0 File(s)              0 bytes
+
+ Directory of T:\boot
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\boot\dos
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:35 PM               571 config
+09/19/2008  09:35 PM            32,225 loadlin.exe
+09/19/2008  09:35 PM               342 readme.txt
+09/19/2008  09:35 PM               363 xcode.bat
+               4 File(s)         33,501 bytes
+
+ Directory of T:\boot\isolinux
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:35 PM            12,331 isolinux.bin
+08/26/2008  04:04 PM                24 isolinux.cfg
+09/19/2008  09:46 PM             2,048 isolinux.boot
+               3 File(s)         14,403 bytes
+
+ Directory of T:\boot\syslinux
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:35 PM            70,196 lilo
+09/19/2008  09:35 PM               404 mbr.bin
+09/19/2008  09:35 PM            22,660 syslinux
+08/26/2008  04:04 PM                24 syslinux.cfg
+09/19/2008  09:35 PM            19,608 syslinux.com
+09/19/2008  09:35 PM            24,576 syslinux.exe
+               6 File(s)        137,468 bytes
+
+ Directory of T:\xcode
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:45 PM    <DIR>          base
+09/19/2008  09:35 PM               245 LICENSE
+09/19/2008  09:35 PM               437 livecd.sgn
+09/19/2008  09:46 PM               709 make_iso.bat
+09/19/2008  09:35 PM               926 make_iso.sh
+09/19/2008  09:45 PM    <DIR>          modules
+09/19/2008  09:45 PM    <DIR>          optional
+09/19/2008  09:45 PM    <DIR>          rootcopy
+09/19/2008  09:45 PM    <DIR>          tools
+               4 File(s)          2,317 bytes
+
+ Directory of T:\xcode\base
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+10/15/2008  11:03 AM         2,228,224 bin.lzm
+10/15/2008  11:03 AM         1,912,832 etc.lzm
+10/15/2008  11:03 AM             4,096 home.lzm
+10/15/2008  11:05 AM        14,934,016 lib.lzm
+10/15/2008  11:05 AM            12,288 opt.lzm
+10/15/2008  11:06 AM        27,426,816 root.lzm
+10/15/2008  11:32 AM         4,317,184 sbin.lzm
+10/15/2008  11:32 AM             4,096 srv.lzm
+10/15/2008  11:31 AM       231,550,976 usr.lzm
+10/15/2008  11:32 AM           843,776 var.lzm
+              10 File(s)    283,234,304 bytes
+
+ Directory of T:\xcode\modules
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\xcode\optional
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\xcode\rootcopy
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of T:\xcode\tools
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:35 PM             2,692 activate
+09/19/2008  09:35 PM             2,720 deactivate
+09/19/2008  09:35 PM             1,286 deb2lzm
+09/19/2008  09:35 PM               484 dir2lzm
+09/19/2008  09:35 PM            25,563 liblinuxlive
+09/19/2008  09:35 PM               397 lzm2dir
+09/19/2008  09:35 PM           137,740 mksquashfs
+09/19/2008  09:35 PM               637 tgz2lzm
+09/19/2008  09:35 PM            47,516 unsquashfs
+09/19/2008  09:45 PM    <DIR>          WIN
+               9 File(s)        219,035 bytes
+
+ Directory of T:\xcode\tools\WIN
+
+09/19/2008  09:45 PM    <DIR>          .
+09/19/2008  09:45 PM    <DIR>          ..
+09/19/2008  09:35 PM               136 config
+09/19/2008  09:35 PM           454,537 cygwin1.dll
+09/19/2008  09:35 PM           231,249 mkisofs.exe
+               3 File(s)        685,922 bytes
+
+     Total Files Listed:
+              39 File(s)    284,326,950 bytes
+              30 Dir(s)               0 bytes free

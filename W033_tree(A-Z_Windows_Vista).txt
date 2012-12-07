@@ -1,0 +1,468 @@
+Folder PATH listing for volume IK Jan 2007
+Volume serial number is 7BDF-142D
+F:\
+|   autorun.exe
+|   autorun.ico
+|   autorun.inf
+|   autorun.tgt
+|   
++---AutoRunSource
+|       AutoRun.src
+|       Menu Utama.pg
+|       Software.pg
+|       Splash Screen.pg
+|       
++---Default CD
+|   +---Adobe Acrobat Reader 7.05
+|   |       AdbeRdr705_enu_full.exe
+|   |       
+|   +---Codec
+|   |       tscc.exe
+|   |       
+|   +---DirectX
+|   |       DirectX_Apr2006.exe
+|   |       
+|   +---Flash Player
+|   |       flapl7.exe
+|   |       
+|   +---Quick Time
+|   |       QuickTime713.exe
+|   |       
+|   +---Real Player
+|   |       RealPlayer10-5GOLD.exe
+|   |       
+|   \---WinZip 9.0
+|           winzip90.exe
+|           
++---Game
+|   \---playable demo
+|       +---Age Of Empires 3
+|       |       Demo AOE3.txt
+|       |       aoe3trial.exe
+|       |       
+|       +---Codename Panzers
+|       |       Demo Panzer.txt
+|       |       Panzers_sp_demo_1.exe
+|       |       
+|       \---Pro Evolution Soccer 6
+|               Demo PES6.txt
+|               PES6_Demo.exe
+|               
++---Image
+|       Arrow Left.png
+|       Baner Teks.psd
+|       Bar-L.png
+|       Bar-S.png
+|       Beck.jpg
+|       Bouncy Vibes 60.mp3
+|       Bullet-1.png
+|       Bullet-2.png
+|       Bullet.png
+|       Button-1.png
+|       CD-2.png
+|       CD-OK.png
+|       CD.png
+|       Close-1.png
+|       Close-2.png
+|       Close-3 (red).png
+|       Close-3.png
+|       Compile.png
+|       Cover Info.png
+|       Cover.jpg
+|       DVD Logo.png
+|       Document view.png
+|       Document-Text.png
+|       Folder-1.png
+|       Folder-2.png
+|       Folder-3.png
+|       Folder-OK.psd
+|       Folder.png
+|       Folder_close.png
+|       Folder_with_file.png
+|       Game.png
+|       Garis Vert.png
+|       Gradasi.png
+|       Hand.png
+|       Info Anima.gif
+|       Jajar-1.png
+|       Jajar-2.png
+|       Jajar.png
+|       Laptop cFoood.png
+|       Laptop cFoood1.png
+|       Line Vert-Long.png
+|       Line Vert-Short.png
+|       List-Game.png
+|       List-Koleksi.png
+|       List-Software.png
+|       List-Tip & Trik.png
+|       List-Versi Baru.png
+|       Logo InfoKomputer.ico
+|       Logo InfoKomputer.jpg
+|       Mail-2.png
+|       Mail.png
+|       Miniz-1.png
+|       Miniz-2.png
+|       Miniz-3.png
+|       Next.gif
+|       Notepad 1.png
+|       OK.png
+|       Panah Merah.gif
+|       Remove.png
+|       Round Previous.png
+|       Software.png
+|       Tip & Trik.png
+|       Tip&Trik.gif
+|       Tutorial Interaktif.png
+|       Tutorial.gif
+|       Tutorial.png
+|       Utiliti.png
+|       Warning.png
+|       Web.png
+|       globe1.gif
+|       juniper.gif
+|       langganan.swf
+|       logo_vista.gif
+|       vista-1280.jpg
+|       vista_logo.png
+|       vista_logo1.png
+|       
++---Koleksi
+|   +---CMS
+|   |   +---AuraCMS
+|   |   |       auracms.txt
+|   |   |       auracms162.zip
+|   |   |       
+|   |   +---CMSMadeSimple
+|   |   |       New Text Document.txt
+|   |   |       cmsmadesimple-1.0.2.zip
+|   |   |       cmsmadesimple-diff-1.0.1-1.0.2.zip
+|   |   |       
+|   |   +---Drupal
+|   |   |       New Text Document.txt
+|   |   |       drupal-4.7.4.tar.gz
+|   |   |       
+|   |   +---Joomla
+|   |   |       Joomla_1.0.0_to_1.0.11-Stable-Patch_Package.zip
+|   |   |       Joomla_1.0.11-Stable-Full_Package.zip
+|   |   |       joomla.txt
+|   |   |       
+|   |   +---Limbo
+|   |   |       Limbo.txt
+|   |   |       limbo_1_0_4_2.zip
+|   |   |       
+|   |   +---Mambo
+|   |   |       Mambo.txt
+|   |   |       MamboV4.6.1.zip
+|   |   |       
+|   |   +---MediaWiki
+|   |   |       MediaWiki.txt
+|   |   |       mediawiki-1.8.2.tar.gz
+|   |   |       
+|   |   +---NucleusCMS
+|   |   |       New Text Document.txt
+|   |   |       nucleus3.24.zip
+|   |   |       
+|   |   +---PHPNuke
+|   |   |       PHP-Nuke-7.9.zip
+|   |   |       PHPNuke.txt
+|   |   |       
+|   |   +---Plone for Windows
+|   |   |       plone-2.5.1-zope-2.9-6179.exe
+|   |   |       plone.txt
+|   |   |       
+|   |   +---PostNuke
+|   |   |       PostNuke-0.764.zip
+|   |   |       PostNuke-0.764_patch.zip
+|   |   |       PostNuke.txt
+|   |   |       
+|   |   +---TikiWiki
+|   |   |       New Text Document.txt
+|   |   |       tikiwiki-1.9.7.zip
+|   |   |       
+|   |   +---Typo3
+|   |   |       dummy-4.0.2.zip
+|   |   |       typo3.txt
+|   |   |       typo3_src-4.0.2.zip
+|   |   |       
+|   |   +---Wordpress
+|   |   |       wordpress-2.0.5.zip
+|   |   |       wordpress.txt
+|   |   |       
+|   |   +---XOOPS
+|   |   |       xoops-2.0.16.zip
+|   |   |       xoops.txt
+|   |   |       
+|   |   +---e107
+|   |   |       New Text Document.txt
+|   |   |       e107_076_fixes.zip
+|   |   |       e107_v0.7.6_full.zip
+|   |   |       
+|   |   \---endonesia
+|   |           eNdonesia84-en.zip
+|   |           endonesia.txt
+|   |           
+|   \---Office Suite
+|       +---602PC Suite
+|       |       602pc suite.jpg
+|       |       New Text Document.txt
+|       |       pcs4.exe
+|       |       
+|       \---OpenOffice.org
+|           |   openoffice org.txt
+|           |   openofficeorg.jpg
+|           |   
+|           +---OOo for Linux
+|           |       New Text Document.txt
+|           |       OOo_2.0.4_LinuxIntel_install.tar.gz
+|           |       
+|           \---OOo for Windows
+|                   New Text Document.txt
+|                   OOo_2.0.4_Win32Intel_install.exe
+|                   
++---PDF
+|       Angket Survai.pdf
+|       Animasi.pdf
+|       Image Editing.pdf
+|       Internet.pdf
+|       Pda.pdf
+|       Pengolah Kata.pdf
+|       Presentasi.pdf
+|       Sistem Operasi.pdf
+|       Spreadsheet.pdf
+|       Video Editing.pdf
+|       
++---Software
+|   +---AudaCity
+|   |       AudaCity.txt
+|   |       Audacity.bmp
+|   |       audacity-win-1.2.6.exe
+|   |       
+|   +---CalibrationAider
+|   |       CalibrationAider.bmp
+|   |       CalibrationAider.exe
+|   |       CalibrationAider.txt
+|   |       j2re-1_4_2_12-windows-i586-p.exe
+|   |       
+|   +---ClamWin Portable
+|   |       ClamWin.bmp
+|   |       ClamWinPortable.txt
+|   |       ClamWin_Portable_0.88.5.paf.exe
+|   |       
+|   +---FSecureInternetSecurity
+|   |   |   FSecureIS.txt
+|   |   |   Fsecure.bmp
+|   |   |   Serial Number.txt
+|   |   |   serial-key.txt
+|   |   |   setup.exe
+|   |   |   
+|   |   \---FSecureMobile
+|   |       +---nokia7710
+|   |       |       anti-virus_7710.sis
+|   |       |       fsmavs80s90_20_enu.pdf
+|   |       |       
+|   |       +---pocket-PC2003
+|   |       |       anti-virus-fsc-oem-ppc2003.cab
+|   |       |       
+|   |       +---pocket-PC5.0
+|   |       |       anti-virus-fsc-oem-ppc50.cab
+|   |       |       fsmavppc_20_enu.pdf
+|   |       |       
+|   |       +---s60-1st-edition
+|   |       |       anti-virus-fsc-os6.sis
+|   |       |       fsmavs60_21_enu.pdf
+|   |       |       
+|   |       +---s60-2nd-edition
+|   |       |       anti-virus-fsc-os7.sis
+|   |       |       fsmavs60_21_enu.pdf
+|   |       |       
+|   |       +---s60-3rd-edition
+|   |       |       fsmss60_30_user_guide.pdf
+|   |       |       mobile-security-s60-os91-fsc-oem.sisx
+|   |       |       
+|   |       +---s80
+|   |       |       fsms_s80_30_enu.pdf
+|   |       |       mobilesecurity-fsc-oem-s80.sis
+|   |       |       
+|   |       +---smartphone2003
+|   |       |       anti-virus-fsc-oem-sp2003.cab
+|   |       |       
+|   |       \---smartphone5.0
+|   |               anti-virus-fsc-oem-sp50.cab
+|   |               fsmavsph_20_enu.pdf
+|   |               
+|   +---Firefox Portable
+|   |       FirefoxPortable.bmp
+|   |       FirefoxPortable.txt
+|   |       Firefox_Portable_2.0_en-us.paf.exe
+|   |       
+|   +---IcoFX
+|   |       IcoFX.txt
+|   |       IcoFXSetup.exe
+|   |       IconFX.bmp
+|   |       
+|   +---NumaraTrackIt
+|   |   |   Howto install MSDE-Track-IT.txt
+|   |   |   NET.FRAMENETWORKdotnetfx.exe
+|   |   |   Numara.bmp
+|   |   |   Numara.txt
+|   |   |   Track-It!7.exe
+|   |   |   
+|   |   +---Docs
+|   |   |       AdminGuideTrackit7.pdf
+|   |   |       TechnicianGuide.pdf
+|   |   |       
+|   |   +---Patch HotFix
+|   |   |       TI70HF2.exe
+|   |   |       TI70HF3.exe
+|   |   |       TI70HF6.exe
+|   |   |       
+|   |   \---Prerequisite
+|   |           MSDE.exe
+|   |           mdac_typ_en.exe
+|   |           prereq.xml
+|   |           
+|   +---Onspeed
+|   |       OnSpeed.txt
+|   |       onspeed.bmp
+|   |       onspeed_Infokom_trial.exe
+|   |       
+|   +---PicaJet
+|   |       PicaJet.bmp
+|   |       PicaJet.txt
+|   |       PicaJetInstall.exe
+|   |       
+|   +---PrimoPDF
+|   |       FreePrimoPDF32Setup.exe
+|   |       PrimoPDF.bmp
+|   |       PrimoPDF.txt
+|   |       
+|   +---SqirlzMorph
+|   |       SqM_instal.exe
+|   |       SqirlzMorph.bmp
+|   |       SqirlzMorph.txt
+|   |       
+|   \---WildBitViewer
+|           ViewerSetup.exe
+|           WildBitViewer.bmp
+|           WildbitVewer.txt
+|           
++---Tip & Trik
+|   +---Animasi
+|   |       Efek Glowing Final.fla
+|   |       Efek Glowing Final.swf
+|   |       car-outline.fla
+|   |       
+|   +---Game
+|   |   +---Need for Speed
+|   |   |       desk.txt
+|   |   |       nfscarbonplus17.zip
+|   |   |       nfscsaveed10.zip
+|   |   |       
+|   |   \---Sims
+|   |           desk.txt
+|   |           sims2petsdecp.zip
+|   |           
+|   \---PDA
+|           New Text Document.txt
+|           SpbBackup_setup.exe
+|           
++---Tutorial Interaktif
+|   |   Animasi.exe
+|   |   Image Editing.exe
+|   |   Video Editing.exe
+|   |   
+|   \---Vista
+|           Autorun.inf
+|           mainmenu.swf
+|           menulevel1.swf
+|           menulevel2.swf
+|           menulevel3.swf
+|           project 10 - menghapus file.EXE
+|           project 11 - mengirim foto via e-mail.EXE
+|           project 12 - mengatur waktu.EXE
+|           project 13 - menambah foto di windows photo gallery.EXE
+|           project 14 - melihat foto berdasarkan tanggal.EXE
+|           project 15 - menggunakan tags.EXE
+|           project 16 - mengedit foto digital.EXE
+|           project 17 - memodifikasi username.EXE
+|           project 18 - menyembunyikan game.EXE
+|           project 19 - koneksi ke telkomnet instant.EXE
+|           project 2 - mengatur jendela aplikasi.EXE
+|           project 20 - membuat janji.EXE
+|           project 21 - windows sidebar.EXE
+|           project 22 - menambah username.EXE
+|           project 23 memulai windows vista.EXE
+|           project 24 mencari file.EXE
+|           project 25 - menginstall program.EXE
+|           project 26 - mengkopi data ke usb flash disk.EXE
+|           project 27 - memainkan musik menggunakan windows media player.EXE
+|           project 28 - menggunakan recycle bin.EXE
+|           project 29 - menggunakan contact.EXE
+|           project 3 memilih wallpaper.EXE
+|           project 30 - mengetik dokumen.EXE
+|           project 31 - menggunakan disk cleanup.EXE
+|           project 32 - meng-uninstall program.EXE
+|           project 33 - mengubah tampilan control panel.EXE
+|           project 34 - menginstall font baru.EXE
+|           project 35 - menggunakan sistem rating.EXE
+|           project 36 - menggunakan windows media center.EXE
+|           project 37 - menggunakan parental control bag 1.EXE
+|           project 38 - menggunakan parental control bag 2.EXE
+|           project 39 - menggunakan parental control bag 3.EXE
+|           project 4 - views dalam windows explorer.EXE
+|           project 40 - memblok program menggunakan firewall.EXE
+|           project 41 - menggunakan autoplay.EXE
+|           project 42 - mengatur sleep.EXE
+|           project 43 - men-scan spyware menggunakan defender.EXE
+|           project 44 - menggunakan indexing.EXE
+|           project 45 - mematikan windows vista.EXE
+|           project 45 - men-zip file.EXE
+|           project 5 - screen saver.EXE
+|           project 6 - windows explorer.EXE
+|           project 7 - windows photo gallery viewer.EXE
+|           project 8 - mengkopi dan memindah file.EXE
+|           project 9 - menjalankan program Run.EXE
+|           welcome.EXE
+|           
++---Uji Produk
+|       review-jan07.exe
+|       
+\---Versi Baru
+    +---Driver
+    |   +---Chipset
+    |   |       Chipset_Intel.txt
+    |   |       Intel_Chipset_8.1.1.1010.exe
+    |   |       
+    |   +---Kartu Grafis
+    |   |       Catalyst-612_WinXP2k.exe
+    |   |       Catalyst.txt
+    |   |       
+    |   \---Kartu Suara
+    |           CreativeAudigy_1-4-0061.exe
+    |           Driver_Creative.txt
+    |           Driver_Realtek.txt
+    |           Driver_SoundMax.txt
+    |           Intel SoundMax v5.12.01.exe
+    |           Realtek_HD-Audio_R151.exe
+    |           
+    +---Kaspersky Anti-Virus 6.0
+    |       New Text Document.txt
+    |       kav6.0.1.411en.exe
+    |       
+    +---PC BSD
+    |       ISO MD5 sum.txt
+    |       New Text Document.txt
+    |       PCBSD-1.2-x86-CD1.iso
+    |       
+    \---Update
+        +---AVG
+        |       Update AVG.txt
+        |       u7avi889hx.bin
+        |       
+        +---Ad-Aware
+        |       Update Ad-Aware.txt
+        |       defs.ref
+        |       
+        \---Kaspersky Anti-virus
+                av-i386-cumul.zip
+                

@@ -1,0 +1,97 @@
+Folder PATH listing for volume CDROM
+Volume serial number is 12B0-8732
+G:\
+|   CDrec-21.01.2005
+|   COPYRIGHT
+|   Checksums.sfv
+|   GPL
+|   LAST_CD
+|   README
+|   TRANS.TBL
+|   VERSION
+|   boot.catalog
+|   bootflop.img
+|   hdc1._.log.gz
+|   hdc1._.tar.gz
+|   rd-base.img.bz2
+|   
+\---doc
+    |   BusyBox.html
+    |   EditorsPick.gif
+    |   TRANS.TBL
+    |   bootfloppy.jpg
+    |   bootfloppy_loop.jpg
+    |   changes.html
+    |   config.html
+    |   credits.html
+    |   destination_path.jpg
+    |   documentation.html
+    |   download.html
+    |   enter_tape_device.jpg
+    |   etc_recovery.html
+    |   example_config
+    |   faqs.html
+    |   flowchart1.jpg
+    |   freshmeat_231100.jpg
+    |   index.html
+    |   installation.html
+    |   internals.html
+    |   interview_pandor.html
+    |   introduction.html
+    |   limp_penguin.gif
+    |   links.html
+    |   loopback.gif
+    |   main_menu.jpg
+    |   mk_penguin.gif
+    |   mkcdrec.8
+    |   mkcdrec.jpg
+    |   mkcdrec_banner.jpg
+    |   mkcdrec_banner_simple.gif
+    |   mkcdrec_banner_simple.lss
+    |   mkcdrec_log.html
+    |   news.html
+    |   option2_confirmation.jpg
+    |   ota.gif
+    |   sflogo-88-1.png
+    |   smiley_face_yellow.gif
+    |   softlandindia_pick.gif
+    |   support.html
+    |   template.html
+    |   test.jpg
+    |   todo.html
+    |   tuxbe.png
+    |   uf17a199.gif
+    |   unitedlinux.gif
+    |   user_story1.html
+    |   utilities.html
+    |   
+    +---.xvpics
+    |       TRANS.TBL
+    |       mkcdrec_banner_simple.gif
+    |       tuxbe.gif
+    |       
+    +---images
+    |   |   TRANS.TBL
+    |   |   content-enhanced.png
+    |   |   it3-sm.gif
+    |   |   mkcdrec_banner.jpg
+    |   |   mkcdrec_utilities.png
+    |   |   patent_button.png
+    |   |   paypal_button.gif
+    |   |   silery.jpg
+    |   |   small_arrow.gif
+    |   |   valid-xhtml10.png
+    |   |   
+    |   \---.xvpics
+    |           TRANS.TBL
+    |           mkcdrec_utilities.png
+    |           
+    \---style
+            TRANS.TBL
+            style1-button.css
+            style1-inset.css
+            style1-preformat.css
+            style1-sidebar-print.css
+            style1-sidebar.css
+            style1.css
+            

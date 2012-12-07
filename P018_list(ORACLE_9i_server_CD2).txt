@@ -1,0 +1,1369 @@
+ Volume in drive F is ORCL9011_2
+ Volume Serial Number is 5549-5068
+
+ Directory of F:\
+
+09/14/2001  12:30 AM    <DIR>          stage
+               0 File(s)              0 bytes
+
+ Directory of F:\stage
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          Components
+08/30/2001  03:22 AM                69 disk.label
+               1 File(s)             69 bytes
+
+ Directory of F:\stage\Components
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          oracle.tg
+09/14/2001  12:30 AM    <DIR>          oracle.apache
+09/14/2001  12:30 AM    <DIR>          oracle.bc4j
+09/14/2001  12:30 AM    <DIR>          oracle.isearch.client
+09/14/2001  12:30 AM    <DIR>          oracle.networking.cman
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.seeddb.compdss
+09/14/2001  12:30 AM    <DIR>          oracle.cartridges.context
+09/14/2001  12:30 AM    <DIR>          oracle.assistants.dbca
+09/14/2001  12:30 AM    <DIR>          oracle.assistants.dbma
+09/14/2001  12:30 AM    <DIR>          oracle.options.ano.dce
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.ds
+09/14/2001  12:30 AM    <DIR>          oracle.emcltprod
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.agent_ext.frms_agentext
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.hs_odbc
+09/14/2001  12:30 AM    <DIR>          oracle.options.intermedia.imclient
+09/14/2001  12:30 AM    <DIR>          oracle.java.jdbc
+09/14/2001  12:30 AM    <DIR>          oracle.webdb.modplsql
+09/14/2001  12:30 AM    <DIR>          oracle.networking.names
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.agent_ext.oapps_agentext
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.oci
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.agent_ext.oecm_agentext
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.oemagent
+09/14/2001  12:30 AM    <DIR>          oracle.apache.ojsp
+09/14/2001  12:30 AM    <DIR>          oracle.sysman.oms
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.agent_ext.ows_agentext
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.gateways.plsql
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.repapi
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.seeddb
+09/14/2001  12:30 AM    <DIR>          oracle.isearch.server
+09/14/2001  12:30 AM    <DIR>          oracle.emprod.agent_ext.sqlsrv_agentext
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.syndication
+09/14/2001  12:30 AM    <DIR>          oracle.tg.tg4sybs
+09/14/2001  12:30 AM    <DIR>          oracle.utilities.util
+09/14/2001  12:30 AM    <DIR>          oracle.sysman.webserver
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.xml
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.seeddb.compoltp
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.hs_olefs
+09/14/2001  12:30 AM    <DIR>          oracle.java.ojsp
+09/14/2001  12:30 AM    <DIR>          oracle.sysman.reporting
+09/14/2001  12:30 AM    <DIR>          oracle.java.sqlj
+09/14/2001  12:30 AM    <DIR>          oracle.rdbms.hs_olesql
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/27/2001  01:17 AM               168 build.0.0.jar
+08/27/2001  01:17 AM            38,959 doc.0.0.jar
+               2 File(s)         39,127 bytes
+
+ Directory of F:\stage\Components\oracle.apache
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1.3.12.0.3a
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache\1.3.12.0.3a
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache\1.3.12.0.3a\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache\1.3.12.0.3a\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          Expanded
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache\1.3.12.0.3a\1\DataFiles\Expanded
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          buildInfo
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache\1.3.12.0.3a\1\DataFiles\Expanded\buildInfo
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  10:04 PM                67 build.info
+               1 File(s)             67 bytes
+
+ Directory of F:\stage\Components\oracle.bc4j
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          5.0.0.417.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.bc4j\5.0.0.417.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.bc4j\5.0.0.417.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.bc4j\5.0.0.417.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/20/2001  06:01 PM         3,971,712 lib_doc.0.0.jar
+08/20/2001  06:01 PM           372,182 samples.0.0.jar
+               2 File(s)      4,343,894 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.client
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1.0.3.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.client\1.0.3.0.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.client\1.0.3.0.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.client\1.0.3.0.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/20/2001  07:57 PM               180 build.0.0.jar
+08/20/2001  07:57 PM             3,446 crawler.0.0.jar
+08/20/2001  07:57 PM             3,581 crawler.0.2.jar
+08/20/2001  07:57 PM            57,335 htm.0.0.jar
+08/20/2001  07:57 PM           246,164 jsp.0.0.jar
+08/20/2001  07:57 PM           685,908 lib.0.0.jar
+               6 File(s)        996,614 bytes
+
+ Directory of F:\stage\Components\oracle.networking.cman
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.cman\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.cman\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.cman\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  06:50 AM               181 build.0.0.jar
+08/17/2001  06:50 AM            41,684 exec.0.1.jar
+08/17/2001  06:50 AM             2,409 sample.0.1.jar
+               3 File(s)         44,274 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compdss
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compdss\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compdss\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compdss\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/05/2001  03:58 AM               186 build.0.0.jar
+09/05/2001  03:58 AM       289,424,142 complete_dss.0.0.jar
+               2 File(s)    289,424,328 bytes
+
+ Directory of F:\stage\Components\oracle.cartridges.context
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.cartridges.context\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.cartridges.context\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.cartridges.context\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  06:44 AM           781,532 bin.0.6.jar
+08/17/2001  06:44 AM               184 build.0.0.jar
+08/17/2001  06:44 AM        35,922,245 data.0.0.jar
+08/17/2001  06:44 AM         4,573,383 inso.0.0.jar
+08/17/2001  06:44 AM           391,902 mesg.0.0.jar
+08/17/2001  06:44 AM         1,446,750 sql.0.0.jar
+08/17/2001  06:44 AM             1,018 sql.1.0.jar
+08/17/2001  06:44 AM             1,530 sql.2.0.jar
+08/17/2001  06:44 AM             1,380 sql.3.0.jar
+08/17/2001  06:44 AM               654 sql.4.0.jar
+08/17/2001  06:44 AM           100,988 thes.0.0.jar
+              11 File(s)     43,221,566 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbca
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbca\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbca\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbca\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/05/2001  04:30 AM               181 build.0.0.jar
+09/10/2001  09:30 PM         1,038,608 class.0.0.jar
+09/05/2001  04:30 AM             3,640 doc.0.0.jar
+09/05/2001  04:30 AM           858,513 doc.0.1.jar
+09/05/2001  04:30 AM             1,251 exec.0.0.jar
+09/13/2001  12:12 AM             6,202 template.0.1.jar
+               6 File(s)      1,908,395 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbma
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbma\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbma\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.assistants.dbma\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/24/2001  04:49 PM             1,049 bin.0.0.jar
+08/24/2001  04:49 PM               181 build.0.0.jar
+08/24/2001  04:49 PM           887,342 class.0.0.jar
+08/24/2001  04:49 PM            15,476 exec.0.0.jar
+08/24/2001  04:49 PM             3,016 help.0.0.jar
+08/24/2001  04:49 PM           291,658 help.0.1.jar
+               6 File(s)      1,198,722 bytes
+
+ Directory of F:\stage\Components\oracle.options.ano.dce
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.ano.dce\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.ano.dce\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.ano.dce\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/29/2001  11:01 PM               181 build.0.0.jar
+09/05/2001  08:10 PM            99,560 lib.0.1.jar
+               2 File(s)         99,741 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.ds
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.ds\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.ds\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.ds\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/10/2001  05:04 AM            75,552 admin.0.0.jar
+08/10/2001  05:04 AM               174 build.0.0.jar
+08/10/2001  05:04 AM             9,074 demo.0.0.jar
+08/10/2001  05:04 AM           677,920 docs.0.0.jar
+08/10/2001  05:04 AM            25,126 etc.0.0.jar
+08/10/2001  05:04 AM             4,135 examples.0.0.jar
+08/10/2001  05:04 AM            66,418 examples.0.1.jar
+08/10/2001  05:04 AM             8,102 jsp.0.0.jar
+08/10/2001  05:04 AM            12,314 ldif.0.0.jar
+08/10/2001  05:04 AM         1,540,754 lib.0.0.jar
+08/10/2001  05:04 AM             2,207 utl.0.1.jar
+08/10/2001  05:04 AM            11,625 xml.0.0.jar
+              12 File(s)      2,433,401 bytes
+
+ Directory of F:\stage\Components\oracle.emcltprod
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emcltprod\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emcltprod\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emcltprod\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  08:15 AM               175 build.0.0.jar
+               1 File(s)            175 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.frms_agentext
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.frms_agentext\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.frms_agentext\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.frms_agentext\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/18/2001  09:30 PM             2,843 agent.0.0.jar
+08/18/2001  09:30 PM               188 build.0.0.jar
+08/18/2001  09:30 PM            22,062 forms.0.0.jar
+               3 File(s)         25,093 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_odbc
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_odbc\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_odbc\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_odbc\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  10:01 PM               359 admin.0.0.jar
+08/17/2001  10:01 PM               179 build.0.0.jar
+08/17/2001  10:01 PM           190,962 nt.0.0.jar
+               3 File(s)        191,500 bytes
+
+ Directory of F:\stage\Components\oracle.options.intermedia.imclient
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.intermedia.imclient\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.intermedia.imclient\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.options.intermedia.imclient\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  06:15 AM               188 build.0.0.jar
+08/17/2001  06:15 AM            24,674 doc.0.0.jar
+08/17/2001  06:15 AM            29,119 lib.0.1.jar
+               3 File(s)         53,981 bytes
+
+ Directory of F:\stage\Components\oracle.java.jdbc
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.jdbc\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.jdbc\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.jdbc\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  08:05 AM               175 build.0.0.jar
+               1 File(s)            175 bytes
+
+ Directory of F:\stage\Components\oracle.webdb.modplsql
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          3.0.9.0.7
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.webdb.modplsql\3.0.9.0.7
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.webdb.modplsql\3.0.9.0.7\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.webdb.modplsql\3.0.9.0.7\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/20/2001  06:02 PM           115,655 www_bin.0.1.jar
+08/20/2001  06:02 PM               214 www_cache.0.0.jar
+08/20/2001  06:02 PM               214 www_cache_cookie.0.0.jar
+08/20/2001  06:02 PM               214 www_cache_plsql.0.0.jar
+08/20/2001  06:02 PM             2,981 www_conf.0.0.jar
+08/20/2001  06:02 PM               346 www_conf.0.2.jar
+08/20/2001  06:02 PM           395,453 www_help.0.0.jar
+08/20/2001  06:02 PM           561,909 www_htm.0.0.jar
+08/20/2001  06:02 PM           218,298 www_images.0.0.jar
+08/20/2001  06:02 PM               214 www_log.0.0.jar
+08/20/2001  06:02 PM           106,117 www_owa.0.0.jar
+              11 File(s)      1,401,615 bytes
+
+ Directory of F:\stage\Components\oracle.networking.names
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.names\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.names\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.networking.names\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  06:48 AM               182 build.0.0.jar
+08/17/2001  06:48 AM           226,050 exec.0.1.jar
+               2 File(s)        226,232 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oapps_agentext
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oapps_agentext\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oapps_agentext\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oapps_agentext\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/28/2001  05:45 PM               188 build.0.0.jar
+08/28/2001  05:45 PM            41,488 lib.0.1.jar
+08/28/2001  05:45 PM           467,523 mesg.0.0.jar
+08/28/2001  05:45 PM             9,457 mesg.0.1.jar
+08/28/2001  05:45 PM            67,737 oapps.0.1.jar
+08/28/2001  05:45 PM            13,801 oapps.0.2.jar
+08/28/2001  05:45 PM               957 oapps_config.0.1.jar
+               7 File(s)        601,151 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.oci
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.oci\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.oci\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.oci\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/30/2001  08:46 PM               175 build.0.0.jar
+08/30/2001  08:46 PM             6,629 demo.0.0.jar
+08/30/2001  08:46 PM           445,721 demo.0.2.jar
+08/30/2001  08:46 PM           114,435 demo.0.3.jar
+08/30/2001  08:46 PM            33,779 lib.0.0.jar
+08/30/2001  08:46 PM           320,290 public.0.1.jar
+               6 File(s)        921,029 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oecm_agentext
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oecm_agentext\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oecm_agentext\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.oecm_agentext\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/18/2001  09:27 PM            15,265 bin.0.0.jar
+08/18/2001  09:27 PM               188 build.0.0.jar
+08/18/2001  09:27 PM            14,256 htm.0.0.jar
+08/18/2001  09:27 PM            29,292 mesg.0.0.jar
+08/18/2001  09:27 PM            31,245 mesg.0.1.jar
+08/18/2001  09:27 PM             1,125 mesg.0.2.jar
+08/18/2001  09:27 PM            24,084 oecm.0.0.jar
+               7 File(s)        115,455 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.oemagent
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.oemagent\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.oemagent\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.oemagent\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/28/2001  05:45 PM               181 build.0.0.jar
+               1 File(s)            181 bytes
+
+ Directory of F:\stage\Components\oracle.apache.ojsp
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1.1.2.3.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache.ojsp\1.1.2.3.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache.ojsp\1.1.2.3.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.apache.ojsp\1.1.2.3.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  09:29 AM               177 build.0.0.jar
+08/17/2001  09:29 AM               896 conf.0.1.jar
+               2 File(s)          1,073 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms\9.0.1.0.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms\9.0.1.0.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms\9.0.1.0.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          Expanded
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms\9.0.1.0.0\1\DataFiles\Expanded
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.oms\9.0.1.0.0\1\DataFiles\Expanded\Scripts
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/03/2001  06:50 PM             3,176 emca.bat
+05/18/2001  04:09 PM               434 oemPingOmsInternal.bat
+05/18/2001  04:09 PM               363 oemStopOms.bat
+08/28/2001  06:37 PM            53,760 OMSNTsrv.exe
+               4 File(s)         57,733 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.ows_agentext
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.ows_agentext\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.ows_agentext\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.ows_agentext\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/18/2001  09:22 PM               188 build.0.0.jar
+08/18/2001  09:22 PM            16,226 mesg.0.0.jar
+08/18/2001  09:22 PM             9,673 ows.0.1.jar
+               3 File(s)         26,087 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.gateways.plsql
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.gateways.plsql\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.gateways.plsql\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.gateways.plsql\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  05:50 AM           710,935 admin.0.0.jar
+08/17/2001  05:50 AM            47,983 admin.0.1.jar
+08/17/2001  05:50 AM               186 build.0.0.jar
+08/17/2001  05:50 AM           337,082 help.0.0.jar
+08/17/2001  05:50 AM            82,932 lib.0.1.jar
+               5 File(s)      1,179,118 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.repapi
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.repapi\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.repapi\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.repapi\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  05:21 AM               178 build.0.0.jar
+08/17/2001  05:21 AM           757,726 lib.0.0.jar
+08/17/2001  05:21 AM             2,193 sql.0.0.jar
+               3 File(s)        760,097 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  05:42 AM               178 build.0.0.jar
+               1 File(s)            178 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.server
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1.0.3.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.server\1.0.3.0.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.server\1.0.3.0.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.isearch.server\1.0.3.0.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  06:03 AM               180 build.0.0.jar
+08/17/2001  06:03 AM            73,905 data.0.0.jar
+08/17/2001  06:03 AM           241,679 lib.0.0.jar
+08/17/2001  06:03 AM           576,013 sql.0.0.jar
+               4 File(s)        891,777 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.sqlsrv_agentext
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.sqlsrv_agentext\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.sqlsrv_agentext\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.emprod.agent_ext.sqlsrv_agentext\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/18/2001  09:34 PM             1,276 agent.0.0.jar
+08/18/2001  09:34 PM               188 build.0.0.jar
+08/18/2001  09:34 PM           127,629 mesg.0.0.jar
+08/18/2001  09:34 PM            35,203 ntbin.0.0.jar
+               4 File(s)        164,296 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.syndication
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.syndication\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.syndication\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.syndication\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/10/2001  05:04 AM            62,052 admin.0.0.jar
+08/10/2001  05:04 AM               686 bin.0.1.jar
+08/10/2001  05:04 AM               525 bin.0.2.jar
+08/10/2001  05:04 AM               183 build.0.0.jar
+08/10/2001  05:04 AM            22,476 demo.0.0.jar
+08/10/2001  05:04 AM           165,953 doc.0.0.jar
+08/10/2001  05:04 AM               712 doc.0.1.jar
+08/10/2001  05:04 AM               714 etc.0.0.jar
+08/10/2001  05:04 AM             2,444 etc.0.1.jar
+08/10/2001  05:04 AM            66,531 etc.0.2.jar
+08/10/2001  05:04 AM           172,040 lib.0.0.jar
+08/10/2001  05:04 AM           297,723 lib.0.1.jar
+              12 File(s)        792,039 bytes
+
+ Directory of F:\stage\Components\oracle.tg.tg4sybs
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg.tg4sybs\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg.tg4sybs\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.tg.tg4sybs\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  09:01 PM               378 admin.0.0.jar
+08/17/2001  09:01 PM           161,574 bin.0.0.jar
+08/17/2001  09:01 PM               666 bin.0.2.jar
+08/17/2001  09:01 PM               175 build.0.0.jar
+08/17/2001  09:01 PM             8,406 demo.0.0.jar
+08/17/2001  09:01 PM            78,943 doc.0.0.jar
+08/17/2001  09:01 PM           228,967 doc.0.2.jar
+08/17/2001  09:01 PM            58,570 lib.0.1.jar
+08/17/2001  09:01 PM            14,911 nls.0.0.jar
+               9 File(s)        552,590 bytes
+
+ Directory of F:\stage\Components\oracle.utilities.util
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.utilities.util\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.utilities.util\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.utilities.util\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/12/2001  08:00 PM               177 build.0.0.jar
+09/12/2001  08:00 PM             6,331 exec.0.0.jar
+09/12/2001  08:00 PM           220,219 mesg.0.0.jar
+               3 File(s)        226,727 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.webserver
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.webserver\9.0.1.0.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.webserver\9.0.1.0.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.webserver\9.0.1.0.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/20/2001  05:12 PM               403 apache.0.0.jar
+               1 File(s)            403 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.xml
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.1.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.xml\9.0.1.1.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.xml\9.0.1.1.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.xml\9.0.1.1.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/28/2001  05:42 PM               175 build.0.0.jar
+08/28/2001  05:42 PM             2,630 sql.0.0.jar
+08/28/2001  05:42 PM            44,541 xsl.0.0.jar
+               3 File(s)         47,346 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compoltp
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compoltp\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compoltp\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.seeddb.compoltp\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/05/2001  03:36 AM               188 build.0.0.jar
+09/05/2001  03:36 AM       230,885,447 complete_oltp.0.0.jar
+               2 File(s)    230,885,635 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olefs
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olefs\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olefs\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olefs\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  05:47 AM               180 build.0.0.jar
+08/17/2001  05:47 AM           161,388 olefs.0.0.jar
+               2 File(s)        161,568 bytes
+
+ Directory of F:\stage\Components\oracle.java.ojsp
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1.1.2.3.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.ojsp\1.1.2.3.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.ojsp\1.1.2.3.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.ojsp\1.1.2.3.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/29/2001  10:39 PM             9,855 admin.0.0.jar
+08/29/2001  10:39 PM               175 build.0.0.jar
+09/12/2001  11:40 PM           255,233 demo.0.0.jar
+08/29/2001  10:39 PM         1,935,781 docs.0.0.jar
+08/29/2001  10:39 PM           472,738 lib.0.0.jar
+08/29/2001  10:39 PM               412 sbs.0.1.jar
+               6 File(s)      2,674,194 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.reporting
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.reporting\9.0.1.0.0
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.reporting\9.0.1.0.0\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.sysman.reporting\9.0.1.0.0\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/20/2001  05:16 PM           197,721 cabo.0.0.jar
+08/20/2001  05:16 PM            30,501 gif.0.0.jar
+08/20/2001  05:16 PM            30,501 gif1.0.0.jar
+               3 File(s)        258,723 bytes
+
+ Directory of F:\stage\Components\oracle.java.sqlj
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.sqlj\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.sqlj\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.java.sqlj\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  08:02 AM               174 build.0.0.jar
+               1 File(s)            174 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olesql
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          9.0.1.0.1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olesql\9.0.1.0.1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          1
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olesql\9.0.1.0.1\1
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+09/14/2001  12:30 AM    <DIR>          DataFiles
+               0 File(s)              0 bytes
+
+ Directory of F:\stage\Components\oracle.rdbms.hs_olesql\9.0.1.0.1\1\DataFiles
+
+09/14/2001  12:30 AM    <DIR>          .
+09/14/2001  12:30 AM    <DIR>          ..
+08/17/2001  05:48 AM               181 build.0.0.jar
+08/17/2001  05:48 AM           161,391 olesql.0.0.jar
+               2 File(s)        161,572 bytes
+
+     Total Files Listed:
+             169 File(s)    586,088,115 bytes
+             510 Dir(s)               0 bytes free

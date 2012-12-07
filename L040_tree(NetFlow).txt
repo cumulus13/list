@@ -1,0 +1,51 @@
+Folder PATH listing for volume NetFlow Install Disc
+Volume serial number is B8E8-C9FA
+G:\
+|   BOOT.CAT
+|   INITRD26
+|   README.PDF
+|   WARNING.TXT
+|   
++---BOOT
+|   |   BOOT
+|   |   CONFIG_2.14
+|   |   LINUX26
+|   |   SPLASH.XPM
+|   |   SYSTEM.MAP
+|   |   
+|   \---GRUB
+|           DEVICE.MAP
+|           E2FS_STA
+|           JFS_STAG
+|           MENU.LST
+|           MENUDEBU.LST
+|           MINIX_ST
+|           REISERFS
+|           STAGE1
+|           STAGE2
+|           STAGE2_E
+|           XFS_STAG
+|           
++---CHECKSUM
+|       IMAGE.MD5
+|       NETFLOW.MD5
+|       
++---IMAGE
+|       IMAGE.TGZ
+|       
++---NETFLOW
+|       INSTALL.FLG
+|       NETFLOW_.DEB
+|       SINGLE
+|       
+\---UDPKG
+        E2FSPROG.UDE
+        FDISK_UD.UDE
+        LIBBLKID.UDE
+        LIBC6_UD.UDE
+        LIBNSS_D.UDE
+        LIBNSS_F.UDE
+        LIBUUID1.UDE
+        MKREISER.UDE
+        REISERFS.UDE
+        

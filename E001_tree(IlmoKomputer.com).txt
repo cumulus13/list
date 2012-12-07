@@ -1,0 +1,3344 @@
+Folder PATH listing for volume ilmukomputer
+Volume serial number is EE73-8BED
+G:\
+|   AUTORUN.INF
+|   Bleem Full Release 99.zip
+|   Ilmu Komputer.inf
+|   README.txt
+|   ilmukomputer.exe
+|   php.ini
+|   php4ts.dll
+|   
++---browscap
+|       browscap.ini
+|       
++---data
+|       banner.gif
+|       cdrom.gif
+|       ikc.jpg
+|       index.html
+|       logo.kioss.project.130.jpg
+|       
++---html
+|   |   copyright.php
+|   |   dgssearch.cache
+|   |   donasi.php
+|   |   download.php
+|   |   favicon.ico
+|   |   footer.php
+|   |   header.php
+|   |   ikrar.php
+|   |   index.php
+|   |   jaringan.php
+|   |   jdpengurus.php
+|   |   komputer.css
+|   |   konsultasi.php
+|   |   milis.php
+|   |   mirror.php
+|   |   pengurus.php
+|   |   penulis.php
+|   |   phpinfo.php
+|   |   righter.php
+|   |   saweran.php
+|   |   seminar.php
+|   |   sponsorship.php
+|   |   syaratjaringan.php
+|   |   tulisan.php
+|   |   
+|   +---banner
+|   |       artivisi.jpg
+|   |       bootcamp.gif
+|   |       bsmdaemon.gif
+|   |       cheapweb.gif
+|   |       chemistry.gif
+|   |       dwkl.jpg
+|   |       gdp.gif
+|   |       gegar.jpg
+|   |       ht.jpg
+|   |       ikc-100x30.jpg
+|   |       ikc-70x35.jpg
+|   |       ikc-seminaranimasi.gif
+|   |       ilmukomputercom.jpg
+|   |       indonuke.jpg
+|   |       intika-old.gif
+|   |       intika.gif
+|   |       kamerawan.gif
+|   |       kamusonline.gif
+|   |       kamuswebid.gif
+|   |       kawanua.jpg
+|   |       kioss.jpg
+|   |       kioss2.jpg
+|   |       kplijakarta.gif
+|   |       lintaucom.jpg
+|   |       opensourceid.jpg
+|   |       pasangiklan.gif
+|   |       pmc.gif
+|   |       sak-kc.jpg
+|   |       wahana.gif
+|   |       
+|   +---berseri
+|   |   |   Thumbs.db
+|   |   |   
+|   |   +---ahmad-serverlinux
+|   |   |       contents.png
+|   |   |       img1.png
+|   |   |       index.html
+|   |   |       index.php
+|   |   |       next.png
+|   |   |       node1.html
+|   |   |       node10.html
+|   |   |       node100.html
+|   |   |       node101.html
+|   |   |       node102.html
+|   |   |       node103.html
+|   |   |       node104.html
+|   |   |       node105.html
+|   |   |       node106.html
+|   |   |       node107.html
+|   |   |       node108.html
+|   |   |       node109.html
+|   |   |       node11.html
+|   |   |       node110.html
+|   |   |       node111.html
+|   |   |       node112.html
+|   |   |       node113.html
+|   |   |       node114.html
+|   |   |       node115.html
+|   |   |       node116.html
+|   |   |       node117.html
+|   |   |       node118.html
+|   |   |       node119.html
+|   |   |       node12.html
+|   |   |       node120.html
+|   |   |       node121.html
+|   |   |       node122.html
+|   |   |       node123.html
+|   |   |       node124.html
+|   |   |       node125.html
+|   |   |       node126.html
+|   |   |       node127.html
+|   |   |       node128.html
+|   |   |       node129.html
+|   |   |       node13.html
+|   |   |       node130.html
+|   |   |       node131.html
+|   |   |       node132.html
+|   |   |       node133.html
+|   |   |       node134.html
+|   |   |       node135.html
+|   |   |       node136.html
+|   |   |       node137.html
+|   |   |       node138.html
+|   |   |       node139.html
+|   |   |       node14.html
+|   |   |       node140.html
+|   |   |       node141.html
+|   |   |       node142.html
+|   |   |       node143.html
+|   |   |       node144.html
+|   |   |       node145.html
+|   |   |       node146.html
+|   |   |       node147.html
+|   |   |       node148.html
+|   |   |       node149.html
+|   |   |       node15.html
+|   |   |       node150.html
+|   |   |       node151.html
+|   |   |       node152.html
+|   |   |       node153.html
+|   |   |       node154.html
+|   |   |       node155.html
+|   |   |       node156.html
+|   |   |       node157.html
+|   |   |       node158.html
+|   |   |       node159.html
+|   |   |       node16.html
+|   |   |       node160.html
+|   |   |       node161.html
+|   |   |       node162.html
+|   |   |       node163.html
+|   |   |       node164.html
+|   |   |       node165.html
+|   |   |       node166.html
+|   |   |       node167.html
+|   |   |       node168.html
+|   |   |       node169.html
+|   |   |       node17.html
+|   |   |       node170.html
+|   |   |       node171.html
+|   |   |       node172.html
+|   |   |       node173.html
+|   |   |       node174.html
+|   |   |       node175.html
+|   |   |       node176.html
+|   |   |       node177.html
+|   |   |       node178.html
+|   |   |       node179.html
+|   |   |       node18.html
+|   |   |       node180.html
+|   |   |       node181.html
+|   |   |       node182.html
+|   |   |       node183.html
+|   |   |       node184.html
+|   |   |       node19.html
+|   |   |       node2.html
+|   |   |       node20.html
+|   |   |       node21.html
+|   |   |       node22.html
+|   |   |       node23.html
+|   |   |       node24.html
+|   |   |       node25.html
+|   |   |       node26.html
+|   |   |       node27.html
+|   |   |       node28.html
+|   |   |       node29.html
+|   |   |       node3.html
+|   |   |       node30.html
+|   |   |       node31.html
+|   |   |       node32.html
+|   |   |       node33.html
+|   |   |       node34.html
+|   |   |       node35.html
+|   |   |       node36.html
+|   |   |       node37.html
+|   |   |       node38.html
+|   |   |       node39.html
+|   |   |       node4.html
+|   |   |       node40.html
+|   |   |       node41.html
+|   |   |       node42.html
+|   |   |       node43.html
+|   |   |       node44.html
+|   |   |       node45.html
+|   |   |       node46.html
+|   |   |       node47.html
+|   |   |       node48.html
+|   |   |       node49.html
+|   |   |       node5.html
+|   |   |       node50.html
+|   |   |       node51.html
+|   |   |       node52.html
+|   |   |       node53.html
+|   |   |       node54.html
+|   |   |       node55.html
+|   |   |       node56.html
+|   |   |       node57.html
+|   |   |       node58.html
+|   |   |       node59.html
+|   |   |       node6.html
+|   |   |       node60.html
+|   |   |       node61.html
+|   |   |       node62.html
+|   |   |       node63.html
+|   |   |       node64.html
+|   |   |       node65.html
+|   |   |       node66.html
+|   |   |       node67.html
+|   |   |       node68.html
+|   |   |       node69.html
+|   |   |       node7.html
+|   |   |       node70.html
+|   |   |       node71.html
+|   |   |       node72.html
+|   |   |       node73.html
+|   |   |       node74.html
+|   |   |       node75.html
+|   |   |       node76.html
+|   |   |       node77.html
+|   |   |       node78.html
+|   |   |       node79.html
+|   |   |       node8.html
+|   |   |       node80.html
+|   |   |       node81.html
+|   |   |       node82.html
+|   |   |       node83.html
+|   |   |       node84.html
+|   |   |       node85.html
+|   |   |       node86.html
+|   |   |       node87.html
+|   |   |       node88.html
+|   |   |       node89.html
+|   |   |       node9.html
+|   |   |       node90.html
+|   |   |       node91.html
+|   |   |       node92.html
+|   |   |       node93.html
+|   |   |       node94.html
+|   |   |       node95.html
+|   |   |       node96.html
+|   |   |       node97.html
+|   |   |       node98.html
+|   |   |       node99.html
+|   |   |       prev.png
+|   |   |       servlin4b-5.css
+|   |   |       servlin4b-5.html
+|   |   |       up.png
+|   |   |       
+|   |   +---alex-algoritma
+|   |   |       alex-algoritma-00.zip
+|   |   |       alex-algoritma-01.zip
+|   |   |       alex-algoritma-02.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---alwin-pascal
+|   |   |       alwin-pascal-00.zip
+|   |   |       alwin-pascal-01.zip
+|   |   |       alwin-pascal-02.zip
+|   |   |       alwin-pascal-03.zip
+|   |   |       alwin-pascal-04.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---ariefrachmansyah-coldfusion
+|   |   |       ariefrachmansyah-coldfusion-00.jpg
+|   |   |       ariefrachmansyah-coldfusion-00.zip
+|   |   |       ariefrachmansyah-coldfusion-01.zip
+|   |   |       ariefrachmansyah-coldfusion-02.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---ariya-linuxgame
+|   |   |   |   cover.jpg
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   +---cube
+|   |   |   |       cube.htm
+|   |   |   |       cube1.png
+|   |   |   |       cube1_small.png
+|   |   |   |       cube2.png
+|   |   |   |       cube2_small.png
+|   |   |   |       cube3.png
+|   |   |   |       cube3_small.png
+|   |   |   |       
+|   |   |   +---digger
+|   |   |   |       digger.htm
+|   |   |   |       digger1.png
+|   |   |   |       digger2.png
+|   |   |   |       
+|   |   |   +---flightgear
+|   |   |   |       flightgear.htm
+|   |   |   |       flightgear1.png
+|   |   |   |       
+|   |   |   +---invaders
+|   |   |   |       invaders.htm
+|   |   |   |       invaders.png
+|   |   |   |       invaders_small.png
+|   |   |   |       
+|   |   |   +---linuxdoom
+|   |   |   |       keybindings.png
+|   |   |   |       linuxdoom.htm
+|   |   |   |       linuxdoom_network.png
+|   |   |   |       network.png
+|   |   |   |       options.png
+|   |   |   |       prboom.png
+|   |   |   |       sdldoom.png
+|   |   |   |       
+|   |   |   +---linuxwolf
+|   |   |   |       achtung.png
+|   |   |   |       dosemu.png
+|   |   |   |       episode.png
+|   |   |   |       linuxwolf.htm
+|   |   |   |       
+|   |   |   +---quake3arena
+|   |   |   |       quake1.png
+|   |   |   |       quake2.png
+|   |   |   |       quake3.png
+|   |   |   |       quake3arena.htm
+|   |   |   |       
+|   |   |   +---racer
+|   |   |   |       racer.htm
+|   |   |   |       racer1.jpg
+|   |   |   |       racer1_small.png
+|   |   |   |       racer2.jpg
+|   |   |   |       racer2_small.png
+|   |   |   |       
+|   |   |   +---reaction
+|   |   |   |       reaction.htm
+|   |   |   |       reaction.png
+|   |   |   |       reaction_small.png
+|   |   |   |       
+|   |   |   +---sar
+|   |   |   |       sar.htm
+|   |   |   |       sar1.jpg
+|   |   |   |       sar1_small.png
+|   |   |   |       sar2.jpg
+|   |   |   |       sar2_small.png
+|   |   |   |       
+|   |   |   +---simutrans
+|   |   |   |       simutrans.htm
+|   |   |   |       simutrans1.png
+|   |   |   |       simutrans2.png
+|   |   |   |       
+|   |   |   +---sokoban
+|   |   |   |       ksokoban.png
+|   |   |   |       ksokoban_small.png
+|   |   |   |       sokoban.htm
+|   |   |   |       
+|   |   |   +---trophy
+|   |   |   |       trophy.htm
+|   |   |   |       trophy1.png
+|   |   |   |       trophy2.png
+|   |   |   |       trophy3.png
+|   |   |   |       
+|   |   |   \---tuxracer
+|   |   |           tuxracer.htm
+|   |   |           tuxracer1.png
+|   |   |           tuxracer2.png
+|   |   |           tuxracer3.png
+|   |   |           
+|   |   +---ariya-qt
+|   |   |   |   cover.jpg
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   +---autoconf
+|   |   |   |       autoconf.php
+|   |   |   |       
+|   |   |   +---kdev
+|   |   |   |       awal.png
+|   |   |   |       awal_large.png
+|   |   |   |       doc.png
+|   |   |   |       doc_large.png
+|   |   |   |       hello.png
+|   |   |   |       hello1.png
+|   |   |   |       hello1_large.png
+|   |   |   |       hello2.png
+|   |   |   |       hello2_large.png
+|   |   |   |       hello_large.png
+|   |   |   |       kdev.php
+|   |   |   |       options.png
+|   |   |   |       options_large.png
+|   |   |   |       setupwizard.png
+|   |   |   |       setupwizard_large.png
+|   |   |   |       wizard1.png
+|   |   |   |       wizard1_large.png
+|   |   |   |       wizard2.png
+|   |   |   |       wizard2_large.png
+|   |   |   |       wizard3.png
+|   |   |   |       wizard3_large.png
+|   |   |   |       
+|   |   |   +---part1
+|   |   |   |       part1.php
+|   |   |   |       part1_gallery.png
+|   |   |   |       part1_qclick.png
+|   |   |   |       part1_qhello.png
+|   |   |   |       part1_qhello_gnome.png
+|   |   |   |       part1_qhello_wm.png
+|   |   |   |       
+|   |   |   +---part2
+|   |   |   |       part2.php
+|   |   |   |       part2_menuedit.png
+|   |   |   |       part2_menufile.png
+|   |   |   |       part2_menusettings.png
+|   |   |   |       part2_qsimpleapp.png
+|   |   |   |       
+|   |   |   +---part3
+|   |   |   |       part3.php
+|   |   |   |       part3_about.png
+|   |   |   |       part3_kawan.png
+|   |   |   |       
+|   |   |   +---part4
+|   |   |   |       part4.php
+|   |   |   |       part4_add.png
+|   |   |   |       part4_adddialog.png
+|   |   |   |       part4_edit.png
+|   |   |   |       part4_grid.png
+|   |   |   |       part4_horizontal.png
+|   |   |   |       part4_saveafter.png
+|   |   |   |       part4_savebefore.png
+|   |   |   |       part4_vertical.png
+|   |   |   |       
+|   |   |   +---part5
+|   |   |   |       part5.php
+|   |   |   |       part5_expad.png
+|   |   |   |       part5_expad_small.png
+|   |   |   |       part5_win.png
+|   |   |   |       part5_win_small.png
+|   |   |   |       
+|   |   |   \---sejarahkde
+|   |   |           ettrich.jpg
+|   |   |           gnome1.png
+|   |   |           gnome1_small.png
+|   |   |           kde1.jpg
+|   |   |           kde1_small.png
+|   |   |           kde2.jpg
+|   |   |           kde2_small.png
+|   |   |           kde31.png
+|   |   |           kde31_small.png
+|   |   |           konqueror.png
+|   |   |           konqueror_small.png
+|   |   |           sejarahkde.php
+|   |   |           
+|   |   +---chendra-photoshop
+|   |   |       chendra-photoshop-00.zip
+|   |   |       chendra-photoshop-01.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---choirul-client
+|   |   |       Thumbs.db
+|   |   |       choirul-client-00.zip
+|   |   |       choirul-client-01.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---choirul-vbnet
+|   |   |       Thumbs.db
+|   |   |       choirul-vbnet-00.zip
+|   |   |       choirul-vbnet-01.doc
+|   |   |       choirul-vbnet-01.zip
+|   |   |       choirul-vbnet-02.doc
+|   |   |       choirul-vbnet-02.zip
+|   |   |       choirul-vbnet-03-src.zip
+|   |   |       choirul-vbnet-03.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---choirul-win2000server
+|   |   |       choirul-win2000server-00.zip
+|   |   |       choirul-win2000server-01.zip
+|   |   |       choirul-win2000server-02.zip
+|   |   |       choirul-win2000server-03.zip
+|   |   |       choirul-win2000server-04.zip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       
+|   |   +---dwi-clipper
+|   |   |       dwi-clipper.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---eko-java
+|   |   |       cataloguedao.php
+|   |   |       deklarasivariable.php
+|   |   |       dotjava.php
+|   |   |       dowhile.php
+|   |   |       exception.php
+|   |   |       footer.php
+|   |   |       for.php
+|   |   |       header.php
+|   |   |       ifelse.php
+|   |   |       index.php
+|   |   |       installjdk.php
+|   |   |       jamoval.php
+|   |   |       jamovalapp.jpg
+|   |   |       jamovalapplet.jpg
+|   |   |       jaringan.php
+|   |   |       jdbc.php
+|   |   |       jdbcconnection.php
+|   |   |       jdbcexecutequery.php
+|   |   |       jdbcexecuteupdate.php
+|   |   |       jdbcjtableapp.jpg
+|   |   |       jdbcjtableapp.php
+|   |   |       jdbcjtablejapplet.jpg
+|   |   |       jdbcjtablejapplet.php
+|   |   |       jdbcjtablejappletapp.jpg
+|   |   |       jdbcjtablejappletapp.php
+|   |   |       math.php
+|   |   |       primitivewebserver.jpg
+|   |   |       primitivewebserver.php
+|   |   |       randomaccessfile1.php
+|   |   |       randomaccessfile2.php
+|   |   |       salamkeadilanapp.php
+|   |   |       salamkeadilanapplet.jpg
+|   |   |       salamkeadilanapplet.php
+|   |   |       salamkeadilanawtapp.jpg
+|   |   |       salamkeadilanawtapp.php
+|   |   |       salamkeadilanswingapp.jpg
+|   |   |       salamkeadilanswingapp.php
+|   |   |       salamkeadilanswingappmotif.jpg
+|   |   |       string.php
+|   |   |       switchcase.php
+|   |   |       thread.php
+|   |   |       while.php
+|   |   |       
+|   |   +---eko-javaweb
+|   |   |       axishome.jpg
+|   |   |       axisinstall.php
+|   |   |       catalogueejbbmp.php
+|   |   |       catalogueejbslsb.php
+|   |   |       cataloguermi.php
+|   |   |       footer.php
+|   |   |       formjsp.php
+|   |   |       formjspform.jpg
+|   |   |       formjspservice.jpg
+|   |   |       formservlet.php
+|   |   |       formservletform.jpg
+|   |   |       formservletservice.jpg
+|   |   |       header.php
+|   |   |       index.php
+|   |   |       j2eetechnology.php
+|   |   |       jbossinstall.php
+|   |   |       jdbcjsp.jpg
+|   |   |       jdbcjsp.php
+|   |   |       jdbcservlet.jpg
+|   |   |       jdbcservlet.php
+|   |   |       salamkeadilanejbslsb.php
+|   |   |       salamkeadilanjsp.jpg
+|   |   |       salamkeadilanjsp.php
+|   |   |       salamkeadilanrmi.php
+|   |   |       salamkeadilanservlet.jpg
+|   |   |       salamkeadilanservlet.php
+|   |   |       tomcathome.jpg
+|   |   |       tomcatinstall.php
+|   |   |       
+|   |   +---eko-tipsjava
+|   |   |       Thumbs.db
+|   |   |       cover.jpg
+|   |   |       eko-tipsjava-00.zip
+|   |   |       eko-tipsjava-castor.zip
+|   |   |       eko-tipsjava-hibernate.zip
+|   |   |       eko-tipsjava-jaxor.zip
+|   |   |       eko-tipsjava-torque.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---ekopurwanto-frontpage
+|   |   |       cover.jpg
+|   |   |       ekopurwanto-frontpage-00.zip
+|   |   |       ekopurwanto-frontpage-01.zip
+|   |   |       ekopurwanto-frontpage-02.zip
+|   |   |       ekopurwanto-frontpage-03.zip
+|   |   |       ekopurwanto-frontpage-04.zip
+|   |   |       ekopurwanto-frontpage-05.zip
+|   |   |       ekopurwanto-frontpage-06.zip
+|   |   |       ekopurwanto-frontpage-07.zip
+|   |   |       ekopurwanto-frontpage-08.zip
+|   |   |       ekopurwanto-frontpage-09.zip
+|   |   |       ekopurwanto-frontpage-10.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---ekopurwanto-photoshop
+|   |   |       Thumbs.db
+|   |   |       cover.jpg
+|   |   |       ekopurwanto-photoshop-00.zip
+|   |   |       ekopurwanto-photoshop-01.doc
+|   |   |       ekopurwanto-photoshop-01.zip
+|   |   |       ekopurwanto-photoshop-02.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---ginanjar-java
+|   |   |       cover.jpg
+|   |   |       ginanjar-java.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---gunawan-asp
+|   |   |       cover.jpg
+|   |   |       gunawan-asp-00.zip
+|   |   |       gunawan-asp-01.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---hendri-python
+|   |   |       cover.jpg
+|   |   |       hendri-python.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---hendro-bochs
+|   |   |       hendro-bochs-pendahuluan.zip
+|   |   |       index.php
+|   |   |       
+|   |   +---ikc-linux
+|   |   |       choirul-compiere-kt.zip
+|   |   |       choirul-compiere.zip
+|   |   |       choirul-integrasilinuxwin-kt.zip
+|   |   |       choirul-integrasilinuxwin.zip
+|   |   |       choirul-ltsp-kt.zip
+|   |   |       choirul-ltsp.zip
+|   |   |       choirul-mandrakemcc.zip
+|   |   |       choirul-windarilinux-kt.zip
+|   |   |       choirul-windarilinux.zip
+|   |   |       choirul-winpcbutut.zip
+|   |   |       choirul-winpcbutut01-kt.zip
+|   |   |       choirul-winpcbutut02-kt.zip
+|   |   |       dindin-freesco.zip
+|   |   |       fidens-bisnismodel-kt.zip
+|   |   |       fidens-bisnismodel.zip
+|   |   |       fidens-xine-kt.zip
+|   |   |       fidens-xine.zip
+|   |   |       fidens-xmms.zip
+|   |   |       hendrik-dia.zip
+|   |   |       hendry-smoothwall01-kt.zip
+|   |   |       hendry-smoothwall01.zip
+|   |   |       hendry-smoothwall02-kt.zip
+|   |   |       hendry-smoothwall02.zip
+|   |   |       index.php
+|   |   |       romi-bekerjadenganwebmin-kt.zip
+|   |   |       romi-bekerjadenganwebmin.zip
+|   |   |       romi-doklinux.zip
+|   |   |       romi-installprogram-kt.zip
+|   |   |       romi-installprogram.zip
+|   |   |       romi-linuxaman-service-kt.zip
+|   |   |       romi-linuxaman-service.zip
+|   |   |       romi-linuxaman-update-kt.zip
+|   |   |       romi-linuxaman-update.zip
+|   |   |       romi-mandiribelajarlinux.zip
+|   |   |       romi-mandrake92.zip
+|   |   |       romi-mandrakedesktop-kt.zip
+|   |   |       romi-mandrakedesktop.zip
+|   |   |       romi-pengantarwebmin-kt.zip
+|   |   |       romi-pengantarwebmin.zip
+|   |   |       romi-perintahlinux.zip
+|   |   |       shaufun-knoppix01.zip
+|   |   |       shaufun-knoppix02.zip
+|   |   |       zulkhaery-install.zip
+|   |   |       
+|   |   +---indrapurbo-mmf
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       indrapurbo-mmf.zip
+|   |   |       
+|   |   +---iskandar-voip
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       iskandar-voip-00.zip
+|   |   |       iskandar-voip-dasar.zip
+|   |   |       
+|   |   +---ivan-php
+|   |   |   |   artpdf.zip
+|   |   |   |   footer.php
+|   |   |   |   header.php
+|   |   |   |   image40.jpg
+|   |   |   |   index.php
+|   |   |   |   pdf-dan-php.php
+|   |   |   |   php-gambar2.zip
+|   |   |   |   php-image.zip
+|   |   |   |   php-mudah-01.php
+|   |   |   |   php-mudah-02.php
+|   |   |   |   php-mudah-03.php
+|   |   |   |   php-mudah-04.php
+|   |   |   |   php-mudah-05.php
+|   |   |   |   php-simpan-image-1.php
+|   |   |   |   php-simpan-image-2.php
+|   |   |   |   
+|   |   |   \---image
+|   |   |           edit.png
+|   |   |           image40.jpg
+|   |   |           image_http.png
+|   |   |           input.png
+|   |   |           laforge.gif
+|   |   |           pdf10.gif
+|   |   |           pdf11.gif
+|   |   |           pdf2.gif
+|   |   |           pdf3.gif
+|   |   |           pdf4.gif
+|   |   |           pdf5.gif
+|   |   |           pdf6.gif
+|   |   |           pdf7.gif
+|   |   |           pdf8.gif
+|   |   |           pdf9.gif
+|   |   |           piccard.gif
+|   |   |           riker.gif
+|   |   |           troi.gif
+|   |   |           
+|   |   +---ivan-socketc
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       ivan-socketc-00.zip
+|   |   |       ivan-socketc-01.zip
+|   |   |       
+|   |   +---krisna-vb6
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       krisna-vb6-00.zip
+|   |   |       krisna-vb6-01.zip
+|   |   |       krisna-vb6-02.zip
+|   |   |       krisna-vb6-03.zip
+|   |   |       krisna-vb6-04.zip
+|   |   |       krisna-vb6-05.zip
+|   |   |       krisna-vb6-06.zip
+|   |   |       krisna-vb6-07.zip
+|   |   |       krisna-vb6-08.zip
+|   |   |       krisna-vb6-09.zip
+|   |   |       krisna-vb6-10.zip
+|   |   |       krisna-vb6-11.zip
+|   |   |       krisna-vb6-12.zip
+|   |   |       lat1-10.zip
+|   |   |       lat1-11.zip
+|   |   |       lat1-4.zip
+|   |   |       lat1-5.zip
+|   |   |       lat1-6.zip
+|   |   |       lat1-7.zip
+|   |   |       lat1-8.zip
+|   |   |       lat1-9.zip
+|   |   |       
+|   |   +---lg-indonesia
+|   |   |   |   Thumbs.db
+|   |   |   |   index.php
+|   |   |   |   lg-andreiana61.html
+|   |   |   |   lg-andreiana63.html
+|   |   |   |   lg-bardley84.html
+|   |   |   |   lg-bennet30.html
+|   |   |   |   lg-field72.html
+|   |   |   |   lg-field73.html
+|   |   |   |   lg-ghosh68.html
+|   |   |   |   lg-johnson85.html
+|   |   |   |   lg-kollar77.html
+|   |   |   |   lg-kruk91.html
+|   |   |   |   lg-lalji94.html
+|   |   |   |   lg-lodato87.html
+|   |   |   |   lg-mahoney85.html
+|   |   |   |   lg-nielsen92.html
+|   |   |   |   lg-oregan97.html
+|   |   |   |   lg-pollman38.html
+|   |   |   |   lg-pramode87.html
+|   |   |   |   lg-tougher80.html
+|   |   |   |   lg-ward86.html
+|   |   |   |   lg.css
+|   |   |   |   lg2-kollar77-loopback.html
+|   |   |   |   
+|   |   |   \---img
+|   |   |           Thumbs.db
+|   |   |           bochs_screenshot.jpg
+|   |   |           lg-alien.jpg
+|   |   |           lg-id.png
+|   |   |           lg-kruk91-d-mini.png
+|   |   |           lg-kruk91-huge-mini.png
+|   |   |           lg-kruk91-nosuid-mini.png
+|   |   |           lg-logo.png
+|   |   |           lg-logonewspaper.png
+|   |   |           lg-logosmall.png
+|   |   |           lg-marius_desktop.jpg
+|   |   |           lg-oregan97-songwrite-screen.png
+|   |   |           lg-oregan97-songwrite-screen2.png
+|   |   |           lg-oregan97-songwrite-screen3.png
+|   |   |           lg-oregan97-songwrite-screen4.png
+|   |   |           lg-phillip.jpg
+|   |   |           lg-sit3-shine.7-2.gif
+|   |   |           lg-smpeg.jpg
+|   |   |           lg-startrek.jpg
+|   |   |           lg-tv.jpg
+|   |   |           lg-ward86-0.jpg
+|   |   |           lg-ward86-2.jpg
+|   |   |           lg-ward86-3.jpg
+|   |   |           lg-ward86-4.jpg
+|   |   |           lg-ward86-5.jpg
+|   |   |           lg-xmms.jpg
+|   |   |           note.png
+|   |   |           
+|   |   +---mic-j2me
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       mic-j2me-00.zip
+|   |   |       mic-j2me-01.zip
+|   |   |       mic-j2me-02.zip
+|   |   |       mic-j2me-03.zip
+|   |   |       mic-j2me-04.zip
+|   |   |       mic-j2me-05.zip
+|   |   |       mic-j2me-06.zip
+|   |   |       mic-j2me-07.zip
+|   |   |       mic-j2me-08.zip
+|   |   |       mic-j2me-09.zip
+|   |   |       
+|   |   +---mic-jsp
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       mic-jsp-00.zip
+|   |   |       mic-jsp-01.zip
+|   |   |       mic-jsp-02.zip
+|   |   |       mic-jsp-03.zip
+|   |   |       mic-jsp-04.zip
+|   |   |       mic-jsp-05.zip
+|   |   |       mic-jsp-06.zip
+|   |   |       mic-jsp-07.zip
+|   |   |       
+|   |   +---michael-oopcpp
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       michael-oopcpp-00.zip
+|   |   |       michael-oopcpp-01.zip
+|   |   |       
+|   |   +---onno-wifi
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   +---doc
+|   |   |   |       acknowledgement.rtf
+|   |   |   |       app-nocat-authserv.rtf
+|   |   |   |       app-nocat-gw.doc
+|   |   |   |       app-url.rtf
+|   |   |   |       ch-1-introduction.doc
+|   |   |   |       ch-10-antenna-and-cabling.doc
+|   |   |   |       ch-11-radio-link-calculation.doc
+|   |   |   |       ch-12-site-survey.doc
+|   |   |   |       ch-13-design-wlan-man.doc
+|   |   |   |       ch-14-securing-infrastructure.doc
+|   |   |   |       ch-15-nocat.doc
+|   |   |   |       ch-2-wifi-infrastructure.doc
+|   |   |   |       ch-3-prepare-equipments.doc
+|   |   |   |       ch-4-how-to-shop-wifi.doc
+|   |   |   |       ch-5-intro-to-radio-concepts.doc
+|   |   |   |       ch-6-wlan-in-windows.doc
+|   |   |   |       ch-7-wlan-in-linux.doc
+|   |   |   |       ch-8-linux-gateway.doc
+|   |   |   |       ch-9-configure-access-point.doc
+|   |   |   |       cover-page.rtf
+|   |   |   |       gateway.sh.txt
+|   |   |   |       reference.rtf
+|   |   |   |       table-of-content.rtf
+|   |   |   |       table-of-content.txt
+|   |   |   |       wireless-network-calculation-2-2003.xls
+|   |   |   |       
+|   |   |   \---html
+|   |   |       |   acknowledgement.htm
+|   |   |       |   app-nocat-authserv.htm
+|   |   |       |   app-nocat-gw.htm
+|   |   |       |   app-url.htm
+|   |   |       |   ch-1-introduction.htm
+|   |   |       |   ch-10-antenna-and-cabling.htm
+|   |   |       |   ch-11-radio-link-calculation.htm
+|   |   |       |   ch-12-site-survey.htm
+|   |   |       |   ch-13-design-wlan-man.htm
+|   |   |       |   ch-14-securing-infrastructure.htm
+|   |   |       |   ch-15-nocat.htm
+|   |   |       |   ch-2-wifi-infrastructure.htm
+|   |   |       |   ch-3-prepare-equipments.htm
+|   |   |       |   ch-4-how-to-shop-wifi.htm
+|   |   |       |   ch-5-intro-to-radio-concepts.htm
+|   |   |       |   ch-6-wlan-in-windows.htm
+|   |   |       |   ch-7-wlan-in-linux.htm
+|   |   |       |   ch-8-linux-gateway.htm
+|   |   |       |   ch-9-configure-access-point.htm
+|   |   |       |   cover-page.htm
+|   |   |       |   gateway.sh.txt
+|   |   |       |   reference.htm
+|   |   |       |   table-of-content.htm
+|   |   |       |   wireless-network-calculation-2-2003.htm
+|   |   |       |   
+|   |   |       +---acknowledgement_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---app-nocat-authserv_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---app-nocat-gw_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---app-url_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---ch-1-introduction_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.gif
+|   |   |       |       image003.png
+|   |   |       |       image004.gif
+|   |   |       |       image005.png
+|   |   |       |       image006.gif
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-10-antenna-and-cabling_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.gif
+|   |   |       |       image005.jpg
+|   |   |       |       image006.jpg
+|   |   |       |       image007.jpg
+|   |   |       |       image008.jpg
+|   |   |       |       image009.jpg
+|   |   |       |       image010.jpg
+|   |   |       |       image011.jpg
+|   |   |       |       image012.jpg
+|   |   |       |       image013.jpg
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.jpg
+|   |   |       |       image019.png
+|   |   |       |       image020.jpg
+|   |   |       |       image021.png
+|   |   |       |       image022.jpg
+|   |   |       |       image023.png
+|   |   |       |       image024.jpg
+|   |   |       |       image025.png
+|   |   |       |       image026.jpg
+|   |   |       |       image027.jpg
+|   |   |       |       image028.png
+|   |   |       |       image029.jpg
+|   |   |       |       image030.png
+|   |   |       |       image031.jpg
+|   |   |       |       image032.png
+|   |   |       |       image033.jpg
+|   |   |       |       image034.jpg
+|   |   |       |       image035.jpg
+|   |   |       |       image036.jpg
+|   |   |       |       image037.jpg
+|   |   |       |       image038.jpg
+|   |   |       |       image039.jpg
+|   |   |       |       image040.jpg
+|   |   |       |       image041.jpg
+|   |   |       |       image042.jpg
+|   |   |       |       image043.png
+|   |   |       |       image044.jpg
+|   |   |       |       image045.jpg
+|   |   |       |       image046.jpg
+|   |   |       |       image047.png
+|   |   |       |       image048.jpg
+|   |   |       |       image049.png
+|   |   |       |       image050.jpg
+|   |   |       |       image051.png
+|   |   |       |       image052.jpg
+|   |   |       |       image053.jpg
+|   |   |       |       image054.jpg
+|   |   |       |       image055.jpg
+|   |   |       |       image056.jpg
+|   |   |       |       image057.jpg
+|   |   |       |       image058.jpg
+|   |   |       |       image059.png
+|   |   |       |       image060.gif
+|   |   |       |       image061.png
+|   |   |       |       image062.gif
+|   |   |       |       image063.png
+|   |   |       |       image064.jpg
+|   |   |       |       image065.png
+|   |   |       |       image066.gif
+|   |   |       |       image067.png
+|   |   |       |       image068.jpg
+|   |   |       |       image069.png
+|   |   |       |       image070.gif
+|   |   |       |       image071.png
+|   |   |       |       image072.gif
+|   |   |       |       image073.png
+|   |   |       |       image074.gif
+|   |   |       |       image075.png
+|   |   |       |       image076.jpg
+|   |   |       |       image077.png
+|   |   |       |       image078.jpg
+|   |   |       |       image079.jpg
+|   |   |       |       image080.jpg
+|   |   |       |       image081.png
+|   |   |       |       image082.jpg
+|   |   |       |       image083.png
+|   |   |       |       image084.jpg
+|   |   |       |       image085.png
+|   |   |       |       image086.jpg
+|   |   |       |       image087.png
+|   |   |       |       image088.jpg
+|   |   |       |       image089.png
+|   |   |       |       image090.jpg
+|   |   |       |       image091.png
+|   |   |       |       image092.jpg
+|   |   |       |       index.html
+|   |   |       |       oledata.mso
+|   |   |       |       
+|   |   |       +---ch-11-radio-link-calculation_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.wmz
+|   |   |       |       image006.gif
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.gif
+|   |   |       |       image013.jpg
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.gif
+|   |   |       |       image019.png
+|   |   |       |       image020.jpg
+|   |   |       |       image021.png
+|   |   |       |       image022.jpg
+|   |   |       |       index.html
+|   |   |       |       oledata.mso
+|   |   |       |       
+|   |   |       +---ch-12-site-survey_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.jpg
+|   |   |       |       image013.png
+|   |   |       |       image014.jpg
+|   |   |       |       index.html
+|   |   |       |       oledata.mso
+|   |   |       |       
+|   |   |       +---ch-13-design-wlan-man_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.gif
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.gif
+|   |   |       |       image009.png
+|   |   |       |       image010.gif
+|   |   |       |       image011.png
+|   |   |       |       image012.gif
+|   |   |       |       image013.gif
+|   |   |       |       image014.jpg
+|   |   |       |       image015.jpg
+|   |   |       |       image016.png
+|   |   |       |       image017.jpg
+|   |   |       |       image018.jpg
+|   |   |       |       image019.jpg
+|   |   |       |       image020.gif
+|   |   |       |       image021.png
+|   |   |       |       image022.gif
+|   |   |       |       image023.png
+|   |   |       |       image024.gif
+|   |   |       |       image025.png
+|   |   |       |       image026.gif
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-14-securing-infrastructure_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.jpg
+|   |   |       |       image013.png
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.jpg
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-15-nocat_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.gif
+|   |   |       |       image002.png
+|   |   |       |       image003.gif
+|   |   |       |       image004.png
+|   |   |       |       image005.gif
+|   |   |       |       image006.png
+|   |   |       |       image007.gif
+|   |   |       |       image008.png
+|   |   |       |       image009.jpg
+|   |   |       |       image010.png
+|   |   |       |       image011.jpg
+|   |   |       |       image012.png
+|   |   |       |       image013.jpg
+|   |   |       |       image014.png
+|   |   |       |       image015.jpg
+|   |   |       |       image016.png
+|   |   |       |       image017.jpg
+|   |   |       |       image018.png
+|   |   |       |       image019.jpg
+|   |   |       |       image020.png
+|   |   |       |       image021.jpg
+|   |   |       |       image022.png
+|   |   |       |       image023.jpg
+|   |   |       |       image024.png
+|   |   |       |       image025.jpg
+|   |   |       |       image026.png
+|   |   |       |       image027.jpg
+|   |   |       |       image028.png
+|   |   |       |       image029.jpg
+|   |   |       |       image030.png
+|   |   |       |       image031.jpg
+|   |   |       |       image032.png
+|   |   |       |       image033.jpg
+|   |   |       |       image034.png
+|   |   |       |       image035.jpg
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-2-wifi-infrastructure_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.gif
+|   |   |       |       image003.png
+|   |   |       |       image004.gif
+|   |   |       |       image005.png
+|   |   |       |       image006.gif
+|   |   |       |       image007.jpg
+|   |   |       |       image008.jpg
+|   |   |       |       image009.jpg
+|   |   |       |       image010.jpg
+|   |   |       |       image011.jpg
+|   |   |       |       image012.jpg
+|   |   |       |       image013.jpg
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.jpg
+|   |   |       |       image018.jpg
+|   |   |       |       image019.png
+|   |   |       |       image020.gif
+|   |   |       |       image021.jpg
+|   |   |       |       image022.jpg
+|   |   |       |       image023.jpg
+|   |   |       |       image024.jpg
+|   |   |       |       image025.jpg
+|   |   |       |       image026.jpg
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-3-prepare-equipments_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.jpg
+|   |   |       |       image002.jpg
+|   |   |       |       image003.jpg
+|   |   |       |       image004.jpg
+|   |   |       |       image005.jpg
+|   |   |       |       image006.jpg
+|   |   |       |       image007.jpg
+|   |   |       |       image008.jpg
+|   |   |       |       image009.jpg
+|   |   |       |       image010.jpg
+|   |   |       |       image011.jpg
+|   |   |       |       image012.jpg
+|   |   |       |       image013.jpg
+|   |   |       |       image014.jpg
+|   |   |       |       image015.jpg
+|   |   |       |       image016.png
+|   |   |       |       image017.jpg
+|   |   |       |       image018.jpg
+|   |   |       |       image019.jpg
+|   |   |       |       image020.jpg
+|   |   |       |       image021.jpg
+|   |   |       |       image022.jpg
+|   |   |       |       image023.jpg
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-4-how-to-shop-wifi_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.jpg
+|   |   |       |       image013.png
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.jpg
+|   |   |       |       image019.png
+|   |   |       |       image020.jpg
+|   |   |       |       image021.png
+|   |   |       |       image022.jpg
+|   |   |       |       image023.png
+|   |   |       |       image024.jpg
+|   |   |       |       image025.png
+|   |   |       |       image026.jpg
+|   |   |       |       image027.png
+|   |   |       |       image028.jpg
+|   |   |       |       image029.png
+|   |   |       |       image030.jpg
+|   |   |       |       image031.png
+|   |   |       |       image032.jpg
+|   |   |       |       image033.png
+|   |   |       |       image034.jpg
+|   |   |       |       image035.png
+|   |   |       |       image036.jpg
+|   |   |       |       image037.png
+|   |   |       |       image038.jpg
+|   |   |       |       image039.png
+|   |   |       |       image040.jpg
+|   |   |       |       image041.png
+|   |   |       |       image042.jpg
+|   |   |       |       image043.png
+|   |   |       |       image044.jpg
+|   |   |       |       image045.png
+|   |   |       |       image046.jpg
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-5-intro-to-radio-concepts_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.gif
+|   |   |       |       image003.png
+|   |   |       |       image004.gif
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-6-wlan-in-windows_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.gif
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.jpg
+|   |   |       |       image013.png
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.jpg
+|   |   |       |       image019.png
+|   |   |       |       image020.jpg
+|   |   |       |       image021.png
+|   |   |       |       image022.jpg
+|   |   |       |       image023.gif
+|   |   |       |       image024.gif
+|   |   |       |       image025.gif
+|   |   |       |       image026.gif
+|   |   |       |       image027.gif
+|   |   |       |       image028.gif
+|   |   |       |       index.html
+|   |   |       |       
+|   |   |       +---ch-7-wlan-in-linux_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---ch-8-linux-gateway_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.jpg
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.wmz
+|   |   |       |       image008.gif
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       index.html
+|   |   |       |       oledata.mso
+|   |   |       |       
+|   |   |       +---ch-9-configure-access-point_files
+|   |   |       |       editdata.html
+|   |   |       |       filelist.xml
+|   |   |       |       image001.png
+|   |   |       |       image002.gif
+|   |   |       |       image003.png
+|   |   |       |       image004.jpg
+|   |   |       |       image005.png
+|   |   |       |       image006.jpg
+|   |   |       |       image007.png
+|   |   |       |       image008.jpg
+|   |   |       |       image009.png
+|   |   |       |       image010.jpg
+|   |   |       |       image011.png
+|   |   |       |       image012.jpg
+|   |   |       |       image013.png
+|   |   |       |       image014.jpg
+|   |   |       |       image015.png
+|   |   |       |       image016.jpg
+|   |   |       |       image017.png
+|   |   |       |       image018.jpg
+|   |   |       |       image019.png
+|   |   |       |       image020.jpg
+|   |   |       |       image021.png
+|   |   |       |       image022.jpg
+|   |   |       |       image023.png
+|   |   |       |       image024.jpg
+|   |   |       |       image025.png
+|   |   |       |       image026.jpg
+|   |   |       |       image027.png
+|   |   |       |       image028.jpg
+|   |   |       |       image029.png
+|   |   |       |       image030.jpg
+|   |   |       |       image031.png
+|   |   |       |       image032.jpg
+|   |   |       |       image033.png
+|   |   |       |       image034.jpg
+|   |   |       |       image035.png
+|   |   |       |       image036.jpg
+|   |   |       |       image037.png
+|   |   |       |       image038.jpg
+|   |   |       |       image039.png
+|   |   |       |       image040.jpg
+|   |   |       |       image041.png
+|   |   |       |       image042.jpg
+|   |   |       |       image043.png
+|   |   |       |       image044.jpg
+|   |   |       |       image045.png
+|   |   |       |       image046.jpg
+|   |   |       |       image047.png
+|   |   |       |       image048.jpg
+|   |   |       |       image049.png
+|   |   |       |       image050.jpg
+|   |   |       |       image051.png
+|   |   |       |       image052.jpg
+|   |   |       |       index.html
+|   |   |       |       oledata.mso
+|   |   |       |       
+|   |   |       +---cover-page_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---reference_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       +---table-of-content_files
+|   |   |       |       filelist.xml
+|   |   |       |       
+|   |   |       \---wireless-network-calculation-2-2003_files
+|   |   |               editdata.html
+|   |   |               filelist.xml
+|   |   |               oledata.html
+|   |   |               
+|   |   +---romi-algoritmac
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       putu-algoritmac-cos.zip
+|   |   |       putu-algoritmac-duanilai.zip
+|   |   |       putu-algoritmac-fpb.zip
+|   |   |       putu-algoritmac-prima.zip
+|   |   |       putu-algoritmac-rekursif.zip
+|   |   |       romi-algoritmac-00.zip
+|   |   |       romi-algoritmac-01.zip
+|   |   |       
+|   |   +---romi-bahasac
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       romi-bahasac-00.zip
+|   |   |       romi-bahasac-01.zip
+|   |   |       
+|   |   +---romi-linux
+|   |   |       Thumbs.db
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       romi-linux.zip
+|   |   |       
+|   |   +---solichin-bahasac
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       solichin-bahasac-00.zip
+|   |   |       solichin-bahasac-01.zip
+|   |   |       solichin-bahasac-02.zip
+|   |   |       solichin-bahasac-03.zip
+|   |   |       solichin-bahasac-04.zip
+|   |   |       solichin-bahasac-05.zip
+|   |   |       solichin-bahasac-06.zip
+|   |   |       solichin-bahasac-07.zip
+|   |   |       solichin-bahasac-08.zip
+|   |   |       solichin-bahasac-09.zip
+|   |   |       
+|   |   +---sony-vb
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       meminfo.zip
+|   |   |       sony-blob.zip
+|   |   |       sony-cdromvb.zip
+|   |   |       sony-dll.zip
+|   |   |       sony-flat.zip
+|   |   |       sony-numproc.zip
+|   |   |       sony-openclosecdrom.zip
+|   |   |       sony-udl.zip
+|   |   |       sony-vbram.zip
+|   |   |       streamblob.zip
+|   |   |       tbflat.zip
+|   |   |       udlm.zip
+|   |   |       vbdll.zip
+|   |   |       
+|   |   +---sto-assembly
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       sto-assembly.zip
+|   |   |       
+|   |   +---tharom-robot
+|   |   |       cover.jpg
+|   |   |       index.php
+|   |   |       tharom-robot-00.jpg
+|   |   |       tharom-robot-00.zip
+|   |   |       tharom-robot-01.zip
+|   |   |       tharom-robot-02.zip
+|   |   |       tharom-robot-03.zip
+|   |   |       tharom-robot-04.zip
+|   |   |       tharom-robot-05.zip
+|   |   |       tharom-robot-a.zip
+|   |   |       tharom-robot-b.zip
+|   |   |       tharom-robot-c.zip
+|   |   |       tharom-robot-pustaka.zip
+|   |   |       
+|   |   \---winbi
+|   |           index.php
+|   |           panduan-faq-revisi.jpg
+|   |           panduan-kde-revisi.jpg
+|   |           panpeng-pp-revisi.jpg
+|   |           panpeng-public-revisi.jpg
+|   |           rujuk-acuan-revisi.jpg
+|   |           winbi-faq.zip
+|   |           winbi-gpl.zip
+|   |           winbi-kde.zip
+|   |           winbi-penerjemahan.zip
+|   |           
+|   +---bukuputih
+|   |       iis2001.zip
+|   |       index.php
+|   |       istilah-ti-indonesia.txt
+|   |       siti2001.zip
+|   |       siti2002.zip
+|   |       
+|   +---distributor
+|   |   |   bali.php
+|   |   |   banten.php
+|   |   |   bengkulu.php
+|   |   |   cdrom.php
+|   |   |   diaceh.php
+|   |   |   dkijakarta.php
+|   |   |   index.php
+|   |   |   jambi.php
+|   |   |   jawabarat.php
+|   |   |   jawatengah.php
+|   |   |   jawatimur.php
+|   |   |   kalimantan.php
+|   |   |   lampung.php
+|   |   |   luarnegeri.php
+|   |   |   malukuirian.php
+|   |   |   persyaratan.php
+|   |   |   riau.php
+|   |   |   sulawesi.php
+|   |   |   sumaterabarat.php
+|   |   |   sumateraselatan.php
+|   |   |   sumaterautara.php
+|   |   |   yogyakarta.php
+|   |   |   
+|   |   \---sertifikat
+|   |           distributorcd-daftar.pdf
+|   |           distributorcdikc.zip
+|   |           sertifikatcd-saifuddin.pdf
+|   |           sertifikatcdikc-saifuddin.zip
+|   |           
+|   +---distributor_new
+|   |   |   bali.php
+|   |   |   banten.php
+|   |   |   bengkulu.php
+|   |   |   cdrom.php
+|   |   |   daftardistributor.php
+|   |   |   diaceh.php
+|   |   |   dkijakarta.php
+|   |   |   index.php
+|   |   |   jambi.php
+|   |   |   jawabarat.php
+|   |   |   jawatengah.php
+|   |   |   jawatimur.php
+|   |   |   kalimantan.php
+|   |   |   lampung.php
+|   |   |   luarnegeri.php
+|   |   |   malukuirian.php
+|   |   |   pendaftaran.php
+|   |   |   persyaratan.php
+|   |   |   propinsi.txt
+|   |   |   riau.php
+|   |   |   sulawesi.php
+|   |   |   sumaterabarat.php
+|   |   |   sumateraselatan.php
+|   |   |   sumaterautara.php
+|   |   |   yogyakarta.php
+|   |   |   
+|   |   \---data
+|   |           distro-Bali dan Nusa Tenggara-9671946c24c9e1edcf0109d49fe03c.txt
+|   |           distro-Banten-0b267f9d234de5090357e9a815dfd98c.txt
+|   |           distro-DKI Jakarta-07d8ac027080c27ff15fb34fb09ab908.txt
+|   |           distro-DKI Jakarta-167d188fb9e4f7ec9eac55f14ad71091.txt
+|   |           distro-DKI Jakarta-2dca46f7c64d3f308a0fef13d8197175.txt
+|   |           distro-DKI Jakarta-39ac166821c2a6ef6eea7785f2ba1b7c.txt
+|   |           distro-DKI Jakarta-4daaa480dd1bbf87bc72b041a64f5b0f.txt
+|   |           distro-DKI Jakarta-f4d5ca84a2655692ae1a18c7b5b15f3c.txt
+|   |           distro-Daerah Istimewa Aceh-154d03889ae75d4b606f10f063caff02.txt
+|   |           distro-Daerah Istimewa Aceh-2b7e1a80208aa04feaee1409475c2f80.txt
+|   |           distro-Daerah Istimewa Yogyakarta-7edf0ab192c054d0ead73c1e5b.txt
+|   |           distro-Daerah Istimewa Yogyakarta-d9c7c0abd793a9af4117b65ef2.txt
+|   |           distro-Jawa Barat-0a6bc2844395a67b1175f5af2ea795af.txt
+|   |           distro-Jawa Barat-0fbc0f9a84f48f5b485d66cf88b6b9b1.txt
+|   |           distro-Jawa Barat-18c015503518671cb2f7fc1145dd7dbf.txt
+|   |           distro-Jawa Barat-351825f6ac36f606855b2ff11ae782c8.txt
+|   |           distro-Jawa Barat-3726df1854ea7da4ae53e578f668e604.txt
+|   |           distro-Jawa Barat-3d1ca29a3acef3d29d6267426b2730d5.txt
+|   |           distro-Jawa Barat-4eae7b9a14c2631d51325d8500595225.txt
+|   |           distro-Jawa Barat-54b6cb937aca835e8e67b44eafe8271a.txt
+|   |           distro-Jawa Barat-81b18b163347d0c199a1c119bca02220.txt
+|   |           distro-Jawa Barat-cacc7902e4d640d10bdfa328aed01eec.txt
+|   |           distro-Jawa Tengah-1f49b5e3dfaa91566451fcb5d37e52aa.txt
+|   |           distro-Jawa Tengah-5847d93ca35c7ff3141027f1b254b8d5.txt
+|   |           distro-Jawa Timur-0a69fe6c646ff9a1964cc3b1438cc574.txt
+|   |           distro-Jawa Timur-32a3c646ea6197f36aa9f1dc9e0f1dff.txt
+|   |           distro-Jawa Timur-a1152f1fe9d94e6c354c5ac830368fc0.txt
+|   |           distro-Jawa Timur-ef7bbe1c8190910b18c5aecd69a838ef.txt
+|   |           distro-Kalimantan-6da9af2803c9e80dfe16e9bb842b72fd.txt
+|   |           distro-Luar Negeri-38cd2df4b692b32fb2a128e88f8d60fe.txt
+|   |           distro-Luar Negeri-5bbf6d1151a660ccfa33aa0ef10f84ba.txt
+|   |           distro-Maluku dan Irian Jaya-130b5f40dc05ab683ec1a64f024ca03.txt
+|   |           distro-Riau-00d350874fb50a89150412f9b90ef0aa.txt
+|   |           distro-Riau-4b5babb4cc5514ada0a113895c16a185.txt
+|   |           distro-Riau-790f2a9cf006cecc5b383c4879645b65.txt
+|   |           distro-Riau-adc97e5705ca46fbd6b426afa6910d50.txt
+|   |           distro-Sulawesi-93e18dfde081fff849e5ae47497145df.txt
+|   |           distro-Sulawesi-aa6f3ff9f3d8505e4b02d5a14275dcf9.txt
+|   |           distro-Sulawesi-cedbf8ec9c47a6107744d8307892cb1b.txt
+|   |           distro-Sulawesi-fc0991c84106e374b7059fe7be16caa0.txt
+|   |           distro-Sumatra Selatan-dc3fc3b07342689b703d8fee2b5b215a.txt
+|   |           distroadmin.txt
+|   |           editform.php
+|   |           index.php
+|   |           listdistro.php
+|   |           temp_distro-DKI Jakarta-167d188fb9e4f7ec9eac55f14ad71091.txt
+|   |           temp_distro-DKI Jakarta-4daaa480dd1bbf87bc72b041a64f5b0f.txt
+|   |           temp_distro-Daerah Istimewa Aceh-154d03889ae75d4b606f10f063c.txt
+|   |           temp_distro-Jawa Barat-351825f6ac36f606855b2ff11ae782c8.txt
+|   |           temp_distro-Jawa Barat-cacc7902e4d640d10bdfa328aed01eec.txt
+|   |           temp_distro-Riau-4b5babb4cc5514ada0a113895c16a185.txt
+|   |           temp_distro-Sulawesi-96f505423f06bfd839f9b26f62b8473d.txt
+|   |           temp_distro-Sulawesi-cedbf8ec9c47a6107744d8307892cb1b.txt
+|   |           
+|   +---images
+|   |       abc.jpg
+|   |       abepoetra-photo.gif
+|   |       access.gif
+|   |       acm.jpg
+|   |       adalovelace1.jpg
+|   |       adalovelace2.jpg
+|   |       adi-photo.gif
+|   |       administration.gif
+|   |       adsl.gif
+|   |       afs-photo.gif
+|   |       afs-security.gif
+|   |       agent.gif
+|   |       agus-photo.gif
+|   |       ai.gif
+|   |       alanturing.jpg
+|   |       alex-photo.gif
+|   |       alfian-photo.gif
+|   |       alfred-photo.gif
+|   |       alkhwarizmi.jpg
+|   |       alkhwarizmi2.jpg
+|   |       alkhwarizmi3.jpg
+|   |       alwin-photo.jpg
+|   |       andi-photo.gif
+|   |       andino-photo.gif
+|   |       andry-photo.jpg
+|   |       anny-photo.gif
+|   |       anon-photo.gif
+|   |       anto-photo.gif
+|   |       antony-photo.jpg
+|   |       apaitu.gif
+|   |       apaitukomputer.gif
+|   |       ardi-photo.gif
+|   |       ariefrachmansyah-coldfusion.gif
+|   |       ariefrachmansyah-photo.gif
+|   |       arif-photo.gif
+|   |       arifirwansyah-photo.gif
+|   |       ario-photo.jpg
+|   |       ariya-photo.gif
+|   |       athar-photo.gif
+|   |       atm.gif
+|   |       award.gif
+|   |       bagus-photo.gif
+|   |       bandwidth.jpg
+|   |       bandwidthsponsors.gif
+|   |       banking.jpg
+|   |       banner.gif
+|   |       bayu-photo.gif
+|   |       berita.gif
+|   |       bg1.gif
+|   |       billjoy.gif
+|   |       bioinformatika.gif
+|   |       bioinformatika2.gif
+|   |       bochs.gif
+|   |       bondan-photo.gif
+|   |       brainware.jpg
+|   |       bsd.gif
+|   |       bsmdaemon.jpg
+|   |       bsmdaemon2.jpg
+|   |       budirahardjo-photo.gif
+|   |       buku.gif
+|   |       bukuputihti.gif
+|   |       c++.gif
+|   |       candra-photo.jpg
+|   |       carikerja.gif
+|   |       cdrom.gif
+|   |       character.gif
+|   |       chemcad.jpg
+|   |       chendra-photo.gif
+|   |       choirul-cepatmahirwin2000s.gif
+|   |       choirul-photo.jpg
+|   |       cio.gif
+|   |       ciscorouter.jpg
+|   |       cmos.jpg
+|   |       cms.gif
+|   |       computer.jpg
+|   |       computersystem.jpg
+|   |       copyright.gif
+|   |       copyright2.gif
+|   |       css.gif
+|   |       daniel-photo.gif
+|   |       daniyal-photo.gif
+|   |       database.gif
+|   |       datamining.gif
+|   |       datamining.jpg
+|   |       deddy-photo.jpg
+|   |       delphi.gif
+|   |       denny-photo.gif
+|   |       devsponsors.gif
+|   |       dewo-photo.gif
+|   |       diah-photo.jpg
+|   |       diding-photo.gif
+|   |       digitalreader.gif
+|   |       dikshie-photo.gif
+|   |       dindin-photo.gif
+|   |       disos.jpg
+|   |       distancelearning.jpg
+|   |       distancelearning2.jpg
+|   |       distributor.gif
+|   |       distributor2.gif
+|   |       distributor3.gif
+|   |       djoni-photo.gif
+|   |       dl.jpg
+|   |       dns.jpg
+|   |       donasi.gif
+|   |       doni-photo.gif
+|   |       dos.jpg
+|   |       download.gif
+|   |       download1.gif
+|   |       download2.jpg
+|   |       dreamweaver.jpg
+|   |       dwebaward.gif
+|   |       dwi-clipper.jpg
+|   |       dwi-photo.gif
+|   |       ebook-link.gif
+|   |       eclipse.gif
+|   |       edsgar1.jpg
+|   |       edsgar2.jpg
+|   |       edwin-photo.gif
+|   |       eko-photo.jpg
+|   |       ekopurwanto-photo.gif
+|   |       elearning.jpg
+|   |       endy-photo.gif
+|   |       eniac.jpg
+|   |       excel.jpg
+|   |       faisal-photo.jpg
+|   |       fidens-photo.jpg
+|   |       fireworks.gif
+|   |       fitr-photo.jpg
+|   |       flash.jpg
+|   |       frans-photo.gif
+|   |       freesco.gif
+|   |       gani-photo.gif
+|   |       genetic.jpg
+|   |       ginanjar-photo.gif
+|   |       gnu.jpg
+|   |       gnuplot.jpg
+|   |       gunawan-photo.gif
+|   |       hacker.gif
+|   |       hacker.jpg
+|   |       hacker2.gif
+|   |       hackingtool.jpg
+|   |       hakim-photo.gif
+|   |       hamacher.jpg
+|   |       hardwarekomputer.gif
+|   |       harimurti-photo.gif
+|   |       harry-photo.jpg
+|   |       hartaman-photo.jpg
+|   |       hartono-photo.gif
+|   |       hasilpencarian.gif
+|   |       hendri-photo.gif
+|   |       hendrik-photo.jpg
+|   |       hendro-pemrograman.gif
+|   |       hendro-photo.jpg
+|   |       hendry-photo.gif
+|   |       heryzal-photo.gif
+|   |       hewlett-packard.gif
+|   |       hewlett1.jpg
+|   |       hewlett2.jpg
+|   |       hmc-photo.gif
+|   |       howardaiken.jpg
+|   |       iappli.jpg
+|   |       iko-datamining.gif
+|   |       iko-photo.gif
+|   |       ikrar.gif
+|   |       imam-photo.gif
+|   |       indra-photo.jpg
+|   |       indrapurbo-photo.gif
+|   |       internet.gif
+|   |       iping-photo.gif
+|   |       ipv6.gif
+|   |       iskandar-photo.gif
+|   |       isp.gif
+|   |       istilah.jpg
+|   |       itpekerja.gif
+|   |       ivan-photo.jpg
+|   |       ivansudirman-photo.gif
+|   |       iyan-photo.gif
+|   |       j2me.gif
+|   |       jadihacker.jpg
+|   |       jaka-photo.jpg
+|   |       jaringan.gif
+|   |       jaringankerjasama.gif
+|   |       jaringankerjasama2.gif
+|   |       jaringankomputer.jpg
+|   |       java.gif
+|   |       javascript.gif
+|   |       javawave.gif
+|   |       jdpengurus.gif
+|   |       jerryyang1.jpg
+|   |       jerryyang2.jpg
+|   |       job.jpg
+|   |       johnvonneumann.gif
+|   |       joinmilis.gif
+|   |       junaedi-photo.gif
+|   |       kabel.gif
+|   |       kalengkian-photo.gif
+|   |       kamusarab.jpg
+|   |       kamusti.jpg
+|   |       kazaa.gif
+|   |       kelasvirtual.jpg
+|   |       kelik-photo.gif
+|   |       kemas-photo.jpg
+|   |       kernighan1.jpg
+|   |       kernighan2.jpg
+|   |       ketut-photo.gif
+|   |       ketutadi-photo.gif
+|   |       kiossproject.jpg
+|   |       kirimtulisan.gif
+|   |       klasifikasi.gif
+|   |       knoppix.jpg
+|   |       knowledgespiral.jpg
+|   |       knuth1.jpg
+|   |       knuth2.jpg
+|   |       knuth3.gif
+|   |       koen-photo.jpg
+|   |       komputer.jpg
+|   |       komunitas.jpg
+|   |       konsultasi.gif
+|   |       konsultasi1.gif
+|   |       konsultasi1.jpg
+|   |       krisna-photo.gif
+|   |       kuliahgratis.gif
+|   |       laptop.jpg
+|   |       linus1.jpg
+|   |       linus2.jpg
+|   |       linus3.gif
+|   |       linux1.gif
+|   |       linux2.gif
+|   |       linuxpda.png
+|   |       lisensidokumen.jpg
+|   |       lsi.gif
+|   |       ltsp.png
+|   |       luri-photo.gif
+|   |       magicpoint.jpg
+|   |       mailinglist.jpg
+|   |       mailserver.gif
+|   |       mambu-photo.jpg
+|   |       marjuki-photo.gif
+|   |       mark1.jpg
+|   |       mas.jpg
+|   |       mas2.jpg
+|   |       mas3.gif
+|   |       masbukin-photo.gif
+|   |       mastris-photo.jpg
+|   |       matbiner.gif
+|   |       mdaemon.jpg
+|   |       membuathelp.gif
+|   |       mic-photo.gif
+|   |       michael-photo.jpg
+|   |       milis.gif
+|   |       mirror.gif
+|   |       mobile.gif
+|   |       modelusaha.jpg
+|   |       mohsin-photo.jpg
+|   |       morse1.gif
+|   |       morse2.jpg
+|   |       mpls.gif
+|   |       netiket.jpg
+|   |       new1.gif
+|   |       new2.gif
+|   |       new3.gif
+|   |       ngn.gif
+|   |       nmap.jpg
+|   |       nophoto.jpg
+|   |       nurhasyim-photo.gif
+|   |       nursapta-photo.gif
+|   |       office.jpg
+|   |       onno-photo.jpg
+|   |       ontologikelautan.gif
+|   |       ooad1.gif
+|   |       ooad2.gif
+|   |       openoffice.gif
+|   |       opensource.jpg
+|   |       opensource2.jpg
+|   |       os.jpg
+|   |       osborne1.jpg
+|   |       osborne2.jpg
+|   |       ota.jpg
+|   |       outlook.jpg
+|   |       packard1.jpg
+|   |       packard2.jpg
+|   |       paket.gif
+|   |       pangan.gif
+|   |       pc.jpg
+|   |       pda.jpg
+|   |       pemrograman.jpg
+|   |       pencarian.gif
+|   |       pengurus.gif
+|   |       penulis.gif
+|   |       penulis.jpg
+|   |       pepen-photo.gif
+|   |       perkembanganhardware.gif
+|   |       perkembangansoftware.gif
+|   |       perusahaan.jpg
+|   |       peterdenning.gif
+|   |       photoshop.jpg
+|   |       php.gif
+|   |       phptriad.jpg
+|   |       piotun-photo.gif
+|   |       postgres.jpg
+|   |       premiere.png
+|   |       productsponsors.gif
+|   |       programming1.jpg
+|   |       programming2.jpg
+|   |       project.jpg
+|   |       prosedurjaringan.gif
+|   |       prosesor.gif
+|   |       putu-photo.gif
+|   |       rafdian-photo.jpg
+|   |       redhat.jpg
+|   |       rio-photo.gif
+|   |       riri-photo.gif
+|   |       ritchie1.jpg
+|   |       ritchie2.jpg
+|   |       rivai-photo.gif
+|   |       romi-agent.gif
+|   |       romi-buku-cepatmahirtokoh.jpg
+|   |       romi-cepatmahirc.gif
+|   |       romi-cepatmahirlinux.gif
+|   |       romi-mas.gif
+|   |       romi-ooad.gif
+|   |       romi-photo.gif
+|   |       romi-teoridasar.gif
+|   |       rossperot1.jpg
+|   |       rossperot2.jpg
+|   |       rossperot3.jpg
+|   |       rossperot4.jpg
+|   |       rss.jpg
+|   |       safii-photo.gif
+|   |       salahpersepsi.gif
+|   |       salman-photo.gif
+|   |       sap.gif
+|   |       sc.gif
+|   |       search.gif
+|   |       security.gif
+|   |       security.jpg
+|   |       sejarah.gif
+|   |       sejarahkomputer.gif
+|   |       sekuritikelautan.jpg
+|   |       seminar.gif
+|   |       siapatokoh.jpg
+|   |       siber.gif
+|   |       sig.jpg
+|   |       sinergi.jpg
+|   |       soetrisno-photo.gif
+|   |       softcomputing.gif
+|   |       softwarekomputer.jpg
+|   |       solichin-photo.gif
+|   |       sony-photo.gif
+|   |       sponsor.gif
+|   |       sponsorship.gif
+|   |       sponsorship2.gif
+|   |       sponsorship3.gif
+|   |       stallman1.jpg
+|   |       stallman2.jpg
+|   |       sudewa-photo.gif
+|   |       sukma-photo.gif
+|   |       superkomputer.jpg
+|   |       suse.jpg
+|   |       svg.jpg
+|   |       svm.gif
+|   |       taufik-photo.gif
+|   |       tcpdump.gif
+|   |       tex.jpg
+|   |       tharom-photo.gif
+|   |       tips-programming.gif
+|   |       tips.gif
+|   |       tipstrik-admin.gif
+|   |       tipstrik-database.gif
+|   |       tipstrik-hacking.gif
+|   |       tipstrik-internet.gif
+|   |       tipstrik-komputer.gif
+|   |       tipstrik-pemrograman.gif
+|   |       tokoh-babbage1.jpg
+|   |       tokoh-babbage2.jpg
+|   |       tokoh-babbage3.jpg
+|   |       tokoh-babbage4.jpg
+|   |       tokoh-billgates1.jpg
+|   |       tokoh-billgates2.jpg
+|   |       tokoh-billgates3.gif
+|   |       tokoh.gif
+|   |       tommy-photo.gif
+|   |       triyan-photo.gif
+|   |       tua-photo.jpg
+|   |       tulisan.jpg
+|   |       tulisan2.gif
+|   |       tulisan2.jpg
+|   |       turingmachine.gif
+|   |       ujian.gif
+|   |       underground.jpg
+|   |       usecase.gif
+|   |       uu.jpg
+|   |       uuti.gif
+|   |       vbnet.gif
+|   |       vi.gif
+|   |       virologi.jpg
+|   |       virus1.gif
+|   |       virus2.gif
+|   |       virus3.gif
+|   |       visibangsa.jpg
+|   |       voip.jpg
+|   |       wahidi-photo.gif
+|   |       wahyu-photo.gif
+|   |       watson.jpg
+|   |       watson2.jpg
+|   |       watson3.jpg
+|   |       webaward.gif
+|   |       webaward2003e.jpg
+|   |       welcome.gif
+|   |       welly-photo.gif
+|   |       whitepaper.gif
+|   |       widoyo-photo.gif
+|   |       wifi.jpg
+|   |       winbi.gif
+|   |       winbi.jpg
+|   |       windows.jpg
+|   |       winmx.jpg
+|   |       winroute.jpg
+|   |       wiryana-photo.gif
+|   |       witarto-photo.jpg
+|   |       word.jpg
+|   |       work.gif
+|   |       workshop.gif
+|   |       wsa.gif
+|   |       xml.gif
+|   |       yadi-photo.gif
+|   |       yanti-photo.gif
+|   |       yudanto-photo.gif
+|   |       yudho-photo.gif
+|   |       yuhefizar-photo.gif
+|   |       zaki-photo.gif
+|   |       zulfikar-photo.gif
+|   |       zulkhaery-photo.gif
+|   |       
+|   +---milis
+|   |       Thumbs.db
+|   |       banner-milis.gif
+|   |       ilmukomputer[1-730]-htm.zip
+|   |       ilmukomputer[1796-3025]-htm.zip
+|   |       ilmukomputer[3026-4003]-htm.zip
+|   |       ilmukomputer[4004-4378]-htm.zip
+|   |       ilmukomputer[4379-4735]-htm.zip
+|   |       ilmukomputer[4736-5102]-htm.zip
+|   |       ilmukomputer[5103-5587]-htm.zip
+|   |       ilmukomputer[5588-6424]-htm.zip
+|   |       ilmukomputer[6425-7229]-htm.zip
+|   |       ilmukomputer[7230-8934]-htm.zip
+|   |       ilmukomputer[731-1795]-htm.zip
+|   |       ilmukomputer[8935-9147]-htm.zip
+|   |       ilmukomputer[9148-10105]-htm.zip
+|   |       pelanggaran-peraturanmilis.txt
+|   |       peraturanmilis.txt
+|   |       
+|   +---penelitian
+|   |   |   admi-genetic.php
+|   |   |   
+|   |   \---admi
+|   |           admi-genetic.zip
+|   |           
+|   +---pengantar
+|   |   |   abepoetra-matbiner.php
+|   |   |   andino-kamusti.php
+|   |   |   ivansudirman-hardwarekomputer.php
+|   |   |   ivansudirman-sejarahkomputer.php
+|   |   |   ivansudirman-softwarekomputer.php
+|   |   |   noor-informatika.php
+|   |   |   romi-apaitu.php
+|   |   |   romi-apaitukomputer.php
+|   |   |   romi-klasifikasi.php
+|   |   |   tokoh.php
+|   |   |   
+|   |   +---abepoetra
+|   |   |       abepoetra-matbiner.zip
+|   |   |       
+|   |   +---andino
+|   |   |       andino-kamusti.zip
+|   |   |       
+|   |   +---ivansudirman
+|   |   |       ivansudirman-hardwarekomputer.zip
+|   |   |       ivansudirman-sejarahkomputer.doc
+|   |   |       ivansudirman-sejarahkomputer.zip
+|   |   |       ivansudirman-softwarekomputer.zip
+|   |   |       
+|   |   +---noor
+|   |   |       noor-informatika.zip
+|   |   |       
+|   |   \---tokoh
+|   |           abepoetra-hopper.zip
+|   |           abepoetra-jack.zip
+|   |           abepoetra-terman.zip
+|   |           ardi-metcalfe.zip
+|   |           ardi-stroustrup.zip
+|   |           ardi-vintcerf.zip
+|   |           handy-konradzuse.zip
+|   |           handy-thompson.zip
+|   |           mohsin-carly.zip
+|   |           mohsin-tim.zip
+|   |           tokoh-adalovelace.php
+|   |           tokoh-alanturing.php
+|   |           tokoh-alkhwarizmi.php
+|   |           tokoh-babbage.php
+|   |           tokoh-billgates.php
+|   |           tokoh-billjoy.php
+|   |           tokoh-edsgar.php
+|   |           tokoh-hewlett.php
+|   |           tokoh-howardaiken.php
+|   |           tokoh-jerryyang.php
+|   |           tokoh-kernighan.php
+|   |           tokoh-knuth.php
+|   |           tokoh-linus.php
+|   |           tokoh-morse.php
+|   |           tokoh-osborne.php
+|   |           tokoh-packard.php
+|   |           tokoh-ritchie.php
+|   |           tokoh-rossperot.php
+|   |           tokoh-stallman.php
+|   |           tokoh-watson.php
+|   |           zulfikar-gosling.zip
+|   |           
+|   +---penulis
+|   |       penulis-abepoetra.php
+|   |       penulis-adhytia.php
+|   |       penulis-adi.php
+|   |       penulis-admi.php
+|   |       penulis-afs.php
+|   |       penulis-agus.php
+|   |       penulis-alex.php
+|   |       penulis-alfian.php
+|   |       penulis-alfred.php
+|   |       penulis-alisalim.php
+|   |       penulis-alwin.php
+|   |       penulis-ammar.php
+|   |       penulis-andi.php
+|   |       penulis-andino.php
+|   |       penulis-andry.php
+|   |       penulis-anny.php
+|   |       penulis-anon.php
+|   |       penulis-anto.php
+|   |       penulis-antony.php
+|   |       penulis-ardi.php
+|   |       penulis-arief.php
+|   |       penulis-ariefrachmansyah.php
+|   |       penulis-arif.php
+|   |       penulis-arifirwansyah.php
+|   |       penulis-ario.php
+|   |       penulis-ariya.php
+|   |       penulis-athar.php
+|   |       penulis-bagus.php
+|   |       penulis-bayu.php
+|   |       penulis-bondan.php
+|   |       penulis-budi.php
+|   |       penulis-budirahardjo.php
+|   |       penulis-candra.php
+|   |       penulis-chendra.php
+|   |       penulis-choirul.php
+|   |       penulis-daniel.php
+|   |       penulis-daniyal.php
+|   |       penulis-deddy.php
+|   |       penulis-denny.php
+|   |       penulis-dewo.php
+|   |       penulis-diah.php
+|   |       penulis-diding.php
+|   |       penulis-dikshie.php
+|   |       penulis-dindin.php
+|   |       penulis-djoni.php
+|   |       penulis-doni.php
+|   |       penulis-dwi.php
+|   |       penulis-edwin.php
+|   |       penulis-eko.php
+|   |       penulis-ekopurwanto.php
+|   |       penulis-endy.php
+|   |       penulis-faisal.php
+|   |       penulis-faried.php
+|   |       penulis-faris.php
+|   |       penulis-fidens.php
+|   |       penulis-fitr.php
+|   |       penulis-frans.php
+|   |       penulis-gani.php
+|   |       penulis-ginanjar.php
+|   |       penulis-gunawan.php
+|   |       penulis-haddad.php
+|   |       penulis-hakim.php
+|   |       penulis-harimurti.php
+|   |       penulis-harry.php
+|   |       penulis-hartaman.php
+|   |       penulis-hartono.php
+|   |       penulis-hendri.php
+|   |       penulis-hendrik.php
+|   |       penulis-hendro.php
+|   |       penulis-hendry.php
+|   |       penulis-heryzal.php
+|   |       penulis-hmc.php
+|   |       penulis-iko.php
+|   |       penulis-imam.php
+|   |       penulis-indra.php
+|   |       penulis-indrapurbo.php
+|   |       penulis-iping.php
+|   |       penulis-irvan.php
+|   |       penulis-iskandar.php
+|   |       penulis-ivan.php
+|   |       penulis-ivansudirman.php
+|   |       penulis-iyan.php
+|   |       penulis-jaka.php
+|   |       penulis-junaedi.php
+|   |       penulis-kalengkian.php
+|   |       penulis-kelik.php
+|   |       penulis-kemas.php
+|   |       penulis-ketut.php
+|   |       penulis-ketutadi.php
+|   |       penulis-koen.php
+|   |       penulis-krisna.php
+|   |       penulis-luri.php
+|   |       penulis-mambu.php
+|   |       penulis-marjuki.php
+|   |       penulis-masbukin.php
+|   |       penulis-mastris.php
+|   |       penulis-mic.php
+|   |       penulis-michael.php
+|   |       penulis-mohsin.php
+|   |       penulis-nanik.php
+|   |       penulis-noor.php
+|   |       penulis-nurhasyim.php
+|   |       penulis-nursapta.php
+|   |       penulis-onno.php
+|   |       penulis-pepen.php
+|   |       penulis-piotun.php
+|   |       penulis-putu.php
+|   |       penulis-rafdian.php
+|   |       penulis-rahmatulirfan.php
+|   |       penulis-reza.php
+|   |       penulis-rio.php
+|   |       penulis-riri.php
+|   |       penulis-rivai.php
+|   |       penulis-romi.php
+|   |       penulis-roy.php
+|   |       penulis-safii.php
+|   |       penulis-salman.php
+|   |       penulis-soetrisno.php
+|   |       penulis-solichin.php
+|   |       penulis-sony.php
+|   |       penulis-sudewa.php
+|   |       penulis-sukma.php
+|   |       penulis-taufik.php
+|   |       penulis-teddy.php
+|   |       penulis-tharom.php
+|   |       penulis-tommy.php
+|   |       penulis-triyan.php
+|   |       penulis-tua.php
+|   |       penulis-wahidi.php
+|   |       penulis-wahyu.php
+|   |       penulis-welly.php
+|   |       penulis-widoyo.php
+|   |       penulis-wiryana.php
+|   |       penulis-yadi.php
+|   |       penulis-yanti.php
+|   |       penulis-yoga.php
+|   |       penulis-yudanto.php
+|   |       penulis-yudho.php
+|   |       penulis-yuhefizar.php
+|   |       penulis-zaki.php
+|   |       penulis-zulfikar.php
+|   |       penulis-zulkhaery.php
+|   |       
+|   +---populer
+|   |   |   Thumbs.db
+|   |   |   abepoetra-istilah.php
+|   |   |   abepoetra-phptriad.php
+|   |   |   afs-security.php
+|   |   |   ammar-virus.php
+|   |   |   andi-bioinformatika.php
+|   |   |   andi-virologi.php
+|   |   |   andry-kelasvirtual.php
+|   |   |   anny-kamusarab.php
+|   |   |   anto-bioinformatika.php
+|   |   |   ario-kriptovb.php
+|   |   |   bambang-kmpangan.php
+|   |   |   budirahardjo-banking.php
+|   |   |   budirahardjo-perusahaan.php
+|   |   |   daniel-sig.php
+|   |   |   denny-netcat.php
+|   |   |   denny-nmap.php
+|   |   |   dewo-bandwidth.php
+|   |   |   dewo-prosesor.php
+|   |   |   dikshie-bsd.php
+|   |   |   dindin-blog.php
+|   |   |   dindin-freesco.php
+|   |   |   dindin-knoppix.php
+|   |   |   dindin-sti.php
+|   |   |   doni-superkomputer.php
+|   |   |   edwin-rss.php
+|   |   |   ekopurwanto-panduanseminar.php
+|   |   |   faisal-iappli.php
+|   |   |   faisal-j2me.php
+|   |   |   faisal-mobile.php
+|   |   |   faisal-ota.php
+|   |   |   fidens-linux.php
+|   |   |   frans-opensource.php
+|   |   |   gani-socialeng.php
+|   |   |   hartaman-hacker.php
+|   |   |   hendrik-km.php
+|   |   |   hendro-malcodes.php
+|   |   |   hendro-pemrograman.php
+|   |   |   hmc-siber.php
+|   |   |   luri-pda.php
+|   |   |   marjuki-atm.php
+|   |   |   nanik-java.php
+|   |   |   onno-dos.php
+|   |   |   onno-hacker.php
+|   |   |   onno-hacking.php
+|   |   |   onno-mencarikerja.php
+|   |   |   onno-modelusaha.php
+|   |   |   onno-underground.php
+|   |   |   onno-visibangsa.php
+|   |   |   onno-yahoogroups.php
+|   |   |   reza-cracker.php
+|   |   |   reza-tcpdump.php
+|   |   |   riri-cio.php
+|   |   |   riri-sinergi.php
+|   |   |   rivai-openoffice.php
+|   |   |   romi-dl.php
+|   |   |   romi-elearning.php
+|   |   |   romi-p2p.php
+|   |   |   romi-spiralisasipengetahuan.php
+|   |   |   roy-webservices.php
+|   |   |   safii-shell.php
+|   |   |   salman-postfix.php
+|   |   |   sudewa-eai.php
+|   |   |   sudewa-set.php
+|   |   |   tommy-vpn.php
+|   |   |   welly-sharing.php
+|   |   |   yoga-linux.php
+|   |   |   yudanto-linuxpda.php
+|   |   |   yudho-datamining.php
+|   |   |   yudho-komputer.php
+|   |   |   yudho-netiket.php
+|   |   |   yudho-penerapan.php
+|   |   |   yuhefizar-membuathelp.php
+|   |   |   
+|   |   +---abepoetra
+|   |   |       abepoetra-istilah.zip
+|   |   |       abepoetra-phptriad.zip
+|   |   |       
+|   |   +---afs
+|   |   |       afs-security.zip
+|   |   |       
+|   |   +---ammar
+|   |   |       ammar-virus.zip
+|   |   |       
+|   |   +---andi
+|   |   |       andi-bioinformatika.zip
+|   |   |       andi-virologi.zip
+|   |   |       
+|   |   +---andry
+|   |   |       andry-kelasvirtual-src.zip
+|   |   |       andry-kelasvirtual.zip
+|   |   |       
+|   |   +---anny
+|   |   |       anny-kamusarab.zip
+|   |   |       
+|   |   +---anto
+|   |   |       anto-bioinformatika.zip
+|   |   |       
+|   |   +---ario
+|   |   |       ario-kriptovb.zip
+|   |   |       
+|   |   +---bambang
+|   |   |       bambang-kmpangan.doc
+|   |   |       bambang-kmpangan.zip
+|   |   |       
+|   |   +---budirahardjo
+|   |   |       budirahardjo-banking.zip
+|   |   |       budirahardjo-perusahaan.zip
+|   |   |       
+|   |   +---daniel
+|   |   |       daniel-sig.zip
+|   |   |       
+|   |   +---denny
+|   |   |       denny-netcat.zip
+|   |   |       denny-nmap.zip
+|   |   |       
+|   |   +---dewo
+|   |   |       dewo-bandwidth.rtf
+|   |   |       dewo-bandwidth.zip
+|   |   |       dewo-prosesor.zip
+|   |   |       
+|   |   +---dikshie
+|   |   |       dikshie-bsd.zip
+|   |   |       
+|   |   +---dindin
+|   |   |       dindin-blog.zip
+|   |   |       dindin-freesco.zip
+|   |   |       dindin-knoppix.zip
+|   |   |       dindin-sti.zip
+|   |   |       
+|   |   +---doni
+|   |   |       doni-superkomputer.zip
+|   |   |       
+|   |   +---edwin
+|   |   |       edwin-rss.zip
+|   |   |       
+|   |   +---ekopurwanto
+|   |   |       ekopurwanto-panduanseminar.zip
+|   |   |       
+|   |   +---faisal
+|   |   |       faisal-iappli.zip
+|   |   |       faisal-j2me.zip
+|   |   |       faisal-mobile.zip
+|   |   |       faisal-ota.zip
+|   |   |       
+|   |   +---fidens
+|   |   |       fidens-linux.zip
+|   |   |       
+|   |   +---frans
+|   |   |       frans-opensource.zip
+|   |   |       
+|   |   +---gani
+|   |   |       gani-socialeng.zip
+|   |   |       
+|   |   +---hendrik
+|   |   |       hendrik-km.pdf
+|   |   |       hendrik-km.zip
+|   |   |       
+|   |   +---hendro
+|   |   |       hendro-pemrograman.zip
+|   |   |       
+|   |   +---hmc
+|   |   |       hmc-siber.zip
+|   |   |       
+|   |   +---luri
+|   |   |       luri-pda.zip
+|   |   |       source.zip
+|   |   |       
+|   |   +---marjuki
+|   |   |       marjuki-atm.zip
+|   |   |       
+|   |   +---nanik
+|   |   |       nanik-java.zip
+|   |   |       
+|   |   +---onno
+|   |   |       onno-dos.zip
+|   |   |       onno-hacker.zip
+|   |   |       onno-hacking.zip
+|   |   |       onno-mencarikerja.zip
+|   |   |       onno-modelusaha.zip
+|   |   |       onno-underground.zip
+|   |   |       onno-visibangsa.zip
+|   |   |       onno-yahoogroups.zip
+|   |   |       
+|   |   +---reza
+|   |   |       reza-cracker.zip
+|   |   |       reza-tcpdump.zip
+|   |   |       
+|   |   +---riri
+|   |   |       riri-cio.zip
+|   |   |       riri-sinergi.zip
+|   |   |       
+|   |   +---rivai
+|   |   |       rivai-openoffice.zip
+|   |   |       
+|   |   +---romi
+|   |   |       romi-dl.zip
+|   |   |       romi-elearning.doc
+|   |   |       romi-elearning.zip
+|   |   |       romi-p2p.zip
+|   |   |       romi-spiralisasipengetahuan.zip
+|   |   |       
+|   |   +---roy
+|   |   |       roy-webservices.zip
+|   |   |       
+|   |   +---safii
+|   |   |       safii-shell.zip
+|   |   |       
+|   |   +---salman
+|   |   |       salman-postfix.zip
+|   |   |       
+|   |   +---sudewa
+|   |   |       sudewa-eai.zip
+|   |   |       sudewa-set.zip
+|   |   |       
+|   |   +---tommy
+|   |   |       tommy-vpn.zip
+|   |   |       
+|   |   +---welly
+|   |   |       welly-sharing.doc
+|   |   |       welly-sharing.zip
+|   |   |       
+|   |   +---yoga
+|   |   |       yoga-linux.zip
+|   |   |       
+|   |   +---yudanto
+|   |   |       yudanto-linuxpda.zip
+|   |   |       
+|   |   \---yudho
+|   |           yudho-datamining.zip
+|   |           yudho-komputer.zip
+|   |           yudho-netiket.zip
+|   |           yudho-penerapan.zip
+|   |           
+|   +---project
+|   |   |   bondan-kbn.php
+|   |   |   detik-ikccd.zip
+|   |   |   detik-ikcwsis.zip
+|   |   |   detik-ilmukomputercom.zip
+|   |   |   detik-saweran.htm
+|   |   |   detik-saweran.pdf
+|   |   |   detik-wsisbestpractice.pdf
+|   |   |   detik-wsisbestpractice.zip
+|   |   |   dewo-sisfokampus.php
+|   |   |   iko-cspi.php
+|   |   |   index.php
+|   |   |   luri-kioss.php
+|   |   |   romi-ikc-brosur.doc
+|   |   |   romi-ikc.doc
+|   |   |   romi-ilmukomputercom.php
+|   |   |   sh-kupassitusikc.zip
+|   |   |   soetrisno-chemistry.php
+|   |   |   tempo-ikcwsis.pdf
+|   |   |   tempo-ikcwsis.zip
+|   |   |   tua-kursuskomputer.php
+|   |   |   
+|   |   \---detik-saweran_files
+|   |           noklik.js.htm
+|   |           
+|   +---search
+|   |   |   CHANGELOG
+|   |   |   INSTALL
+|   |   |   LICENSE
+|   |   |   MODULES
+|   |   |   README
+|   |   |   TODO
+|   |   |   UPGRADE
+|   |   |   index.php
+|   |   |   search.php
+|   |   |   
+|   |   +---config
+|   |   |       .htaccess
+|   |   |       config.php
+|   |   |       footer.php
+|   |   |       header.php
+|   |   |       
+|   |   +---images
+|   |   |       dgssearch.gif
+|   |   |       dgssearch_black.gif
+|   |   |       dgssearch_button.jpg
+|   |   |       
+|   |   \---libs
+|   |       |   .htaccess
+|   |       |   utils.php
+|   |       |   
+|   |       +---display
+|   |       |       .htaccess
+|   |       |       hr.php
+|   |       |       nav.php
+|   |       |       query.php
+|   |       |       results.php
+|   |       |       stats.php
+|   |       |       title.php
+|   |       |       
+|   |       +---language
+|   |       |       .htaccess
+|   |       |       english.php
+|   |       |       german.php
+|   |       |       indonesia.php
+|   |       |       spanish.php
+|   |       |       
+|   |       \---search
+|   |               .htaccess
+|   |               db.php
+|   |               fs.php
+|   |               
+|   +---seminar
+|   |   \---animasi-medan-03
+|   |           aberomi-ikc.ppt
+|   |           
+|   +---stats
+|   |       ikcstats-agust03.pdf
+|   |       ikcstats-nov03.pdf
+|   |       ikcstats-sept03.pdf
+|   |       ikctats-des03.pdf
+|   |       wsis-award.pdf
+|   |       
+|   +---thesis
+|   |   +---anto
+|   |   |       anto-abstract-sc.zip
+|   |   |       anto-thesis-sc.php
+|   |   |       sc.gif
+|   |   |       
+|   |   +---antony
+|   |   |       antony-thesis-transcoding.php
+|   |   |       antony-thesis-transcoding.zip
+|   |   |       overview.gif
+|   |   |       
+|   |   \---sufehmi
+|   |           ncp1.jpg
+|   |           ncp2.gif
+|   |           sufehmi-thesis-ncp.php
+|   |           sufehmi-thesis-ncp.zip
+|   |           
+|   +---tipstrik
+|   |   +---admin
+|   |   |       bondan-pws.zip
+|   |   |       dikshie-postfix.zip
+|   |   |       edwin-restore.zip
+|   |   |       hendrik-chmod.zip
+|   |   |       hendrik-perintah.zip
+|   |   |       index.php
+|   |   |       kalengkian-pws.zip
+|   |   |       mambu-ciscoios.zip
+|   |   |       rio-diagram.zip
+|   |   |       safii-boot.zip
+|   |   |       safii-optimasi.zip
+|   |   |       
+|   |   +---database
+|   |   |       djoni-datadriven.zip
+|   |   |       djoni-dw.zip
+|   |   |       djoni-generik.zip
+|   |   |       djoni-key.zip
+|   |   |       djoni-null.zip
+|   |   |       djoni-rancangdb.zip
+|   |   |       djoni-reflexive.zip
+|   |   |       djoni-surrogate.zip
+|   |   |       index.php
+|   |   |       rio-sql2000.zip
+|   |   |       sony-alert.zip
+|   |   |       sony-dbname.zip
+|   |   |       sony-misconfig.zip
+|   |   |       sony-northwind.zip
+|   |   |       
+|   |   +---hacking
+|   |   |       alwin-host.zip
+|   |   |       bagus-webhack.zip
+|   |   |       index.php
+|   |   |       ketutadi-win98security.zip
+|   |   |       safii-mailbom.zip
+|   |   |       safii-password.zip
+|   |   |       
+|   |   +---internet
+|   |   |       adhytia-web.zip
+|   |   |       adi-gprs.zip
+|   |   |       adi-lan.zip
+|   |   |       anto-hoax.doc
+|   |   |       anto-hoax.zip
+|   |   |       gani-port.zip
+|   |   |       index.php
+|   |   |       iyan-branding.zip
+|   |   |       kalengkian-board.zip
+|   |   |       kalengkian-javascript.zip
+|   |   |       kalengkian-kalender.zip
+|   |   |       kalengkian-phplogin.zip
+|   |   |       kalengkian-phpprotek.zip
+|   |   |       kalengkian-tanggal.zip
+|   |   |       kalengkian-useronline.zip
+|   |   |       ketut-seo.zip
+|   |   |       mastris-google.zip
+|   |   |       newstickerstatic.zip
+|   |   |       onno-kerja.php
+|   |   |       pagecount.zip
+|   |   |       pepen-situs.zip
+|   |   |       safii-rfc821.zip
+|   |   |       safii-rfc822.zip
+|   |   |       sony-counter.zip
+|   |   |       sony-filetypes.zip
+|   |   |       sony-target.zip
+|   |   |       sony-ticker.zip
+|   |   |       sony-ym.zip
+|   |   |       
+|   |   +---komputer
+|   |   |       ario-registry.zip
+|   |   |       hendrik-interoperasi.zip
+|   |   |       hendrik-jatuh.zip
+|   |   |       hendrik-linux.zip
+|   |   |       hendro-keymap.php
+|   |   |       imam-lyrict.zip
+|   |   |       index.php
+|   |   |       safii-printer.zip
+|   |   |       solichin-dreamweaver.zip
+|   |   |       wahyu-swap.zip
+|   |   |       
+|   |   \---pemrograman
+|   |           atterbilang.zip
+|   |           bondan-php.zip
+|   |           guestbook.zip
+|   |           index.php
+|   |           kalengkian-polling.zip
+|   |           luri-delphi.zip
+|   |           luri-kiossstyle.zip
+|   |           nanik-tomcat.zip
+|   |           prjmac.zip
+|   |           putu-template.zip
+|   |           regunregobj.zip
+|   |           rivai-multiuser.zip
+|   |           sony-guestbook.zip
+|   |           sony-mac.zip
+|   |           sony-mdac.zip
+|   |           sony-shell.zip
+|   |           sony-sql.zip
+|   |           sony-string.zip
+|   |           sony-terbilang.zip
+|   |           sony-udl.zip
+|   |           spmailjmail.zip
+|   |           taufik-puzzle8.zip
+|   |           yuhefizar-membuathelp.zip
+|   |           
+|   +---umum
+|   |   |   abe-gnuplot.php
+|   |   |   abepoetra-css.php
+|   |   |   agus-access.php
+|   |   |   alfred-cisco.php
+|   |   |   alisalim-dreamweaver3.php
+|   |   |   alisalim-fireworks3.php
+|   |   |   alisalim-flash4.php
+|   |   |   andry-javascript.php
+|   |   |   anon-phpmysql.php
+|   |   |   anto-softcomputing.php
+|   |   |   anto-svm.php
+|   |   |   anton-adminjaringanlinux.php
+|   |   |   anton-adminsyslinux.php
+|   |   |   anton-linux.php
+|   |   |   arif-digital.php
+|   |   |   arifirwansyah-merakit.php
+|   |   |   athar-svg.php
+|   |   |   budirahardjo-keamanan.php
+|   |   |   candra-adsl.php
+|   |   |   chendra-pemrograman.php
+|   |   |   choirul-mdaemon.php
+|   |   |   choirul-winroute.php
+|   |   |   daniyal-chemcad5.2.php
+|   |   |   deddy-word.php
+|   |   |   diah-agent.php
+|   |   |   diding-dns.php
+|   |   |   dikshie-ipv6.php
+|   |   |   dindin-sistem.php
+|   |   |   eko-dasarjava.php
+|   |   |   eko-enterprisejava.php
+|   |   |   eko-webjava.php
+|   |   |   endy-fireworks.php
+|   |   |   endy-javaadvanced.php
+|   |   |   endy-javafundamental.php
+|   |   |   endy-linuxdesktop.php
+|   |   |   endy-php.php
+|   |   |   faried-database.php
+|   |   |   faris-moweb.php
+|   |   |   fitr-cmos.php
+|   |   |   fitr-lsi.php
+|   |   |   ginanjar-eclipse.php
+|   |   |   gunawan-linux.php
+|   |   |   haddad-dos.php
+|   |   |   hakim-photoshop.php
+|   |   |   hans-tex.php
+|   |   |   harimurti-class.php
+|   |   |   harry-jaringan.php
+|   |   |   hartono-vi.php
+|   |   |   heryzal-premiere.php
+|   |   |   ibam-os.php
+|   |   |   iko-datamining.php
+|   |   |   ilo-tipekerja.php
+|   |   |   irvan-isp.php
+|   |   |   ivansudirman-sekuriti.php
+|   |   |   jaka-lan.php
+|   |   |   junaedi-xml.php
+|   |   |   kelik-kabel.php
+|   |   |   kemas-cms.php
+|   |   |   koen-mpls.php
+|   |   |   koen-ngn.php
+|   |   |   mark-php.php
+|   |   |   masbukin-sap.php
+|   |   |   nurhasyim-htmlcss.php
+|   |   |   nursapta-javafundamental.php
+|   |   |   onno-panduanvoip.php
+|   |   |   owo-postgres.php
+|   |   |   piotun-outlook.php
+|   |   |   rafdian-internet.php
+|   |   |   rahmatulirfan-paket.php
+|   |   |   romi-agent.php
+|   |   |   romi-mas.php
+|   |   |   romi-ooad.php
+|   |   |   safii-phpmysql.php
+|   |   |   tarigan-winbing.php
+|   |   |   teddy-delphi.php
+|   |   |   tommy-tcpip.php
+|   |   |   tua-excel.php
+|   |   |   wahidi-ipv6.php
+|   |   |   wahyu-disos.php
+|   |   |   widoyo-linux.php
+|   |   |   wiryana-linuxsuse.php
+|   |   |   wiryana-magicpoint.php
+|   |   |   wiryana-ontologikelautan.php
+|   |   |   wiryana-sekuritikelautan.php
+|   |   |   wiryana-serveropensource.php
+|   |   |   witarto-bioinformatika.php
+|   |   |   yadi-internet.php
+|   |   |   yanti-uml.php
+|   |   |   yuhefizar-internet.php
+|   |   |   yuhefizar-komputer.php
+|   |   |   yuhefizar-office.php
+|   |   |   zaki-windows.php
+|   |   |   zulkhaery-linux.php
+|   |   |   
+|   |   +---abepoetra
+|   |   |       abepoetra-css.zip
+|   |   |       
+|   |   +---agus
+|   |   |       agus-access.zip
+|   |   |       
+|   |   +---alfred
+|   |   |       alfred-cisco.zip
+|   |   |       
+|   |   +---alisalim
+|   |   |       alisalim-dreamweaver3.zip
+|   |   |       alisalim-fireworks3.zip
+|   |   |       alisalim-flash4.zip
+|   |   |       
+|   |   +---andry
+|   |   |       andry-javascript.pdf
+|   |   |       andry-javascript.zip
+|   |   |       
+|   |   +---anon
+|   |   |       anon-phpmysql.doc
+|   |   |       anon-phpmysql.zip
+|   |   |       
+|   |   +---anto
+|   |   |       anto-softcomputing.zip
+|   |   |       anto-svm.zip
+|   |   |       
+|   |   +---arif
+|   |   |       arif-digital.zip
+|   |   |       
+|   |   +---arifirwansyah
+|   |   |       arifirwansyah-merakit.zip
+|   |   |       
+|   |   +---athar
+|   |   |       athar-svg.zip
+|   |   |       
+|   |   +---budirahardjo
+|   |   |       budirahardjo-keamanan.zip
+|   |   |       
+|   |   +---candra
+|   |   |       candra-adsl.zip
+|   |   |       
+|   |   +---chendra
+|   |   |       chendra-pemrograman.zip
+|   |   |       
+|   |   +---choirul
+|   |   |       choirul-mdaemon.zip
+|   |   |       choirul-winroute.zip
+|   |   |       
+|   |   +---daniyal
+|   |   |       daniyal-chemcad5.2.zip
+|   |   |       
+|   |   +---deddy
+|   |   |       deddy-word.zip
+|   |   |       
+|   |   +---diah
+|   |   |       diah-agent.zip
+|   |   |       
+|   |   +---diding
+|   |   |       diding-dns.zip
+|   |   |       
+|   |   +---dikshie
+|   |   |       dikshie-ipv6.zip
+|   |   |       
+|   |   +---dindin
+|   |   |       dindin-sistem.zip
+|   |   |       
+|   |   +---eko
+|   |   |       eko-dasarjava.zip
+|   |   |       eko-enterprisejava.zip
+|   |   |       eko-webjava.zip
+|   |   |       
+|   |   +---endy
+|   |   |       endy-fireworks.zip
+|   |   |       endy-javaadvanced.zip
+|   |   |       endy-javafundamental.zip
+|   |   |       endy-linuxdesktop.zip
+|   |   |       endy-php.zip
+|   |   |       
+|   |   +---faried
+|   |   |       faried-database.zip
+|   |   |       
+|   |   +---faris
+|   |   |       faris-moweb.zip
+|   |   |       
+|   |   +---fitr
+|   |   |       fitr-cmos.zip
+|   |   |       fitr-lsi.zip
+|   |   |       
+|   |   +---ginanjar
+|   |   |       ginanjar-eclipse.zip
+|   |   |       
+|   |   +---gunawan
+|   |   |       gunawan-linux.zip
+|   |   |       
+|   |   +---haddad
+|   |   |       haddad-dos.zip
+|   |   |       
+|   |   +---hakim
+|   |   |       SEPIA.ATN
+|   |   |       hakim-photoshop.zip
+|   |   |       
+|   |   +---harimurti
+|   |   |       harimurti-class.zip
+|   |   |       
+|   |   +---harry-jaringan
+|   |   |   \---images
+|   |   |           Image10.gif
+|   |   |           Image11.gif
+|   |   |           Image12.gif
+|   |   |           Image13.gif
+|   |   |           Image14.gif
+|   |   |           Image15.gif
+|   |   |           Image16.gif
+|   |   |           Image6.gif
+|   |   |           Image7.gif
+|   |   |           Image8.gif
+|   |   |           Image9.gif
+|   |   |           
+|   |   +---hartono
+|   |   |       hartono-vi.zip
+|   |   |       
+|   |   +---heryzal
+|   |   |       heryzal-premiere.zip
+|   |   |       
+|   |   +---ibam
+|   |   |   |   ibam-os-html.zip
+|   |   |   |   ibam-os.zip
+|   |   |   |   
+|   |   |   \---ibam-os-html
+|   |   |       |   b10166.html
+|   |   |       |   b9392.html
+|   |   |       |   book1.html
+|   |   |       |   c2061.html
+|   |   |       |   c2830.html
+|   |   |       |   c4223.html
+|   |   |       |   c5339.html
+|   |   |       |   c853.html
+|   |   |       |   c98.html
+|   |   |       |   f105.html
+|   |   |       |   f92.html
+|   |   |       |   gfdl.html
+|   |   |       |   i1.html
+|   |   |       |   i10811.html
+|   |   |       |   i2.html
+|   |   |       |   i24.html
+|   |   |       |   i25.html
+|   |   |       |   i27.html
+|   |   |       |   i3.html
+|   |   |       |   i32.html
+|   |   |       |   i4.html
+|   |   |       |   i42.html
+|   |   |       |   i5.html
+|   |   |       |   i6.html
+|   |   |       |   i6a.html
+|   |   |       |   i7.html
+|   |   |       |   i9809.html
+|   |   |       |   index.html
+|   |   |       |   linux7.html
+|   |   |       |   x10048.html
+|   |   |       |   x1014.html
+|   |   |       |   x1066.html
+|   |   |       |   x1070.html
+|   |   |       |   x10723.html
+|   |   |       |   x10733.html
+|   |   |       |   x10737.html
+|   |   |       |   x10743.html
+|   |   |       |   x10779.html
+|   |   |       |   x10784.html
+|   |   |       |   x10788.html
+|   |   |       |   x10792.html
+|   |   |       |   x10795.html
+|   |   |       |   x10798.html
+|   |   |       |   x10803.html
+|   |   |       |   x1245.html
+|   |   |       |   x1302.html
+|   |   |       |   x1415.html
+|   |   |       |   x1463.html
+|   |   |       |   x1661.html
+|   |   |       |   x1696.html
+|   |   |       |   x177.html
+|   |   |       |   x1787.html
+|   |   |       |   x1823.html
+|   |   |       |   x1871.html
+|   |   |       |   x190.html
+|   |   |       |   x1911.html
+|   |   |       |   x1937.html
+|   |   |       |   x1998.html
+|   |   |       |   x2021.html
+|   |   |       |   x2057.html
+|   |   |       |   x2172.html
+|   |   |       |   x2236.html
+|   |   |       |   x2375.html
+|   |   |       |   x2712.html
+|   |   |       |   x2755.html
+|   |   |       |   x2806.html
+|   |   |       |   x2915.html
+|   |   |       |   x2949.html
+|   |   |       |   x3028.html
+|   |   |       |   x3071.html
+|   |   |       |   x3081.html
+|   |   |       |   x3123.html
+|   |   |       |   x3235.html
+|   |   |       |   x3278.html
+|   |   |       |   x3305.html
+|   |   |       |   x3409.html
+|   |   |       |   x3417.html
+|   |   |       |   x3478.html
+|   |   |       |   x3571.html
+|   |   |       |   x3604.html
+|   |   |       |   x3661.html
+|   |   |       |   x3801.html
+|   |   |       |   x3805.html
+|   |   |       |   x387.html
+|   |   |       |   x3883.html
+|   |   |       |   x395.html
+|   |   |       |   x4035.html
+|   |   |       |   x4041.html
+|   |   |       |   x4120.html
+|   |   |       |   x4237.html
+|   |   |       |   x4268.html
+|   |   |       |   x4404.html
+|   |   |       |   x4462.html
+|   |   |       |   x4490.html
+|   |   |       |   x4563.html
+|   |   |       |   x4578.html
+|   |   |       |   x4657.html
+|   |   |       |   x4659.html
+|   |   |       |   x4710.html
+|   |   |       |   x4777.html
+|   |   |       |   x4828.html
+|   |   |       |   x4878.html
+|   |   |       |   x4920.html
+|   |   |       |   x4940.html
+|   |   |       |   x4968.html
+|   |   |       |   x5011.html
+|   |   |       |   x5037.html
+|   |   |       |   x5110.html
+|   |   |       |   x5116.html
+|   |   |       |   x5207.html
+|   |   |       |   x5259.html
+|   |   |       |   x5316.html
+|   |   |       |   x5378.html
+|   |   |       |   x5426.html
+|   |   |       |   x5467.html
+|   |   |       |   x5485.html
+|   |   |       |   x5515.html
+|   |   |       |   x5566.html
+|   |   |       |   x5648.html
+|   |   |       |   x5665.html
+|   |   |       |   x5820.html
+|   |   |       |   x5874.html
+|   |   |       |   x5964.html
+|   |   |       |   x6036.html
+|   |   |       |   x6054.html
+|   |   |       |   x6071.html
+|   |   |       |   x6158.html
+|   |   |       |   x6210.html
+|   |   |       |   x6280.html
+|   |   |       |   x6391.html
+|   |   |       |   x6407.html
+|   |   |       |   x641.html
+|   |   |       |   x6453.html
+|   |   |       |   x6480.html
+|   |   |       |   x6482.html
+|   |   |       |   x6554.html
+|   |   |       |   x6572.html
+|   |   |       |   x659.html
+|   |   |       |   x6735.html
+|   |   |       |   x6776.html
+|   |   |       |   x6807.html
+|   |   |       |   x6848.html
+|   |   |       |   x6920.html
+|   |   |       |   x6934.html
+|   |   |       |   x6985.html
+|   |   |       |   x7013.html
+|   |   |       |   x7219.html
+|   |   |       |   x7279.html
+|   |   |       |   x730.html
+|   |   |       |   x7324.html
+|   |   |       |   x7331.html
+|   |   |       |   x7400.html
+|   |   |       |   x7430.html
+|   |   |       |   x746.html
+|   |   |       |   x7498.html
+|   |   |       |   x7517.html
+|   |   |       |   x7625.html
+|   |   |       |   x7778.html
+|   |   |       |   x779.html
+|   |   |       |   x7808.html
+|   |   |       |   x7869.html
+|   |   |       |   x7914.html
+|   |   |       |   x7922.html
+|   |   |       |   x793.html
+|   |   |       |   x8031.html
+|   |   |       |   x8075.html
+|   |   |       |   x8127.html
+|   |   |       |   x8243.html
+|   |   |       |   x8399.html
+|   |   |       |   x8557.html
+|   |   |       |   x8613.html
+|   |   |       |   x8712.html
+|   |   |       |   x8768.html
+|   |   |       |   x8909.html
+|   |   |       |   x9093.html
+|   |   |       |   x9155.html
+|   |   |       |   x9219.html
+|   |   |       |   x9224.html
+|   |   |       |   x9331.html
+|   |   |       |   x9344.html
+|   |   |       |   x944.html
+|   |   |       |   x9610.html
+|   |   |       |   x9721.html
+|   |   |       |   x9731.html
+|   |   |       |   x9735.html
+|   |   |       |   x9741.html
+|   |   |       |   x9777.html
+|   |   |       |   x9782.html
+|   |   |       |   x9786.html
+|   |   |       |   x9790.html
+|   |   |       |   x9793.html
+|   |   |       |   x9796.html
+|   |   |       |   x9801.html
+|   |   |       |   x982.html
+|   |   |       |   x9858.html
+|   |   |       |   x9923.html
+|   |   |       |   x9928.html
+|   |   |       |   
+|   |   |       \---img
+|   |   |               4-1.png
+|   |   |               4-2.png
+|   |   |               4-3.png
+|   |   |               4-4.png
+|   |   |               4-5.png
+|   |   |               4-6.png
+|   |   |               4-7.png
+|   |   |               4-8.png
+|   |   |               5-1.png
+|   |   |               5-2.png
+|   |   |               5-3.png
+|   |   |               5-4.png
+|   |   |               5-5.png
+|   |   |               5-6.png
+|   |   |               5-7.png
+|   |   |               5-8.png
+|   |   |               6-1.png
+|   |   |               6-10.png
+|   |   |               6-11.png
+|   |   |               6-12.png
+|   |   |               6-13.png
+|   |   |               6-14.png
+|   |   |               6-2.png
+|   |   |               6-3.png
+|   |   |               6-4.png
+|   |   |               6-5.png
+|   |   |               6-6.png
+|   |   |               6-7.png
+|   |   |               6-8.png
+|   |   |               6-9.png
+|   |   |               DMAcontroller.png
+|   |   |               DMAinterface.png
+|   |   |               buffer07.png
+|   |   |               category07.jpg
+|   |   |               chardev07.png
+|   |   |               dead.png
+|   |   |               delta4.png
+|   |   |               floppy_disk.jpg
+|   |   |               gambar441.png
+|   |   |               gambar442.png
+|   |   |               gambar443.png
+|   |   |               gambar444.png
+|   |   |               gambar445.png
+|   |   |               gambar446.png
+|   |   |               gambar447.png
+|   |   |               gambar451.png
+|   |   |               gambar4B1.png
+|   |   |               gambar4B2.png
+|   |   |               gb1.png
+|   |   |               gbr107.png
+|   |   |               gbr207.png
+|   |   |               gbr307.png
+|   |   |               gbrJar7.png
+|   |   |               graph.png
+|   |   |               lapisanfs1.png
+|   |   |               logolLinux07.png
+|   |   |               magneto_optic1.jpg
+|   |   |               nondead.png
+|   |   |               optical_disk.jpg
+|   |   |               persimpangan.png
+|   |   |               pipa07.png
+|   |   |               pollingOperation.png
+|   |   |               safe.png
+|   |   |               sigma4.png
+|   |   |               tape.jpg
+|   |   |               worm_disk.jpg
+|   |   |               
+|   |   +---iko
+|   |   |       iko-datamining.zip
+|   |   |       
+|   |   +---ilo-tipekerja
+|   |   |       ilo-tipekerja.zip
+|   |   |       
+|   |   +---irvan
+|   |   |       irvan-isp.zip
+|   |   |       
+|   |   +---ivansudirman
+|   |   |       ivansudirman-sekuriti.zip
+|   |   |       
+|   |   +---jaka
+|   |   |       jaka-lan.zip
+|   |   |       
+|   |   +---junaedi
+|   |   |       junaedi-xml.zip
+|   |   |       
+|   |   +---kelik
+|   |   |       kelik-kabel.zip
+|   |   |       
+|   |   +---kemas
+|   |   |       kemas-cms.zip
+|   |   |       
+|   |   +---koen
+|   |   |       koen-mpls.zip
+|   |   |       koen-ngn.zip
+|   |   |       
+|   |   +---masbukin
+|   |   |       masbukin-sap.zip
+|   |   |       
+|   |   +---nurhasyim
+|   |   |       nurhasyim-htmlcss.zip
+|   |   |       
+|   |   +---nursapta
+|   |   |       nursapta-javafundamental.zip
+|   |   |       
+|   |   +---onno
+|   |   |       onno-panduanvoip.zip
+|   |   |       
+|   |   +---pandu
+|   |   |       abe-gnuplot.zip
+|   |   |       anton-adminjaringanlinux.zip
+|   |   |       anton-adminsyslinux.zip
+|   |   |       anton-linux.zip
+|   |   |       hans-tex.zip
+|   |   |       mark-php.zip
+|   |   |       owo-postgres.zip
+|   |   |       tarigan-suntingsuara-src.zip
+|   |   |       tarigan-suntingsuara.zip
+|   |   |       tarigan-winbing.zip
+|   |   |       
+|   |   +---piotun
+|   |   |       piotun-outlook.zip
+|   |   |       
+|   |   +---rafdian
+|   |   |       rafdian-internet.zip
+|   |   |       
+|   |   +---rahmatulirfan
+|   |   |       rahmatulirfan-paket.zip
+|   |   |       
+|   |   +---romi
+|   |   |       romi-agent.doc
+|   |   |       romi-agent.zip
+|   |   |       romi-mas.zip
+|   |   |       romi-ooad.zip
+|   |   |       
+|   |   +---safii
+|   |   |       safii-phpmysql.zip
+|   |   |       
+|   |   +---teddy
+|   |   |       teddy-delphi.zip
+|   |   |       
+|   |   +---tommy
+|   |   |       tommy-tcpip.zip
+|   |   |       
+|   |   +---tua
+|   |   |       tua-excel.zip
+|   |   |       
+|   |   +---wahidi
+|   |   |       wahidi-ipv6.zip
+|   |   |       
+|   |   +---wahyu
+|   |   |       wahyu-disos.zip
+|   |   |       
+|   |   +---widoyo
+|   |   |       cover.jpg
+|   |   |       widoyo-linux.zip
+|   |   |       
+|   |   +---wiryana
+|   |   |       wiryana-linuxsuse.zip
+|   |   |       wiryana-magicpoint.zip
+|   |   |       wiryana-ontologikelautan.zip
+|   |   |       wiryana-sekuritikelautan.zip
+|   |   |       wiryana-serveropensource-ppt.zip
+|   |   |       wiryana-serveropensource.zip
+|   |   |       
+|   |   +---witarto
+|   |   |       witarto-bioinformatika.zip
+|   |   |       
+|   |   +---yadi
+|   |   |       yadi-internet.zip
+|   |   |       
+|   |   +---yanti
+|   |   |       yanti-uml.zip
+|   |   |       
+|   |   +---yuhefizar
+|   |   |       yuhefizar-internet.zip
+|   |   |       yuhefizar-komputer.zip
+|   |   |       yuhefizar-office.zip
+|   |   |       
+|   |   +---zaki
+|   |   |       zaki-windows.zip
+|   |   |       
+|   |   \---zulkhaery
+|   |           zulkhaery-linux.zip
+|   |           
+|   \---uu
+|           index.php
+|           uuhc-19-2002.zip
+|           
+\---php
+    |   php.gif
+    |   php.ini
+    |   php4delphi.dll
+    |   php4ts.dll
+    |   php4ts.lib
+    |   
+    +---php4.2.3
+    |       php4delphi.dll
+    |       php4ts.lib
+    |       
+    \---php4.3.0
+            php4delphi.dll
+            php4ts.lib
+            

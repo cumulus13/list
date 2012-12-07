@@ -1,0 +1,296 @@
+Folder PATH listing for volume ORCL9011_3
+Volume serial number is 07C6-EE47
+F:\
+\---stage
+    |   disk.label
+    |   
+    \---Components
+        +---oracle.oid
+        |   \---3.0.1.1.0
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.ois
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.p2k
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.emprod.agent_ext
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.options.ano
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.client
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.p2k.devtools
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.emprod
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.options.intermedia.imserver
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   build.0.0.jar
+        |                   
+        +---oracle.infrastructure
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.java.javavm
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   binjvm.0.0.jar
+        |                   binjvm.0.1.jar
+        |                   build.0.0.jar
+        |                   idl.0.0.jar
+        |                   lib.0.1.jar
+        |                   lib.0.3.jar
+        |                   lib.0.4.jar
+        |                   sql.0.0.jar
+        |                   sql.0.1.jar
+        |                   winprop.0.0.jar
+        |                   
+        +---oracle.networking
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.oid.oidca
+        |   \---3.0.1.1.0
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   config_tool.0.1.jar
+        |                   ldap_postcfg.0.0.jar
+        |                   ldap_postcfg.0.1.jar
+        |                   upgrade_scripts.0.0.jar
+        |                   upgrade_scripts.0.1.jar
+        |                   
+        +---oracle.options.ops
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   admin.0.1.jar
+        |                   admin.0.2.jar
+        |                   bin.0.1.jar
+        |                   build.0.0.jar
+        |                   doc.0.0.jar
+        |                   exec.0.0.jar
+        |                   lib.0.3.jar
+        |                   opsfls.0.0.jar
+        |                   smpldb.0.0.jar
+        |                   
+        +---oracle.options
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.cartridges.ordcac
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   doc.0.0.jar
+        |                   jlib.0.0.jar
+        |                   lib.0.0.jar
+        |                   mesg.0.0.jar
+        |                   
+        +---oracle.rdbms.otrace
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   admin.0.0.jar
+        |                   admin.0.1.jar
+        |                   admin.0.2.jar
+        |                   bin.0.1.jar
+        |                   build.0.0.jar
+        |                   mesg.0.0.jar
+        |                   mesg.0.1.jar
+        |                   otrcdemo.0.0.jar
+        |                   otrcdemo.0.2.jar
+        |                   otrcdemo.0.3.jar
+        |                   otrclib.0.2.jar
+        |                   public.0.0.jar
+        |                   
+        +---oracle.options.partitioning
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   lib.0.0.jar
+        |                   
+        +---oracle.p2k.proc
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   bin.0.1.jar
+        |                   build.0.0.jar
+        |                   demo.0.1.jar
+        |                   demo.0.2.jar
+        |                   help.0.0.jar
+        |                   help.1.0.jar
+        |                   help.2.0.jar
+        |                   help.3.0.jar
+        |                   help.4.0.jar
+        |                   help.5.0.jar
+        |                   help.6.0.jar
+        |                   help.7.0.jar
+        |                   help.8.0.jar
+        |                   include.0.0.jar
+        |                   lib.0.0.jar
+        |                   lib.0.5.jar
+        |                   mesg.0.1.jar
+        |                   mesg.0.2.jar
+        |                   
+        +---oracle.rdbms
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |               |   admin.0.0.jar
+        |               |   admin.0.2.jar
+        |               |   build.0.0.jar
+        |               |   exec.0.0.jar
+        |               |   init.0.0.jar
+        |               |   lib.0.14.jar
+        |               |   lib.0.2.jar
+        |               |   lib.0.3.jar
+        |               |   lib.0.5.jar
+        |               |   mesg.0.0.jar
+        |               |   mesg.0.2.jar
+        |               |   mesg.0.3.jar
+        |               |   ntjox_on.0.0.jar
+        |               |   oraspwn.0.0.jar
+        |               |   
+        |               \---Expanded
+        |                   +---doc
+        |                   |   +---doc
+        |                   |   |       README_rdbms.htm
+        |                   |   |       
+        |                   |   \---relnotes
+        |                   |           README_rdbms.htm
+        |                   |           
+        |                   \---oradba
+        |                           oradba.exe
+        |                           
+        +---oracle.server
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.cartridges.spatial
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   demo.0.0.jar
+        |                   demo.0.1.jar
+        |                   demo.0.2.jar
+        |                   doc.0.0.jar
+        |                   doc.0.1.jar
+        |                   sql.0.0.jar
+        |                   util.0.0.jar
+        |                   
+        +---oracle.utilities
+        |   \---9.0.1.1.1
+        |       \---1
+        |           \---DataFiles
+        |                   build.0.0.jar
+        |                   
+        +---oracle.sysman.website
+        |   \---9.0.1.0.0
+        |       \---1
+        |           \---DataFiles
+        |               |   html.0.0.jar
+        |               |   jarfiles.0.1.jar
+        |               |   jarfiles.0.2.jar
+        |               |   
+        |               \---Expanded
+        |                   \---script
+        |                           emwebsite
+        |                           
+        +---oracle.winprod
+        |   \---9.0.1.0.1
+        |       \---1
+        |           \---DataFiles
+        \---oracle.workflow
+            \---2.6.1.0.1
+                \---1
+                    \---DataFiles
+                            bin.0.1.jar
+                            demo.0.0.jar
+                            demo.1.0.jar
+                            icons.0.0.jar
+                            install.0.0.jar
+                            install.0.2.jar
+                            jar.0.0.jar
+                            nls_ca.0.0.jar
+                            nls_cs.0.0.jar
+                            nls_de.0.0.jar
+                            nls_dk.0.0.jar
+                            nls_el.0.0.jar
+                            nls_es.0.0.jar
+                            nls_es_ES.0.0.jar
+                            nls_fi.0.0.jar
+                            nls_fr.0.0.jar
+                            nls_hu.0.0.jar
+                            nls_it.0.0.jar
+                            nls_iw.0.0.jar
+                            nls_ja.0.0.jar
+                            nls_ko.0.0.jar
+                            nls_nl.0.0.jar
+                            nls_no.0.0.jar
+                            nls_pl.0.0.jar
+                            nls_pt.0.0.jar
+                            nls_ptb.0.0.jar
+                            nls_ro.0.0.jar
+                            nls_ru.0.0.jar
+                            nls_sk.0.0.jar
+                            nls_sv.0.0.jar
+                            nls_th.0.0.jar
+                            nls_tr.0.0.jar
+                            nls_zhs.0.0.jar
+                            nls_zht.0.0.jar
+                            omb.0.0.jar
+                            res.0.0.jar
+                            sql.0.0.jar
+                            sqladmin.0.0.jar
+                            sqladmin.0.1.jar
+                            toolkit.0.0.jar
+                            xml.0.0.jar
+                            

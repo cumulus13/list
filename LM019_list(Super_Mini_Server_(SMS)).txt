@@ -1,0 +1,170 @@
+ Volume in drive J is SMS
+ Volume Serial Number is 595D-4C4C
+
+ Directory of J:\
+
+12/02/2010  02:00 AM    <DIR>          boot
+12/05/2010  08:05 PM    <DIR>          sms
+               0 File(s)              0 bytes
+
+ Directory of J:\boot
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM             1,695 bootinst.bat
+12/05/2010  07:42 PM             2,254 bootinst.sh
+12/05/2010  07:42 PM            12,372 chain.c32
+12/05/2010  07:42 PM    <DIR>          dos
+12/05/2010  08:04 PM         3,921,108 initrd.gz
+12/05/2010  07:42 PM           104,685 initrd.splash
+12/02/2010  02:00 AM    <DIR>          isolinux
+12/05/2010  07:42 PM             2,586 liloinst.sh
+12/05/2010  07:42 PM           111,864 mt86p
+12/02/2010  02:00 AM    <DIR>          pxelinux.cfg
+12/05/2010  07:42 PM             2,027 sms.cfg
+12/05/2010  07:42 PM            18,548 sms.jpg
+12/02/2010  02:00 AM    <DIR>          syslinux
+12/05/2010  07:42 PM           140,580 vesamenu.c32
+12/05/2010  07:42 PM         5,734,832 vmlinuz
+              11 File(s)     10,052,551 bytes
+
+ Directory of J:\boot\dos
+
+12/05/2010  07:42 PM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM                87 config
+12/05/2010  07:42 PM             5,832 linld097.com
+12/05/2010  07:42 PM               340 readme.txt
+12/05/2010  07:42 PM               389 sms.bat
+               4 File(s)          6,648 bytes
+
+ Directory of J:\boot\isolinux
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  08:05 PM            12,573 isolinux.bin
+12/05/2010  08:05 PM             2,048 isolinux.boot
+12/05/2010  07:42 PM                21 isolinux.cfg
+               3 File(s)         14,642 bytes
+
+ Directory of J:\boot\pxelinux.cfg
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM               232 default
+12/05/2010  07:42 PM            64,504 dnsmasq
+12/05/2010  07:42 PM            13,936 pxelinux.0
+12/05/2010  07:42 PM               970 start
+12/02/2010  02:00 AM    <DIR>          web
+               4 File(s)         79,642 bytes
+
+ Directory of J:\boot\pxelinux.cfg\web
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/02/2010  02:00 AM    <DIR>          conf
+12/05/2010  07:42 PM            20,992 monkey
+12/05/2010  07:42 PM             1,220 start
+               2 File(s)         22,212 bytes
+
+ Directory of J:\boot\pxelinux.cfg\web\conf
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM                 0 modules.conf
+12/05/2010  07:42 PM               246 monkey.conf
+12/05/2010  07:42 PM                 7 monkey.deny
+12/05/2010  07:42 PM             3,107 monkey.mime
+               4 File(s)          3,360 bytes
+
+ Directory of J:\boot\syslinux
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM            70,196 lilo
+12/05/2010  07:42 PM               404 mbr.bin
+12/05/2010  07:42 PM            24,592 syslinux
+12/05/2010  07:42 PM                21 syslinux.cfg
+12/05/2010  07:42 PM            21,528 syslinux.com
+12/05/2010  07:42 PM            26,624 syslinux.exe
+               6 File(s)        143,365 bytes
+
+ Directory of J:\sms
+
+12/05/2010  08:05 PM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM               245 LICENSE
+12/05/2010  07:49 PM    <DIR>          base
+12/05/2010  07:42 PM               437 livecd.sgn
+12/05/2010  07:42 PM               654 make_iso.bat
+12/05/2010  07:42 PM               929 make_iso.sh
+12/02/2010  02:00 AM    <DIR>          modules
+12/02/2010  02:00 AM    <DIR>          optional
+12/02/2010  02:00 AM    <DIR>          rootcopy
+12/02/2010  02:00 AM    <DIR>          tools
+               4 File(s)          2,265 bytes
+
+ Directory of J:\sms\base
+
+12/05/2010  07:49 PM    <DIR>          .
+12/05/2010  08:05 PM    <DIR>          ..
+12/05/2010  07:43 PM         3,084,288 bin.lzm
+12/05/2010  07:43 PM         1,921,024 etc.lzm
+12/05/2010  07:43 PM             4,096 home.lzm
+12/05/2010  07:43 PM        21,573,632 lib.lzm
+12/05/2010  07:43 PM         5,378,048 lib64.lzm
+12/05/2010  07:43 PM           675,840 opt.lzm
+12/05/2010  07:43 PM             4,096 root.lzm
+12/05/2010  07:49 PM         6,238,208 sbin.lzm
+12/05/2010  07:49 PM             4,096 srv.lzm
+12/05/2010  07:49 PM       317,489,152 usr.lzm
+12/05/2010  07:49 PM        17,305,600 var.lzm
+              11 File(s)    373,678,080 bytes
+
+ Directory of J:\sms\modules
+
+12/02/2010  02:00 AM    <DIR>          .
+12/05/2010  08:05 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\sms\optional
+
+12/02/2010  02:00 AM    <DIR>          .
+12/05/2010  08:05 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\sms\rootcopy
+
+12/02/2010  02:00 AM    <DIR>          .
+12/05/2010  08:05 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of J:\sms\tools
+
+12/02/2010  02:00 AM    <DIR>          .
+12/05/2010  08:05 PM    <DIR>          ..
+12/02/2010  02:00 AM    <DIR>          WIN
+12/05/2010  07:42 PM             2,388 activate
+12/05/2010  07:42 PM             2,428 deactivate
+12/05/2010  07:42 PM             1,286 deb2lzm
+12/05/2010  07:42 PM               484 dir2lzm
+12/05/2010  07:42 PM            30,904 liblinuxlive
+12/05/2010  07:42 PM               397 lzm2dir
+12/05/2010  07:42 PM           183,568 mksquashfs
+12/05/2010  07:42 PM               927 tgz2lzm
+12/05/2010  07:42 PM               927 txz2lzm
+12/05/2010  07:42 PM           132,540 unsquashfs
+              10 File(s)        355,849 bytes
+
+ Directory of J:\sms\tools\WIN
+
+12/02/2010  02:00 AM    <DIR>          .
+12/02/2010  02:00 AM    <DIR>          ..
+12/05/2010  07:42 PM               136 config
+12/05/2010  07:42 PM           454,537 cygwin1.dll
+12/05/2010  07:42 PM           231,249 mkisofs.exe
+               3 File(s)        685,922 bytes
+
+     Total Files Listed:
+              62 File(s)    385,044,536 bytes
+              42 Dir(s)               0 bytes free

@@ -1,0 +1,183 @@
+ Volume in drive G is SLAX
+ Volume Serial Number is 61A9-FEC7
+
+ Directory of G:\
+
+02/25/2007  12:44 AM    <DIR>          BT
+02/25/2007  12:44 AM    <DIR>          boot
+               0 File(s)              0 bytes
+
+ Directory of G:\BT
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM            18,259 COPYING
+02/25/2007  12:44 AM               339 LICENSE
+02/25/2007  01:10 AM    <DIR>          base
+02/25/2007  12:44 AM            26,345 changelog.txt
+02/25/2007  12:44 AM    <DIR>          configs
+02/25/2007  12:44 AM               705 make_iso.bat
+02/25/2007  12:44 AM               886 make_iso.sh
+02/25/2007  12:44 AM    <DIR>          modules
+02/25/2007  12:44 AM    <DIR>          optional
+02/25/2007  12:44 AM             1,697 requirements.txt
+02/25/2007  12:44 AM    <DIR>          rootcopy
+02/25/2007  12:44 AM    <DIR>          tools
+               6 File(s)         48,231 bytes
+
+ Directory of G:\BT\base
+
+02/25/2007  01:10 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+03/06/2007  03:19 AM         2,560,000 bin.lzm
+03/06/2007  08:10 AM         1,572,864 etc.lzm
+03/06/2007  03:19 AM           946,176 home.lzm
+03/06/2007  05:17 AM        17,149,952 lib.lzm
+03/06/2007  03:20 AM       126,283,776 opt.lzm
+03/06/2007  08:16 AM        52,736,000 pentest.lzm
+03/06/2007  03:20 AM        19,927,040 root.lzm
+03/06/2007  03:20 AM         4,182,016 sbin.lzm
+03/06/2007  09:36 PM       489,758,720 usr.lzm
+03/06/2007  03:21 AM         1,695,744 var.lzm
+              10 File(s)    716,812,288 bytes
+
+ Directory of G:\BT\configs
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM            16,955 .config.busybox
+02/25/2007  12:44 AM            17,882 .config.busybox.new
+02/25/2007  12:44 AM            67,024 .config.kernel
+02/25/2007  12:44 AM                84 README
+               4 File(s)        101,945 bytes
+
+ Directory of G:\BT\modules
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\optional
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  10:14 PM    <DIR>          opt
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy\opt
+
+02/25/2007  10:15 PM    <DIR>          .
+02/25/2007  10:15 PM    <DIR>          ..
+02/25/2007  10:14 PM    <DIR>          kde
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy\opt\kde
+
+02/25/2007  10:15 PM    <DIR>          .
+02/25/2007  10:15 PM    <DIR>          ..
+02/25/2007  10:15 PM    <DIR>          share
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy\opt\kde\share
+
+02/25/2007  10:15 PM    <DIR>          .
+02/25/2007  10:15 PM    <DIR>          ..
+02/25/2007  10:15 PM    <DIR>          applications
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy\opt\kde\share\applications
+
+02/25/2007  10:15 PM    <DIR>          .
+02/25/2007  10:15 PM    <DIR>          ..
+02/25/2007  10:15 PM    <DIR>          kde
+               0 File(s)              0 bytes
+
+ Directory of G:\BT\rootcopy\opt\kde\share\applications\kde
+
+02/25/2007  10:15 PM    <DIR>          .
+02/25/2007  10:15 PM    <DIR>          ..
+02/19/2007  12:47 AM               252 ksnapshot.desktop
+               1 File(s)            252 bytes
+
+ Directory of G:\BT\tools
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM    <DIR>          WIN
+02/25/2007  12:44 AM             1,284 deb2lzm
+02/25/2007  12:44 AM               495 dir2lzm
+02/25/2007  12:44 AM            15,897 liblinuxlive
+02/25/2007  12:44 AM               397 lzm2dir
+02/25/2007  12:44 AM           138,052 mksquashfs
+02/25/2007  12:44 AM               659 mo2lzm
+02/25/2007  12:44 AM               637 tgz2lzm
+02/25/2007  12:44 AM            37,048 unsquashfs
+02/25/2007  12:44 AM             2,130 uselivemod
+               9 File(s)        196,599 bytes
+
+ Directory of G:\BT\tools\WIN
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM               118 config
+02/25/2007  12:44 AM           454,537 cygwin1.dll
+02/25/2007  12:44 AM           231,249 mkisofs.exe
+               3 File(s)        685,904 bytes
+
+ Directory of G:\boot
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM             1,696 bootinst.bat
+02/25/2007  12:44 AM             2,095 bootinst.sh
+02/25/2007  12:44 AM    <DIR>          dos
+02/25/2007  12:20 PM         1,479,711 initrd.gz
+02/25/2007  12:44 AM    <DIR>          isolinux
+02/25/2007  12:44 AM            94,760 memtest86p
+05/26/2006  03:05 AM           153,718 splash.bmp
+05/26/2006  04:09 AM             3,334 splash.bmp.gz
+02/25/2007  12:44 AM    <DIR>          syslinux
+02/25/2007  12:44 AM           113,728 vesamenu.c32
+02/25/2007  12:44 AM         3,209,320 vmlinuz
+               8 File(s)      5,058,362 bytes
+
+ Directory of G:\boot\dos
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM               363 BT.bat
+02/25/2007  12:44 AM               652 config
+02/25/2007  12:44 AM            32,225 loadlin.exe
+02/25/2007  12:44 AM               339 readme.txt
+               4 File(s)         33,579 bytes
+
+ Directory of G:\boot\isolinux
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM            10,932 isolinux.bin
+02/25/2007  12:07 PM             2,048 isolinux.boot
+02/20/2007  02:10 AM               405 isolinux.cfg
+               3 File(s)         13,385 bytes
+
+ Directory of G:\boot\syslinux
+
+02/25/2007  12:44 AM    <DIR>          .
+02/25/2007  12:44 AM    <DIR>          ..
+02/25/2007  12:44 AM            70,196 lilo
+02/25/2007  12:44 AM               440 mbr.bin
+02/25/2007  12:44 AM            20,832 syslinux
+02/20/2007  02:10 AM               405 syslinux.cfg
+02/25/2007  12:44 AM            18,012 syslinux.com
+02/25/2007  12:44 AM            30,208 syslinux.exe
+               6 File(s)        140,093 bytes
+
+     Total Files Listed:
+              54 File(s)    723,090,638 bytes
+              51 Dir(s)               0 bytes free

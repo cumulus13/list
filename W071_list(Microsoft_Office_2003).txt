@@ -1,0 +1,180 @@
+ Volume in drive J is Microsoft office
+ Volume Serial Number is DAA5-3B3A
+
+ Directory of J:\
+
+06/01/2005  09:57 PM            69,632 Keymaker.exe
+06/20/2006  03:18 AM    <DIR>          _OFFICE
+               1 File(s)         69,632 bytes
+
+ Directory of J:\_OFFICE
+
+06/20/2006  03:18 AM    <DIR>          .
+06/23/2006  09:00 PM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          FILES
+06/20/2006  03:18 AM    <DIR>          MSDE2000
+08/15/2003  04:58 PM           560,128 OWC10.MSI
+08/15/2003  05:02 PM           604,672 OWC11.MSI
+01/29/2004  10:34 AM         5,923,328 PRO11.MSI
+07/26/2003  02:31 AM             6,581 README.HTM
+07/15/2003  12:57 PM           416,824 SETUP.EXE
+02/21/2003  08:06 AM            19,697 SETUP.HTM
+06/20/2006  03:18 AM    <DIR>          Up-Date
+               6 File(s)      7,531,230 bytes
+
+ Directory of J:\_OFFICE\FILES
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          ACCRT
+06/20/2006  03:18 AM    <DIR>          OWC10
+06/20/2006  03:18 AM    <DIR>          OWC11
+06/20/2006  03:18 AM    <DIR>          PFILES
+06/20/2006  03:18 AM    <DIR>          SETUP
+06/20/2006  03:18 AM    <DIR>          WINDOWS
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\ACCRT
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+08/15/2003  04:55 PM         1,667,072 ACCESSRT.MSI
+               1 File(s)      1,667,072 bytes
+
+ Directory of J:\_OFFICE\FILES\OWC10
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+07/15/2003  12:57 PM           416,824 SETUP.EXE
+08/15/2003  04:50 PM             2,924 SETUP.INI
+               2 File(s)        419,748 bytes
+
+ Directory of J:\_OFFICE\FILES\OWC11
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+07/15/2003  12:57 PM           416,824 SETUP.EXE
+08/15/2003  04:52 PM             2,928 SETUP.INI
+               2 File(s)        419,752 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          COMMON
+06/20/2006  03:18 AM    <DIR>          MSOFFICE
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\COMMON
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          MSSHARED
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\COMMON\MSSHARED
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          DW
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\COMMON\MSSHARED\DW
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          1033
+07/22/2003  02:08 AM           620,088 DW20.EXE
+07/15/2003  12:52 PM            39,992 DWDCW20.DLL
+07/15/2003  12:53 PM            34,880 DWTRIG20.EXE
+               3 File(s)        694,960 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\COMMON\MSSHARED\DW\1033
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+07/15/2003  12:53 PM           109,120 DWINTL20.DLL
+               1 File(s)        109,120 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\MSOFFICE
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          OFFICE11
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\MSOFFICE\OFFICE11
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          1033
+07/15/2003  12:39 PM           223,288 OCLEAN.DLL
+04/11/2003  06:13 AM           494,120 OCLNCORE.OPC
+05/29/2002  04:02 AM            13,275 OCLNCUST.OPC
+07/15/2003  12:39 PM            57,400 OFFCLN.EXE
+               4 File(s)        788,083 bytes
+
+ Directory of J:\_OFFICE\FILES\PFILES\MSOFFICE\OFFICE11\1033
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+07/26/2003  02:31 AM            13,893 ACREADME.HTM
+02/23/1999  10:29 AM             2,086 FILTERS.TXT
+08/01/2003  01:27 AM             4,423 INREADME.HTM
+05/29/2002  04:02 AM               135 OCLNINTL.OPC
+07/26/2003  04:07 AM             9,771 OFREADME.HTM
+08/02/2003  01:22 AM            13,021 OLREADME.HTM
+07/31/2003  01:22 AM             1,839 PBREADME.HTM
+07/26/2003  02:32 AM             2,943 PPREADME.HTM
+06/18/2003  11:43 PM            11,142 PSS10O.CHM
+06/18/2003  11:43 PM            11,378 PSS10R.CHM
+07/26/2003  02:32 AM             4,189 PVREADME.HTM
+05/29/2003  02:13 AM           272,824 SETUP.CHM
+07/26/2003  03:09 AM             2,775 WDREADME.HTM
+08/01/2003  01:21 AM            18,467 XLREADME.HTM
+              14 File(s)        368,886 bytes
+
+ Directory of J:\_OFFICE\FILES\SETUP
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+07/29/2003  02:28 AM            89,136 OSE.EXE
+08/15/2003  04:58 PM             3,291 OWC10.XML
+08/15/2003  05:02 PM             3,687 OWC11.XML
+01/29/2004  10:33 AM            21,837 PRO11.XML
+08/15/2003  06:13 PM             2,938 SETUP.INI
+               5 File(s)        120,889 bytes
+
+ Directory of J:\_OFFICE\FILES\WINDOWS
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+06/20/2006  03:18 AM    <DIR>          INF
+               0 File(s)              0 bytes
+
+ Directory of J:\_OFFICE\FILES\WINDOWS\INF
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+10/10/2002  10:44 PM            34,066 AER_1033.ADM
+               1 File(s)         34,066 bytes
+
+ Directory of J:\_OFFICE\MSDE2000
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+05/16/2003  07:25 AM        72,503,896 MSDE2KS3.EXE
+               1 File(s)     72,503,896 bytes
+
+ Directory of J:\_OFFICE\Up-Date
+
+06/20/2006  03:18 AM    <DIR>          .
+06/20/2006  03:18 AM    <DIR>          ..
+11/08/2005  04:30 PM        51,748,624 Office2003SP2-KB887616-Client-ENU.exe
+11/08/2005  04:36 PM           480,816 Sounds.EXE
+11/08/2005  04:36 PM        36,083,984 Visio2003SP2-KB887622-FullFile-ENU.exe
+               3 File(s)     88,313,424 bytes
+
+     Total Files Listed:
+              44 File(s)    173,040,758 bytes
+              54 Dir(s)               0 bytes free

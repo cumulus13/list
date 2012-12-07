@@ -1,0 +1,94 @@
+ Volume in drive G is SBSP3
+ Volume Serial Number is 9189-CFF7
+
+ Directory of G:\
+
+10/21/2003  12:18 PM    <DIR>          Autorun
+09/16/2003  02:05 AM           151,552 Autorun.exe
+10/21/2003  12:18 PM    <DIR>          Demos
+10/21/2003  12:18 PM    <DIR>          DirectX9
+10/21/2003  12:17 PM    <DIR>          Movies
+09/10/2003  02:43 AM         1,467,306 SB SP BBB PC MAN.pdf
+06/28/2003  06:22 AM           921,656 Setup.bmp
+07/18/2003  11:24 PM                44 autorun.inf
+09/12/2003  06:08 AM         9,181,538 data1.cab
+09/12/2003  06:14 AM           131,611 data1.hdr
+09/12/2003  06:14 AM       288,977,768 data2.cab
+02/28/2003  06:16 AM           420,432 engine32.cab
+09/12/2003  06:14 AM               493 layout.bin
+07/01/2003  05:00 AM             2,238 sb3.ico
+09/12/2003  06:07 AM           328,885 setup.boot
+12/03/2002  05:33 AM           107,512 setup.exe
+09/12/2003  06:07 AM               440 setup.ini
+09/12/2003  06:07 AM           201,532 setup.inx
+10/24/2002  07:32 AM            41,465 setup.skin
+              15 File(s)    301,934,472 bytes
+
+ Directory of G:\Autorun
+
+10/21/2003  12:18 PM    <DIR>          .
+10/21/2003  12:22 PM    <DIR>          ..
+09/11/2003  07:03 AM           842,178 AUTORUN.DAT
+07/12/2003  04:29 AM           139,372 ready.wav
+07/12/2003  04:29 AM            17,004 switch.wav
+               3 File(s)        998,554 bytes
+
+ Directory of G:\Demos
+
+10/21/2003  12:18 PM    <DIR>          .
+10/21/2003  12:22 PM    <DIR>          ..
+08/22/2003  07:07 AM       108,130,302 FAIRLYODDPARENTSDEMO.exe
+08/22/2003  07:23 AM        35,569,513 JIMMY2DEMO.exe
+08/22/2003  07:42 AM        40,990,148 RUGRATSGOWILDDEMO.exe
+08/22/2003  08:03 AM        43,818,609 SB2DEMO.exe
+08/27/2003  04:15 AM        28,631,040 SBVIDEOS.exe
+               5 File(s)    257,139,612 bytes
+
+ Directory of G:\DirectX9
+
+10/21/2003  12:18 PM    <DIR>          .
+10/21/2003  12:22 PM    <DIR>          ..
+03/18/2003  08:16 AM           695,962 BDA.cab
+03/18/2003  08:16 AM         1,148,983 BDANT.cab
+03/18/2003  08:17 AM           968,075 BDAXP.cab
+03/18/2003  03:38 AM            60,416 DSETUP.dll
+03/18/2003  07:20 AM        15,442,567 DirectX.cab
+04/01/2003  06:06 AM         1,104,358 ManagedDX.CAB
+04/17/2003  01:10 AM         1,977,344 dsetup32.dll
+03/18/2003  06:47 AM        13,096,627 dxnt.cab
+04/30/2003  11:48 PM           467,456 dxsetup.exe
+               9 File(s)     34,961,788 bytes
+
+ Directory of G:\Movies
+
+10/21/2003  12:17 PM    <DIR>          .
+10/21/2003  12:22 PM    <DIR>          ..
+06/28/2003  12:20 AM           359,504 fail01.bik
+06/28/2003  12:20 AM           975,568 fail02.bik
+06/28/2003  12:20 AM           368,048 fail03.bik
+06/28/2003  12:20 AM           838,868 fail04.bik
+06/28/2003  12:20 AM         1,428,504 fail05.bik
+06/28/2003  12:20 AM         1,407,624 fail06.bik
+06/28/2003  12:20 AM         1,263,220 fail07.bik
+06/28/2003  12:20 AM           882,512 fail08.bik
+06/28/2003  12:20 AM         1,248,128 fail09.bik
+09/04/2003  06:39 AM         2,927,624 fail10.bik
+09/04/2003  06:40 AM           543,872 fail11.bik
+09/04/2003  06:40 AM           773,688 fail12.bik
+09/04/2003  06:41 AM           884,820 fail13.bik
+06/28/2003  12:20 AM         1,303,072 fail14.bik
+06/28/2003  12:20 AM         2,163,124 fail15.bik
+06/28/2003  12:20 AM         7,688,352 final.bik
+08/16/2003  07:26 AM         3,708,680 mAWE.bik
+09/05/2003  03:46 AM         4,300,192 mCREDITS.bik
+08/15/2003  06:24 AM        28,627,892 mEND.bik
+08/16/2003  07:20 AM        41,862,668 mINTRO.bik
+08/15/2003  05:28 AM         2,148,776 mLEGAL.bik
+06/28/2003  12:20 AM           667,784 mNICK.bik
+06/28/2003  12:20 AM        10,745,000 mSPONGEBOB.bik
+08/22/2003  08:16 AM         4,196,860 mTHQ.bik
+              24 File(s)    121,314,380 bytes
+
+     Total Files Listed:
+              56 File(s)    716,348,806 bytes
+              12 Dir(s)               0 bytes free

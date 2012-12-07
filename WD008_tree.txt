@@ -1,0 +1,2136 @@
+Folder PATH listing for volume DATA1
+Volume serial number is ED2F-7228
+J:\
++---Movie Flash
+|   +---Bab 02
+|   |   |   navigasi orbit.fla
+|   |   |   navigasi orbit.swf
+|   |   |   parameter label frame.fla
+|   |   |   parameter label frame.swf
+|   |   |   parameter nomor frame.fla
+|   |   |   parameter nomor frame.swf
+|   |   |   parameter scene 02.fla
+|   |   |   parameter scene 02.swf
+|   |   |   parameter scene.fla
+|   |   |   parameter scene.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber navigasi orbit.fla
+|   |           sumber parameter label frame.fla
+|   |           sumber parameter nomor frame.fla
+|   |           sumber parameter scene.fla
+|   |           
+|   +---Bab 03
+|   |   |   methods drag movie clip.fla
+|   |   |   methods drag movie clip.swf
+|   |   |   methods play movie clip.fla
+|   |   |   methods play movie clip.swf
+|   |   |   skala movie clip.fla
+|   |   |   skala movie clip.swf
+|   |   |   transparansi movie clip.fla
+|   |   |   transparansi movie clip.swf
+|   |   |   visible movie clip.fla
+|   |   |   visible movie clip.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber methods drag movie clip.fla
+|   |           sumber methods play movie clip.fla
+|   |           sumber skala movie clip.fla
+|   |           sumber transparansi movie clip.fla
+|   |           sumber visible movie clip.fla
+|   |           
+|   +---Bab 04
+|   |   |   tombol duplikat&hapus movie clip.fla
+|   |   |   tombol duplikat&hapus movie clip.swf
+|   |   |   tombol hit.fla
+|   |   |   tombol hit.swf
+|   |   |   tombol tuts 02.fla
+|   |   |   tombol tuts 02.swf
+|   |   |   tombol tuts.fla
+|   |   |   tombol tuts.swf
+|   |   |   tv dan tombol on.fla
+|   |   |   tv dan tombol on.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber tombol duplikat&hapus movie clip.fla
+|   |           sumber tombol hit.fla
+|   |           sumber tombol tuts.fla
+|   |           sumber tv dan tombol on.fla
+|   |           
+|   +---Bab 05
+|   |   |   FORM.FLA
+|   |   |   FORM.SWF
+|   |   |   form sandi.fla
+|   |   |   form sandi.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber form sandi.fla
+|   |           sumber form.fla
+|   |           
+|   +---Bab 06
+|   |   |   game hitung perkalian.fla
+|   |   |   game hitung perkalian.swf
+|   |   |   game hitung.fla
+|   |   |   game hitung.swf
+|   |   |   game pembanding.fla
+|   |   |   game pembanding.swf
+|   |   |   game penambahan.fla
+|   |   |   game penambahan.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber game hitung perkalian.fla
+|   |           sumber game hitung.fla
+|   |           sumber game pembanding.fla
+|   |           sumber game penambahan.fla
+|   |           
+|   +---Bab 07
+|   |   |   game nama bulan.fla
+|   |   |   game nama bulan.swf
+|   |   |   game obyek number.fla
+|   |   |   game obyek number.swf
+|   |   |   game obyek string.fla
+|   |   |   game obyek string.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber game nama bulan.fla
+|   |           sumber game obyek string.fla
+|   |           sumber game obyek string.swf
+|   |           
+|   +---Bab 08
+|   |   |   rotasi movie clip dengan variabel.fla
+|   |   |   rotasi movie clip dengan variabel.swf
+|   |   |   rotasi movie clip otomatis.fla
+|   |   |   rotasi movie clip otomatis.swf
+|   |   |   rotasi movie clip tekan tombol.fla
+|   |   |   rotasi movie clip tekan tombol.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber rotasi movie clip dengan variabel.fla
+|   |           sumber rotasi movie clip otomatis.fla
+|   |           sumber rotasi movie clip tekan tombol.fla
+|   |           
+|   +---Bab 09
+|   |   |   PESAWAT.FLA
+|   |   |   PESAWAT.SWF
+|   |   |   TANK.FLA
+|   |   |   TANK.SWF
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber pesawat.fla
+|   |           sumber tank.fla
+|   |           
+|   +---Bab 10
+|   |   |   kontrol movie clip interaksi 02.fla
+|   |   |   kontrol movie clip interaksi 02.swf
+|   |   |   kontrol movie clip interaksi.fla
+|   |   |   kontrol movie clip interaksi.swf
+|   |   |   kontrol movie clip random.fla
+|   |   |   kontrol movie clip random.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber kontrol movie clip interaksi.fla
+|   |           sumber kontrol movie clip random.fla
+|   |           
+|   +---Bab 11
+|   |   |   SLIDER.FLA
+|   |   |   SLIDER.SWF
+|   |   |   drag&drop movie clip.fla
+|   |   |   drag&drop movie clip.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber drag&drop movie clip.fla
+|   |           sumber slider.fla
+|   |           
+|   +---Bab 12
+|   |   |   JAM.FLA
+|   |   |   JAM.SWF
+|   |   |   KALENDER.FLA
+|   |   |   KALENDER.SWF
+|   |   |   jam digital.fla
+|   |   |   jam digital.swf
+|   |   |   kalender hari.fla
+|   |   |   kalender hari.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber jam digital.fla
+|   |           sumber jam.fla
+|   |           sumber kalender hari.fla
+|   |           sumber kalender.fla
+|   |           
+|   +---Bab 13
+|   |   |   batas gerak pointer.fla
+|   |   |   batas gerak pointer.swf
+|   |   |   bentuk pointer.fla
+|   |   |   bentuk pointer.swf
+|   |   |   lacak koordinat mouse.fla
+|   |   |   lacak koordinat mouse.swf
+|   |   |   tampil dan sembunyi pointer.fla
+|   |   |   tampil dan sembunyi pointer.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber batas gerak pointer.fla
+|   |           sumber bentuk pointer.fla
+|   |           sumber lacak koordinat mouse.fla
+|   |           sumber tampil dan sembunyi pointer.fla
+|   |           
+|   +---Bab 14
+|   |   |   hujan meteor.fla
+|   |   |   hujan meteor.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber hujan meteor.fla
+|   |           
+|   +---Bab 15
+|   |   |   mainkan sound.fla
+|   |   |   mainkan sound.swf
+|   |   |   sound button.fla
+|   |   |   sound button.swf
+|   |   |   
+|   |   \---SUMBER
+|   |           sumber mainkan sound.fla
+|   |           sumber sound button.fla
+|   |           
+|   \---Bab 16
+|           BUKU.JPG
+|           GETBYTES.FLA
+|           GETBYTES.SWF
+|           JAM.JPG
+|           JARI.FLA
+|           JARI.SWF
+|           KACA.JPG
+|           TOPI.JPG
+|           load images.fla
+|           load images.swf
+|           load movie.fla
+|           load movie.swf
+|           sumber getbytes.fla
+|           sumber load images.fla
+|           sumber load movie.fla
+|           
++---SOAL UTS ALPRO on Komp-01
+|   |   Soal_UTS.txt
+|   |   
+|   +---HASIL Soal UTS ALPRo kelas c1
+|   |   +---0700152
+|   |   |       NO1.BAK
+|   |   |       no1.pas
+|   |   |       no2.exe
+|   |   |       no2.pas
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       noname00.exe
+|   |   |       
+|   |   +---0700154
+|   |   |       biodate.pas
+|   |   |       group.pas
+|   |   |       hitungni.pas
+|   |   |       
+|   |   +---0700184_Winprins_UTS
+|   |   |       soalno1g.exe
+|   |   |       soalno1g.pas
+|   |   |       soalno2.exe
+|   |   |       soalno2.pas
+|   |   |       soalno3.exe
+|   |   |       soalno3.pas
+|   |   |       
+|   |   +---0700209_Dian Ayu Fuji Lestari (UTS_ALPRO)
+|   |   |       NO2_DIAN.BAK
+|   |   |       no2-dian.pas
+|   |   |       no2_dian.exe
+|   |   |       no3_dian.exe
+|   |   |       no3_dian.pas
+|   |   |       
+|   |   +---0700210_Titan_Firman
+|   |   |       NO_1.BAK
+|   |   |       NO_2.BAK
+|   |   |       NO_3.BAK
+|   |   |       Soal_UTS.txt
+|   |   |       no_1.pas
+|   |   |       no_2.pas
+|   |   |       no_3.exe
+|   |   |       no_3.pas
+|   |   |       
+|   |   +---0700335 - Cecep Yusuf
+|   |   |   +---1
+|   |   |   |       NO1.BAK
+|   |   |   |       no1.exe
+|   |   |   |       no1.pas
+|   |   |   |       
+|   |   |   +---2
+|   |   |   |       NO2.BAK
+|   |   |   |       no2.exe
+|   |   |   |       no2.pas
+|   |   |   |       
+|   |   |   \---3
+|   |   |           NO3.BAK
+|   |   |           no3.exe
+|   |   |           no3.pas
+|   |   |           
+|   |   +---0703756
+|   |   |       NO2.BAK
+|   |   |       NO3.BAK
+|   |   |       no2.exe
+|   |   |       no2.pas
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       
+|   |   +---0703823_wizra_aulia_c1
+|   |   |       n0_1.pas
+|   |   |       n0_3.pas
+|   |   |       no_2.pas
+|   |   |       
+|   |   +---0706439_yaya_wihardi
+|   |   |       no1.exe
+|   |   |       no1.pas
+|   |   |       no2.pas
+|   |   |       no3.pas
+|   |   |       
+|   |   +---0706558
+|   |   |       NO2.BAK
+|   |   |       NO3.BAK
+|   |   |       no2.exe
+|   |   |       no2.pas
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       noname00.exe
+|   |   |       noname01.exe
+|   |   |       
+|   |   +---IBNU HAMZAH - 0700119
+|   |   |   |   noname01.exe
+|   |   |   |   
+|   |   |   +---NOMOR 1
+|   |   |   |       NONAME01.BAK
+|   |   |   |       noname01.pas
+|   |   |   |       
+|   |   |   +---NOMOR 2
+|   |   |   |       NONAME01.BAK
+|   |   |   |       noname01.exe
+|   |   |   |       noname01.pas
+|   |   |   |       
+|   |   |   \---NOMOR 3
+|   |   |           NONAME00.BAK
+|   |   |           NONAME01.BAK
+|   |   |           noname00.exe
+|   |   |           noname00.pas
+|   |   |           noname01.exe
+|   |   |           noname01.pas
+|   |   |           
+|   |   +---Irvan Riswanto (0700226) - UTS Alpro
+|   |   |       NO_1.BAK
+|   |   |       NO_2.BAK
+|   |   |       NO_3.BAK
+|   |   |       no_1.exe
+|   |   |       no_1.pas
+|   |   |       no_2.exe
+|   |   |       no_2.pas
+|   |   |       no_3.exe
+|   |   |       no_3.pas
+|   |   |       
+|   |   +---Irvan Septian 0706589
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       noname00.exe
+|   |   |       
+|   |   +---Nurul Permatasari (0700168) UTS alpro
+|   |   |       NILAI.BAK
+|   |   |       NO3.BAK
+|   |   |       nilai.pas
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       
+|   |   +---Saepudin_0703933
+|   |   |   +---Soal 2
+|   |   |   |       41.BAK
+|   |   |   |       41.exe
+|   |   |   |       41.pas
+|   |   |   |       
+|   |   |   \---Soal3
+|   |   |           41.exe
+|   |   |           41.pas
+|   |   |           noname02.exe
+|   |   |           noname02.pas
+|   |   |           
+|   |   +---UTS ALPRO RAHMANDANI 0706473
+|   |   |       SOAL01.BAK
+|   |   |       SOAL02.BAK
+|   |   |       soal01.exe
+|   |   |       soal01.pas
+|   |   |       soal02.pas
+|   |   |       soal03.pas
+|   |   |       
+|   |   +---UTS Alpro Fanni_0706647
+|   |   |       FANNI.BAK
+|   |   |       FANNI1.BAK
+|   |   |       FANNI2.BAK
+|   |   |       fanni.pas
+|   |   |       fanni1.exe
+|   |   |       fanni1.pas
+|   |   |       fanni2.exe
+|   |   |       fanni2.pas
+|   |   |       
+|   |   +---UTS_ALPRO_0700265_yusup_suryadi
+|   |   |       biodata.exe
+|   |   |       biodata.pas
+|   |   |       nilai2.exe
+|   |   |       nilai2.pas
+|   |   |       
+|   |   \---uts alpro_0706621_zakky_wildan
+|   |           identita.pas
+|   |           nilai_za.pas
+|   |           
+|   +---TUGAS6
+|   |   |   TQ1 ALPRO 0700485 Ayu Laila Febriani.zip
+|   |   |   TQ1 ALPRO 0704471 ULIANA.zip
+|   |   |   TQ1 IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 2.pdf
+|   |   |   UTS ALPRO 0700678 Alfin Sholeh.rar
+|   |   |   
+|   |   +---0700154
+|   |   |       biodate.pas
+|   |   |       group.pas
+|   |   |       hitungni.pas
+|   |   |       
+|   |   +---Annisa Nurul Fitri_ 0704325
+|   |   |       SOAL2.BAK
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       tata tertib.txt
+|   |   |       
+|   |   +---RiriDwi Angraini_0706639
+|   |   |       TGS2.BAK
+|   |   |       tgs1.pas
+|   |   |       tgs2.exe
+|   |   |       tgs2.pas
+|   |   |       tgs3.exe
+|   |   |       tgs3.pas
+|   |   |       tgs4.exe
+|   |   |       tgs4.pas
+|   |   |       tgs5.exe
+|   |   |       tgs5.pas
+|   |   |       tgs6.exe
+|   |   |       tgs6.pas
+|   |   |       ujian1.exe
+|   |   |       
+|   |   +---TQ1 ALPRO 0700485 Ayu Laila Febriani
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.pas
+|   |   |       
+|   |   +---TQ1 ALPRO 0704471 ULIANA
+|   |   |   |   NONAME00.BAK
+|   |   |   |   NONAME01.BAK
+|   |   |   |   noname00.exe
+|   |   |   |   noname00.pas
+|   |   |   |   noname01.exe
+|   |   |   |   noname01.pas
+|   |   |   |   
+|   |   |   \---UTS_provis
+|   |   |           SOAL1.BAK
+|   |   |           SOAL2.BAK
+|   |   |           SOAL3.BAK
+|   |   |           soal1.exe
+|   |   |           soal1.pas
+|   |   |           soal2.exe
+|   |   |           soal2.pas
+|   |   |           soal3.pas
+|   |   |           
+|   |   +---UTS ALPRO 0700678 Alfin Sholeh
+|   |   |       berjalan.exe
+|   |   |       berjalan.pas
+|   |   |       perjanjian.exe
+|   |   |       perjanjian.pas
+|   |   |       
+|   |   \---ZULKIFLI - 0706597
+|   |           Project1.cfg
+|   |           Project1.dof
+|   |           Project1.dpr
+|   |           Project1.exe
+|   |           Project1.res
+|   |           Project1.~dpr
+|   |           Unit1.dcu
+|   |           Unit1.dfm
+|   |           Unit1.pas
+|   |           Unit1.~dfm
+|   |           Unit1.~pas
+|   |           Unit2.dcu
+|   |           Unit2.dfm
+|   |           Unit2.pas
+|   |           Unit2.~dfm
+|   |           Unit2.~pas
+|   |           
+|   +---TUGAS7
+|   |   |   TQ1 ALPRO0704309 Lingga Yuda G..zip
+|   |   |   TQ1 IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   TQ1 alpro 0704620 Aulia primarizky.zip
+|   |   |   UTS ALPRO 0700524 M.Rifqi Banani.zip
+|   |   |   
+|   |   +---0700409_Gilang_Permana
+|   |   |       data_dir.pas
+|   |   |       penilaia.pas
+|   |   |       
+|   |   +---0703830_Reza KUrniawan(uts alpro)
+|   |   |       aboutme.pas
+|   |   |       cek.pas
+|   |   |       
+|   |   +---Riri Dwi Angraini - 0706639
+|   |   |       Project1.cfg
+|   |   |       Project1.dof
+|   |   |       Project1.dpr
+|   |   |       Project1.exe
+|   |   |       Project1.res
+|   |   |       Project1.~dpr
+|   |   |       Unit1.dcu
+|   |   |       Unit1.ddp
+|   |   |       Unit1.dfm
+|   |   |       Unit1.pas
+|   |   |       Unit1.~ddp
+|   |   |       Unit1.~dfm
+|   |   |       Unit1.~pas
+|   |   |       Unit2.dcu
+|   |   |       Unit2.ddp
+|   |   |       Unit2.dfm
+|   |   |       Unit2.pas
+|   |   |       Unit2.~ddp
+|   |   |       Unit2.~dfm
+|   |   |       Unit2.~pas
+|   |   |       Unit3.dcu
+|   |   |       Unit3.ddp
+|   |   |       Unit3.dfm
+|   |   |       Unit3.pas
+|   |   |       Unit3.~ddp
+|   |   |       Unit3.~dfm
+|   |   |       Unit3.~pas
+|   |   |       
+|   |   +---Riri Dwi Angraini_0706639
+|   |   |       Project1.cfg
+|   |   |       Project1.dof
+|   |   |       Project1.dpr
+|   |   |       Project1.exe
+|   |   |       Project1.res
+|   |   |       Unit1.dcu
+|   |   |       Unit1.ddp
+|   |   |       Unit1.dfm
+|   |   |       Unit1.pas
+|   |   |       Unit1.~ddp
+|   |   |       Unit1.~dfm
+|   |   |       Unit1.~pas
+|   |   |       
+|   |   +---UTS ALPRO 0700524 M.Rifqi Banani
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.pas
+|   |   |       soal4.pas
+|   |   |       
+|   |   \---uts_alpro1_0706479-Asri Maulida D
+|   |           SOAL2.BAK
+|   |           SOAL3.BAK
+|   |           soal1.exe
+|   |           soal1.pas
+|   |           soal1.txt
+|   |           soal2.exe
+|   |           soal2.pas
+|   |           soal3.exe
+|   |           soal3.pas
+|   |           soal4.txt
+|   |           
+|   +---tugas1
+|   |   |   brg.exe
+|   |   |   brg.pas
+|   |   |   
+|   |   +---(0704019)
+|   |   |       NONAME01.BAK
+|   |   |       noname01.pas
+|   |   |       
+|   |   +---0706537
+|   |   |       ALPRO.BAK
+|   |   |       DUA.BAK
+|   |   |       TIGA.BAK
+|   |   |       alpro.exe
+|   |   |       alpro.pas
+|   |   |       dua.exe
+|   |   |       dua.pas
+|   |   |       tiga.exe
+|   |   |       tiga.pas
+|   |   |       
+|   |   +---Mira Suryani 0700934 (B)
+|   |   |       INDEKS.BAK
+|   |   |       Indeks.exe
+|   |   |       PERSEGI.BAK
+|   |   |       indeks.pas
+|   |   |       persegi.exe
+|   |   |       persegi.pas
+|   |   |       
+|   |   \---UTS ALPRO 0700940 DEA ROKHMATUN I
+|   |           SOAL1.BAK
+|   |           SOAL2.BAK
+|   |           SOAL3.BAK
+|   |           SOAL4.BAK
+|   |           soal1.exe
+|   |           soal1.pas
+|   |           soal2.exe
+|   |           soal2.pas
+|   |           soal3.exe
+|   |           soal3.pas
+|   |           soal4.exe
+|   |           soal4.pas
+|   |           
+|   +---tugas10
+|   |   |   0608711.rar
+|   |   |   AAA.BAK
+|   |   |   GAGA.BAK
+|   |   |   No.2.pas
+|   |   |   SOAL1.BAK
+|   |   |   SOAL2.BAK
+|   |   |   TQ1 ALPRO 0706780 RIYAN NAUFAL HAYS.zip
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 2.pdf
+|   |   |   UTS.doc
+|   |   |   UTS_ALPRO_0704309_LINGGA_YUDA_G.zip
+|   |   |   aaa.pas
+|   |   |   gaga.pas
+|   |   |   noname08.exe
+|   |   |   soal1.pas
+|   |   |   soal3.exe
+|   |   |   soal3.pas
+|   |   |   
+|   |   +---0700377
+|   |   |       DIAN2.BAK
+|   |   |       DIAN3.BAK
+|   |   |       dian2.exe
+|   |   |       dian2.pas
+|   |   |       dian3.exe
+|   |   |       dian3.pas
+|   |   |       
+|   |   +---0703716_Rindi Antika_ALPro
+|   |   |       JAWABAN_.BAK
+|   |   |       JWBN_SOA.BAK
+|   |   |       jawaban_.pas
+|   |   |       jawaban_soal1.txt
+|   |   |       jwbn_soa.pas
+|   |   |       
+|   |   +---0704602 Aby
+|   |   |       Project1.cfg
+|   |   |       Project1.dof
+|   |   |       Project1.dpr
+|   |   |       Project1.res
+|   |   |       Project1.~dpr
+|   |   |       Unit1.dfm
+|   |   |       Unit1.pas
+|   |   |       
+|   |   +---0706568
+|   |   |       nanda.pas
+|   |   |       nanda2.pas
+|   |   |       
+|   |   +---Asep Awaludin Fajari_0706640
+|   |   |       ANAKAYAM.BAK
+|   |   |       FOR1.BAK
+|   |   |       NONAME00.BAK
+|   |   |       PROGRAM1.BAK
+|   |   |       UTS_ALPR.BAK
+|   |   |       UTS_NO1.BAK
+|   |   |       UTS_NO_2.BAK
+|   |   |       WHILE1.BAK
+|   |   |       anak.pas
+|   |   |       anakayam.pas
+|   |   |       for1.pas
+|   |   |       noname00.exe
+|   |   |       noname01.exe
+|   |   |       noname02.exe
+|   |   |       program1.pas
+|   |   |       rataan
+|   |   |       rataan.pas
+|   |   |       uts_alpr.pas
+|   |   |       uts_no1.pas
+|   |   |       uts_no_2.exe
+|   |   |       uts_no_2.pas
+|   |   |       while1.pas
+|   |   |       
+|   |   +---UAS_ALPRO_0704309_LINGGA_YUDA_G
+|   |   |       Algoritmanya No.2.txt
+|   |   |       Algoritmanya No.3.txt
+|   |   |       No.2.exe
+|   |   |       No.2.pas
+|   |   |       no1.exe
+|   |   |       no1.pas
+|   |   |       no3.exe
+|   |   |       no3.pas
+|   |   |       
+|   |   \---UTS
+|   |           UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |           UTS.doc
+|   |           loading.exe
+|   |           
+|   +---tugas11
+|   |   |   0704483_asep egi n.rar
+|   |   |   UTS_Alpro_0700514_IDHAN.zip
+|   |   |   titikten.exe
+|   |   |   titikten.pas
+|   |   |   
+|   |   +---0704483_asep egi n
+|   |   |   |   1.exe
+|   |   |   |   NONAME04.BAK
+|   |   |   |   a.pas
+|   |   |   |   gaji karyawan.exe
+|   |   |   |   nilai max.exe
+|   |   |   |   nilai.exe
+|   |   |   |   noname02.pas
+|   |   |   |   noname03.pas
+|   |   |   |   noname04.pas
+|   |   |   |   noname05.pas
+|   |   |   |   roket.exe
+|   |   |   |   titikten.exe
+|   |   |   |   titikten.pas
+|   |   |   |   
+|   |   |   \---sanada
+|   |   |           soal B.pdf
+|   |   |           
+|   |   +---Khairunnisa_0700493
+|   |   |       NILAI.BAK
+|   |   |       PERSEGI.BAK
+|   |   |       SEGI.BAK
+|   |   |       SEGITIGA.BAK
+|   |   |       nilai.exe
+|   |   |       nilai.pas
+|   |   |       persegi.exe
+|   |   |       persegi.pas
+|   |   |       segi.exe
+|   |   |       segi.pas
+|   |   |       segitiga.exe
+|   |   |       segitiga.pas
+|   |   |       
+|   |   +---Mohammad_nur_rahman(0706692)Bilangan_tabel_mhs
+|   |   |       Project1.exe
+|   |   |       Project2.exe
+|   |   |       Source_Bilangan_tabel_mhs.dcu
+|   |   |       Source_Bilangan_tabel_mhs.ddp
+|   |   |       Source_Bilangan_tabel_mhs.dfm
+|   |   |       Source_Bilangan_tabel_mhs.pas
+|   |   |       Source_Bilangan_tabel_mhs.~ddp
+|   |   |       Source_Bilangan_tabel_mhs.~dfm
+|   |   |       Source_Bilangan_tabel_mhs.~pas
+|   |   |       Unit1.dcu
+|   |   |       Unit2.dcu
+|   |   |       proyek_bilangan_tabel_mhs.cfg
+|   |   |       proyek_bilangan_tabel_mhs.dof
+|   |   |       proyek_bilangan_tabel_mhs.dpr
+|   |   |       proyek_bilangan_tabel_mhs.exe
+|   |   |       proyek_bilangan_tabel_mhs.res
+|   |   |       
+|   |   +---UTS ALPRO 0704472 LITA MEYLIANTI
+|   |   |       SOAL1.BAK
+|   |   |       SOAL2.BAK
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.bak
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       
+|   |   +---UTS_Alpro_0700514_IDHAN
+|   |   |       soal_1.exe
+|   |   |       soal_1.pas
+|   |   |       soal_2.exe
+|   |   |       soal_2.pas
+|   |   |       
+|   |   +---adrian
+|   |   |   |   latihan coy.max
+|   |   |   |   muka.max
+|   |   |   |   
+|   |   |   \---New Folder
+|   |   \---uts alpro c-2 on 192.168.1.1
+|   |           UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |           
+|   +---tugas12
+|   |   |   NONAME01.BAK
+|   |   |   Soal_UTS.txt
+|   |   |   UTS ALPRO 0700607 ANGGA PERMANA.zip
+|   |   |   noname00.exe
+|   |   |   noname01.exe
+|   |   |   noname01.pas
+|   |   |   soal2.pas
+|   |   |   soal3.exe
+|   |   |   
+|   |   +---0700166
+|   |   |       NOMOR1.BAK
+|   |   |       NOMOR2.BAK
+|   |   |       nomor1.exe
+|   |   |       nomor1.pas
+|   |   |       nomor2.exe
+|   |   |       nomor2.pas
+|   |   |       nomor3.exe
+|   |   |       nomor3.pas
+|   |   |       noname02.pas
+|   |   |       
+|   |   +---Adri Kamil - 0703949
+|   |   +---Irvan Riswanto (0700226) - UTS Alpro
+|   |   |       NO_1.BAK
+|   |   |       NO_2.BAK
+|   |   |       NO_3.BAK
+|   |   |       no_1.exe
+|   |   |       no_1.pas
+|   |   |       no_2.exe
+|   |   |       no_2.pas
+|   |   |       no_3.exe
+|   |   |       no_3.pas
+|   |   |       noname02.exe
+|   |   |       
+|   |   +---UTS ALPRO
+|   |   |       SOAL1.BAK
+|   |   |       SOAL2.BAK
+|   |   |       SOAL3.BAK
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       
+|   |   +---UTS ALPRO 0700607 ANGGA PERMANA
+|   |   |       SOAL2.BAK
+|   |   |       SOAL3.BAK
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---era susilawati-0704612(24Apr08)
+|   |   |       indeks.exe
+|   |   |       indeks.pas
+|   |   |       nonpara.exe
+|   |   |       nonpara.pas
+|   |   |       prosedur.exe
+|   |   |       prosedur.pas
+|   |   |       prospers.exe
+|   |   |       prospers.pas
+|   |   |       
+|   |   \---uts_alpro1_0700070_Merinda.S
+|   +---tugas13
+|   |   |   P02.pdf
+|   |   |   POINTER.BAK
+|   |   |   POINTER2.BAK
+|   |   |   Vina Triwahyuni_0700843.rar
+|   |   |   Vina Triwahyuni_0700843_utsB.rar
+|   |   |   pointer.pas
+|   |   |   pointer2.exe
+|   |   |   pointer2.pas
+|   |   |   
+|   |   +---IIP IRFAN NULHAKIM - 0706579
+|   |   |       Project2.cfg
+|   |   |       Project2.dof
+|   |   |       Project2.dpr
+|   |   |       Project2.res
+|   |   |       Unit2.dfm
+|   |   |       Unit2.pas
+|   |   |       
+|   |   +---UTS
+|   |   |       Project2.cfg
+|   |   |       Project2.dof
+|   |   |       Project2.dpr
+|   |   |       Project2.exe
+|   |   |       Project2.res
+|   |   |       Unit1.dcu
+|   |   |       Unit1.dfm
+|   |   |       Unit1.pas
+|   |   |       Unit2.dcu
+|   |   |       Unit2.dfm
+|   |   |       Unit2.pas
+|   |   |       Unit2.~dfm
+|   |   |       Unit2.~pas
+|   |   |       
+|   |   +---UTS ALPRO 0700596 Hanni Khaerrini
+|   |   |       SOAL1.BAK
+|   |   |       SOAL2.BAK
+|   |   |       SOAL3.BAK
+|   |   |       SOAL4.BAK
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---UTS_ALPRO_ChoirinaDP_0704361
+|   |   |       JARAKTEM.BAK
+|   |   |       PERJANJI.BAK
+|   |   |       jaraktem.exe
+|   |   |       jaraktem.pas
+|   |   |       konversi.pas
+|   |   |       merksusu.pas
+|   |   |       perjanji.exe
+|   |   |       perjanji.pas
+|   |   |       
+|   |   +---UTS_ALPRO_Diah Ayu N.(0700133)
+|   |   |       JAWABAN.BAK
+|   |   |       JAWABAN2.BAK
+|   |   |       Soal_UTS.txt
+|   |   |       jawaban.exe
+|   |   |       jawaban.pas
+|   |   |       jawaban2.exe
+|   |   |       jawaban2.pas
+|   |   |       
+|   |   +---Vina Triwahyuni_0700843_utsB
+|   |   |       NO4.BAK
+|   |   |       NO6_1.BAK
+|   |   |       NO6_2.BAK
+|   |   |       NOMOR1.BAK
+|   |   |       NOMOR2.BAK
+|   |   |       NOMOR3.BAK
+|   |   |       NOMOR5.BAK
+|   |   |       konversi.exe
+|   |   |       konversi.pas
+|   |   |       merksusu.pas
+|   |   |       no4.exe
+|   |   |       no4.pas
+|   |   |       no6_1.exe
+|   |   |       no6_1.pas
+|   |   |       no6_2.exe
+|   |   |       no6_2.pas
+|   |   |       nomor1.exe
+|   |   |       nomor1.pas
+|   |   |       nomor2.exe
+|   |   |       nomor2.pas
+|   |   |       nomor3.exe
+|   |   |       nomor3.pas
+|   |   |       nomor5.exe
+|   |   |       nomor5.pas
+|   |   |       
+|   |   +---Yoga
+|   |   \---ZULKIFLI - 0706597
+|   |           6.1
+|   |           6.2
+|   |           6.3
+|   |           6.4
+|   |           6.5
+|   |           6.6
+|   |           7.1
+|   |           7.2
+|   |           7.3
+|   |           7.4
+|   |           7.6
+|   |           AYAM.BAK
+|   |           ayam.exe
+|   |           ayam.pas
+|   |           rata2.exe
+|   |           rata2.pas
+|   |           
+|   +---tugas14
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   UTS ALPRO 0700731 SARAH SABRINA.rar
+|   |   |   
+|   |   +---HERA DESIANA_0700107
+|   |   |       jwbn1.exe
+|   |   |       jwbn1.pas
+|   |   |       jwbn2.exe
+|   |   |       jwbn2.pas
+|   |   |       jwbn3.exe
+|   |   |       jwbn3.pas
+|   |   |       
+|   |   +---Isna Rahayu (0706765)
+|   |   |       APAKAH.BAK
+|   |   |       APALAHIT.BAK
+|   |   |       HOEH.BAK
+|   |   |       NONAME00.BAK
+|   |   |       apakah.pas
+|   |   |       apalahit.pas
+|   |   |       awal.exe
+|   |   |       awal.pas
+|   |   |       hitung.exe
+|   |   |       hitung.pas
+|   |   |       hoeh.pas
+|   |   |       hurupged.exe
+|   |   |       hurupged.pas
+|   |   |       nilai.exe
+|   |   |       nilai.pas
+|   |   |       noname00.exe
+|   |   |       noname00.pas
+|   |   |       noname03.exe
+|   |   |       noname04.exe
+|   |   |       persegi.exe
+|   |   |       persegi.pas
+|   |   |       
+|   |   +---MODUL 2
+|   |   |       ULogin.dcu
+|   |   |       ULogin.ddp
+|   |   |       ULogin.dfm
+|   |   |       ULogin.pas
+|   |   |       ULogin.~ddp
+|   |   |       ULogin.~dfm
+|   |   |       ULogin.~pas
+|   |   |       UUtama.dcu
+|   |   |       UUtama.ddp
+|   |   |       UUtama.dfm
+|   |   |       UUtama.pas
+|   |   |       UUtama.~ddp
+|   |   |       UUtama.~dfm
+|   |   |       UUtama.~pas
+|   |   |       prjpoltekpos.cfg
+|   |   |       prjpoltekpos.dof
+|   |   |       prjpoltekpos.dpr
+|   |   |       prjpoltekpos.exe
+|   |   |       prjpoltekpos.res
+|   |   |       
+|   |   +---Rendi Aperian - 0704007 (UTS ALPRO)
+|   |   |       HITUNG_N.BAK
+|   |   |       dataprib.exe
+|   |   |       dataprib.pas
+|   |   |       hitung_n.exe
+|   |   |       hitung_n.pas
+|   |   |       
+|   |   \---UTS_ALPRO1_0700476_ELVIRA WARDAH
+|   |           jawaban_.exe
+|   |           jawaban_.pas
+|   |           jawaban_soal_1.txt
+|   |           jawaban_soal_2.txt
+|   |           
+|   +---tugas15
+|   |   |   DWI PUTRI MELIZA PEBRIANI_0704678.rar
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   UTS_ALPRO1_0704571_META TRI.rar
+|   |   |   noname00.pas
+|   |   |   
+|   |   +---DWI PUTRI MELIZA PEBRIANI_0704678
+|   |   |       nosoal01.exe
+|   |   |       nosoal01.pas
+|   |   |       nosoal2.exe
+|   |   |       nosoal2.pas
+|   |   |       nosoal3.exe
+|   |   |       nosoal3.pas
+|   |   |       nosoal4.exe
+|   |   |       nosoal4.pas
+|   |   |       nosoal5.exe
+|   |   |       nosoal5.pas
+|   |   |       nosoal6.exe
+|   |   |       nosoal6.pas
+|   |   |       
+|   |   +---UTS ALPRO1_0700783_Dian Sa'adillah M
+|   |   |       NONAME00.BAK
+|   |   |       NONAME01.BAK
+|   |   |       NONAME02.BAK
+|   |   |       NONAME03.BAK
+|   |   |       noname00.exe
+|   |   |       noname00.pas
+|   |   |       noname01.exe
+|   |   |       noname01.pas
+|   |   |       noname02.exe
+|   |   |       noname02.pas
+|   |   |       noname03.exe
+|   |   |       noname03.pas
+|   |   |       
+|   |   +---UTS_ALPRO1_0704571_META TRI
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---bramandityo Prabowo_0706570
+|   |   |       noname03.exe
+|   |   |       noname03.pas
+|   |   |       noname04.exe
+|   |   |       noname04.pas
+|   |   |       
+|   |   \---uts_alpro1_0706504_Dini Adistiani
+|   |           jawaban_soal_1
+|   |           jawaban_soal_1.exe
+|   |           jawaban_soal_1.pas
+|   |           jawaban_soal_2
+|   |           jawaban_soal_2.exe
+|   |           jawaban_soal_2.pas
+|   |           jawaban_soal_3.exe
+|   |           jawaban_soal_3.pas
+|   |           jawaban_soal_4
+|   |           jawaban_soal_4.exe
+|   |           jawaban_soal_4.pas
+|   |           
+|   +---tugas16
+|   |   |   NO3.BAK
+|   |   |   noname00.exe
+|   |   |   
+|   |   +---0703705
+|   |   |   +---1
+|   |   |   |       PERKALIA.BAK
+|   |   |   |       perkalia.exe
+|   |   |   |       perkalia.pas
+|   |   |   |       
+|   |   |   +---2
+|   |   |   |       NILAI.BAK
+|   |   |   |       nilai.exe
+|   |   |   |       nilai.pas
+|   |   |   |       
+|   |   |   \---3
+|   |   |           BIODATA.BAK
+|   |   |           biodata.exe
+|   |   |           biodata.pas
+|   |   |           
+|   |   +---Ayi Muhammad Iqbal Nasuha_0704691
+|   |   |       noname00.pas
+|   |   |       noname01.pas
+|   |   |       noname03.pas
+|   |   |       noname04.exe
+|   |   |       welcome.pas
+|   |   |       
+|   |   +---tugas1
+|   |   |       Project2.cfg
+|   |   |       Project2.dof
+|   |   |       Project2.dpr
+|   |   |       Project2.exe
+|   |   |       Project2.res
+|   |   |       Project2.~dpr
+|   |   |       Unit1.dcu
+|   |   |       Unit1.ddp
+|   |   |       Unit1.dfm
+|   |   |       Unit1.pas
+|   |   |       Unit1.~ddp
+|   |   |       Unit1.~dfm
+|   |   |       Unit1.~pas
+|   |   |       
+|   |   \---uts alpro 056073(wirawan)
+|   |           no2.exe
+|   |           no2.pas
+|   |           no3.exe
+|   |           no3.pas
+|   |           
+|   +---tugas2
+|   |   |   Rezky Yunita_0700499_B_UTS Alpro.rar
+|   |   |   UTS ALPRO 0700641 Taufik Sulaeman P.rar
+|   |   |   brg.pas
+|   |   |   prima.c
+|   |   |   prima.exe
+|   |   |   prima.o
+|   |   |   
+|   |   +---UTS ALPRO 0700641 Taufik Sulaeman P
+|   |   |   |   soal1.exe
+|   |   |   |   soal1.pas
+|   |   |   |   soal2.exe
+|   |   |   |   soal2.pas
+|   |   |   |   soal3.exe
+|   |   |   |   soal3.pas
+|   |   |   |   
+|   |   |   \---UTS ALPRO 0700641 Taufik Sulaeman P
+|   |   |           soal1.exe
+|   |   |           soal1.pas
+|   |   |           soal2.exe
+|   |   |           soal2.pas
+|   |   |           soal3.exe
+|   |   |           soal3.pas
+|   |   |           
+|   |   \---downlot
+|   |           03 - Query_Lanjutan.pdf
+|   |           10Package.pdf
+|   |           11Inheritance.pdf
+|   |           12Interface.pdf
+|   |           2178171.pdf
+|   |           2429210.pdf
+|   |           2452087.pdf
+|   |           2557691.pdf
+|   |           2Pengenalan Java.pdf
+|   |           381421.pdf
+|   |           3Contoh Program dengan Class.pdf
+|   |           4Dasar Pemrograman Java.pdf
+|   |           5UML Class Diagram.pdf
+|   |           6FlowControl.pdf
+|   |           7Array.pdf
+|   |           7PrinsipDasarOOP.pdf
+|   |           87f8dc2d6b8821872a2e5d4cce00f404.mp3
+|   |           8Overloading_Overriding.pdf
+|   |           9Class Lanjutan.pdf
+|   |           BD2_3_2003_2.pdf
+|   |           HandOut02.pdf
+|   |           HandOut03n04.pdf
+|   |           Introduction to Oracle.pdf
+|   |           Konsep Pemrograman Berbasis Obyek.pdf
+|   |           PHP 5 Power Programming.pdf
+|   |           PRAKDB2BAB10.pdf
+|   |           PRAKDB2BAB11.pdf
+|   |           PRAKDB2BAB12.pdf
+|   |           PRAKDB2BAB13.pdf
+|   |           PRAKDB2BAB14.pdf
+|   |           PRAKDB2BAB2.pdf
+|   |           PRAKDB2BAB3.pdf
+|   |           PRAKDB2BAB4.pdf
+|   |           PRAKDB2BAB5.pdf
+|   |           PRAKDB2BAB8.pdf
+|   |           PRAKDB2BAB9.pdf
+|   |           SQL2.pdf
+|   |           Subquery bab 6.pdf
+|   |           Subquery_bab 7.pdf
+|   |           asdq.txt
+|   |           bab1.pdf
+|   |           login
+|   |           
+|   +---tugas3
+|   |   |   Aris Saepul Rohman 0704447.rar
+|   |   |   UTS ALPRO 0700485 AYU LAILA FEBRIANI.zip
+|   |   |   idhan.zip
+|   |   |   idhan_07.pas
+|   |   |   nilai.exe
+|   |   |   nilai.pas
+|   |   |   noname01.exe
+|   |   |   noname02.pas
+|   |   |   soal3.exe
+|   |   |   soal4.exe
+|   |   |   soalquiz.pdf
+|   |   |   uts alpro.zip
+|   |   |   
+|   |   +---0700350_Yoko_ade_putra
+|   |   |       nilai.pas
+|   |   |       
+|   |   +---0703813 Irfan Triana
+|   |   |       NO_2.BAK
+|   |   |       no1.pas
+|   |   |       no_2.exe
+|   |   |       no_2.pas
+|   |   |       no_3.exe
+|   |   |       no_3.pas
+|   |   |       noname03.exe
+|   |   |       
+|   |   +---Arfita_0700813_alpro
+|   |   |       nilai.pas
+|   |   |       parameter_formal.pas
+|   |   |       persegi.pas
+|   |   |       tanpa_parameter_formal.pas
+|   |   |       
+|   |   +---Aris Saepul Rohman 0704447
+|   |   |   |   soal C.pdf
+|   |   |   |   
+|   |   |   +---no1
+|   |   |   |       no1.exe
+|   |   |   |       no1.pas
+|   |   |   |       
+|   |   |   +---no2
+|   |   |   |       no2.exe
+|   |   |   |       no2.pas
+|   |   |   |       
+|   |   |   +---no3
+|   |   |   |       no3.exe
+|   |   |   |       no3.pas
+|   |   |   |       
+|   |   |   +---no4
+|   |   |   |       NO4.BAK
+|   |   |   |       no4.exe
+|   |   |   |       no4.pas
+|   |   |   |       noname05.exe
+|   |   |   |       
+|   |   |   +---no5
+|   |   |   |       no5.exe
+|   |   |   |       no5.pas
+|   |   |   |       
+|   |   |   \---no6
+|   |   |           no6.exe
+|   |   |           no6.pas
+|   |   |           
+|   |   +---UTS ALPRO 0700485 AYU LAILA FEBRIANI
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---UTS ALPRO 0706708 Tira MUtiara Asri
+|   |   |       SOAL1.BAK
+|   |   |       SOAL2.BAK
+|   |   |       SOAL3.BAK
+|   |   |       SOAL4.BAK
+|   |   |       noname00.exe
+|   |   |       noname01.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---UTS Alpro1(A) on Komputer-01
+|   |   |       target.lnk
+|   |   |       
+|   |   \---uts alpro
+|   |           0700514_.BAK
+|   |           IDHAN_07.BAK
+|   |           
+|   +---tugas4
+|   |   |   24281603.PDF
+|   |   |   24333503.pdf
+|   |   |   24350201.pdf
+|   |   |   24365703.pdf
+|   |   |   24400101.pdf
+|   |   |   24400101_2.pdf
+|   |   |   24442201.pdf
+|   |   |   24512701.pdf
+|   |   |   317080.pdf
+|   |   |   317080.rar
+|   |   |   318147.pdf
+|   |   |   Project1.exe
+|   |   |   SOAL2.BAK
+|   |   |   SOAL2T.BAK
+|   |   |   SOAL3TAR.BAK
+|   |   |   TQ1 ALPRO 0700899 RIKI AMALIANA.zip
+|   |   |   TQ1 ALPRO 0706708 Tira Mutiara Asri.rar
+|   |   |   TQ1 ALPRO 0706708 Tira Mutiara Asri.zip
+|   |   |   TQ1 IK310-Algoritma dan Pemrograman 1 versi 2.pdf
+|   |   |   Unit1.dfm
+|   |   |   Unit1.pas
+|   |   |   noname01.pas
+|   |   |   soal2.exe
+|   |   |   soal2.pas
+|   |   |   soal2t.pas
+|   |   |   soal3tar.exe
+|   |   |   soal3tar.pas
+|   |   |   tpw.cfg
+|   |   |   tpw.dsk
+|   |   |   
+|   |   +----0706651-  nusuki syari'ati fathimah
+|   |   |       AYAMKU.BAK
+|   |   |       GAJIAN.BAK
+|   |   |       JANJI2AN.BAK
+|   |   |       NILAI2AN.BAK
+|   |   |       TUKER2AN.BAK
+|   |   |       ayamku.pas
+|   |   |       gajian.exe
+|   |   |       gajian.pas
+|   |   |       janji2an.pas
+|   |   |       nilai2an.pas
+|   |   |       tuker2an.pas
+|   |   |       
+|   |   +---AING GANTENG on Komputer-13
+|   |   |       UTS.dcu
+|   |   |       UTS.ddp
+|   |   |       UTS.dfm
+|   |   |       UTS.pas
+|   |   |       UTS.~ddp
+|   |   |       UTS.~dfm
+|   |   |       UTS.~pas
+|   |   |       UTSku.cfg
+|   |   |       UTSku.dof
+|   |   |       UTSku.dpr
+|   |   |       UTSku.exe
+|   |   |       UTSku.res
+|   |   |       UTSku.~dpr
+|   |   |       
+|   |   +---Tugas
+|   |   +---UTS_ALPRO_ARFI FAUZI_0700792
+|   |   |       SOAL1.BAK
+|   |   |       SOAL3.BAK
+|   |   |       SOAL4.BAK
+|   |   |       noname00.exe
+|   |   |       noname01.exe
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       soal3.exe
+|   |   |       soal3.pas
+|   |   |       soal4.exe
+|   |   |       soal4.pas
+|   |   |       
+|   |   +---arskom
+|   |   \---nie
+|   |           putty.exe
+|   |           xampp-win32-1.6.6a-installer.exe
+|   |           
+|   +---tugas5
+|   |   |   TP3 IK310-Algoritma dan pemrograman 1.pdf
+|   |   |   TQ1 ALPRO  0704462 WAFDA OKTAFIA.zip
+|   |   |   TQ1 Alpro 0700598 M azhar Fauzi.zip
+|   |   |   TQ1 IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   TQ1 IK310-Algoritma dan Pemrograman 1 versi 2.pdf
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 1.pdf
+|   |   |   UTS  IK310-Algoritma dan Pemrograman 1 versi 2.pdf
+|   |   |   UTS ALPRO 0704471 uliana ps.rar
+|   |   |   
+|   |   +---TQ1 ALPRO  0704462 WAFDA OKTAFIA
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       
+|   |   +---UTS
+|   |   |       UTS.doc
+|   |   |       loading.exe
+|   |   |       
+|   |   +---UTS ALPRO 0700873 Ratih Hadiantini
+|   |   |       SOAL1.BAK
+|   |   |       SOAL2.BAK
+|   |   |       soal1.exe
+|   |   |       soal1.pas
+|   |   |       soal2.exe
+|   |   |       soal2.pas
+|   |   |       
+|   |   +---UTS ALPRO 0704471 uliana ps
+|   |   |       NO2.BAK
+|   |   |       NONAME00.BAK
+|   |   |       NONME001.BAK
+|   |   |       no2.exe
+|   |   |       no2.pas
+|   |   |       noname00.exe
+|   |   |       noname00.pas
+|   |   |       nonme001.pas
+|   |   |       
+|   |   +---UTS Alpro Fanni_0706647
+|   |   |       FANNI.BAK
+|   |   |       FANNI1.BAK
+|   |   |       FANNI2.BAK
+|   |   |       fanni.pas
+|   |   |       fanni1.exe
+|   |   |       fanni1.pas
+|   |   |       fanni2.exe
+|   |   |       fanni2.pas
+|   |   |       
+|   |   +---UTS lely rusdiana(0705178)
+|   |   \---UTS_ALPRO_0700326
+|   |           HIDRA.BAK
+|   |           HIDRA2.BAK
+|   |           hidra.exe
+|   |           hidra.pas
+|   |           hidra2.exe
+|   |           hidra2.pas
+|   |           
+|   +---tugas8
+|   |   |   0706673 - Hamzah Miftah Fauzi.rar
+|   |   |   BRG.BAK
+|   |   |   Project1.cfg
+|   |   |   Project1.dof
+|   |   |   Project1.dpr
+|   |   |   Project1.res
+|   |   |   RIRIN.dfm
+|   |   |   RIRIN.pas
+|   |   |   RIRIN0706594.dfm
+|   |   |   RIRIN0706594.pas
+|   |   |   RIRIN0706594.~dfm
+|   |   |   RIRIN0706594.~pas
+|   |   |   Sams---PostgreSQL.chm
+|   |   |   UTS ALPRO 0704287 Shendy FAizal Siddiq.rar
+|   |   |   brg.exe
+|   |   |   brg.pas
+|   |   |   nama.sql
+|   |   |   noname00.exe
+|   |   |   
+|   |   +---0706673 - Hamzah Miftah Fauzi
+|   |   |       0706673 - Hamzah Miftah Fauzi.rar
+|   |   |       1.BAK
+|   |   |       1.exe
+|   |   |       1.pas
+|   |   |       2.BAK
+|   |   |       2.exe
+|   |   |       2.pas
+|   |   |       3.BAK
+|   |   |       3.exe
+|   |   |       3.pas
+|   |   |       4.BAK
+|   |   |       4.exe
+|   |   |       4.pas
+|   |   |       5.BAK
+|   |   |       5.exe
+|   |   |       5.pas
+|   |   |       6.BAK
+|   |   |       6.exe
+|   |   |       6.pas
+|   |   |       noname00.exe
+|   |   |       
+|   |   +---Riri dwi angraini_0706639
+|   |   |       TGS4.BAK
+|   |   |       tgs1.exe
+|   |   |       tgs1.pas
+|   |   |       tgs2.exe
+|   |   |       tgs2.pas
+|   |   |       tgs3.exe
+|   |   |       tgs3.pas
+|   |   |       tgs4.exe
+|   |   |       tgs4.pas
+|   |   |       
+|   |   +---Ririn 0706594
+|   |   |       anakayam.exe
+|   |   |       anakayam.pas
+|   |   |       ayam.exe
+|   |   |       ayam.pas
+|   |   |       hello.exe
+|   |   |       hello.pas
+|   |   |       rata-rat.exe
+|   |   |       rata-rat.pas
+|   |   |       tampil.exe
+|   |   |       tampil.pas
+|   |   |       
+|   |   +---UTS ALPRO 0704287 Shendy FAizal Siddiq
+|   |   |       jarak.exe
+|   |   |       jarak.pas
+|   |   |       no_1.exe
+|   |   |       no_1.pas
+|   |   |       
+|   |   +---UTS ALPRO Mariam Mudarris_0704168
+|   |   |       biodata.pas
+|   |   |       nilai.pas
+|   |   |       
+|   |   \---wiwin eviany_0706021
+|   |           soal1.pas
+|   |           soal3.pas.pas
+|   |           
+|   \---tugas9
+|       |   brg.exe
+|       |   brg.pas
+|       |   noname00.exe
+|       |   noname01.exe
+|       |   
+|       +---0703882
+|       |       ranger_no2.pas
+|       |       ranger_no3.pas
+|       |       
+|       \---UTS-p-alpro-Maya_Dewi_Mustika_0700110
+|               NO1.BAK
+|               NO2.BAK
+|               NO3.BAK
+|               no1.pas
+|               no2.pas
+|               no3.pas
+|               
++---Sistem Pakar
+|   |   Listing Program.DOC
+|   |   Readme.txt
+|   |   Script Database.DOC
+|   |   
+|   \---Kode Program
+|           Epilepsi.cfg
+|           Epilepsi.dof
+|           Epilepsi.dpr
+|           Epilepsi.res
+|           TA.GDB
+|           UCampuran.dcu
+|           UCampuran.dfm
+|           UCampuran.pas
+|           UDM.dcu
+|           UDM.dfm
+|           UDM.dti
+|           UDM.pas
+|           UMain.dcu
+|           UMain.dfm
+|           UMain.pas
+|           
+\---downloadku
+    |    Patching,and Reverse Engineering - Sams.pdf
+    |   17266974.jpg
+    |   21BubzEl07L._AA130__orig.jpg
+    |   4113-Lh+X0L._SL500_AA240_.jpg
+    |   41KGVvQQkVL._AA240__orig.jpg
+    |   44.jpg
+    |   45.htm
+    |   75817VBDA_w.jpg
+    |   7989.htm
+    |   Absolute-Beginner-Networking.chm
+    |   Addison[1].Wesley.The.Art.of.Computer.Virus.Research.and.Defense.Feb.2005.eBook-LiB.zip
+    |   Advanced_Python_programming.pdf
+    |   Apress_-_Cryptography_in_C_and_C__.chm
+    |   B0006IIKS0.01.LZZZZZZZ.jpg
+    |   Budjana-Konser-Gitarku-hidupku-keka.jpg
+    |   Code.Complete.2nd.Edition.June.2004.rar
+    |   Core Python Programming.pdf
+    |   Crackproof Your Software (2002).pdf
+    |   Decompiling Java.pdf
+    |   Diana_KrallNLove_Scenes_UDTS_AUDIOF_orig.jpg
+    |   Ghost in Klari.3gp
+    |   GiantBlackBookVirus.rar
+    |   Guns_NFA_Roses_C_Greatest_Hits_DTS_orig.jpg
+    |   HL-306540.jpg
+    |   Heap Feng Shui in JavaScript_en_cn.htm
+    |   Jasund's Weblog.htm
+    |   Joe_satriani.jpg
+    |   Joe_satriani3.jpg
+    |   Linux Routing.rar
+    |   Mongrel - Trac.htm
+    |   Network Management.pdf
+    |   OReilly - Learning Python.chm
+    |   OReilly - ProgrammingPython2ndEd.chm
+    |   OReilly - Python Cookbook.chm
+    |   OReilly - Python Programming on Win32.chm
+    |   OReilly - Python Programming on Win32_2.chm
+    |   OReilly - Python Standard Library.chm
+    |   Oreilly.Python.In.A.Nutshell.eBook-LiB.chm
+    |   Pascal.Look.v1.1.WinALL-TBE
+    |   Pound-2.4.2.tgz
+    |   ProgWin-5rd--En.chm
+    |   Programming Server-Side Applications for MS Windows 2000.chm
+    |   Protect.Your.Information.with.Intrusion.Detection-fly.chm
+    |   Sams.Python.Phrasebook.November.2006.chm
+    |   Satriani.JPG
+    |   TLS callback(1).rar
+    |   TLS_CallBack.rar
+    |   Think again! ¯ Blog Archive ¯ Setup of Ruby, Rails, Mongrel and Pound on a VPS.htm
+    |   WindowsInstallationGuide.txt
+    |   Writing Clean Code.rar
+    |   ayatayatcinta.jpg
+    |   ayatayatcintamovie1.jpg
+    |   bkhl306660.jpg
+    |   buku.rar
+    |   c-anp49a.htm
+    |   christmas_songs.jpg
+    |   cms.pdf
+    |   crypt.rar
+    |   cygwin-1.5.10-3.tar
+    |   dbudjana_thumb.jpg
+    |   diana_krall_montreal.jpg
+    |   dianakrall.jpg
+    |   diveintopython.pdf
+    |   downloadku.rar
+    |   dxc__nn485414.jpg
+    |   from_this_moment_on.jpg
+    |   fsupdate.exe
+    |   fsupdate.rar
+    |   gigi_al4.jpg
+    |   google hacker.zip
+    |   greg_howeIascendOfront_orig.jpg
+    |   hbyy2ppt.zip
+    |   home1.jpg
+    |   home13.jpg
+    |   imgres.htm
+    |   imgres1.htm
+    |   imgres2.htm
+    |   imgres45.htm
+    |   imgres456456.htm
+    |   imgres55.htm
+    |   imgres88.htm
+    |   index_html.htm
+    |   joe_satrianirt.jpg
+    |   mongrel-1.0.5-i386-mswin32.gem
+    |   mongrel-1.0.5.gem
+    |   mongrel-1.0.5.tar
+    |   mongrel-1.1.3-i386-mswin32.gem
+    |   mongrel-1.1.3-java.gem
+    |   mongrel-1.1.3.gem
+    |   mongrel-1.1.3.tar
+    |   mongrel-1.1.4-java.gem
+    |   mongrel-1.1.4-x86-mswin32-60.gem
+    |   mongrel-1.1.4.gem
+    |   mongrel-1.1.4.tar
+    |   mydecompyle-20061228.rar
+    |   nusadamai.jpg
+    |   nusadamai_2.htm
+    |   ollypython0.11.rar
+    |   ollypython0.12.rar
+    |   panicunix.chm
+    |   pcap-1.1.win32-py2.4.exe
+    |   python network programming.pdf
+    |   qqsniffer.0.1.rar
+    |   qqsniffer.rar
+    |   qqsniffer.src.rar
+    |   raid5_recovery.pdf
+    |   readline-5.1.tar
+    |   reverse c++.pdf
+    |   ruby-1.8.4.tar
+    |   rubygems-0.8.11.tgz
+    |   rubygems-1.1.1
+    |   rubygems-1.1.1.tar
+    |   satriani1.jpg
+    |   satriani2.jpg
+    |   ucsniffer.rar
+    |   ucsniffer.src.rar
+    |   very_best.jpg
+    |   viewtopic.php.htm
+    |   wangwangexp.rar
+    |   yui_2.5.1.zip
+    |   
+    +---45_files
+    |   |   imgres.htm
+    |   |   modules.htm
+    |   |   
+    |   +---imgres_data
+    |   |       frame_remove.gif
+    |   |       images.jpg
+    |   |       
+    |   \---modules_data
+    |       |   00.htm
+    |       |   44.jpg
+    |       |   631.jpg
+    |       |   88x31_music01.gif
+    |       |   ads.htm
+    |       |   g6logo_transparent.gif
+    |       |   nuke.gif
+    |       |   pixel.gif
+    |       |   pixel.htm
+    |       |   satriani1.jpg
+    |       |   satriani2.jpg
+    |       |   show_ads.js
+    |       |   style.css
+    |       |   x-click-but04.gif
+    |       |   
+    |       \---ads_data
+    |               abg-en-100c-000000.png
+    |               graphics.js
+    |               sma4.js
+    |               
+    +---7989_files
+    |   |   766_Diana_Krall_sheet_music.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---766_Diana_Krall_sheet_music_data
+    |   |       0571524516.jpg
+    |   |       16779495.gif
+    |   |       17266974.gif
+    |   |       17413696.gif
+    |   |       17421024.gif
+    |   |       5269895.gif
+    |   |       5410451.GIF
+    |   |       7789847.gif
+    |   |       7896530.gif
+    |   |       8062028.gif
+    |   |       8289928.gif
+    |   |       AC_RunActiveContent.js
+    |   |       AM91961.jpg
+    |   |       DA.gif
+    |   |       FA.gif
+    |   |       HL-00306539.GIF
+    |   |       HL-00306540.GIF
+    |   |       Loupe2.gif
+    |   |       Musicnotes.gif
+    |   |       SMP.gif
+    |   |       SOFTCOD001.jpg
+    |   |       SpryMenuBar.js
+    |   |       am85176.jpg
+    |   |       am85176_002.jpg
+    |   |       am85176_003.jpg
+    |   |       am90073.jpg
+    |   |       am90073_002.jpg
+    |   |       am90073_003.jpg
+    |   |       am90142.jpg
+    |   |       am92018.jpg
+    |   |       am975304.jpg
+    |   |       am975304_002.jpg
+    |   |       am975304_003.jpg
+    |   |       am976899.jpg
+    |   |       am976899_002.jpg
+    |   |       am978131.jpg
+    |   |       am978131_002.jpg
+    |   |       am978131_003.jpg
+    |   |       am979957.jpg
+    |   |       am979957_002.jpg
+    |   |       amelie-v.jpg
+    |   |       barre.gif
+    |   |       cadeaux3-uk.gif
+    |   |       carousel-part-usa-promo.swf
+    |   |       cd.gif
+    |   |       cdsheet1.gif
+    |   |       close.gif
+    |   |       digital.gif
+    |   |       effects.js
+    |   |       europe.gif
+    |   |       favicon.ico
+    |   |       flag_fr.gif
+    |   |       fond-r2.gif
+    |   |       fond-search.png
+    |   |       hori-gris.gif
+    |   |       horizon-rouge.gif
+    |   |       ico2.gif
+    |   |       inv.gif
+    |   |       keyboard-r.gif
+    |   |       lightbox.css
+    |   |       lightbox.js
+    |   |       loading.gif
+    |   |       logo-FS.gif
+    |   |       logo-vrci.gif
+    |   |       lot003.jpg
+    |   |       mini-Printer.jpg
+    |   |       musicroom.gif
+    |   |       niveau2-UK.gif
+    |   |       niveau3-UK.gif
+    |   |       niveau4-UK.gif
+    |   |       noel-plaisir-uk.gif
+    |   |       note.gif
+    |   |       orcr.gif
+    |   |       other-r.gif
+    |   |       page-favoris-uk.gif
+    |   |       prototype.js
+    |   |       scriptaculous.js
+    |   |       smp_monthpromo_sb.gif
+    |   |       string-r.gif
+    |   |       style.css
+    |   |       topSellers-600x120.gif
+    |   |       topseller.gif
+    |   |       triangle.gif
+    |   |       urchin.js
+    |   |       usa.gif
+    |   |       verti-rouge.gif
+    |   |       wind-r.gif
+    |   |       
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---Jasund's Weblog_files
+    |       43.jpg
+    |       a.htm
+    |       auto_shot.htm
+    |       g.gif
+    |       g_002.gif
+    |       ga.js
+    |       global.css
+    |       loading.gif
+    |       logo_wordpress.gif
+    |       palette.png
+    |       quant.js
+    |       ribbon.png
+    |       snap_preview_anywhere.txt
+    |       style.css
+    |       t.gif
+    |       w.js
+    |       
+    +---Mongrel - Trac_files
+    |       logo.png
+    |       theme.css
+    |       trac.css
+    |       trac.js
+    |       trac_logo_mini.png
+    |       wiki.css
+    |       
+    +---Think again! ¯ Blog Archive ¯ Setup of Ruby, Rails, Mongrel and Pound on a VPS_files
+    |       codesnippet.css
+    |       cyberfolk4.jpg
+    |       icon_smile.gif
+    |       style.css
+    |       urchin.js
+    |       
+    +---google hacker
+    |       Google Hacks.exe
+    |       GoogleHacksSetup1.5.exe
+    |       License.txt
+    |       Read me !!!.txt
+    |       
+    +---imgres1_files
+    |   |   a.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---a_data
+    |   |       10oct1007_pic01.jpg
+    |   |       10oct1007_pic02.jpg
+    |   |       10oct1007_pic03.jpg
+    |   |       10oct1007_pic04.jpg
+    |   |       20meta.jpg
+    |   |       B0006IIKS0.jpg
+    |   |       Metallica-st-anger.jpg
+    |   |       The_Electric_Joe_Satriani-An_Anthology.jpg
+    |   |       dave_mustaine1.jpg
+    |   |       images.jpg
+    |   |       index_17.gif
+    |   |       index_91.gif
+    |   |       index_92.gif
+    |   |       jason%20yellow.jpg
+    |   |       metal-king.jpg
+    |   |       metallica-band.jpg
+    |   |       sabashop-100f.gif
+    |   |       supdate_feb15_pic1.jpg
+    |   |       
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---imgres2_files
+    |   |   arch2007-03-01_2007-03-31.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---arch2007-03-01_2007-03-31_data
+    |   |   |   11.css
+    |   |   |   16.swf
+    |   |   |   49938.htm
+    |   |   |   af_af.jpg
+    |   |   |   arch2007-03-01_2007-03-31.js
+    |   |   |   ava.jpg
+    |   |   |   b4.gif
+    |   |   |   background.jpg
+    |   |   |   battlelore.jpg
+    |   |   |   beautiful_sin.jpg
+    |   |   |   close.gif
+    |   |   |   cruachan.jpg
+    |   |   |   dm_tarot.jpg
+    |   |   |   frames.js
+    |   |   |   genius3.jpg
+    |   |   |   jimi_hendrix.jpg
+    |   |   |   joe_satriani.jpg
+    |   |   |   katatonia.jpg
+    |   |   |   krypteria.jpg
+    |   |   |   layer.htm
+    |   |   |   menu.htm
+    |   |   |   menu2.htm
+    |   |   |   mercury_tide.jpg
+    |   |   |   michael_angelo.jpg
+    |   |   |   opera_ix.jpg
+    |   |   |   ouvir.gif
+    |   |   |   portal.htm
+    |   |   |   portal_002.htm
+    |   |   |   portal_003.htm
+    |   |   |   promote.htm
+    |   |   |   quiet_riot.jpg
+    |   |   |   racer_x.jpg
+    |   |   |   reflexion.jpg
+    |   |   |   resultado.jpg
+    |   |   |   rose-flower-g2.jpg
+    |   |   |   scorpions.jpg
+    |   |   |   spacer.gif
+    |   |   |   steve_vai.jpg
+    |   |   |   tacere.jpg
+    |   |   |   the_awakening.jpg
+    |   |   |   the_dogma.jpg
+    |   |   |   tod.htm
+    |   |   |   van_halen.jpg
+    |   |   |   vb.jpg
+    |   |   |   y_malmsteen.JPG
+    |   |   |   
+    |   |   +---portal_data
+    |   |   |       portal.htm
+    |   |   |       portal_002.htm
+    |   |   |       search.htm
+    |   |   |       
+    |   |   +---portal_data_003
+    |   |   |       portal.htm
+    |   |   |       portal_002.htm
+    |   |   |       search.htm
+    |   |   |       
+    |   |   \---promote_data
+    |   |           layout_19.gif
+    |   |           layout_35.gif
+    |   |           logo.gif
+    |   |           style.css
+    |   |           urchin.js
+    |   |           
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---imgres456456_files
+    |   |   a.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---a_data
+    |   |       505509.jpg
+    |   |       505512.jpg
+    |   |       505514.jpg
+    |   |       505525.jpg
+    |   |       528784.jpg
+    |   |       a.htm
+    |   |       auto_shot.htm
+    |   |       ayatayatcinta.jpg
+    |   |       g.gif
+    |   |       g_002.gif
+    |   |       g_003.gif
+    |   |       ga.js
+    |   |       global.css
+    |   |       icon_smile.gif
+    |   |       loading.gif
+    |   |       logo_10px.png
+    |   |       logo_14px.png
+    |   |       logo_wordpress.gif
+    |   |       palette.png
+    |   |       play_icon.png
+    |   |       quant.js
+    |   |       recent_videos.js
+    |   |       ribbon.png
+    |   |       sidebar1.css
+    |   |       snap_preview_anywhere.txt
+    |   |       style.css
+    |   |       t.gif
+    |   |       trans.htm
+    |   |       w.js
+    |   |       
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---imgres45_files
+    |   |   13694.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---13694_data
+    |   |   |   Budjana-Konser-Gitarku-hidupku-keka.jpg
+    |   |   |   bc_2.js
+    |   |   |   bestofygroups.jpg
+    |   |   |   dcss.css
+    |   |   |   elbow.gif
+    |   |   |   global_200704120000.css
+    |   |   |   help.gif
+    |   |   |   logo-infogigikita.gif
+    |   |   |   ma_grp_1.gif
+    |   |   |   msgidx_200506210000.css
+    |   |   |   msgview_200602130000.css
+    |   |   |   myyhp_2.js
+    |   |   |   norgie_closed_dna.gif
+    |   |   |   notonline.gif
+    |   |   |   sendemail.gif
+    |   |   |   st.htm
+    |   |   |   yg_cookie_1_2.js
+    |   |   |   
+    |   |   \---st_data
+    |   |           69cdaff3224ff847c9d37c016eb17188.gif
+    |   |           
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---imgres55_files
+    |   |   imgres.htm
+    |   |   krallconcert.htm
+    |   |   
+    |   +---imgres_data
+    |   |       frame_remove.gif
+    |   |       images.jpg
+    |   |       
+    |   \---krallconcert_data
+    |       |   Logo_25blk.gif
+    |       |   ads.htm
+    |       |   ads_002.htm
+    |       |   ads_003.htm
+    |       |   ads_004.htm
+    |       |   bluemarble.jpg
+    |       |   christmas_songs.jpg
+    |       |   cm.htm
+    |       |   cm_002.htm
+    |       |   diana_krall_montreal.jpg
+    |       |   from_this_moment_on.jpg
+    |       |   krall.gif
+    |       |   krall3.gif
+    |       |   krall4.jpg
+    |       |   krall41.jpg
+    |       |   krall5.gif
+    |       |   krall7.gif
+    |       |   krall99.jpg
+    |       |   show_ads.js
+    |       |   very_best.jpg
+    |       |   
+    |       +---ads_data
+    |       |       imgad.jpg
+    |       |       
+    |       +---ads_data_002
+    |       |       abg-en-100c-ffffff.png
+    |       |       graphics.js
+    |       |       sma4.js
+    |       |       
+    |       +---cm_data
+    |       |       31cQrp6L6UL.jpg
+    |       |       413845Q2EML.jpg
+    |       |       41VUSNtH1sL.jpg
+    |       |       41vMWcOMBqL.jpg
+    |       |       51cnIYHhIfL.jpg
+    |       |       51z4BY7VqFL.jpg
+    |       |       logo_bs_revised_468x60.gif
+    |       |       
+    |       \---cm_data_002
+    |               us_banner_music_468x60.gif
+    |               
+    +---imgres88_files
+    |   |   3.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---3_data
+    |   |   |   21BubzEl07L.jpg
+    |   |   |   41KGVvQQkVL.jpg
+    |   |   |   Insert_Front.jpg
+    |   |   |   Jordan_Rudess_RhythmofTime.jpg
+    |   |   |   TiltFront.jpg
+    |   |   |   UBQVinMorMelt_F.jpg
+    |   |   |   adbrite-your-ad-here-leaderboard.gif
+    |   |   |   ajs.js
+    |   |   |   ajs_002.js
+    |   |   |   application.js
+    |   |   |   bb.htm
+    |   |   |   bb_002.htm
+    |   |   |   cycounter.gif
+    |   |   |   display_iab_ads.htm
+    |   |   |   display_iab_ads_002.htm
+    |   |   |   donate.jpg
+    |   |   |   effects.js
+    |   |   |   front_end.css
+    |   |   |   greg_howeIascendOfront.jpg
+    |   |   |   guitarsupremeLf.jpg
+    |   |   |   hit.gif
+    |   |   |   howewoot_t.htm
+    |   |   |   hwtnext_t.htm
+    |   |   |   lg.gif
+    |   |   |   lg_002.gif
+    |   |   |   pixel.gif
+    |   |   |   prototype.js
+    |   |   |   quant.js
+    |   |   |   razdelitel_736.gif
+    |   |   |   rss.gif
+    |   |   |   soUv.gif
+    |   |   |   st.htm
+    |   |   |   st_002.htm
+    |   |   |   st_003.htm
+    |   |   |   text_group.htm
+    |   |   |   text_group_002.htm
+    |   |   |   
+    |   |   +---bb_data
+    |   |   |       144021451_23.gif
+    |   |   |       
+    |   |   +---bb_data_002
+    |   |   |       bb.htm
+    |   |   |       
+    |   |   +---st_data
+    |   |   |       593199bf533a57a906f43c9eeb114f23.swf
+    |   |   |       imp.js
+    |   |   |       pixel.gif
+    |   |   |       
+    |   |   +---st_data_002
+    |   |   |       1daaad5bbe5aeed0ee703bd77742527f.swf
+    |   |   |       imp.js
+    |   |   |       
+    |   |   \---st_data_003
+    |   |           b27169d89e5e410859038028e9901efd.swf
+    |   |           imp.js
+    |   |           
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---imgres_files
+    |   |   body_satriani.htm
+    |   |   imgres.htm
+    |   |   
+    |   +---body_satriani_data
+    |   |       Satriani.JPG
+    |   |       UrbanLegendBackground.gif
+    |   |       clearpixel.gif
+    |   |       
+    |   \---imgres_data
+    |           frame_remove.gif
+    |           images.jpg
+    |           
+    +---index_html_files
+    |       logo_gif.gif
+    |       pound.png
+    |       
+    \---viewtopic.php_files
+            bl.gif
+            br.gif
+            button_topic_new.gif
+            button_topic_reply.gif
+            file.jpg
+            file_002.jpg
+            file_003.jpg
+            file_004.jpg
+            icon_biggrin.gif
+            icon_contact_email.gif
+            icon_contact_pm.gif
+            icon_cry.gif
+            icon_lol.gif
+            icon_post_quote.gif
+            icon_post_report.gif
+            icon_post_target.gif
+            icon_user_offline.gif
+            icon_user_profile.gif
+            mabuk-2.gif
+            search.gif
+            spacer.gif
+            stylesheet.css
+            test.jpg
+            tl.gif
+            tr.gif
+            up.gif
+            

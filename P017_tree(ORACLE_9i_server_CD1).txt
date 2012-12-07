@@ -1,0 +1,3610 @@
+Folder PATH listing for volume ORCL9011_1
+Volume serial number is 2ED0-C76F
+G:\
+|   autorun.inf
+|   setup.exe
+|   welcome.html
+|   
++---AccessBridge
+|       accessbridge1_0.zip
+|       
++---acroread
+|       ar405eng.exe
+|       
++---autorun
+|       autorun.exe
+|       autorun.ico
+|       autorun.ini
+|       click.wav
+|       cli_16.bmp
+|       cli_256.bmp
+|       cli_true.bmp
+|       ee_16.bmp
+|       ee_256.bmp
+|       ee_true.bmp
+|       hand.cur
+|       langrc.dll
+|       
++---doc
+|   |   9iNewFeatures.htm
+|   |   a86054.pdf
+|   |   a88769.pdf
+|   |   a89868.pdf
+|   |   a90120.pdf
+|   |   a90161.pdf
+|   |   a90162.pdf
+|   |   a90191.pdf
+|   |   doccd.htm
+|   |   readme.html
+|   |   start_here.htm
+|   |   
+|   +---a88769
+|   |   |   addcarri.gif
+|   |   |   add_db_t.gif
+|   |   |   appa.htm
+|   |   |   appb.htm
+|   |   |   appc.htm
+|   |   |   appd.htm
+|   |   |   appe.htm
+|   |   |   appf.htm
+|   |   |   appg.htm
+|   |   |   cfgoms.gif
+|   |   |   ch1.htm
+|   |   |   ch2.htm
+|   |   |   ch3.htm
+|   |   |   ch4.htm
+|   |   |   ch5.htm
+|   |   |   ch6.htm
+|   |   |   changesi.gif
+|   |   |   console.gif
+|   |   |   dblocati.gif
+|   |   |   dbrep.gif
+|   |   |   editorcr.gif
+|   |   |   first_ti.gif
+|   |   |   index.htm
+|   |   |   login.gif
+|   |   |   login_st.gif
+|   |   |   mg_regio.gif
+|   |   |   oemrep.gif
+|   |   |   preface.htm
+|   |   |   prompt.gif
+|   |   |   rcf.htm
+|   |   |   rep0.gif
+|   |   |   rep1.gif
+|   |   |   rep3.gif
+|   |   |   rep4.gif
+|   |   |   rep5.gif
+|   |   |   rep6.gif
+|   |   |   replogin.gif
+|   |   |   repoptio.gif
+|   |   |   second_t.gif
+|   |   |   standalo.gif
+|   |   |   sumtypic.gif
+|   |   |   teams.gif
+|   |   |   title.htm
+|   |   |   toc.htm
+|   |   |   two_tier.gif
+|   |   |   website.gif
+|   |   |   
+|   |   +---graphics
+|   |   |       bookbig.gif
+|   |   |       bookicon.gif
+|   |   |       contbig.gif
+|   |   |       conticon.gif
+|   |   |       ie.gif
+|   |   |       indxicon.gif
+|   |   |       larrow.gif
+|   |   |       mainpict.gif
+|   |   |       ns.gif
+|   |   |       oracle.gif
+|   |   |       prodbig.gif
+|   |   |       prodicon.gif
+|   |   |       rarrow.gif
+|   |   |       title.gif
+|   |   |       uarrow.gif
+|   |   |       
+|   |   \---img_text
+|   |           addcarri.htm
+|   |           add_db_t.htm
+|   |           cfgoms.htm
+|   |           changesi.htm
+|   |           console.htm
+|   |           dblocati.htm
+|   |           dbrep.htm
+|   |           editorcr.htm
+|   |           first_ti.htm
+|   |           login.htm
+|   |           login_st.htm
+|   |           mg_regio.htm
+|   |           oemrep.htm
+|   |           prompt.htm
+|   |           rep0.htm
+|   |           rep1.htm
+|   |           rep3.htm
+|   |           rep4.htm
+|   |           rep5.htm
+|   |           rep6.htm
+|   |           replogin.htm
+|   |           repoptio.htm
+|   |           second_t.htm
+|   |           standalo.htm
+|   |           sumtypic.htm
+|   |           teams.htm
+|   |           two_tier.htm
+|   |           website.htm
+|   |           
+|   +---a89868
+|   |   |   allinitp.gif
+|   |   |   allparam.gif
+|   |   |   apa.htm
+|   |   |   appxsrvm.htm
+|   |   |   cfgdsk.htm
+|   |   |   createsu.jpg
+|   |   |   dbca7.gif
+|   |   |   dbcacr12.gif
+|   |   |   dbcacr20.gif
+|   |   |   dbcacr21.gif
+|   |   |   dbcacr25.gif
+|   |   |   dbcacr26.gif
+|   |   |   dbcacr29.gif
+|   |   |   dbcacr30.gif
+|   |   |   dbcacr31.gif
+|   |   |   dbcacre3.gif
+|   |   |   dbcacre5.gif
+|   |   |   dbcacre7.gif
+|   |   |   dbcacre8.gif
+|   |   |   dbcacrea.htm
+|   |   |   dbca_cra.jpg
+|   |   |   dbca_crb.jpg
+|   |   |   dbca_crc.jpg
+|   |   |   dbca_cre.jpg
+|   |   |   dbca_del.jpg
+|   |   |   dbca_inb.jpg
+|   |   |   dbca_inc.jpg
+|   |   |   dbca_ins.jpg
+|   |   |   dbca_nod.jpg
+|   |   |   dbca_opa.jpg
+|   |   |   dbca_opb.jpg
+|   |   |   dbca_ope.jpg
+|   |   |   dbconct.gif
+|   |   |   dbidenti.gif
+|   |   |   dboption.gif
+|   |   |   dbstor2.gif
+|   |   |   dbtempla.gif
+|   |   |   ex.pl
+|   |   |   fileloc2.gif
+|   |   |   fileloca.gif
+|   |   |   fileloca.jpg
+|   |   |   glos.htm
+|   |   |   haconfig.htm
+|   |   |   index.htm
+|   |   |   initparm.gif
+|   |   |   intro.htm
+|   |   |   mancrea.htm
+|   |   |   migrate.htm
+|   |   |   nodesele.gif
+|   |   |   oeminst.htm
+|   |   |   operatio.gif
+|   |   |   oui.htm
+|   |   |   params.htm
+|   |   |   part1.htm
+|   |   |   part2.htm
+|   |   |   part3.htm
+|   |   |   part4.htm
+|   |   |   part5.htm
+|   |   |   perfdb.gif
+|   |   |   perfdblo.gif
+|   |   |   perinstl.gif
+|   |   |   preface.htm
+|   |   |   pscfg001.gif
+|   |   |   pss81008.gif
+|   |   |   pss81010.gif
+|   |   |   pss81011.gif
+|   |   |   racinlof.htm
+|   |   |   racinlot.htm
+|   |   |   rcf.htm
+|   |   |   services.gif
+|   |   |   storage.gif
+|   |   |   title.htm
+|   |   |   toc.htm
+|   |   |   undrstnd.htm
+|   |   |   welcome.gif
+|   |   |   whatsnew.htm
+|   |   |   
+|   |   \---img_text
+|   |           add5.htm
+|   |           add6.htm
+|   |           allparam.htm
+|   |           createsu.htm
+|   |           dbcacr12.htm
+|   |           dbcacr5.htm
+|   |           dbcacre5.gif
+|   |           dbcacre5.htm
+|   |           dbcacre7.htm
+|   |           dbcacre8.htm
+|   |           dbca_del.htm
+|   |           dbca_ina.htm
+|   |           dbca_inb.htm
+|   |           dbca_inc.htm
+|   |           dbca_ins.htm
+|   |           dbca_nod.htm
+|   |           dbconct.htm
+|   |           dbidenti.htm
+|   |           dboption.htm
+|   |           dbstor2.htm
+|   |           dbtempla.htm
+|   |           delete4.htm
+|   |           delete5.htm
+|   |           emstartd.htm
+|   |           eventman.htm
+|   |           fileloc2.htm
+|   |           fileloca.htm
+|   |           initparm.htm
+|   |           instanca.gif
+|   |           instanca.htm
+|   |           instance.htm
+|   |           job1.htm
+|   |           job4.htm
+|   |           oemadmi2.htm
+|   |           oemadmi3.htm
+|   |           oemadmi4.htm
+|   |           oemadmi5.htm
+|   |           oemadmia.htm
+|   |           operatio.htm
+|   |           page1.htm
+|   |           perfdb.htm
+|   |           perfdblo.htm
+|   |           perinstl.htm
+|   |           pscfg001.htm
+|   |           pss81001.htm
+|   |           pss81002.htm
+|   |           pss81008.htm
+|   |           pss81010.htm
+|   |           pss81011.htm
+|   |           pss81107.htm
+|   |           racad001.htm
+|   |           racad002.htm
+|   |           racad003.htm
+|   |           racad004.htm
+|   |           racad005.htm
+|   |           racad006.htm
+|   |           racad010.htm
+|   |           racad011.htm
+|   |           racad012.htm
+|   |           racad013.htm
+|   |           racad014.htm
+|   |           racad015.htm
+|   |           rmouse.htm
+|   |           services.htm
+|   |           sps81036.htm
+|   |           sps81092.htm
+|   |           sps81102.htm
+|   |           sps81107.htm
+|   |           startdet.htm
+|   |           statude.htm
+|   |           status.htm
+|   |           statusde.htm
+|   |           stopdeta.htm
+|   |           stopdetb.htm
+|   |           storage.htm
+|   |           welcome.htm
+|   |           
+|   +---a90120
+|   |   |   append_a.htm
+|   |   |   append_b.htm
+|   |   |   ch1_ovea.gif
+|   |   |   ch1_over.htm
+|   |   |   ch2_feat.htm
+|   |   |   ch3_doc.htm
+|   |   |   ch4_dep.htm
+|   |   |   index.htm
+|   |   |   preface.htm
+|   |   |   rcf.htm
+|   |   |   title.htm
+|   |   |   toc.htm
+|   |   |   
+|   |   \---img_text
+|   |           ch1_ovea.htm
+|   |           
+|   +---a90161
+|   |       toc.htm
+|   |       
+|   +---a90162
+|   |   |   advance.htm
+|   |   |   apb.htm
+|   |   |   apc.htm
+|   |   |   componen.htm
+|   |   |   confmeth.htm
+|   |   |   glossary.htm
+|   |   |   index.htm
+|   |   |   install.htm
+|   |   |   intro.htm
+|   |   |   legato.htm
+|   |   |   ntdisk.gif
+|   |   |   postcfg.htm
+|   |   |   preface.htm
+|   |   |   preorac.htm
+|   |   |   rcf.htm
+|   |   |   reqs.htm
+|   |   |   startrdb.htm
+|   |   |   tgs.htm
+|   |   |   title.htm
+|   |   |   toc.htm
+|   |   |   whatsnew.htm
+|   |   |   win2k.gif
+|   |   |   
+|   |   +---img_text
+|   |   |       ntdisk.htm
+|   |   |       win2k.htm
+|   |   |       
+|   |   \---support
+|   |       +---gifs
+|   |       |       bookbig.gif
+|   |       |       bookicon.gif
+|   |       |       contbig.gif
+|   |       |       conticon.gif
+|   |       |       feedback.gif
+|   |       |       ie.gif_rem
+|   |       |       indxicon.gif
+|   |       |       larrow.gif
+|   |       |       mainpict.gif_rem
+|   |       |       mix.gif
+|   |       |       ns.gif_rem
+|   |       |       oracle.gif
+|   |       |       prodbig.gif
+|   |       |       prodicon.gif
+|   |       |       rarrow.gif
+|   |       |       title.gif_rem
+|   |       |       uarrow.gif
+|   |       |       
+|   |       \---html
+|   |               cpyr.htm
+|   |               feedback.htm
+|   |               noexist.htm
+|   |               
+|   +---a90191
+|   |   |   index.htm
+|   |   |   mig7app.htm
+|   |   |   mig81001.gif
+|   |   |   mig81005.gif
+|   |   |   mig81006.gif
+|   |   |   mig81007.gif
+|   |   |   mig81008.gif
+|   |   |   mig81009.gif
+|   |   |   mig81010.gif
+|   |   |   mig81011.gif
+|   |   |   mig81012.gif
+|   |   |   mig81013.gif
+|   |   |   mig81020.gif
+|   |   |   mig81021.gif
+|   |   |   mig81022.gif
+|   |   |   mig81023.gif
+|   |   |   mig81024.gif
+|   |   |   mig81025.gif
+|   |   |   migaftrm.htm
+|   |   |   migbyast.htm
+|   |   |   migbymig.htm
+|   |   |   migcntfl.htm
+|   |   |   migcompa.htm
+|   |   |   migdata.htm
+|   |   |   migdowng.htm
+|   |   |   migdv7.htm
+|   |   |   migeximp.htm
+|   |   |   miginito.htm
+|   |   |   migintro.htm
+|   |   |   migmumsg.htm
+|   |   |   mignet.htm
+|   |   |   migovrvw.htm
+|   |   |   migprep.htm
+|   |   |   migrep.htm
+|   |   |   migrmi81.htm
+|   |   |   migrowid.htm
+|   |   |   migsmtos.htm
+|   |   |   migsqlrw.htm
+|   |   |   migupgra.htm
+|   |   |   odmaint.gif
+|   |   |   preface.htm
+|   |   |   rcf.htm
+|   |   |   sad81002.gif
+|   |   |   title.htm
+|   |   |   toc.htm
+|   |   |   
+|   |   \---img_text
+|   |           mig81001.htm
+|   |           mig81005.htm
+|   |           mig81006.htm
+|   |           mig81007.htm
+|   |           mig81008.htm
+|   |           mig81009.htm
+|   |           mig81010.htm
+|   |           mig81011.htm
+|   |           mig81012.htm
+|   |           mig81013.htm
+|   |           mig81020.htm
+|   |           mig81021.htm
+|   |           mig81022.htm
+|   |           mig81023.htm
+|   |           mig81024.htm
+|   |           mig81025.htm
+|   |           odmaint.htm
+|   |           sad81002.htm
+|   |           
+|   +---images
+|   |       9i_Internet_Logo.gif
+|   |       9i_server.gif
+|   |       button_home.gif
+|   |       button_support.gif
+|   |       documentation.gif
+|   |       Img00002.gif
+|   |       oracle_logo.gif
+|   |       productreadmes.gif
+|   |       quickinstall.gif
+|   |       releasenotes.gif
+|   |       whatsnew.gif
+|   |       
+|   +---quickins
+|   |   |   dbinstall.htm
+|   |   |   install_10_s.htm
+|   |   |   install_06_s.htm
+|   |   |   install_05_s.htm
+|   |   |   install_08_s.htm
+|   |   |   install_07_s.htm
+|   |   |   install_13_s.htm
+|   |   |   install_12_s.htm
+|   |   |   install_11_s.htm
+|   |   |   install_14_s.htm
+|   |   |   install_09_s.htm
+|   |   |   install_01_s.htm
+|   |   |   install_02_s.htm
+|   |   |   install_03_s.htm
+|   |   |   install_04_s.htm
+|   |   |   
+|   |   \---images
+|   |           bullet2.gif
+|   |           gradient.gif
+|   |           install_12.gif
+|   |           install_11_s.gif
+|   |           install_14_s.gif
+|   |           install_10_s.gif
+|   |           install_13_s.gif
+|   |           install_09_s.gif
+|   |           install_07_s.gif
+|   |           install_06_s.gif
+|   |           install_05_s.gif
+|   |           install_08_s.gif
+|   |           install_01_s.gif
+|   |           install_02_s.gif
+|   |           install_03_s.gif
+|   |           install_04_s.gif
+|   |           
+|   +---readmes
+|   |       README_rdbms.htm
+|   |       README_sqlplus.txt
+|   |       README_syndication.txt
+|   |       README_usearch.html
+|   |       README_apache.htm
+|   |       README_aso.txt
+|   |       README_oemagent.wri
+|   |       README_EM.htm
+|   |       README_ds.txt
+|   |       README_OID.htm
+|   |       README_javavm.txt
+|   |       README_OracleNet.htm
+|   |       README_jdbc.txt
+|   |       README_proc.txt
+|   |       README_ordim.txt
+|   |       README_jpub.txt
+|   |       README_sqlj.txt
+|   |       README_spatial.txt
+|   |       
+|   \---support
+|       +---gifs
+|       |       bookbig.gif
+|       |       bookicon.gif
+|       |       contbig.gif
+|       |       conticon.gif
+|       |       feedback.gif
+|       |       ie.gif_rem
+|       |       indxicon.gif
+|       |       larrow.gif
+|       |       mainpict.gif_rem
+|       |       mix.gif
+|       |       ns.gif_rem
+|       |       oracle.gif
+|       |       prodbig.gif
+|       |       prodicon.gif
+|       |       rarrow.gif
+|       |       title.gif_rem
+|       |       uarrow.gif
+|       |       
+|       \---html
+|               cpyr.htm
+|               feedback.htm
+|               noexist.htm
+|               
++---install
+|   |   oraparam.ini
+|   |   
+|   +---images
+|   |       o9i_1.gif
+|   |       o9i_2.gif
+|   |       o9i_3.gif
+|   |       o9i_4.gif
+|   |       o9i_5.gif
+|   |       o9i_6.gif
+|   |       o9i_7.gif
+|   |       o9i_8.gif
+|   |       
+|   \---win32
+|           setup.exe
+|           
++---lsm
+|       lsm57_nt.exe
+|       
++---oidupgrade
+|       backup_oid.sh
+|       README.TXT
+|       
++---preinstall_rac
+|   |   lsnodes.exe
+|   |   
+|   +---clustercheck
+|   |       clustercheck.exe
+|   |       ocvfile.exe
+|   |       
+|   +---clustersetup
+|   |   |   clustersetup.dll
+|   |   |   clustersetup.exe
+|   |   |   clusterpreinstall.jar
+|   |   |   SRVM.dll
+|   |   |   srvm.jar
+|   |   |   
+|   |   +---doc
+|   |   |   \---help
+|   |   |           ClusterSetupRegistry_Entries.htm
+|   |   |           ClusterSetupPublic_Names.htm
+|   |   |           ClusterSetupNetwork_Selection_VIA.htm
+|   |   |           ClusterSetupOSD_Log_Files.htm
+|   |   |           ClusterSetupuntitled.htm
+|   |   |           ClusterSetupNetwork_Configuration_Public_Net.htm
+|   |   |           ClusterSetupServices.htm
+|   |   |           ClusterSetupNode_Addition.htm
+|   |   |           ClusterSetupNetwork_Selection.htm
+|   |   |           ClusterSetupVIA_Selection.htm
+|   |   |           ClusterSetupVIA_Configuration.htm
+|   |   |           ClusterSetupVerifying_Admin_Privileges.htm
+|   |   |           ClusterSetupTerminal_Services_Client.htm
+|   |   |           ClusterSetupObject_Link_Manager.htm
+|   |   |           ClusterSetupVIA_Detection.htm
+|   |   |           ClusterSetupNetwork_Configuration_Private_Ne.htm
+|   |   |           ClusterSetupWelcome.htm
+|   |   |           ClusterSetupOSD_Install_Location.htm
+|   |   |           ClusterSetup.hhc
+|   |   |           ClusterSetup.hhk
+|   |   |           CLUSTERSETUP.hs
+|   |   |           ClusterSetupCluster_Operations.htm
+|   |   |           ClusterSetup.idx
+|   |   |           CLUSTERSETUP.map
+|   |   |           ClusterSetup.oht
+|   |   |           ClusterSetup.toc
+|   |   |           ClusterSetup.tok
+|   |   |           ClusterSetupDeleting_Oracle_OSDs.htm
+|   |   |           ClusterSetupDisk_Configuration.htm
+|   |   |           ClusterSetupInstall_Location_New_Node.htm
+|   |   |           smphelp.css
+|   |   |           
+|   |   \---images
+|   |           check.gif
+|   |           checkdone.gif
+|   |           down.gif
+|   |           setup_private.gif
+|   |           setup_via_question.gif
+|   |           setup_public.gif
+|   |           setup_via_nic_question.gif
+|   |           setup_network_question.gif
+|   |           setup_add.gif
+|   |           setup_disk.gif
+|   |           setup_file.gif
+|   |           setup_main.gif
+|   |           size.gif
+|   |           up.gif
+|   |           yes.gif
+|   |           
+|   +---olm
+|   |       crlogdr.exe
+|   |       DeleteDisk.exe
+|   |       ExportSYMLinks.exe
+|   |       GUIOracleOBJManager.exe
+|   |       ImportSYMLinks.exe
+|   |       LetterDelete.exe
+|   |       LogPartFormat.exe
+|   |       oobjlib.dll
+|   |       OracleOBJManager.exe
+|   |       OracleOBJService.exe
+|   |       readme.txt
+|   |       sample.tbl
+|   |       
+|   +---osd
+|   |   |   CM.dll
+|   |   |   CMSrvr.exe
+|   |   |   ipc_tcp.dll
+|   |   |   ipc_via.dll
+|   |   |   OraFencedrv.sys
+|   |   |   start.dll
+|   |   |   
+|   |   \---mscs
+|   |           mscs_readme.txt
+|   |           ORACAvail.dll
+|   |           ORACAvailEx.dll
+|   |           
+|   \---preinst
+|           preinstsrv.exe
+|           
++---Response
+|       clientadmin.rsp
+|       clientcustom.rsp
+|       clientruntime.rsp
+|       custom.rsp
+|       dbca.rsp
+|       emca.rsp
+|       enterprise.rsp
+|       netca.rsp
+|       oid.rsp
+|       omicustom.rsp
+|       oms.rsp
+|       personal.rsp
+|       standard.rsp
+|       
++---stage
+|   |   disk.label
+|   |   install1.jar
+|   |   install2.jar
+|   |   install3.jar
+|   |   install4.jar
+|   |   products.jar
+|   |   
+|   +---Actions
+|   |   +---fileActions
+|   |   |   +---2.0.0.9.0
+|   |   |   |   \---1
+|   |   |   |           fileActionLib.jar
+|   |   |   |           
+|   |   |   \---2.0.1.7.0
+|   |   |       \---1
+|   |   |               fileActionLib.jar
+|   |   |               
+|   |   +---generalActions
+|   |   |   \---2.0.1.7.0
+|   |   |       \---1
+|   |   |               generalActions.jar
+|   |   |               
+|   |   +---jarActions
+|   |   |   \---2.0.1.4.0
+|   |   |       \---1
+|   |   |               jarActionLib.jar
+|   |   |               
+|   |   +---ntServicesActions
+|   |   |   \---2.0.1.7.0
+|   |   |       \---1
+|   |   |               ntServicesActions.jar
+|   |   |               
+|   |   +---ntw32FoldersActions
+|   |   |   \---2.0.1.7.0
+|   |   |       \---1
+|   |   |               WindowsFolders.jar
+|   |   |               
+|   |   +---OEMRegistry
+|   |   |   \---1.5.6
+|   |   |       \---1
+|   |   |               oemRegistryActions.jar
+|   |   |               
+|   |   +---SpawnActions
+|   |   |   \---2.0.1.4.0
+|   |   |       \---1
+|   |   |               spawnActions.jar
+|   |   |               
+|   |   +---unixActions
+|   |   |   \---2.0.1.4.0
+|   |   |       \---1
+|   |   |               unixActions.jar
+|   |   |               
+|   |   +---w32OcxRegActions
+|   |   |   \---2.0.1.4.0
+|   |   |       \---1
+|   |   |               w32OcxLib.jar
+|   |   |               
+|   |   \---w32RegActions
+|   |       \---2.0.1.4.0
+|   |           \---1
+|   |                   w32RegActionLib.jar
+|   |                   
+|   +---Components
+|   |   +---lbac
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   filegroup1.0.0.jar
+|   |   |                   
+|   |   +---oracle.olap.olapi.client
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   samples.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.sqlplus
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   mesg.0.2.jar
+|   |   |                   
+|   |   +---oracle.workflow.client
+|   |   |   \---2.6.1.5.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.sqlanalyze
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.0.jar
+|   |   |                   
+|   |   +---oracle.cartridges.ordsmv
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   script.0.0.jar
+|   |   |                   
+|   |   +---oracle.networking.netmgr
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   class.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   help.0.2.jar
+|   |   |                   icon.0.0.jar
+|   |   |                   prop.0.0.jar
+|   |   |                   res.0.0.jar
+|   |   |                   
+|   |   +---oracle.rsf.net_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   build.0.0.jar
+|   |   |               |   lib.0.4.jar
+|   |   |               |   lib.0.5.jar
+|   |   |               |   lib.0.6.jar
+|   |   |               |   netlib.0.5.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---network
+|   |   |                       \---doc
+|   |   |                               README_OracleNet.htm
+|   |   |                               
+|   |   +---oracle.rdbms.sqlldr
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.hs_olesql
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.wf.client
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   NT_FILES.0.0.jar
+|   |   |                   UNIX_FILES.0.0.jar
+|   |   |                   VIF.0.0.jar
+|   |   |                   
+|   |   +---oracle.oid
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   +---oracle.ois
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.p2k
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.tg
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.assistants.acf
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   class.0.0.jar
+|   |   |                   class.0.1.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.mmc.admin
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.advrep
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod.agent_ext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.options.intermedia.annotator
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   install.0.0.jar
+|   |   |                   install.0.2.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   media_data.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.ano
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.apache
+|   |   |   \---1.3.12.0.3a
+|   |   |       \---1
+|   |   +---oracle.sysman.events.apps
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.olap.aps
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   db.0.1.jar
+|   |   |                   db.0.2.jar
+|   |   |                   dll.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   exec.0.2.jar
+|   |   |                   jbtask.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   oracle.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.aqapi
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   conf.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod.oemagent.base_oemagent
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   agent_sqlnet.0.2.jar
+|   |   |                   agent.0.0.jar
+|   |   |                   agent.0.6.jar
+|   |   |                   agent_host.0.1.jar
+|   |   |                   agent_host.0.2.jar
+|   |   |                   agent_otrace.0.1.jar
+|   |   |                   agent_rdbms.0.1.jar
+|   |   |                   agent_sqlnet.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   config.0.0.jar
+|   |   |                   doc.0.1.jar
+|   |   |                   doc.0.2.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   mesg.0.2.jar
+|   |   |                   ntbin.0.0.jar
+|   |   |                   oapps.0.0.jar
+|   |   |                   
+|   |   +---oracle.bc4j
+|   |   |   \---5.0.0.417.1
+|   |   |       \---1
+|   |   +---oracle.sysman.bridge
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Bin.0.0.jar
+|   |   |                   
+|   |   +---oracle.workflow.builder
+|   |   |   \---2.6.1.5.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   all_ja.0.0.jar
+|   |   |                   all_us.0.0.jar
+|   |   |                   bin.0.0.jar
+|   |   |                   icon.0.0.jar
+|   |   |                   required_us.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.parser.c
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   
+|   |   +---oracle.bali.cabo
+|   |   |   \---1.0.7.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.capacity
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.sysman.pack.change
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   images.0.0.jar
+|   |   |                   java.0.0.jar
+|   |   |                   
+|   |   +---oracle.client
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rsf.clntsh_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.networking.cman
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.sysman.cmcommon
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.common_schema
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   hr.0.0.jar
+|   |   |                   
+|   |   +---oracle.cartridges.context
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.java.j2ee.core
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   jlib.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.classgen.cplus
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.cpta
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.csmig
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.olap.cwmlite
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   cwmlite.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.dbappext
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.assistants.dbca
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.assistants.dbma
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.dbscripts
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   sbs.0.1.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   sql.0.1.jar
+|   |   |                   
+|   |   +---oracle.bali.dbui
+|   |   |   \---2.1.2.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.dbv
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.ano.dce
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.demo
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   demo.0.4.jar
+|   |   |                   demo.0.5.jar
+|   |   |                   
+|   |   +---oracle.p2k.devtools
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.events.diag
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.sysman.dpcommon
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bug1752360.0.0.jar
+|   |   |                   java.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.ds
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.events.ecomm
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.apache.ejb
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   sbs.0.1.jar
+|   |   |                   
+|   |   +---oracle.sysman.ela
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   help.0.0.jar
+|   |   |                   ico.0.0.jar
+|   |   |                   scripts.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.embase
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   baseclasses.0.0.jar
+|   |   |                   toolsclasses.0.0.jar
+|   |   |                   
+|   |   +---oracle.emcltprod
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.networking.netmgr.emint
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.events
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.bali.ewt
+|   |   |   \---3.3.18.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.rdbms.expimp
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod.agent_ext.frms_agentext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.gateways
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.bali.help
+|   |   |   \---3.2.9.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.events.host
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.hs_common
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   nt.0.0.jar
+|   |   |                   
+|   |   +---oracle.p2k.ifa
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   class.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   res.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.intermedia.imclient
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.options.intermedia.imclient.imlibdemo
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo_doc.0.0.jar
+|   |   |                   demo_doc.0.1.jar
+|   |   |                   imgdemo_doc.0.0.jar
+|   |   |                   imgdemo_script.0.0.jar
+|   |   |                   ordaud_demo.0.0.jar
+|   |   |                   ordimg_demo.0.0.jar
+|   |   |                   ordimg_demo.0.1.jar
+|   |   |                   ordimg_demo.0.2.jar
+|   |   |                   ordim_lib.0.0.jar
+|   |   |                   ordim_lib.0.1.jar
+|   |   |                   ordvid_demo.0.0.jar
+|   |   |                   ordvid_demo.0.1.jar
+|   |   |                   
+|   |   +---oracle.options.intermedia.imserver
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.indextune
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   
+|   |   +---oracle.infrastructure
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.dbapp.instance
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.apache.isqlplus
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   admin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.isearch.is_common
+|   |   |   \---1.0.3.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   crawler.0.0.jar
+|   |   |                   htm.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.javavm
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.olap.jbtask
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   jbtask.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.apache.jdk
+|   |   |   \---1.2.2.0.7a
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               \---Expanded
+|   |   |                   +---buildInfo
+|   |   |                   |       build.info
+|   |   |                   |       
+|   |   |                   \---jdk122_NT
+|   |   |                       |   CHANGES
+|   |   |                       |   COPYRIGHT
+|   |   |                       |   LICENSE
+|   |   |                       |   README
+|   |   |                       |   readme.html
+|   |   |                       |   Uninst.isu
+|   |   |                       |   
+|   |   |                       +---bin
+|   |   |                       |       appletviewer.exe
+|   |   |                       |       extcheck.exe
+|   |   |                       |       jar.exe
+|   |   |                       |       jarsigner.exe
+|   |   |                       |       java.exe
+|   |   |                       |       javac.exe
+|   |   |                       |       javadoc.exe
+|   |   |                       |       javah.exe
+|   |   |                       |       javap.exe
+|   |   |                       |       javaw.exe
+|   |   |                       |       jdb.exe
+|   |   |                       |       keytool.exe
+|   |   |                       |       native2ascii.exe
+|   |   |                       |       oldjava.exe
+|   |   |                       |       oldjavaw.exe
+|   |   |                       |       policytool.exe
+|   |   |                       |       rmic.exe
+|   |   |                       |       rmid.exe
+|   |   |                       |       rmiregistry.exe
+|   |   |                       |       serialver.exe
+|   |   |                       |       tnameserv.exe
+|   |   |                       |       
+|   |   |                       +---include
+|   |   |                       |   |   jni.h
+|   |   |                       |   |   jvmdi.h
+|   |   |                       |   |   jvmpi.h
+|   |   |                       |   |   
+|   |   |                       |   \---win32
+|   |   |                       |           jni_md.h
+|   |   |                       |           
+|   |   |                       +---include-old
+|   |   |                       |   |   alloc_cache.h
+|   |   |                       |   |   bag.h
+|   |   |                       |   |   bool.h
+|   |   |                       |   |   breakpoints.h
+|   |   |                       |   |   byteorder.h
+|   |   |                       |   |   common_exceptions.h
+|   |   |                       |   |   debug.h
+|   |   |                       |   |   dll.h
+|   |   |                       |   |   exceptions.h
+|   |   |                       |   |   gc.h
+|   |   |                       |   |   hpi.h
+|   |   |                       |   |   interpreter.h
+|   |   |                       |   |   javaString.h
+|   |   |                       |   |   java_lang_ClassLoader.h
+|   |   |                       |   |   java_lang_String.h
+|   |   |                       |   |   java_lang_Thread.h
+|   |   |                       |   |   java_lang_ThreadGroup.h
+|   |   |                       |   |   jcov.h
+|   |   |                       |   |   jit.h
+|   |   |                       |   |   jmath.h
+|   |   |                       |   |   jvm.h
+|   |   |                       |   |   jvmdi.h
+|   |   |                       |   |   jvmpi.h
+|   |   |                       |   |   log.h
+|   |   |                       |   |   monitor.h
+|   |   |                       |   |   monitor_cache.h
+|   |   |                       |   |   native.h
+|   |   |                       |   |   oldnmi.h
+|   |   |                       |   |   oobj.h
+|   |   |                       |   |   opcodes.h
+|   |   |                       |   |   path.h
+|   |   |                       |   |   reflect.h
+|   |   |                       |   |   signature.h
+|   |   |                       |   |   StubPreamble.h
+|   |   |                       |   |   sys_api.h
+|   |   |                       |   |   threads.h
+|   |   |                       |   |   tree.h
+|   |   |                       |   |   typecodes.h
+|   |   |                       |   |   typedefs.h
+|   |   |                       |   |   utf.h
+|   |   |                       |   |   util.h
+|   |   |                       |   |   vmprofiler.h
+|   |   |                       |   |   wrap.h
+|   |   |                       |   |   
+|   |   |                       |   \---win32
+|   |   |                       |           byteorder_md.h
+|   |   |                       |           gc_md.h
+|   |   |                       |           hpi_md.h
+|   |   |                       |           io_md.h
+|   |   |                       |           jmath_md.h
+|   |   |                       |           jvm_md.h
+|   |   |                       |           miscdefs_md.h
+|   |   |                       |           path_md.h
+|   |   |                       |           sysmacros_md.h
+|   |   |                       |           timeval_md.h
+|   |   |                       |           typedefs_md.h
+|   |   |                       |           
+|   |   |                       +---jre
+|   |   |                       |   +---bin
+|   |   |                       |   |   |   ActPanel.dll
+|   |   |                       |   |   |   agent.dll
+|   |   |                       |   |   |   audio.dll
+|   |   |                       |   |   |   awt.dll
+|   |   |                       |   |   |   beans.ocx
+|   |   |                       |   |   |   cmm.dll
+|   |   |                       |   |   |   dcpr.dll
+|   |   |                       |   |   |   fontmanager.dll
+|   |   |                       |   |   |   hpi.dll
+|   |   |                       |   |   |   hprof.dll
+|   |   |                       |   |   |   java.dll
+|   |   |                       |   |   |   java.exe
+|   |   |                       |   |   |   javaw.exe
+|   |   |                       |   |   |   JdbcOdbc.dll
+|   |   |                       |   |   |   jpeg.dll
+|   |   |                       |   |   |   keytool.exe
+|   |   |                       |   |   |   math.dll
+|   |   |                       |   |   |   msvcrt.dll
+|   |   |                       |   |   |   net.dll
+|   |   |                       |   |   |   npjava11.dll
+|   |   |                       |   |   |   npjava12.dll
+|   |   |                       |   |   |   npjava32.dll
+|   |   |                       |   |   |   npjava122_007.dll
+|   |   |                       |   |   |   packager.dll
+|   |   |                       |   |   |   plugprov.dll
+|   |   |                       |   |   |   policytool.exe
+|   |   |                       |   |   |   rmid.exe
+|   |   |                       |   |   |   rmiregistry.exe
+|   |   |                       |   |   |   symcjit.dll
+|   |   |                       |   |   |   tnameserv.exe
+|   |   |                       |   |   |   zip.dll
+|   |   |                       |   |   |   
+|   |   |                       |   |   \---classic
+|   |   |                       |   |           jvm.dll
+|   |   |                       |   |           Xusage.txt
+|   |   |                       |   |           
+|   |   |                       |   \---lib
+|   |   |                       |       |   content-types.properties
+|   |   |                       |       |   flavormap.properties
+|   |   |                       |       |   font.properties.zh.NT4.0
+|   |   |                       |       |   font.properties.ar
+|   |   |                       |       |   font.properties.iw
+|   |   |                       |       |   font.properties.ja
+|   |   |                       |       |   font.properties.ko
+|   |   |                       |       |   font.properties.ru
+|   |   |                       |       |   font.properties.th
+|   |   |                       |       |   font.properties.zh
+|   |   |                       |       |   font.properties.zh_TW
+|   |   |                       |       |   font.properties
+|   |   |                       |       |   i18n.jar
+|   |   |                       |       |   jaws.jar
+|   |   |                       |       |   jvm.hprof.txt
+|   |   |                       |       |   plugprov.jar
+|   |   |                       |       |   rt.jar
+|   |   |                       |       |   tzmappings
+|   |   |                       |       |   
+|   |   |                       |       +---audio
+|   |   |                       |       |       soundbank.gm
+|   |   |                       |       |       
+|   |   |                       |       +---cmm
+|   |   |                       |       |       CIEXYZ.pf
+|   |   |                       |       |       GRAY.pf
+|   |   |                       |       |       LINEAR_RGB.pf
+|   |   |                       |       |       PYCC.pf
+|   |   |                       |       |       sRGB.pf
+|   |   |                       |       |       
+|   |   |                       |       +---ext
+|   |   |                       |       |       iiimp.jar
+|   |   |                       |       |       
+|   |   |                       |       +---fonts
+|   |   |                       |       |       LucidaTypewriterBoldOblique.ttf
+|   |   |                       |       |       LucidaSansDemiOblique.ttf
+|   |   |                       |       |       LucidaSansRegular.ttf
+|   |   |                       |       |       LucidaTypewriterOblique.ttf
+|   |   |                       |       |       LucidaTypewriterBold.ttf
+|   |   |                       |       |       LucidaSansDemiBold.ttf
+|   |   |                       |       |       LucidaSansOblique.ttf
+|   |   |                       |       |       LucidaTypewriterRegular.ttf
+|   |   |                       |       |       LucidaBrightDemiBold.ttf
+|   |   |                       |       |       LucidaBrightDemiItalic.ttf
+|   |   |                       |       |       LucidaBrightItalic.ttf
+|   |   |                       |       |       LucidaBrightRegular.ttf
+|   |   |                       |       |       
+|   |   |                       |       +---images
+|   |   |                       |       |   \---cursors
+|   |   |                       |       |           cursors.properties
+|   |   |                       |       |           invalid32x32.gif
+|   |   |                       |       |           win32_MoveDrop32x32.gif
+|   |   |                       |       |           win32_MoveNoDrop32x32.gif
+|   |   |                       |       |           win32_CopyDrop32x32.gif
+|   |   |                       |       |           win32_CopyNoDrop32x32.gif
+|   |   |                       |       |           win32_LinkDrop32x32.gif
+|   |   |                       |       |           win32_LinkNoDrop32x32.gif
+|   |   |                       |       |           
+|   |   |                       |       \---security
+|   |   |                       |               cacerts
+|   |   |                       |               java.policy
+|   |   |                       |               java.security
+|   |   |                       |               
+|   |   |                       \---lib
+|   |   |                               dt.jar
+|   |   |                               jvm.lib
+|   |   |                               tools.jar
+|   |   |                               
+|   |   +---oracle.bali.jewt
+|   |   |   \---4.1.7.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.bali.jle
+|   |   |   \---1.0.6.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.swd.jre
+|   |   |   \---1.1.8.10.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               \---Expanded
+|   |   |                   \---jre
+|   |   |                       \---win32
+|   |   |                           |   CHANGES
+|   |   |                           |   COPYRIGHT
+|   |   |                           |   LICENSE
+|   |   |                           |   README
+|   |   |                           |   
+|   |   |                           +---bin
+|   |   |                           |       imagehlp.dll
+|   |   |                           |       javai.dll
+|   |   |                           |       javakey.exe
+|   |   |                           |       JdbcOdbc.dll
+|   |   |                           |       jpeg.dll
+|   |   |                           |       jre.exe
+|   |   |                           |       jrew.exe
+|   |   |                           |       math.dll
+|   |   |                           |       mmedia.dll
+|   |   |                           |       msvcrt.dll
+|   |   |                           |       net.dll
+|   |   |                           |       rmiregistry.exe
+|   |   |                           |       symcjit.dll
+|   |   |                           |       sysresource.dll
+|   |   |                           |       winawt.dll
+|   |   |                           |       zip.dll
+|   |   |                           |       
+|   |   |                           +---jcache
+|   |   |                           |       Readme
+|   |   |                           |       
+|   |   |                           \---lib
+|   |   |                               |   awt.properties.noaccess
+|   |   |                               |   awt.properties
+|   |   |                               |   content-types.properties
+|   |   |                               |   font.properties.ar
+|   |   |                               |   font.properties.iw
+|   |   |                               |   font.properties.ja
+|   |   |                               |   font.properties.ko
+|   |   |                               |   font.properties.ru
+|   |   |                               |   font.properties.th
+|   |   |                               |   font.properties.zh
+|   |   |                               |   font.properties.zh_TW
+|   |   |                               |   font.properties
+|   |   |                               |   i18n.jar
+|   |   |                               |   rt.jar
+|   |   |                               |   serialver.properties
+|   |   |                               |   
+|   |   |                               \---security
+|   |   |                                       java.security
+|   |   |                                       
+|   |   +---oracle.apache.jsdk
+|   |   |   \---2.0.0.0.0d
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   all_nt.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---buildInfo
+|   |   |                           build.info
+|   |   |                           
+|   |   +---oracle.apache.jserv
+|   |   |   \---1.1.0.0.0f
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   instantiate_nt.0.0.jar
+|   |   |               |   top_nt.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   +---buildInfo
+|   |   |                   |       build.info
+|   |   |                   |       
+|   |   |                   +---docs_nt
+|   |   |                   |   |   bugs.html
+|   |   |                   |   |   changes.html
+|   |   |                   |   |   contributing.html
+|   |   |                   |   |   contributors.html
+|   |   |                   |   |   FAQ.html
+|   |   |                   |   |   features.html
+|   |   |                   |   |   glossary.html
+|   |   |                   |   |   howto.load-balancing.html
+|   |   |                   |   |   index.html
+|   |   |                   |   |   license.html
+|   |   |                   |   |   modules.html
+|   |   |                   |   |   operation.html
+|   |   |                   |   |   security.html
+|   |   |                   |   |   sendbug.html
+|   |   |                   |   |   STATUS.txt
+|   |   |                   |   |   support.html
+|   |   |                   |   |   upgrade.html
+|   |   |                   |   |   y2k.html
+|   |   |                   |   |   zones.html
+|   |   |                   |   |   
+|   |   |                   |   +---api
+|   |   |                   |   |   |   allclasses-frame.html
+|   |   |                   |   |   |   deprecated-list.html
+|   |   |                   |   |   |   help-doc.html
+|   |   |                   |   |   |   index-all.html
+|   |   |                   |   |   |   index.html
+|   |   |                   |   |   |   overview-frame.html
+|   |   |                   |   |   |   overview-summary.html
+|   |   |                   |   |   |   overview-tree.html
+|   |   |                   |   |   |   package-list
+|   |   |                   |   |   |   packages.html
+|   |   |                   |   |   |   serialized-form.html
+|   |   |                   |   |   |   stylesheet.css
+|   |   |                   |   |   |   
+|   |   |                   |   |   +---images
+|   |   |                   |   |   |       blue-ball-small.gif
+|   |   |                   |   |   |       blue-ball.gif
+|   |   |                   |   |   |       class-index.gif
+|   |   |                   |   |   |       constructor-index.gif
+|   |   |                   |   |   |       constructors.gif
+|   |   |                   |   |   |       cyan-ball-small.gif
+|   |   |                   |   |   |       cyan-ball.gif
+|   |   |                   |   |   |       error-index.gif
+|   |   |                   |   |   |       exception-index.gif
+|   |   |                   |   |   |       green-ball-small.gif
+|   |   |                   |   |   |       green-ball.gif
+|   |   |                   |   |   |       interface-index.gif
+|   |   |                   |   |   |       magenta-ball-small.gif
+|   |   |                   |   |   |       magenta-ball.gif
+|   |   |                   |   |   |       methods.gif
+|   |   |                   |   |   |       method-index.gif
+|   |   |                   |   |   |       OpenBookIcon.gif
+|   |   |                   |   |   |       package-index.gif
+|   |   |                   |   |   |       red-ball.gif
+|   |   |                   |   |   |       red-ball-small.gif
+|   |   |                   |   |   |       variable-index.gif
+|   |   |                   |   |   |       variables.gif
+|   |   |                   |   |   |       yellow-ball-small.gif
+|   |   |                   |   |   |       yellow-ball.gif
+|   |   |                   |   |   |       
+|   |   |                   |   |   \---org
+|   |   |                   |   |       \---apache
+|   |   |                   |   |           +---java
+|   |   |                   |   |           |   +---io
+|   |   |                   |   |           |   |       Logger.html
+|   |   |                   |   |           |   |       LogRecord.html
+|   |   |                   |   |           |   |       LogWriter.Agent.html
+|   |   |                   |   |           |   |       LogWriter.html
+|   |   |                   |   |           |   |       package-frame.html
+|   |   |                   |   |           |   |       package-summary.html
+|   |   |                   |   |           |   |       package-tree.html
+|   |   |                   |   |           |   |       ReadFullyInputStream.html
+|   |   |                   |   |           |   |       
+|   |   |                   |   |           |   +---lang
+|   |   |                   |   |           |   |       AdaptiveClassLoader.html
+|   |   |                   |   |           |   |       Bytes.html
+|   |   |                   |   |           |   |       Lock.html
+|   |   |                   |   |           |   |       package-frame.html
+|   |   |                   |   |           |   |       package-summary.html
+|   |   |                   |   |           |   |       package-tree.html
+|   |   |                   |   |           |   |       Semaphore.html
+|   |   |                   |   |           |   |       Stoppable.html
+|   |   |                   |   |           |   |       TimeoutException.html
+|   |   |                   |   |           |   |       
+|   |   |                   |   |           |   +---net
+|   |   |                   |   |           |   |       AuthenticatedServerSocket.html
+|   |   |                   |   |           |   |       AuthenticatedSocket.html
+|   |   |                   |   |           |   |       AuthenticationException.html
+|   |   |                   |   |           |   |       package-frame.html
+|   |   |                   |   |           |   |       package-summary.html
+|   |   |                   |   |           |   |       package-tree.html
+|   |   |                   |   |           |   |       
+|   |   |                   |   |           |   +---recycle
+|   |   |                   |   |           |   |   |   AdaptiveController.html
+|   |   |                   |   |           |   |   |   Container.html
+|   |   |                   |   |           |   |   |   ControlledContainer.html
+|   |   |                   |   |           |   |   |   Controller.html
+|   |   |                   |   |           |   |   |   ControllerFactory.html
+|   |   |                   |   |           |   |   |   DefaultController.html
+|   |   |                   |   |           |   |   |   GaussianController.html
+|   |   |                   |   |           |   |   |   LimitedContainer.html
+|   |   |                   |   |           |   |   |   MinMaxController.html
+|   |   |                   |   |           |   |   |   package-frame.html
+|   |   |                   |   |           |   |   |   package-summary.html
+|   |   |                   |   |           |   |   |   package-tree.html
+|   |   |                   |   |           |   |   |   Recyclable.html
+|   |   |                   |   |           |   |   |   RecycleBin.html
+|   |   |                   |   |           |   |   |   RecycleBinIsEmpty.html
+|   |   |                   |   |           |   |   |   RecycleBinIsFull.html
+|   |   |                   |   |           |   |   |   
+|   |   |                   |   |           |   |   \---pool
+|   |   |                   |   |           |   |           package-frame.html
+|   |   |                   |   |           |   |           package-summary.html
+|   |   |                   |   |           |   |           package-tree.html
+|   |   |                   |   |           |   |           WorkerPool.html
+|   |   |                   |   |           |   |           
+|   |   |                   |   |           |   +---security
+|   |   |                   |   |           |   |       MD5.html
+|   |   |                   |   |           |   |       MessageDigest.html
+|   |   |                   |   |           |   |       package-frame.html
+|   |   |                   |   |           |   |       package-summary.html
+|   |   |                   |   |           |   |       package-tree.html
+|   |   |                   |   |           |   |       
+|   |   |                   |   |           |   \---util
+|   |   |                   |   |           |           Configurations.html
+|   |   |                   |   |           |           ConfigurationsRepository.html
+|   |   |                   |   |           |           ExtendedProperties.html
+|   |   |                   |   |           |           package-frame.html
+|   |   |                   |   |           |           package-summary.html
+|   |   |                   |   |           |           package-tree.html
+|   |   |                   |   |           |           SimpleQueue.html
+|   |   |                   |   |           |           
+|   |   |                   |   |           \---jserv
+|   |   |                   |   |                   Ajpv12InputStream.html
+|   |   |                   |   |                   JServConnection.html
+|   |   |                   |   |                   JServConnection.JServInputStream.html
+|   |   |                   |   |                   JServDefs.html
+|   |   |                   |   |                   JServLogChannels.html
+|   |   |                   |   |                   JServServletManager.html
+|   |   |                   |   |                   JServSession.html
+|   |   |                   |   |                   JServUtils.html
+|   |   |                   |   |                   JServ.html
+|   |   |                   |   |                   package-frame.html
+|   |   |                   |   |                   package-summary.html
+|   |   |                   |   |                   package-tree.html
+|   |   |                   |   |                   
+|   |   |                   |   +---future
+|   |   |                   |   |       index.html
+|   |   |                   |   |       sandboxing.html
+|   |   |                   |   |       
+|   |   |                   |   +---images
+|   |   |                   |   |       apache_pb.gif
+|   |   |                   |   |       java-apache-project.gif
+|   |   |                   |   |       lbfail001.gif
+|   |   |                   |   |       lbfail002.gif
+|   |   |                   |   |       lbfail003.gif
+|   |   |                   |   |       lbprod001.gif
+|   |   |                   |   |       lbprod002.gif
+|   |   |                   |   |       lbshm001.gif
+|   |   |                   |   |       
+|   |   |                   |   +---install
+|   |   |                   |   |       howto.security.html
+|   |   |                   |   |       howto.servlets.html
+|   |   |                   |   |       howto.status.html
+|   |   |                   |   |       howto.unix_install.html
+|   |   |                   |   |       howto.win32_install.html
+|   |   |                   |   |       index.html
+|   |   |                   |   |       
+|   |   |                   |   \---protocol
+|   |   |                   |           AJPv11.html
+|   |   |                   |           AJPv1.html
+|   |   |                   |           AJPv21.html
+|   |   |                   |           AJPv2.html
+|   |   |                   |           
+|   |   |                   \---servlets_nt
+|   |   |                           IsItWorking.class
+|   |   |                           IsItWorking.java
+|   |   |                           
+|   |   +---oracle.bali.kodiak
+|   |   |   \---1.2.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.layout
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.lbac
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.rsf.ldap_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.1.4.jar
+|   |   |                   lib.1.5.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   ntldap.4.0.jar
+|   |   |                   ntldap.5.0.jar
+|   |   |                   ntldap.6.0.jar
+|   |   |                   ntldap.7.0.jar
+|   |   |                   ntldap.8.0.jar
+|   |   |                   ntldap.9.0.jar
+|   |   |                   ntldap.0.0.jar
+|   |   |                   ntldap.1.0.jar
+|   |   |                   ntldap.2.0.jar
+|   |   |                   ntldap.3.0.jar
+|   |   |                   schema.0.0.jar
+|   |   |                   
+|   |   +---oracle.cartridges.locator
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   sql.0.1.jar
+|   |   |                   
+|   |   +---oracle.workflow.mailer
+|   |   |   \---2.6.1.5.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   data.0.0.jar
+|   |   |                   icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.mig
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.apache.mod8i
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   install.0.0.jar
+|   |   |                   install.0.2.jar
+|   |   |                   lib.1.1.jar
+|   |   |                   lib.1.2.jar
+|   |   |                   
+|   |   +---oracle.omwb.msaccess
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   JdbDll.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   refGuide.0.0.jar
+|   |   |                   xmlFiles.0.0.jar
+|   |   |                   
+|   |   +---oracle.omwb.msss6
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   refGuide.0.0.jar
+|   |   |                   
+|   |   +---oracle.omwb.mysql
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   refGuide.0.0.jar
+|   |   |                   
+|   |   +---oracle.networking.names
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.networking
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rsf.nlsrtl_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   lib.0.3.jar
+|   |   |                   nlsdata.0.0.jar
+|   |   |                   onls.0.1.jar
+|   |   |                   onls.0.2.jar
+|   |   |                   
+|   |   +---oracle.emprod.agent_ext.oapps_agentext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.occi
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   lib.0.3.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc.oci11
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.p2k.odbc
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   Ini.0.0.jar
+|   |   |                   Lang.0.0.jar
+|   |   |                   Program.0.0.jar
+|   |   |                   
+|   |   +---oracle.oid.odm
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod.agent_ext.oecm_agentext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.emprod.oemagent
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.oid.oidca
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   +---oracle.apache.ojsp
+|   |   |   \---1.1.2.3.0
+|   |   |       \---1
+|   |   +---oracle.p2k.oledb
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   bin.1.0.jar
+|   |   |                   bin.2.0.jar
+|   |   |                   bin.3.0.jar
+|   |   |                   bin.4.0.jar
+|   |   |                   bin.5.0.jar
+|   |   |                   bin.6.0.jar
+|   |   |                   bin.7.0.jar
+|   |   |                   bin.8.0.jar
+|   |   |                   bin.9.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   sample.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.oms
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.omwb
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Bin.0.0.jar
+|   |   |                   bootstrap_for_9x.0.0.jar
+|   |   |                   Classes.0.0.jar
+|   |   |                   Docs.0.0.jar
+|   |   |                   env_for_9x.0.0.jar
+|   |   |                   FAQ.0.0.jar
+|   |   |                   Images.0.0.jar
+|   |   |                   Olite.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   online_support.0.0.jar
+|   |   |                   QuickTour.0.0.jar
+|   |   |                   Readme.0.0.jar
+|   |   |                   Support.0.0.jar
+|   |   |                   win9x_bat.0.0.jar
+|   |   |                   winntx_bat.0.0.jar
+|   |   |                   
+|   |   +---oracle.p2k.oo4o
+|   |   |   \---9.0.1.4.2
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   examples.0.0.jar
+|   |   |                   examples.1.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   help.1.0.jar
+|   |   |                   
+|   |   +---oracle.options.ops
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.options
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rsf.oracore_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.5.jar
+|   |   |                   lib.0.6.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   mesg.0.2.jar
+|   |   |                   zone.0.0.jar
+|   |   |                   
+|   |   +---oracle.olap.aps.orb
+|   |   |   \---4.1.0.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin_hp.0.1.jar
+|   |   |                   exec.0.1.jar
+|   |   |                   
+|   |   +---oracle.cartridges.ordaudio
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   script.0.0.jar
+|   |   |                   
+|   |   +---oracle.olap.osim
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   deplib.0.0.jar
+|   |   |                   dgcart.0.0.jar
+|   |   |                   jbtask.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.otrace
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.p2k.ott
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   mesg.0.2.jar
+|   |   |                   
+|   |   +---oracle.swd.oui
+|   |   |   \---2.0.1.6.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   homeSelector.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   |   Autorun.inf
+|   |   |                   |   
+|   |   |                   +---bin
+|   |   |                   |   \---win32
+|   |   |                   |           oraInstaller.dll
+|   |   |                   |           
+|   |   |                   +---guide
+|   |   |                   |       appa.htm
+|   |   |                   |       appb.htm
+|   |   |                   |       bookbig.gif
+|   |   |                   |       contbig.gif
+|   |   |                   |       conticon.gif
+|   |   |                   |       cpyr.htm
+|   |   |                   |       ie.gif
+|   |   |                   |       index.htm
+|   |   |                   |       indxicon.gif
+|   |   |                   |       larrow.gif
+|   |   |                   |       mainpict.gif
+|   |   |                   |       moh.htm
+|   |   |                   |       noexist.htm
+|   |   |                   |       ns.gif
+|   |   |                   |       oracle.gif
+|   |   |                   |       oui.htm
+|   |   |                   |       pdlicon.gif
+|   |   |                   |       preface.htm
+|   |   |                   |       prodbig.gif
+|   |   |                   |       prodicon.gif
+|   |   |                   |       rarrow.gif
+|   |   |                   |       rcf.htm
+|   |   |                   |       rsp.htm
+|   |   |                   |       title.gif
+|   |   |                   |       title.htm
+|   |   |                   |       toc.htm
+|   |   |                   |       uarrow.gif
+|   |   |                   |       
+|   |   |                   +---install
+|   |   |                   |   |   oraparam.var
+|   |   |                   |   |   oui.var
+|   |   |                   |   |   
+|   |   |                   |   \---win32
+|   |   |                   |           setup.exe
+|   |   |                   |           
+|   |   |                   \---lib
+|   |   |                           ewt.jar
+|   |   |                           ewt-swingaccessbridge.jar
+|   |   |                           help.jar
+|   |   |                           InstHelp.jar
+|   |   |                           InstImages.jar
+|   |   |                           oracleice.jar
+|   |   |                           OraInstaller.jar
+|   |   |                           swingaccess.jar
+|   |   |                           xmlparser.jar
+|   |   |                           
+|   |   +---oracle.sysman.outline
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.ovm
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.ano.ssl.owm
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   help.0.2.jar
+|   |   |                   install_fg.0.1.jar
+|   |   |                   java.0.0.jar
+|   |   |                   
+|   |   +---oracle.emprod.agent_ext.ows_agentext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.paging
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               \---Expanded
+|   |   |                   \---NTPaging
+|   |   |                           nmipaging.tcl
+|   |   |                           paging.cfg.template
+|   |   |                           pagntsrv.exe
+|   |   |                           vnnpager.dll
+|   |   |                           
+|   |   +---oracle.options.partitioning
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.apache.perlint
+|   |   |   \---5.00503.0.0.0b
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   nt_bin.0.0.jar
+|   |   |               |   nt_lib.0.0.jar
+|   |   |               |   nt_site.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---buildInfo
+|   |   |                           build.info
+|   |   |                           
+|   |   +---oracle.rsf.platform_rsf
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   winsystem.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.gateways.plsql
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.p2k.precomp_common
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   c.0.0.jar
+|   |   |                   cobol.0.1.jar
+|   |   |                   cobol.0.2.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   dll.0.0.jar
+|   |   |                   dll.0.1.jar
+|   |   |                   fortran.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   mesg.0.2.jar
+|   |   |                   
+|   |   +---oracle.mmc.primary
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   mmcperfmon.5.0.jar
+|   |   |                   mmcperfmon.6.0.jar
+|   |   |                   mmcperfmon.7.0.jar
+|   |   |                   mmcperfmon.4.0.jar
+|   |   |                   mmcperfmon.8.0.jar
+|   |   |                   mmcadmin.6.0.jar
+|   |   |                   mmcadmin.8.0.jar
+|   |   |                   mmcadmin.5.0.jar
+|   |   |                   mmcadmin.4.0.jar
+|   |   |                   mmcadmin.7.0.jar
+|   |   |                   mmcprimaryhelp.0.0.jar
+|   |   |                   mmcprimary.4.0.jar
+|   |   |                   mmcprimary.7.0.jar
+|   |   |                   mmcprimary.6.0.jar
+|   |   |                   mmcprimary.5.0.jar
+|   |   |                   mmcprimaryhelp.5.0.jar
+|   |   |                   mmcprimaryhelp.6.0.jar
+|   |   |                   mmcprimaryhelp.7.0.jar
+|   |   |                   mmcprimaryhelp.4.0.jar
+|   |   |                   mmcprimaryhelp.1.0.jar
+|   |   |                   mmcprimaryhelp.2.0.jar
+|   |   |                   mmcprimaryhelp.3.0.jar
+|   |   |                   mmcprimaryhelp.8.0.jar
+|   |   |                   mmcadmin.0.0.jar
+|   |   |                   mmcadmin.1.0.jar
+|   |   |                   mmcadmin.2.0.jar
+|   |   |                   mmcadmin.3.0.jar
+|   |   |                   mmcperfmon.0.0.jar
+|   |   |                   mmcperfmon.1.0.jar
+|   |   |                   mmcperfmon.2.0.jar
+|   |   |                   mmcperfmon.3.0.jar
+|   |   |                   mmcprimary.0.0.jar
+|   |   |                   mmcprimary.1.0.jar
+|   |   |                   mmcprimary.2.0.jar
+|   |   |                   mmcprimary.3.0.jar
+|   |   |                   mmcprimary.8.0.jar
+|   |   |                   
+|   |   +---oracle.p2k.proc
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.sysman.quicktours
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   qtour.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---default_qt_index
+|   |   |                           index_qt.jar
+|   |   |                           
+|   |   +---oracle.rdbms
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.sysman.reorg
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.repapi
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.rman
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.events.sap
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.sysman.dbapp.schema
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.dbapp.security
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.seeddb
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.isearch.server
+|   |   |   \---1.0.3.0.0
+|   |   |       \---1
+|   |   +---oracle.rsf.slax_rsf
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.slr
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.networking.snmp
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   config.0.0.jar
+|   |   |                   exe.0.0.jar
+|   |   |                   mib.0.0.jar
+|   |   |                   spawn.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.ano.sns
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   build.0.0.jar
+|   |   |               |   cybersafe.0.1.jar
+|   |   |               |   entrust.0.0.jar
+|   |   |               |   kerberos.0.0.jar
+|   |   |               |   kerberos_bin.0.0.jar
+|   |   |               |   lib.0.0.jar
+|   |   |               |   radius.0.0.jar
+|   |   |               |   radius.0.1.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---network
+|   |   |                       |   README_aso.txt
+|   |   |                       |   
+|   |   |                       +---network
+|   |   |                       |   \---mesg
+|   |   |                       |           naukus.msb
+|   |   |                       |           naukus.msg
+|   |   |                       |           
+|   |   |                       \---relnotes
+|   |   |                               README_aso.txt
+|   |   |                               
+|   |   +---oracle.cartridges.spatial
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.emprod.agent_ext.sqlsrv_agentext
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.oid.ssa
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   images.0.0.jar
+|   |   |                   ssa.0.0.jar
+|   |   |                   
+|   |   +---oracle.options.ano.ssl
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   class.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.sysman.pack.std
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   images.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.dbapp.storage
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.omwb.sybase
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   refGuide.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.syndication
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.textmanager
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   images.0.0.jar
+|   |   |                   
+|   |   +---oracle.tg.tg4msql
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   message.0.0.jar
+|   |   |                   nls.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc.thin11
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   jdk111.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.tracedv
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Admin.0.0.jar
+|   |   |                   Bin.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.pack.tuning
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.utilities
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.sysman.vbshared
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.java.javavm.visiorb
+|   |   |   \---3.4.0.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   winbin.0.0.jar
+|   |   |                   winlib.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.vmqshared
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   vmq.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.w32common
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   config.0.0.jar
+|   |   |                   help.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.webserver
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.doc.windoc
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   html.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.dbapp.worksheet
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.apache.xdk
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.p2k.xmldevkit
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.xpcommon
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   expert.0.0.jar
+|   |   |                   GIF.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.xsql
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.xml.xsu
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.olap.oes.agent
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   dll.0.0.jar
+|   |   |                   exe.0.0.jar
+|   |   |                   
+|   |   +---oracle.apache.apache
+|   |   |   \---1.3.12.0.0c
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   instantiate_nt.0.0.jar
+|   |   |               |   mod_ssl_docs.0.0.jar
+|   |   |               |   top_nt.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   +---bin_nt
+|   |   |                   |       htdigest.exe
+|   |   |                   |       htpasswd.exe
+|   |   |                   |       openssl.cnf
+|   |   |                   |       openssl.exe
+|   |   |                   |       startapache.exe
+|   |   |                   |       startJsv.bat
+|   |   |                   |       stopJsv.bat
+|   |   |                   |       
+|   |   |                   +---buildInfo
+|   |   |                   |       build.info
+|   |   |                   |       
+|   |   |                   +---cgi_unix
+|   |   |                   |       printenv
+|   |   |                   |       
+|   |   |                   +---conf_nt
+|   |   |                   |   |   access.conf
+|   |   |                   |   |   access.conf.default
+|   |   |                   |   |   highperformance.conf-dist
+|   |   |                   |   |   magic
+|   |   |                   |   |   magic.default
+|   |   |                   |   |   mime.types.default
+|   |   |                   |   |   mime.types
+|   |   |                   |   |   srm.conf.default
+|   |   |                   |   |   srm.conf
+|   |   |                   |   |   
+|   |   |                   |   +---ssl.crl
+|   |   |                   |   |       Makefile
+|   |   |                   |   |       README.CRL
+|   |   |                   |   |       
+|   |   |                   |   +---ssl.crt
+|   |   |                   |   |       ca-bundle.crt
+|   |   |                   |   |       demoCAcert.crt
+|   |   |                   |   |       README.CRT
+|   |   |                   |   |       server.crt
+|   |   |                   |   |       
+|   |   |                   |   +---ssl.csr
+|   |   |                   |   |       README.CSR
+|   |   |                   |   |       server.csr.snakeoil
+|   |   |                   |   |       
+|   |   |                   |   +---ssl.key
+|   |   |                   |   |       demo2CAkey.pem
+|   |   |                   |   |       server.key
+|   |   |                   |   |       
+|   |   |                   |   \---ssl.prm
+|   |   |                   |           README.PRM
+|   |   |                   |           snakeoil-ca-dsa.prm
+|   |   |                   |           snakeoil-dsa.prm
+|   |   |                   |           
+|   |   |                   +---docs_nt
+|   |   |                   |   |   apache_pb.gif
+|   |   |                   |   |   index.html
+|   |   |                   |   |   mod_perl.html
+|   |   |                   |   |   oraclelogo.gif
+|   |   |                   |   |   
+|   |   |                   |   \---manual
+|   |   |                   |       |   bind.html
+|   |   |                   |       |   cgi_path.html
+|   |   |                   |       |   content-negotiation.html
+|   |   |                   |       |   custom-error.html
+|   |   |                   |       |   dns-caveats.html
+|   |   |                   |       |   dso.html
+|   |   |                   |       |   ebcdic.html
+|   |   |                   |       |   env.html
+|   |   |                   |       |   footer.html
+|   |   |                   |       |   handler.html
+|   |   |                   |       |   header.html
+|   |   |                   |       |   index.html
+|   |   |                   |       |   install-tpf.html
+|   |   |                   |       |   install.html
+|   |   |                   |       |   invoking.html
+|   |   |                   |       |   keepalive.html
+|   |   |                   |       |   LICENSE
+|   |   |                   |       |   location.html
+|   |   |                   |       |   man-template.html
+|   |   |                   |       |   multilogs.html
+|   |   |                   |       |   new_features_1_0.html
+|   |   |                   |       |   new_features_1_1.html
+|   |   |                   |       |   new_features_1_2.html
+|   |   |                   |       |   new_features_1_3.html
+|   |   |                   |       |   process-model.html
+|   |   |                   |       |   readme-tpf.html
+|   |   |                   |       |   sections.html
+|   |   |                   |       |   sourcereorg.html
+|   |   |                   |       |   stopping.html
+|   |   |                   |       |   suexec.html
+|   |   |                   |       |   suexec_1_2.html
+|   |   |                   |       |   unixware.html
+|   |   |                   |       |   upgrading_to_1_3.html
+|   |   |                   |       |   windows.html
+|   |   |                   |       |   
+|   |   |                   |       +---images
+|   |   |                   |       |       custom_errordocs.gif
+|   |   |                   |       |       home.gif
+|   |   |                   |       |       index.gif
+|   |   |                   |       |       mod_rewrite_fig1.fig
+|   |   |                   |       |       mod_rewrite_fig1.gif
+|   |   |                   |       |       mod_rewrite_fig2.fig
+|   |   |                   |       |       mod_rewrite_fig2.gif
+|   |   |                   |       |       sub.gif
+|   |   |                   |       |       
+|   |   |                   |       +---misc
+|   |   |                   |       |       API.html
+|   |   |                   |       |       client_block_api.html
+|   |   |                   |       |       compat_notes.html
+|   |   |                   |       |       custom_errordocs.html
+|   |   |                   |       |       descriptors.html
+|   |   |                   |       |       FAQ.html
+|   |   |                   |       |       fin_wait_2.html
+|   |   |                   |       |       footer.html
+|   |   |                   |       |       header.html
+|   |   |                   |       |       howto.html
+|   |   |                   |       |       HTTP_Features.tsv
+|   |   |                   |       |       index.html
+|   |   |                   |       |       known_client_problems.html
+|   |   |                   |       |       nopgp.html
+|   |   |                   |       |       perf-bsd44.html
+|   |   |                   |       |       perf-dec.html
+|   |   |                   |       |       perf-hp.html
+|   |   |                   |       |       perf-tuning.html
+|   |   |                   |       |       perf.html
+|   |   |                   |       |       rewriteguide.html
+|   |   |                   |       |       security_tips.html
+|   |   |                   |       |       vif-info.html
+|   |   |                   |       |       windoz_keepalive.html
+|   |   |                   |       |       
+|   |   |                   |       +---mod
+|   |   |                   |       |       core.html
+|   |   |                   |       |       directive-dict.html
+|   |   |                   |       |       directives.html
+|   |   |                   |       |       footer.html
+|   |   |                   |       |       header.html
+|   |   |                   |       |       index.html
+|   |   |                   |       |       mod_autoindex.html
+|   |   |                   |       |       mod_auth_digest.html
+|   |   |                   |       |       mod_access.html
+|   |   |                   |       |       mod_actions.html
+|   |   |                   |       |       mod_alias.html
+|   |   |                   |       |       mod_asis.html
+|   |   |                   |       |       mod_auth.html
+|   |   |                   |       |       mod_auth_anon.html
+|   |   |                   |       |       mod_auth_db.html
+|   |   |                   |       |       mod_auth_dbm.html
+|   |   |                   |       |       mod_browser.html
+|   |   |                   |       |       mod_cern_meta.html
+|   |   |                   |       |       mod_cgi.html
+|   |   |                   |       |       mod_cookies.html
+|   |   |                   |       |       mod_digest.html
+|   |   |                   |       |       mod_dir.html
+|   |   |                   |       |       mod_dld.html
+|   |   |                   |       |       mod_dll.html
+|   |   |                   |       |       mod_env.html
+|   |   |                   |       |       mod_example.html
+|   |   |                   |       |       mod_expires.html
+|   |   |                   |       |       mod_headers.html
+|   |   |                   |       |       mod_imap.html
+|   |   |                   |       |       mod_include.html
+|   |   |                   |       |       mod_info.html
+|   |   |                   |       |       mod_isapi.html
+|   |   |                   |       |       mod_log_agent.html
+|   |   |                   |       |       mod_log_common.html
+|   |   |                   |       |       mod_log_config.html
+|   |   |                   |       |       mod_log_referer.html
+|   |   |                   |       |       mod_mime.html
+|   |   |                   |       |       mod_mime_magic.html
+|   |   |                   |       |       mod_mmap_static.html
+|   |   |                   |       |       mod_negotiation.html
+|   |   |                   |       |       mod_proxy.html
+|   |   |                   |       |       mod_rewrite.html
+|   |   |                   |       |       mod_setenvif.html
+|   |   |                   |       |       mod_so.html
+|   |   |                   |       |       mod_speling.html
+|   |   |                   |       |       mod_status.html
+|   |   |                   |       |       mod_unique_id.html
+|   |   |                   |       |       mod_userdir.html
+|   |   |                   |       |       mod_usertrack.html
+|   |   |                   |       |       mod_vhost_alias.html
+|   |   |                   |       |       
+|   |   |                   |       +---search
+|   |   |                   |       |       manual-index.cgi
+|   |   |                   |       |       
+|   |   |                   |       \---vhosts
+|   |   |                   |               details.html
+|   |   |                   |               details_1_2.html
+|   |   |                   |               examples.html
+|   |   |                   |               fd-limits.html
+|   |   |                   |               footer.html
+|   |   |                   |               header.html
+|   |   |                   |               host.html
+|   |   |                   |               index.html
+|   |   |                   |               ip-based.html
+|   |   |                   |               mass.html
+|   |   |                   |               name-based.html
+|   |   |                   |               vhosts-in-depth.html
+|   |   |                   |               virtual-host.html
+|   |   |                   |               
+|   |   |                   +---images_nt
+|   |   |                   |   |   a.gif
+|   |   |                   |   |   alert.black.gif
+|   |   |                   |   |   alert.red.gif
+|   |   |                   |   |   apache_pb.gif
+|   |   |                   |   |   back.gif
+|   |   |                   |   |   ball.gray.gif
+|   |   |                   |   |   ball.red.gif
+|   |   |                   |   |   binary.gif
+|   |   |                   |   |   binhex.gif
+|   |   |                   |   |   blank.gif
+|   |   |                   |   |   bomb.gif
+|   |   |                   |   |   box1.gif
+|   |   |                   |   |   box2.gif
+|   |   |                   |   |   broken.gif
+|   |   |                   |   |   burst.gif
+|   |   |                   |   |   c.gif
+|   |   |                   |   |   comp.blue.gif
+|   |   |                   |   |   comp.gray.gif
+|   |   |                   |   |   compressed.gif
+|   |   |                   |   |   continued.gif
+|   |   |                   |   |   dir.gif
+|   |   |                   |   |   down.gif
+|   |   |                   |   |   dvi.gif
+|   |   |                   |   |   f.gif
+|   |   |                   |   |   folder.gif
+|   |   |                   |   |   folder.open.gif
+|   |   |                   |   |   folder.sec.gif
+|   |   |                   |   |   forward.gif
+|   |   |                   |   |   generic.gif
+|   |   |                   |   |   generic.red.gif
+|   |   |                   |   |   generic.sec.gif
+|   |   |                   |   |   hand.right.gif
+|   |   |                   |   |   hand.up.gif
+|   |   |                   |   |   icon.sheet.gif
+|   |   |                   |   |   image1.gif
+|   |   |                   |   |   image2.gif
+|   |   |                   |   |   image3.gif
+|   |   |                   |   |   index.gif
+|   |   |                   |   |   layout.gif
+|   |   |                   |   |   left.gif
+|   |   |                   |   |   link.gif
+|   |   |                   |   |   movie.gif
+|   |   |                   |   |   p.gif
+|   |   |                   |   |   patch.gif
+|   |   |                   |   |   pdf.gif
+|   |   |                   |   |   pie0.gif
+|   |   |                   |   |   pie1.gif
+|   |   |                   |   |   pie2.gif
+|   |   |                   |   |   pie3.gif
+|   |   |                   |   |   pie4.gif
+|   |   |                   |   |   pie5.gif
+|   |   |                   |   |   pie6.gif
+|   |   |                   |   |   pie7.gif
+|   |   |                   |   |   pie8.gif
+|   |   |                   |   |   portal.gif
+|   |   |                   |   |   ps.gif
+|   |   |                   |   |   quill.gif
+|   |   |                   |   |   README
+|   |   |                   |   |   right.gif
+|   |   |                   |   |   screw1.gif
+|   |   |                   |   |   screw2.gif
+|   |   |                   |   |   script.gif
+|   |   |                   |   |   sound1.gif
+|   |   |                   |   |   sound2.gif
+|   |   |                   |   |   sphere1.gif
+|   |   |                   |   |   sphere2.gif
+|   |   |                   |   |   tar.gif
+|   |   |                   |   |   tex.gif
+|   |   |                   |   |   text.gif
+|   |   |                   |   |   transfer.gif
+|   |   |                   |   |   unknown.gif
+|   |   |                   |   |   up.gif
+|   |   |                   |   |   uu.gif
+|   |   |                   |   |   uuencoded.gif
+|   |   |                   |   |   world1.gif
+|   |   |                   |   |   world2.gif
+|   |   |                   |   |   
+|   |   |                   |   \---small
+|   |   |                   |           back.gif
+|   |   |                   |           binary.gif
+|   |   |                   |           binhex.gif
+|   |   |                   |           blank.gif
+|   |   |                   |           broken.gif
+|   |   |                   |           burst.gif
+|   |   |                   |           comp1.gif
+|   |   |                   |           comp2.gif
+|   |   |                   |           compressed.gif
+|   |   |                   |           continued.gif
+|   |   |                   |           dir.gif
+|   |   |                   |           dir2.gif
+|   |   |                   |           doc.gif
+|   |   |                   |           forward.gif
+|   |   |                   |           generic.gif
+|   |   |                   |           generic2.gif
+|   |   |                   |           generic3.gif
+|   |   |                   |           image.gif
+|   |   |                   |           image2.gif
+|   |   |                   |           index.gif
+|   |   |                   |           key.gif
+|   |   |                   |           movie.gif
+|   |   |                   |           patch.gif
+|   |   |                   |           ps.gif
+|   |   |                   |           rainbow.gif
+|   |   |                   |           README.txt
+|   |   |                   |           sound.gif
+|   |   |                   |           sound2.gif
+|   |   |                   |           tar.gif
+|   |   |                   |           text.gif
+|   |   |                   |           transfer.gif
+|   |   |                   |           unknown.gif
+|   |   |                   |           uu.gif
+|   |   |                   |           
+|   |   |                   \---modules_nt
+|   |   |                           ApacheModuleProxy.dll
+|   |   |                           ApacheModuleUserTrack.dll
+|   |   |                           ApacheModuleSpeling.dll
+|   |   |                           ApacheModulePerl.dll
+|   |   |                           ApacheModuleStatus.dll
+|   |   |                           ApacheModuleAuthAnon.dll
+|   |   |                           ApacheModuleCERNMeta.dll
+|   |   |                           ApacheModuleDigest.dll
+|   |   |                           ApacheModuleExpires.dll
+|   |   |                           ApacheModuleHeaders.dll
+|   |   |                           ApacheModuleSSL.dll
+|   |   |                           ApacheModuleRewrite.dll
+|   |   |                           ApacheModuleMimeMagic.dll
+|   |   |                           
+|   |   +---oracle.sysman.pack.apps
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   images.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.events.base
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.isearch.client
+|   |   |   \---1.0.3.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.seeddb.compdss
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.mmc.config
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   cfgbin.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.parser.cplus
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.dbapps
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.sysman.pack.diag
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   image.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---help
+|   |   |                           cp_ban.gif
+|   |   |                           cp_spl.gif
+|   |   |                           cp_spl.htm
+|   |   |                           pm_ban.gif
+|   |   |                           pm_spl.gif
+|   |   |                           pm_spl.htm
+|   |   |                           vtp.ico
+|   |   |                           
+|   |   +---oracle.java.ejb
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   winbin.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.emcommon
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   config.0.0.jar
+|   |   |               |   jarFiles.0.0.jar
+|   |   |               |   NTApps.0.0.jar
+|   |   |               |   SQLScripts.0.0.jar
+|   |   |               |   webhelp.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   +---filegroup1
+|   |   |                   |       README_EM.htm
+|   |   |                   |       README_EM.txt
+|   |   |                   |       
+|   |   |                   \---Scripts
+|   |   |                           oemapp.bat
+|   |   |                           oemapp_95.bat
+|   |   |                           
+|   |   +---oracle.sysman.expert
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.0.jar
+|   |   |                   sample.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.hs_odbc
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.options.intermedia.imcom
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.5.jar
+|   |   |                   lib.0.6.jar
+|   |   |                   lib.0.7.jar
+|   |   |                   script.0.0.jar
+|   |   |                   
+|   |   +---oracle.omwb.informix7
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   OnlineReference.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.javavm.javatools
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   bin.0.1.jar
+|   |   |               |   build.0.0.jar
+|   |   |               |   java.0.0.jar
+|   |   |               |   java.0.2.jar
+|   |   |               |   lib.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   +---javavm
+|   |   |                   |   \---doc
+|   |   |                   |           javadoc.zip
+|   |   |                   |           readme.txt
+|   |   |                   |           
+|   |   |                   \---jis
+|   |   |                       +---admin
+|   |   |                       |   \---public_html
+|   |   |                       |       |   index.htm
+|   |   |                       |       |   
+|   |   |                       |       +---doc
+|   |   |                       |       |       index.htm
+|   |   |                       |       |       
+|   |   |                       |       +---images
+|   |   |                       |       |       flying_pig.gif
+|   |   |                       |       |       nuclear.gif
+|   |   |                       |       |       
+|   |   |                       |       \---system
+|   |   |                       |           \---errors
+|   |   |                       |                   400.html
+|   |   |                       |                   401.html
+|   |   |                       |                   403.html
+|   |   |                       |                   404.html
+|   |   |                       |                   406.html
+|   |   |                       |                   500.html
+|   |   |                       |                   503.html
+|   |   |                       |                   index.html
+|   |   |                       |                   
+|   |   |                       \---patch
+|   |   |                           \---c++
+|   |   |                                   login.tar
+|   |   |                                   readme.txt
+|   |   |                                   
+|   |   +---oracle.java.jdbc.jdbc_common
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               |   build.0.0.jar
+|   |   |               |   lib.0.0.jar
+|   |   |               |   
+|   |   |               \---Expanded
+|   |   |                   \---jdbc
+|   |   |                       \---jdbc
+|   |   |                               Readme.txt
+|   |   |                               
+|   |   +---oracle.webdb.modplsql
+|   |   |   \---3.0.9.0.7
+|   |   |       \---1
+|   |   +---oracle.omwb.msss7
+|   |   |   \---2.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Classes.0.0.jar
+|   |   |                   OnlineHelp.0.0.jar
+|   |   |                   refGuide.0.0.jar
+|   |   |                   
+|   |   +---oracle.networking.netca
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   class.0.0.jar
+|   |   |                   class.0.1.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   netcahelp.0.0.jar
+|   |   |                   netcahelp.0.2.jar
+|   |   |                   res.0.0.jar
+|   |   |                   res.0.1.jar
+|   |   |                   res.0.2.jar
+|   |   |                   res.1.3.jar
+|   |   |                   
+|   |   +---oracle.sysman.em.nls
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   elahelp.4.0.jar
+|   |   |                   elahelp.5.0.jar
+|   |   |                   elahelp.0.0.jar
+|   |   |                   elahelp.1.0.jar
+|   |   |                   elahelp.2.0.jar
+|   |   |                   elahelp.3.0.jar
+|   |   |                   embase.5.0.jar
+|   |   |                   embase.4.0.jar
+|   |   |                   embase.3.0.jar
+|   |   |                   embase.0.0.jar
+|   |   |                   embase.1.0.jar
+|   |   |                   embase.2.0.jar
+|   |   |                   embase.2.2.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc.oci12
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.ojsp
+|   |   |   \---1.1.2.3.0
+|   |   |       \---1
+|   |   +---oracle.options.ops.opsca
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   admin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.cartridges.ordcac
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rsf.otrace_rsf
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.sysman.pagingomscommon
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   nt.0.0.jar
+|   |   |                   ntservmsg.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.perfman
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.plsql
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.2.jar
+|   |   |                   
+|   |   +---oracle.rsf.precomp_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   
+|   |   +---oracle.p2k.procob
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.rsf.rdbms_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.1.jar
+|   |   |                   bin.0.5.jar
+|   |   |                   bin.0.6.jar
+|   |   |                   build.0.0.jar
+|   |   |                   eelib.0.1.jar
+|   |   |                   lib.0.7.jar
+|   |   |                   lib.0.8.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   pelib.0.0.jar
+|   |   |                   stdlib.0.1.jar
+|   |   |                   
+|   |   +---oracle.sysman.reporting
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.oid.server
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.spacemap
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.java.sqlj
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rsf.ssl_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.tg.tg4sybs
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.java.jdbc.thin12
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   jdk12.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.transview
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.utilities.util
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.sysman.website
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.winprod
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.workflow
+|   |   |   \---2.6.1.0.1
+|   |   |       \---1
+|   |   +---oracle.rdbms.xml
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.rsf.agent_rsf
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.oid.client
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   admin.0.1.jar
+|   |   |                   admin.0.3.jar
+|   |   |                   bin.0.0.jar
+|   |   |                   bin.0.2.jar
+|   |   |                   bin.0.3.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.2.jar
+|   |   |                   load.0.0.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   oidadmin.0.0.jar
+|   |   |                   public.0.0.jar
+|   |   |                   readonly.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.seeddb.compoltp
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.sysman.console
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   Icon.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.explain
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.rdbms.hs_oledb
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   nt.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.classgen.java
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc.jdbc_dev
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   doc.0.1.jar
+|   |   |                   
+|   |   +---oracle.networking.netclt
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.0.jar
+|   |   |                   exec.1.0.jar
+|   |   |                   lib.1.1.jar
+|   |   |                   lib.1.3.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   
+|   |   +---oracle.sysman.w32common.nls
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   expert.5.0.jar
+|   |   |                   expert.4.0.jar
+|   |   |                   expert.0.0.jar
+|   |   |                   expert.1.0.jar
+|   |   |                   expert.2.0.jar
+|   |   |                   expert.3.0.jar
+|   |   |                   sqlanalyze.5.0.jar
+|   |   |                   sqlanalyze.4.0.jar
+|   |   |                   sqlanalyze.0.0.jar
+|   |   |                   sqlanalyze.1.0.jar
+|   |   |                   sqlanalyze.2.0.jar
+|   |   |                   sqlanalyze.3.0.jar
+|   |   |                   tracedv.4.0.jar
+|   |   |                   tracedv.5.0.jar
+|   |   |                   tracedv.0.0.jar
+|   |   |                   tracedv.1.0.jar
+|   |   |                   tracedv.2.0.jar
+|   |   |                   tracedv.3.0.jar
+|   |   |                   w32common.4.0.jar
+|   |   |                   w32common.5.0.jar
+|   |   |                   w32common.0.0.jar
+|   |   |                   w32common.1.0.jar
+|   |   |                   w32common.2.0.jar
+|   |   |                   w32common.3.0.jar
+|   |   |                   xpcommon.4.0.jar
+|   |   |                   xpcommon.5.0.jar
+|   |   |                   xpcommon.0.0.jar
+|   |   |                   xpcommon.1.0.jar
+|   |   |                   xpcommon.2.0.jar
+|   |   |                   xpcommon.3.0.jar
+|   |   |                   
+|   |   +---oracle.java.jdbc.oci_common
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   ocijdbc.0.0.jar
+|   |   |                   
+|   |   +---oracle.cartridges.ordcom
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   script.0.0.jar
+|   |   |                   
+|   |   +---oracle.utilities.perfmon
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.0.jar
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   perf.0.0.jar
+|   |   |                   perf.1.0.jar
+|   |   |                   
+|   |   +---oracle.rsf.plsql_rsf
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   include.0.0.jar
+|   |   |                   lib.0.4.jar
+|   |   |                   mesg.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.prereq
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.p2k.procob18
+|   |   |   \---1.8.76.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   
+|   |   +---oracle.server
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.java.sqlj.sqljruntime
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.2.jar
+|   |   |                   demo.0.3.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   doc.0.1.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   lib.0.2.jar
+|   |   |                   
+|   |   +---oracle.tg.tg4tera
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.1.jar
+|   |   |                   bin.0.2.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   doc.0.2.jar
+|   |   |                   nls.0.0.jar
+|   |   |                   
+|   |   +---oracle.utilities.util_common
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.oid.client_common
+|   |   |   \---3.0.1.1.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   odm.0.0.jar
+|   |   |                   
+|   |   +---oracle.workflow.common
+|   |   |   \---2.6.1.5.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   dll_ja.0.0.jar
+|   |   |                   dll_us.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   res.0.0.jar
+|   |   |                   
+|   |   +---oracle.rdbms.hs_olefs
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   +---oracle.xml.parser.java
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   admin.0.0.jar
+|   |   |                   bin.0.1.jar
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   demo.0.1.jar
+|   |   |                   demo.0.3.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   doc.0.1.jar
+|   |   |                   lib.0.1.jar
+|   |   |                   lib.0.2.jar
+|   |   |                   
+|   |   +---oracle.networking.netcltprod
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.website.nls
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |               \---Expanded
+|   |   |                   +---website
+|   |   |                   |       deMsgClasses.jar
+|   |   |                   |       dePanels.jar
+|   |   |                   |       deSpl.jar
+|   |   |                   |       deVtzSpl.jar
+|   |   |                   |       frMsgClasses.jar
+|   |   |                   |       frPanels.jar
+|   |   |                   |       frSpl.jar
+|   |   |                   |       frVtzSpl.jar
+|   |   |                   |       help_de.jar
+|   |   |                   |       help_fr.jar
+|   |   |                   |       help_ja.jar
+|   |   |                   |       help_ko.jar
+|   |   |                   |       help_pt_BR.jar
+|   |   |                   |       help_zh_CN.jar
+|   |   |                   |       jaMsgClasses.jar
+|   |   |                   |       jaPanels-sjis.jar
+|   |   |                   |       jaSpl.jar
+|   |   |                   |       jaVtzSpl-sjis.jar
+|   |   |                   |       koMsgClasses.jar
+|   |   |                   |       koPanels.jar
+|   |   |                   |       koSpl.jar
+|   |   |                   |       koVtzSpl.jar
+|   |   |                   |       master_zh_CN.jar
+|   |   |                   |       master_pt_BR.jar
+|   |   |                   |       master_de.jar
+|   |   |                   |       master_fr.jar
+|   |   |                   |       master_ja.jar
+|   |   |                   |       master_ko.jar
+|   |   |                   |       pt_BRMsgClasses.jar
+|   |   |                   |       pt_BRPanels.jar
+|   |   |                   |       pt_BRSpl.jar
+|   |   |                   |       pt_BRVtzSpl.jar
+|   |   |                   |       zh_CNMsgClasses.jar
+|   |   |                   |       zh_CNPanels.jar
+|   |   |                   |       zh_CNSpl.jar
+|   |   |                   |       zh_CNVtzSpl.jar
+|   |   |                   |       
+|   |   |                   \---websitehtm
+|   |   |                           emwebsite_zh_CN.html
+|   |   |                           emwebsite_pt_BR.html
+|   |   |                           emwebsite_de.html
+|   |   |                           emwebsite_fr.html
+|   |   |                           emwebsite_ja.html
+|   |   |                           emwebsite_ko.html
+|   |   |                           
+|   |   +---oracle.rdbms.oci
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   +---oracle.cartridges.ordimg
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   mesg.0.1.jar
+|   |   |                   script.0.0.jar
+|   |   |                   
+|   |   +---oracle.xml.parser.plsql
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   demo.0.0.jar
+|   |   |                   doc.0.0.jar
+|   |   |                   lib.0.0.jar
+|   |   |                   sql.0.0.jar
+|   |   |                   
+|   |   +---oracle.java.sqlj.sqljtrans
+|   |   |   \---9.0.1.0.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   
+|   |   +---oracle.sysman.sqlserver
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.sysman.client
+|   |   |   \---9.0.1.0.0
+|   |   |       \---1
+|   |   +---oracle.networking.netsrv
+|   |   |   \---9.0.1.1.1
+|   |   |       \---1
+|   |   |           \---DataFiles
+|   |   |                   build.0.0.jar
+|   |   |                   exec.0.1.jar
+|   |   |                   sample.0.1.jar
+|   |   |                   
+|   |   \---oracle.cartridges.ordmts
+|   |       \---9.0.1.0.1
+|   |           \---1
+|   |               \---DataFiles
+|   |                       admin.0.0.jar
+|   |                       deinst.0.0.jar
+|   |                       resourcedlls.9.0.jar
+|   |                       resourcedlls.8.0.jar
+|   |                       resourcedlls.5.0.jar
+|   |                       resourcedlls.6.0.jar
+|   |                       resourcedlls.7.0.jar
+|   |                       recod.0.0.jar
+|   |                       resourcedlls.4.0.jar
+|   |                       resdisp.0.0.jar
+|   |                       resourcedlls.0.0.jar
+|   |                       resourcedlls.1.0.jar
+|   |                       resourcedlls.2.0.jar
+|   |                       resourcedlls.3.0.jar
+|   |                       sample.0.0.jar
+|   |                       sdk.0.0.jar
+|   |                       
+|   +---Dialogs
+|   |   +---customDialogs
+|   |   |   \---2.4.4
+|   |   |       \---1
+|   |   |               CustomDialogs.jar
+|   |   |               
+|   |   \---standardDialogs
+|   |       \---2.0.1.4.0
+|   |           \---1
+|   |                   standardDialogs.jar
+|   |                   
+|   \---Queries
+|       +---areasQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               areasQueries.jar
+|       |               
+|       +---ClusterQueries
+|       |   \---1.7.0.9.0
+|       |       \---1
+|       |               ClusterQueries.jar
+|       |               
+|       +---fileQueries
+|       |   +---1.7.0.17.0
+|       |   |   \---1
+|       |   |           fileQueries.jar
+|       |   |           
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               fileQueries.jar
+|       |               
+|       +---generalQueries
+|       |   \---2.0.1.5.0
+|       |       \---1
+|       |               generalQueries.jar
+|       |               
+|       +---LangQueries
+|       |   +---1.2
+|       |   |   \---1
+|       |   |           LangQueries.jar
+|       |   |           
+|       |   \---1.3.6
+|       |       \---1
+|       |               LangQueries.jar
+|       |               
+|       +---MemorySizeQuery
+|       |   \---1.1
+|       |       \---1
+|       |               MemorySizeQuery.jar
+|       |               
+|       +---netQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               netQueries.jar
+|       |               
+|       +---NtServicesQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               NtServiceQueries.jar
+|       |               
+|       +---OLAPQueries
+|       |   \---6.3.1.0.0
+|       |       \---1
+|       |               OLAPQueries.jar
+|       |               
+|       +---OraBase_Queries
+|       |   \---1.1
+|       |       \---1
+|       |               OraBaseQueries.jar
+|       |               
+|       +---PrerequisiteQueries
+|       |   \---1.1
+|       |       \---1
+|       |               PrerequisiteQueries.jar
+|       |               
+|       +---rgsQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               rgsQueries.jar
+|       |               
+|       +---RunningProcessQuery
+|       |   \---1.4.1
+|       |       \---1
+|       |               RunningProcessesQuery.jar
+|       |               
+|       +---SIDQueries
+|       |   \---1.2.1
+|       |       \---1
+|       |               SidQueries.jar
+|       |               
+|       +---SpawnQueries
+|       |   \---1.1.1
+|       |       \---1
+|       |               SpawnQueries.jar
+|       |               
+|       +---unixQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               unixQueries.jar
+|       |               
+|       +---w32RegQueries
+|       |   \---2.0.1.4.0
+|       |       \---1
+|       |               w32RegQueryLib.jar
+|       |               
+|       \---WindowsGeneralQueries
+|           \---2.0.1.4.0
+|               \---1
+|                       WindowsGeneralQueries.jar
+|                       
+\---winsock2
+        ws2setup.exe
+        

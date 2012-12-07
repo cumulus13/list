@@ -1,0 +1,7063 @@
+Folder PATH listing for volume Hex
+Volume serial number is 9B73-D46E
+G:\
+|   .cshrc
+|   .profile
+|   COPYRIGHT
+|   boot.catalog
+|   home
+|   sys
+|   
++---bin
+|       [
+|       cat
+|       chflags
+|       chio
+|       chmod
+|       cp
+|       csh
+|       date
+|       dd
+|       df
+|       domainname
+|       echo
+|       ed
+|       expr
+|       getfacl
+|       hostname
+|       kenv
+|       kill
+|       link
+|       ln
+|       ls
+|       mkdir
+|       mv
+|       pax
+|       pgrep
+|       pkill
+|       ps
+|       pwd
+|       rcp
+|       realpath
+|       red
+|       rm
+|       rmail
+|       rmdir
+|       setfacl
+|       sh
+|       sleep
+|       stty
+|       sync
+|       tcsh
+|       test
+|       unlink
+|       uuidgen
+|       
++---boot
+|   |   beastie.4th
+|   |   boot
+|   |   boot0
+|   |   boot0sio
+|   |   boot1
+|   |   boot2
+|   |   cdboot
+|   |   device.hints
+|   |   frames.4th
+|   |   gptboot
+|   |   loader
+|   |   loader.4th
+|   |   loader.conf
+|   |   loader.help
+|   |   loader.rc
+|   |   mbr
+|   |   pmbr
+|   |   pxeboot
+|   |   screen.4th
+|   |   support.4th
+|   |   
+|   +---defaults
+|   |       loader.conf
+|   |       
+|   +---firmware
+|   +---kernel
+|   |       3dfx.ko
+|   |       3dfx_linux.ko
+|   |       aac.ko
+|   |       aac_linux.ko
+|   |       accf_data.ko
+|   |       accf_http.ko
+|   |       acpi.ko
+|   |       acpi_aiboost.ko
+|   |       acpi_asus.ko
+|   |       acpi_dock.ko
+|   |       acpi_fujitsu.ko
+|   |       acpi_ibm.ko
+|   |       acpi_panasonic.ko
+|   |       acpi_sony.ko
+|   |       acpi_toshiba.ko
+|   |       acpi_video.ko
+|   |       agp.ko
+|   |       aha.ko
+|   |       ahb.ko
+|   |       ahc.ko
+|   |       ahc_eisa.ko
+|   |       ahc_isa.ko
+|   |       ahc_pci.ko
+|   |       ahd.ko
+|   |       aic.ko
+|   |       aio.ko
+|   |       alias_cuseeme.ko
+|   |       alias_dummy.ko
+|   |       alias_ftp.ko
+|   |       alias_irc.ko
+|   |       alias_nbt.ko
+|   |       alias_pptp.ko
+|   |       alias_skinny.ko
+|   |       alias_smedia.ko
+|   |       alpm.ko
+|   |       amd.ko
+|   |       amdpm.ko
+|   |       amdsmb.ko
+|   |       amr.ko
+|   |       amr_linux.ko
+|   |       aout.ko
+|   |       apm.ko
+|   |       apm_saver.ko
+|   |       arcmsr.ko
+|   |       arcnet.ko
+|   |       asr.ko
+|   |       ata.ko
+|   |       atacard.ko
+|   |       atadisk.ko
+|   |       ataisa.ko
+|   |       atapci.ko
+|   |       atapicam.ko
+|   |       atapicd.ko
+|   |       atapifd.ko
+|   |       atapist.ko
+|   |       ataraid.ko
+|   |       ath_hal.ko
+|   |       ath_rate.ko
+|   |       bktr.ko
+|   |       bktr_mem.ko
+|   |       blank_saver.ko
+|   |       bridgestp.ko
+|   |       cam.ko
+|   |       cardbus.ko
+|   |       cbb.ko
+|   |       cd9660.ko
+|   |       cd9660_iconv.ko
+|   |       ciss.ko
+|   |       cmx.ko
+|   |       coda.ko
+|   |       coda5.ko
+|   |       coretemp.ko
+|   |       cpufreq.ko
+|   |       crypto.ko
+|   |       cryptodev.ko
+|   |       cxgb_t3fw.ko
+|   |       daemon_saver.ko
+|   |       dcons.ko
+|   |       dcons_crom.ko
+|   |       digi.ko
+|   |       digi_CX.ko
+|   |       digi_CX_PCI.ko
+|   |       digi_EPCX.ko
+|   |       digi_EPCX_PCI.ko
+|   |       digi_Xe.ko
+|   |       digi_Xem.ko
+|   |       digi_Xr.ko
+|   |       dpt.ko
+|   |       dragon_saver.ko
+|   |       drm.ko
+|   |       dummynet.ko
+|   |       elink.ko
+|   |       exca.ko
+|   |       ext2fs.ko
+|   |       fade_saver.ko
+|   |       fdc.ko
+|   |       fdescfs.ko
+|   |       fire_saver.ko
+|   |       firewire.ko
+|   |       firmware.ko
+|   |       geom_bde.ko
+|   |       geom_bsd.ko
+|   |       geom_cache.ko
+|   |       geom_ccd.ko
+|   |       geom_concat.ko
+|   |       geom_eli.ko
+|   |       geom_fox.ko
+|   |       geom_gate.ko
+|   |       geom_journal.ko
+|   |       geom_label.ko
+|   |       geom_linux_lvm.ko
+|   |       geom_mbr.ko
+|   |       geom_md.ko
+|   |       geom_mirror.ko
+|   |       geom_multipath.ko
+|   |       geom_nop.ko
+|   |       geom_part_apm.ko
+|   |       geom_part_bsd.ko
+|   |       geom_part_gpt.ko
+|   |       geom_part_mbr.ko
+|   |       geom_part_pc98.ko
+|   |       geom_part_vtoc8.ko
+|   |       geom_pc98.ko
+|   |       geom_raid3.ko
+|   |       geom_shsec.ko
+|   |       geom_stripe.ko
+|   |       geom_sunlabel.ko
+|   |       geom_uzip.ko
+|   |       geom_vinum.ko
+|   |       geom_virstor.ko
+|   |       geom_vol_ffs.ko
+|   |       geom_zero.ko
+|   |       green_saver.ko
+|   |       hifn.ko
+|   |       hptiop.ko
+|   |       hptmv.ko
+|   |       hptrr.ko
+|   |       hwpmc.ko
+|   |       i915.ko
+|   |       ibcs2.ko
+|   |       ibcs2_coff.ko
+|   |       ichsmb.ko
+|   |       ichwd.ko
+|   |       ida.ko
+|   |       if_age.ko
+|   |       if_an.ko
+|   |       if_ar.ko
+|   |       if_arl.ko
+|   |       if_ath.ko
+|   |       if_aue.ko
+|   |       if_awi.ko
+|   |       if_axe.ko
+|   |       if_bce.ko
+|   |       if_bfe.ko
+|   |       if_bge.ko
+|   |       if_bridge.ko
+|   |       if_cdce.ko
+|   |       if_ce.ko
+|   |       if_cm.ko
+|   |       if_cp.ko
+|   |       if_cs.ko
+|   |       if_ct.ko
+|   |       if_cue.ko
+|   |       if_cx.ko
+|   |       if_cxgb.ko
+|   |       if_dc.ko
+|   |       if_de.ko
+|   |       if_disc.ko
+|   |       if_ed.ko
+|   |       if_edsc.ko
+|   |       if_ef.ko
+|   |       if_em.ko
+|   |       if_en.ko
+|   |       if_ep.ko
+|   |       if_et.ko
+|   |       if_ex.ko
+|   |       if_faith.ko
+|   |       if_fatm.ko
+|   |       if_fe.ko
+|   |       if_fwe.ko
+|   |       if_fwip.ko
+|   |       if_fxp.ko
+|   |       if_gem.ko
+|   |       if_gif.ko
+|   |       if_gre.ko
+|   |       if_hatm.ko
+|   |       if_hme.ko
+|   |       if_ic.ko
+|   |       if_ie.ko
+|   |       if_igb.ko
+|   |       if_ipw.ko
+|   |       if_iwi.ko
+|   |       if_ixgb.ko
+|   |       if_jme.ko
+|   |       if_kue.ko
+|   |       if_lagg.ko
+|   |       if_le.ko
+|   |       if_lge.ko
+|   |       if_lmc.ko
+|   |       if_malo.ko
+|   |       if_msk.ko
+|   |       if_mxge.ko
+|   |       if_my.ko
+|   |       if_ndis.ko
+|   |       if_nfe.ko
+|   |       if_nge.ko
+|   |       if_nve.ko
+|   |       if_nxge.ko
+|   |       if_oltr.ko
+|   |       if_patm.ko
+|   |       if_pcn.ko
+|   |       if_ppp.ko
+|   |       if_ral.ko
+|   |       if_ray.ko
+|   |       if_re.ko
+|   |       if_rl.ko
+|   |       if_rue.ko
+|   |       if_rum.ko
+|   |       if_sbni.ko
+|   |       if_sbsh.ko
+|   |       if_sf.ko
+|   |       if_sis.ko
+|   |       if_sk.ko
+|   |       if_sl.ko
+|   |       if_sn.ko
+|   |       if_sr.ko
+|   |       if_ste.ko
+|   |       if_stf.ko
+|   |       if_stge.ko
+|   |       if_tap.ko
+|   |       if_ti.ko
+|   |       if_tl.ko
+|   |       if_tun.ko
+|   |       if_tx.ko
+|   |       if_txp.ko
+|   |       if_udav.ko
+|   |       if_ural.ko
+|   |       if_vge.ko
+|   |       if_vlan.ko
+|   |       if_vr.ko
+|   |       if_vx.ko
+|   |       if_wb.ko
+|   |       if_wi.ko
+|   |       if_wpi.ko
+|   |       if_xe.ko
+|   |       if_xl.ko
+|   |       if_zyd.ko
+|   |       iic.ko
+|   |       iicbb.ko
+|   |       iicbus.ko
+|   |       iicsmb.ko
+|   |       iir.ko
+|   |       intpm.ko
+|   |       io.ko
+|   |       ip_mroute.ko
+|   |       ipdivert.ko
+|   |       ipfw.ko
+|   |       ipfw_nat.ko
+|   |       ipl.ko
+|   |       ipmi.ko
+|   |       ips.ko
+|   |       ipw_bss.ko
+|   |       ipw_ibss.ko
+|   |       ipw_monitor.ko
+|   |       iscsi_initiator.ko
+|   |       isp.ko
+|   |       isp_1040.ko
+|   |       isp_1040_it.ko
+|   |       isp_1080.ko
+|   |       isp_1080_it.ko
+|   |       isp_12160.ko
+|   |       isp_12160_it.ko
+|   |       isp_2100.ko
+|   |       isp_2200.ko
+|   |       isp_2300.ko
+|   |       isp_2322.ko
+|   |       isp_2400.ko
+|   |       ispfw.ko
+|   |       iwi_bss.ko
+|   |       iwi_ibss.ko
+|   |       iwi_monitor.ko
+|   |       joy.ko
+|   |       kbdmux.ko
+|   |       kernel.gz
+|   |       krpc.ko
+|   |       libalias.ko
+|   |       libiconv.ko
+|   |       libmbpool.ko
+|   |       libmchain.ko
+|   |       linker.hints
+|   |       linprocfs.ko
+|   |       linsysfs.ko
+|   |       linux.ko
+|   |       logo_saver.ko
+|   |       lpbb.ko
+|   |       lpt.ko
+|   |       mac_biba.ko
+|   |       mac_bsdextended.ko
+|   |       mac_ifoff.ko
+|   |       mac_lomac.ko
+|   |       mac_mls.ko
+|   |       mac_none.ko
+|   |       mac_partition.ko
+|   |       mac_portacl.ko
+|   |       mac_seeotheruids.ko
+|   |       mac_stub.ko
+|   |       mac_test.ko
+|   |       mach64.ko
+|   |       mcd.ko
+|   |       mem.ko
+|   |       mfi.ko
+|   |       mfi_linux.ko
+|   |       mfip.ko
+|   |       mga.ko
+|   |       miibus.ko
+|   |       mlx.ko
+|   |       mly.ko
+|   |       mpt.ko
+|   |       mqueuefs.ko
+|   |       msdosfs.ko
+|   |       msdosfs_iconv.ko
+|   |       mse.ko
+|   |       mxge_eth_z8e.ko
+|   |       mxge_ethp_z8e.ko
+|   |       mxge_rss_eth_z8e.ko
+|   |       mxge_rss_ethp_z8e.ko
+|   |       ncp.ko
+|   |       ncv.ko
+|   |       ndis.ko
+|   |       netgraph.ko
+|   |       nfsclient.ko
+|   |       nfslockd.ko
+|   |       nfsmb.ko
+|   |       nfsserver.ko
+|   |       ng_UI.ko
+|   |       ng_async.ko
+|   |       ng_atm.ko
+|   |       ng_atmllc.ko
+|   |       ng_bluetooth.ko
+|   |       ng_bpf.ko
+|   |       ng_bridge.ko
+|   |       ng_bt3c.ko
+|   |       ng_btsocket.ko
+|   |       ng_car.ko
+|   |       ng_ccatm.ko
+|   |       ng_cisco.ko
+|   |       ng_deflate.ko
+|   |       ng_device.ko
+|   |       ng_echo.ko
+|   |       ng_eiface.ko
+|   |       ng_etf.ko
+|   |       ng_ether.ko
+|   |       ng_fec.ko
+|   |       ng_frame_relay.ko
+|   |       ng_gif.ko
+|   |       ng_gif_demux.ko
+|   |       ng_h4.ko
+|   |       ng_hci.ko
+|   |       ng_hole.ko
+|   |       ng_hub.ko
+|   |       ng_iface.ko
+|   |       ng_ip_input.ko
+|   |       ng_ipfw.ko
+|   |       ng_ksocket.ko
+|   |       ng_l2cap.ko
+|   |       ng_l2tp.ko
+|   |       ng_lmi.ko
+|   |       ng_mppc.ko
+|   |       ng_nat.ko
+|   |       ng_netflow.ko
+|   |       ng_one2many.ko
+|   |       ng_ppp.ko
+|   |       ng_pppoe.ko
+|   |       ng_pptpgre.ko
+|   |       ng_pred1.ko
+|   |       ng_rfc1490.ko
+|   |       ng_socket.ko
+|   |       ng_source.ko
+|   |       ng_split.ko
+|   |       ng_sppp.ko
+|   |       ng_sscfu.ko
+|   |       ng_sscop.ko
+|   |       ng_sync_ar.ko
+|   |       ng_sync_sr.ko
+|   |       ng_tag.ko
+|   |       ng_tcpmss.ko
+|   |       ng_tee.ko
+|   |       ng_tty.ko
+|   |       ng_ubt.ko
+|   |       ng_uni.ko
+|   |       ng_vjc.ko
+|   |       ng_vlan.ko
+|   |       ngatmbase.ko
+|   |       nmdm.ko
+|   |       nsp.ko
+|   |       ntfs.ko
+|   |       ntfs_iconv.ko
+|   |       nullfs.ko
+|   |       nvram.ko
+|   |       nwfs.ko
+|   |       padlock.ko
+|   |       pccard.ko
+|   |       pcf.ko
+|   |       pcfclock.ko
+|   |       pecoff.ko
+|   |       pf.ko
+|   |       pflog.ko
+|   |       plip.ko
+|   |       portalfs.ko
+|   |       ppbus.ko
+|   |       ppc.ko
+|   |       ppi.ko
+|   |       pps.ko
+|   |       procfs.ko
+|   |       pseudofs.ko
+|   |       pst.ko
+|   |       puc.ko
+|   |       r128.ko
+|   |       radeon.ko
+|   |       rain_saver.ko
+|   |       random.ko
+|   |       rc.ko
+|   |       rc4.ko
+|   |       reiserfs.ko
+|   |       rp.ko
+|   |       s3.ko
+|   |       safe.ko
+|   |       savage.ko
+|   |       sbp.ko
+|   |       sbp_targ.ko
+|   |       scc.ko
+|   |       scd.ko
+|   |       scsi_low.ko
+|   |       sem.ko
+|   |       sio.ko
+|   |       sis.ko
+|   |       smapi.ko
+|   |       smb.ko
+|   |       smbfs.ko
+|   |       smbios.ko
+|   |       smbus.ko
+|   |       snake_saver.ko
+|   |       snd_ad1816.ko
+|   |       snd_als4000.ko
+|   |       snd_atiixp.ko
+|   |       snd_cmi.ko
+|   |       snd_cs4281.ko
+|   |       snd_csa.ko
+|   |       snd_driver.ko
+|   |       snd_ds1.ko
+|   |       snd_emu10k1.ko
+|   |       snd_emu10kx.ko
+|   |       snd_envy24.ko
+|   |       snd_envy24ht.ko
+|   |       snd_es137x.ko
+|   |       snd_ess.ko
+|   |       snd_fm801.ko
+|   |       snd_hda.ko
+|   |       snd_ich.ko
+|   |       snd_maestro.ko
+|   |       snd_maestro3.ko
+|   |       snd_mss.ko
+|   |       snd_neomagic.ko
+|   |       snd_sb16.ko
+|   |       snd_sb8.ko
+|   |       snd_sbc.ko
+|   |       snd_solo.ko
+|   |       snd_spicds.ko
+|   |       snd_t4dwave.ko
+|   |       snd_uaudio.ko
+|   |       snd_via8233.ko
+|   |       snd_via82c686.ko
+|   |       snd_vibes.ko
+|   |       snp.ko
+|   |       sound.ko
+|   |       speaker.ko
+|   |       splash_bmp.ko
+|   |       splash_pcx.ko
+|   |       sppp.ko
+|   |       star_saver.ko
+|   |       stg.ko
+|   |       streams.ko
+|   |       sym.ko
+|   |       sysvmsg.ko
+|   |       sysvsem.ko
+|   |       sysvshm.ko
+|   |       tdfx.ko
+|   |       tmpfs.ko
+|   |       trm.ko
+|   |       twa.ko
+|   |       twe.ko
+|   |       uark.ko
+|   |       uart.ko
+|   |       ubsa.ko
+|   |       ubsec.ko
+|   |       ubser.ko
+|   |       ubtbcmfw.ko
+|   |       ucom.ko
+|   |       ucycom.ko
+|   |       udbp.ko
+|   |       udf.ko
+|   |       udf_iconv.ko
+|   |       ufm.ko
+|   |       ufoma.ko
+|   |       uftdi.ko
+|   |       ugen.ko
+|   |       uhid.ko
+|   |       ukbd.ko
+|   |       ulpt.ko
+|   |       umass.ko
+|   |       umct.ko
+|   |       umodem.ko
+|   |       ums.ko
+|   |       unionfs.ko
+|   |       uplcom.ko
+|   |       urio.ko
+|   |       usb.ko
+|   |       uscanner.ko
+|   |       uslcom.ko
+|   |       utopia.ko
+|   |       uvisor.ko
+|   |       uvscom.ko
+|   |       vesa.ko
+|   |       viapm.ko
+|   |       vkbd.ko
+|   |       vpd.ko
+|   |       vpo.ko
+|   |       warp_saver.ko
+|   |       wlan.ko
+|   |       wlan_acl.ko
+|   |       wlan_amrr.ko
+|   |       wlan_ccmp.ko
+|   |       wlan_scan_ap.ko
+|   |       wlan_scan_sta.ko
+|   |       wlan_tkip.ko
+|   |       wlan_wep.ko
+|   |       wlan_xauth.ko
+|   |       wpifw.ko
+|   |       xfs.ko
+|   |       zfs.ko
+|   |       zlib.ko
+|   |       
+|   +---modules
+|   \---zfs
++---dev
+|       null
+|       
++---dist
+|       etc.dirs
+|       root.dirs
+|       root.dist.bz2
+|       uniondirs
+|       
++---etc
+|   |   aliases
+|   |   amd.map
+|   |   apmd.conf
+|   |   auth.conf
+|   |   crontab
+|   |   csh.cshrc
+|   |   csh.login
+|   |   csh.logout
+|   |   ddb.conf
+|   |   devd.conf
+|   |   devfs.conf
+|   |   dhclient.conf
+|   |   disktab
+|   |   dumpdates
+|   |   fbtab
+|   |   freebsd-update.conf
+|   |   fstab
+|   |   ftpusers
+|   |   gettytab
+|   |   group
+|   |   hosts
+|   |   hosts.allow
+|   |   hosts.equiv
+|   |   hosts.lpd
+|   |   inetd.conf
+|   |   libalias.conf
+|   |   locate.rc
+|   |   login.access
+|   |   login.conf
+|   |   login.conf.db
+|   |   mac.conf
+|   |   mail.rc
+|   |   make.conf
+|   |   manpath.config
+|   |   manpath.config.bak
+|   |   manpath.config.bak.xorg
+|   |   master.passwd
+|   |   motd
+|   |   namedb
+|   |   netconfig
+|   |   netstart
+|   |   network.subr
+|   |   networks
+|   |   newsyslog.conf
+|   |   nscd.conf
+|   |   nsmb.conf
+|   |   nsswitch.conf
+|   |   opieaccess
+|   |   passwd
+|   |   pccard_ether
+|   |   pf.os
+|   |   phones
+|   |   portsnap.conf
+|   |   printcap
+|   |   profile
+|   |   protocols
+|   |   pwd.db
+|   |   rc
+|   |   rc.bsdextended
+|   |   rc.conf
+|   |   rc.firewall
+|   |   rc.firewall6
+|   |   rc.initdiskless
+|   |   rc.local
+|   |   rc.resume
+|   |   rc.sendmail
+|   |   rc.shutdown
+|   |   rc.subr
+|   |   rc.suspend
+|   |   remote
+|   |   rmt
+|   |   rpc
+|   |   services
+|   |   shells
+|   |   snmpd.config
+|   |   spwd.db
+|   |   sysctl.conf
+|   |   syslog.conf
+|   |   termcap
+|   |   ttys
+|   |   
+|   +---X11
+|   |       xorg.conf.orig
+|   |       xorg.conf.qemu
+|   |       xorg.conf.safe
+|   |       xorg.conf.vesa
+|   |       xorg.conf.vmware
+|   |       
+|   +---bluetooth
+|   |       hcsecd.conf
+|   |       hosts
+|   |       protocols
+|   |       
+|   +---defaults
+|   |       bluetooth.device.conf
+|   |       devfs.rules
+|   |       pccard.conf
+|   |       periodic.conf
+|   |       rc.conf
+|   |       
+|   +---gnats
+|   |       freefall
+|   |       
+|   +---gss
+|   |       mech
+|   |       qop
+|   |       
+|   +---isdn
+|   |       answer
+|   |       holidays.D
+|   |       isdnd.rates.A
+|   |       isdnd.rates.D
+|   |       isdnd.rates.F
+|   |       isdnd.rates.L
+|   |       isdnd.rates.UK.BT
+|   |       isdnd.rc.sample
+|   |       isdntel
+|   |       isdntel.alias.sample
+|   |       record
+|   |       tell
+|   |       tell-record
+|   |       unknown_incoming
+|   |       
+|   +---mail
+|   |       Makefile
+|   |       README
+|   |       access.sample
+|   |       aliases
+|   |       freebsd.cf
+|   |       freebsd.mc
+|   |       freebsd.submit.cf
+|   |       freebsd.submit.mc
+|   |       helpfile
+|   |       mailer.conf
+|   |       mailertable.sample
+|   |       sendmail.cf
+|   |       submit.cf
+|   |       virtusertable.sample
+|   |       
+|   +---mtree
+|   |       BIND.chroot.dist
+|   |       BSD.include.dist
+|   |       BSD.local.dist
+|   |       BSD.root.dist
+|   |       BSD.sendmail.dist
+|   |       BSD.usr.dist
+|   |       BSD.var.dist
+|   |       BSD.x11-4.dist
+|   |       BSD.x11.dist
+|   |       
+|   +---ntp
+|   +---pam.d
+|   |       README
+|   |       atrun
+|   |       cron
+|   |       ftp
+|   |       ftpd
+|   |       gdm
+|   |       imap
+|   |       kde
+|   |       login
+|   |       other
+|   |       passwd
+|   |       pop3
+|   |       rsh
+|   |       sshd
+|   |       su
+|   |       system
+|   |       telnetd
+|   |       xdm
+|   |       
+|   +---periodic
+|   |   +---daily
+|   |   |       100.clean-disks
+|   |   |       110.clean-tmps
+|   |   |       120.clean-preserve
+|   |   |       130.clean-msgs
+|   |   |       140.clean-rwho
+|   |   |       150.clean-hoststat
+|   |   |       200.backup-passwd
+|   |   |       210.backup-aliases
+|   |   |       300.calendar
+|   |   |       310.accounting
+|   |   |       330.news
+|   |   |       400.status-disks
+|   |   |       404.status-zfs
+|   |   |       405.status-ata-raid
+|   |   |       406.status-gmirror
+|   |   |       407.status-graid3
+|   |   |       408.status-gstripe
+|   |   |       409.status-gconcat
+|   |   |       420.status-network
+|   |   |       430.status-rwho
+|   |   |       440.status-mailq
+|   |   |       450.status-security
+|   |   |       460.status-mail-rejects
+|   |   |       470.status-named
+|   |   |       480.status-ntpd
+|   |   |       500.queuerun
+|   |   |       999.local
+|   |   |       
+|   |   +---monthly
+|   |   |       200.accounting
+|   |   |       999.local
+|   |   |       
+|   |   +---security
+|   |   |       100.chksetuid
+|   |   |       200.chkmounts
+|   |   |       300.chkuid0
+|   |   |       400.passwdless
+|   |   |       410.logincheck
+|   |   |       500.ipfwdenied
+|   |   |       510.ipfdenied
+|   |   |       520.pfdenied
+|   |   |       550.ipfwlimit
+|   |   |       700.kernelmsg
+|   |   |       800.loginfail
+|   |   |       900.tcpwrap
+|   |   |       security.functions
+|   |   |       
+|   |   \---weekly
+|   |           310.locate
+|   |           320.whatis
+|   |           330.catman
+|   |           340.noid
+|   |           400.status-pkg
+|   |           999.local
+|   |           
+|   +---ppp
+|   |       ppp.conf
+|   |       
+|   +---rc.d
+|   |       DAEMON
+|   |       FILESYSTEMS
+|   |       LOGIN
+|   |       NETWORKING
+|   |       SERVERS
+|   |       abi
+|   |       accounting
+|   |       addswap
+|   |       adjkerntz
+|   |       amd
+|   |       apm
+|   |       apmd
+|   |       archdep
+|   |       atm1
+|   |       atm2
+|   |       atm3
+|   |       auditd
+|   |       auto_linklocal
+|   |       bgfsck
+|   |       bluetooth
+|   |       bootparams
+|   |       bridge
+|   |       bsnmpd
+|   |       bthidd
+|   |       ccd
+|   |       cleanvar
+|   |       cleartmp
+|   |       cron
+|   |       ddb
+|   |       devd
+|   |       devfs
+|   |       dhclient
+|   |       dmesg
+|   |       dumpon
+|   |       early.sh
+|   |       encswap
+|   |       fsck
+|   |       ftp-proxy
+|   |       ftpd
+|   |       gbde
+|   |       geli
+|   |       geli2
+|   |       hcsecd
+|   |       hostapd
+|   |       hostid
+|   |       hostname
+|   |       idmapd
+|   |       inetd
+|   |       initrandom
+|   |       ip6addrctl
+|   |       ip6fw
+|   |       ipfilter
+|   |       ipfs
+|   |       ipfw
+|   |       ipmon
+|   |       ipnat
+|   |       ipsec
+|   |       ipxrouted
+|   |       isdnd
+|   |       jail
+|   |       kadmind
+|   |       kerberos
+|   |       kernel
+|   |       keyserv
+|   |       kldxref
+|   |       kpasswdd
+|   |       ldconfig
+|   |       local
+|   |       localpkg
+|   |       lockd
+|   |       lpd
+|   |       mdconfig
+|   |       mdconfig2
+|   |       mixer
+|   |       motd
+|   |       mountcritlocal
+|   |       mountcritremote
+|   |       mountd
+|   |       mountlate
+|   |       moused
+|   |       mroute6d
+|   |       mrouted
+|   |       msgs
+|   |       named
+|   |       natd
+|   |       netif
+|   |       netoptions
+|   |       network_ipv6
+|   |       newsyslog
+|   |       nfsclient
+|   |       nfsd
+|   |       nfsserver
+|   |       nisdomain
+|   |       nscd
+|   |       nsswitch
+|   |       ntpd
+|   |       ntpdate
+|   |       othermta
+|   |       pf
+|   |       pflog
+|   |       pfsync
+|   |       power_profile
+|   |       powerd
+|   |       ppp
+|   |       pppoed
+|   |       pwcheck
+|   |       quota
+|   |       random
+|   |       rarpd
+|   |       resolv
+|   |       rfcomm_pppd_server
+|   |       root
+|   |       route6d
+|   |       routed
+|   |       routing
+|   |       rpcbind
+|   |       rtadvd
+|   |       rwho
+|   |       savecore
+|   |       sdpd
+|   |       securelevel
+|   |       sendmail
+|   |       serial
+|   |       sound_detect
+|   |       sppp
+|   |       sshd
+|   |       statd
+|   |       swap1
+|   |       syscons
+|   |       sysctl
+|   |       syslogd
+|   |       timed
+|   |       tmp
+|   |       ugidfw
+|   |       unionfs
+|   |       uzip
+|   |       var
+|   |       virecover
+|   |       watchdogd
+|   |       wpa_supplicant
+|   |       xconfig
+|   |       ypbind
+|   |       yppasswdd
+|   |       ypserv
+|   |       ypset
+|   |       ypupdated
+|   |       ypxfrd
+|   |       zfs
+|   |       
+|   +---security
+|   |       audit_class
+|   |       audit_control
+|   |       audit_event
+|   |       audit_user
+|   |       audit_warn
+|   |       
+|   +---skel
+|   +---ssh
+|   |       moduli
+|   |       ssh_config
+|   |       sshd_config
+|   |       
+|   +---ssl
+|   |       openssl.cnf
+|   |       
+|   \---zfs
++---lib
+|   |   libalias.so.6
+|   |   libalias_cuseeme.so
+|   |   libalias_dummy.so
+|   |   libalias_ftp.so
+|   |   libalias_irc.so
+|   |   libalias_nbt.so
+|   |   libalias_pptp.so
+|   |   libalias_skinny.so
+|   |   libalias_smedia.so
+|   |   libavl.so.1
+|   |   libbegemot.so.3
+|   |   libbsdxml.so.3
+|   |   libbsnmp.so.4
+|   |   libc.so.7
+|   |   libcam.so.4
+|   |   libcrypt.so.4
+|   |   libcrypto.so.5
+|   |   libdevstat.so.6
+|   |   libedit.so.6
+|   |   libgcc_s.so.1
+|   |   libgeom.so.4
+|   |   libipsec.so.3
+|   |   libipx.so.4
+|   |   libkiconv.so.3
+|   |   libkvm.so.4
+|   |   libm.so.5
+|   |   libmd.so.4
+|   |   libncurses.so.7
+|   |   libncursesw.so.7
+|   |   libnvpair.so.1
+|   |   libpcap.so.5
+|   |   libreadline.so.7
+|   |   libsbuf.so.4
+|   |   libssp.so.0
+|   |   libthr.so.3
+|   |   libufs.so.4
+|   |   libumem.so.1
+|   |   libutil.so.7
+|   |   libuutil.so.1
+|   |   libz.so.4
+|   |   libzfs.so.1
+|   |   libzpool.so.1
+|   |   
+|   \---geom
+|           geom_cache.so
+|           geom_concat.so
+|           geom_eli.so
+|           geom_journal.so
+|           geom_label.so
+|           geom_mirror.so
+|           geom_multipath.so
+|           geom_nop.so
+|           geom_part.so
+|           geom_raid3.so
+|           geom_shsec.so
+|           geom_stripe.so
+|           geom_virstor.so
+|           
++---libexec
+|       ld-elf.so.1
+|       
++---media
++---mnt
+|   \---union
++---proc
++---rescue
+|       [
+|       atacontrol
+|       atmconfig
+|       badsect
+|       bsdlabel
+|       bunzip2
+|       bzcat
+|       bzip2
+|       camcontrol
+|       cat
+|       ccdconfig
+|       chflags
+|       chio
+|       chmod
+|       chroot
+|       clri
+|       cp
+|       csh
+|       date
+|       dd
+|       devfs
+|       df
+|       dhclient
+|       dhclient-script
+|       disklabel
+|       dmesg
+|       dump
+|       dumpfs
+|       dumpon
+|       echo
+|       ed
+|       ex
+|       expr
+|       fastboot
+|       fasthalt
+|       fdisk
+|       fsck
+|       fsck_4.2bsd
+|       fsck_ffs
+|       fsck_msdosfs
+|       fsck_ufs
+|       fsdb
+|       fsirand
+|       gbde
+|       getfacl
+|       groups
+|       gunzip
+|       gzcat
+|       gzip
+|       halt
+|       hostname
+|       id
+|       ifconfig
+|       init
+|       ipf
+|       kenv
+|       kill
+|       kldconfig
+|       kldload
+|       kldstat
+|       kldunload
+|       ldconfig
+|       link
+|       ln
+|       ls
+|       md5
+|       mdconfig
+|       mdmfs
+|       mkdir
+|       mknod
+|       mount
+|       mount_cd9660
+|       mount_msdosfs
+|       mount_nfs
+|       mount_ntfs
+|       mount_nullfs
+|       mount_udf
+|       mount_unionfs
+|       mv
+|       newfs
+|       newfs_msdos
+|       nextboot
+|       nos-tun
+|       pax
+|       ping
+|       ping6
+|       ps
+|       pwd
+|       rcorder
+|       rcp
+|       rdump
+|       realpath
+|       reboot
+|       red
+|       rescue
+|       restore
+|       rm
+|       rmdir
+|       route
+|       routed
+|       rrestore
+|       rtquery
+|       rtsol
+|       savecore
+|       sconfig
+|       setfacl
+|       sh
+|       slattach
+|       spppcontrol
+|       startslip
+|       stty
+|       swapon
+|       sync
+|       sysctl
+|       tar
+|       tcsh
+|       test
+|       tunefs
+|       umount
+|       unlink
+|       vi
+|       whoami
+|       zcat
+|       
++---root
+|       .cshrc
+|       .k5login
+|       .login
+|       .profile
+|       
++---sbin
+|       adjkerntz
+|       atacontrol
+|       atmconfig
+|       badsect
+|       bsdlabel
+|       camcontrol
+|       ccdconfig
+|       clri
+|       comcontrol
+|       conscontrol
+|       ddb
+|       devd
+|       devfs
+|       dhclient
+|       dhclient-script
+|       disklabel
+|       dmesg
+|       dump
+|       dumpfs
+|       dumpon
+|       fastboot
+|       fasthalt
+|       fdisk
+|       ffsinfo
+|       fsck
+|       fsck_4.2bsd
+|       fsck_ffs
+|       fsck_msdosfs
+|       fsck_ufs
+|       fsdb
+|       fsirand
+|       gbde
+|       gcache
+|       gconcat
+|       geli
+|       geom
+|       ggatec
+|       ggated
+|       ggatel
+|       gjournal
+|       glabel
+|       gmirror
+|       gmultipath
+|       gnop
+|       gpart
+|       gpt
+|       graid3
+|       growfs
+|       gshsec
+|       gstripe
+|       gvinum
+|       gvirstor
+|       halt
+|       idmapd
+|       ifconfig
+|       init
+|       ipf
+|       ipfs
+|       ipfstat
+|       ipftest
+|       ipfw
+|       ipmon
+|       ipnat
+|       ippool
+|       ipresend
+|       iscontrol
+|       kldconfig
+|       kldload
+|       kldstat
+|       kldunload
+|       ldconfig
+|       md5
+|       mdconfig
+|       mdmfs
+|       mknod
+|       mksnap_ffs
+|       mount
+|       mount_cd9660
+|       mount_mfs
+|       mount_msdosfs
+|       mount_nfs
+|       mount_nfs4
+|       mount_ntfs
+|       mount_nullfs
+|       mount_udf
+|       mount_unionfs
+|       natd
+|       newfs
+|       newfs_msdos
+|       nextboot
+|       nfsiod
+|       nologin
+|       nos-tun
+|       pfctl
+|       pflogd
+|       ping
+|       ping6
+|       quotacheck
+|       rcorder
+|       rdump
+|       reboot
+|       recoverdisk
+|       restore
+|       rmd160
+|       route
+|       routed
+|       rrestore
+|       rtquery
+|       rtsol
+|       savecore
+|       sconfig
+|       setkey
+|       sha1
+|       sha256
+|       shutdown
+|       slattach
+|       spppcontrol
+|       startslip
+|       sunlabel
+|       swapctl
+|       swapoff
+|       swapon
+|       sysctl
+|       tunefs
+|       umount
+|       zfs
+|       zpool
+|       
++---tmp
++---usr
++---uzip
+|       usr.uzip
+|       
+\---var
+    +---account
+    +---at
+    |   +---jobs
+    |   \---spool
+    +---audit
+    +---backups
+    +---cache
+    |   +---cups
+    |   \---hald
+    +---crash
+    |       minfree
+    |       
+    +---cron
+    |   \---tabs
+    +---db
+    |   |   locate.database
+    |   |   
+    |   +---clamav
+    |   +---dbus
+    |   |       machine-id
+    |   |       
+    |   +---entropy
+    |   +---flows
+    |   +---fontconfig
+    |   |       1171878ed65b84c06a8cb69f92756d8a-x86.cache-2
+    |   |       1e99991e6eeb0b3e05d4185c886f4b19-x86.cache-2
+    |   |       26bb088036316205aa16f9d7022440b5-x86.cache-2
+    |   |       55cbb48b13195d29d336fd465f155e7b-x86.cache-2
+    |   |       75ff5e8ddb5aa19e5f229f72d89c73db-x86.cache-2
+    |   |       9568bda265bdf5ba36e40014d9f11acb-x86.cache-2
+    |   |       9f80c6c177c9c895dff43712fdbf8fa4-x86.cache-2
+    |   |       a046218b5fb18228765bf87355e87ca4-x86.cache-2
+    |   |       aaab250f37aebd81c57221b7b4bea585-x86.cache-2
+    |   |       b0174da1722fe6dcb31574887e0d4315-x86.cache-2
+    |   |       b959d377a0a011898b008adac1e9a27e-x86.cache-2
+    |   |       bde7b0a0234dc04d93e9475cbf44698a-x86.cache-2
+    |   |       ccc0aeb394f4bb0765e0edf9be2d7c2d-x86.cache-2
+    |   |       d6a82a7420f683b92800b5c72e29748a-x86.cache-2
+    |   |       dbf7f62ae909a9b16fd07203278507eb-x86.cache-2
+    |   |       e08e430c0039b81a359824020e18a281-x86.cache-2
+    |   |       
+    |   +---freebsd-update
+    |   +---ipf
+    |   +---ntop
+    |   +---pkg
+    |   |   +---IExtract-0.9.02_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ORBit2-2.14.13_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---Xaw3d-1.5E_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---adns-1.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---afflib-3.2.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---afterglow-1.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---aguri-0.7_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---aimage-3.1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---amap-5.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---apache-1.3.41
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---appres-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---apr-gdbm-db42-1.3.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---arc-5.21o_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---argus-3.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---argus-clients-3.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---arj-3.10.22_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---arp-sk-0.0.16_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---arping-2.06
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---arpscan-0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---arpwatch-2.1.a15_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---artwiz-aleczapka-en-1.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---aslookup-0.12_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---aspell-0.60.6_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---atk-1.22.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---autocutsel-0.9.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---autopsy-2.08
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---avahi-0.6.23
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---avahi-app-0.6.23
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bash-3.2.39_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bash-completion-20060301_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bdftopcf-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---beforelight-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bigreqsproto-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bison-2.3_4,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bitmap-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bitstream-vera-1.10_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---bittwist-1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---blt-2.4z_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---boost-1.34.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bro-1.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bsdinstaller-2.0.2006.0728
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bvi-1.3.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bwm-ng-0.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---bzip2-1.0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cabextract-1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cairo-1.6.4_2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---capstats-0.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cdparanoia-3.9.8_8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---cdrdao-1.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cdrtools-2.01_7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---chaosreader-0.94
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---chmlib-0.39_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---clamav-0.93.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---clpbar-1.10.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---colordiff-1.0.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---compat5x-i386-5.4.0.8_9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---compat6x-i386-6.3.603000.200801
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---compositeproto-0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---conky-1.5.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---consolekit-0.2.10_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---coreutils-6.9_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cpdup-1.07
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---cups-base-1.3.7_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---curl-7.18.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---cyrus-sasl-2.1.22_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---daemonlogger-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---damageproto-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---darkstat-3.0.708
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---db41-4.1.25_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---db42-4.2.52_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dbus-1.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dbus-glib-0.76
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---desktop-file-utils-0.15_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dhcpdump-1.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---dirmngr-1.0.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---djbfft-0.76_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dmidecode-2.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dmxproto-2.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dnstop-20080502
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---docbook-sk-4.1.2_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---docbook-xml-4.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---docbook-xml-4.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---docbook-xml-4.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---docbook-xsl-1.74.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---dri-7.0.3_1,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---driftnet-0.1.6_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---dsniff-2.3_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---dumpasn1-20080417
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---editres-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---elinks-0.11.4.r1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---enchant-1.4.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---encodings-1.0.2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---esound-0.2.39_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---eterm-0.9.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---etherape-0.9.6_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ettercap-gtk2-0.7.3_6,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---evtViewer-0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---expat-2.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---feh-1.3.4_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---festival-1.96_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---findutils-4.4.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---firefox-2.0.0.16,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fixesproto-4.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fl0p-0.0.2.b
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---flex-2.5.35
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---flow-tools-0.68_6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---flowgrep-0.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---flowtag-2.0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---flowviewer-3.2_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fluxbox-1.0.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---font-adobe-100dpi-1.0.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-adobe-75dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-adobe-utopia-100dpi-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-adobe-utopia-75dpi-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-adobe-utopia-type1-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-alias-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-arabic-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-100dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-75dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-lucidatypewriter-100dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-lucidatypewriter-75dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-ttf-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bh-type1-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bitstream-100dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bitstream-75dpi-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-bitstream-type1-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-cronyx-cyrillic-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-cursor-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-daewoo-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-dec-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-ibm-type1-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-isas-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-jis-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-micro-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-misc-cyrillic-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-misc-ethiopic-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-misc-meltho-1.0.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-misc-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-mutt-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-schumacher-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-screen-cyrillic-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-sony-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-sun-misc-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-util-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-winitzki-cyrillic-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---font-xfree86-type1-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fontcacheproto-0.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fontconfig-2.5.0,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fontsproto-2.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fonttosfnt-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---foremost-1.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fpdns-0.9.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fping-2.4b2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fprobe-1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fragroute-1.2_8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fragrouter-1.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---freetype-1.3.1_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---freetype2-2.3.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fribidi-0.10.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fslsfonts-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fstobdf-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ftester-1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ftimes-3.8.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-curlftpfs-0.9.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-encfs-1.4.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-httpfs-2.06.08.26
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-kmod-0.3.9.p1.20080208_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fusefs-libs-2.7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---fusefs-ntfs-1.2531
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-smbnetfs-0.3.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-sshfs-1.8_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---fusefs-unionfs-0.20
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gail-1.22.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gamin-0.1.9_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gcalctool-5.22.3,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gccmakedep-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gconf2-2.22.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gd-2.0.35,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gdbm-1.8.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---getopt-1.1.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gettext-0.17_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ghostscript-gpl-8.62_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---giblib-1.2.4_6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gio-fam-backend-2.16.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gksu-1.3.7_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---glib-1.2.10_12
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---glib-2.16.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---glitz-0.5.6_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---glproto-1.4.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gmake-3.81_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gnome-desktop-2.22.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gnome-doc-utils-0.12.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome-icon-theme-2.22.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome-keyring-2.22.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome-mime-data-2.18.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome-mount-0.8_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome-themes-2.22.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gnome-vfs-2.22.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnome_subr-1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnomehier-2.3_10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnupg-2.0.9_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gnuplot-4.2.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gnutls-2.4.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gpasman-1.3.1_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gpgme-1.1.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gqview-2.0.4_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---graphviz-2.20.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gsed-4.1.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gsfonts-8.11_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gspoof-3.2_10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gstreamer-0.10.20
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-ffmpeg-0.10.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-0.10.20_2,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-a52dec-0.10.8_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-bad-0.10.7_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-core-0.10_10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-dts-0.10.7_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-dvd-0.10.8_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-good-0.10.8_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-libpng-0.10.8_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-mad-0.10.8_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-mp3-0.10.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-ogg-0.10.20_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-pango-0.10.20_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-theora-0.10.20_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-ugly-0.10.8_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-vorbis-0.10.20_1,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gstreamer-plugins-xvid-0.10.7_3,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gtar-1.20_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gtk-1.2.10_20
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gtk-2.12.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gtk-engines2-2.14.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gtk-murrine-engine-0.52_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gtk-murrine-themes-0.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gtkchtheme-0.3.1_6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gtkspell-2.0.13_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gv-3.6.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gvfs-0.2.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---gwee-1.36
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---gxmessage-2.4.4_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---hal-0.5.11_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---hcidump-1.5.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---heimdal-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---hicolor-icon-theme-0.10_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---honeysnap-1.0.6.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---hping-devel-3.0.20051105
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---httpry-0.1.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---iceauth-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ico-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---icu-3.8.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---iftop-0.17
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---imake-1.0.2_4,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---imlib2-1.4.1.000,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---inputproto-1.4.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---intltool-0.37.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ipaudit-0.95
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ipcad-3.7.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ipex-3.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ipgrab-0.9.10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ipsectrace-0.1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ipsumdump-1.70
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---isic-0.07_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---isnprober-1.02
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---iso-codes-3.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---itcl-3.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---itk-3.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---iwidgets-4.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---jpeg-6b_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---kbproto-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lfpfonts-fix-0.82_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---lfpfonts-var-0.83_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---lha-1.14i_6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libFS-1.0.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libGL-7.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libGLU-7.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libGLw-7.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---libICE-1.0.4_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libIDL-0.8.10_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libSM-1.0.3_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libX11-1.1.3_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXScrnSaver-1.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXTrap-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXau-1.0.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXaw-1.0.4_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXcomposite-0.4.0,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXcursor-1.1.9_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXdamage-1.1.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXdmcp-1.0.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXevie-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXext-1.0.3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXfixes-4.0.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXfont-1.3.1_3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXfontcache-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXft-2.1.13
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXi-1.1.3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXinerama-1.0.2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXmu-1.0.3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXp-1.0.0,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXpm-3.5.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXprintAppUtil-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXprintUtil-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXrandr-1.2.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXrender-0.9.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXres-1.0.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXt-1.0.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXtst-1.0.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXv-1.0.3_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXvMC-1.0.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXxf86dga-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXxf86misc-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libXxf86vm-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libYGP-0.8.23_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---liba52-0.7.4_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libafterimage-1.18
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libairdbc-0.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---libairframe-0.7.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---libao-0.8.8_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libart_lgpl-2.3.20,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libast-0.7_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libaudiofile-0.2.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libbonobo-2.22.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libbonoboui-2.22.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libcddb-1.3.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libcdio-0.78.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libcroco-0.6.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdaemon-0.12
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdca-0.0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdmx-1.0.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdnet-1.11_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdrm-2.3.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdvdcss-1.2.9_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdvdnav-0.1.10_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libdvdread-0.9.7_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libevent-1.3e
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libexif-0.6.15_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libfontenc-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgcrypt-1.4.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgksu-1.3.8_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgksuui-1.0.7_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libglade2-2.6.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgmp-4.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgnome-2.22.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgnomecanvas-2.20.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgnomeui-2.22.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgpg-error-1.6_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgphoto2-2.4.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgsf-1.14.8_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libgtkhtml-2.11.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libiconv-1.11_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libid3tag-0.15.1b
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libidn-1.8_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libipa-0.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---libksba-1.0.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libltdl-1.5.26
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libmad-0.15.1b_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libmspack-0.0.20040308_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libnetdude-0.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libnotify-0.4.4_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libogg-1.1.3,4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---liboil-0.3.15
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---liboldX-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libotr-3.2.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libpcap-0.9.7_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libpcapnav-0.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libpurple-2.4.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---librsvg2-2.22.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libsexy-0.1.11_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libslang-1.4.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libsmi-0.4.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libsoup-2.4.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libstatgrab-0.16
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libsvg-0.1.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---libtasn1-1.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libtheora-1.0.b2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libtool-1.5.26
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libublio-20070103
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libungif-4.1.4_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libusb-0.1.12_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libvolume_id-0.81.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libvorbis-1.2.0_2,3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libxkbfile-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libxkbui-1.0.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libxml2-2.6.32
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---libxslt-1.1.24
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---liferea-1.4.17
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---linc-1.0.3_7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---listres-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---localedata-5.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lrzsz-0.12.20_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lsof-4.81A,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---luit-1.0.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lzmautils-4.32.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lzo-1.08_2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---lzo2-2.03_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---m4-1.4.11,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---mac-robber-1.00
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---magicrescue-1.1.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---makedepend-1.0.1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---meanwhile-1.0.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---memdump-1.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---memfetch-0.05b
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---memgrep-0.8.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---metacity-2.22.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---metasploit-3.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ming-0.3.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---minicom-2.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---mkcomposecache-1.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---mkfontdir-1.0.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---mkfontscale-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---mrxvt-devel-0.5.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---multitail-5.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---mysql-client-5.0.51a
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---nas-1.9.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---nast-0.2.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ncurses-5.6_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---nedit-5.5_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---nemesis-1.4_2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---neon28-0.28.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---net-snmp-5.4.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---netdude-0.5.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---netsed-0.01_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---nettop-0.2.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---netwag-5.35.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---netwox-5.35.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---nfdump-1.5.6_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ngrep-1.45
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ngrep-lib-1.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---nikto-2.02
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---nmap-4.62
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---nspr-4.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---nss-3.11.9_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ntop-3.3_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---oclock-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---oinkmaster-2.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---open-motif-2.2.3_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---openldap-client-2.3.43
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ourmon-2.8.1_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---p0f-2.0.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---p5-Bit-Vector-6.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Carp-Clan-6.00
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Class-Gomor-1.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Compress-Raw-Zlib-2.012
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Config-General-2.40
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---p5-DBD-SQLite-1.14
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-DBI-1.60.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-DBIx-SQLite-Simple-0.34
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Date-Manip-5.54
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Digest-1.15
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Digest-HMAC-1.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Digest-MD5-2.36
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Digest-SHA1-2.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-GD-2.39
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-GD-Graph-1.44.01_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-GD-TextUtil-0.86_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-IO-Compress-Base-2.012
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-IO-Compress-Zlib-2.012
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-IO-Interface-1.05
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-IO-Socket-INET6-2.52
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-MIME-Base64-3.07
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Math-Base85-0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Math-BigInt-1.89
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-DNS-0.63
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-IP-1.25
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-IPv4Addr-0.10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-IPv6Addr-0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-Libdnet-0.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-Packet-3.25
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-Packet-Target-1.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-Pcap-0.16
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-PcapUtils-0.01
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-RawIP-0.23,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-SinFP-2.06
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Net-Write-1.02
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-NetPacket-0.04
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Socket6-0.20
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Storable-2.18
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Text-CSV-1.06
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---p5-Time-HiRes-1.9715,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---p5-Tk-804.027_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---p5-XML-Parser-2.36
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---packit-1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pads-1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pango-1.20.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---patch-2.5.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pciids-20080726
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pcmanfm-0.3.6.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pcre-7.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pdflib-7.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---perl-5.8.8_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pidgin-2.4.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pidgin-otr-3.2.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pipebench-0.40
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---pixman-0.10.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pkg-config-0.23_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pktstat-1.8.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ploticus-2.33_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---plotutils-2.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pmacct-0.11.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---png-1.2.28
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---policykit-0.9_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---policykit-gnome-0.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---popt-1.7_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---portaudio-18.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---portaudit-0.5.12
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRE
+    |   |   |       
+    |   |   +---portupgrade-2.4.6,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---postgresql-client-8.1.13
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---postgresql-server-8.1.13
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---printproto-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---pth-2.0.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-Impacket-0.9.6.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---py25-cairo-1.4.12
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-dbus-0.83.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---py25-dpkt-1.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-gnome-2.22.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-gobject-2.14.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-gtk-2.12.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-irclib-0.4.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-libdnet-1.11_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-libxml2-2.6.32
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-magic-4.25
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---py25-numeric-24.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-orbit-2.14.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pcap-0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pcapy-0.10.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pcs-0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pdb-0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---py25-pynids-0.5_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pypcap-1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-pysubnettree-0.11
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-setuptools-0.6c8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---py25-trace-summary-0.5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---python-2.5,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---python24-2.4.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---python25-2.5.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---raddump-0.3.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---randrproto-1.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rarian-0.8.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rdesktop-1.6.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---recordproto-1.13.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---recoverdm-0.19
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---renderproto-0.9.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---resourceproto-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rgb-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rlog-1.3.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rrdtool-1.3.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rstart-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rtpbreak-1.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ruby-1.8.6.111_4,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ruby18-bdb-0.6.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ruby18-gems-1.2.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ruby18-mysql-2.7.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ruby18-pcap-0.6_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---ruby18-tk-1.8.6.111,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ruby18-tk-1.8.6.287,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---rubygem-actionmailer-1.3.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-actionpack-1.13.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-actionwebservice-1.2.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-activerecord-1.15.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-activesupport-1.4.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-hoe-1.5.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-memcache-client-1.5.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-postgres-0.7.9.2008.01.28_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-rails-1.2.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---rubygem-rake-0.8.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-rubyforge-0.4.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rubygem-zentest-3.9.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---rxvt-unicode-9.05
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---samba-libsmbclient-3.0.31_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---sancp-1.6.1_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---scanhill-0.5.p1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---scapy-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---screen-4.0.3_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---scripts-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---scrnsaverproto-1.1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---scrot-0.8_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sdocbook-xml-1.1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---sessreg-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---setxkbmap-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---sflowtool-3.12
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sguil-client-0.7.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---shared-mime-info-0.51
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---showfont-1.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---silc-toolkit-1.1.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---silktools-1.1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sinfp-2.06_20080419
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sjitter-0.14b
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sleuthkit-2.52
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---smproxy-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---snort-2.8.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---sqlite3-3.5.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ssldump-0.9b3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---startup-notification-0.9_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---stow-1.3.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---subversion-1.5.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---sudo-1.6.9.17
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---t1lib-5.1.2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tcl-8.4.19,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tcl-8.5.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tclX-8.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tcllib-1.10_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tcltls-1.6
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tcpdstat-0.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpflow-0.21_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpick-0.2.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpreplay-3.3.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpshow-1.74_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpslice-2006.12.18
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcptrace-6.6.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcptrack-1.3.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tcpxtract-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tftpgrab-0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---thunderbird-2.0.0.16
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---tiff-3.8.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---tk-8.4.19,2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---trafshow-5.2.3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---trapproto-3.4.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---ttt-1.8.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---twm-1.0.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---unclutter-8_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---uni2ascii-4.9
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---unicornscan-0.4.2_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---unrar-3.80.b2,5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---unzip-5.52_5
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---unzoo-4.4_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---urlendec-1.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---urwfonts-1.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---videoproto-2.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---viewres-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---vim-gtk2-7.1.330
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---vnc-4.1.2_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---vsftpd-ssl-2.0.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---weechat-0.2.6_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---wget-1.11.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---wireshark-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---wxgtk2-common-2.8.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---wxgtk2-unicode-2.8.8
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---x11perf-1.4.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xauth-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xbacklight-1.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xbiff-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xbitmaps-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xcalc-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xchm-1.14_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xclipboard-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xclock-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xcmiscproto-1.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xcmsdb-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xconsole-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xcursor-themes-1.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xcursorgen-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xdbedizzy-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xditview-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xdm-1.1.6_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xdpyinfo-1.0.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xdriinfo-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xedit-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xerces-c2-2.7.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xev-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xextproto-7.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xeyes-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-acecad-1.2.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-calcomp-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-citron-2.2.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-digitaledge-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-dmc-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-dynapro-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-elo2300-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-elographics-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-fpit-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-hyperpen-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-jamstudio-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-joystick-1.2.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-keyboard-1.2.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-magellan-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-magictouch-1.0.0.5_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-microtouch-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-mouse-1.2.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-mutouch-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-palmax-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-penmount-1.2.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-spaceorb-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-summa-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-tek4957-1.1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-vmmouse-12.4.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-input-void-1.1.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-apm-1.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-ark-0.6.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-ati-6.9.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-chips-1.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-cirrus-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-cyrix-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-dummy-0.2.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-fbdev-0.3.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-glint-1.1.1_4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-i128-1.2.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-i740-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-i810-1.7.4_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-imstt-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-mach64-6.8.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-mga-1.4.7_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-neomagic-1.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-newport-0.2.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-nsc-2.8.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-nv-2.1.10
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-r128-6.8.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-radeonhd-1.2.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-rendition-4.1.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-s3-0.5.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-s3virge-1.9.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-savage-2.1.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-siliconmotion-1.5.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-sis-0.9.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-tdfx-1.3.0_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-tga-1.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-trident-1.2.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-tseng-1.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-vesa-1.3.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-vga-4.1.0_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-via-0.2.2_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-vmware-10.15.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86-video-voodoo-1.1.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86bigfontproto-1.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86dga-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86dgaproto-2.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86driproto-2.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86miscproto-0.9.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86rushproto-1.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xf86vidmodeproto-2.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfd-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfindproxy-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfontsel-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfs-1.0.5_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfsinfo-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xfwp-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xgamma-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xgc-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xhost-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xineramaproto-1.1.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xinit-1.0.7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkbcomp-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkbevd-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkbprint-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkbutils-1.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkeyboard-config-1.2_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xkill-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xload-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xlockmore-5.26.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xlogo-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xlsatoms-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xlsclients-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xlsfonts-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmag-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xman-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmessage-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmh-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmlcatmgr-2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DEINSTALL
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmodmap-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xmore-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-7.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xorg-apps-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-cf-files-1.0.2_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-docs-1.4,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-drivers-7.3_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-100dpi-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-7.3_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-75dpi-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-cyrillic-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-miscbitmaps-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-truetype-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-fonts-type1-7.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-libraries-7.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +INSTALL
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-nestserver-1.4_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xorg-protos-7.3_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-server-1.4.2,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xorg-vfbserver-1.4_1,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xpdf-3.02_7
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xphelloworld-1.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xplot-0.90.7.1_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xplsprinters-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xpr-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xprehashprinterlist-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xprobe2-0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---xprop-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xproto-7.0.10_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xproxymanagementprotocol-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xrandr-1.2.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xrdb-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xrefresh-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xrx-1.0.1_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xset-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xsetmode-1.0.0
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xsetpointer-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xsetroot-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xsm-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xstdcmap-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xterm-235
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xtrans-1.0.4
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xtrap-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xvid-1.1.3,1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xvidtune-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xvinfo-1.0.2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xwd-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xwininfo-1.0.3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---xwud-1.0.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---yaf-0.8.1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---yersinia-0.7_2
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---zh-fcitx-3.5_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +DISPLAY
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---zh-ttfm-0.9.5_3
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   +---zh-ytttf-1.0_1
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       
+    |   |   +---zip-2.32
+    |   |   |       +COMMENT
+    |   |   |       +CONTENTS
+    |   |   |       +DESC
+    |   |   |       +MTREE_DIRS
+    |   |   |       +REQUIRED_BY
+    |   |   |       
+    |   |   \---zsh-4.3.6_3
+    |   |           +COMMENT
+    |   |           +CONTENTS
+    |   |           +DESC
+    |   |           +MTREE_DIRS
+    |   |           
+    |   +---portaudit
+    |   +---ports
+    |   +---portsnap
+    |   \---rarian
+    +---empty
+    +---ftp
+    +---games
+    +---heimdal
+    +---lib
+    |   +---PolicyKit
+    |   +---PolicyKit-public
+    |   +---hal
+    |   +---misc
+    |   |       PolicyKit.reload
+    |   |       
+    |   \---xkb
+    |           README.compiled
+    |           
+    +---log
+    |   |   sendmail.st
+    |   |   userlog
+    |   |   
+    |   +---ConsoleKit
+    |   |       history
+    |   |       
+    |   +---clamav
+    |   +---cups
+    |   \---sancp
+    +---mail
+    |       analyzt
+    |       avahi
+    |       clamav
+    |       cups
+    |       cyrus
+    |       flowtools
+    |       ftp
+    |       haldaemon
+    |       messagebus
+    |       pgsql
+    |       polkit
+    |       sancp
+    |       
+    +---msgs
+    +---named
+    |   +---dev
+    |   +---etc
+    |   |   \---namedb
+    |   |       |   named.conf
+    |   |       |   named.root
+    |   |       |   
+    |   |       +---dynamic
+    |   |       +---master
+    |   |       |       empty.db
+    |   |       |       localhost-forward.db
+    |   |       |       localhost-reverse.db
+    |   |       |       
+    |   |       \---slave
+    |   \---var
+    |       +---dump
+    |       +---log
+    |       +---run
+    |       |   \---named
+    |       \---stats
+    +---preserve
+    +---run
+    |   |   ld-elf.so.hints
+    |   |   
+    |   +---ConsoleKit
+    |   +---PolicyKit
+    |   +---clamav
+    |   +---dbus
+    |   +---flow-capture
+    |   +---hald
+    |   +---named
+    |   \---ppp
+    +---rwho
+    +---spool
+    |   +---clientmqueue
+    |   +---cups
+    |   |   \---tmp
+    |   +---lock
+    |   +---lpd
+    |   +---mqueue
+    |   +---opielocks
+    |   \---output
+    |       \---lpd
+    +---tmp
+    |   \---vi.recover
+    \---yp
+            Makefile
+            Makefile.dist
+            

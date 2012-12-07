@@ -1,0 +1,1132 @@
+ Volume in drive F is SQL_Server2K5
+ Volume Serial Number is 1EF1-427C
+
+ Directory of F:\
+
+01/09/2007  09:43 PM    <DIR>          Microsoft.SQL.Server.2005.Standard.Edition
+01/09/2007  09:41 PM    <DIR>          Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended
+01/09/2007  09:40 PM    <DIR>          Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium
+11/01/2005  04:35 AM           103,309 autorun.apm
+09/26/2005  01:27 PM         1,183,232 autorun.exe
+11/01/2005  04:35 AM                49 autorun.inf
+               3 File(s)      1,286,590 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition
+
+01/09/2007  09:43 PM    <DIR>          .
+02/18/2007  09:19 PM    <DIR>          ..
+11/01/2005  04:04 AM             1,037 ReadMe.txt
+01/09/2007  09:43 PM    <DIR>          Servers
+01/09/2007  09:43 PM    <DIR>          Tools
+07/29/2005  12:13 AM                76 autorun.inf
+               2 File(s)          1,113 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          1033
+10/14/2005  02:33 AM         1,045,720 DbgHelp.dll
+09/18/2005  05:33 PM               522 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:43 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,192 default.hta
+07/29/2005  12:13 AM            14,572 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/13/2005  11:26 PM           548,864 msvcp80.dll
+10/13/2005  11:26 PM           626,688 msvcr80.dll
+01/09/2007  09:43 PM    <DIR>          redist
+10/14/2005  02:51 AM         2,068,184 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  02:48 AM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  02:51 AM           670,424 sqlcu.dll
+10/14/2005  02:48 AM           201,944 sqlcu.rll
+10/14/2005  02:52 AM            15,064 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  02:53 AM           167,128 xmlrw.dll
+              20 File(s)      5,909,662 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\1033
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\Setup
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          Images
+09/22/2005  12:11 AM            35,840 MSDE2000.msp
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  10:04 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  10:06 PM        11,490,816 SQLServer2005_BC.msi
+10/14/2005  10:05 PM        11,220,992 SqlRun.msi
+10/14/2005  09:16 AM             2,650 SqlRun_AS.ini
+10/14/2005  10:06 PM        46,144,000 SqlRun_AS.msi
+10/14/2005  10:06 PM        53,446,144 SqlRun_DTS.msi
+10/14/2005  10:06 PM        16,260,096 SqlRun_NS.msi
+10/14/2005  09:26 AM             2,650 SqlRun_RS.ini
+10/14/2005  10:06 PM        44,552,192 SqlRun_RS.msi
+10/14/2005  09:32 AM             2,650 SqlRun_SQL.ini
+10/14/2005  10:07 PM        87,946,752 SqlRun_SQL.msi
+10/14/2005  10:06 PM        18,959,872 SqlServer2005_BC_x64.msi
+10/14/2005  10:05 PM         8,376,320 SqlSupport.msi
+10/14/2005  10:04 PM         1,089,536 SqlWriter.msi
+10/14/2005  10:04 PM         2,904,576 SqlWriter_x64.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+01/09/2007  09:43 PM    <DIR>          help
+09/22/2005  12:11 AM            31,744 libertysql.msp
+10/14/2005  10:04 PM         1,528,320 msxml6.msi
+10/14/2005  10:04 PM         2,721,280 msxml6_x64.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+06/13/2005  01:27 PM             9,728 rs2000.msp
+10/14/2005  02:50 AM            50,904 setupex.dll
+10/14/2005  10:04 PM         3,595,264 sqlncli.msi
+10/14/2005  10:05 PM         6,641,664 sqlncli_x64.msi
+10/14/2005  10:04 PM         2,807,296 sqlxml4.msi
+10/14/2005  10:05 PM         4,813,312 sqlxml4_x64.msi
+              41 File(s)    342,872,102 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\Setup\Images
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\Setup\help
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\Setup\help\1033
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\redist
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          2.0
+01/09/2007  09:43 PM    <DIR>          Upgrade Advisor
+01/09/2007  09:43 PM    <DIR>          Windows Installer
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\redist\2.0
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+10/13/2005  11:27 PM        23,510,720 dotnetfx.exe
+10/13/2005  11:27 PM        47,400,128 dotnetfx64.exe
+               2 File(s)     70,910,848 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\redist\Upgrade Advisor
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+10/14/2005  10:05 PM         4,121,600 SQLUASetup.msi
+               1 File(s)      4,121,600 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Servers\redist\Windows Installer
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+10/14/2005  02:53 AM         2,585,816 WindowsInstaller-KB893803-v2-x86.exe
+               1 File(s)      2,585,816 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          1033
+10/14/2005  02:33 AM         1,045,720 DbgHelp.dll
+09/18/2005  05:33 PM               522 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:43 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,253 default.hta
+07/29/2005  12:13 AM            14,633 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/13/2005  11:26 PM           548,864 msvcp80.dll
+10/13/2005  11:26 PM           626,688 msvcr80.dll
+01/09/2007  09:43 PM    <DIR>          redist
+10/14/2005  02:51 AM         2,068,184 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  02:48 AM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  02:51 AM           670,424 sqlcu.dll
+10/14/2005  02:48 AM           201,944 sqlcu.rll
+10/14/2005  02:52 AM            15,064 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  02:53 AM           167,128 xmlrw.dll
+              20 File(s)      5,909,784 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\1033
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\Setup
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          Images
+09/22/2005  12:11 AM            35,840 MSDE2000.msp
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  10:04 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  10:06 PM        11,490,816 SQLServer2005_BC.msi
+10/14/2005  10:05 PM         9,857,024 SqlRun.msi
+10/14/2005  10:08 PM       253,629,440 SqlRun_Tools.msi
+10/14/2005  10:05 PM        18,959,872 SqlServer2005_BC_x64.msi
+10/14/2005  10:08 PM       119,187,456 SqlServer2K5_BOL.msi
+10/14/2005  10:05 PM         8,376,320 SqlSupport.msi
+10/14/2005  10:04 PM         1,089,536 SqlWriter.msi
+10/14/2005  10:04 PM         2,904,576 SqlWriter_x64.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+09/24/2005  08:46 PM           108,824 _1004_RTL_x86_enu_Object_Browser_Generic.cab
+09/24/2005  08:46 PM            22,959 _1121_RTL_x86_enu_DataForm_Wizard.cab
+09/24/2005  08:46 PM             6,607 _1225_RTL_x86_enu_ASP_Object_Library.cab
+09/24/2005  08:46 PM         1,126,982 _1242_RTL_x86_enu_VS_SCC_Integration_Core.cab
+09/24/2005  08:46 PM           722,107 _13_RTL_x86_enu_DDS_7.0.cab
+09/24/2005  08:46 PM             8,636 _14572_RTL_x86_enu_DTEProperties_Typelib.cab
+09/24/2005  08:46 PM            53,364 _14581_RTL_x86_enu_VS_IDE_Baseline.cab
+09/24/2005  08:46 PM               342 _14584_RTL_x86_enu__Environment_Extended.cab
+09/24/2005  08:46 PM           156,638 _14585_RTL_x86_enu__Environment_Baseline.cab
+09/24/2005  08:46 PM            83,127 _14724_RTL_x86_enu_Express_Core_Debugger.cab
+09/24/2005  08:46 PM             7,727 _14762_RTL_x86_enu_VSIPCC_Collection.cab
+09/24/2005  08:46 PM           309,802 _14934_RTL_x86_enu_XmlEditor.cab
+09/24/2005  08:46 PM           308,049 _15186_RTL_x86_enu_XmlDesigner.cab
+09/24/2005  08:46 PM            79,558 _1519_RTL_x86_enu_VSCC_Help_Collection.cab
+09/24/2005  08:46 PM            16,505 _1520_RTL_x86_enu_HxRuntime.cab
+09/24/2005  08:46 PM            14,414 _15288_RTL_x86_enu_VS_Debug_Debugger.cab
+09/24/2005  08:46 PM            67,146 _15346_RTL_x86_enu_PermCalc.cab
+09/24/2005  08:46 PM           279,042 _15536_RTL_x86_enu_DExplore_Doc_Coll.cab
+09/24/2005  08:46 PM            47,043 _15676_RTL_x86_enu_Remote_Debug_Native.cab
+09/24/2005  08:46 PM           121,056 _1583_RTL_x86_enu_MSHelp_Visual_Services.cab
+09/24/2005  08:46 PM         1,029,012 _1584_RTL_x86_enu_MSHelp_Data_Services.cab
+09/24/2005  08:46 PM            40,745 _15912_RTL_x86_enu_PInteropAsm_Baseline.cab
+09/24/2005  08:46 PM         1,048,499 _15913_RTL_x86_enu_PInteropAsm_Extended.cab
+09/24/2005  08:46 PM            21,244 _16026_RTL_x86_enu_Debugger___Standard.cab
+09/24/2005  08:46 PM         2,229,287 _1610_RTL_x86_enu_CSharp_Intellidocs.cab
+09/24/2005  08:46 PM            70,746 _16115_RTL_x86_enu_VC++_Express_Debug.cab
+09/24/2005  08:46 PM            71,356 _16116_RTL_x86_enu_Venus_Express_Debug.cab
+09/24/2005  08:46 PM            61,206 _16206_RTL_x86_enu_Debugger_Causality.cab
+09/24/2005  08:46 PM            68,568 _16207_RTL_x86_enu_Debugger_Legacy.cab
+09/24/2005  08:46 PM               576 _16407_RTL_x86_enu_CSharpLangFilter20.cab
+09/24/2005  08:46 PM               592 _16408_RTL_x86_enu_HtmlLangFilter80.cab
+09/24/2005  08:46 PM               583 _16409_RTL_x86_enu_JScriptLangFilter80.cab
+09/24/2005  08:46 PM               574 _16410_RTL_x86_enu_JSharpLangFilter80.cab
+09/24/2005  08:46 PM               651 _16412_RTL_x86_enu_NetFxTechFilter20.cab
+09/24/2005  08:46 PM               951 _16413_RTL_x86_enu_OfficeDevTechFilter20.cab
+09/24/2005  08:46 PM               578 _16415_RTL_x86_enu_VBLangFilter80.cab
+09/24/2005  08:46 PM               598 _16418_RTL_x86_enu_VCLangFilter80.cab
+09/24/2005  08:46 PM               709 _16421_RTL_x86_enu_Win32TechFilter80.cab
+09/24/2005  08:46 PM               634 _16422_RTL_x86_enu_WinFormsTechFilter20.cab
+09/24/2005  08:46 PM               561 _16423_RTL_x86_enu_XmlLangFilter80.cab
+09/24/2005  08:46 PM               454 _16425_RTL_x86_enu_CSHowDoI80.cab
+09/24/2005  08:46 PM               448 _16429_RTL_x86_enu_VBHowDoI80.cab
+09/24/2005  08:46 PM               496 _16434_RTL_x86_enu_VSTOHowDoI10.cab
+09/24/2005  08:46 PM               470 _16436_RTL_x86_enu_WebDevHowDoI10.cab
+09/24/2005  08:46 PM             9,206 _16472_RTL_x86_enu_VC_VSK.cab
+09/24/2005  08:46 PM            19,416 _16474_RTL_x86_enu_VS_Default_Profile.cab
+09/24/2005  08:46 PM             6,466 _16503_RTL_x86_ENU_C#_Auto_Expansions.cab
+09/24/2005  08:46 PM             6,466 _16503_RTL_x86_enu_CSharp_Auto_Expansions.cab
+09/24/2005  08:46 PM            28,781 _1654_RTL_x86_enu_VSLangProj_Type_Library.cab
+09/24/2005  08:46 PM            42,143 _16941_RTL_x86_enu_Debugger_Auto_Attach.cab
+09/24/2005  08:46 PM             2,816 _16954_RTL_x86_enu_VS_Filter_Files_for_Std.cab
+09/24/2005  08:46 PM               842 _16956_RTL_x86_enu_VS_MyHelp_Files_for_Std.cab
+09/24/2005  08:46 PM         2,954,500 _17124_RTL_x86_enu_Remote_Debugger_X86.cab
+09/24/2005  08:46 PM             1,142 _17128_RTL_x86_enu_NewFileItems.cab
+09/24/2005  08:46 PM               575 _17153_RTL_x86_enu_ControlTopicTypeFiltr80.cab
+09/24/2005  08:46 PM               592 _17155_RTL_x86_enu_SampleTopicTypeFilter80.cab
+09/24/2005  08:46 PM               595 _17156_RTL_x86_enu_SnipetTopicTypeFilter80.cab
+09/24/2005  08:46 PM               630 _17157_RTL_x86_enu_StartKitTopicTypFiltr80.cab
+09/24/2005  08:46 PM               443 _17159_RTL_x86_enu_ControlsFT80.cab
+09/24/2005  08:46 PM               444 _17161_RTL_x86_enu_SamplesFT80.cab
+09/24/2005  08:46 PM               449 _17162_RTL_x86_enu_SnippetsFT80.cab
+09/24/2005  08:46 PM               452 _17163_RTL_x86_enu_StarterKitsFT80.cab
+09/24/2005  08:46 PM            69,657 _1726_RTL_x86_enu_VS_Debug_msdbg2.cab
+09/24/2005  08:46 PM            67,147 _17625_RTL_x86_enu_PermCalc2.cab
+09/24/2005  08:46 PM           191,319 _1769_RTL_x86_enu_VS_Debug_CS_CPDE.cab
+09/24/2005  08:46 PM             1,041 _17753_RTL_x86_enu_HTML_Snippets.cab
+09/24/2005  08:46 PM             1,298 _17754_RTL_x86_enu_XSL_Tag_Snippets.cab
+09/24/2005  08:46 PM             1,286 _17757_RTL_x86_enu_Attribute_Snippets.cab
+09/24/2005  08:46 PM             1,313 _17759_RTL_x86_enu_ComplexType_Snippets.cab
+09/24/2005  08:46 PM             1,258 _17760_RTL_x86_enu_Element_Snippets.cab
+09/24/2005  08:46 PM               994 _17761_RTL_x86_enu_Extension_Snippets.cab
+09/24/2005  08:46 PM               913 _17762_RTL_x86_enu_Misc_Snippets.cab
+09/24/2005  08:46 PM             1,184 _17763_RTL_x86_enu_SimpleType_Snippets.cab
+09/24/2005  08:46 PM               694 _17767_RTL_x86_enu_InterstitialPage.htm.cab
+09/24/2005  08:46 PM               651 _17974_RTL_x86_enu_WebASPNETTechFilter20.cab
+09/24/2005  08:46 PM               599 _17988_RTL_x86_enu_KBTopicTypeFilter80.cab
+09/24/2005  08:46 PM           371,699 _18605_RTL_x86_enu_Debugger_Help.cab
+09/24/2005  08:46 PM           317,514 _18688_RTL_x86_enu_MSCorCFG.cab
+09/24/2005  08:46 PM             6,099 _18757_RTL_x86_enu_VSP_DLL.cab
+09/24/2005  08:46 PM            40,841 _18844_RTL_x86_enu_SymbolServerFiles.cab
+09/24/2005  08:46 PM               683 _18848_RTL_x86_enu_HelpTopicsTypeFilter80.cab
+09/24/2005  08:46 PM            65,676 _18881_RTL_x86_enu_Community_Content_Inst.cab
+09/24/2005  08:46 PM            23,514 _18886_RTL_x86_enu_Dexplore_Files_Loc.cab
+09/24/2005  08:46 PM            53,634 _18888_RTL_x86_enu_IDE_Global_Shared_Loc.cab
+09/24/2005  08:46 PM         1,510,808 _18889_RTL_x86_enu_Core_IDE_DExplore_Loc.cab
+09/24/2005  08:46 PM            23,939 _18895_RTL_x86_enu_VS_Comm_Content_Inst.cab
+09/24/2005  08:46 PM         3,805,729 _1902_RTL_x86_enu_Core_IDE_DExplore.cab
+09/24/2005  08:46 PM               451 _19077_RTL_x86_enu_AddInsFilterTransform80.cab
+09/24/2005  08:46 PM            57,105 _1909_RTL_x86_enu_TLBINF32_DLL.cab
+09/24/2005  08:46 PM            19,330 _19104_RTL_x86_enu_MSFT_VS_CommandBars_GAC.cab
+09/24/2005  08:46 PM             6,761 _19107_RTL_x86_enu_MS_VS_MgIfc_dll_GAC.cab
+09/24/2005  08:46 PM           129,372 _19110_RTL_x86_enu_VSIP_PIA_Redist_80.cab
+09/24/2005  08:46 PM            43,089 _19112_RTL_x86_enu_ENVDTE80_GAC.cab
+09/24/2005  08:46 PM            21,041 _19113_RTL_x86_enu_VSLangProj80_dll_GAC.cab
+09/24/2005  08:46 PM            12,295 _19116_RTL_x86_enu_VenusWebsitePIA_GAC.cab
+09/24/2005  08:46 PM           379,989 _1923_RTL_x86_enu_Core_IDE_Global_Shared.cab
+09/24/2005  08:46 PM           114,398 _1979_RTL_x86_enu_VS_SCC_TeamCore.cab
+09/24/2005  08:46 PM         1,299,106 _1986_RTL_x86_enu_VB_Compiler_Package.cab
+09/24/2005  08:46 PM            22,083 _1996_RTL_x86_enu_VS_SQL_Debug.cab
+09/24/2005  08:46 PM           175,514 _205_RTL_x86_enu_VsWizard.cab
+09/24/2005  08:46 PM            77,276 _2262_RTL_x86_enu_VC_DirControl.cab
+09/24/2005  08:46 PM           126,224 _22_RTL_x86_enu_Core_IDE_OLB_Files.cab
+09/24/2005  08:46 PM           502,860 _239_RTL_x86_enu_VC_NatDebugger.cab
+09/24/2005  08:46 PM            20,140 _2403_RTL_x86_enu_VC_Resedit.cab
+09/24/2005  08:46 PM           143,528 _245_RTL_x86_enu_VS_SCC_Integration.cab
+09/24/2005  08:46 PM           183,619 _260_RTL_x86_enu_VS_Debug_MSPDB_.cab
+09/24/2005  08:46 PM           112,371 _261_RTL_x86_enu_Dexplore_Files.cab
+09/24/2005  08:46 PM           530,846 _267_RTL_x86_enu_Core_IDE_VS7.cab
+09/24/2005  08:46 PM            32,812 _2879_RTL_x86_enu_VS_Debug_Coloader.cab
+09/24/2005  08:46 PM         1,299,104 _2936_RTL_x86_enu_VB_Compiler_Package_VSA.cab
+09/24/2005  08:46 PM         2,097,504 _2_RTL_x86_enu_Visual_Database_Tools_Core.cab
+09/24/2005  08:46 PM            36,505 _3255_RTL_x86_enu_SN_EXE.cab
+09/24/2005  08:46 PM            10,773 _3312_RTL_x86_enu_VSHelp_COM_Plus_Interop.cab
+09/24/2005  08:46 PM             5,291 _3332_RTL_x86_enu_ARP_Icon.cab
+09/24/2005  08:46 PM               628 _3365_RTL_x86_enu_NewScript_Items.cab
+09/24/2005  08:46 PM             2,396 _3395_RTL_x86_enu_Redist.txt.cab
+09/24/2005  08:46 PM            78,370 _347_RTL_x86_enu_VSLOG.cab
+09/24/2005  08:46 PM           122,733 _349_RTL_x86_enu_CSS_Designer.cab
+09/24/2005  08:46 PM         1,163,885 _351_RTL_x86_enu_HTML_Designer.cab
+09/24/2005  08:46 PM             3,288 _3554_RTL_x86_enu_DTE_Com_Plus_Interop.cab
+09/24/2005  08:46 PM             4,092 _3559_RTL_x86_enu_IDE_Macros_References.cab
+09/24/2005  08:46 PM           943,924 _357_RTL_x86_enu_VC_Common_Resedit.cab
+09/24/2005  08:46 PM            41,058 _3598_RTL_x86_enu_VB7_Runtime_XML.cab
+09/24/2005  08:46 PM               652 _3712_RTL_x86_enu_Assembly_Folder_Readmes.cab
+09/24/2005  08:46 PM            33,939 _371_RTL_x86_enu_VS_Debug_ENCMgr.cab
+09/24/2005  08:46 PM             1,112 _3720_RTL_x86_enu_VxExtensibility_Typelib.cab
+09/24/2005  08:46 PM           114,970 _373_RTL_x86_enu_VS_Debug_MDM_PDM_.cab
+09/24/2005  08:46 PM            35,220 _376_RTL_x86_enu_VS_Debug_SDM2.cab
+09/24/2005  08:46 PM           272,224 _377_RTL_x86_enu_VS_Debug_SHMetapdb.cab
+09/24/2005  08:46 PM           659,002 _378_RTL_x86_enu_VS_Debug_VSDebug.cab
+09/24/2005  08:46 PM               965 _3858_RTL_x86_enu_VC_Debug_Extension.cab
+09/24/2005  08:46 PM           102,827 _3942_RTL_x86_enu_VSCC_HXS_HXI.cab
+09/24/2005  08:46 PM             7,761 _3943_RTL_x86_enu_VSCC_Collection_Files.cab
+09/24/2005  08:46 PM           251,756 _3965_RTL_x86_enu_MSDIA80_Debugger.cab
+09/24/2005  08:46 PM         5,294,715 _3_RTL_x86_enu_Core_IDE.cab
+09/24/2005  08:46 PM            76,347 _476_RTL_x86_enu_VS_Debug_JScript_.cab
+09/24/2005  08:46 PM               706 _518_RTL_x86_enu_Dynamic_Help.cab
+09/24/2005  08:46 PM           114,635 _527_RTL_x86_enu_CompSvcsPkg.cab
+09/24/2005  08:46 PM           109,202 _530_RTL_x86_enu_SQL_Srvr_mssdi.cab
+09/24/2005  08:46 PM            66,015 _535_RTL_x86_enu_VC_Dbg_DbgProxy.cab
+09/24/2005  08:46 PM            71,156 _536_RTL_x86_enu_Envdte_COM_Plus_Interop.cab
+09/24/2005  08:46 PM               647 _573_RTL_x86_enu_ProjectItems.cab
+09/24/2005  08:46 PM         8,585,968 _579_RTL_x86_enu__VBA_7.cab
+09/24/2005  08:46 PM             1,319 _5_RTL_x86_enu_NewFile_Items.cab
+09/24/2005  08:46 PM           187,850 _616_RTL_x86_enu__VISUAL_DATABASE_TOOLS.cab
+09/24/2005  08:46 PM           120,486 _676_RTL_x86_enu__DEXPLORE.cab
+09/24/2005  08:46 PM           278,930 _681_RTL_x86_enu_IDE_Macros.cab
+09/24/2005  08:46 PM            55,262 _682_RTL_x86_enu_IDE_Solution_Pkg.cab
+09/24/2005  08:46 PM           686,071 _692_RTL_x86_enu_Designer_Framework.cab
+09/24/2005  08:46 PM         1,126,010 _870_RTL_x86_enu_VS_Designer.cab
+09/24/2005  08:46 PM           154,107 _887_RTL_x86_enu_VS_Debug_MSDIS150.cab
+09/24/2005  08:46 PM            75,056 _9079_RTL_x86_enu_VS_Debug_VSJIT.cab
+09/24/2005  08:46 PM         1,417,976 _9190_RTL_x86_enu_Venus_Web_Design.cab
+09/24/2005  08:46 PM            42,846 _9196_RTL_x86_enu_MSBuild_for_VS.cab
+09/24/2005  08:46 PM           168,562 _9207_RTL_x86_enu_VS_Designer_Interops.cab
+09/24/2005  08:46 PM           480,452 _9265_RTL_x86_enu_VS_Editors_Package.cab
+09/24/2005  08:46 PM            86,771 _9359_RTL_x86_enu_EnvDTE80.cab
+09/24/2005  08:46 PM            12,295 _9392_RTL_x86_enu_Venus_PIAs.cab
+09/24/2005  08:46 PM             3,587 _9401_RTL_x86_enu_VxExtensibility.cab
+01/09/2007  09:43 PM    <DIR>          help
+10/14/2005  10:04 PM         1,528,320 msxml6.msi
+10/14/2005  10:04 PM         2,721,280 msxml6_x64.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+06/13/2005  01:27 PM             9,728 rs2000.msp
+10/14/2005  02:50 AM            50,904 setupex.dll
+10/14/2005  10:04 PM         3,595,264 sqlncli.msi
+10/14/2005  10:05 PM         6,641,664 sqlncli_x64.msi
+10/14/2005  10:04 PM         2,807,296 sqlxml4.msi
+10/14/2005  10:05 PM         4,813,312 sqlxml4_x64.msi
+10/14/2005  10:05 PM         8,851,968 vs_setup.msi
+             194 File(s)    523,130,194 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\Setup\Images
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\Setup\help
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\Setup\help\1033
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\redist
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+01/09/2007  09:43 PM    <DIR>          2.0
+01/09/2007  09:43 PM    <DIR>          Windows Installer
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\redist\2.0
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+10/13/2005  11:27 PM        23,510,720 dotnetfx.exe
+10/13/2005  11:27 PM        47,400,128 dotnetfx64.exe
+               2 File(s)     70,910,848 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition\Tools\redist\Windows Installer
+
+01/09/2007  09:43 PM    <DIR>          .
+01/09/2007  09:43 PM    <DIR>          ..
+10/14/2005  02:53 AM         2,585,816 WindowsInstaller-KB893803-v2-x86.exe
+               1 File(s)      2,585,816 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended
+
+01/09/2007  09:41 PM    <DIR>          .
+02/18/2007  09:19 PM    <DIR>          ..
+11/01/2005  04:06 AM             1,055 ReadMe.txt
+01/09/2007  09:42 PM    <DIR>          Servers
+01/09/2007  09:41 PM    <DIR>          Tools
+07/29/2005  12:13 AM                76 autorun.inf
+               2 File(s)          1,131 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:42 PM    <DIR>          1033
+10/14/2005  01:25 PM         1,434,328 DbgHelp.dll
+09/18/2005  05:30 PM               524 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:42 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,192 default.hta
+07/29/2005  12:13 AM            14,572 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/14/2005  11:46 AM         1,097,728 msvcp80.dll
+10/14/2005  11:46 AM           822,784 msvcr80.dll
+01/09/2007  09:42 PM    <DIR>          redist
+10/14/2005  01:37 PM         3,055,832 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  01:31 PM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  01:37 PM           892,632 sqlcu.dll
+10/14/2005  01:31 PM           201,944 sqlcu.rll
+10/14/2005  01:35 PM            16,088 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  01:42 PM           311,000 xmlrw.dll
+              20 File(s)      8,397,984 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\1033
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\Setup
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+01/09/2007  09:42 PM    <DIR>          Images
+09/22/2005  12:11 AM            35,840 MSDE2000.msp
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  05:02 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  04:56 PM        18,959,872 SQLServer2005_BC.msi
+10/14/2005  04:56 PM        13,232,128 SqlRun.msi
+10/14/2005  03:14 PM             2,650 SqlRun_AS.ini
+10/14/2005  05:00 PM        75,326,464 SqlRun_AS.msi
+10/14/2005  04:59 PM        57,217,536 SqlRun_DTS.msi
+10/14/2005  04:57 PM        25,480,704 SqlRun_NS.msi
+10/14/2005  03:29 PM             2,650 SqlRun_RS.ini
+10/14/2005  04:59 PM        58,602,496 SqlRun_RS.msi
+10/14/2005  03:38 PM             2,650 SqlRun_SQL.ini
+10/14/2005  05:02 PM       105,591,808 SqlRun_SQL.msi
+10/14/2005  04:55 PM        11,798,016 SqlSupport.msi
+10/14/2005  04:54 PM         2,904,576 SqlWriter.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+01/09/2007  09:42 PM    <DIR>          help
+09/22/2005  12:11 AM            31,744 libertysql.msp
+10/14/2005  04:54 PM         2,721,280 msxml6.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+06/13/2005  01:27 PM             9,728 rs2000.msp
+10/14/2005  01:38 PM            56,024 setupex.dll
+10/14/2005  04:54 PM         6,641,664 sqlncli.msi
+10/14/2005  04:54 PM         4,813,312 sqlxml4.msi
+              36 File(s)    401,668,646 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\Setup\Images
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\Setup\help
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+01/09/2007  09:42 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\Setup\help\1033
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\redist
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+01/09/2007  09:42 PM    <DIR>          2.0
+01/09/2007  09:42 PM    <DIR>          Upgrade Advisor
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\redist\2.0
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+09/24/2005  08:42 PM        47,400,128 dotnetfx.exe
+               1 File(s)     47,400,128 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Servers\redist\Upgrade Advisor
+
+01/09/2007  09:42 PM    <DIR>          .
+01/09/2007  09:42 PM    <DIR>          ..
+10/14/2005  04:54 PM         4,121,600 SQLUASetup.msi
+               1 File(s)      4,121,600 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          1033
+10/14/2005  01:25 PM         1,434,328 DbgHelp.dll
+09/18/2005  05:30 PM               524 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:41 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,253 default.hta
+07/29/2005  12:13 AM            14,633 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/14/2005  11:46 AM         1,097,728 msvcp80.dll
+10/14/2005  11:46 AM           822,784 msvcr80.dll
+01/09/2007  09:41 PM    <DIR>          redist
+10/14/2005  01:37 PM         3,055,832 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  01:31 PM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  01:37 PM           892,632 sqlcu.dll
+10/14/2005  01:31 PM           201,944 sqlcu.rll
+10/14/2005  01:35 PM            16,088 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  01:42 PM           311,000 xmlrw.dll
+              20 File(s)      8,398,106 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\1033
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\Setup
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          Images
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  05:02 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  04:57 PM        18,959,872 SQLServer2005_BC.msi
+10/14/2005  04:55 PM        11,414,528 SqlRun.msi
+10/14/2005  05:07 PM       280,609,280 SqlRun_Tools.msi
+10/14/2005  05:04 PM       119,187,456 SqlServer2K5_BOL.msi
+10/14/2005  04:55 PM        11,798,016 SqlSupport.msi
+10/14/2005  04:54 PM         2,904,576 SqlWriter.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+09/24/2005  08:46 PM           108,824 _1004_RTL_x86_enu_Object_Browser_Generic.cab
+09/24/2005  08:46 PM            22,959 _1121_RTL_x86_enu_DataForm_Wizard.cab
+09/24/2005  08:46 PM             6,607 _1225_RTL_x86_enu_ASP_Object_Library.cab
+09/24/2005  08:46 PM         1,126,982 _1242_RTL_x86_enu_VS_SCC_Integration_Core.cab
+09/24/2005  08:46 PM           722,107 _13_RTL_x86_enu_DDS_7.0.cab
+09/24/2005  08:46 PM             8,636 _14572_RTL_x86_enu_DTEProperties_Typelib.cab
+09/24/2005  08:46 PM            53,364 _14581_RTL_x86_enu_VS_IDE_Baseline.cab
+09/24/2005  08:46 PM               342 _14584_RTL_x86_enu__Environment_Extended.cab
+09/24/2005  08:46 PM           156,638 _14585_RTL_x86_enu__Environment_Baseline.cab
+09/24/2005  08:46 PM            83,127 _14724_RTL_x86_enu_Express_Core_Debugger.cab
+09/24/2005  08:46 PM             7,727 _14762_RTL_x86_enu_VSIPCC_Collection.cab
+09/24/2005  08:46 PM           309,802 _14934_RTL_x86_enu_XmlEditor.cab
+09/24/2005  08:46 PM           308,049 _15186_RTL_x86_enu_XmlDesigner.cab
+09/24/2005  08:46 PM            79,558 _1519_RTL_x86_enu_VSCC_Help_Collection.cab
+09/24/2005  08:46 PM            16,505 _1520_RTL_x86_enu_HxRuntime.cab
+09/24/2005  08:46 PM            14,414 _15288_RTL_x86_enu_VS_Debug_Debugger.cab
+09/24/2005  08:46 PM            67,146 _15346_RTL_x86_enu_PermCalc.cab
+09/24/2005  08:46 PM           279,042 _15536_RTL_x86_enu_DExplore_Doc_Coll.cab
+09/24/2005  08:46 PM            47,043 _15676_RTL_x86_enu_Remote_Debug_Native.cab
+09/24/2005  08:46 PM           121,056 _1583_RTL_x86_enu_MSHelp_Visual_Services.cab
+09/24/2005  08:46 PM         1,029,012 _1584_RTL_x86_enu_MSHelp_Data_Services.cab
+09/24/2005  08:46 PM            40,745 _15912_RTL_x86_enu_PInteropAsm_Baseline.cab
+09/24/2005  08:46 PM         1,048,499 _15913_RTL_x86_enu_PInteropAsm_Extended.cab
+09/24/2005  08:46 PM            21,244 _16026_RTL_x86_enu_Debugger___Standard.cab
+09/24/2005  08:46 PM         2,229,287 _1610_RTL_x86_enu_CSharp_Intellidocs.cab
+09/24/2005  08:46 PM            70,746 _16115_RTL_x86_enu_VC++_Express_Debug.cab
+09/24/2005  08:46 PM            71,356 _16116_RTL_x86_enu_Venus_Express_Debug.cab
+09/24/2005  08:46 PM            61,206 _16206_RTL_x86_enu_Debugger_Causality.cab
+09/24/2005  08:46 PM            68,568 _16207_RTL_x86_enu_Debugger_Legacy.cab
+09/24/2005  08:46 PM               576 _16407_RTL_x86_enu_CSharpLangFilter20.cab
+09/24/2005  08:46 PM               592 _16408_RTL_x86_enu_HtmlLangFilter80.cab
+09/24/2005  08:46 PM               583 _16409_RTL_x86_enu_JScriptLangFilter80.cab
+09/24/2005  08:46 PM               574 _16410_RTL_x86_enu_JSharpLangFilter80.cab
+09/24/2005  08:46 PM               651 _16412_RTL_x86_enu_NetFxTechFilter20.cab
+09/24/2005  08:46 PM               951 _16413_RTL_x86_enu_OfficeDevTechFilter20.cab
+09/24/2005  08:46 PM               578 _16415_RTL_x86_enu_VBLangFilter80.cab
+09/24/2005  08:46 PM               598 _16418_RTL_x86_enu_VCLangFilter80.cab
+09/24/2005  08:46 PM               709 _16421_RTL_x86_enu_Win32TechFilter80.cab
+09/24/2005  08:46 PM               634 _16422_RTL_x86_enu_WinFormsTechFilter20.cab
+09/24/2005  08:46 PM               561 _16423_RTL_x86_enu_XmlLangFilter80.cab
+09/24/2005  08:46 PM               454 _16425_RTL_x86_enu_CSHowDoI80.cab
+09/24/2005  08:46 PM               448 _16429_RTL_x86_enu_VBHowDoI80.cab
+09/24/2005  08:46 PM               496 _16434_RTL_x86_enu_VSTOHowDoI10.cab
+09/24/2005  08:46 PM               470 _16436_RTL_x86_enu_WebDevHowDoI10.cab
+09/24/2005  08:46 PM             9,206 _16472_RTL_x86_enu_VC_VSK.cab
+09/24/2005  08:46 PM            19,416 _16474_RTL_x86_enu_VS_Default_Profile.cab
+09/24/2005  08:46 PM             6,466 _16503_RTL_x86_ENU_C#_Auto_Expansions.cab
+09/24/2005  08:46 PM             6,466 _16503_RTL_x86_enu_CSharp_Auto_Expansions.cab
+09/24/2005  08:46 PM            28,781 _1654_RTL_x86_enu_VSLangProj_Type_Library.cab
+09/24/2005  08:46 PM            42,143 _16941_RTL_x86_enu_Debugger_Auto_Attach.cab
+09/24/2005  08:46 PM             2,816 _16954_RTL_x86_enu_VS_Filter_Files_for_Std.cab
+09/24/2005  08:46 PM               842 _16956_RTL_x86_enu_VS_MyHelp_Files_for_Std.cab
+09/24/2005  08:46 PM         2,954,500 _17124_RTL_x86_enu_Remote_Debugger_X86.cab
+09/24/2005  08:46 PM             1,142 _17128_RTL_x86_enu_NewFileItems.cab
+09/24/2005  08:46 PM               575 _17153_RTL_x86_enu_ControlTopicTypeFiltr80.cab
+09/24/2005  08:46 PM               592 _17155_RTL_x86_enu_SampleTopicTypeFilter80.cab
+09/24/2005  08:46 PM               595 _17156_RTL_x86_enu_SnipetTopicTypeFilter80.cab
+09/24/2005  08:46 PM               630 _17157_RTL_x86_enu_StartKitTopicTypFiltr80.cab
+09/24/2005  08:46 PM               443 _17159_RTL_x86_enu_ControlsFT80.cab
+09/24/2005  08:46 PM               444 _17161_RTL_x86_enu_SamplesFT80.cab
+09/24/2005  08:46 PM               449 _17162_RTL_x86_enu_SnippetsFT80.cab
+09/24/2005  08:46 PM               452 _17163_RTL_x86_enu_StarterKitsFT80.cab
+09/24/2005  08:46 PM            69,657 _1726_RTL_x86_enu_VS_Debug_msdbg2.cab
+09/24/2005  08:46 PM            67,147 _17625_RTL_x86_enu_PermCalc2.cab
+09/24/2005  08:46 PM           191,319 _1769_RTL_x86_enu_VS_Debug_CS_CPDE.cab
+09/24/2005  08:46 PM             1,041 _17753_RTL_x86_enu_HTML_Snippets.cab
+09/24/2005  08:46 PM             1,298 _17754_RTL_x86_enu_XSL_Tag_Snippets.cab
+09/24/2005  08:46 PM             1,286 _17757_RTL_x86_enu_Attribute_Snippets.cab
+09/24/2005  08:46 PM             1,313 _17759_RTL_x86_enu_ComplexType_Snippets.cab
+09/24/2005  08:46 PM             1,258 _17760_RTL_x86_enu_Element_Snippets.cab
+09/24/2005  08:46 PM               994 _17761_RTL_x86_enu_Extension_Snippets.cab
+09/24/2005  08:46 PM               913 _17762_RTL_x86_enu_Misc_Snippets.cab
+09/24/2005  08:46 PM             1,184 _17763_RTL_x86_enu_SimpleType_Snippets.cab
+09/24/2005  08:46 PM               694 _17767_RTL_x86_enu_InterstitialPage.htm.cab
+09/24/2005  08:46 PM               651 _17974_RTL_x86_enu_WebASPNETTechFilter20.cab
+09/24/2005  08:46 PM               599 _17988_RTL_x86_enu_KBTopicTypeFilter80.cab
+09/24/2005  08:46 PM           371,699 _18605_RTL_x86_enu_Debugger_Help.cab
+09/24/2005  08:46 PM           317,514 _18688_RTL_x86_enu_MSCorCFG.cab
+09/24/2005  08:46 PM             6,099 _18757_RTL_x86_enu_VSP_DLL.cab
+09/24/2005  08:46 PM            40,841 _18844_RTL_x86_enu_SymbolServerFiles.cab
+09/24/2005  08:46 PM               683 _18848_RTL_x86_enu_HelpTopicsTypeFilter80.cab
+09/24/2005  08:46 PM            65,676 _18881_RTL_x86_enu_Community_Content_Inst.cab
+09/24/2005  08:46 PM            23,514 _18886_RTL_x86_enu_Dexplore_Files_Loc.cab
+09/24/2005  08:46 PM            53,634 _18888_RTL_x86_enu_IDE_Global_Shared_Loc.cab
+09/24/2005  08:46 PM         1,510,808 _18889_RTL_x86_enu_Core_IDE_DExplore_Loc.cab
+09/24/2005  08:46 PM            23,939 _18895_RTL_x86_enu_VS_Comm_Content_Inst.cab
+09/24/2005  08:46 PM         3,805,729 _1902_RTL_x86_enu_Core_IDE_DExplore.cab
+09/24/2005  08:46 PM               451 _19077_RTL_x86_enu_AddInsFilterTransform80.cab
+09/24/2005  08:46 PM            57,105 _1909_RTL_x86_enu_TLBINF32_DLL.cab
+09/24/2005  08:46 PM            19,330 _19104_RTL_x86_enu_MSFT_VS_CommandBars_GAC.cab
+09/24/2005  08:46 PM             6,761 _19107_RTL_x86_enu_MS_VS_MgIfc_dll_GAC.cab
+09/24/2005  08:46 PM           129,372 _19110_RTL_x86_enu_VSIP_PIA_Redist_80.cab
+09/24/2005  08:46 PM            43,089 _19112_RTL_x86_enu_ENVDTE80_GAC.cab
+09/24/2005  08:46 PM            21,041 _19113_RTL_x86_enu_VSLangProj80_dll_GAC.cab
+09/24/2005  08:46 PM            12,295 _19116_RTL_x86_enu_VenusWebsitePIA_GAC.cab
+09/24/2005  08:46 PM           379,989 _1923_RTL_x86_enu_Core_IDE_Global_Shared.cab
+09/24/2005  08:46 PM           114,398 _1979_RTL_x86_enu_VS_SCC_TeamCore.cab
+09/24/2005  08:46 PM         1,299,106 _1986_RTL_x86_enu_VB_Compiler_Package.cab
+09/24/2005  08:46 PM            22,083 _1996_RTL_x86_enu_VS_SQL_Debug.cab
+09/24/2005  08:46 PM           175,514 _205_RTL_x86_enu_VsWizard.cab
+09/24/2005  08:46 PM            77,276 _2262_RTL_x86_enu_VC_DirControl.cab
+09/24/2005  08:46 PM           126,224 _22_RTL_x86_enu_Core_IDE_OLB_Files.cab
+09/24/2005  08:46 PM           502,860 _239_RTL_x86_enu_VC_NatDebugger.cab
+09/24/2005  08:46 PM            20,140 _2403_RTL_x86_enu_VC_Resedit.cab
+09/24/2005  08:46 PM           143,528 _245_RTL_x86_enu_VS_SCC_Integration.cab
+09/24/2005  08:46 PM           183,619 _260_RTL_x86_enu_VS_Debug_MSPDB_.cab
+09/24/2005  08:46 PM           112,371 _261_RTL_x86_enu_Dexplore_Files.cab
+09/24/2005  08:46 PM           530,846 _267_RTL_x86_enu_Core_IDE_VS7.cab
+09/24/2005  08:46 PM            32,812 _2879_RTL_x86_enu_VS_Debug_Coloader.cab
+09/24/2005  08:46 PM         1,299,104 _2936_RTL_x86_enu_VB_Compiler_Package_VSA.cab
+09/24/2005  08:46 PM         2,097,504 _2_RTL_x86_enu_Visual_Database_Tools_Core.cab
+09/24/2005  08:46 PM            36,505 _3255_RTL_x86_enu_SN_EXE.cab
+09/24/2005  08:46 PM            10,773 _3312_RTL_x86_enu_VSHelp_COM_Plus_Interop.cab
+09/24/2005  08:46 PM             5,291 _3332_RTL_x86_enu_ARP_Icon.cab
+09/24/2005  08:46 PM               628 _3365_RTL_x86_enu_NewScript_Items.cab
+09/24/2005  08:46 PM             2,396 _3395_RTL_x86_enu_Redist.txt.cab
+09/24/2005  08:46 PM            78,370 _347_RTL_x86_enu_VSLOG.cab
+09/24/2005  08:46 PM           122,733 _349_RTL_x86_enu_CSS_Designer.cab
+09/24/2005  08:46 PM         1,163,885 _351_RTL_x86_enu_HTML_Designer.cab
+09/24/2005  08:46 PM             3,288 _3554_RTL_x86_enu_DTE_Com_Plus_Interop.cab
+09/24/2005  08:46 PM             4,092 _3559_RTL_x86_enu_IDE_Macros_References.cab
+09/24/2005  08:46 PM           943,924 _357_RTL_x86_enu_VC_Common_Resedit.cab
+09/24/2005  08:46 PM            41,058 _3598_RTL_x86_enu_VB7_Runtime_XML.cab
+09/24/2005  08:46 PM               652 _3712_RTL_x86_enu_Assembly_Folder_Readmes.cab
+09/24/2005  08:46 PM            33,939 _371_RTL_x86_enu_VS_Debug_ENCMgr.cab
+09/24/2005  08:46 PM             1,112 _3720_RTL_x86_enu_VxExtensibility_Typelib.cab
+09/24/2005  08:46 PM           114,970 _373_RTL_x86_enu_VS_Debug_MDM_PDM_.cab
+09/24/2005  08:46 PM            35,220 _376_RTL_x86_enu_VS_Debug_SDM2.cab
+09/24/2005  08:46 PM           272,224 _377_RTL_x86_enu_VS_Debug_SHMetapdb.cab
+09/24/2005  08:46 PM           659,002 _378_RTL_x86_enu_VS_Debug_VSDebug.cab
+09/24/2005  08:46 PM               965 _3858_RTL_x86_enu_VC_Debug_Extension.cab
+09/24/2005  08:46 PM           102,827 _3942_RTL_x86_enu_VSCC_HXS_HXI.cab
+09/24/2005  08:46 PM             7,761 _3943_RTL_x86_enu_VSCC_Collection_Files.cab
+09/24/2005  08:46 PM           251,756 _3965_RTL_x86_enu_MSDIA80_Debugger.cab
+09/24/2005  08:46 PM         5,294,715 _3_RTL_x86_enu_Core_IDE.cab
+09/24/2005  08:46 PM            76,347 _476_RTL_x86_enu_VS_Debug_JScript_.cab
+09/24/2005  08:46 PM               706 _518_RTL_x86_enu_Dynamic_Help.cab
+09/24/2005  08:46 PM           114,635 _527_RTL_x86_enu_CompSvcsPkg.cab
+09/24/2005  08:46 PM           109,202 _530_RTL_x86_enu_SQL_Srvr_mssdi.cab
+09/24/2005  08:46 PM            66,015 _535_RTL_x86_enu_VC_Dbg_DbgProxy.cab
+09/24/2005  08:46 PM            71,156 _536_RTL_x86_enu_Envdte_COM_Plus_Interop.cab
+09/24/2005  08:46 PM               647 _573_RTL_x86_enu_ProjectItems.cab
+09/24/2005  08:46 PM         8,585,968 _579_RTL_x86_enu__VBA_7.cab
+09/24/2005  08:46 PM             1,319 _5_RTL_x86_enu_NewFile_Items.cab
+09/24/2005  08:46 PM           187,850 _616_RTL_x86_enu__VISUAL_DATABASE_TOOLS.cab
+09/24/2005  08:46 PM           120,486 _676_RTL_x86_enu__DEXPLORE.cab
+09/24/2005  08:46 PM           278,930 _681_RTL_x86_enu_IDE_Macros.cab
+09/24/2005  08:46 PM            55,262 _682_RTL_x86_enu_IDE_Solution_Pkg.cab
+09/24/2005  08:46 PM           686,071 _692_RTL_x86_enu_Designer_Framework.cab
+09/24/2005  08:46 PM         1,126,010 _870_RTL_x86_enu_VS_Designer.cab
+09/24/2005  08:46 PM           154,107 _887_RTL_x86_enu_VS_Debug_MSDIS150.cab
+09/24/2005  08:46 PM            75,056 _9079_RTL_x86_enu_VS_Debug_VSJIT.cab
+09/24/2005  08:46 PM         1,417,976 _9190_RTL_x86_enu_Venus_Web_Design.cab
+09/24/2005  08:46 PM            42,846 _9196_RTL_x86_enu_MSBuild_for_VS.cab
+09/24/2005  08:46 PM           168,562 _9207_RTL_x86_enu_VS_Designer_Interops.cab
+09/24/2005  08:46 PM           480,452 _9265_RTL_x86_enu_VS_Editors_Package.cab
+09/24/2005  08:46 PM            86,771 _9359_RTL_x86_enu_EnvDTE80.cab
+09/24/2005  08:46 PM            12,295 _9392_RTL_x86_enu_Venus_PIAs.cab
+09/24/2005  08:46 PM             3,587 _9401_RTL_x86_enu_VxExtensibility.cab
+01/09/2007  09:41 PM    <DIR>          help
+10/14/2005  05:02 PM         2,721,280 msxml6.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+10/14/2005  01:38 PM            56,024 setupex.dll
+10/14/2005  04:54 PM         6,641,664 sqlncli.msi
+10/14/2005  04:54 PM         4,813,312 sqlxml4.msi
+10/14/2005  04:55 PM         8,851,968 vs_setup.msi
+             187 File(s)    534,537,554 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\Setup\Images
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\Setup\help
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\Setup\help\1033
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\redist
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          2.0
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Extended\Tools\redist\2.0
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/24/2005  08:42 PM        47,400,128 dotnetfx.exe
+               1 File(s)     47,400,128 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium
+
+01/09/2007  09:40 PM    <DIR>          .
+02/18/2007  09:19 PM    <DIR>          ..
+11/01/2005  04:05 AM             1,054 ReadMe.txt
+01/09/2007  09:41 PM    <DIR>          Servers
+01/09/2007  09:40 PM    <DIR>          Tools
+07/29/2005  12:13 AM                76 autorun.inf
+               2 File(s)          1,130 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          1033
+10/14/2005  01:29 PM         3,834,584 DbgHelp.dll
+09/18/2005  05:31 PM               523 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:41 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,192 default.hta
+07/29/2005  12:13 AM            14,572 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/14/2005  11:35 AM         1,385,472 msvcp80.dll
+10/14/2005  11:35 AM         1,484,800 msvcr80.dll
+01/09/2007  09:41 PM    <DIR>          redist
+10/14/2005  01:46 PM         8,080,600 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  01:39 PM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  01:46 PM         2,343,640 sqlcu.dll
+10/14/2005  01:39 PM           201,944 sqlcu.rll
+10/14/2005  01:45 PM            22,232 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  01:46 PM           560,856 xmlrw.dll
+              20 File(s)     18,479,775 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\1033
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\Setup
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          Images
+09/22/2005  12:11 AM            35,840 MSDE2000.msp
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  04:34 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  04:36 PM        24,015,360 SQLServer2005_BC.msi
+10/14/2005  04:36 PM        19,631,104 SqlRun.msi
+10/14/2005  03:09 PM             2,650 SqlRun_AS.ini
+10/14/2005  04:38 PM       106,880,512 SqlRun_AS.msi
+10/14/2005  04:39 PM        81,728,000 SqlRun_DTS.msi
+10/14/2005  04:37 PM        36,410,368 SqlRun_NS.msi
+10/14/2005  03:23 PM             2,650 SqlRun_RS.ini
+10/14/2005  04:38 PM        74,969,088 SqlRun_RS.msi
+10/14/2005  03:32 PM             2,650 SqlRun_SQL.ini
+10/14/2005  04:40 PM       146,151,936 SqlRun_SQL.msi
+10/14/2005  04:35 PM        16,472,576 SqlSupport.msi
+10/14/2005  04:34 PM         4,583,936 SqlWriter.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+01/09/2007  09:41 PM    <DIR>          help
+09/22/2005  12:11 AM            31,744 libertysql.msp
+10/14/2005  04:34 PM         3,753,472 msxml6.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+06/13/2005  01:27 PM             9,728 rs2000.msp
+10/14/2005  01:44 PM           109,272 setupex.dll
+10/14/2005  04:35 PM         8,565,248 sqlncli.msi
+10/14/2005  04:35 PM         6,240,768 sqlxml4.msi
+              36 File(s)    547,834,406 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\Setup\Images
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\Setup\help
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\Setup\help\1033
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\redist
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+01/09/2007  09:41 PM    <DIR>          2.0
+01/09/2007  09:41 PM    <DIR>          Upgrade Advisor
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\redist\2.0
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+09/24/2005  08:43 PM        54,738,624 dotnetfx.exe
+               1 File(s)     54,738,624 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Servers\redist\Upgrade Advisor
+
+01/09/2007  09:41 PM    <DIR>          .
+01/09/2007  09:41 PM    <DIR>          ..
+10/14/2005  04:34 PM         4,121,600 SQLUASetup.msi
+               1 File(s)      4,121,600 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+01/09/2007  09:40 PM    <DIR>          1033
+10/14/2005  01:29 PM         3,834,584 DbgHelp.dll
+09/18/2005  05:31 PM               523 Microsoft.VC80.CRT.manifest
+10/08/2005  09:18 PM           171,418 ReadmeSQL2005.htm
+09/21/2005  12:09 AM            63,841 RequirementsSQL2005.htm
+01/09/2007  09:40 PM    <DIR>          Setup
+06/13/2005  01:19 PM             1,406 autorun.ico
+06/13/2005  01:19 PM                54 autorun.inf
+08/09/2005  12:13 AM            15,253 default.hta
+07/29/2005  12:13 AM            14,633 default.htm
+09/14/2005  12:08 AM            55,850 license.txt
+10/14/2005  11:35 AM         1,385,472 msvcp80.dll
+10/14/2005  11:35 AM         1,484,800 msvcr80.dll
+01/09/2007  09:40 PM    <DIR>          redist
+10/14/2005  01:46 PM         8,080,600 setup.exe
+06/13/2005  01:19 PM             9,062 setup.ico
+10/14/2005  01:39 PM           199,896 setup.rll
+08/11/2005  12:11 AM             4,236 splash.hta
+10/14/2005  01:46 PM         2,343,640 sqlcu.dll
+10/14/2005  01:39 PM           201,944 sqlcu.rll
+10/14/2005  01:45 PM            22,232 sqlspkglist.dll
+09/09/2005  12:16 AM            29,597 template.ini
+10/14/2005  01:46 PM           560,856 xmlrw.dll
+              20 File(s)     18,479,897 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\1033
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+07/19/2005  12:09 AM             3,360 finish.rtf
+               1 File(s)          3,360 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\Setup
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+01/09/2007  09:40 PM    <DIR>          Images
+10/14/2005  02:32 AM            89,304 OSE.EXE
+10/14/2005  04:34 PM           650,752 OWC11.MSI
+06/17/2005  12:08 AM         1,852,707 PA655502.CAB
+06/13/2005  12:05 PM            11,142 PSS10O.CHM_1033
+06/13/2005  12:05 PM            11,378 PSS10R.CHM_1033
+06/13/2005  12:05 PM           272,824 SETUP.CHM_1033
+10/14/2005  02:32 AM           419,032 SETUP.EXE
+06/17/2005  12:08 AM             2,928 SETUP.INI
+06/17/2005  12:08 AM         3,513,030 SKU0A4.CAB
+10/14/2005  04:36 PM        24,015,360 SQLServer2005_BC.msi
+10/14/2005  04:35 PM        17,758,208 SqlRun.msi
+10/14/2005  04:48 PM       272,525,312 SqlRun_Tools.msi
+10/14/2005  04:38 PM       119,187,456 SqlServer2K5_BOL.msi
+10/14/2005  04:35 PM        16,472,576 SqlSupport.msi
+10/14/2005  04:34 PM         4,583,936 SqlWriter.msi
+06/17/2005  12:08 AM         7,998,069 YB656101.CAB
+06/17/2005  12:08 AM         1,692,636 ZD655501.CAB
+06/17/2005  12:08 AM           107,636 ZM656101.CAB
+06/17/2005  12:09 AM           701,228 ZQ655502.CAB
+06/17/2005  12:09 AM           441,429 ZS655501.CAB
+06/17/2005  12:09 AM           463,431 ZY656106.CAB
+06/17/2005  12:09 AM             6,291 ZZ655501.CAB
+01/09/2007  09:40 PM    <DIR>          help
+09/22/2005  12:11 AM            31,744 libertysql.msp
+10/14/2005  04:34 PM         3,753,472 msxml6.msi
+06/17/2005  12:08 AM             3,687 owc11.xml
+10/14/2005  01:44 PM           109,272 setupex.dll
+10/14/2005  04:35 PM         8,565,248 sqlncli.msi
+10/14/2005  04:34 PM         6,240,768 sqlxml4.msi
+              28 File(s)    491,480,856 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\Setup\Images
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+09/01/2005  09:23 PM            84,835 autorun_silver_bground.png
+07/18/2005  12:10 AM            20,790 browse_cd.gif
+07/18/2005  12:10 AM            18,463 license_agreement.gif
+07/18/2005  12:10 AM            19,347 newsgroup.gif
+07/18/2005  12:10 AM            18,463 release_notes.gif
+07/18/2005  12:10 AM            18,647 server.gif
+07/18/2005  12:10 AM            17,888 setup.gif
+09/01/2005  09:23 PM           411,320 splash.bmp
+07/18/2005  12:10 AM            19,347 sql_website.gif
+               9 File(s)        629,100 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\Setup\help
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+01/09/2007  09:40 PM    <DIR>          1033
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\Setup\help\1033
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+09/13/2005  12:08 AM         1,384,531 setupsql9.chm
+               1 File(s)      1,384,531 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\redist
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+01/09/2007  09:40 PM    <DIR>          2.0
+               0 File(s)              0 bytes
+
+ Directory of F:\Microsoft.SQL.Server.2005.Standard.Edition.64-bit.Itanium\Tools\redist\2.0
+
+01/09/2007  09:40 PM    <DIR>          .
+01/09/2007  09:40 PM    <DIR>          ..
+09/24/2005  08:43 PM        54,738,624 dotnetfx.exe
+               1 File(s)     54,738,624 bytes
+
+     Total Files Listed:
+             730 File(s)  3,284,126,508 bytes
+             168 Dir(s)               0 bytes free

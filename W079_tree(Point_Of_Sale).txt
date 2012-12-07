@@ -1,0 +1,47 @@
+Folder PATH listing for volume POS 1.50
+Volume serial number is 725B-B3BA
+J:\
+|   Readme.txt
+|   Setup.exe
+|   autorun.apm
+|   autorun.exe
+|   autorun.ico
+|   autorun.inf
+|   
++---Client
+|       Setup.exe
+|       
++---DATA
+|       menu1.brh
+|       menu1.brl
+|       menu1.daw
+|       menu1.ttf
+|       menu2.daw
+|       menu2.ttf
+|       menu3.daw
+|       menu3.ttf
+|       menu4.daw
+|       
++---DirectX8.1
+|       BDA.cab
+|       BDANT.cab
+|       DSETUP.dll
+|       DirectX.cab
+|       cfgmgr32.dll
+|       dsetup32.dll
+|       dxnt.cab
+|       dxsetup.exe
+|       setupapi.dll
+|       
++---Manual
+|       Panduan DSS POS.pdf
+|       Panduan Pengoperasian.doc
+|       
+\---VBSupport
+        DBLIST32.OCX
+        MSSTDFMT.DLL
+        MSVCIRT.DLL
+        MSVCRT40.DLL
+        comdlg32.ocx
+        mscomctl.ocx
+        

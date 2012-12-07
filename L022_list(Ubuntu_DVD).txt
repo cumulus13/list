@@ -1,0 +1,893 @@
+ Volume in drive F is Ubuntu-7.04-IL06
+ Volume Serial Number is 05F3-1D60
+
+ Directory of F:\
+
+05/03/2007  05:51 AM    <DIR>          IL-062007
+05/03/2007  05:32 AM    <DIR>          KNOPPIX
+05/03/2007  07:13 AM            45,666 MD5SUM
+05/03/2007  06:49 AM             3,241 README.txt
+05/03/2007  05:32 AM    <DIR>          boot
+05/03/2007  05:32 AM               391 index.html
+               3 File(s)         49,298 bytes
+
+ Directory of F:\IL-062007
+
+05/03/2007  05:51 AM    <DIR>          .
+05/03/2007  07:13 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          browser
+05/03/2007  05:34 AM    <DIR>          codecs
+05/03/2007  05:34 AM    <DIR>          desktop
+05/03/2007  05:34 AM    <DIR>          development
+05/03/2007  05:44 AM    <DIR>          distro
+05/03/2007  05:34 AM    <DIR>          dokumen
+05/03/2007  05:34 AM    <DIR>          driver
+05/03/2007  05:34 AM    <DIR>          email
+05/03/2007  05:52 AM    <DIR>          extras
+05/03/2007  05:34 AM    <DIR>          komunikasi
+05/03/2007  05:34 AM    <DIR>          matematika
+05/03/2007  05:34 AM    <DIR>          office
+05/03/2007  05:34 AM    <DIR>          penting
+05/03/2007  05:34 AM    <DIR>          plugins
+05/03/2007  05:34 AM    <DIR>          sistem-file
+05/03/2007  05:34 AM    <DIR>          tools
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\browser
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          firefox-2.0.0.3
+05/03/2007  05:34 AM    <DIR>          opera-9.20
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\browser\firefox-2.0.0.3
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM         9,651,693 firefox-2.0.0.3.tar.gz
+               1 File(s)      9,651,693 bytes
+
+ Directory of F:\IL-062007\browser\opera-9.20
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM         7,281,169 opera-9.20-20070409.1-static-qt.i386-en.rpm
+05/03/2007  05:34 AM         7,271,546 opera-static_9.20-20070409.1-qt_en_i386.deb
+               2 File(s)     14,552,715 bytes
+
+ Directory of F:\IL-062007\codecs
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          video
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\codecs\video
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        13,808,014 all-20061022.tar.bz2
+               1 File(s)     13,808,014 bytes
+
+ Directory of F:\IL-062007\desktop
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          beryl-0.2.1
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\desktop\beryl-0.2.1
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           604,306 aquamarine-0.2.1.tar.gz
+05/03/2007  05:34 AM           619,695 beryl-core-0.2.1.tar.gz
+05/03/2007  05:34 AM           212,459 beryl-manager-0.2.1.tar.gz
+05/03/2007  05:34 AM         2,978,309 beryl-plugins-0.2.1.tar.gz
+05/03/2007  05:34 AM           530,358 beryl-plugins-unsupported-0.2.1.tar.gz
+05/03/2007  05:34 AM           472,876 beryl-settings-0.2.1.tar.gz
+05/03/2007  05:34 AM           355,056 beryl-settings-bindings-0.2.1.tar.gz
+05/03/2007  05:34 AM           194,442 beryl-settings-simple-0.2.1.tar.gz
+05/03/2007  05:34 AM           618,492 emerald-0.2.1.tar.gz
+05/03/2007  05:34 AM           345,106 heliodor-0.2.1.tar.gz
+              10 File(s)      6,931,099 bytes
+
+ Directory of F:\IL-062007\development
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          jre-1.5.0.11
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\development\jre-1.5.0.11
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        17,115,102 jre-1_5_0_11-linux-i586.bin
+               1 File(s)     17,115,102 bytes
+
+ Directory of F:\IL-062007\distro
+
+05/03/2007  05:44 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          edubuntu-7.04-server-i386
+05/03/2007  05:33 AM    <DIR>          edubuntu-7.04-serveraddon-i386
+05/03/2007  05:35 AM    <DIR>          kubuntu-7.04-desktop-386
+05/03/2007  05:35 AM    <DIR>          ubuntu-7.04-desktop-i386
+05/03/2007  05:49 AM    <DIR>          ubuntu-7.04-server-i386
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\distro\edubuntu-7.04-server-i386
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:44 AM    <DIR>          ..
+05/03/2007  05:34 AM       726,327,296 edubuntu-7.04-server-i386.iso
+05/03/2007  05:34 AM                64 edubuntu-7.04-server-i386.iso.md5
+               2 File(s)    726,327,360 bytes
+
+ Directory of F:\IL-062007\distro\edubuntu-7.04-serveraddon-i386
+
+05/03/2007  05:33 AM    <DIR>          .
+05/03/2007  05:44 AM    <DIR>          ..
+05/03/2007  05:33 AM       592,562,176 edubuntu-7.04-serveraddon-i386.iso
+05/03/2007  05:33 AM                69 edubuntu-7.04-serveraddon-i386.iso.md5
+               2 File(s)    592,562,245 bytes
+
+ Directory of F:\IL-062007\distro\kubuntu-7.04-desktop-386
+
+05/03/2007  05:35 AM    <DIR>          .
+05/03/2007  05:44 AM    <DIR>          ..
+05/03/2007  05:35 AM       727,867,392 kubuntu-7.04-desktop-i386.iso
+05/03/2007  05:35 AM                64 kubuntu-7.04-desktop-i386.iso.md5
+               2 File(s)    727,867,456 bytes
+
+ Directory of F:\IL-062007\distro\ubuntu-7.04-desktop-i386
+
+05/03/2007  05:35 AM    <DIR>          .
+05/03/2007  05:44 AM    <DIR>          ..
+05/03/2007  05:35 AM       731,797,504 ubuntu-7.04-desktop-i386.iso
+05/03/2007  05:35 AM                63 ubuntu-7.04-desktop-i386.iso.md5
+               2 File(s)    731,797,567 bytes
+
+ Directory of F:\IL-062007\distro\ubuntu-7.04-server-i386
+
+05/03/2007  05:49 AM    <DIR>          .
+05/03/2007  05:44 AM    <DIR>          ..
+05/03/2007  05:36 AM       516,335,616 ubuntu-7.04-server-i386.iso
+05/03/2007  05:36 AM                62 ubuntu-7.04-server-i386.iso.md5
+               2 File(s)    516,335,678 bytes
+
+ Directory of F:\IL-062007\dokumen
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          adobereader_enu-7.0.9-1
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\dokumen\adobereader_enu-7.0.9-1
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        43,915,056 AdobeReader_enu-7.0.9-1.i386.rpm
+05/03/2007  05:34 AM        44,165,526 AdobeReader_enu-7.0.9-1.i386.tar.gz
+               2 File(s)     88,080,582 bytes
+
+ Directory of F:\IL-062007\driver
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          modem
+05/03/2007  05:34 AM    <DIR>          videocard
+05/03/2007  05:34 AM    <DIR>          wlan
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\driver\modem
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          hcf-modem-1.12
+05/03/2007  05:34 AM    <DIR>          hsf-modem-7.60
+05/03/2007  05:34 AM    <DIR>          smartlink-2.9.11
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\driver\modem\hcf-modem-1.12
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           201,412 cnxtinstall.run
+05/03/2007  05:34 AM           684,583 hcfpcimodem-1.12full-1.i386.rpm.zip
+05/03/2007  05:34 AM           677,933 hcfpcimodem-1.12full.tar.gz
+05/03/2007  05:34 AM           705,180 hcfpcimodem_1.12full_i386.deb.zip
+               4 File(s)      2,269,108 bytes
+
+ Directory of F:\IL-062007\driver\modem\hsf-modem-7.60
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           201,412 cnxtinstall.run
+05/03/2007  05:34 AM         1,362,600 hsfmodem-7.60.00.02full-1.i386.rpm.zip
+05/03/2007  05:34 AM         1,377,050 hsfmodem-7.60.00.02full.tar.gz
+05/03/2007  05:34 AM         1,375,782 hsfmodem_7.60.00.02full_i386.deb.zip
+               4 File(s)      4,316,844 bytes
+
+ Directory of F:\IL-062007\driver\modem\smartlink-2.9.11
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM            71,770 scanModem.gz
+05/03/2007  05:34 AM           839,535 slmodem-2.9.11-20070422.tar.gz
+05/03/2007  05:34 AM               827 slmodem-last-2.6.19.1.patch.gz
+05/03/2007  05:34 AM             1,940 ungrab-winmodem.tar.gz
+               4 File(s)        914,072 bytes
+
+ Directory of F:\IL-062007\driver\videocard
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          nvidia
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\driver\videocard\nvidia
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM               344 bacasaya
+05/03/2007  05:34 AM             5,688 license
+05/03/2007  05:34 AM            29,093 nvidia-installer-HOWTO.html
+05/03/2007  05:34 AM    <DIR>          vga_baru
+05/03/2007  05:34 AM    <DIR>          vga_lama
+               3 File(s)         35,125 bytes
+
+ Directory of F:\IL-062007\driver\videocard\nvidia\vga_baru
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        14,540,439 NVIDIA-Linux-x86-1.0-9755-pkg1.run
+05/03/2007  05:34 AM        11,768,823 NVIDIA-Linux-x86_64-1.0-9755-pkg2.run
+               2 File(s)     26,309,262 bytes
+
+ Directory of F:\IL-062007\driver\videocard\nvidia\vga_lama
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        11,508,286 NVIDIA-Linux-x86-1.0-7184-pkg1.run
+05/03/2007  05:34 AM         8,779,868 NVIDIA-Linux-x86_64-1.0-7184-pkg2.run
+               2 File(s)     20,288,154 bytes
+
+ Directory of F:\IL-062007\driver\wlan
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          madwifi-0.9.3
+05/03/2007  05:34 AM    <DIR>          rt-2x00
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\driver\wlan\madwifi-0.9.3
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM         3,648,994 madwifi-0.9.3.tar.gz
+               1 File(s)      3,648,994 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          doc
+05/03/2007  05:34 AM    <DIR>          rt2400
+05/03/2007  05:34 AM    <DIR>          rt2500
+05/03/2007  05:34 AM    <DIR>          rt2570
+05/03/2007  05:34 AM    <DIR>          rt61
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM            22,568 Debian-rt2500-Howto.html
+05/03/2007  05:34 AM    <DIR>          Debian-rt2500-Howto_files
+05/03/2007  05:34 AM            27,601 Ubuntu-RalinkRT2500.html
+05/03/2007  05:34 AM    <DIR>          Ubuntu-RalinkRT2500_files
+05/03/2007  05:34 AM            14,342 Ubuntu-RalinkRT61.html
+05/03/2007  05:34 AM    <DIR>          Ubuntu-RalinkRT61_files
+05/03/2007  05:34 AM            71,266 openSUSE-10.2-And-RT2x00-Wireless-Cards.html
+05/03/2007  05:34 AM    <DIR>          openSUSE-10.2-And-RT2x00-Wireless-Cards_files
+05/03/2007  05:34 AM             2,602 rt2400-installation-guide.txt
+05/03/2007  05:34 AM             9,077 rt2570_fc4_howto.html
+05/03/2007  05:34 AM    <DIR>          rt2570_fc4_howto_files
+               6 File(s)        147,456 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\Debian-rt2500-Howto_files
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM               991 about_button.gif
+05/03/2007  05:34 AM               854 button_box_end.gif
+05/03/2007  05:34 AM               978 docs_button.gif
+05/03/2007  05:34 AM             1,053 download_button.gif
+05/03/2007  05:34 AM               990 forum_button.gif
+05/03/2007  05:34 AM             1,066 hardware_button.gif
+05/03/2007  05:34 AM             2,332 heading_right.gif
+05/03/2007  05:34 AM               853 heading_tile.gif
+05/03/2007  05:34 AM               971 lists_button.gif
+05/03/2007  05:34 AM             1,477 menu_tab.gif
+05/03/2007  05:34 AM               819 menu_tile.gif
+05/03/2007  05:34 AM               996 news_button.gif
+05/03/2007  05:34 AM             1,020 project_button.gif
+05/03/2007  05:34 AM             2,108 sflogo.php
+05/03/2007  05:34 AM               960 who_button.gif
+05/03/2007  05:34 AM            21,397 wikibits.js
+05/03/2007  05:34 AM               938 wikiprintable.css
+              17 File(s)         39,803 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\Ubuntu-RalinkRT2500_files
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM             6,977 common.css
+05/03/2007  05:34 AM               177 icon-info.png
+05/03/2007  05:34 AM               717 print.css
+05/03/2007  05:34 AM               477 projection.css
+05/03/2007  05:34 AM             9,037 screen.css
+05/03/2007  05:34 AM             1,033 u-www.png
+               6 File(s)         18,418 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\Ubuntu-RalinkRT61_files
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM             6,977 common.css
+05/03/2007  05:34 AM               717 print.css
+05/03/2007  05:34 AM               477 projection.css
+05/03/2007  05:34 AM             9,037 screen.css
+05/03/2007  05:34 AM             1,033 u-www.png
+               5 File(s)         18,241 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\openSUSE-10.2-And-RT2x00-Wireless-Cards_files
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM            28,672 1001291av0.jpg
+05/03/2007  05:34 AM             4,549 25822676_789bf55448_t.jpg
+05/03/2007  05:34 AM               292 2777572964881092520otq0.png
+05/03/2007  05:34 AM             4,397 288329376_1bd5c94d20_t.jpg
+05/03/2007  05:34 AM             4,663 300077176_e74d9f10c1_t.jpg
+05/03/2007  05:34 AM             3,779 308453448_c049076c06_t.jpg
+05/03/2007  05:34 AM             9,891 411183372_ecccf2d94b_t.jpg
+05/03/2007  05:34 AM             9,990 411183373_6e827da6bf_t.jpg
+05/03/2007  05:34 AM             5,460 88x31.png
+05/03/2007  05:34 AM             3,531 EazyVG.gif
+05/03/2007  05:34 AM            10,167 Icon-wifi.png
+05/03/2007  05:34 AM            28,252 a
+05/03/2007  05:34 AM               867 akismet.css
+05/03/2007  05:34 AM                43 botd.gif
+05/03/2007  05:34 AM             1,831 counter.php
+05/03/2007  05:34 AM             1,852 displayimg.php
+05/03/2007  05:34 AM             5,879 firefoxspreadbtn1beg2.png
+05/03/2007  05:34 AM                50 g.gif
+05/03/2007  05:34 AM             2,065 get_os_ribbon_03.gif
+05/03/2007  05:34 AM               306 getnosoftwarepatents80x1524rq.png
+05/03/2007  05:34 AM             3,723 getopenoffice20m80x1524ox.png
+05/03/2007  05:34 AM             1,663 i-love-india.gif
+05/03/2007  05:34 AM               367 ipimage.php
+05/03/2007  05:34 AM             2,312 itunescoverpc9.jpg
+05/03/2007  05:34 AM            13,012 joinfsf03dc1.png
+05/03/2007  05:34 AM               744 licenseoss80x152ea8.png
+05/03/2007  05:34 AM             1,312 linux-32.jpg
+05/03/2007  05:34 AM               696 linux26ud.png
+05/03/2007  05:34 AM            21,094 load
+05/03/2007  05:34 AM             1,687 loading.gif
+05/03/2007  05:34 AM               768 logo_wordpress.gif
+05/03/2007  05:34 AM            17,774 mapkit
+05/03/2007  05:34 AM    <DIR>          mapkit_data
+05/03/2007  05:34 AM               779 meter.asp
+05/03/2007  05:34 AM             1,878 opensuse1me7.gif
+05/03/2007  05:34 AM             3,837 opensuse7tg1.gif
+05/03/2007  05:34 AM             2,319 quant.js
+05/03/2007  05:34 AM             9,661 recent_videos.js
+05/03/2007  05:34 AM             3,341 rss.png
+05/03/2007  05:34 AM           134,305 screenshot1.png
+05/03/2007  05:34 AM            82,108 screenshot2.png
+05/03/2007  05:34 AM            16,967 screenshot3.png
+05/03/2007  05:34 AM            11,910 screenshot4.png
+05/03/2007  05:34 AM            11,065 screenshot5.png
+05/03/2007  05:34 AM            67,557 screenshot6.png
+05/03/2007  05:34 AM             3,905 snap_preview_anywhere.js
+05/03/2007  05:34 AM                43 t.gif
+05/03/2007  05:34 AM               569 tech-logo-embed.gif
+05/03/2007  05:34 AM            19,492 urchin.js
+05/03/2007  05:34 AM             5,473 url_data.jpg
+05/03/2007  05:34 AM             1,112 url_data_002.jpg
+05/03/2007  05:34 AM             6,314 url_data_003.jpg
+05/03/2007  05:34 AM               793 views_small.gif
+05/03/2007  05:34 AM             1,195 vodpod_logo_white.png
+05/03/2007  05:34 AM             4,414 w.js
+05/03/2007  05:34 AM             4,270 wp20buttonsmalltrans2gdsa9.gif
+              55 File(s)        584,995 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\openSUSE-10.2-And-RT2x00-Wireless-Cards_files\mapkit_data
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM            28,551 api_combined.js
+05/03/2007  05:34 AM            20,595 kh
+05/03/2007  05:34 AM            17,402 kh_002
+05/03/2007  05:34 AM            18,852 kh_003
+05/03/2007  05:34 AM            19,803 kh_004
+05/03/2007  05:34 AM            19,338 kh_005
+05/03/2007  05:34 AM            17,203 kh_006
+05/03/2007  05:34 AM            17,501 kh_007
+05/03/2007  05:34 AM            20,100 kh_008
+05/03/2007  05:34 AM            17,657 kh_009
+05/03/2007  05:34 AM            16,957 kh_010
+05/03/2007  05:34 AM            17,259 kh_011
+05/03/2007  05:34 AM            20,265 kh_012
+05/03/2007  05:34 AM           200,837 mapkit_combined.js
+05/03/2007  05:34 AM                79 maps
+05/03/2007  05:34 AM           152,290 maps2.js
+05/03/2007  05:34 AM               160 maps_002
+05/03/2007  05:34 AM             4,710 maps_003
+05/03/2007  05:34 AM             8,822 mt
+05/03/2007  05:34 AM             3,308 mt_002
+05/03/2007  05:34 AM             3,874 mt_003
+05/03/2007  05:34 AM               695 mt_004
+05/03/2007  05:34 AM             4,082 mt_005
+05/03/2007  05:34 AM             1,900 mt_006
+05/03/2007  05:34 AM             3,031 mt_007
+05/03/2007  05:34 AM            12,796 mt_008
+05/03/2007  05:34 AM             5,894 mt_009
+05/03/2007  05:34 AM             2,421 mt_010
+05/03/2007  05:34 AM             3,688 mt_011
+05/03/2007  05:34 AM               551 mt_012
+05/03/2007  05:34 AM             3,328 poweredby.png
+05/03/2007  05:34 AM                32 rest
+05/03/2007  05:34 AM             1,112 skinny_arrow.gif
+05/03/2007  05:34 AM               114 transparent.png
+              34 File(s)        665,207 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\doc\rt2570_fc4_howto_files
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM            42,960 rt2570_fc4_howto_html_3d49a064.png
+05/03/2007  05:34 AM            28,776 rt2570_fc4_howto_html_b9d8cfb.png
+05/03/2007  05:34 AM            15,216 rt2570_fc4_howto_html_m24139cbb.png
+05/03/2007  05:34 AM            34,039 rt2570_fc4_howto_html_m25ef04de.png
+05/03/2007  05:34 AM            29,058 rt2570_fc4_howto_html_m3bda5eb6.png
+05/03/2007  05:34 AM            51,341 rt2570_fc4_howto_html_m77e71aa3.png
+               6 File(s)        201,390 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\rt2400
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           222,661 rt2400-1.2.2-b3.tar.gz
+               1 File(s)        222,661 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\rt2500
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           386,980 rt2500-1.1.0-b4.tar.gz
+               1 File(s)        386,980 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\rt2570
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           253,367 rt2570-1.1.0-b2.tar.gz
+               1 File(s)        253,367 bytes
+
+ Directory of F:\IL-062007\driver\wlan\rt-2x00\rt61
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           342,670 rt61-1.1.0-b1.tar.gz
+               1 File(s)        342,670 bytes
+
+ Directory of F:\IL-062007\email
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          thunderbird-2.0.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\email\thunderbird-2.0.0
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        11,428,569 thunderbird-2.0.0.0.tar.gz
+               1 File(s)     11,428,569 bytes
+
+ Directory of F:\IL-062007\extras
+
+05/03/2007  05:52 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:52 AM    <DIR>          ubuntu-7.04
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\extras\ubuntu-7.04
+
+05/03/2007  05:52 AM    <DIR>          .
+05/03/2007  05:52 AM    <DIR>          ..
+05/03/2007  05:52 AM            62,661 Packages.gz
+05/03/2007  05:52 AM            55,440 acidrip_0.14-0.2ubuntu4_all.deb
+05/03/2007  05:52 AM        22,858,885 acroread_7.0.9-0.0.ubuntu0.7.04+medibuntu2_i386.deb
+05/03/2007  05:52 AM           104,068 alien_8.65_all.deb
+05/03/2007  05:52 AM            13,818 anyevent-perl_1.02-0.2_all.deb
+05/03/2007  05:52 AM         2,081,776 audacity_1.2.6-0ubuntu1_i386.deb
+05/03/2007  05:52 AM           226,532 automatix2_1.1-3.12-7.04feisty%5fi386_i386.deb
+05/03/2007  05:52 AM         3,348,590 avidemux_1%3a2.3.0-0.0ubuntu3_i386.deb
+05/03/2007  05:52 AM           895,202 beep-media-player_0.9.7.1+cvs20050803-2ubuntu1_i386.deb
+05/03/2007  05:52 AM         1,504,298 blt_2.4z-4_i386.deb
+05/03/2007  05:52 AM           113,694 checkinstall_1.6.1-1ubuntu1_i386.deb
+05/03/2007  05:52 AM           514,120 debhelper_5.0.42ubuntu1_all.deb
+05/03/2007  05:52 AM           459,780 devede_2.9-0ubuntu2_all.deb
+05/03/2007  05:52 AM           147,090 dpkg-dev_1.13.24ubuntu6_all.deb
+05/03/2007  05:52 AM           141,404 dvdauthor_0.6.11-5_i386.deb
+05/03/2007  05:52 AM         1,109,672 dvdrip_1%3a0.98.4-0ubuntu1_i386.deb
+05/03/2007  05:52 AM         1,042,910 fftw3_3.1.2-1build1_i386.deb
+05/03/2007  05:52 AM        28,964,714 freepats_20060219-1_all.deb
+05/03/2007  05:52 AM            77,386 fuse-utils_2.6.3-1ubuntu2_i386.deb
+05/03/2007  05:52 AM           166,872 gaim-guifications_2.13~beta6-0ubuntu1_i386.deb
+05/03/2007  05:52 AM           973,006 gaim-themes_0.1-1_all.deb
+05/03/2007  05:52 AM           479,278 gawk_1%3a3.1.5.dfsg-4build1_i386.deb
+05/03/2007  05:52 AM         1,332,882 gcfilms_6.1-2_all.deb
+05/03/2007  05:52 AM         1,550,568 gettext_0.16.1-1ubuntu2_i386.deb
+05/03/2007  05:52 AM           120,258 gnash_0.7.2-1build1_i386.deb
+05/03/2007  05:52 AM           147,114 gnochm_0.9.9-0ubuntu1_all.deb
+05/03/2007  05:52 AM           195,526 gnomeradio_1.6-0ubuntu3_i386.deb
+05/03/2007  05:52 AM           186,850 gphoto2_2.2.0-3_i386.deb
+05/03/2007  05:52 AM           463,380 grip_3.3.1-11_i386.deb
+05/03/2007  05:52 AM            10,564 gsfonts-x11_0.20build1_all.deb
+05/03/2007  05:52 AM         2,879,776 gstreamer0.10-ffmpeg_0.10.2-0ubuntu4_i386.deb
+05/03/2007  05:52 AM            80,644 gstreamer0.10-plugins-bad-multiverse_0.10.4-3_i386.deb
+05/03/2007  05:52 AM           515,844 gstreamer0.10-plugins-bad_0.10.4-1ubuntu1_i386.deb
+05/03/2007  05:52 AM            39,998 gstreamer0.10-plugins-ugly-multiverse_0.10.5-2_i386.deb
+05/03/2007  05:52 AM           207,216 gstreamer0.10-plugins-ugly_0.10.5-0ubuntu2_i386.deb
+05/03/2007  05:52 AM           212,104 gtk2-ex-formfactory-perl_0.65-0.0_all.deb
+05/03/2007  05:52 AM           540,698 gtkpod-aac_0.99.8-0ubuntu2_i386.deb
+05/03/2007  05:52 AM           662,150 guile-1.8-libs_1.8.1+1-4_i386.deb
+05/03/2007  05:52 AM             7,410 guile-1.8_1.8.1+1-4_i386.deb
+05/03/2007  05:52 AM           170,814 gv_1%3a3.6.2-3ubuntu1_i386.deb
+05/03/2007  05:52 AM           284,672 gxine_0.5.11-1ubuntu2_i386.deb
+05/03/2007  05:52 AM         4,061,916 helix-player_1.0.6-3_i386.deb
+05/03/2007  05:52 AM            95,516 html2text_1.3.2a-3_i386.deb
+05/03/2007  05:52 AM           738,862 imagemagick_7%3a6.2.4.5.dfsg1-0.14_i386.deb
+05/03/2007  05:52 AM            31,574 intltool-debian_0.35.0+20060710.1_all.deb
+05/03/2007  05:52 AM            47,278 istanbul_0.2.1-3build1_i386.deb
+05/03/2007  05:52 AM             2,302 j2re1.4-mozilla-plugin_1%3a0ubuntu6_i386.deb
+05/03/2007  05:52 AM        22,509,784 j2re1.4_1.4.2.02-1ubuntu3_i386.deb
+05/03/2007  05:52 AM            76,932 java-common_0.25ubuntu2_all.deb
+05/03/2007  05:52 AM         5,076,066 k3b_1.0-0ubuntu2+medibuntu1_i386.deb
+05/03/2007  05:52 AM           665,148 k9copy_1.1.0~beta2-0ubuntu1_i386.deb
+05/03/2007  05:52 AM           929,276 kaudiocreator_4%3a3.5.6-0ubuntu4_i386.deb
+05/03/2007  05:52 AM         1,281,356 kdebase-bin_4%3a3.5.6-0ubuntu20_i386.deb
+05/03/2007  05:52 AM         7,218,378 kdelibs-data_4%3a3.5.6-0ubuntu14_all.deb
+05/03/2007  05:52 AM         9,971,930 kdelibs4c2a_4%3a3.5.6-0ubuntu14_i386.deb
+05/03/2007  05:52 AM           188,968 kdemultimedia-kio-plugins_4%3a3.5.6-0ubuntu4_i386.deb
+05/03/2007  05:52 AM           293,524 kid3_0.8.1-1ubuntu1_i386.deb
+05/03/2007  05:52 AM         1,153,440 kino_0.92-1ubuntu3_i386.deb
+05/03/2007  05:52 AM           427,062 kscd_4%3a3.5.6-0ubuntu4_i386.deb
+05/03/2007  05:52 AM           584,444 lesstif2_1%3a0.94.4-2_i386.deb
+05/03/2007  05:52 AM            26,408 liba52-0.7.4_0.7.4-7_i386.deb
+05/03/2007  05:52 AM            52,450 libarchive-tar-perl_1.30-2_all.deb
+05/03/2007  05:52 AM            87,046 libarchive-zip-perl_1.16-1_all.deb
+05/03/2007  05:52 AM           994,840 libarts1c2a_1.5.6-0ubuntu1_i386.deb
+05/03/2007  05:52 AM            14,752 libartsc0_1.5.6-0ubuntu1_i386.deb
+05/03/2007  05:52 AM            29,510 libavahi-qt3-1_0.6.17-0ubuntu3_i386.deb
+05/03/2007  05:52 AM         2,015,582 libavcodec0d_3%3a0.cvs20060823-3.1ubuntu4+medibuntu2_i386.deb
+05/03/2007  05:52 AM           287,412 libavformat0d_3%3a0.cvs20060823-3.1ubuntu4+medibuntu2_i386.deb
+05/03/2007  05:52 AM           108,482 libbeecrypt6_4.1.2-6build1_i386.deb
+05/03/2007  05:52 AM            43,344 libcdaudio1_0.99.12p2-2_i386.deb
+05/03/2007  05:52 AM           109,248 libcdk5_5.0.20050424-2_i386.deb
+05/03/2007  05:52 AM            28,038 libchm1_2%3a0.39-2_i386.deb
+05/03/2007  05:52 AM            56,338 libcompress-zlib-perl_1.42-2build1_i386.deb
+05/03/2007  05:52 AM           163,352 libcurl3-gnutls_7.15.5-1ubuntu2_i386.deb
+05/03/2007  05:52 AM           181,092 libdbus-qt-1-1c2_0.62.git.20060814-2build1_i386.deb
+05/03/2007  05:52 AM            34,246 libdc1394-13_1.1.0-3ubuntu2_i386.deb
+05/03/2007  05:52 AM            31,098 libdvbpsi4_0.1.5-2_i386.deb
+05/03/2007  05:52 AM            35,972 libdvdcss2_1.2.9-2medibuntu2+build1_i386.deb
+05/03/2007  05:52 AM            92,088 libdvdnav4_0.1.10-0.1_i386.deb
+05/03/2007  05:52 AM            57,702 libdvdread3_0.9.7-2ubuntu1_i386.deb
+05/03/2007  05:52 AM             9,526 libevent-execflow-perl_0.62-0.1_all.deb
+05/03/2007  05:52 AM           259,576 libevent-perl_1.06-1_i386.deb
+05/03/2007  05:52 AM            67,434 libevent-rpc-perl_0.90-1_all.deb
+05/03/2007  05:52 AM            55,198 libfaac0_1.24clean-0ubuntu4_i386.deb
+05/03/2007  05:52 AM           198,332 libfaad2-0_2.0.0+cvs20040908+mp4v2+bmp-0ubuntu3_i386.deb
+05/03/2007  05:52 AM           103,096 libfame-0.9_0.9.1-0.2_i386.deb
+05/03/2007  05:52 AM            47,194 libflac++5c2_1.1.2-5ubuntu2_i386.deb
+05/03/2007  05:52 AM            14,744 libflash-mozplugin_0.4.13-9ubuntu1_i386.deb
+05/03/2007  05:52 AM            70,226 libflash0c2_0.4.13-9ubuntu1_i386.deb
+05/03/2007  05:52 AM           146,770 libfreebob0_1.0.0-3_i386.deb
+05/03/2007  05:52 AM            72,028 libfuse2_2.6.3-1ubuntu2_i386.deb
+05/03/2007  05:52 AM           480,714 libggi2_1%3a2.2.1-5ubuntu1_i386.deb
+05/03/2007  05:52 AM            15,856 libgii1-target-x_1%3a1.0.1-3_i386.deb
+05/03/2007  05:52 AM           234,832 libgii1_1%3a1.0.1-3_i386.deb
+05/03/2007  05:52 AM           122,726 libglib1.2_1.2.10-17build1_i386.deb
+05/03/2007  05:52 AM           435,550 libgmp3c2_2%3a4.2.1+dfsg-4build1_i386.deb
+05/03/2007  05:52 AM           924,594 libgnash0_0.7.2-1build1_i386.deb
+05/03/2007  05:52 AM            28,094 libgsm1_1.0.10-13_i386.deb
+05/03/2007  05:52 AM           158,120 libgtk1.2-common_1.2.10-18_all.deb
+05/03/2007  05:52 AM           836,974 libgtk1.2_1.2.10-18_i386.deb
+05/03/2007  05:52 AM           109,600 libgtkglext1_1.0.6-2.1ubuntu1_i386.deb
+05/03/2007  05:52 AM           180,342 libid3-3.8.3c2a_3.8.3-6build1_i386.deb
+05/03/2007  05:52 AM            34,882 libid3tag0_0.15.1b-8_i386.deb
+05/03/2007  05:52 AM         1,149,864 libintl-perl_1.16-1_all.deb
+05/03/2007  05:52 AM            13,306 libio-zlib-perl_1.04-1_all.deb
+05/03/2007  05:52 AM            96,756 libiso9660-4_0.76-1ubuntu2_i386.deb
+05/03/2007  05:52 AM            88,366 libjack0.100.0-0_0.102.20-1_i386.deb
+05/03/2007  05:52 AM         1,051,702 libk3b2_1.0-0ubuntu2+medibuntu1_i386.deb
+05/03/2007  05:52 AM           145,150 libkcddb1_4%3a3.5.6-0ubuntu4_i386.deb
+05/03/2007  05:52 AM           189,598 liblame0_3.96.1-2ubuntu1_i386.deb
+05/03/2007  05:52 AM           167,638 libltdl3_1.5.22-4_i386.deb
+05/03/2007  05:52 AM            48,928 liblua50_5.0.3-2build1_i386.deb
+05/03/2007  05:52 AM            35,346 liblualib50_5.0.3-2build1_i386.deb
+05/03/2007  05:52 AM            76,860 libmad0_0.15.1b-2.1_i386.deb
+05/03/2007  05:52 AM           145,310 libmikmod2_3.1.11-a-6ubuntu3_i386.deb
+05/03/2007  05:52 AM           217,786 libmjpegtools0c2a_1%3a1.8.0-0.2ubuntu3_i386.deb
+05/03/2007  05:52 AM            22,188 libmms0_0.3-2ubuntu1_i386.deb
+05/03/2007  05:52 AM           120,186 libmodplug0c2_1%3a0.7-5.2build1_i386.deb
+05/03/2007  05:52 AM           332,436 libmozjs0d_1.8.0.10-3ubuntu1_i386.deb
+05/03/2007  05:52 AM           213,574 libmp4v2-0_2.0.0+cvs20040908+mp4v2+bmp-0ubuntu3_i386.deb
+05/03/2007  05:52 AM            25,272 libmpcdec3_1.2.2-1_i386.deb
+05/03/2007  05:52 AM            64,142 libmpeg2-4_0.4.1-1_i386.deb
+05/03/2007  05:52 AM           139,628 libnspr4-0d_1.8.0.10-3ubuntu1_i386.deb
+05/03/2007  05:52 AM            89,958 libntfs-3g0_1%3a1.328-1_i386.deb
+05/03/2007  05:52 AM            57,798 libofa0_0.9.3-1_i386.deb
+05/03/2007  05:52 AM            35,256 liboggflac3_1.1.2-5ubuntu2_i386.deb
+05/03/2007  05:52 AM           125,926 libopenal0a_1%3a0.0.8-3_i386.deb
+05/03/2007  05:52 AM           303,788 libopenexr2c2a_1.2.2-4.3ubuntu1_i386.deb
+05/03/2007  05:52 AM           166,828 libpcre3_6.7-1ubuntu2_i386.deb
+05/03/2007  05:52 AM            41,590 libphysfs-1.0-0_1.0.0-5_i386.deb
+05/03/2007  05:52 AM            61,324 libportaudio2_19+svn20060825-1_i386.deb
+05/03/2007  05:52 AM            37,000 libpostproc0d_3%3a0.cvs20060823-3.1ubuntu4+medibuntu2_i386.deb
+05/03/2007  05:52 AM            99,920 libpulse0_0.9.5-5ubuntu4_i386.deb
+05/03/2007  05:52 AM            85,694 libpvm3_3.4.5-7_i386.deb
+05/03/2007  05:52 AM         3,299,254 libqt3-mt_3%3a3.3.8really3.3.7-0ubuntu5_i386.deb
+05/03/2007  05:52 AM           270,074 libquicktime0_2%3a0.9.7-1ubuntu2_i386.deb
+05/03/2007  05:52 AM           989,802 librpm4_4.4.1-14build1_i386.deb
+05/03/2007  05:52 AM           108,138 libsamplerate0_0.1.2-2_i386.deb
+05/03/2007  05:52 AM            29,194 libsdl-image1.2_1.2.5-2_i386.deb
+05/03/2007  05:52 AM            65,938 libsidplay1_1.36.59-4_i386.deb
+05/03/2007  05:52 AM            24,070 libsoundtouch1c2_1.3.0-2.1_i386.deb
+05/03/2007  05:52 AM           288,732 libswfdec0.3_0.3.6-2.1_i386.deb
+05/03/2007  05:52 AM           140,364 libt1-5_5.1.0-2_i386.deb
+05/03/2007  05:52 AM             8,474 libtagc0_1.4-4build1_i386.deb
+05/03/2007  05:52 AM            19,030 libtar_1.2.11-4_i386.deb
+05/03/2007  05:52 AM           345,358 libtunepimp5_0.5.2-1ubuntu3_i386.deb
+05/03/2007  05:52 AM           124,302 libvcdinfo0_0.7.23-3_i386.deb
+05/03/2007  05:52 AM           984,024 libvlc0_0.8.6.release-0ubuntu4_i386.deb
+05/03/2007  05:52 AM            75,280 libwavpack1_4.40.0-1_i386.deb
+05/03/2007  05:52 AM           566,572 libwxbase2.6-0_2.6.3.2.1.5ubuntu6_i386.deb
+05/03/2007  05:52 AM         1,575,480 libwxgtk2.4-1_2.4.5.1ubuntu2_i386.deb
+05/03/2007  05:52 AM         2,874,636 libwxgtk2.6-0_2.6.3.2.1.5ubuntu6_i386.deb
+05/03/2007  05:52 AM            39,410 libxine-extracodecs_1.1.4-2ubuntu3_all.deb
+05/03/2007  05:52 AM         1,571,098 libxine1-ffmpeg_1.1.4-2ubuntu3_i386.deb
+05/03/2007  05:52 AM         2,472,696 libxine1_1.1.4-2ubuntu3_i386.deb
+05/03/2007  05:52 AM            14,000 libxml-libxml-common-perl_0.13-5_i386.deb
+05/03/2007  05:52 AM           301,528 libxml-libxml-perl_1.59-2build1_i386.deb
+05/03/2007  05:52 AM            15,300 libxml-namespacesupport-perl_1.09-3_all.deb
+05/03/2007  05:52 AM            79,022 libxml-sax-perl_0.14-0.1_all.deb
+05/03/2007  05:52 AM            69,338 libxml-simple-perl_2.14-5_all.deb
+05/03/2007  05:52 AM            24,518 libxosd2_2.2.14-1.3_i386.deb
+05/03/2007  05:52 AM           176,966 libxvidcore4_2%3a1.1.2-0.1ubuntu1_i386.deb
+05/03/2007  05:52 AM            12,124 libxvmc1_2%3a1.0.2-0ubuntu2_i386.deb
+05/03/2007  05:52 AM         3,649,044 lilypond-data_2.10.5-0ubuntu1_all.deb
+05/03/2007  05:52 AM         1,327,424 lilypond_2.10.5-0ubuntu1_i386.deb
+05/03/2007  05:52 AM            13,946 lsdvd_0.16-3_i386.deb
+05/03/2007  05:52 AM         2,107,366 mc_1%3a4.6.1-7ubuntu1_i386.deb
+05/03/2007  05:52 AM         3,557,350 mencoder_2%3a1.0~rc1-0ubuntu9_i386.deb
+05/03/2007  05:52 AM           488,776 mozilla-mplayer_3.31+main-1ubuntu1_i386.deb
+05/03/2007  05:52 AM        10,891,018 mozilla-thunderbird_1.5.0.10-0ubuntu3_i386.deb
+05/03/2007  05:52 AM            70,186 mplayer-skins_2-6_all.deb
+05/03/2007  05:52 AM         4,062,192 mplayer_2%3a1.0~rc1-0ubuntu9_i386.deb
+05/03/2007  05:52 AM            25,916 ntfs-3g_1%3a1.328-1_i386.deb
+05/03/2007  05:52 AM         4,832,942 nvidia-glx-new_1.0.9755+2.6.20.5-15.20_i386.deb
+05/03/2007  05:52 AM            76,402 ogle-gui_0.9.2-4_i386.deb
+05/03/2007  05:52 AM           246,578 ogle_0.9.2-5_i386.deb
+05/03/2007  05:52 AM           169,370 ogmtools_1%3a1.5-2.1_i386.deb
+05/03/2007  05:52 AM         1,393,474 p7zip-full_4.43~dfsg.1-1_i386.deb
+05/03/2007  05:52 AM           111,040 po-debconf_1.0.8_all.deb
+05/03/2007  05:52 AM            34,488 python-chm_0.8.4-0.1_i386.deb
+05/03/2007  05:52 AM            43,102 python-editobj_0.5.7-6_all.deb
+05/03/2007  05:52 AM            43,102 python-tk_2.5-0ubuntu1_i386.deb
+05/03/2007  05:52 AM           560,280 python2.4-minimal_2.4.4-2ubuntu7_i386.deb
+05/03/2007  05:52 AM           374,808 python2.4_2.4.4-2ubuntu7_i386.deb
+05/03/2007  05:52 AM           120,714 ripperx_2.7.0-3ubuntu1_i386.deb
+05/03/2007  05:52 AM           602,856 rpm_4.4.1-14build1_i386.deb
+05/03/2007  05:52 AM         3,338,294 samba_3.0.24-2ubuntu1_i386.deb
+05/03/2007  05:52 AM           426,244 smbfs_3.0.24-2ubuntu1_i386.deb
+05/03/2007  05:52 AM           535,880 songwrite_0.14-2_all.deb
+05/03/2007  05:52 AM            69,572 soundconverter_0.9.4-0ubuntu1_all.deb
+05/03/2007  05:52 AM           626,252 streamtuner_0.99.99-9ubuntu2_i386.deb
+05/03/2007  05:52 AM        36,976,432 supertux-data_0.3.0-0ubuntu2_all.deb
+05/03/2007  05:52 AM           647,746 supertux_0.3.0-0ubuntu2_i386.deb
+05/03/2007  05:52 AM         1,163,358 tcl8.4_8.4.14-0ubuntu1_i386.deb
+05/03/2007  05:52 AM        22,418,338 tetex-base_3.0.dfsg.3-4_all.deb
+05/03/2007  05:52 AM         3,479,088 tetex-bin_3.0-27ubuntu1_i386.deb
+05/03/2007  05:52 AM           706,562 tex-common_0.42_all.deb
+05/03/2007  05:52 AM           299,318 texinfo_4.8.dfsg.1-4build1_i386.deb
+05/03/2007  05:52 AM           554,912 timidity_2.13.2-11ubuntu1_i386.deb
+05/03/2007  05:52 AM           995,726 tk8.4_8.4.14-0ubuntu2_i386.deb
+05/03/2007  05:52 AM         2,436,342 transcode_2%3a1.0.2-0.8ubuntu3_i386.deb
+05/03/2007  05:52 AM           694,636 tvtime_1.0.2-0.2ubuntu1_i386.deb
+05/03/2007  05:52 AM            15,580 unace_1.2b-4_i386.deb
+05/03/2007  05:52 AM            96,274 unrar_1%3a3.7.3-1_i386.deb
+05/03/2007  05:52 AM            42,534 vamps_0.99.2-1_i386.deb
+05/03/2007  05:52 AM           526,496 vcdimager_0.7.23-3_i386.deb
+05/03/2007  05:52 AM         4,680,798 vlc-nox_0.8.6.release-0ubuntu4_i386.deb
+05/03/2007  05:52 AM         1,158,234 vlc_0.8.6.release-0ubuntu4_i386.deb
+05/03/2007  05:52 AM           100,786 vorbis-tools_1.1.1-6build1_i386.deb
+05/03/2007  05:52 AM        14,254,076 w32codecs_20061022-0medibuntu1+build1_i386.deb
+05/03/2007  05:52 AM           156,832 xaw3dg_1.5+E-14ubuntu2_i386.deb
+05/03/2007  05:52 AM           285,526 xchat-gnome-common_1%3a0.16-0ubuntu3_all.deb
+05/03/2007  05:52 AM           312,898 xchat-gnome_1%3a0.16-0ubuntu3_i386.deb
+05/03/2007  05:52 AM           813,486 xmms_1%3a1.2.10+20061201-1ubuntu3_i386.deb
+05/03/2007  05:52 AM            61,372 xpdf-common_3.01-9ubuntu3_all.deb
+05/03/2007  05:52 AM           764,946 xpdf-reader_3.01-9ubuntu3_i386.deb
+05/03/2007  05:52 AM         1,392,954 xpdf-utils_3.01-9ubuntu3_i386.deb
+05/03/2007  05:52 AM             1,320 xpdf_3.01-9ubuntu3_all.deb
+             218 File(s)    296,207,854 bytes
+
+ Directory of F:\IL-062007\komunikasi
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:50 AM    <DIR>          skype-1.3.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\komunikasi\skype-1.3.0
+
+05/03/2007  05:50 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM         9,986,656 skype-1.3.0.53-1mdk.i586.rpm
+05/03/2007  05:34 AM         9,946,297 skype-1.3.0.53-fc5.i586.rpm
+05/03/2007  05:34 AM         9,871,707 skype-1.3.0.53-generic.tar.bz2
+05/03/2007  05:34 AM         9,992,712 skype-1.3.0.53-suse.i586.rpm
+05/03/2007  05:34 AM        10,056,572 skype_debian-1.3.0.53-1_i386.deb
+05/03/2007  05:34 AM        15,102,554 skype_staticQT-1.3.0.53-generic.tar.bz2
+               6 File(s)     64,956,498 bytes
+
+ Directory of F:\IL-062007\matematika
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          scilab-4.1
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\matematika\scilab-4.1
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        16,221,278 scilab-4.1.bin.linux-i686.tar.gz
+               1 File(s)     16,221,278 bytes
+
+ Directory of F:\IL-062007\office
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          openoffice-2.2.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\office\openoffice-2.2.0
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM       149,761,392 OOo_2.2.0_LinuxIntel_install_wJRE_en-US.tar.gz
+               1 File(s)    149,761,392 bytes
+
+ Directory of F:\IL-062007\penting
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          kernel
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\penting\kernel
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          v2.4
+05/03/2007  05:34 AM    <DIR>          v2.6
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\penting\kernel\v2.4
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        30,961,960 linux-2.4.34.4.tar.bz2
+               1 File(s)     30,961,960 bytes
+
+ Directory of F:\IL-062007\penting\kernel\v2.6
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM        43,997,476 linux-2.6.21.tar.bz2
+               1 File(s)     43,997,476 bytes
+
+ Directory of F:\IL-062007\plugins
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          flash-plugin-9.0
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\plugins\flash-plugin-9.0
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM         2,606,072 flash-plugin-9.0.31.0-release.i386.rpm
+05/03/2007  05:34 AM         2,609,703 install_flash_player_9_linux.tar.gz
+               2 File(s)      5,215,775 bytes
+
+ Directory of F:\IL-062007\sistem-file
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          fuse-2.6.3
+05/03/2007  05:34 AM    <DIR>          ntfs-3g-1.417
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\sistem-file\fuse-2.6.3
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           473,147 fuse-2.6.3.tar.gz
+               1 File(s)        473,147 bytes
+
+ Directory of F:\IL-062007\sistem-file\ntfs-3g-1.417
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           562,094 ntfs-3g-1.417.tgz
+               1 File(s)        562,094 bytes
+
+ Directory of F:\IL-062007\tools
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:51 AM    <DIR>          ..
+05/03/2007  05:34 AM    <DIR>          ndiswrapper-1.42rc2
+               0 File(s)              0 bytes
+
+ Directory of F:\IL-062007\tools\ndiswrapper-1.42rc2
+
+05/03/2007  05:34 AM    <DIR>          .
+05/03/2007  05:34 AM    <DIR>          ..
+05/03/2007  05:34 AM           192,349 ndiswrapper-1.42rc2.tar.gz
+               1 File(s)        192,349 bytes
+
+ Directory of F:\KNOPPIX
+
+05/03/2007  05:32 AM    <DIR>          .
+05/03/2007  07:13 AM    <DIR>          ..
+05/03/2007  05:32 AM        49,795,234 KNOPPIX
+               1 File(s)     49,795,234 bytes
+
+ Directory of F:\boot
+
+05/03/2007  05:32 AM    <DIR>          .
+05/03/2007  07:13 AM    <DIR>          ..
+05/03/2007  05:32 AM    <DIR>          isolinux
+               0 File(s)              0 bytes
+
+ Directory of F:\boot\isolinux
+
+05/03/2007  05:32 AM    <DIR>          .
+05/03/2007  05:32 AM    <DIR>          ..
+05/03/2007  07:14 AM             2,048 boot.cat
+05/03/2007  05:32 AM               123 boot.msg
+05/03/2007  05:32 AM             1,592 f2
+05/03/2007  05:32 AM             1,595 f3
+05/03/2007  05:32 AM               256 german.kbd
+05/03/2007  07:04 AM             9,404 isolinux.bin
+05/03/2007  05:32 AM             2,483 isolinux.cfg
+05/03/2007  05:32 AM           994,807 linux24
+05/03/2007  05:32 AM            33,780 logo.16
+05/03/2007  05:32 AM           812,257 minirt24.gz
+              10 File(s)      1,858,345 bytes
+
+     Total Files Listed:
+             428 File(s)  4,177,373,527 bytes
+             195 Dir(s)               0 bytes free

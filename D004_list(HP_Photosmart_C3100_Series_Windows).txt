@@ -1,0 +1,2775 @@
+ Volume in drive G is CDA_Default-Expr
+ Volume Serial Number is E11D-AFC0
+
+ Directory of G:\
+
+01/04/2006  03:12 PM            77,824 HPZIDS01.dll
+02/04/2006  03:42 PM           233,472 HPZidi01.dll
+02/04/2006  03:43 PM               990 HPZprl01.dat
+02/04/2006  03:43 PM           417,792 Setup.exe
+03/10/2006  12:55 AM    <DIR>          arb
+03/10/2006  12:29 AM           332,285 autorun.inf
+03/10/2006  12:56 AM    <DIR>          chs
+03/10/2006  12:56 AM    <DIR>          cht
+03/10/2006  12:55 AM    <DIR>          common
+02/25/2006  12:08 PM            32,800 config.xml
+02/04/2006  03:43 PM            17,248 crcfiles.txt
+02/04/2006  03:44 PM             6,360 crcvalues.txt
+03/10/2006  12:56 AM    <DIR>          csy
+03/10/2006  12:56 AM    <DIR>          dan
+03/10/2006  12:56 AM    <DIR>          deu
+03/10/2006  12:55 AM    <DIR>          drivers
+12/04/2003  05:53 AM                65 dxprl.dat
+03/10/2006  12:56 AM    <DIR>          enu
+03/10/2006  12:56 AM    <DIR>          esm
+03/10/2006  12:56 AM    <DIR>          fin
+03/10/2006  12:56 AM    <DIR>          fra
+10/29/2005  01:04 PM         1,645,320 gdiplus.dll
+03/10/2006  12:56 AM    <DIR>          grk
+03/10/2006  12:56 AM    <DIR>          hbr
+03/01/2006  01:59 AM         9,565,355 hpaioa.cab
+03/06/2006  07:20 PM           159,440 hpaioa.cat
+02/16/2006  03:17 AM            51,212 hpaioa.inf
+10/11/2005  01:22 PM            45,413 hpoapd01.dat
+02/01/2006  07:55 AM             3,524 hpoglu09.inf
+02/01/2006  07:55 AM             2,373 hpohub09.inf
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+02/16/2006  08:52 AM             1,528 hpoprl01.dat
+02/16/2006  03:17 AM             3,832 hpoprl02.dat
+02/01/2006  07:55 AM             1,098 hpoprl03.dat
+03/02/2006  03:02 PM            42,621 hpoprl04.dat
+02/01/2006  07:55 AM               855 hpoprl05.dat
+02/01/2006  07:55 AM               366 hpoprl06.dat
+03/10/2006  12:29 AM               853 hpoprl07.dat
+03/10/2006  12:29 AM             1,340 hpoprl08.dat
+03/10/2006  12:29 AM               275 hpoprl09.dat
+03/10/2006  12:29 AM             2,344 hpoprl10.dat
+03/06/2006  07:20 PM            86,135 hposcu09.cat
+02/02/2006  07:04 AM            79,516 hposcu09.inf
+03/09/2006  08:05 PM             8,829 hpose050.dat
+03/09/2006  08:05 PM             8,864 hpose060.dat
+03/09/2006  08:05 PM             8,829 hposf050.dat
+03/09/2006  08:05 PM             9,495 hposf060.dat
+02/01/2006  07:55 AM             3,882 hpound09.inf
+03/06/2006  07:20 PM            83,930 hpounp09.cat
+02/01/2006  07:47 AM             3,792 hpounp09.inf
+02/01/2006  07:55 AM             2,942 hpousb09.inf
+02/16/2006  03:06 AM            32,372 hpousc09.inf
+02/19/2006  11:31 PM           288,281 hpqbid01.dat
+02/19/2006  11:31 PM           288,405 hpqbid04.dat
+02/19/2006  11:31 PM           288,281 hpqbid05.dat
+02/19/2006  11:31 PM           288,335 hpqbid06.dat
+02/19/2006  11:31 PM           288,305 hpqbid07.dat
+02/19/2006  11:31 PM           288,290 hpqbid08.dat
+02/19/2006  11:31 PM           288,388 hpqbid09.dat
+02/19/2006  11:31 PM           288,310 hpqbid10.dat
+02/19/2006  11:31 PM           288,262 hpqbid11.dat
+02/19/2006  11:31 PM               801 hpqbpl01.dat
+02/19/2006  11:31 PM               771 hpqbpl04.dat
+02/19/2006  11:31 PM               717 hpqbpl05.dat
+02/19/2006  11:31 PM               788 hpqbpl06.dat
+02/19/2006  11:31 PM               744 hpqbpl08.dat
+02/19/2006  11:31 PM               731 hpqbpl09.dat
+02/19/2006  11:31 PM               670 hpqbpl11.dat
+02/01/2006  07:55 AM             7,107 hpqish09.inf
+10/07/2005  02:26 AM               969 hpqphbck.dat
+02/01/2006  07:48 AM           282,624 hpzc3212.dll
+02/16/2006  03:18 AM           278,528 hpzglu14.exe
+03/06/2006  07:20 PM            84,812 hpzid412.cat
+02/01/2006  07:54 AM            54,641 hpzid412.inf
+03/06/2006  07:20 PM            84,812 hpzid413.cat
+02/01/2006  07:54 AM            64,564 hpzid413.inf
+03/06/2006  07:20 PM            84,812 hpzid414.cat
+02/16/2006  03:24 AM            26,264 hpzid414.inf
+02/01/2006  07:48 AM            86,168 hpzipa12.cat
+02/01/2006  07:54 AM            26,907 hpzipa12.inf
+02/01/2006  07:48 AM            86,168 hpzipa13.cat
+02/01/2006  07:48 AM            99,980 hpzipa13.inf
+03/06/2006  07:20 PM            84,812 hpzipr12.cat
+02/01/2006  07:54 AM            12,850 hpzipr12.inf
+03/06/2006  07:20 PM            84,812 hpzipr13.cat
+02/16/2006  03:24 AM            20,031 hpzipr13.inf
+03/06/2006  07:20 PM            84,804 hpzist12.cat
+02/01/2006  07:54 AM             5,583 hpzist12.inf
+03/06/2006  07:20 PM            84,804 hpzist13.cat
+02/16/2006  03:24 AM             8,042 hpzist13.inf
+02/01/2006  07:48 AM            79,734 hpzius12.cat
+02/16/2006  03:24 AM            18,168 hpzius12.inf
+03/06/2006  07:20 PM            85,253 hpzius13.cat
+02/16/2006  03:24 AM           127,774 hpzius13.inf
+02/01/2006  07:40 AM            28,722 hpzjlog.dll
+02/01/2006  07:40 AM           442,425 hpzjpp01.dll
+02/01/2006  07:41 AM           290,873 hpzjut01.dll
+02/01/2006  07:41 AM            49,212 hpzjvp01.dll
+02/01/2006  07:48 AM            85,727 hpzpd412.cat
+02/01/2006  07:54 AM             4,768 hpzpd412.inf
+02/16/2006  03:18 AM           208,896 hpzpnp14.dll
+08/23/2005  06:56 AM             1,102 hpzprl02.dat
+11/24/2005  02:58 PM             2,127 hpzprl03.dat
+02/16/2006  03:18 AM           204,800 hpzscr14.dll
+02/04/2006  03:44 PM           749,568 hpzsetup.exe
+02/01/2006  07:48 AM            18,560 hpzuci12.dll
+03/10/2006  12:56 AM    <DIR>          hun
+03/10/2006  12:55 AM    <DIR>          images
+03/10/2006  12:56 AM    <DIR>          ita
+03/10/2006  12:56 AM    <DIR>          jpn
+03/10/2006  12:56 AM    <DIR>          kor
+03/10/2006  12:55 AM    <DIR>          langfls
+03/13/2004  01:50 AM             1,479 license.txt
+03/10/2006  12:56 AM    <DIR>          met
+02/01/2006  07:41 AM            70,656 msvcirt.dll
+02/01/2006  07:41 AM           254,005 msvcrt.dll
+03/10/2006  12:56 AM    <DIR>          nld
+03/10/2006  12:56 AM    <DIR>          non
+02/16/2006  02:13 AM           303,149 p3i2arww.cab
+02/16/2006  03:17 AM           303,027 p3i2caww.cab
+02/16/2006  03:17 AM           304,359 p3i2csww.cab
+02/16/2006  03:17 AM           303,133 p3i2daww.cab
+02/16/2006  03:17 AM           305,075 p3i2deww.cab
+02/16/2006  03:17 AM           303,765 p3i2elww.cab
+02/16/2006  03:17 AM           303,681 p3i2enww.cab
+02/16/2006  03:17 AM           303,027 p3i2esww.cab
+02/16/2006  03:17 AM           303,191 p3i2fiww.cab
+02/16/2006  03:17 AM           304,181 p3i2frww.cab
+02/16/2006  03:17 AM           303,089 p3i2heww.cab
+02/16/2006  03:17 AM           303,901 p3i2huww.cab
+02/16/2006  03:17 AM           303,411 p3i2itww.cab
+02/16/2006  03:17 AM           303,395 p3i2jaww.cab
+02/16/2006  03:17 AM           302,981 p3i2koww.cab
+02/16/2006  03:17 AM           303,241 p3i2nlww.cab
+02/16/2006  03:17 AM           303,225 p3i2noww.cab
+02/16/2006  03:17 AM           304,137 p3i2plww.cab
+02/16/2006  03:17 AM           304,277 p3i2ptww.cab
+02/16/2006  03:17 AM           303,659 p3i2ruww.cab
+02/16/2006  03:17 AM           303,681 p3i2skww.cab
+02/16/2006  03:17 AM           303,031 p3i2svww.cab
+02/16/2006  03:17 AM           303,681 p3i2thww.cab
+02/16/2006  03:17 AM           303,449 p3i2trww.cab
+02/16/2006  03:17 AM           302,739 p3i2zhcn.cab
+02/16/2006  03:17 AM           301,219 p3i2zhtw.cab
+03/10/2006  12:56 AM    <DIR>          plk
+03/10/2006  12:56 AM    <DIR>          ptb
+03/10/2006  12:55 AM    <DIR>          resting
+03/10/2006  12:56 AM    <DIR>          rus
+03/10/2006  12:56 AM    <DIR>          setup
+03/10/2006  12:56 AM    <DIR>          slk
+03/10/2006  12:56 AM    <DIR>          svc
+03/10/2006  12:56 AM    <DIR>          tha
+02/01/2006  07:41 AM           458,752 tls704d.dll
+03/10/2006  12:56 AM    <DIR>          tur
+08/23/2005  06:58 AM           245,408 unicows.dll
+06/21/2003  04:23 AM            26,768 usbhub.sys
+02/01/2006  07:41 AM            12,288 usbmon.dll
+02/01/2006  07:41 AM            22,608 usbprint.sys
+03/10/2006  12:56 AM    <DIR>          util
+08/23/2005  06:58 AM            65,536 xmlparse.dll
+08/23/2005  06:58 AM            66,048 xmltok.dll
+             128 File(s)     28,751,950 bytes
+
+ Directory of G:\arb
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\arb\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\arb\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:41 AM            90,138 hpfmom14.hl_
+02/01/2006  07:41 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,037,279 hpzr3214.dl_
+02/16/2006  03:18 AM           715,609 hpzrm314.dl_
+               4 File(s)      1,883,986 bytes
+
+ Directory of G:\arb\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           710,388 hpzrm114.dl_
+02/01/2006  07:41 AM            12,288 usbmon.dll
+02/01/2006  07:41 AM            22,608 usbprint.sys
+               4 File(s)        761,440 bytes
+
+ Directory of G:\chs
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\chs\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\chs\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:42 AM            67,820 hpfmom14.hl_
+02/01/2006  07:41 AM           179,557 hpo2570.dat
+02/01/2006  07:41 AM           148,492 hpo3100.dat
+02/01/2006  07:41 AM           148,492 hpo3200.dat
+02/01/2006  07:41 AM           148,492 hpo3300.dat
+02/01/2006  07:41 AM           181,159 hpo4300.dat
+02/01/2006  07:41 AM           180,990 hpo6300.dat
+02/01/2006  07:41 AM           156,237 hpoc3100.dat
+02/01/2006  07:41 AM           156,237 hpoc4100.dat
+02/01/2006  07:41 AM           181,151 hpof300.dat
+02/01/2006  07:41 AM           179,848 hpof3100.dat
+03/01/2006  02:49 AM           147,555 hpof3114.dat
+03/01/2006  02:49 AM           147,731 hpof3314.dat
+02/01/2006  07:41 AM           179,872 hpof4100.dat
+03/01/2006  02:49 AM           181,577 hpof4314.dat
+03/01/2006  02:49 AM           179,415 hpof6314.dat
+02/01/2006  07:41 AM            40,960 hpofax08.dll
+03/01/2006  02:49 AM           181,563 hpoff314.dat
+02/16/2006  03:18 AM         1,028,475 hpzr3214.dl_
+02/16/2006  03:18 AM           711,306 hpzrm314.dl_
+              20 File(s)      4,526,929 bytes
+
+ Directory of G:\chs\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            15,904 hpoupdxn.inf
+02/16/2006  03:18 AM           708,493 hpzrm114.dl_
+02/01/2006  07:42 AM            12,288 usbmon.dll
+02/01/2006  07:42 AM            22,608 usbprint.sys
+               4 File(s)        759,293 bytes
+
+ Directory of G:\cht
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\cht\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\cht\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:42 AM            67,317 hpfmom14.hl_
+02/01/2006  07:42 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,028,695 hpzr3214.dl_
+02/16/2006  03:18 AM           711,272 hpzrm314.dl_
+               4 File(s)      1,848,244 bytes
+
+ Directory of G:\cht\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           708,426 hpzrm114.dl_
+02/01/2006  07:42 AM            12,288 usbmon.dll
+02/01/2006  07:42 AM            22,608 usbprint.sys
+               4 File(s)        759,478 bytes
+
+ Directory of G:\common
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\common\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_os
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\common\drivers\com_os
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:42 AM            73,728 HPBOID.EXE
+02/01/2006  07:42 AM            77,824 HPBPRO.EXE
+02/01/2006  07:42 AM           163,840 HPJCMN2U.DLL
+02/01/2006  07:42 AM            94,208 HPJIPX1U.DLL
+02/01/2006  07:42 AM            81,920 hpbmiapi.dll
+02/01/2006  07:42 AM            57,344 hpboidps.dll
+02/01/2006  07:42 AM            57,344 hpbprops.dll
+02/01/2006  07:42 AM            49,152 hpoism01.dll
+02/01/2006  07:42 AM            36,864 hppapml0.dll
+03/09/2006  08:04 PM           262,144 hpqip09.dll
+02/01/2006  07:42 AM            28,672 hpqish09.dll
+02/16/2006  03:18 AM           178,740 hpzcfg14.ex_
+02/16/2006  03:18 AM           210,087 hpzcon14.dl_
+02/16/2006  03:18 AM           132,557 hpzdiu14.dl_
+02/16/2006  03:18 AM           505,528 hpzeng14.ex_
+02/16/2006  03:18 AM            36,744 hpzflt14.dl_
+02/16/2006  03:18 AM           508,467 hpzimb14.dl_
+02/16/2006  03:18 AM         6,303,871 hpzimc14.dl_
+02/16/2006  03:18 AM           243,496 hpzime14.dl_
+02/16/2006  03:18 AM           940,488 hpzimp14.dl_
+02/16/2006  03:18 AM         2,101,658 hpzims14.dl_
+02/16/2006  03:18 AM           728,306 hpzimv14.dl_
+02/16/2006  03:18 AM           537,291 hpzimy14.dl_
+02/16/2006  03:18 AM           136,171 hpzjui14.dl_
+02/16/2006  03:18 AM            73,279 hpzpcl14.dl_
+02/16/2006  03:18 AM           203,625 hpzpre14.ex_
+02/16/2006  03:18 AM           262,330 hpzres14.dl_
+02/16/2006  03:18 AM           239,579 hpzslk14.dl_
+02/16/2006  03:18 AM           100,470 hpzvip14.dl_
+              29 File(s)     14,425,727 bytes
+
+ Directory of G:\common\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/16/2006  03:18 AM            87,137 HPZ9XD14.dr_
+02/01/2006  07:42 AM            73,785 atl.dll
+02/16/2006  03:18 AM           126,856 hpzfac14.dl_
+02/16/2006  03:18 AM            55,810 hpzl9x14.dl_
+02/16/2006  03:18 AM           163,608 hpzpm114.dl_
+02/16/2006  03:18 AM            53,265 hpzs9x14.dl_
+02/01/2006  07:42 AM            92,522 hpzsta9x.ex_
+02/01/2006  07:42 AM            56,195 hpzstsin.dl_
+               8 File(s)        709,178 bytes
+
+ Directory of G:\csy
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\csy\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\csy\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:43 AM            91,713 hpfmom14.hl_
+02/01/2006  07:43 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,041,155 hpzr3214.dl_
+02/16/2006  03:18 AM           717,390 hpzrm314.dl_
+               4 File(s)      1,891,218 bytes
+
+ Directory of G:\csy\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           711,692 hpzrm114.dl_
+02/01/2006  07:43 AM            12,288 usbmon.dll
+02/01/2006  07:43 AM            22,608 usbprint.sys
+               4 File(s)        762,744 bytes
+
+ Directory of G:\dan
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\dan\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\dan\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:43 AM            89,960 hpfmom14.hl_
+02/01/2006  07:43 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,038,305 hpzr3214.dl_
+02/16/2006  03:18 AM           715,416 hpzrm314.dl_
+               4 File(s)      1,884,641 bytes
+
+ Directory of G:\dan\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           710,441 hpzrm114.dl_
+02/01/2006  07:43 AM            12,288 usbmon.dll
+02/01/2006  07:43 AM            22,608 usbprint.sys
+               4 File(s)        761,493 bytes
+
+ Directory of G:\deu
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\deu\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\deu\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:43 AM            99,877 hpfmom14.hl_
+02/01/2006  07:43 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,043,082 hpzr3214.dl_
+02/16/2006  03:18 AM           716,535 hpzrm314.dl_
+               4 File(s)      1,900,454 bytes
+
+ Directory of G:\deu\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:49 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           711,080 hpzrm114.dl_
+02/01/2006  07:43 AM            12,288 usbmon.dll
+02/01/2006  07:43 AM            22,608 usbprint.sys
+               4 File(s)        762,132 bytes
+
+ Directory of G:\drivers
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          dot4
+03/10/2006  12:55 AM    <DIR>          fax
+03/10/2006  12:55 AM    <DIR>          scanner
+03/10/2006  12:55 AM    <DIR>          uninst
+               0 File(s)              0 bytes
+
+ Directory of G:\drivers\dot4
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          win2000
+03/10/2006  12:55 AM    <DIR>          win98
+03/10/2006  12:55 AM    <DIR>          winxp
+03/10/2006  12:54 AM    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of G:\drivers\dot4\win2000
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/01/2006  07:48 AM           282,624 hpzc3212.dll
+02/01/2006  07:48 AM            49,664 hpzid412.sys
+02/01/2006  07:48 AM            16,496 hpzipr12.sys
+02/01/2006  07:48 AM             9,680 hpzisc12.sys
+02/01/2006  07:48 AM            21,568 hpzius12.sys
+02/01/2006  07:48 AM            50,424 hpzs2k12.sys
+               6 File(s)        430,456 bytes
+
+ Directory of G:\drivers\dot4\win98
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/01/2006  07:49 AM            38,260 hphpar98.vxd
+02/01/2006  07:49 AM            18,293 hpzbrx12.pdr
+02/01/2006  07:49 AM           282,624 hpzc3212.dll
+02/01/2006  07:49 AM            70,148 hpzid412.sys
+02/01/2006  07:49 AM            45,056 hpzimn12.dll
+02/01/2006  07:49 AM            26,262 hpzipa12.sys
+02/01/2006  07:49 AM            16,496 hpzipr12.sys
+02/01/2006  07:48 AM             9,680 hpzisc12.sys
+02/01/2006  07:48 AM            21,722 hpzius12.sys
+02/01/2006  07:49 AM            43,704 hpzs9x12.sys
+02/01/2006  07:49 AM            18,560 hpzuci12.dll
+02/01/2006  07:49 AM             7,751 usbmon.dl_
+              12 File(s)        598,556 bytes
+
+ Directory of G:\drivers\dot4\winxp
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/01/2006  07:48 AM            16,800 hppaufd0.sys
+               1 File(s)         16,800 bytes
+
+ Directory of G:\drivers\dot4\wrapper
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/01/2006  07:48 AM           296,674 _inst32i.ex_
+02/01/2006  07:48 AM            27,648 _isdel.exe
+02/01/2006  07:48 AM            34,816 _setup.dll
+02/01/2006  07:48 AM           175,466 _sys1.cab
+02/01/2006  07:48 AM             3,905 _sys1.hdr
+02/01/2006  07:48 AM               931 _user1.cab
+02/01/2006  07:48 AM             4,281 _user1.hdr
+02/01/2006  07:54 AM               113 data.tag
+02/01/2006  07:48 AM         2,067,210 data1.cab
+02/01/2006  07:48 AM             6,739 data1.hdr
+02/01/2006  07:54 AM            23,541 lang.dat
+02/01/2006  07:48 AM               590 layout.bin
+02/01/2006  07:54 AM               450 os.dat
+02/01/2006  07:48 AM            73,728 setup.exe
+02/01/2006  07:54 AM               100 setup.ini
+02/01/2006  07:48 AM            59,347 setup.ins
+02/01/2006  07:54 AM                49 setup.lid
+02/01/2006  07:48 AM            16,384 wrapper.exe
+              18 File(s)      2,791,972 bytes
+
+ Directory of G:\drivers\fax
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/01/2006  07:54 AM            17,442 hpafax.gpd
+02/01/2006  07:54 AM               164 hpafax.ini
+02/01/2006  07:49 AM            49,424 hpafax.xml
+02/01/2006  07:49 AM           320,927 hpaiofax.dll
+02/01/2006  07:49 AM         1,662,976 hpzuifax.dll
+               5 File(s)      2,050,933 bytes
+
+ Directory of G:\drivers\scanner
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          x32
+               0 File(s)              0 bytes
+
+ Directory of G:\drivers\scanner\x32
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/16/2006  03:06 AM           827,392 hpotiop2.dll
+02/16/2006  03:06 AM           229,376 hpotpusd.dll
+02/16/2006  03:06 AM           598,016 hpotscl2.dll
+02/16/2006  03:06 AM           254,026 hpovst09.dll
+02/01/2006  07:49 AM           720,896 hpowiax1.dll
+02/16/2006  03:06 AM           659,456 hpowiax2.dll
+02/01/2006  07:49 AM             8,944 usbscan.sy_
+               7 File(s)      3,298,106 bytes
+
+ Directory of G:\drivers\uninst
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          enu
+03/10/2006  12:53 AM    <DIR>          esn
+03/10/2006  12:55 AM    <DIR>          fra
+03/10/2006  12:55 AM    <DIR>          ptb
+               0 File(s)              0 bytes
+
+ Directory of G:\drivers\uninst\enu
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+               1 File(s)         11,645 bytes
+
+ Directory of G:\drivers\uninst\esn
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+               1 File(s)         11,645 bytes
+
+ Directory of G:\drivers\uninst\fra
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+               1 File(s)         11,645 bytes
+
+ Directory of G:\drivers\uninst\ptb
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+               1 File(s)         11,645 bytes
+
+ Directory of G:\enu
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\enu\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\enu\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:43 AM            84,931 hpfmom14.hl_
+02/01/2006  07:43 AM           179,518 hpo2570.dat
+02/01/2006  07:43 AM           148,457 hpo3100.dat
+02/01/2006  07:43 AM           148,457 hpo3200.dat
+02/01/2006  07:43 AM           148,457 hpo3300.dat
+02/01/2006  07:43 AM           181,126 hpo4300.dat
+02/01/2006  07:43 AM           180,951 hpo6300.dat
+02/01/2006  07:43 AM           156,237 hpoc3100.dat
+02/01/2006  07:43 AM           156,237 hpoc4100.dat
+02/01/2006  07:43 AM           181,118 hpof300.dat
+02/01/2006  07:43 AM           179,848 hpof3100.dat
+03/01/2006  02:50 AM           147,555 hpof3114.dat
+03/01/2006  02:50 AM           147,731 hpof3314.dat
+02/01/2006  07:43 AM           179,872 hpof4100.dat
+03/01/2006  02:50 AM           181,577 hpof4314.dat
+03/01/2006  02:50 AM           179,415 hpof6314.dat
+02/01/2006  07:43 AM            40,960 hpofax08.dll
+03/01/2006  02:50 AM           181,563 hpoff314.dat
+02/16/2006  03:18 AM         1,037,222 hpzr3214.dl_
+02/16/2006  03:18 AM           714,471 hpzrm314.dl_
+              20 File(s)      4,555,703 bytes
+
+ Directory of G:\enu\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            15,904 hpoupdxn.inf
+02/16/2006  03:18 AM           709,810 hpzrm114.dl_
+02/01/2006  07:43 AM            12,288 usbmon.dll
+02/01/2006  07:43 AM            22,608 usbprint.sys
+               4 File(s)        760,610 bytes
+
+ Directory of G:\esm
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\esm\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\esm\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:43 AM            97,454 hpfmom14.hl_
+02/01/2006  07:43 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,041,399 hpzr3214.dl_
+02/16/2006  03:18 AM           716,984 hpzrm314.dl_
+               4 File(s)      1,896,797 bytes
+
+ Directory of G:\esm\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           711,343 hpzrm114.dl_
+02/01/2006  07:43 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        762,395 bytes
+
+ Directory of G:\fin
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\fin\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\fin\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM            90,296 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,037,817 hpzr3214.dl_
+02/16/2006  03:18 AM           716,087 hpzrm314.dl_
+               4 File(s)      1,885,160 bytes
+
+ Directory of G:\fin\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           710,749 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        761,801 bytes
+
+ Directory of G:\fra
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\fra\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\fra\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM            98,599 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,041,650 hpzr3214.dl_
+02/16/2006  03:18 AM           717,246 hpzrm314.dl_
+               4 File(s)      1,898,455 bytes
+
+ Directory of G:\fra\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           711,497 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        762,549 bytes
+
+ Directory of G:\grk
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\grk\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\grk\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM           102,769 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,046,157 hpzr3214.dl_
+02/16/2006  03:18 AM           719,450 hpzrm314.dl_
+               4 File(s)      1,909,336 bytes
+
+ Directory of G:\grk\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           712,660 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        763,712 bytes
+
+ Directory of G:\hbr
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\hbr\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\hbr\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM            76,912 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,035,867 hpzr3214.dl_
+02/16/2006  03:18 AM           715,136 hpzrm314.dl_
+               4 File(s)      1,868,875 bytes
+
+ Directory of G:\hbr\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           709,591 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        760,643 bytes
+
+ Directory of G:\hun
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\hun\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\hun\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM            95,125 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,042,540 hpzr3214.dl_
+02/16/2006  03:18 AM           717,061 hpzrm314.dl_
+               4 File(s)      1,895,686 bytes
+
+ Directory of G:\hun\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:18 AM           711,265 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        762,317 bytes
+
+ Directory of G:\images
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+08/23/2005  06:56 AM           896,613 BallonsInFloweredTree2.png
+08/23/2005  06:56 AM         1,047,791 CarOnEuroBridge2.png
+08/23/2005  06:56 AM         1,095,322 ColoredHousesHarbor2.png
+08/23/2005  06:56 AM         1,021,817 ColoredPencils2.png
+08/23/2005  06:56 AM         1,128,400 CountryRoad2.png
+08/23/2005  06:56 AM             1,758 PNGlogo.png
+               6 File(s)      5,191,701 bytes
+
+ Directory of G:\ita
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\ita\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\ita\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:44 AM            98,835 hpfmom14.hl_
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+02/16/2006  03:18 AM         1,041,264 hpzr3214.dl_
+02/16/2006  03:18 AM           716,917 hpzrm314.dl_
+               4 File(s)      1,897,976 bytes
+
+ Directory of G:\ita\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           711,252 hpzrm114.dl_
+02/01/2006  07:44 AM            12,288 usbmon.dll
+02/01/2006  07:44 AM            22,608 usbprint.sys
+               4 File(s)        762,304 bytes
+
+ Directory of G:\jpn
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\jpn\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\jpn\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:45 AM            90,149 hpfmom14.hl_
+02/01/2006  07:44 AM           179,687 hpo2570.dat
+02/01/2006  07:44 AM           148,611 hpo3100.dat
+02/01/2006  07:44 AM           148,611 hpo3200.dat
+02/01/2006  07:44 AM           148,611 hpo3300.dat
+02/01/2006  07:44 AM           181,189 hpo4300.dat
+02/01/2006  07:44 AM           181,103 hpo6300.dat
+02/01/2006  07:45 AM           156,249 hpoc3100.dat
+02/01/2006  07:45 AM           156,237 hpoc4100.dat
+02/01/2006  07:45 AM           181,181 hpof300.dat
+02/01/2006  07:45 AM           179,848 hpof3100.dat
+03/01/2006  02:50 AM           147,555 hpof3114.dat
+03/01/2006  02:50 AM           147,731 hpof3314.dat
+02/01/2006  07:45 AM           179,872 hpof4100.dat
+03/01/2006  02:50 AM           181,577 hpof4314.dat
+03/01/2006  02:50 AM           179,415 hpof6314.dat
+02/01/2006  07:44 AM            40,960 hpofax08.dll
+03/01/2006  02:50 AM           181,563 hpoff314.dat
+02/16/2006  03:17 AM         1,031,341 hpzr3214.dl_
+02/16/2006  03:17 AM           712,278 hpzrm314.dl_
+              20 File(s)      4,553,768 bytes
+
+ Directory of G:\jpn\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            15,904 hpoupdxn.inf
+02/16/2006  03:17 AM           709,542 hpzrm114.dl_
+02/01/2006  07:45 AM            12,288 usbmon.dll
+02/01/2006  07:45 AM            22,608 usbprint.sys
+               4 File(s)        760,342 bytes
+
+ Directory of G:\kor
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\kor\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\kor\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:45 AM           123,892 hpfmom14.hl_
+02/01/2006  07:45 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,030,754 hpzr3214.dl_
+02/16/2006  03:17 AM           712,028 hpzrm314.dl_
+               4 File(s)      1,907,634 bytes
+
+ Directory of G:\kor\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           708,946 hpzrm114.dl_
+02/01/2006  07:45 AM            12,288 usbmon.dll
+02/01/2006  07:45 AM            22,608 usbprint.sys
+               4 File(s)        759,998 bytes
+
+ Directory of G:\langfls
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/25/2006  11:34 AM             9,706 1025.xml
+02/25/2006  11:34 AM             6,802 1028.xml
+02/25/2006  11:34 AM            10,266 1029.xml
+02/25/2006  11:34 AM            10,880 1030.xml
+02/25/2006  11:34 AM            11,582 1031.xml
+02/25/2006  11:34 AM            11,730 1032.xml
+02/25/2006  11:34 AM             9,944 1033.xml
+02/25/2006  11:34 AM            11,178 1034.xml
+02/25/2006  11:34 AM            10,110 1035.xml
+02/25/2006  11:34 AM            11,266 1036.xml
+02/25/2006  11:34 AM             9,274 1037.xml
+02/25/2006  11:34 AM            10,610 1038.xml
+02/25/2006  11:34 AM            11,210 1040.xml
+02/25/2006  11:34 AM             8,200 1041.xml
+02/25/2006  11:34 AM             7,848 1042.xml
+02/25/2006  11:34 AM            10,924 1043.xml
+02/25/2006  11:34 AM            10,684 1044.xml
+02/25/2006  11:34 AM            11,202 1045.xml
+02/25/2006  11:34 AM            10,710 1046.xml
+02/25/2006  11:34 AM            11,218 1049.xml
+02/25/2006  11:34 AM            10,690 1053.xml
+02/25/2006  11:34 AM            10,294 1055.xml
+02/25/2006  11:34 AM             6,768 2052.xml
+              23 File(s)        233,096 bytes
+
+ Directory of G:\met
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\met\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+               0 File(s)              0 bytes
+
+ Directory of G:\met\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:45 AM           179,557 hpo2570.dat
+02/01/2006  07:45 AM           148,492 hpo3100.dat
+02/01/2006  07:45 AM           148,492 hpo3200.dat
+02/01/2006  07:45 AM           148,492 hpo3300.dat
+02/01/2006  07:45 AM           181,159 hpo4300.dat
+02/01/2006  07:45 AM           180,990 hpo6300.dat
+02/01/2006  07:45 AM           156,237 hpoc3100.dat
+02/01/2006  07:45 AM           156,237 hpoc4100.dat
+02/01/2006  07:45 AM           181,151 hpof300.dat
+02/01/2006  07:45 AM           179,848 hpof3100.dat
+03/01/2006  02:50 AM           147,555 hpof3114.dat
+03/01/2006  02:50 AM           147,731 hpof3314.dat
+02/01/2006  07:45 AM           179,872 hpof4100.dat
+03/01/2006  02:50 AM           181,577 hpof4314.dat
+03/01/2006  02:50 AM           179,415 hpof6314.dat
+03/01/2006  02:50 AM           181,563 hpoff314.dat
+              16 File(s)      2,678,368 bytes
+
+ Directory of G:\nld
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\nld\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\nld\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:45 AM            96,148 hpfmom14.hl_
+02/01/2006  07:45 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,039,788 hpzr3214.dl_
+02/16/2006  03:17 AM           715,487 hpzrm314.dl_
+               4 File(s)      1,892,383 bytes
+
+ Directory of G:\nld\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           710,442 hpzrm114.dl_
+02/01/2006  07:45 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        761,494 bytes
+
+ Directory of G:\non
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\non\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\non\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            87,160 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,037,234 hpzr3214.dl_
+02/16/2006  03:17 AM           715,496 hpzrm314.dl_
+               4 File(s)      1,880,850 bytes
+
+ Directory of G:\non\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           710,549 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        761,601 bytes
+
+ Directory of G:\plk
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\plk\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\plk\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            95,743 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,043,846 hpzr3214.dl_
+02/16/2006  03:17 AM           717,904 hpzrm314.dl_
+               4 File(s)      1,898,453 bytes
+
+ Directory of G:\plk\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           711,930 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        762,982 bytes
+
+ Directory of G:\ptb
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\ptb\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\ptb\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            93,562 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,041,049 hpzr3214.dl_
+02/16/2006  03:17 AM           717,036 hpzrm314.dl_
+               4 File(s)      1,892,607 bytes
+
+ Directory of G:\ptb\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           711,255 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        762,307 bytes
+
+ Directory of G:\resting
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          LangFls
+03/09/2006  05:26 PM             5,860 config.xml
+               1 File(s)          5,860 bytes
+
+ Directory of G:\resting\LangFls
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+02/07/2006  06:53 PM             4,854 1025.xml
+02/07/2006  06:53 PM             3,372 1028.xml
+02/07/2006  06:53 PM             4,912 1029.xml
+02/11/2006  08:32 AM             5,598 1030.xml
+02/22/2006  04:18 PM             5,924 1031.xml
+02/08/2006  05:36 PM             5,716 1032.xml
+10/13/2005  03:01 AM             4,934 1033.xml
+02/11/2006  08:32 AM             5,948 1034.xml
+02/11/2006  08:32 AM             5,208 1035.xml
+02/11/2006  08:32 AM             5,982 1036.xml
+02/07/2006  06:53 PM             4,562 1037.xml
+02/07/2006  06:53 PM             5,120 1038.xml
+02/11/2006  08:32 AM             5,814 1040.xml
+02/07/2006  06:53 PM             4,018 1041.xml
+02/07/2006  06:53 PM             3,852 1042.xml
+02/11/2006  08:32 AM             5,842 1043.xml
+02/11/2006  08:32 AM             5,672 1044.xml
+02/07/2006  06:53 PM             5,542 1045.xml
+02/22/2006  04:18 PM             5,660 1046.xml
+02/07/2006  06:53 PM             5,546 1049.xml
+02/11/2006  08:32 AM             5,558 1053.xml
+02/07/2006  06:53 PM             4,916 1055.xml
+02/07/2006  06:53 PM             3,342 2052.xml
+              23 File(s)        117,892 bytes
+
+ Directory of G:\rus
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\rus\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\rus\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            97,265 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,042,205 hpzr3214.dl_
+02/16/2006  03:17 AM           717,921 hpzrm314.dl_
+               4 File(s)      1,898,351 bytes
+
+ Directory of G:\rus\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           711,569 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        762,621 bytes
+
+ Directory of G:\setup
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+08/23/2005  06:56 AM             4,216 01_HP_welcome.bmp
+08/23/2005  06:56 AM            54,182 02_HP_IZ_made_easy.bmp
+08/23/2005  06:56 AM            43,280 03_HP_SC_better_together.bmp
+08/23/2005  06:56 AM            43,978 04_HP_IZE_organise.bmp
+08/23/2005  06:56 AM            44,204 04_HP_IZ_organise.bmp
+08/23/2005  06:56 AM            50,570 05_HP_IZE_edit.bmp
+08/23/2005  06:56 AM            50,646 05_HP_IZ_edit.bmp
+08/23/2005  06:56 AM            41,592 06_HP_Instant_Share.bmp
+08/23/2005  06:56 AM            50,230 07_HP_IZE_photo_printing.bmp
+08/23/2005  06:56 AM            50,392 07_HP_IZ_photo_printing.bmp
+08/23/2005  06:56 AM            48,624 08_HP_IZ_projects.bmp
+08/23/2005  06:56 AM            46,324 09_HP_IZ_archive.bmp
+08/23/2005  06:56 AM            33,312 10_HP_Supplies.bmp
+08/23/2005  06:56 AM            44,954 11_HP_help_support.bmp
+08/23/2005  06:56 AM            59,172 12_HP_web_register.bmp
+08/23/2005  06:56 AM            53,276 13_HP_tour_Learning_products.bmp
+08/23/2005  06:56 AM            42,562 14_HP_IZE_Simple.bmp
+08/23/2005  06:56 AM            40,256 15_HP_IZE_album_printing.bmp
+08/23/2005  06:56 AM            10,262 CSDialogBanner.bmp
+08/23/2005  06:56 AM            10,262 CSDialogBannerRTL.bmp
+03/10/2006  12:55 AM    <DIR>          DeviceManagement
+03/10/2006  12:55 AM    <DIR>          FullDPApp
+08/23/2005  06:56 AM           208,896 HPCommunication.dll
+08/23/2005  06:56 AM            81,920 HPScripting.dll
+02/04/2006  04:12 PM           307,200 HPZarp01.exe
+02/04/2006  04:12 PM           380,928 HPZcdl01.exe
+02/04/2006  04:13 PM         1,355,776 HPZchk01.exe
+08/23/2005  06:56 AM           360,448 HPZddv01.exe
+02/04/2006  04:14 PM           774,144 HPZgat01.exe
+02/04/2006  04:15 PM           356,352 HPZnet01.exe
+02/04/2006  04:15 PM           274,432 HPZnfx01.exe
+02/04/2006  04:16 PM           294,912 HPZnop01.exe
+02/04/2006  04:16 PM           786,432 HPZopt01.exe
+02/04/2006  04:17 PM           561,152 HPZpsc01.exe
+02/04/2006  04:17 PM           372,736 HPZpsl01.exe
+02/04/2006  04:18 PM           380,928 HPZrcn01.exe
+02/04/2006  04:18 PM         1,142,784 HPZrcv01.exe
+02/04/2006  04:18 PM           528,384 HPZrein01.exe
+02/04/2006  04:20 PM         2,768,896 HPZsui01.exe
+02/04/2006  04:20 PM           352,256 HPZtim01.exe
+02/04/2006  04:21 PM           303,104 HPZwis01.exe
+02/04/2006  04:21 PM           319,488 HPZwrp01.exe
+02/04/2006  04:21 PM         1,282,048 HPZwup01.exe
+08/23/2005  06:56 AM           319,488 HPeDiag.dll
+08/23/2005  06:56 AM           124,016 HPeSupport.dll
+08/04/2004  10:10 PM             6,593 Hpomig.dat
+03/09/2006  08:04 PM            20,480 Hponiscp01.exe
+08/23/2005  06:57 AM           176,128 InstallMetrics.dll
+08/23/2005  06:57 AM           339,968 InternetUtil.dll
+08/23/2005  06:57 AM            87,286 IsDialogBanner.bmp
+08/23/2005  06:57 AM            87,286 IsDialogBannerRTL.bmp
+08/23/2005  06:57 AM           472,310 IsDialogBitmap.bmp
+08/23/2005  06:57 AM           472,310 IsDialogBitmapRTL.bmp
+07/21/2005  02:00 AM         1,060,864 MFC71.dll
+03/10/2006  12:55 AM    <DIR>          RemotePrint
+08/23/2005  06:57 AM           307,200 RulesEngine.dll
+11/25/2005  04:58 PM            46,552 aio_1.bmp
+11/25/2005  04:58 PM            36,238 aio_2.bmp
+11/25/2005  04:58 PM            44,066 aio_3.bmp
+03/10/2006  12:54 AM    <DIR>          aio_scan
+03/10/2006  12:55 AM    <DIR>          aiohelp
+03/10/2006  12:56 AM    <DIR>          aiosoftwarenpi
+10/07/2003  03:49 AM                 0 blkME.inf
+03/10/2006  12:56 AM    <DIR>          bufferchm
+07/19/2005  11:42 AM           110,592 cfgtoip.exe
+03/10/2006  12:55 AM    <DIR>          cp_calendartemplates1
+03/10/2006  12:53 AM    <DIR>          cp_onlineprojectsconfig
+03/10/2006  12:55 AM    <DIR>          cp_package_basic1
+03/10/2006  12:55 AM    <DIR>          cp_panorama1config
+03/10/2006  12:55 AM    <DIR>          cp_posterprintconfig
+03/10/2006  12:54 AM    <DIR>          cuetour
+03/10/2006  12:54 AM    <DIR>          destinations
+03/10/2006  12:54 AM    <DIR>          docproc
+03/10/2006  12:55 AM    <DIR>          documentviewer
+03/10/2006  12:55 AM    <DIR>          eSupport
+03/10/2006  12:55 AM    <DIR>          enu
+03/10/2006  12:55 AM    <DIR>          esn
+03/10/2006  12:55 AM    <DIR>          fax
+03/10/2006  12:54 AM    <DIR>          fra
+06/26/2004  03:41 AM             1,751 fsshutdown.dat
+03/10/2006  12:55 AM    <DIR>          help
+01/06/2006  11:49 AM           225,280 hpbntkrs.dll
+01/06/2006  11:49 AM           208,896 hpbskutl.dll
+08/04/2005  08:29 AM             5,229 hpdscrALL.dat
+01/06/2006  11:49 AM           770,048 hpgeneric.dll
+07/21/2005  01:42 AM            16,453 hpjmpr30.vxd
+07/21/2005  01:43 AM            17,872 hpjmpr40.sys
+07/21/2005  01:43 AM            18,103 hpjmpr50.sys
+07/21/2005  01:43 AM            15,941 hpjndis3.vxd
+07/21/2005  01:44 AM            16,752 hpjndis4.sys
+07/21/2005  01:44 AM            17,048 hpjndis5.sys
+07/21/2005  01:44 AM            81,920 hpjnds50.dll
+10/29/2005  02:21 PM            22,528 hpjsiadp.dll
+10/29/2005  02:21 PM            48,128 hpjsira.exe
+01/06/2006  11:50 AM           155,648 hpntwkexe.exe
+01/06/2006  11:50 AM           212,992 hpntwkwiz.dll
+01/06/2006  11:50 AM         1,101,824 hpntwkwiz_ar.dll
+01/06/2006  11:51 AM         1,110,016 hpntwkwiz_cs.dll
+01/06/2006  11:52 AM         1,110,016 hpntwkwiz_da.dll
+01/06/2006  11:52 AM         1,118,208 hpntwkwiz_de.dll
+01/06/2006  11:52 AM         1,118,208 hpntwkwiz_el.dll
+01/06/2006  11:53 AM         1,105,920 hpntwkwiz_en.dll
+01/06/2006  11:53 AM         1,118,208 hpntwkwiz_es.dll
+01/06/2006  11:54 AM         1,110,016 hpntwkwiz_fi.dll
+01/06/2006  11:54 AM         1,118,208 hpntwkwiz_fr.dll
+01/06/2006  11:54 AM         1,097,728 hpntwkwiz_he.dll
+01/06/2006  11:54 AM         1,114,112 hpntwkwiz_hu.dll
+01/06/2006  11:55 AM         1,118,208 hpntwkwiz_it.dll
+01/06/2006  11:55 AM         1,085,440 hpntwkwiz_ja.dll
+01/06/2006  11:55 AM         1,085,440 hpntwkwiz_ko.dll
+01/06/2006  11:55 AM         1,114,112 hpntwkwiz_nl.dll
+01/06/2006  11:56 AM         1,110,016 hpntwkwiz_no.dll
+01/06/2006  11:56 AM         1,110,016 hpntwkwiz_pl.dll
+01/06/2006  11:56 AM         1,114,112 hpntwkwiz_pt.dll
+01/06/2006  11:18 AM         1,114,112 hpntwkwiz_ru.dll
+01/06/2006  11:18 AM         1,110,016 hpntwkwiz_sv.dll
+01/06/2006  11:19 AM         1,105,920 hpntwkwiz_tr.dll
+01/06/2006  11:19 AM         1,073,152 hpntwkwiz_zhcn.dll
+01/06/2006  11:19 AM         1,077,248 hpntwkwiz_zhtw.dll
+03/09/2006  08:04 PM           290,816 hpoapd01.exe
+03/10/2006  12:29 AM            11,645 hpomdl09.dat
+03/10/2006  12:29 AM             4,769 hponac.dat
+03/09/2006  08:04 PM            55,000 hponac01.exe
+03/09/2006  08:04 PM            36,864 hponicifs01.exe
+03/09/2006  08:04 PM            53,248 hponiprint01.exe
+03/09/2006  08:04 PM            30,424 hponiscan01.exe
+06/23/2004  02:34 AM            49,152 hporfd01.exe
+03/10/2006  12:29 AM             9,536 hposcr09.dat
+03/10/2006  12:29 AM               917 hposcr3rdp.dat
+03/10/2006  12:29 AM            15,464 hposcrd4.dat
+03/09/2006  08:05 PM             8,829 hpose050.dat
+03/09/2006  08:05 PM             8,864 hpose060.dat
+03/09/2006  08:05 PM             8,829 hposf050.dat
+03/09/2006  08:05 PM             9,495 hposf060.dat
+03/09/2006  08:04 PM            36,864 hpowfs01.exe
+03/10/2006  12:55 AM    <DIR>          hpphotosmartexpress
+03/10/2006  12:55 AM    <DIR>          hpproductassistant
+02/19/2006  11:31 PM            27,256 hpqbud01.dat
+02/19/2006  11:31 PM            22,508 hpqbud04.dat
+02/19/2006  11:31 PM            22,937 hpqbud05.dat
+07/19/2005  04:02 AM            18,037 hpqbud06.dat
+02/19/2006  11:31 PM            22,451 hpqbud08.dat
+02/19/2006  11:31 PM            22,919 hpqbud11.dat
+02/19/2006  11:31 PM            22,726 hpqhsc01.dat
+02/19/2006  11:31 PM            28,647 hpqscr01.dat
+03/10/2006  12:54 AM    <DIR>          hpsoftwareupdate
+02/04/2006  04:14 PM         2,600,960 hpzdui01.exe
+03/09/2006  07:47 PM           253,952 hpzfwx01.exe
+07/21/2005  01:58 AM            28,672 hpzjfw01.dll
+10/29/2005  02:25 PM           393,216 hpzjpp01.dll
+10/29/2005  02:25 PM           417,792 hpzjut02.dll
+02/04/2006  04:15 PM         1,101,824 hpzmsi01.exe
+10/27/2005  03:23 PM             3,312 hpzmsirb.dat
+02/04/2006  04:16 PM           327,680 hpzpnp01.exe
+02/04/2006  04:17 PM           589,824 hpzprl01.exe
+02/04/2006  04:18 PM           978,944 hpzscr01.exe
+02/04/2006  04:19 PM         1,101,824 hpzshl01.exe
+03/10/2006  12:54 AM    <DIR>          imagezoneexpress
+03/10/2006  12:55 AM    <DIR>          instantsharedevices
+03/10/2006  12:54 AM    <DIR>          instantsharedevicesmfc
+03/10/2006  12:55 AM    <DIR>          langpacks
+03/10/2006  12:54 AM    <DIR>          marketresearch
+07/19/2005  10:33 AM            45,056 mdfix01.exe
+07/21/2005  01:59 AM           995,383 mfc42.dll
+07/21/2005  02:00 AM            70,656 msvcirt.dll
+03/07/2002  07:10 AM           401,462 msvcp60.dll
+07/21/2005  02:00 AM           499,712 msvcp71.dll
+07/21/2005  02:01 AM           348,160 msvcr71.dll
+08/23/2005  06:57 AM         1,118,720 msxml3.dll
+08/23/2005  06:57 AM            24,576 msxml3a.dll
+08/23/2005  06:57 AM            44,032 msxml3r.dll
+08/23/2005  06:57 AM         5,922,304 netfx.msi
+08/23/2005  06:57 AM        14,638,644 netfx1.cab
+03/10/2006  12:54 AM    <DIR>          newcopy
+10/29/2005  02:25 PM           102,400 openssldll.dll
+03/09/2005  07:03 AM            20,268 optdetails1028.rtf
+03/12/2005  07:39 AM             5,900 optdetails1029.rtf
+02/25/2005  09:22 AM             2,786 optdetails1030.rtf
+02/25/2005  09:22 AM             3,115 optdetails1031.rtf
+04/22/2005  02:50 AM            10,030 optdetails1032.rtf
+02/09/2005  08:17 AM            11,994 optdetails1033.rtf
+03/12/2005  01:43 AM             4,729 optdetails1034.rtf
+02/25/2005  09:22 AM             3,047 optdetails1035.rtf
+02/25/2005  09:22 AM             3,532 optdetails1036.rtf
+11/19/2005  07:17 AM             6,902 optdetails1038.rtf
+02/25/2005  09:22 AM             3,217 optdetails1040.rtf
+03/09/2005  07:03 AM            33,011 optdetails1041.rtf
+03/09/2005  07:03 AM            53,785 optdetails1042.rtf
+03/12/2005  01:43 AM             4,440 optdetails1043.rtf
+02/25/2005  09:22 AM             2,961 optdetails1044.rtf
+03/12/2005  07:39 AM             5,053 optdetails1045.rtf
+02/25/2005  09:22 AM             3,091 optdetails1046.rtf
+03/15/2005  05:47 AM            10,540 optdetails1049.rtf
+02/25/2005  09:22 AM             2,894 optdetails1053.rtf
+03/12/2005  07:39 AM             5,144 optdetails1055.rtf
+03/09/2005  07:03 AM            20,625 optdetails2052.rtf
+08/06/2005  06:59 AM             6,513 opteDesc1028.rtf
+08/11/2005  11:36 PM             4,570 opteDesc1029.rtf
+08/11/2005  11:36 PM             4,456 opteDesc1030.rtf
+08/11/2005  11:36 PM             4,507 opteDesc1031.rtf
+08/11/2005  11:36 PM             5,270 opteDesc1032.rtf
+07/28/2005  06:12 AM             5,100 opteDesc1033.rtf
+08/11/2005  11:36 PM             4,518 opteDesc1034.rtf
+08/11/2005  11:36 PM             4,478 opteDesc1035.rtf
+08/11/2005  11:36 PM             4,520 opteDesc1036.rtf
+08/11/2005  11:36 PM             4,698 opteDesc1038.rtf
+08/11/2005  11:36 PM             4,487 opteDesc1040.rtf
+08/06/2005  06:59 AM             8,260 opteDesc1041.rtf
+08/06/2005  06:59 AM            12,455 opteDesc1042.rtf
+08/11/2005  11:36 PM             4,479 opteDesc1043.rtf
+08/11/2005  11:36 PM             4,417 opteDesc1044.rtf
+08/11/2005  11:36 PM             4,626 opteDesc1045.rtf
+08/11/2005  11:36 PM             4,506 opteDesc1046.rtf
+08/11/2005  11:36 PM             5,213 opteDesc1049.rtf
+08/11/2005  11:36 PM             4,459 opteDesc1053.rtf
+08/11/2005  11:36 PM             4,625 opteDesc1055.rtf
+08/06/2005  06:59 AM             5,812 opteDesc2052.rtf
+10/23/2004  05:07 AM             2,074 opthelp1025.rtf
+10/23/2004  05:07 AM            14,100 opthelp1028.rtf
+10/23/2004  05:07 AM             6,578 opthelp1029.rtf
+10/23/2004  05:07 AM             4,906 opthelp1030.rtf
+10/23/2004  05:07 AM             5,087 opthelp1031.rtf
+10/23/2004  05:07 AM            12,397 opthelp1032.rtf
+10/23/2004  05:07 AM             6,209 opthelp1033.rtf
+10/23/2004  05:08 AM             4,970 opthelp1034.rtf
+10/23/2004  05:08 AM             5,119 opthelp1035.rtf
+10/23/2004  05:08 AM             5,328 opthelp1036.rtf
+10/23/2004  05:08 AM             2,074 opthelp1037.rtf
+10/23/2004  05:07 AM             6,453 opthelp1038.rtf
+10/23/2004  05:07 AM             5,538 opthelp1040.rtf
+10/23/2004  05:07 AM            17,952 opthelp1041.rtf
+10/23/2004  05:07 AM            29,088 opthelp1042.rtf
+10/23/2004  05:07 AM             5,030 opthelp1043.rtf
+10/23/2004  05:07 AM             5,145 opthelp1044.rtf
+10/23/2004  05:07 AM             6,048 opthelp1045.rtf
+10/23/2004  05:07 AM             5,038 opthelp1046.rtf
+10/23/2004  05:07 AM            13,431 opthelp1049.rtf
+10/23/2004  05:07 AM             4,963 opthelp1053.rtf
+10/23/2004  05:07 AM             2,074 opthelp1054.rtf
+10/23/2004  05:07 AM             6,060 opthelp1055.rtf
+10/23/2004  05:07 AM            12,709 opthelp2052.rtf
+03/10/2006  12:55 AM    <DIR>          panostandalone
+03/10/2006  12:53 AM    <DIR>          photogallery
+03/10/2006  12:55 AM    <DIR>          product
+03/10/2006  12:54 AM    <DIR>          productcontextnpi
+03/10/2006  12:54 AM    <DIR>          ptb
+03/10/2006  12:55 AM    <DIR>          qfolder
+03/10/2006  12:55 AM    <DIR>          randmap
+10/29/2005  02:25 PM           180,224 rapiddiscovery.dll
+03/10/2006  12:54 AM    <DIR>          readme
+03/10/2006  12:55 AM    <DIR>          redisco
+03/10/2006  12:56 AM    <DIR>          scan
+03/10/2006  12:55 AM    <DIR>          scannercopy
+10/29/2005  02:26 PM           397,312 sdicommunications.dll
+10/29/2005  02:26 PM            12,800 sdiencryption.dll
+10/29/2005  02:26 PM            15,872 sdifirewall.dll
+07/21/2005  02:05 AM            13,312 sdifirewallnet.dll
+10/29/2005  02:26 PM           638,976 sdiingredients.dll
+10/29/2005  02:26 PM           245,760 sdiingredientsagents.dll
+10/29/2005  02:26 PM            11,776 sdilog.dll
+10/29/2005  02:26 PM           167,936 sdinetware.dll
+10/29/2005  02:26 PM            77,824 sdisdk.dll
+03/10/2006  12:53 AM    <DIR>          sipm
+03/10/2006  12:55 AM    <DIR>          skinshp1
+03/10/2006  12:55 AM    <DIR>          slideshow
+07/21/2005  02:08 AM            94,208 snmp_pp.dll
+07/21/2005  02:08 AM            94,208 snmpnet_pp.dll
+03/10/2006  12:53 AM    <DIR>          solutioncenter
+03/10/2006  12:53 AM    <DIR>          sonic_primosdk
+03/10/2006  12:55 AM    <DIR>          status
+07/21/2005  02:08 AM           458,752 tls704d.dll
+07/21/2005  02:09 AM           835,584 tls7712d.dll
+03/10/2006  12:54 AM    <DIR>          toolbox
+03/10/2006  12:55 AM    <DIR>          trayapp
+03/10/2006  12:53 AM    <DIR>          unloadintent
+08/23/2005  06:57 AM           545,280 usbready.exe
+03/10/2006  12:55 AM    <DIR>          webreg
+03/10/2006  12:55 AM    <DIR>          wis
+07/21/2005  02:09 AM            50,688 wsnmp32.dll
+             226 File(s)     82,186,950 bytes
+
+ Directory of G:\setup\DeviceManagement
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+11/03/2005  08:58 PM            10,862 HPZscr01.exe.dat
+               1 File(s)         10,862 bytes
+
+ Directory of G:\setup\FullDPApp
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/19/2005  04:10 AM             3,548 HPZscr01.exe.dat
+               1 File(s)          3,548 bytes
+
+ Directory of G:\setup\RemotePrint
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/19/2005  04:17 AM             3,548 HPZscr01.exe.dat
+               1 File(s)          3,548 bytes
+
+ Directory of G:\setup\aio_scan
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:35 AM         1,756,827 AiO_Scan_CDA.cab
+03/10/2006  12:50 AM           334,620 AiO_Scan_CDA.msi
+               2 File(s)      2,091,447 bytes
+
+ Directory of G:\setup\aiohelp
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:30 AM           865,539 2570Trb.cab
+03/10/2006  12:51 AM           313,344 2570Trb.msi
+03/10/2006  12:31 AM         5,038,269 2570_Help.cab
+03/10/2006  12:51 AM           321,564 2570_Help.msi
+03/10/2006  12:31 AM         7,309,184 3100_3200_3300_help.cab
+03/10/2006  12:51 AM           265,688 3100_3200_3300_help.msi
+03/10/2006  12:30 AM         1,223,952 3100_3200_3300trb.cab
+03/10/2006  12:51 AM           248,832 3100_3200_3300trb.msi
+03/10/2006  12:39 AM         1,304,844 4300Trb.cab
+03/10/2006  12:51 AM           313,344 4300Trb.msi
+03/10/2006  12:39 AM         5,720,420 4300_Help.cab
+03/10/2006  12:51 AM           321,024 4300_Help.msi
+03/10/2006  12:41 AM         1,287,614 6300Trb.cab
+03/10/2006  12:52 AM           313,344 6300Trb.msi
+03/10/2006  12:40 AM         6,605,066 6300_Help.cab
+03/10/2006  12:51 AM           322,148 6300_Help.msi
+03/10/2006  12:38 AM         5,339,559 F300_Help.cab
+03/10/2006  12:52 AM           320,512 F300_Help.msi
+03/10/2006  12:43 AM         5,616,036 c3100_Help.cab
+03/10/2006  12:52 AM           321,032 c3100_Help.msi
+03/10/2006  12:44 AM         6,515,914 c4100_Help.cab
+03/10/2006  12:52 AM           321,576 c4100_Help.msi
+03/10/2006  12:45 AM         4,485,472 c5100_Help.cab
+03/10/2006  12:52 AM           322,128 c5100_Help.msi
+03/10/2006  12:42 AM         7,068,843 c6100_Help.cab
+03/10/2006  12:52 AM           322,688 c6100_Help.msi
+03/10/2006  12:43 AM         6,011,852 c7100_Help.cab
+03/10/2006  12:53 AM           324,296 c7100_Help.msi
+              28 File(s)     68,744,084 bytes
+
+ Directory of G:\setup\aiosoftwarenpi
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:34 AM         1,463,304 AIOSoftwareNPI.cab
+03/10/2006  12:51 AM           637,440 AIOSoftwareNPI.msi
+               2 File(s)      2,100,744 bytes
+
+ Directory of G:\setup\bufferchm
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/17/2006  11:33 PM         4,064,688 BufferChm.cab
+02/19/2006  11:26 PM           489,152 BufferChm.msi
+               2 File(s)      4,553,840 bytes
+
+ Directory of G:\setup\cp_calendartemplates1
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/06/2005  11:06 PM           707,017 CP_CalendarTemplates1.cab
+02/19/2006  11:26 PM           314,368 CP_CalendarTemplates1.msi
+               2 File(s)      1,021,385 bytes
+
+ Directory of G:\setup\cp_onlineprojectsconfig
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/06/2005  11:06 PM             2,481 cp_OnlineProjectsConfig.cab
+02/19/2006  11:26 PM           304,128 cp_OnlineProjectsConfig.msi
+               2 File(s)        306,609 bytes
+
+ Directory of G:\setup\cp_package_basic1
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:26 PM         2,753,102 cp_package_basic1.cab
+02/19/2006  11:26 PM           313,856 cp_package_basic1.msi
+               2 File(s)      3,066,958 bytes
+
+ Directory of G:\setup\cp_panorama1config
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/06/2005  11:07 PM            18,359 cp_panorama1config.cab
+02/19/2006  11:27 PM           304,128 cp_panorama1config.msi
+               2 File(s)        322,487 bytes
+
+ Directory of G:\setup\cp_posterprintconfig
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/06/2005  11:07 PM             2,448 cp_PosterPrintConfig.cab
+02/19/2006  11:27 PM           304,128 cp_PosterPrintConfig.msi
+               2 File(s)        306,576 bytes
+
+ Directory of G:\setup\cuetour
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/20/2005  11:20 PM         5,394,867 CueTour.cab
+02/19/2006  11:27 PM           479,116 CueTour.msi
+               2 File(s)      5,873,983 bytes
+
+ Directory of G:\setup\destinations
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:27 PM        17,640,020 Destinations.cab
+02/19/2006  11:27 PM           537,288 Destinations.msi
+               2 File(s)     18,177,308 bytes
+
+ Directory of G:\setup\docproc
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/16/2006  01:21 PM        55,522,567 Data1.cab
+02/16/2006  01:19 PM           291,840 DocProc.msi
+               2 File(s)     55,814,407 bytes
+
+ Directory of G:\setup\documentviewer
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:27 PM        22,182,745 DocumentViewer.cab
+02/19/2006  11:28 PM         1,155,584 DocumentViewer.msi
+07/19/2005  04:07 AM             3,548 HPZscr01.exe.dat
+               3 File(s)     23,341,877 bytes
+
+ Directory of G:\setup\eSupport
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/19/2005  04:09 AM            10,629 HPZscr01.exe.dat
+               1 File(s)         10,629 bytes
+
+ Directory of G:\setup\enu
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+10/23/2004  05:08 AM           490,608 ie6setup.exe
+               1 File(s)        490,608 bytes
+
+ Directory of G:\setup\esn
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+10/23/2004  05:08 AM           494,840 ie6setup.exe
+               1 File(s)        494,840 bytes
+
+ Directory of G:\setup\fax
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:36 AM        13,668,817 fax_CDA.cab
+03/10/2006  12:46 AM           547,840 fax_CDA.msi
+               2 File(s)     14,216,657 bytes
+
+ Directory of G:\setup\fra
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+10/23/2004  05:08 AM           496,376 ieSetup.exe
+               1 File(s)        496,376 bytes
+
+ Directory of G:\setup\help
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:53 AM    <DIR>          en
+03/10/2006  12:55 AM    <DIR>          es
+03/10/2006  12:53 AM    <DIR>          fr
+07/19/2005  03:38 PM             3,614 hpntwkwizhlp.ini
+03/10/2006  12:53 AM    <DIR>          images
+03/10/2006  12:54 AM    <DIR>          pt
+               1 File(s)          3,614 bytes
+
+ Directory of G:\setup\help\en
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+07/19/2005  01:49 PM             1,637 Wireless Encryption - WEP.htm
+07/19/2005  01:32 PM             2,499 addpntrslgipntwks.htm
+07/19/2005  01:32 PM             4,005 authentication.htm
+07/19/2005  01:33 PM             1,409 cannot_continue.htm
+07/19/2005  01:33 PM             8,254 change_tcpip_settings.htm
+07/19/2005  01:34 PM             3,391 check_cable_connection.htm
+07/19/2005  01:34 PM             1,660 confirm_settings_prn_found.htm
+07/19/2005  01:35 PM             1,246 confirm_settings_tcpip.htm
+07/19/2005  01:35 PM             1,253 conn_type_network_usb.htm
+07/19/2005  01:35 PM             1,260 conn_type_wireless_wired.htm
+07/19/2005  01:36 PM             1,247 conn_type_wireless_wired_usb.htm
+07/19/2005  01:37 PM             6,504 connect_network_cable.htm
+09/29/2005  05:37 AM             7,140 establish_comm_SmartKey.htm
+07/19/2005  01:37 PM             5,177 establish_communication.htm
+07/19/2005  01:37 PM             7,143 establish_communication_SmartKey.htm
+07/19/2005  01:38 PM             5,846 firewall_detected.htm
+11/25/2005  12:13 AM            24,330 glossary.htm
+07/19/2005  01:39 PM               269 help.css
+07/19/2005  01:40 PM                72 help.js
+11/25/2005  12:13 AM             1,664 identifyprinter.htm
+07/19/2005  01:41 PM             6,823 idpntraddr.htm
+07/19/2005  01:41 PM             4,108 idpntrlist.htm
+07/19/2005  01:42 PM             1,520 invalid_settings.htm
+07/19/2005  01:42 PM               740 network_protocols.htm
+07/19/2005  01:42 PM             5,779 notice_about_firewalls.htm
+07/19/2005  01:42 PM             3,272 ntwkconfigops.htm
+07/19/2005  01:43 PM             4,005 pass_phrase.htm
+11/25/2005  12:14 AM             3,778 portname.htm
+07/19/2005  01:43 PM             5,784 printer_not_found.htm
+07/19/2005  01:44 PM             2,027 printer_settings.htm
+07/19/2005  01:44 PM            12,243 printers_found.htm
+07/19/2005  01:44 PM             2,074 select_network_name.htm
+07/19/2005  01:44 PM             3,429 setntwkcommode.htm
+07/19/2005  01:45 PM             4,267 single_printer_found.htm
+07/19/2005  01:45 PM             7,256 transfer_wireless_settings.htm
+07/19/2005  01:46 PM             3,534 unable_to_complete.htm
+07/19/2005  01:46 PM               832 unable_verify_ntwk_settings.htm
+11/25/2005  12:15 AM             1,958 unable_verify_wrls_settings.htm
+07/19/2005  01:46 PM             4,879 usb_flash_drive.htm
+07/19/2005  01:47 PM             3,138 verfication_successful.htm
+07/19/2005  01:47 PM               685 verify_settings.htm
+07/19/2005  01:47 PM               761 verify_settings_wired.htm
+07/19/2005  01:47 PM             4,116 verify_wireless_profile.htm
+07/19/2005  01:48 PM               890 warning.htm
+07/19/2005  01:48 PM             2,145 wep_required.htm
+07/19/2005  01:48 PM             2,180 wep_unknown.htm
+07/19/2005  01:49 PM             5,339 wireless_glossary.htm
+07/19/2005  01:49 PM             4,341 wireless_security.htm
+07/19/2005  01:49 PM             2,248 wireless_settings.htm
+07/19/2005  01:50 PM             2,020 wireless_settings_find.htm
+              50 File(s)        192,177 bytes
+
+ Directory of G:\setup\help\es
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+07/19/2005  02:09 PM             1,734 Wireless Encryption - WEP.htm
+07/19/2005  01:50 PM             2,774 addpntrslgipntwks.htm
+07/19/2005  01:50 PM             4,217 authentication.htm
+07/19/2005  01:51 PM             1,447 cannot_continue.htm
+07/19/2005  01:51 PM             8,610 change_tcpip_settings.htm
+07/19/2005  01:51 PM             3,746 check_cable_connection.htm
+07/19/2005  01:52 PM             1,737 check_computer_and_printer.htm
+07/19/2005  01:52 PM               911 check_printer.htm
+07/19/2005  01:52 PM             3,162 chg_wireless_settings.htm
+07/19/2005  01:52 PM             1,832 confirm_settings_prn_found.htm
+07/19/2005  01:53 PM             1,289 confirm_settings_tcpip.htm
+07/19/2005  01:53 PM             1,313 conn_type_network_usb.htm
+07/19/2005  01:53 PM             1,352 conn_type_wireless_wired.htm
+07/19/2005  01:54 PM             1,353 conn_type_wireless_wired_usb.htm
+07/19/2005  01:54 PM             6,276 connect_network_cable.htm
+09/29/2005  05:38 AM             7,251 establish_comm_SmartKey.htm
+07/19/2005  01:54 PM             5,249 establish_communication.htm
+07/19/2005  01:55 PM             7,254 establish_communication_SmartKey.htm
+11/25/2005  12:20 AM            28,307 glossary.htm
+07/19/2005  01:55 PM               269 help.css
+07/19/2005  01:55 PM                72 help.js
+11/25/2005  12:20 AM             1,869 identifyprinter.htm
+07/19/2005  01:56 PM             7,128 idpntraddr.htm
+07/19/2005  01:57 PM             4,719 idpntrlist.htm
+07/19/2005  01:57 PM             1,637 invalid_settings.htm
+07/19/2005  01:58 PM               756 network_protocols.htm
+07/19/2005  01:58 PM             6,325 notice_about_firewalls.htm
+07/19/2005  01:58 PM             3,547 ntwkconfigops.htm
+07/19/2005  01:59 PM             4,120 pass_phrase.htm
+11/25/2005  12:21 AM             4,016 portname.htm
+07/19/2005  02:00 PM             6,335 printer_not_found.htm
+07/19/2005  02:01 PM             2,198 printer_settings.htm
+07/19/2005  02:01 PM            12,542 printers_found.htm
+07/19/2005  02:02 PM               788 search_method.htm
+07/19/2005  02:02 PM             2,213 select_network_name.htm
+07/19/2005  02:03 PM             3,848 setntwkcommode.htm
+07/19/2005  02:03 PM             4,410 single_printer_found.htm
+07/19/2005  02:04 PM             7,189 transfer_wireless_settings.htm
+07/19/2005  02:04 PM               893 unable_to_communicate.htm
+07/19/2005  02:05 PM             3,647 unable_to_complete.htm
+07/19/2005  02:05 PM               925 unable_verify_ntwk_settings.htm
+11/25/2005  12:24 AM             2,105 unable_verify_wrls_settings.htm
+07/19/2005  02:06 PM             4,903 usb_flash_drive.htm
+07/19/2005  02:06 PM             3,185 verfication_successful.htm
+07/19/2005  02:07 PM               735 verify_settings.htm
+07/19/2005  02:07 PM               805 verify_settings_wired.htm
+07/19/2005  02:07 PM             4,208 verify_wireless_profile.htm
+07/19/2005  02:08 PM               973 verify_wireless_settings.htm
+07/19/2005  02:08 PM               897 warning.htm
+07/19/2005  02:09 PM             2,264 wep_required.htm
+07/19/2005  02:09 PM             2,319 wep_unknown.htm
+07/19/2005  02:10 PM             4,548 wireless_security.htm
+07/19/2005  02:11 PM             2,384 wireless_settings.htm
+07/19/2005  02:11 PM             2,246 wireless_settings_find.htm
+              54 File(s)        200,832 bytes
+
+ Directory of G:\setup\help\fr
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+07/19/2005  03:17 PM             1,801 Wireless Encryption - WEP.htm
+07/19/2005  02:55 PM             2,866 addpntrslgipntwks.htm
+07/19/2005  02:56 PM             4,262 authentication.htm
+07/19/2005  02:56 PM             1,468 cannot_continue.htm
+07/19/2005  02:57 PM             8,465 change_tcpip_settings.htm
+07/19/2005  02:57 PM             3,658 check_cable_connection.htm
+07/19/2005  02:57 PM             1,818 check_computer_and_printer.htm
+07/19/2005  02:58 PM               912 check_printer.htm
+07/19/2005  02:58 PM             3,131 chg_wireless_settings.htm
+07/19/2005  02:58 PM             1,796 confirm_settings_prn_found.htm
+07/19/2005  02:59 PM             1,280 confirm_settings_tcpip.htm
+07/19/2005  02:59 PM             1,320 conn_type_network_usb.htm
+07/19/2005  02:59 PM             1,314 conn_type_wireless_wired.htm
+07/19/2005  03:00 PM             1,314 conn_type_wireless_wired_usb.htm
+07/19/2005  03:01 PM             6,410 connect_network_cable.htm
+09/29/2005  05:39 AM             7,212 establish_comm_SmartKey.htm
+07/19/2005  03:02 PM             5,234 establish_communication.htm
+07/19/2005  03:03 PM             7,215 establish_communication_SmartKey.htm
+11/25/2005  12:47 AM            32,783 glossary.htm
+07/19/2005  03:03 PM               269 help.css
+07/19/2005  03:04 PM                72 help.js
+11/25/2005  12:47 AM             1,887 identifyprinter.htm
+07/19/2005  03:05 PM             7,200 idpntraddr.htm
+07/19/2005  03:05 PM             4,749 idpntrlist.htm
+07/19/2005  03:06 PM             1,627 invalid_settings.htm
+07/19/2005  03:06 PM               786 network_protocols.htm
+09/24/2005  10:24 AM             6,006 notice_about_firewalls.htm
+07/19/2005  03:07 PM             3,707 ntwkconfigops.htm
+07/19/2005  03:08 PM             4,198 pass_phrase.htm
+11/25/2005  12:48 AM             3,929 portname.htm
+07/19/2005  03:09 PM             6,018 printer_not_found.htm
+07/19/2005  03:09 PM             2,204 printer_settings.htm
+07/19/2005  03:10 PM            12,493 printers_found.htm
+07/19/2005  03:10 PM               792 search_method.htm
+07/19/2005  03:10 PM             2,213 select_network_name.htm
+07/19/2005  03:11 PM             3,837 setntwkcommode.htm
+07/19/2005  03:11 PM             4,404 single_printer_found.htm
+07/19/2005  03:12 PM             7,189 transfer_wireless_settings.htm
+07/19/2005  03:12 PM               868 unable_to_communicate.htm
+07/19/2005  03:13 PM             3,635 unable_to_complete.htm
+07/19/2005  03:13 PM               924 unable_verify_ntwk_settings.htm
+11/25/2005  12:50 AM             2,050 unable_verify_wrls_settings.htm
+07/19/2005  03:14 PM             4,913 usb_flash_drive.htm
+07/19/2005  03:14 PM             3,171 verfication_successful.htm
+07/19/2005  03:14 PM               764 verify_settings.htm
+07/19/2005  03:15 PM               793 verify_settings_wired.htm
+07/19/2005  03:15 PM             4,201 verify_wireless_profile.htm
+07/19/2005  03:15 PM             1,001 verify_wireless_settings.htm
+07/19/2005  03:16 PM               920 warning.htm
+07/19/2005  03:16 PM             2,326 wep_required.htm
+07/19/2005  03:16 PM             2,442 wep_unknown.htm
+07/19/2005  03:17 PM             4,552 wireless_security.htm
+07/19/2005  03:18 PM             2,293 wireless_settings.htm
+07/19/2005  03:18 PM             2,290 wireless_settings_find.htm
+              54 File(s)        204,982 bytes
+
+ Directory of G:\setup\help\images
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+07/19/2005  04:02 PM             3,557 Keep Looking on Network_gray.PNG
+07/19/2005  04:03 PM             2,117 Network Wire_gray.PNG
+07/19/2005  04:04 PM             3,408 SmartKey Image_gray.PNG
+07/19/2005  04:03 PM               759 link_light_off.gif
+07/19/2005  04:03 PM               778 link_light_on.gif
+07/19/2005  04:04 PM             1,309 usb_icon.gif
+07/19/2005  04:04 PM               147 wired_icon.gif
+07/19/2005  04:05 PM               676 wireless_icon.gif
+               8 File(s)         12,751 bytes
+
+ Directory of G:\setup\help\pt
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+07/19/2005  07:13 PM             1,677 Wireless Encryption - WEP.htm
+07/19/2005  06:49 PM             2,784 addpntrslgipntwks.htm
+07/19/2005  06:50 PM             4,076 authentication.htm
+07/19/2005  06:50 PM             1,432 cannot_continue.htm
+09/24/2005  11:12 AM             8,488 change_tcpip_settings.htm
+07/19/2005  06:51 PM             3,572 check_cable_connection.htm
+07/19/2005  06:52 PM             1,708 check_computer_and_printer.htm
+07/19/2005  06:52 PM               881 check_printer.htm
+07/19/2005  06:52 PM             2,984 chg_wireless_settings.htm
+07/19/2005  06:53 PM             1,770 confirm_settings_prn_found.htm
+07/19/2005  06:53 PM             1,295 confirm_settings_tcpip.htm
+07/19/2005  06:54 PM             1,308 conn_type_network_usb.htm
+07/19/2005  06:54 PM             1,277 conn_type_wireless_wired.htm
+07/19/2005  06:55 PM             1,297 conn_type_wireless_wired_usb.htm
+07/19/2005  06:56 PM             6,278 connect_network_cable.htm
+09/29/2005  05:42 AM             7,239 establish_comm_SmartKey.htm
+07/19/2005  06:56 PM             5,229 establish_communication.htm
+07/19/2005  06:57 PM             7,242 establish_communication_SmartKey.htm
+11/25/2005  01:59 AM            27,062 glossary.htm
+07/19/2005  06:58 PM               269 help.css
+07/19/2005  06:58 PM                72 help.js
+11/25/2005  02:00 AM             1,841 identifyprinter.htm
+07/19/2005  06:59 PM             7,107 idpntraddr.htm
+07/19/2005  07:00 PM             4,567 idpntrlist.htm
+07/19/2005  07:00 PM             1,577 invalid_settings.htm
+07/19/2005  07:01 PM               753 network_protocols.htm
+07/19/2005  07:02 PM             5,837 notice_about_firewalls.htm
+07/19/2005  07:02 PM             3,505 ntwkconfigops.htm
+07/19/2005  07:02 PM             4,044 pass_phrase.htm
+11/25/2005  02:00 AM             3,908 portname.htm
+07/19/2005  07:03 PM             5,835 printer_not_found.htm
+07/19/2005  07:04 PM             2,166 printer_settings.htm
+07/19/2005  07:04 PM            12,371 printers_found.htm
+07/19/2005  07:05 PM               760 search_method.htm
+07/19/2005  07:05 PM             2,102 select_network_name.htm
+07/19/2005  07:05 PM             3,763 setntwkcommode.htm
+07/19/2005  07:06 PM             4,314 single_printer_found.htm
+07/19/2005  07:06 PM             7,291 transfer_wireless_settings.htm
+07/19/2005  07:07 PM               870 unable_to_communicate.htm
+07/19/2005  07:07 PM             3,578 unable_to_complete.htm
+07/19/2005  07:08 PM               906 unable_verify_ntwk_settings.htm
+11/25/2005  02:02 AM             2,028 unable_verify_wrls_settings.htm
+07/19/2005  07:08 PM             4,876 usb_flash_drive.htm
+07/19/2005  07:09 PM             3,151 verfication_successful.htm
+07/19/2005  07:09 PM               714 verify_settings.htm
+07/19/2005  07:09 PM               804 verify_settings_wired.htm
+07/19/2005  07:10 PM             4,215 verify_wireless_profile.htm
+07/19/2005  07:10 PM             1,015 verify_wireless_settings.htm
+07/19/2005  07:11 PM               899 warning.htm
+07/19/2005  07:12 PM             2,209 wep_required.htm
+07/19/2005  07:12 PM             2,253 wep_unknown.htm
+07/19/2005  07:14 PM             4,426 wireless_security.htm
+07/19/2005  07:14 PM             2,159 wireless_settings.htm
+07/19/2005  07:14 PM             2,192 wireless_settings_find.htm
+              54 File(s)        195,976 bytes
+
+ Directory of G:\setup\hpphotosmartexpress
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:28 PM        16,668,104 HPPhotoSmartExpress.cab
+02/19/2006  11:28 PM           557,056 HPPhotoSmartExpress.msi
+               2 File(s)     17,225,160 bytes
+
+ Directory of G:\setup\hpproductassistant
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:28 PM         4,611,583 hpproductassistant.cab
+02/19/2006  11:28 PM           492,544 hpproductassistant.msi
+               2 File(s)      5,104,127 bytes
+
+ Directory of G:\setup\hpsoftwareupdate
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/19/2005  10:08 AM            21,504 1025.mst
+02/03/2006  03:55 PM            75,776 1028.mst
+02/03/2006  03:56 PM            79,872 1029.mst
+02/03/2006  03:56 PM            65,024 1030.mst
+02/03/2006  03:56 PM            71,680 1031.mst
+02/03/2006  03:56 PM            99,840 1032.mst
+02/03/2006  03:56 PM            25,600 1033.mst
+02/03/2006  03:56 PM            65,024 1034.mst
+02/03/2006  03:56 PM            68,096 1035.mst
+02/03/2006  03:56 PM            73,728 1036.mst
+07/19/2005  10:11 AM            21,504 1037.mst
+02/03/2006  03:56 PM            79,872 1038.mst
+02/03/2006  03:56 PM            69,632 1040.mst
+02/03/2006  03:56 PM           177,152 1041.mst
+02/03/2006  03:56 PM           183,296 1042.mst
+02/03/2006  03:56 PM            66,048 1043.mst
+02/03/2006  03:56 PM            60,928 1044.mst
+02/03/2006  03:56 PM            70,144 1045.mst
+02/03/2006  03:56 PM            70,144 1046.mst
+02/03/2006  03:56 PM           108,032 1049.mst
+02/03/2006  03:56 PM            62,976 1053.mst
+02/03/2006  03:56 PM            72,192 1055.mst
+02/03/2006  03:56 PM            75,776 2052.mst
+01/25/2006  02:58 PM         1,534,547 Data1.cab
+02/03/2006  03:57 PM         1,244,512 HP Software Update.msi
+02/03/2006  03:56 PM           186,368 HPSU306Stub.msi
+              26 File(s)      4,729,267 bytes
+
+ Directory of G:\setup\imagezoneexpress
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+09/14/2005  01:27 AM             3,771 0x0404.ini
+09/14/2005  01:28 AM             5,770 0x0405.ini
+09/14/2005  01:28 AM             5,722 0x0406.ini
+09/14/2005  01:29 AM             6,265 0x0407.ini
+09/14/2005  01:29 AM             6,601 0x0408.ini
+09/14/2005  01:29 AM             5,495 0x0409.ini
+09/14/2005  01:30 AM             6,265 0x040a.ini
+09/14/2005  01:31 AM             5,586 0x040b.ini
+09/14/2005  01:31 AM             6,394 0x040c.ini
+09/14/2005  01:32 AM             5,760 0x040e.ini
+09/14/2005  01:32 AM             6,160 0x0410.ini
+09/14/2005  01:32 AM             5,887 0x0411.ini
+09/14/2005  01:33 AM             5,045 0x0412.ini
+09/14/2005  01:33 AM             6,087 0x0413.ini
+09/14/2005  01:33 AM             5,695 0x0414.ini
+09/14/2005  01:33 AM             5,863 0x0415.ini
+09/14/2005  01:34 AM             5,900 0x0416.ini
+09/14/2005  01:34 AM             5,780 0x0419.ini
+09/14/2005  01:35 AM             5,485 0x041d.ini
+09/14/2005  01:36 AM             5,656 0x041f.ini
+09/14/2005  01:36 AM             3,841 0x0804.ini
+01/31/2006  10:44 AM           150,016 1028.mst
+01/31/2006  10:44 AM            87,552 1029.mst
+01/31/2006  10:44 AM            77,312 1030.mst
+01/31/2006  10:44 AM            92,160 1031.mst
+01/31/2006  10:44 AM           131,072 1032.mst
+01/31/2006  10:44 AM             3,584 1033.mst
+01/31/2006  10:44 AM            83,456 1034.mst
+01/31/2006  10:44 AM            97,792 1035.mst
+01/31/2006  10:44 AM            95,744 1036.mst
+01/31/2006  10:44 AM           100,864 1038.mst
+01/31/2006  10:44 AM            79,872 1040.mst
+01/31/2006  10:44 AM           138,752 1041.mst
+01/31/2006  10:44 AM           264,704 1042.mst
+01/31/2006  10:44 AM            91,136 1043.mst
+01/31/2006  10:44 AM            75,264 1044.mst
+01/31/2006  10:44 AM            75,264 1045.mst
+01/31/2006  10:44 AM            89,600 1046.mst
+01/31/2006  10:44 AM           113,152 1049.mst
+01/31/2006  10:44 AM           105,984 1053.mst
+01/31/2006  10:44 AM            92,672 1055.mst
+01/31/2006  10:44 AM           143,872 2052.mst
+01/31/2006  10:44 AM           168,037 EBAY.cab
+01/31/2006  10:44 AM         3,640,189 ImageZoneExpress.cab
+01/31/2006  10:46 AM         1,332,224 ImageZoneExpress.msi
+07/19/2005  10:17 AM           340,035 Lang1025.cab
+01/31/2006  10:46 AM           347,676 Lang1028.cab
+01/31/2006  10:46 AM           382,203 Lang1029.cab
+01/31/2006  10:47 AM           464,017 Lang1030.cab
+01/31/2006  10:47 AM           456,631 Lang1031.cab
+01/31/2006  10:47 AM           387,979 Lang1032.cab
+01/31/2006  10:47 AM           612,413 Lang1033.cab
+01/31/2006  10:47 AM           485,542 Lang1034.cab
+01/31/2006  10:47 AM           363,390 Lang1035.cab
+01/31/2006  10:48 AM           485,351 Lang1036.cab
+07/19/2005  10:22 AM           339,913 Lang1037.cab
+01/31/2006  10:48 AM           391,701 Lang1038.cab
+01/31/2006  10:48 AM           407,428 Lang1040.cab
+01/31/2006  10:48 AM           358,359 Lang1041.cab
+01/31/2006  10:48 AM           353,312 Lang1042.cab
+01/31/2006  10:48 AM           420,519 Lang1043.cab
+01/31/2006  10:49 AM           370,628 Lang1044.cab
+01/31/2006  10:49 AM           385,673 Lang1045.cab
+01/31/2006  10:49 AM           372,429 Lang1046.cab
+01/31/2006  10:49 AM           378,208 Lang1049.cab
+01/31/2006  10:49 AM           420,348 Lang1053.cab
+01/31/2006  10:50 AM           379,093 Lang1055.cab
+01/31/2006  10:50 AM           332,817 Lang2052.cab
+01/31/2006  10:50 AM           494,531 Lang2057.cab
+02/11/2006  07:49 AM         4,479,488 PhotobackPluginSetup.exe
+              70 File(s)     21,658,986 bytes
+
+ Directory of G:\setup\instantsharedevices
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:28 PM         4,533,768 InstantShareDevices.cab
+02/19/2006  11:28 PM           609,272 InstantShareDevices.msi
+               2 File(s)      5,143,040 bytes
+
+ Directory of G:\setup\instantsharedevicesmfc
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/03/2006  11:36 PM         2,019,865 InstantShareDevicesMFC.cab
+02/19/2006  11:28 PM           344,180 InstantShareDevicesMFC.msi
+               2 File(s)      2,364,045 bytes
+
+ Directory of G:\setup\langpacks
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          esn
+03/10/2006  12:55 AM    <DIR>          fra
+03/10/2006  12:55 AM    <DIR>          ptb
+               0 File(s)              0 bytes
+
+ Directory of G:\setup\langpacks\esn
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+08/23/2005  06:57 AM           893,122 langpac1.cab
+08/23/2005  06:57 AM           384,000 langpack.msi
+               2 File(s)      1,277,122 bytes
+
+ Directory of G:\setup\langpacks\fra
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+08/23/2005  06:57 AM           907,734 langpac1.cab
+08/23/2005  06:57 AM           387,072 langpack.msi
+               2 File(s)      1,294,806 bytes
+
+ Directory of G:\setup\langpacks\ptb
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+08/23/2005  06:57 AM           641,230 langpac1.cab
+08/23/2005  06:57 AM           379,392 langpack.msi
+               2 File(s)      1,020,622 bytes
+
+ Directory of G:\setup\marketresearch
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:28 PM           688,665 MarketResearch.cab
+02/19/2006  11:28 PM           478,208 marketresearch.msi
+               2 File(s)      1,166,873 bytes
+
+ Directory of G:\setup\newcopy
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:37 AM         3,724,587 newcopy_CDA.cab
+03/10/2006  12:51 AM           437,096 newcopy_CDA.msi
+               2 File(s)      4,161,683 bytes
+
+ Directory of G:\setup\panostandalone
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/03/2006  11:36 PM         1,059,555 PanoStandalone.cab
+02/19/2006  11:28 PM           339,192 panostandalone.msi
+               2 File(s)      1,398,747 bytes
+
+ Directory of G:\setup\photogallery
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:28 PM        84,848,028 PhotoGallery.cab
+02/19/2006  11:30 PM         1,796,096 PhotoGallery.msi
+               2 File(s)     86,644,124 bytes
+
+ Directory of G:\setup\product
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+01/08/2006  09:15 AM             3,584 1025.mst
+06/27/2003  06:29 AM            13,312 1028.mst
+06/16/2003  04:41 AM            18,432 1029.mst
+06/16/2003  04:41 AM            18,432 1030.mst
+06/16/2003  04:41 AM            21,504 1031.mst
+06/16/2003  04:41 AM            21,504 1032.mst
+06/16/2003  04:41 AM             3,584 1033.mst
+06/16/2003  04:41 AM            19,968 1034.mst
+06/28/2003  05:45 AM            18,432 1035.mst
+06/16/2003  04:41 AM            20,480 1036.mst
+01/08/2006  09:16 AM             3,584 1037.mst
+06/16/2003  04:41 AM            19,968 1038.mst
+06/16/2003  04:41 AM            19,968 1040.mst
+07/02/2003  08:15 AM            19,456 1041.mst
+06/27/2003  06:30 AM            17,408 1042.mst
+06/16/2003  04:41 AM            19,968 1043.mst
+06/16/2003  04:41 AM            17,920 1044.mst
+06/16/2003  04:41 AM            18,432 1045.mst
+06/16/2003  04:41 AM            18,944 1046.mst
+06/16/2003  04:41 AM            17,920 1049.mst
+06/16/2003  04:41 AM            17,920 1053.mst
+06/16/2003  04:56 AM            17,920 1055.mst
+06/27/2003  06:30 AM            13,824 2052.mst
+03/10/2006  12:32 AM            25,503 2570.cab
+03/10/2006  12:47 AM           245,880 2570.msi
+03/10/2006  12:31 AM            25,503 3100.cab
+03/10/2006  12:50 AM           245,880 3100.msi
+03/10/2006  12:31 AM            25,503 3200.cab
+03/10/2006  12:50 AM           245,880 3200.msi
+03/10/2006  12:32 AM            25,503 3300.cab
+03/10/2006  12:51 AM           245,880 3300.msi
+03/10/2006  12:46 AM           241,152 4300.msi
+03/10/2006  12:46 AM           241,152 6300.msi
+03/10/2006  12:46 AM           241,152 F300.msi
+03/10/2006  12:52 AM           241,152 c3100.msi
+03/10/2006  12:52 AM           241,152 c4100.msi
+03/10/2006  12:45 AM            25,503 c5100.cab
+03/10/2006  12:52 AM           245,880 c5100.msi
+03/10/2006  12:45 AM            25,503 c6100.cab
+03/10/2006  12:52 AM           245,880 c6100.msi
+03/10/2006  12:45 AM            25,503 c7100.cab
+03/10/2006  12:52 AM           245,880 c7100.msi
+              42 File(s)      3,487,905 bytes
+
+ Directory of G:\setup\productcontextnpi
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:33 AM         1,730,975 ProductContextNPI.cab
+03/10/2006  12:51 AM         1,940,992 ProductContextNPI.msi
+               2 File(s)      3,671,967 bytes
+
+ Directory of G:\setup\ptb
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+10/23/2004  05:08 AM           493,384 ie6setup.exe
+               1 File(s)        493,384 bytes
+
+ Directory of G:\setup\qfolder
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+01/12/2006  03:00 AM           124,928 CustomerResearchQFolder.msi
+01/12/2006  03:00 AM           124,928 DeviceManagementQFolder.msi
+01/12/2006  03:00 AM           124,928 DocumentViewerQFolder.msi
+01/12/2006  03:00 AM           124,928 FullDPAppQFolder.msi
+01/12/2006  03:00 AM           121,344 OCRQFolder.msi
+01/12/2006  03:00 AM           123,904 OptionalContentQFolder.msi
+08/23/2005  06:57 AM           177,152 QFolder.msi
+01/12/2006  03:00 AM           124,928 RemotePrintQFolder.msi
+01/12/2006  03:00 AM           124,928 eSupportQFolder.msi
+               9 File(s)      1,171,968 bytes
+
+ Directory of G:\setup\randmap
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:30 PM        12,806,213 RandMap.cab
+02/19/2006  11:30 PM           314,368 RandMap.msi
+               2 File(s)     13,120,581 bytes
+
+ Directory of G:\setup\readme
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:49 AM           204,800 Readme.msi
+03/10/2006  12:56 AM    <DIR>          readme
+               1 File(s)        204,800 bytes
+
+ Directory of G:\setup\readme\readme
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:54 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          1033
+03/10/2006  12:56 AM    <DIR>          1034
+03/10/2006  12:55 AM    <DIR>          1036
+03/10/2006  12:54 AM    <DIR>          1046
+               0 File(s)              0 bytes
+
+ Directory of G:\setup\readme\readme\1033
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/11/2006  03:39 AM            61,551 Readme.html
+               1 File(s)         61,551 bytes
+
+ Directory of G:\setup\readme\readme\1034
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/11/2006  04:45 AM            63,861 Readme.html
+               1 File(s)         63,861 bytes
+
+ Directory of G:\setup\readme\readme\1036
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/11/2006  04:45 AM            68,816 Readme.html
+               1 File(s)         68,816 bytes
+
+ Directory of G:\setup\readme\readme\1046
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/11/2006  04:45 AM            61,823 Readme.html
+               1 File(s)         61,823 bytes
+
+ Directory of G:\setup\redisco
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/19/2005  07:38 AM            28,672 hpzjfw01.dll
+02/11/2006  09:28 AM           139,264 hpzjrd01.dll
+07/19/2005  07:38 AM            98,304 hpzjsn01.dll
+07/19/2005  06:55 AM                20 test.txt
+07/19/2005  07:39 AM            50,688 wsnmp32.dll
+               5 File(s)        316,948 bytes
+
+ Directory of G:\setup\scan
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/18/2006  01:07 PM        21,431,219 Data1.cab
+02/18/2006  01:25 PM           794,740 Scan.msi
+               2 File(s)     22,225,959 bytes
+
+ Directory of G:\setup\scannercopy
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/16/2006  02:08 PM        13,237,944 Data1.cab
+02/16/2006  02:06 PM           316,268 ScannerCopy.msi
+               2 File(s)     13,554,212 bytes
+
+ Directory of G:\setup\sipm
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/04/2006  05:33 PM            30,208 1025.mst
+02/04/2006  05:33 PM            30,208 1028.mst
+02/04/2006  05:33 PM            40,448 1029.mst
+02/04/2006  05:33 PM            39,936 1030.mst
+02/04/2006  05:34 PM            45,056 1031.mst
+02/04/2006  05:34 PM            45,056 1032.mst
+02/04/2006  05:34 PM             3,584 1033.mst
+02/04/2006  05:34 PM            43,008 1034.mst
+02/04/2006  05:34 PM            39,936 1035.mst
+02/04/2006  05:34 PM            44,544 1036.mst
+02/04/2006  05:34 PM            28,160 1037.mst
+02/04/2006  05:34 PM            43,520 1038.mst
+02/04/2006  05:35 PM            45,056 1040.mst
+02/04/2006  05:35 PM            43,008 1041.mst
+02/04/2006  05:35 PM            38,400 1042.mst
+02/04/2006  05:35 PM            44,544 1043.mst
+02/04/2006  05:35 PM            39,936 1044.mst
+02/04/2006  05:35 PM            40,960 1045.mst
+02/04/2006  05:35 PM            41,984 1046.mst
+02/04/2006  05:35 PM            39,936 1049.mst
+02/04/2006  05:35 PM            39,936 1051.mst
+02/04/2006  05:35 PM            39,424 1053.mst
+02/04/2006  05:36 PM            38,400 1054.mst
+02/04/2006  05:36 PM            39,936 1055.mst
+02/04/2006  05:36 PM            31,232 2052.mst
+10/27/2005  04:41 PM            41,984 2070.mst
+02/04/2006  05:36 PM         1,229,312 HP_Standard_Port_Monitor.msi
+              27 File(s)      2,227,712 bytes
+
+ Directory of G:\setup\skinshp1
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:30 PM             1,627 SkinsHP1.cab
+02/19/2006  11:30 PM           303,104 SkinsHP1.msi
+               2 File(s)        304,731 bytes
+
+ Directory of G:\setup\slideshow
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/11/2006  11:39 PM         5,987,832 SlideShow.cab
+02/19/2006  11:30 PM         4,443,488 SlideShow.msi
+               2 File(s)     10,431,320 bytes
+
+ Directory of G:\setup\solutioncenter
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:30 PM        17,473,445 SolutionCenter.cab
+02/19/2006  11:30 PM           667,136 SolutionCenter.msi
+               2 File(s)     18,140,581 bytes
+
+ Directory of G:\setup\sonic_primosdk
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+12/06/2005  11:11 PM         1,061,910 sonic_primosdk.cab
+02/19/2006  11:30 PM           389,808 sonic_primosdk.msi
+               2 File(s)      1,451,718 bytes
+
+ Directory of G:\setup\status
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:30 PM         3,872,650 status.cab
+02/19/2006  11:31 PM           467,568 status.msi
+               2 File(s)      4,340,218 bytes
+
+ Directory of G:\setup\toolbox
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:31 PM         5,086,841 Toolbox.cab
+02/19/2006  11:31 PM           325,632 Toolbox.msi
+               2 File(s)      5,412,473 bytes
+
+ Directory of G:\setup\trayapp
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:31 PM           870,196 TrayApp.cab
+02/19/2006  11:31 PM           488,584 TrayApp.msi
+               2 File(s)      1,358,780 bytes
+
+ Directory of G:\setup\unloadintent
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/10/2006  03:51 PM        19,086,021 Data1.cab
+02/10/2006  03:49 PM         3,155,636 Unload.msi
+               2 File(s)     22,241,657 bytes
+
+ Directory of G:\setup\webreg
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/19/2006  11:31 PM         3,774,486 WebReg.cab
+02/19/2006  11:31 PM           429,568 WebReg.msi
+               2 File(s)      4,204,054 bytes
+
+ Directory of G:\setup\wis
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:55 AM    <DIR>          win2k_xp
+03/10/2006  12:55 AM    <DIR>          win9x
+               0 File(s)              0 bytes
+
+ Directory of G:\setup\wis\win2k_xp
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+08/23/2005  06:57 AM         1,821,008 instmsi.exe
+               1 File(s)      1,821,008 bytes
+
+ Directory of G:\setup\wis\win9x
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:55 AM    <DIR>          ..
+08/23/2005  06:57 AM         1,707,856 instmsi.exe
+               1 File(s)      1,707,856 bytes
+
+ Directory of G:\slk
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\slk\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\slk\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            90,564 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,043,409 hpzr3214.dl_
+02/16/2006  03:17 AM           717,148 hpzrm314.dl_
+               4 File(s)      1,892,081 bytes
+
+ Directory of G:\slk\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           711,576 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        762,628 bytes
+
+ Directory of G:\svc
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\svc\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\svc\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:46 AM            88,905 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,038,474 hpzr3214.dl_
+02/16/2006  03:17 AM           715,339 hpzrm314.dl_
+               4 File(s)      1,883,678 bytes
+
+ Directory of G:\svc\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           710,429 hpzrm114.dl_
+02/01/2006  07:46 AM            12,288 usbmon.dll
+02/01/2006  07:46 AM            22,608 usbprint.sys
+               4 File(s)        761,481 bytes
+
+ Directory of G:\tha
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\tha\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\tha\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:47 AM            82,287 hpfmom14.hl_
+02/01/2006  07:46 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,038,105 hpzr3214.dl_
+02/16/2006  03:17 AM           715,986 hpzrm314.dl_
+               4 File(s)      1,877,338 bytes
+
+ Directory of G:\tha\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           710,326 hpzrm114.dl_
+02/01/2006  07:47 AM            12,288 usbmon.dll
+02/01/2006  07:47 AM            22,608 usbprint.sys
+               4 File(s)        761,378 bytes
+
+ Directory of G:\tur
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          drivers
+               0 File(s)              0 bytes
+
+ Directory of G:\tur\drivers
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          com_lang
+03/10/2006  12:56 AM    <DIR>          win9x_me
+               0 File(s)              0 bytes
+
+ Directory of G:\tur\drivers\com_lang
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:47 AM            91,027 hpfmom14.hl_
+02/01/2006  07:47 AM            40,960 hpofax08.dll
+02/16/2006  03:17 AM         1,039,019 hpzr3214.dl_
+02/16/2006  03:17 AM           715,903 hpzrm314.dl_
+               4 File(s)      1,886,909 bytes
+
+ Directory of G:\tur\drivers\win9x_me
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/01/2006  02:50 AM            16,156 hpoupdmn.inf
+02/16/2006  03:17 AM           710,670 hpzrm114.dl_
+02/01/2006  07:47 AM            12,288 usbmon.dll
+02/01/2006  07:47 AM            22,608 usbprint.sys
+               4 File(s)        761,722 bytes
+
+ Directory of G:\util
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:56 AM    <DIR>          aio
+03/10/2006  12:56 AM    <DIR>          ccc
+02/01/2006  07:47 AM            23,552 cfgmgr32.dll
+03/10/2006  12:56 AM    <DIR>          common
+02/01/2006  07:47 AM           327,072 setupapi.dll
+03/10/2006  12:54 AM    <DIR>          support_tools
+               2 File(s)        350,624 bytes
+
+ Directory of G:\util\aio
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:47 AM           339,968 hpopdi05.exe
+02/01/2006  07:47 AM           188,416 hpopin05.exe
+               2 File(s)        528,384 bytes
+
+ Directory of G:\util\ccc
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+07/10/2003  07:23 AM             1,104 1606fix.reg
+08/23/2005  06:58 AM           162,304 240075.exe
+08/23/2005  06:58 AM           149,656 270615USAM.EXE
+08/23/2005  06:58 AM           242,896 AccessDeniedUtility.exe
+08/23/2005  06:58 AM           192,512 FixErr1714.exe
+08/23/2005  06:58 AM           319,488 HPZlgc01.exe
+08/23/2005  06:58 AM           249,856 HPZprs01.exe
+08/04/2005  08:24 AM            34,400 MediaSizeSettings.exe
+08/23/2005  06:58 AM           164,432 Q256858_W2K_SP1_x86.EXE
+08/23/2005  06:58 AM           103,664 Q283787_W2K_SP3_x86_en.EXE
+02/01/2006  06:35 PM             3,774 Uninstall.bat
+02/01/2006  06:35 PM             3,915 Uninstall_64.bat
+02/01/2006  06:35 PM             2,487 Uninstall_L1.bat
+02/01/2006  06:35 PM             2,607 Uninstall_L1_64.bat
+02/01/2006  06:35 PM             2,377 Uninstall_L2.bat
+02/01/2006  06:35 PM             2,497 Uninstall_L2_64.bat
+02/01/2006  06:35 PM             2,918 Uninstall_L3.bat
+02/01/2006  06:35 PM             3,038 Uninstall_L3_64.bat
+02/01/2006  06:35 PM             3,346 Uninstall_L4.bat
+02/01/2006  06:35 PM             3,466 Uninstall_L4_64.bat
+07/15/2003  06:14 AM                31 afs2k_install.bat
+07/15/2003  06:00 AM                19 afs2k_remove.bat
+07/29/2003  04:54 AM         1,526,112 afsinst.exe
+07/21/2005  04:22 AM                30 collect.bat
+03/10/2006  12:53 AM    <DIR>          enu
+03/10/2006  12:55 AM    <DIR>          esn
+03/10/2006  12:56 AM    <DIR>          fra
+05/23/2003  11:54 PM                88 hposcrlr.bat
+07/21/2005  04:33 AM             2,601 hpzlgc01.dat
+03/10/2006  12:53 AM    <DIR>          ptb
+              26 File(s)      3,179,618 bytes
+
+ Directory of G:\util\ccc\enu
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+05/08/2002  05:05 AM           103,664 Q283787_W2K_SP3_x86.EXE
+03/05/2004  01:41 AM           349,472 WindowsXP-KB822603-x86-enu.exe
+               2 File(s)        453,136 bytes
+
+ Directory of G:\util\ccc\esn
+
+03/10/2006  12:55 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+05/08/2002  05:05 AM           149,920 Q283787_W2K_SP3_x86.EXE
+08/06/2004  12:15 AM           352,032 WindowsXP-KB822603-x86-esn.exe
+               2 File(s)        501,952 bytes
+
+ Directory of G:\util\ccc\fra
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+05/08/2002  05:05 AM           135,584 Q283787_W2K_SP3_x86.EXE
+03/05/2004  01:41 AM           352,032 WindowsXP-KB822603-x86-fra.exe
+               2 File(s)        487,616 bytes
+
+ Directory of G:\util\ccc\ptb
+
+03/10/2006  12:53 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+05/08/2002  05:05 AM           137,120 Q283787_W2K_SP3_x86.EXE
+03/05/2004  01:40 AM           351,520 WindowsXP-KB822603-x86-ptb.exe
+               2 File(s)        488,640 bytes
+
+ Directory of G:\util\common
+
+03/10/2006  12:56 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+02/01/2006  07:47 AM           229,376 hpfpdi14.exe
+03/09/2006  08:03 PM            57,344 hpqisc09.exe
+02/01/2006  07:47 AM           196,608 hpzghl14.exe
+02/01/2006  07:47 AM           176,128 hpzpin14.exe
+               4 File(s)        659,456 bytes
+
+ Directory of G:\util\support_tools
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:56 AM    <DIR>          ..
+03/10/2006  12:54 AM    <DIR>          msi_install_cleanup
+               0 File(s)              0 bytes
+
+ Directory of G:\util\support_tools\msi_install_cleanup
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:54 AM    <DIR>          ..
+03/10/2006  12:54 AM    <DIR>          win2000
+03/10/2006  12:54 AM    <DIR>          win9x
+               0 File(s)              0 bytes
+
+ Directory of G:\util\support_tools\msi_install_cleanup\win2000
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:54 AM    <DIR>          ..
+10/23/2001  01:12 AM           289,264 msicuu.exe
+               1 File(s)        289,264 bytes
+
+ Directory of G:\util\support_tools\msi_install_cleanup\win9x
+
+03/10/2006  12:54 AM    <DIR>          .
+03/10/2006  12:54 AM    <DIR>          ..
+10/23/2001  01:12 AM           285,168 msicu.exe
+               1 File(s)        285,168 bytes
+
+     Total Files Listed:
+            1323 File(s)    712,600,550 bytes
+             618 Dir(s)               0 bytes free

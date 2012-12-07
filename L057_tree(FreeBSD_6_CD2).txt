@@ -1,0 +1,1025 @@
+Folder PATH listing for volume FreeBSD_Packages
+Volume serial number is 016C-F602
+G:\
+|   cdrom.inf
+|   
+\---packages
+    |   INDEX
+    |   
+    +---All
+    |       ORBit2-2.14.3.tbz
+    |       OpenEXR-1.2.2_1.tbz
+    |       Xaw3d-1.5E_1.tbz
+    |       a2ps-letter-4.13b_3.tbz
+    |       aalib-1.4.r5_2.tbz
+    |       afterstep-1.0_1.tbz
+    |       akode-2.0.1,1.tbz
+    |       akode-plugins-mpc-2.0.1,1.tbz
+    |       akode-plugins-mpeg-2.0.1,1.tbz
+    |       akode-plugins-oss-2.0.1,1.tbz
+    |       akode-plugins-resampler-2.0.1,1.tbz
+    |       akode-plugins-xiph-2.0.1,1.tbz
+    |       alacarte-0.10.1.tbz
+    |       apr-db42-1.2.7_1.tbz
+    |       apsfilter-7.2.8.tbz
+    |       arts-1.5.4,1.tbz
+    |       artswrapper-1.5.3.tbz
+    |       asclock-1.0.tbz
+    |       aspell-0.60.4_4.tbz
+    |       at-spi-1.7.12.tbz
+    |       atk-1.12.3.tbz
+    |       avahi-0.6.14.tbz
+    |       bash-2.05b.007_6.tbz
+    |       bash-3.1.17.tbz
+    |       boost-python-1.33.1_2.tbz
+    |       bug-buddy-2.16.0_2.tbz
+    |       ca-roots-1.2.tbz
+    |       cairo-1.2.4.tbz
+    |       cdparanoia-3.9.8_8.tbz
+    |       cdrtools-2.01_5.tbz
+    |       cups-base-1.2.2.tbz
+    |       curl-7.15.5.tbz
+    |       cvsup-without-gui-16.1h_2.tbz
+    |       cyrus-sasl-2.1.22.tbz
+    |       dasher-4.2.0,1.tbz
+    |       db4-4.0.14_1,1.tbz
+    |       db41-4.1.25_3.tbz
+    |       db42-4.2.52_4.tbz
+    |       dbus-0.93_3.tbz
+    |       dbus-glib-0.71.tbz
+    |       deskbar-applet-2.16.1.tbz
+    |       desktop-file-utils-0.11.tbz
+    |       dmidecode-2.8.tbz
+    |       docbook-sk-4.1.2_3.tbz
+    |       docbook-xml-4.2_1.tbz
+    |       docbook-xml-4.3.tbz
+    |       docbook-xml-4.4.tbz
+    |       docbook-xsl-1.70.1.tbz
+    |       dvd+rw-tools-6.1.tbz
+    |       eel-2.16.0_1.tbz
+    |       ekiga-2.0.2_5.tbz
+    |       emacs-21.3_9.tbz
+    |       eog-2.16.1.tbz
+    |       epiphany-2.16.1_1.tbz
+    |       esound-0.2.36_1.tbz
+    |       evince-0.6.1.tbz
+    |       evolution-2.8.1.1.tbz
+    |       evolution-data-server-1.8.1_1.tbz
+    |       evolution-exchange-2.8.1.tbz
+    |       evolution-webcal-2.8.0.tbz
+    |       exim-4.63.tbz
+    |       fast-user-switch-applet-2.16.0.tbz
+    |       fetchmail-6.3.4_3.tbz
+    |       fftw3-3.1.2.tbz
+    |       file-roller-2.16.1,1.tbz
+    |       firefox-1.5.0.8,1.tbz
+    |       flac-1.1.2_1.tbz
+    |       fribidi-0.10.7.tbz
+    |       fvwm-2.4.19.tbz
+    |       gail-1.9.3.tbz
+    |       gamin-0.1.7_2.tbz
+    |       gcalctool-5.8.24,2.tbz
+    |       gconf-editor-2.16.0,1.tbz
+    |       gconf2-2.16.0.tbz
+    |       gdbm-1.8.3_2.tbz
+    |       gdl-0.6.1_1.tbz
+    |       gdm-2.16.1_1.tbz
+    |       gedit-2.16.1.tbz
+    |       gettext-0.14.5_2.tbz
+    |       ghostscript-gnu-7.07_15.tbz
+    |       ghostscript-gnu-nox11-7.07_15.tbz
+    |       gle-3.1.0.tbz
+    |       glib-1.2.10_12.tbz
+    |       glib-2.12.4.tbz
+    |       gmake-3.81_1.tbz
+    |       gmime-2.2.3.tbz
+    |       gmime-sharp-2.2.3.tbz
+    |       gnome-applets-2.16.1_1.tbz
+    |       gnome-audio-2.0.0_1.tbz
+    |       gnome-backgrounds-2.16.1.tbz
+    |       gnome-control-center-2.16.1.tbz
+    |       gnome-desktop-2.16.1.tbz
+    |       gnome-doc-utils-0.7.2_1.tbz
+    |       gnome-games-2.16.1.tbz
+    |       gnome-icon-theme-2.16.0.1_1.tbz
+    |       gnome-keyring-0.6.0.tbz
+    |       gnome-keyring-manager-2.16.0.tbz
+    |       gnome-mag-0.13.1_1.tbz
+    |       gnome-media-2.16.0.tbz
+    |       gnome-menus-2.16.1.tbz
+    |       gnome-mime-data-2.4.2_2.tbz
+    |       gnome-mount-0.4_1.tbz
+    |       gnome-netstatus-2.12.0_3.tbz
+    |       gnome-nettool-2.16.0,1.tbz
+    |       gnome-panel-2.16.1.tbz
+    |       gnome-power-manager-2.16.1.tbz
+    |       gnome-screensaver-2.16.1_1.tbz
+    |       gnome-session-2.16.1_1.tbz
+    |       gnome-speech-0.4.4.tbz
+    |       gnome-spell-1.0.7_2.tbz
+    |       gnome-system-monitor-2.16.1_1.tbz
+    |       gnome-system-tools-2.14.0_1.tbz
+    |       gnome-terminal-2.16.1_1.tbz
+    |       gnome-themes-2.16.1.1.tbz
+    |       gnome-user-docs-2.16.1.tbz
+    |       gnome-utils-2.16.1,1.tbz
+    |       gnome-vfs-2.16.1.tbz
+    |       gnome-volume-manager-2.15.0.tbz
+    |       gnome2-2.16.1_2.tbz
+    |       gnomehier-2.2.tbz
+    |       gnu-autoconf-2.59.tbz
+    |       gnu-automake-1.9.6.tbz
+    |       gnupg-1.4.5_1.tbz
+    |       gnutls-1.4.4_1.tbz
+    |       gok-1.2.0_1,1.tbz
+    |       gpgme-1.1.2_1.tbz
+    |       gsfonts-8.11_2.tbz
+    |       gstreamer-0.10.10_1.tbz
+    |       gstreamer-ffmpeg-0.10.1_1.tbz
+    |       gstreamer-plugins-0.10.10,2.tbz
+    |       gstreamer-plugins-a52dec-0.10.4_1,2.tbz
+    |       gstreamer-plugins-cdparanoia-0.10.10_2,2.tbz
+    |       gstreamer-plugins-core-0.10_7.tbz
+    |       gstreamer-plugins-dts-0.10.3_1,2.tbz
+    |       gstreamer-plugins-dvd-0.10.4,2.tbz
+    |       gstreamer-plugins-esound-0.10.4_1,2.tbz
+    |       gstreamer-plugins-flac-0.10.4_1,2.tbz
+    |       gstreamer-plugins-gconf-0.10.4_3,2.tbz
+    |       gstreamer-plugins-gnomevfs-0.10.10_1,2.tbz
+    |       gstreamer-plugins-good-0.10.4_4,2.tbz
+    |       gstreamer-plugins-hal-0.10.4,2.tbz
+    |       gstreamer-plugins-libpng-0.10.4_1,2.tbz
+    |       gstreamer-plugins-mad-0.10.4_2,2.tbz
+    |       gstreamer-plugins-mpeg2dec-0.10.4_1,2.tbz
+    |       gstreamer-plugins-ogg-0.10.10_1,2.tbz
+    |       gstreamer-plugins-pango-0.10.10_1,2.tbz
+    |       gstreamer-plugins-theora-0.10.10_2,2.tbz
+    |       gstreamer-plugins-ugly-0.10.4_2,2.tbz
+    |       gstreamer-plugins-vorbis-0.10.10_1,2.tbz
+    |       gstreamer-plugins-xvid-0.10.3,2.tbz
+    |       gstreamer80-0.8.12_2.tbz
+    |       gtar-1.15.1_2.tbz
+    |       gtk-2.10.6_2.tbz
+    |       gtk-engines2-2.8.1.tbz
+    |       gtk-sharp-2.8.2.tbz
+    |       gtkhtml3-3.12.1.tbz
+    |       gtksourceview-1.8.1.tbz
+    |       gtkspell-2.0.11_4.tbz
+    |       gucharmap-gnome-1.8.0.tbz
+    |       guile-1.6.8.tbz
+    |       gv-3.6.1.tbz
+    |       hal-0.5.8.20060917_2.tbz
+    |       hicolor-icon-theme-0.9_2.tbz
+    |       hpijs-2.1.4.tbz
+    |       intltool-0.35.0.tbz
+    |       iso-codes-0.53.tbz
+    |       ispell-3.2.06_15.tbz
+    |       jackit-0.101.1_1.tbz
+    |       jasper-1.701.0_1.tbz
+    |       jpeg-6b_4.tbz
+    |       kde-3.5.4.tbz
+    |       kde-xdg-env-1.0_1,1.tbz
+    |       kdeaccessibility-3.5.4.tbz
+    |       kdeadmin-3.5.4.tbz
+    |       kdeartwork-3.5.4_2.tbz
+    |       kdebase-3.5.4_4.tbz
+    |       kdebase-kompmgr-3.5.4.tbz
+    |       kdeedu-3.5.4.tbz
+    |       kdegames-3.5.4.tbz
+    |       kdegraphics-3.5.4.tbz
+    |       kdehier-1.0_11.tbz
+    |       kdelibs-3.5.4_4.tbz
+    |       kdemultimedia-3.5.4_1.tbz
+    |       kdenetwork-3.5.4.tbz
+    |       kdepim-3.5.4_1.tbz
+    |       kdesdk-3.5.4.tbz
+    |       kdetoys-3.5.4.tbz
+    |       kdeutils-3.5.4.tbz
+    |       kdevelop-3.3.4.tbz
+    |       kdewebdev-3.5.4,2.tbz
+    |       koffice-1.5.2,2.tbz
+    |       lcms-1.15_1,1.tbz
+    |       libIDL-0.8.7.tbz
+    |       liba52-0.7.4_1.tbz
+    |       libart_lgpl-2.3.17_1.tbz
+    |       libaudiofile-0.2.6.tbz
+    |       libbonobo-2.16.0_1.tbz
+    |       libbonoboui-2.16.0.tbz
+    |       libcddb-1.2.1_1.tbz
+    |       libcdio-0.77_1.tbz
+    |       libcroco-0.6.1.tbz
+    |       libdaemon-0.10_1.tbz
+    |       libdvdcss-1.2.9_2.tbz
+    |       libdvdnav-0.1.10_1.tbz
+    |       libdvdread-0.9.4_1.tbz
+    |       libexif-0.6.13.tbz
+    |       libgail-gnome-1.1.3_2.tbz
+    |       libgcrypt-1.2.3_1.tbz
+    |       libgda2-1.2.3_2,1.tbz
+    |       libgksu-1.3.8.tbz
+    |       libgksuui-1.0.7_1.tbz
+    |       libglade2-2.6.0_2.tbz
+    |       libglut-6.4.2.tbz
+    |       libgmp-4.2.1_1.tbz
+    |       libgnome-2.16.0.tbz
+    |       libgnomecanvas-2.14.0_2.tbz
+    |       libgnomeprint-2.12.1_3.tbz
+    |       libgnomeprintui-2.12.1_2.tbz
+    |       libgnomeui-2.16.1.tbz
+    |       libgpg-error-1.4.tbz
+    |       libgsf-1.14.2.tbz
+    |       libgtkhtml-2.11.0_2.tbz
+    |       libgtop-2.14.4.tbz
+    |       libiconv-1.9.2_2.tbz
+    |       libid3tag-0.15.1b.tbz
+    |       libidn-0.6.7.tbz
+    |       libltdl-1.5.22.tbz
+    |       libmad-0.15.1b_2.tbz
+    |       libmal-0.42_1.tbz
+    |       libmng-1.0.9.tbz
+    |       libmpeg2-0.4.0b_3.tbz
+    |       libmusicbrainz-2.1.4.tbz
+    |       libnotify-0.4.2_2.tbz
+    |       libogg-1.1.3,3.tbz
+    |       liboil-0.3.9_1.tbz
+    |       libpaper-1.1.14.3_1.tbz
+    |       librsvg2-2.16.0_1.tbz
+    |       libsamplerate-0.1.2_2.tbz
+    |       libslang-1.4.9.tbz
+    |       libsndfile-1.0.17.tbz
+    |       libsoup-2.2.96.tbz
+    |       libtasn1-0.3.6.tbz
+    |       libthai-0.1.5_1.tbz
+    |       libtheora-1.0.a7.tbz
+    |       libungif-4.1.4_1.tbz
+    |       libusb-0.1.12_1.tbz
+    |       libvorbis-1.1.2,3.tbz
+    |       libwnck-2.16.1.tbz
+    |       libwpd-0.8.4_1.tbz
+    |       libxklavier-2.91_4,1.tbz
+    |       libxml2-2.6.26.tbz
+    |       libxslt-1.1.17.tbz
+    |       linc-1.0.3_6.tbz
+    |       links-2.1.p21,1.tbz
+    |       lynx-2.8.5_2.tbz
+    |       m4-1.4.4.tbz
+    |       mDNSResponder-108.tbz
+    |       metacity-2.16.3.tbz
+    |       mime-support-3.37.1.tbz
+    |       mono-1.1.13.8.1.tbz
+    |       monodoc-1.1.13.tbz
+    |       mtools-3.9.10.tbz
+    |       mutt-1.4.2.2.tbz
+    |       mysql-client-5.0.27.tbz
+    |       nas-1.8.tbz
+    |       nautilus-2.16.1.tbz
+    |       nautilus-cd-burner-2.16.1.tbz
+    |       neon-0.25.5.tbz
+    |       net-snmp-5.2.3_3.tbz
+    |       nspr-4.6.3.tbz
+    |       nss-3.11.3.tbz
+    |       opal-2.2.2.tbz
+    |       openldap-client-2.3.27.tbz
+    |       openslp-1.2.1_2.tbz
+    |       orca-1.0.0.tbz
+    |       p5-XML-LibXML-1.61003_1.tbz
+    |       p5-XML-LibXML-Common-0.13.tbz
+    |       p5-XML-NamespaceSupport-1.09_1.tbz
+    |       p5-XML-Parser-2.34_2.tbz
+    |       p5-XML-SAX-0.14.tbz
+    |       pango-1.14.7.tbz
+    |       pciids-20060929.tbz
+    |       pcre-6.7.tbz
+    |       pdksh-5.2.14p2_1.tbz
+    |       pico-4.64.tbz
+    |       pilot-link-0.12.1_1,1.tbz
+    |       pine-4.64.tbz
+    |       policykit-0.1.20060514_2.tbz
+    |       popd-2.2.2a_4.tbz
+    |       poppler-0.5.4_1.tbz
+    |       poppler-data-0.1.tbz
+    |       poppler-gtk-0.5.4.tbz
+    |       poppler-qt-0.5.4.tbz
+    |       popt-1.7_1.tbz
+    |       portaudio-18.1_2.tbz
+    |       portaudit-0.5.11.tbz
+    |       portupgrade-2.1.3.3_1,2.tbz
+    |       postfix-2.3.3,1.tbz
+    |       postgresql-client-7.4.13.tbz
+    |       postgresql-libpqxx-2.6.7.tbz
+    |       psutils-letter-1.17_2.tbz
+    |       pwlib-1.10.1_2,1.tbz
+    |       py24-cairo-1.2.2.tbz
+    |       py24-gnome-2.16.0.tbz
+    |       py24-gnome-desktop-2.16.0.tbz
+    |       py24-gnome-extras-2.14.2.tbz
+    |       py24-gobject-2.12.2.tbz
+    |       py24-gtk-2.10.3.tbz
+    |       py24-libxml2-2.6.26.tbz
+    |       py24-numeric-24.2.tbz
+    |       py24-orbit-2.14.1.tbz
+    |       python24-2.4.3_3.tbz
+    |       qt-3.3.6_3.tbz
+    |       rsync-2.6.8_2.tbz
+    |       ruby-1.8.5_3,1.tbz
+    |       ruby18-bdb-0.5.9_2.tbz
+    |       rxvt-2.6.4_2.tbz
+    |       samba-3.0.23c_2,1.tbz
+    |       samba-libsmbclient-3.0.23c.tbz
+    |       scrollkeeper-0.3.14_5,1.tbz
+    |       sdl-1.2.11,2.tbz
+    |       sdocbook-xml-4.1.2.5_2.tbz
+    |       shared-mime-info-0.19.tbz
+    |       slrn-0.9.8.1.tbz
+    |       sound-juicer-2.16.1.tbz
+    |       speex-1.0.5_1,1.tbz
+    |       startup-notification-0.8_3.tbz
+    |       subversion-1.4.0_1.tbz
+    |       sudo-1.6.8.12_1.tbz
+    |       svgalib-1.4.3_5.tbz
+    |       system-tools-backends-1.4.2_2.tbz
+    |       taglib-1.4_2.tbz
+    |       tidy-20000804_2.tbz
+    |       tiff-3.8.2.tbz
+    |       tin-1.8.2.tbz
+    |       tomboy-0.4.1_2.tbz
+    |       totem-gstreamer-2.16.2_2.tbz
+    |       unzip-5.52_2.tbz
+    |       urlview-0.9_2.tbz
+    |       uulib-0.5.20_1.tbz
+    |       vim-lite-7.0.94.tbz
+    |       vino-2.16.0.tbz
+    |       vte-0.14.1_1.tbz
+    |       windowmaker-0.92.0_2.tbz
+    |       wmicons-1.0.tbz
+    |       wv2-0.2.2_3.tbz
+    |       xchat-2.6.6_3.tbz
+    |       xearth-1.1.tbz
+    |       xfmail-1.5.5_5.tbz
+    |       xforms-1.0_3,1.tbz
+    |       xmlcatmgr-2.2.tbz
+    |       xscreensaver-gnome-hacks-4.24_1.tbz
+    |       xv-3.10a_6.tbz
+    |       xvid-1.1.0,1.tbz
+    |       yelp-2.16.1_1.tbz
+    |       zenity-2.16.1.tbz
+    |       zsh-4.3.2_1.tbz
+    |       
+    +---accessibility
+    |       at-spi-1.7.12.tbz
+    |       atk-1.12.3.tbz
+    |       dasher-4.2.0,1.tbz
+    |       gail-1.9.3.tbz
+    |       gnome-mag-0.13.1_1.tbz
+    |       gnome-speech-0.4.4.tbz
+    |       gok-1.2.0_1,1.tbz
+    |       kdeaccessibility-3.5.4.tbz
+    |       orca-1.0.0.tbz
+    |       
+    +---afterstep
+    |       afterstep-1.0_1.tbz
+    |       asclock-1.0.tbz
+    |       
+    +---archivers
+    |       file-roller-2.16.1,1.tbz
+    |       gtar-1.15.1_2.tbz
+    |       unzip-5.52_2.tbz
+    |       
+    +---astro
+    |       xearth-1.1.tbz
+    |       
+    +---audio
+    |       akode-2.0.1,1.tbz
+    |       akode-plugins-mpc-2.0.1,1.tbz
+    |       akode-plugins-mpeg-2.0.1,1.tbz
+    |       akode-plugins-oss-2.0.1,1.tbz
+    |       akode-plugins-resampler-2.0.1,1.tbz
+    |       akode-plugins-xiph-2.0.1,1.tbz
+    |       arts-1.5.4,1.tbz
+    |       artswrapper-1.5.3.tbz
+    |       cdparanoia-3.9.8_8.tbz
+    |       cdrtools-2.01_5.tbz
+    |       esound-0.2.36_1.tbz
+    |       flac-1.1.2_1.tbz
+    |       gnome-audio-2.0.0_1.tbz
+    |       gnome-media-2.16.0.tbz
+    |       gnome-speech-0.4.4.tbz
+    |       gstreamer-plugins-0.10.10,2.tbz
+    |       gstreamer-plugins-a52dec-0.10.4_1,2.tbz
+    |       gstreamer-plugins-cdparanoia-0.10.10_2,2.tbz
+    |       gstreamer-plugins-core-0.10_7.tbz
+    |       gstreamer-plugins-esound-0.10.4_1,2.tbz
+    |       gstreamer-plugins-flac-0.10.4_1,2.tbz
+    |       gstreamer-plugins-mad-0.10.4_2,2.tbz
+    |       gstreamer-plugins-ogg-0.10.10_1,2.tbz
+    |       gstreamer-plugins-vorbis-0.10.10_1,2.tbz
+    |       jackit-0.101.1_1.tbz
+    |       liba52-0.7.4_1.tbz
+    |       libaudiofile-0.2.6.tbz
+    |       libcddb-1.2.1_1.tbz
+    |       libid3tag-0.15.1b.tbz
+    |       libmad-0.15.1b_2.tbz
+    |       libmusicbrainz-2.1.4.tbz
+    |       libogg-1.1.3,3.tbz
+    |       libsamplerate-0.1.2_2.tbz
+    |       libsndfile-1.0.17.tbz
+    |       libvorbis-1.1.2,3.tbz
+    |       nas-1.8.tbz
+    |       portaudio-18.1_2.tbz
+    |       sound-juicer-2.16.1.tbz
+    |       speex-1.0.5_1,1.tbz
+    |       taglib-1.4_2.tbz
+    |       
+    +---comms
+    |       pilot-link-0.12.1_1,1.tbz
+    |       
+    +---converters
+    |       fribidi-0.10.7.tbz
+    |       libiconv-1.9.2_2.tbz
+    |       uulib-0.5.20_1.tbz
+    |       
+    +---databases
+    |       db4-4.0.14_1,1.tbz
+    |       db41-4.1.25_3.tbz
+    |       db42-4.2.52_4.tbz
+    |       evolution-data-server-1.8.1_1.tbz
+    |       gdbm-1.8.3_2.tbz
+    |       libgda2-1.2.3_2,1.tbz
+    |       mysql-client-5.0.27.tbz
+    |       openldap-client-2.3.27.tbz
+    |       postgresql-client-7.4.13.tbz
+    |       postgresql-libpqxx-2.6.7.tbz
+    |       ruby18-bdb-0.5.9_2.tbz
+    |       
+    +---deskutils
+    |       alacarte-0.10.1.tbz
+    |       deskbar-applet-2.16.1.tbz
+    |       gnome-utils-2.16.1,1.tbz
+    |       gucharmap-gnome-1.8.0.tbz
+    |       kdepim-3.5.4_1.tbz
+    |       tomboy-0.4.1_2.tbz
+    |       
+    +---devel
+    |       ORBit2-2.14.3.tbz
+    |       OpenEXR-1.2.2_1.tbz
+    |       apr-db42-1.2.7_1.tbz
+    |       atk-1.12.3.tbz
+    |       boost-python-1.33.1_2.tbz
+    |       bug-buddy-2.16.0_2.tbz
+    |       cvsup-without-gui-16.1h_2.tbz
+    |       dbus-0.93_3.tbz
+    |       dbus-glib-0.71.tbz
+    |       desktop-file-utils-0.11.tbz
+    |       gamin-0.1.7_2.tbz
+    |       gconf2-2.16.0.tbz
+    |       gettext-0.14.5_2.tbz
+    |       glib-1.2.10_12.tbz
+    |       glib-2.12.4.tbz
+    |       gmake-3.81_1.tbz
+    |       gnome-vfs-2.16.1.tbz
+    |       gnu-autoconf-2.59.tbz
+    |       gnu-automake-1.9.6.tbz
+    |       gstreamer-plugins-gconf-0.10.4_3,2.tbz
+    |       gstreamer-plugins-gnomevfs-0.10.10_1,2.tbz
+    |       kdesdk-3.5.4.tbz
+    |       kdevelop-3.3.4.tbz
+    |       libIDL-0.8.7.tbz
+    |       libbonobo-2.16.0_1.tbz
+    |       libdaemon-0.10_1.tbz
+    |       libglade2-2.6.0_2.tbz
+    |       libgmp-4.2.1_1.tbz
+    |       libgpg-error-1.4.tbz
+    |       libgsf-1.14.2.tbz
+    |       libgtop-2.14.4.tbz
+    |       libiconv-1.9.2_2.tbz
+    |       libltdl-1.5.22.tbz
+    |       libnotify-0.4.2_2.tbz
+    |       liboil-0.3.9_1.tbz
+    |       libslang-1.4.9.tbz
+    |       libsoup-2.2.96.tbz
+    |       libthai-0.1.5_1.tbz
+    |       libusb-0.1.12_1.tbz
+    |       m4-1.4.4.tbz
+    |       monodoc-1.1.13.tbz
+    |       nspr-4.6.3.tbz
+    |       pcre-6.7.tbz
+    |       popt-1.7_1.tbz
+    |       pwlib-1.10.1_2,1.tbz
+    |       py24-gobject-2.12.2.tbz
+    |       py24-orbit-2.14.1.tbz
+    |       sdl-1.2.11,2.tbz
+    |       subversion-1.4.0_1.tbz
+    |       svgalib-1.4.3_5.tbz
+    |       
+    +---dns
+    |       avahi-0.6.14.tbz
+    |       libidn-0.6.7.tbz
+    |       mDNSResponder-108.tbz
+    |       
+    +---editors
+    |       dasher-4.2.0,1.tbz
+    |       emacs-21.3_9.tbz
+    |       gedit-2.16.1.tbz
+    |       koffice-1.5.2,2.tbz
+    |       pico-4.64.tbz
+    |       vim-lite-7.0.94.tbz
+    |       
+    +---emulators
+    |       mtools-3.9.10.tbz
+    |       
+    +---ftp
+    |       curl-7.15.5.tbz
+    |       
+    +---games
+    |       gnome-games-2.16.1.tbz
+    |       kdegames-3.5.4.tbz
+    |       
+    +---gnome
+    |       ORBit2-2.14.3.tbz
+    |       alacarte-0.10.1.tbz
+    |       bug-buddy-2.16.0_2.tbz
+    |       dasher-4.2.0,1.tbz
+    |       dbus-0.93_3.tbz
+    |       dbus-glib-0.71.tbz
+    |       deskbar-applet-2.16.1.tbz
+    |       eel-2.16.0_1.tbz
+    |       ekiga-2.0.2_5.tbz
+    |       eog-2.16.1.tbz
+    |       epiphany-2.16.1_1.tbz
+    |       evince-0.6.1.tbz
+    |       evolution-2.8.1.1.tbz
+    |       evolution-data-server-1.8.1_1.tbz
+    |       evolution-exchange-2.8.1.tbz
+    |       evolution-webcal-2.8.0.tbz
+    |       fast-user-switch-applet-2.16.0.tbz
+    |       file-roller-2.16.1,1.tbz
+    |       gcalctool-5.8.24,2.tbz
+    |       gconf-editor-2.16.0,1.tbz
+    |       gconf2-2.16.0.tbz
+    |       gdl-0.6.1_1.tbz
+    |       gdm-2.16.1_1.tbz
+    |       gedit-2.16.1.tbz
+    |       gnome-applets-2.16.1_1.tbz
+    |       gnome-audio-2.0.0_1.tbz
+    |       gnome-backgrounds-2.16.1.tbz
+    |       gnome-control-center-2.16.1.tbz
+    |       gnome-desktop-2.16.1.tbz
+    |       gnome-doc-utils-0.7.2_1.tbz
+    |       gnome-games-2.16.1.tbz
+    |       gnome-icon-theme-2.16.0.1_1.tbz
+    |       gnome-keyring-0.6.0.tbz
+    |       gnome-keyring-manager-2.16.0.tbz
+    |       gnome-mag-0.13.1_1.tbz
+    |       gnome-media-2.16.0.tbz
+    |       gnome-menus-2.16.1.tbz
+    |       gnome-mime-data-2.4.2_2.tbz
+    |       gnome-mount-0.4_1.tbz
+    |       gnome-netstatus-2.12.0_3.tbz
+    |       gnome-nettool-2.16.0,1.tbz
+    |       gnome-panel-2.16.1.tbz
+    |       gnome-power-manager-2.16.1.tbz
+    |       gnome-screensaver-2.16.1_1.tbz
+    |       gnome-session-2.16.1_1.tbz
+    |       gnome-speech-0.4.4.tbz
+    |       gnome-spell-1.0.7_2.tbz
+    |       gnome-system-monitor-2.16.1_1.tbz
+    |       gnome-system-tools-2.14.0_1.tbz
+    |       gnome-terminal-2.16.1_1.tbz
+    |       gnome-themes-2.16.1.1.tbz
+    |       gnome-user-docs-2.16.1.tbz
+    |       gnome-utils-2.16.1,1.tbz
+    |       gnome-vfs-2.16.1.tbz
+    |       gnome-volume-manager-2.15.0.tbz
+    |       gnome2-2.16.1_2.tbz
+    |       gnomehier-2.2.tbz
+    |       gok-1.2.0_1,1.tbz
+    |       gtkhtml3-3.12.1.tbz
+    |       gtksourceview-1.8.1.tbz
+    |       gtkspell-2.0.11_4.tbz
+    |       gucharmap-gnome-1.8.0.tbz
+    |       hicolor-icon-theme-0.9_2.tbz
+    |       intltool-0.35.0.tbz
+    |       libbonoboui-2.16.0.tbz
+    |       libcroco-0.6.1.tbz
+    |       libgda2-1.2.3_2,1.tbz
+    |       libglade2-2.6.0_2.tbz
+    |       libgnome-2.16.0.tbz
+    |       libgnomecanvas-2.14.0_2.tbz
+    |       libgnomeprint-2.12.1_3.tbz
+    |       libgnomeprintui-2.12.1_2.tbz
+    |       libgnomeui-2.16.1.tbz
+    |       libgtkhtml-2.11.0_2.tbz
+    |       libgtop-2.14.4.tbz
+    |       libnotify-0.4.2_2.tbz
+    |       librsvg2-2.16.0_1.tbz
+    |       libsoup-2.2.96.tbz
+    |       libwnck-2.16.1.tbz
+    |       libxml2-2.6.26.tbz
+    |       libxslt-1.1.17.tbz
+    |       monodoc-1.1.13.tbz
+    |       nautilus-2.16.1.tbz
+    |       nautilus-cd-burner-2.16.1.tbz
+    |       orca-1.0.0.tbz
+    |       policykit-0.1.20060514_2.tbz
+    |       py24-gnome-2.16.0.tbz
+    |       py24-gnome-desktop-2.16.0.tbz
+    |       py24-gnome-extras-2.14.2.tbz
+    |       py24-libxml2-2.6.26.tbz
+    |       scrollkeeper-0.3.14_5,1.tbz
+    |       shared-mime-info-0.19.tbz
+    |       sound-juicer-2.16.1.tbz
+    |       startup-notification-0.8_3.tbz
+    |       system-tools-backends-1.4.2_2.tbz
+    |       tomboy-0.4.1_2.tbz
+    |       totem-gstreamer-2.16.2_2.tbz
+    |       vino-2.16.0.tbz
+    |       vte-0.14.1_1.tbz
+    |       xchat-2.6.6_3.tbz
+    |       xscreensaver-gnome-hacks-4.24_1.tbz
+    |       yelp-2.16.1_1.tbz
+    |       zenity-2.16.1.tbz
+    |       
+    +---graphics
+    |       OpenEXR-1.2.2_1.tbz
+    |       aalib-1.4.r5_2.tbz
+    |       cairo-1.2.4.tbz
+    |       eog-2.16.1.tbz
+    |       evince-0.6.1.tbz
+    |       gle-3.1.0.tbz
+    |       gnome-backgrounds-2.16.1.tbz
+    |       gstreamer-plugins-libpng-0.10.4_1,2.tbz
+    |       jasper-1.701.0_1.tbz
+    |       jpeg-6b_4.tbz
+    |       kdegraphics-3.5.4.tbz
+    |       lcms-1.15_1,1.tbz
+    |       libart_lgpl-2.3.17_1.tbz
+    |       libexif-0.6.13.tbz
+    |       libglut-6.4.2.tbz
+    |       libgnomecanvas-2.14.0_2.tbz
+    |       libmng-1.0.9.tbz
+    |       librsvg2-2.16.0_1.tbz
+    |       libungif-4.1.4_1.tbz
+    |       poppler-0.5.4_1.tbz
+    |       poppler-data-0.1.tbz
+    |       poppler-gtk-0.5.4.tbz
+    |       poppler-qt-0.5.4.tbz
+    |       py24-cairo-1.2.2.tbz
+    |       svgalib-1.4.3_5.tbz
+    |       tiff-3.8.2.tbz
+    |       wmicons-1.0.tbz
+    |       xforms-1.0_3,1.tbz
+    |       xv-3.10a_6.tbz
+    |       
+    +---ipv6
+    |       curl-7.15.5.tbz
+    |       cyrus-sasl-2.1.22.tbz
+    |       emacs-21.3_9.tbz
+    |       fetchmail-6.3.4_3.tbz
+    |       lynx-2.8.5_2.tbz
+    |       mutt-1.4.2.2.tbz
+    |       net-snmp-5.2.3_3.tbz
+    |       pine-4.64.tbz
+    |       postfix-2.3.3,1.tbz
+    |       python24-2.4.3_3.tbz
+    |       qt-3.3.6_3.tbz
+    |       rsync-2.6.8_2.tbz
+    |       ruby-1.8.5_3,1.tbz
+    |       slrn-0.9.8.1.tbz
+    |       tin-1.8.2.tbz
+    |       xchat-2.6.6_3.tbz
+    |       
+    +---irc
+    |       xchat-2.6.6_3.tbz
+    |       
+    +---kde
+    |       akode-2.0.1,1.tbz
+    |       akode-plugins-mpc-2.0.1,1.tbz
+    |       akode-plugins-mpeg-2.0.1,1.tbz
+    |       akode-plugins-oss-2.0.1,1.tbz
+    |       akode-plugins-resampler-2.0.1,1.tbz
+    |       akode-plugins-xiph-2.0.1,1.tbz
+    |       arts-1.5.4,1.tbz
+    |       kde-3.5.4.tbz
+    |       kde-xdg-env-1.0_1,1.tbz
+    |       kdeaccessibility-3.5.4.tbz
+    |       kdeadmin-3.5.4.tbz
+    |       kdeartwork-3.5.4_2.tbz
+    |       kdebase-3.5.4_4.tbz
+    |       kdebase-kompmgr-3.5.4.tbz
+    |       kdeedu-3.5.4.tbz
+    |       kdegames-3.5.4.tbz
+    |       kdegraphics-3.5.4.tbz
+    |       kdehier-1.0_11.tbz
+    |       kdelibs-3.5.4_4.tbz
+    |       kdemultimedia-3.5.4_1.tbz
+    |       kdenetwork-3.5.4.tbz
+    |       kdepim-3.5.4_1.tbz
+    |       kdesdk-3.5.4.tbz
+    |       kdetoys-3.5.4.tbz
+    |       kdeutils-3.5.4.tbz
+    |       kdevelop-3.3.4.tbz
+    |       kdewebdev-3.5.4,2.tbz
+    |       koffice-1.5.2,2.tbz
+    |       
+    +---lang
+    |       guile-1.6.8.tbz
+    |       mono-1.1.13.8.1.tbz
+    |       python24-2.4.3_3.tbz
+    |       ruby-1.8.5_3,1.tbz
+    |       
+    +---mail
+    |       evolution-2.8.1.1.tbz
+    |       evolution-exchange-2.8.1.tbz
+    |       exim-4.63.tbz
+    |       fetchmail-6.3.4_3.tbz
+    |       gmime-2.2.3.tbz
+    |       gmime-sharp-2.2.3.tbz
+    |       kdepim-3.5.4_1.tbz
+    |       mutt-1.4.2.2.tbz
+    |       pine-4.64.tbz
+    |       popd-2.2.2a_4.tbz
+    |       postfix-2.3.3,1.tbz
+    |       xfmail-1.5.5_5.tbz
+    |       
+    +---math
+    |       fftw3-3.1.2.tbz
+    |       gcalctool-5.8.24,2.tbz
+    |       libgmp-4.2.1_1.tbz
+    |       py24-numeric-24.2.tbz
+    |       
+    +---misc
+    |       gnome-icon-theme-2.16.0.1_1.tbz
+    |       gnome-mime-data-2.4.2_2.tbz
+    |       gnome-user-docs-2.16.1.tbz
+    |       gnomehier-2.2.tbz
+    |       hicolor-icon-theme-0.9_2.tbz
+    |       iso-codes-0.53.tbz
+    |       kde-xdg-env-1.0_1,1.tbz
+    |       kdeedu-3.5.4.tbz
+    |       kdehier-1.0_11.tbz
+    |       kdetoys-3.5.4.tbz
+    |       kdeutils-3.5.4.tbz
+    |       mime-support-3.37.1.tbz
+    |       pciids-20060929.tbz
+    |       shared-mime-info-0.19.tbz
+    |       
+    +---multimedia
+    |       gstreamer-0.10.10_1.tbz
+    |       gstreamer-ffmpeg-0.10.1_1.tbz
+    |       gstreamer-plugins-0.10.10,2.tbz
+    |       gstreamer-plugins-core-0.10_7.tbz
+    |       gstreamer-plugins-dts-0.10.3_1,2.tbz
+    |       gstreamer-plugins-dvd-0.10.4,2.tbz
+    |       gstreamer-plugins-good-0.10.4_4,2.tbz
+    |       gstreamer-plugins-mpeg2dec-0.10.4_1,2.tbz
+    |       gstreamer-plugins-theora-0.10.10_2,2.tbz
+    |       gstreamer-plugins-ugly-0.10.4_2,2.tbz
+    |       gstreamer-plugins-xvid-0.10.3,2.tbz
+    |       gstreamer80-0.8.12_2.tbz
+    |       kdemultimedia-3.5.4_1.tbz
+    |       libdvdcss-1.2.9_2.tbz
+    |       libdvdnav-0.1.10_1.tbz
+    |       libdvdread-0.9.4_1.tbz
+    |       libmpeg2-0.4.0b_3.tbz
+    |       libtheora-1.0.a7.tbz
+    |       totem-gstreamer-2.16.2_2.tbz
+    |       xvid-1.1.0,1.tbz
+    |       
+    +---net
+    |       avahi-0.6.14.tbz
+    |       cvsup-without-gui-16.1h_2.tbz
+    |       ekiga-2.0.2_5.tbz
+    |       gnome-netstatus-2.12.0_3.tbz
+    |       gnome-nettool-2.16.0,1.tbz
+    |       gnutls-1.4.4_1.tbz
+    |       kdenetwork-3.5.4.tbz
+    |       linc-1.0.3_6.tbz
+    |       mDNSResponder-108.tbz
+    |       opal-2.2.2.tbz
+    |       openldap-client-2.3.27.tbz
+    |       openslp-1.2.1_2.tbz
+    |       rsync-2.6.8_2.tbz
+    |       samba-3.0.23c_2,1.tbz
+    |       samba-libsmbclient-3.0.23c.tbz
+    |       vino-2.16.0.tbz
+    |       
+    +---net-mgmt
+    |       net-snmp-5.2.3_3.tbz
+    |       
+    +---news
+    |       kdepim-3.5.4_1.tbz
+    |       pine-4.64.tbz
+    |       slrn-0.9.8.1.tbz
+    |       tin-1.8.2.tbz
+    |       
+    +---palm
+    |       kdepim-3.5.4_1.tbz
+    |       libmal-0.42_1.tbz
+    |       pilot-link-0.12.1_1,1.tbz
+    |       
+    +---perl5
+    |       p5-XML-LibXML-1.61003_1.tbz
+    |       p5-XML-LibXML-Common-0.13.tbz
+    |       p5-XML-NamespaceSupport-1.09_1.tbz
+    |       p5-XML-Parser-2.34_2.tbz
+    |       p5-XML-SAX-0.14.tbz
+    |       
+    +---print
+    |       a2ps-letter-4.13b_3.tbz
+    |       apsfilter-7.2.8.tbz
+    |       cups-base-1.2.2.tbz
+    |       evince-0.6.1.tbz
+    |       ghostscript-gnu-7.07_15.tbz
+    |       ghostscript-gnu-nox11-7.07_15.tbz
+    |       gsfonts-8.11_2.tbz
+    |       gv-3.6.1.tbz
+    |       hpijs-2.1.4.tbz
+    |       libgnomeprint-2.12.1_3.tbz
+    |       libpaper-1.1.14.3_1.tbz
+    |       poppler-0.5.4_1.tbz
+    |       poppler-gtk-0.5.4.tbz
+    |       poppler-qt-0.5.4.tbz
+    |       psutils-letter-1.17_2.tbz
+    |       
+    +---python
+    |       py24-cairo-1.2.2.tbz
+    |       py24-gnome-2.16.0.tbz
+    |       py24-gnome-desktop-2.16.0.tbz
+    |       py24-gnome-extras-2.14.2.tbz
+    |       py24-gobject-2.12.2.tbz
+    |       py24-gtk-2.10.3.tbz
+    |       py24-libxml2-2.6.26.tbz
+    |       py24-numeric-24.2.tbz
+    |       py24-orbit-2.14.1.tbz
+    |       python24-2.4.3_3.tbz
+    |       
+    +---ruby
+    |       ruby-1.8.5_3,1.tbz
+    |       ruby18-bdb-0.5.9_2.tbz
+    |       
+    +---scheme
+    |       guile-1.6.8.tbz
+    |       
+    +---security
+    |       ca-roots-1.2.tbz
+    |       cyrus-sasl-2.1.22.tbz
+    |       gnome-keyring-0.6.0.tbz
+    |       gnome-keyring-manager-2.16.0.tbz
+    |       gnupg-1.4.5_1.tbz
+    |       gnutls-1.4.4_1.tbz
+    |       gpgme-1.1.2_1.tbz
+    |       libgcrypt-1.2.3_1.tbz
+    |       libgpg-error-1.4.tbz
+    |       libtasn1-0.3.6.tbz
+    |       nss-3.11.3.tbz
+    |       portaudit-0.5.11.tbz
+    |       sudo-1.6.8.12_1.tbz
+    |       
+    +---shells
+    |       bash-2.05b.007_6.tbz
+    |       bash-3.1.17.tbz
+    |       pdksh-5.2.14p2_1.tbz
+    |       zsh-4.3.2_1.tbz
+    |       
+    +---sysutils
+    |       cdparanoia-3.9.8_8.tbz
+    |       cdrtools-2.01_5.tbz
+    |       dmidecode-2.8.tbz
+    |       dvd+rw-tools-6.1.tbz
+    |       gconf-editor-2.16.0,1.tbz
+    |       gnome-control-center-2.16.1.tbz
+    |       gnome-mount-0.4_1.tbz
+    |       gnome-power-manager-2.16.1.tbz
+    |       gnome-system-monitor-2.16.1_1.tbz
+    |       gnome-system-tools-2.14.0_1.tbz
+    |       gnome-volume-manager-2.15.0.tbz
+    |       gok-1.2.0_1,1.tbz
+    |       gstreamer-plugins-hal-0.10.4,2.tbz
+    |       gtar-1.15.1_2.tbz
+    |       hal-0.5.8.20060917_2.tbz
+    |       kdeadmin-3.5.4.tbz
+    |       libcdio-0.77_1.tbz
+    |       libgksu-1.3.8.tbz
+    |       libgksuui-1.0.7_1.tbz
+    |       nautilus-cd-burner-2.16.1.tbz
+    |       policykit-0.1.20060514_2.tbz
+    |       portupgrade-2.1.3.3_1,2.tbz
+    |       system-tools-backends-1.4.2_2.tbz
+    |       
+    +---textproc
+    |       aspell-0.60.4_4.tbz
+    |       docbook-sk-4.1.2_3.tbz
+    |       docbook-xml-4.2_1.tbz
+    |       docbook-xml-4.3.tbz
+    |       docbook-xml-4.4.tbz
+    |       docbook-xsl-1.70.1.tbz
+    |       gnome-doc-utils-0.7.2_1.tbz
+    |       gnome-spell-1.0.7_2.tbz
+    |       gtkspell-2.0.11_4.tbz
+    |       intltool-0.35.0.tbz
+    |       ispell-3.2.06_15.tbz
+    |       libcroco-0.6.1.tbz
+    |       libwpd-0.8.4_1.tbz
+    |       libxml2-2.6.26.tbz
+    |       libxslt-1.1.17.tbz
+    |       p5-XML-LibXML-1.61003_1.tbz
+    |       p5-XML-LibXML-Common-0.13.tbz
+    |       p5-XML-NamespaceSupport-1.09_1.tbz
+    |       p5-XML-Parser-2.34_2.tbz
+    |       p5-XML-SAX-0.14.tbz
+    |       py24-libxml2-2.6.26.tbz
+    |       scrollkeeper-0.3.14_5,1.tbz
+    |       sdocbook-xml-4.1.2.5_2.tbz
+    |       urlview-0.9_2.tbz
+    |       wv2-0.2.2_3.tbz
+    |       xmlcatmgr-2.2.tbz
+    |       
+    +---windowmaker
+    |       windowmaker-0.92.0_2.tbz
+    |       wmicons-1.0.tbz
+    |       
+    +---www
+    |       curl-7.15.5.tbz
+    |       epiphany-2.16.1_1.tbz
+    |       evolution-webcal-2.8.0.tbz
+    |       firefox-1.5.0.8,1.tbz
+    |       gtkhtml3-3.12.1.tbz
+    |       kdewebdev-3.5.4,2.tbz
+    |       libgtkhtml-2.11.0_2.tbz
+    |       links-2.1.p21,1.tbz
+    |       lynx-2.8.5_2.tbz
+    |       neon-0.25.5.tbz
+    |       tidy-20000804_2.tbz
+    |       urlview-0.9_2.tbz
+    |       
+    +---x11
+    |       dasher-4.2.0,1.tbz
+    |       fast-user-switch-applet-2.16.0.tbz
+    |       gdm-2.16.1_1.tbz
+    |       gnome-applets-2.16.1_1.tbz
+    |       gnome-desktop-2.16.1.tbz
+    |       gnome-menus-2.16.1.tbz
+    |       gnome-panel-2.16.1.tbz
+    |       gnome-screensaver-2.16.1_1.tbz
+    |       gnome-session-2.16.1_1.tbz
+    |       gnome-terminal-2.16.1_1.tbz
+    |       gnome2-2.16.1_2.tbz
+    |       kde-3.5.4.tbz
+    |       kdebase-3.5.4_4.tbz
+    |       kdelibs-3.5.4_4.tbz
+    |       libgnome-2.16.0.tbz
+    |       libxklavier-2.91_4,1.tbz
+    |       orca-1.0.0.tbz
+    |       rxvt-2.6.4_2.tbz
+    |       startup-notification-0.8_3.tbz
+    |       xscreensaver-gnome-hacks-4.24_1.tbz
+    |       yelp-2.16.1_1.tbz
+    |       zenity-2.16.1.tbz
+    |       
+    +---x11-clocks
+    |       asclock-1.0.tbz
+    |       kdetoys-3.5.4.tbz
+    |       
+    +---x11-fm
+    |       nautilus-2.16.1.tbz
+    |       
+    +---x11-fonts
+    |       gsfonts-8.11_2.tbz
+    |       
+    +---x11-themes
+    |       gnome-backgrounds-2.16.1.tbz
+    |       gnome-themes-2.16.1.1.tbz
+    |       gtk-engines2-2.8.1.tbz
+    |       kdeartwork-3.5.4_2.tbz
+    |       
+    +---x11-toolkits
+    |       Xaw3d-1.5E_1.tbz
+    |       at-spi-1.7.12.tbz
+    |       eel-2.16.0_1.tbz
+    |       gail-1.9.3.tbz
+    |       gdl-0.6.1_1.tbz
+    |       gstreamer-plugins-pango-0.10.10_1,2.tbz
+    |       gtk-2.10.6_2.tbz
+    |       gtk-sharp-2.8.2.tbz
+    |       gtksourceview-1.8.1.tbz
+    |       libbonoboui-2.16.0.tbz
+    |       libgail-gnome-1.1.3_2.tbz
+    |       libgnomeprintui-2.12.1_2.tbz
+    |       libgnomeui-2.16.1.tbz
+    |       libwnck-2.16.1.tbz
+    |       pango-1.14.7.tbz
+    |       py24-gnome-2.16.0.tbz
+    |       py24-gnome-desktop-2.16.0.tbz
+    |       py24-gnome-extras-2.14.2.tbz
+    |       py24-gtk-2.10.3.tbz
+    |       qt-3.3.6_3.tbz
+    |       vte-0.14.1_1.tbz
+    |       xforms-1.0_3,1.tbz
+    |       
+    \---x11-wm
+            afterstep-1.0_1.tbz
+            fvwm-2.4.19.tbz
+            kdebase-kompmgr-3.5.4.tbz
+            metacity-2.16.3.tbz
+            windowmaker-0.92.0_2.tbz
+            

@@ -1,0 +1,128 @@
+ Volume in drive G is CDROM
+ Volume Serial Number is 12B0-8732
+
+ Directory of G:\
+
+04/12/2005  06:31 PM                 0 CDrec-21.01.2005
+04/12/2005  06:43 PM               702 COPYRIGHT
+04/12/2005  06:31 PM               718 Checksums.sfv
+04/12/2005  06:43 PM            17,992 GPL
+04/12/2005  06:35 PM                 0 LAST_CD
+04/12/2005  06:35 PM             1,864 README
+04/12/2005  10:11 PM             2,885 TRANS.TBL
+04/12/2005  06:35 PM                13 VERSION
+04/12/2005  10:11 PM             2,048 boot.catalog
+04/12/2005  06:31 PM         2,949,120 bootflop.img
+04/12/2005  06:31 PM    <DIR>          doc
+04/12/2005  06:31 PM           280,199 hdc1._.log.gz
+04/12/2005  06:35 PM       243,530,551 hdc1._.tar.gz
+04/12/2005  06:35 PM        25,566,832 rd-base.img.bz2
+              13 File(s)    272,352,924 bytes
+
+ Directory of G:\doc
+
+04/12/2005  06:31 PM    <DIR>          .
+04/12/2005  10:10 PM    <DIR>          ..
+04/12/2005  06:31 PM    <DIR>          .xvpics
+04/12/2005  06:31 PM            82,195 BusyBox.html
+04/12/2005  06:31 PM             7,066 EditorsPick.gif
+04/12/2005  10:11 PM            11,314 TRANS.TBL
+04/12/2005  06:31 PM             6,322 bootfloppy.jpg
+04/12/2005  06:31 PM            32,651 bootfloppy_loop.jpg
+04/12/2005  06:31 PM            60,290 changes.html
+04/12/2005  06:31 PM            18,840 config.html
+04/12/2005  06:31 PM             5,439 credits.html
+04/12/2005  06:31 PM             6,925 destination_path.jpg
+04/12/2005  06:31 PM             6,134 documentation.html
+04/12/2005  06:31 PM            16,235 download.html
+04/12/2005  06:31 PM            16,075 enter_tape_device.jpg
+04/12/2005  06:31 PM             7,378 etc_recovery.html
+04/12/2005  06:31 PM            29,832 example_config
+04/12/2005  06:31 PM            44,221 faqs.html
+04/12/2005  06:31 PM            19,954 flowchart1.jpg
+04/12/2005  06:31 PM            89,563 freshmeat_231100.jpg
+04/12/2005  06:31 PM    <DIR>          images
+04/12/2005  06:31 PM            10,674 index.html
+04/12/2005  06:31 PM            21,791 installation.html
+04/12/2005  06:31 PM            40,678 internals.html
+04/12/2005  06:31 PM            20,620 interview_pandor.html
+04/12/2005  06:31 PM            16,906 introduction.html
+04/12/2005  06:31 PM            65,374 limp_penguin.gif
+04/12/2005  06:31 PM             8,713 links.html
+04/12/2005  06:31 PM            12,192 loopback.gif
+04/12/2005  06:31 PM            23,275 main_menu.jpg
+04/12/2005  06:31 PM            66,537 mk_penguin.gif
+04/12/2005  06:31 PM             7,785 mkcdrec.8
+04/12/2005  06:31 PM             5,674 mkcdrec.jpg
+04/12/2005  06:31 PM             6,715 mkcdrec_banner.jpg
+04/12/2005  06:31 PM             9,894 mkcdrec_banner_simple.gif
+04/12/2005  06:31 PM             8,415 mkcdrec_banner_simple.lss
+04/12/2005  06:31 PM            90,796 mkcdrec_log.html
+04/12/2005  06:31 PM             6,899 news.html
+04/12/2005  06:31 PM            15,024 option2_confirmation.jpg
+04/12/2005  06:31 PM             2,324 ota.gif
+04/12/2005  06:31 PM             6,425 sflogo-88-1.png
+04/12/2005  06:31 PM               275 smiley_face_yellow.gif
+04/12/2005  06:31 PM             6,050 softlandindia_pick.gif
+04/12/2005  06:31 PM    <DIR>          style
+04/12/2005  06:31 PM            14,560 support.html
+04/12/2005  06:31 PM             3,288 template.html
+04/12/2005  06:31 PM            51,467 test.jpg
+04/12/2005  06:31 PM             7,218 todo.html
+04/12/2005  06:31 PM             5,830 tuxbe.png
+04/12/2005  06:31 PM            42,689 uf17a199.gif
+04/12/2005  06:31 PM             2,996 unitedlinux.gif
+04/12/2005  06:31 PM             3,718 user_story1.html
+04/12/2005  06:31 PM             9,784 utilities.html
+              48 File(s)      1,055,020 bytes
+
+ Directory of G:\doc\.xvpics
+
+04/12/2005  06:31 PM    <DIR>          .
+04/12/2005  06:31 PM    <DIR>          ..
+04/12/2005  10:11 PM               458 TRANS.TBL
+04/12/2005  06:31 PM             1,428 mkcdrec_banner_simple.gif
+04/12/2005  06:31 PM             2,707 tuxbe.gif
+               3 File(s)          4,593 bytes
+
+ Directory of G:\doc\images
+
+04/12/2005  06:31 PM    <DIR>          .
+04/12/2005  06:31 PM    <DIR>          ..
+04/12/2005  06:31 PM    <DIR>          .xvpics
+04/12/2005  10:11 PM             2,272 TRANS.TBL
+04/12/2005  06:31 PM               855 content-enhanced.png
+04/12/2005  06:31 PM             4,630 it3-sm.gif
+04/12/2005  06:31 PM             6,715 mkcdrec_banner.jpg
+04/12/2005  06:31 PM             9,784 mkcdrec_utilities.png
+04/12/2005  06:31 PM             1,060 patent_button.png
+04/12/2005  06:31 PM               532 paypal_button.gif
+04/12/2005  06:31 PM            35,156 silery.jpg
+04/12/2005  06:31 PM               868 small_arrow.gif
+04/12/2005  06:31 PM             2,414 valid-xhtml10.png
+              10 File(s)         64,286 bytes
+
+ Directory of G:\doc\images\.xvpics
+
+04/12/2005  06:31 PM    <DIR>          .
+04/12/2005  06:31 PM    <DIR>          ..
+04/12/2005  10:11 PM               233 TRANS.TBL
+04/12/2005  06:31 PM             1,347 mkcdrec_utilities.png
+               2 File(s)          1,580 bytes
+
+ Directory of G:\doc\style
+
+04/12/2005  06:31 PM    <DIR>          .
+04/12/2005  06:31 PM    <DIR>          ..
+04/12/2005  10:11 PM             1,377 TRANS.TBL
+04/12/2005  06:31 PM               735 style1-button.css
+04/12/2005  06:31 PM               662 style1-inset.css
+04/12/2005  06:31 PM               425 style1-preformat.css
+04/12/2005  06:31 PM                83 style1-sidebar-print.css
+04/12/2005  06:31 PM               732 style1-sidebar.css
+04/12/2005  06:31 PM             2,484 style1.css
+               7 File(s)          6,498 bytes
+
+     Total Files Listed:
+              83 File(s)    273,484,901 bytes
+              15 Dir(s)               0 bytes free

@@ -1,0 +1,1332 @@
+ Volume in drive G is belenix
+ Volume Serial Number is 69E2-F638
+
+ Directory of G:\
+
+05/23/2006  01:10 AM             2,048 .catalog
+05/22/2006  09:07 PM    <DIR>          .cdrom
+05/22/2006  10:07 PM                 0 .livecd
+05/22/2006  10:07 PM                78 AUTORUN.INF
+05/22/2006  09:19 PM    <DIR>          LICENSES
+05/22/2006  10:06 PM    <DIR>          Misc
+05/22/2006  10:17 PM        17,324,117 archive.tar.7z
+05/22/2006  11:30 PM       647,721,984 belenix.zlib
+05/22/2006  10:17 PM    <DIR>          boot
+05/22/2006  09:08 PM    <DIR>          dev
+05/22/2006  09:07 PM    <DIR>          devices
+05/22/2006  09:08 PM    <DIR>          export
+05/22/2006  09:08 PM    <DIR>          home
+05/22/2006  10:07 PM    <DIR>          info
+05/22/2006  10:07 PM        41,636,953 jdk.7z
+05/22/2006  10:17 PM    <DIR>          lib
+05/22/2006  09:19 PM                 0 man
+05/22/2006  09:07 PM    <DIR>          mnt
+05/22/2006  10:07 PM                 0 noautoshutdown
+05/22/2006  10:06 PM    <DIR>          opt
+05/22/2006  10:06 PM    <DIR>          package
+05/22/2006  09:07 PM    <DIR>          platform
+05/22/2006  09:07 PM    <DIR>          proc
+05/22/2006  10:06 PM    <DIR>          products
+05/22/2006  10:07 PM                 0 reconfigure
+05/22/2006  10:08 PM         1,222,714 root.home.tar.bz2
+05/22/2006  09:07 PM    <DIR>          system
+05/22/2006  09:07 PM    <DIR>          tmp
+05/22/2006  10:17 PM    <DIR>          var
+05/22/2006  09:07 PM    <DIR>          vol
+              10 File(s)    707,907,894 bytes
+
+ Directory of G:\.cdrom
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\LICENSES
+
+05/22/2006  09:19 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:19 PM             2,174 APERTURE.LICENSE
+05/22/2006  09:19 PM             6,112 ARTISTIC
+05/22/2006  09:19 PM               873 BSD.LICENSE
+05/22/2006  09:19 PM            11,775 DLJ-v1.1.txt
+05/22/2006  09:19 PM             6,188 FBSD.COPYRIGHT
+05/22/2006  09:19 PM             1,829 FLEX.COPYING
+05/22/2006  09:19 PM            18,043 GPL
+05/22/2006  09:19 PM             2,810 ISC.LICENSE
+05/22/2006  09:19 PM            25,283 LGPL
+05/22/2006  09:19 PM             1,592 MASAYUKI.LICENSE
+05/22/2006  09:19 PM             8,852 OPENSOLARIS.BINARY.LICENSE
+05/22/2006  09:19 PM            18,943 OPENSOLARIS.LICENSE
+05/22/2006  09:19 PM            20,621 OPENSOLARIS.THIRDPARTYLICENSE
+05/22/2006  09:19 PM             2,908 OPENSSL.LICENSE
+05/22/2006  09:19 PM             2,579 README.DEVPROMAKESCCSBINAR.i386
+05/22/2006  09:19 PM             8,049 README.XAW3D
+05/22/2006  09:19 PM               380 SUNPRO.LICENSE
+05/22/2006  09:19 PM             3,179 VOSTROM.LICENSE
+              18 File(s)        142,190 bytes
+
+ Directory of G:\Misc
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  10:06 PM    <DIR>          database
+05/22/2006  10:06 PM    <DIR>          jumpstart_sample
+               0 File(s)              0 bytes
+
+ Directory of G:\Misc\database
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\Misc\jumpstart_sample
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM    <DIR>          x86-begin.conf
+               0 File(s)              0 bytes
+
+ Directory of G:\Misc\jumpstart_sample\x86-begin.conf
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\boot
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          acpi
+05/22/2006  10:07 PM    <DIR>          grub
+05/22/2006  09:08 PM    <DIR>          solaris
+05/23/2006  01:09 AM        20,040,347 x86.microroot
+               1 File(s)     20,040,347 bytes
+
+ Directory of G:\boot\acpi
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          tables
+               0 File(s)              0 bytes
+
+ Directory of G:\boot\acpi\tables
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\boot\grub
+
+05/22/2006  10:07 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  10:07 PM            27,944 belenixboot.xpm.gz
+05/22/2006  09:08 PM    <DIR>          bin
+05/22/2006  09:08 PM                10 default
+05/22/2006  09:08 PM             8,500 e2fs_stage1_5
+05/22/2006  09:08 PM             8,228 fat_stage1_5
+05/22/2006  09:08 PM             7,508 ffs_stage1_5
+05/22/2006  09:08 PM               496 install_menu
+05/22/2006  09:08 PM             7,608 iso9660_stage1_5
+05/22/2006  09:08 PM             8,996 jfs_stage1_5
+05/22/2006  10:07 PM               606 menu.lst
+05/22/2006  09:20 PM               470 menu.lst.default
+05/22/2006  09:08 PM             7,700 minix_stage1_5
+05/22/2006  09:08 PM           118,288 nbgrub
+05/22/2006  09:08 PM           119,312 pxegrub
+05/22/2006  09:08 PM             9,940 reiserfs_stage1_5
+05/22/2006  09:08 PM             8,772 splash.xpm.gz
+05/22/2006  09:08 PM               512 stage1
+05/22/2006  09:08 PM           118,896 stage2
+05/22/2006  11:30 PM           118,896 stage2_eltorito
+05/22/2006  09:08 PM             7,784 ufs2_stage1_5
+05/22/2006  09:08 PM             7,380 ufs_stage1_5
+05/22/2006  09:08 PM             7,124 vstafs_stage1_5
+05/22/2006  09:08 PM             9,820 xfs_stage1_5
+              22 File(s)        604,790 bytes
+
+ Directory of G:\boot\grub\bin
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+05/22/2006  09:08 PM           151,568 grub
+               1 File(s)        151,568 bytes
+
+ Directory of G:\boot\solaris
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  09:08 PM    <DIR>          bin
+05/22/2006  10:07 PM             1,412 bootenv.rc
+05/22/2006  09:08 PM    <DIR>          devicedb
+05/22/2006  09:08 PM               380 filelist.ramdisk
+               2 File(s)          1,792 bytes
+
+ Directory of G:\boot\solaris\bin
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:08 PM             1,442 create_diskmap
+05/22/2006  09:08 PM             5,030 create_ramdisk
+05/22/2006  09:08 PM            11,504 mbr
+05/22/2006  09:08 PM             6,687 root_archive
+               4 File(s)         24,663 bytes
+
+ Directory of G:\boot\solaris\devicedb
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:08 PM            23,843 master
+               1 File(s)         23,843 bytes
+
+ Directory of G:\dev
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          dsk
+05/22/2006  09:07 PM    <DIR>          fd
+05/22/2006  09:07 PM    <DIR>          pts
+05/22/2006  09:07 PM    <DIR>          rdsk
+05/22/2006  09:07 PM    <DIR>          rmt
+05/22/2006  09:07 PM    <DIR>          sad
+05/22/2006  09:07 PM    <DIR>          swap
+05/22/2006  09:08 PM    <DIR>          term
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\dsk
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\fd
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\pts
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\rdsk
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\rmt
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\sad
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\swap
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\dev\term
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\devices
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          pseudo
+               0 File(s)              0 bytes
+
+ Directory of G:\devices\pseudo
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\export
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\home
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\info
+
+05/22/2006  10:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  10:07 PM            66,982 1.gif
+05/22/2006  10:07 PM            97,313 16.gif
+05/22/2006  10:07 PM            18,482 4.gif
+05/22/2006  10:07 PM             4,707 Intro.htm
+05/22/2006  10:07 PM            65,198 bg.jpg
+05/22/2006  10:07 PM             7,584 bicon.png
+05/22/2006  10:07 PM            11,376 innov.gif
+               7 File(s)        271,642 bytes
+
+ Directory of G:\lib
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  10:17 PM    <DIR>          svc
+               0 File(s)              0 bytes
+
+ Directory of G:\lib\svc
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  10:17 PM    <DIR>          seed
+               0 File(s)              0 bytes
+
+ Directory of G:\lib\svc\seed
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  09:09 PM           279,552 nonglobal.db
+               1 File(s)        279,552 bytes
+
+ Directory of G:\mnt
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\opt
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          DTT
+05/22/2006  10:06 PM    <DIR>          csw
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\DTT
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          Bin
+05/22/2006  09:24 PM    <DIR>          Cpu
+05/22/2006  09:24 PM    <DIR>          Disk
+05/22/2006  09:24 PM    <DIR>          Docs
+05/22/2006  09:24 PM    <DIR>          Extra
+05/22/2006  09:24 PM             2,193 Guide
+05/22/2006  09:24 PM    <DIR>          Kernel
+05/22/2006  09:24 PM                 0 License
+05/22/2006  09:24 PM    <DIR>          Locks
+05/22/2006  09:24 PM    <DIR>          Man
+05/22/2006  09:24 PM    <DIR>          Mem
+05/22/2006  09:24 PM    <DIR>          Net
+05/22/2006  09:24 PM    <DIR>          Proc
+05/22/2006  09:24 PM                 0 README
+05/22/2006  09:24 PM    <DIR>          System
+05/22/2006  09:24 PM    <DIR>          User
+05/22/2006  09:24 PM                40 Version
+05/22/2006  09:24 PM    <DIR>          Zones
+05/22/2006  09:24 PM             7,143 dappprof
+05/22/2006  09:24 PM             7,626 dapptrace
+05/22/2006  09:24 PM            13,576 dexplorer
+05/22/2006  09:24 PM            13,461 dtruss
+05/22/2006  09:24 PM             6,224 dvmstat
+05/22/2006  09:24 PM             4,356 errinfo
+05/22/2006  09:24 PM             4,965 execsnoop
+05/22/2006  09:24 PM            12,065 iosnoop
+05/22/2006  09:24 PM            10,954 iotop
+05/22/2006  09:24 PM             6,321 opensnoop
+05/22/2006  09:24 PM             6,264 procsystime
+05/22/2006  09:24 PM             5,780 rwsnoop
+05/22/2006  09:24 PM             6,514 rwtop
+              17 File(s)        107,482 bytes
+
+ Directory of G:\opt\DTT\Bin
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                 0 anonpgpid.d
+05/22/2006  09:24 PM                 0 bitesize.d
+05/22/2006  09:24 PM                 0 connections
+05/22/2006  09:24 PM                 0 cpudists
+05/22/2006  09:24 PM                 0 cputimes
+05/22/2006  09:24 PM                 0 cputypes.d
+05/22/2006  09:24 PM                 0 cpuwalk.d
+05/22/2006  09:24 PM                 0 crap.d
+05/22/2006  09:24 PM                 0 creatbyproc.d
+05/22/2006  09:24 PM                 0 cswstat.d
+05/22/2006  09:24 PM                 0 dappprof
+05/22/2006  09:24 PM                 0 dapptrace
+05/22/2006  09:24 PM                 0 dexplorer
+05/22/2006  09:24 PM                 0 diskhits
+05/22/2006  09:24 PM                 0 dispqlen.d
+05/22/2006  09:24 PM                 0 dnlcps.d
+05/22/2006  09:24 PM                 0 dnlcsnoop.d
+05/22/2006  09:24 PM                 0 dnlcstat
+05/22/2006  09:24 PM                 0 dtruss
+05/22/2006  09:24 PM                 0 dvmstat
+05/22/2006  09:24 PM                 0 errinfo
+05/22/2006  09:24 PM                 0 execsnoop
+05/22/2006  09:24 PM                 0 fddist
+05/22/2006  09:24 PM                 0 filebyproc.d
+05/22/2006  09:24 PM                 0 guess.d
+05/22/2006  09:24 PM                 0 hotspot.d
+05/22/2006  09:24 PM                 0 icmpstat.d
+05/22/2006  09:24 PM                 0 intbycpu.d
+05/22/2006  09:24 PM                 0 intoncpu.d
+05/22/2006  09:24 PM                 0 inttimes.d
+05/22/2006  09:24 PM                 0 iofile.d
+05/22/2006  09:24 PM                 0 iopattern
+05/22/2006  09:24 PM                 0 iosnoop
+05/22/2006  09:24 PM                 0 iotop
+05/22/2006  09:24 PM                 0 kill.d
+05/22/2006  09:24 PM                 0 lastwords
+05/22/2006  09:24 PM                 0 loads.d
+05/22/2006  09:24 PM                 0 lockbydist.d
+05/22/2006  09:24 PM                 0 lockbyproc.d
+05/22/2006  09:24 PM                 0 minfbypid.d
+05/22/2006  09:24 PM                 0 minfbyproc.d
+05/22/2006  09:24 PM                 0 newproc.d
+05/22/2006  09:24 PM                 0 opensnoop
+05/22/2006  09:24 PM                 0 pathopens.d
+05/22/2006  09:24 PM                 0 pgpginbypid.d
+05/22/2006  09:24 PM                 0 pgpginbyproc.d
+05/22/2006  09:24 PM                 0 pidpersec.d
+05/22/2006  09:24 PM                 0 pridist.d
+05/22/2006  09:24 PM                 0 procsystime
+05/22/2006  09:24 PM                 0 readbytes.d
+05/22/2006  09:24 PM                 0 readdist.d
+05/22/2006  09:24 PM                 0 rwbbypid.d
+05/22/2006  09:24 PM                 0 rwbypid.d
+05/22/2006  09:24 PM                 0 rwsnoop
+05/22/2006  09:24 PM                 0 rwtop
+05/22/2006  09:24 PM                 0 sampleproc
+05/22/2006  09:24 PM                 0 sar-c.d
+05/22/2006  09:24 PM                 0 seeksize.d
+05/22/2006  09:24 PM                 0 setuids.d
+05/22/2006  09:24 PM                 0 shortlived.d
+05/22/2006  09:24 PM                 0 sigdist.d
+05/22/2006  09:24 PM                 0 swapinfo.d
+05/22/2006  09:24 PM                 0 sysbypid.d
+05/22/2006  09:24 PM                 0 syscallbypid.d
+05/22/2006  09:24 PM                 0 syscallbyproc.d
+05/22/2006  09:24 PM                 0 syscallbysysc.d
+05/22/2006  09:24 PM                 0 tcpsnoop
+05/22/2006  09:24 PM                 0 tcpsnoop.d
+05/22/2006  09:24 PM                 0 tcpstat.d
+05/22/2006  09:24 PM                 0 tcptop
+05/22/2006  09:24 PM                 0 tcpwdist.d
+05/22/2006  09:24 PM                 0 threaded.d
+05/22/2006  09:24 PM                 0 topsyscall
+05/22/2006  09:24 PM                 0 topsysproc
+05/22/2006  09:24 PM                 0 udpstat.d
+05/22/2006  09:24 PM                 0 uname-a.d
+05/22/2006  09:24 PM                 0 vmbypid.d
+05/22/2006  09:24 PM                 0 vmstat.d
+05/22/2006  09:24 PM                 0 vmstat-p.d
+05/22/2006  09:24 PM                 0 writebytes.d
+05/22/2006  09:24 PM                 0 writedist.d
+05/22/2006  09:24 PM                 0 xcallsbypid.d
+05/22/2006  09:24 PM                 0 xvmstat
+05/22/2006  09:24 PM                 0 zvmstat
+              84 File(s)              0 bytes
+
+ Directory of G:\opt\DTT\Cpu
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                65 Readme
+05/22/2006  09:24 PM             1,533 cputypes.d
+05/22/2006  09:24 PM             1,542 cpuwalk.d
+05/22/2006  09:24 PM             1,317 dispqlen.d
+05/22/2006  09:24 PM             1,162 intbycpu.d
+05/22/2006  09:24 PM             1,641 intoncpu.d
+05/22/2006  09:24 PM             1,736 inttimes.d
+05/22/2006  09:24 PM             1,796 loads.d
+05/22/2006  09:24 PM             1,137 xcallsbypid.d
+               9 File(s)         11,929 bytes
+
+ Directory of G:\opt\DTT\Disk
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             1,975 bitesize.d
+05/22/2006  09:24 PM             2,548 diskhits
+05/22/2006  09:24 PM             1,939 hotspot.d
+05/22/2006  09:24 PM             1,972 iofile.d
+05/22/2006  09:24 PM             6,613 iopattern
+05/22/2006  09:24 PM             2,357 pathopens.d
+05/22/2006  09:24 PM             2,107 seeksize.d
+               7 File(s)         19,511 bytes
+
+ Directory of G:\opt\DTT\Docs
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             3,990 Contents
+05/22/2006  09:24 PM             1,077 Contrib
+05/22/2006  09:24 PM    <DIR>          Examples
+05/22/2006  09:24 PM             2,647 Faq
+05/22/2006  09:24 PM             5,356 History
+05/22/2006  09:24 PM                 0 Index
+05/22/2006  09:24 PM               708 Links
+05/22/2006  09:24 PM               161 Maintainer
+05/22/2006  09:24 PM    <DIR>          Notes
+05/22/2006  09:24 PM               600 Readme
+05/22/2006  09:24 PM    <DIR>          Template
+05/22/2006  09:24 PM               219 ToDo
+05/22/2006  09:24 PM               834 Who
+05/22/2006  09:24 PM            20,162 cddl1.txt
+05/22/2006  09:24 PM             2,059 oneliners.txt
+              12 File(s)         37,813 bytes
+
+ Directory of G:\opt\DTT\Docs\Examples
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             2,393 anonpgpid_example.txt
+05/22/2006  09:24 PM             3,445 bitesize_example.txt
+05/22/2006  09:24 PM               887 connections_example.txt
+05/22/2006  09:24 PM            13,456 cpudists_example.txt
+05/22/2006  09:24 PM             6,489 cputimes_example.txt
+05/22/2006  09:24 PM             1,158 cputypes_example.txt
+05/22/2006  09:24 PM             3,219 cpuwalk_example.txt
+05/22/2006  09:24 PM             1,677 crap_example.txt
+05/22/2006  09:24 PM               605 creatbyproc_example.txt
+05/22/2006  09:24 PM             1,212 cswstat_example.txt
+05/22/2006  09:24 PM             3,315 dappprof_example.txt
+05/22/2006  09:24 PM             6,984 dapptrace_example.txt
+05/22/2006  09:24 PM             3,370 dexplorer_example.txt
+05/22/2006  09:24 PM             5,513 diskhits_example.txt
+05/22/2006  09:24 PM             2,530 dispqlen_example.txt
+05/22/2006  09:24 PM             1,828 dnlcps_example.txt
+05/22/2006  09:24 PM             3,849 dnlcsnoop_example.txt
+05/22/2006  09:24 PM             1,293 dnlcstat_example.txt
+05/22/2006  09:24 PM             4,505 dtruss_example.txt
+05/22/2006  09:24 PM             4,232 dvmstat_example.txt
+05/22/2006  09:24 PM             4,278 errinfo_example.txt
+05/22/2006  09:24 PM             2,518 execsnoop_example.txt
+05/22/2006  09:24 PM             1,537 fddist_example.txt
+05/22/2006  09:24 PM             1,550 filebyproc_example.txt
+05/22/2006  09:24 PM             1,079 guess_example.txt
+05/22/2006  09:24 PM             1,648 hotspot_example.txt
+05/22/2006  09:24 PM               740 icmpstat_example.txt
+05/22/2006  09:24 PM               295 intbycpu_example.txt
+05/22/2006  09:24 PM             4,174 intoncpu_example.txt
+05/22/2006  09:24 PM               508 inttimes_example.txt
+05/22/2006  09:24 PM             1,437 iofile_example.txt
+05/22/2006  09:24 PM             2,260 iopattern_example.txt
+05/22/2006  09:24 PM             1,830 iosnoop_example.txt
+05/22/2006  09:24 PM             4,672 iotop_example.txt
+05/22/2006  09:24 PM               358 kill_example.txt
+05/22/2006  09:24 PM             4,498 lastwords_example.txt
+05/22/2006  09:24 PM               557 loads_example.txt
+05/22/2006  09:24 PM             6,132 lockbydist_example.txt
+05/22/2006  09:24 PM             1,729 lockbyproc_example.txt
+05/22/2006  09:24 PM               638 minfbypid_example.txt
+05/22/2006  09:24 PM               574 minfbyproc_example.txt
+05/22/2006  09:24 PM             1,159 newproc_example.txt
+05/22/2006  09:24 PM            13,053 oneliners_examples.txt
+05/22/2006  09:24 PM             4,658 opensnoop_example.txt
+05/22/2006  09:24 PM               972 pathopens_example.txt
+05/22/2006  09:24 PM               426 pgpginbypid_example.txt
+05/22/2006  09:24 PM               528 pgpginbyproc_example.txt
+05/22/2006  09:24 PM               955 pidpersec_example.txt
+05/22/2006  09:24 PM            10,718 pridist_example.txt
+05/22/2006  09:24 PM             4,584 procsystime_example.txt
+05/22/2006  09:24 PM               982 readbytes_example.txt
+05/22/2006  09:24 PM             1,609 readdist_example.txt
+05/22/2006  09:24 PM             1,089 rwbbypid_example.txt
+05/22/2006  09:24 PM               637 rwbypid_example.txt
+05/22/2006  09:24 PM             5,074 rwsnoop_example.txt
+05/22/2006  09:24 PM             2,417 rwtop_example.txt
+05/22/2006  09:24 PM             2,050 sampleproc_example.txt
+05/22/2006  09:24 PM             2,506 sar-c_example.txt
+05/22/2006  09:24 PM            10,365 seeksize_example.txt
+05/22/2006  09:24 PM             1,127 setuids_example.txt
+05/22/2006  09:24 PM             1,580 shortlived_example.txt
+05/22/2006  09:24 PM               599 sigdist_example.txt
+05/22/2006  09:24 PM               570 swapinfo_example.txt
+05/22/2006  09:24 PM             2,301 sysbypid_example.txt
+05/22/2006  09:24 PM             2,988 syscallbypid_example.txt
+05/22/2006  09:24 PM               827 syscallbyproc_example.txt
+05/22/2006  09:24 PM             1,334 syscallbysysc_example.txt
+05/22/2006  09:24 PM             2,590 tcpsnoop_d_example.txt
+05/22/2006  09:24 PM             3,872 tcpsnoop_example.txt
+05/22/2006  09:24 PM               971 tcpstat_example.txt
+05/22/2006  09:24 PM             1,134 tcptop_example.txt
+05/22/2006  09:24 PM             3,433 tcpwdist_example.txt
+05/22/2006  09:24 PM             4,161 threaded_example.txt
+05/22/2006  09:24 PM             2,457 topsyscall_example.txt
+05/22/2006  09:24 PM             2,139 topsysproc_example.txt
+05/22/2006  09:24 PM             1,526 udpstat_example.txt
+05/22/2006  09:24 PM               407 uname-a_example.txt
+05/22/2006  09:24 PM             1,651 vmbypid_example.txt
+05/22/2006  09:24 PM             2,973 vmstat-p_example.txt
+05/22/2006  09:24 PM             2,273 vmstat_example.txt
+05/22/2006  09:24 PM             1,290 writebytes_example.txt
+05/22/2006  09:24 PM             1,823 writedist_example.txt
+05/22/2006  09:24 PM               568 xcallsbypid_example.txt
+05/22/2006  09:24 PM             2,111 xvmstat_example.txt
+05/22/2006  09:24 PM             2,200 zvmstat_example.txt
+              85 File(s)        227,659 bytes
+
+ Directory of G:\opt\DTT\Docs\Notes
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             4,468 cputimes_notes.txt
+05/22/2006  09:24 PM               171 dappprof_notes.txt
+05/22/2006  09:24 PM               172 dapptrace_notes.txt
+05/22/2006  09:24 PM             4,604 dtruss_notes.txt
+05/22/2006  09:24 PM             2,617 iosnoop_notes.txt
+05/22/2006  09:24 PM               174 procsystime_notes.txt
+               6 File(s)         12,206 bytes
+
+ Directory of G:\opt\DTT\Docs\Template
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          Bin
+05/22/2006  09:24 PM             3,578 Checklist
+05/22/2006  09:24 PM    <DIR>          Docs
+05/22/2006  09:24 PM    <DIR>          Man
+05/22/2006  09:24 PM             1,328 Readme
+05/22/2006  09:24 PM    <DIR>          User
+               2 File(s)          4,906 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Bin
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                 0 basic.d
+               1 File(s)              0 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Docs
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          Examples
+05/22/2006  09:24 PM    <DIR>          Notes
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Docs\Examples
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM               491 basic_example.txt
+               1 File(s)            491 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Docs\Notes
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             1,361 basic_notes.txt
+               1 File(s)          1,361 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Man
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          man1s
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\Man\man1s
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM               884 basic.d.1m
+               1 File(s)            884 bytes
+
+ Directory of G:\opt\DTT\Docs\Template\User
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             2,059 basic.d
+               1 File(s)          2,059 bytes
+
+ Directory of G:\opt\DTT\Extra
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             2,151 guess.d
+               1 File(s)          2,151 bytes
+
+ Directory of G:\opt\DTT\Kernel
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             4,124 cpudists
+05/22/2006  09:24 PM             5,001 cputimes
+05/22/2006  09:24 PM             1,566 cswstat.d
+05/22/2006  09:24 PM             1,576 dnlcps.d
+05/22/2006  09:24 PM             2,137 dnlcsnoop.d
+05/22/2006  09:24 PM             3,074 dnlcstat
+05/22/2006  09:24 PM             1,838 pridist.d
+               7 File(s)         19,316 bytes
+
+ Directory of G:\opt\DTT\Locks
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM               263 lockbydist.d
+05/22/2006  09:24 PM               254 lockbyproc.d
+               2 File(s)            517 bytes
+
+ Directory of G:\opt\DTT\Man
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM    <DIR>          man1m
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\DTT\Man\man1m
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             1,204 anonpgpid.d.1m
+05/22/2006  09:24 PM             1,346 bitesize.d.1m
+05/22/2006  09:24 PM             1,254 connections.1m
+05/22/2006  09:24 PM             1,705 cpudists.1m
+05/22/2006  09:24 PM             1,765 cputimes.1m
+05/22/2006  09:24 PM               862 cputypes.d.1m
+05/22/2006  09:24 PM             1,021 cpuwalk.d.1m
+05/22/2006  09:24 PM             1,190 crap.d.1m
+05/22/2006  09:24 PM             1,433 creatbyproc.d.1m
+05/22/2006  09:24 PM             1,091 cswstat.d.1m
+05/22/2006  09:24 PM             1,859 dappprof.1m
+05/22/2006  09:24 PM             2,161 dapptrace.1m
+05/22/2006  09:24 PM             1,163 dexplorer.1m
+05/22/2006  09:24 PM             1,067 diskhits.1m
+05/22/2006  09:24 PM               879 dispqlen.d.1m
+05/22/2006  09:24 PM               998 dnlcps.d.1m
+05/22/2006  09:24 PM               992 dnlcsnoop.d.1m
+05/22/2006  09:24 PM             1,229 dnlcstat.1m
+05/22/2006  09:24 PM             2,307 dtruss.1m
+05/22/2006  09:24 PM             1,533 dvmstat.1m
+05/22/2006  09:24 PM             1,549 errinfo.1m
+05/22/2006  09:24 PM             1,902 execsnoop.1m
+05/22/2006  09:24 PM             1,107 fddist.1m
+05/22/2006  09:24 PM             1,470 filebyproc.d.1m
+05/22/2006  09:24 PM               865 guess.d.1m
+05/22/2006  09:24 PM             1,133 hotspot.d.1m
+05/22/2006  09:24 PM             1,135 icmpstat.d.1m
+05/22/2006  09:24 PM             1,100 intbycpu.d.1m
+05/22/2006  09:24 PM               924 intoncpu.d.1m
+05/22/2006  09:24 PM               951 inttimes.d.1m
+05/22/2006  09:24 PM             1,053 iofile.d.1m
+05/22/2006  09:24 PM             2,025 iopattern.1m
+05/22/2006  09:24 PM             3,064 iosnoop.1m
+05/22/2006  09:24 PM             2,358 iotop.1m
+05/22/2006  09:24 PM             1,134 kill.d.1m
+05/22/2006  09:24 PM             1,169 lastwords.1m
+05/22/2006  09:24 PM             1,028 loads.d.1m
+05/22/2006  09:24 PM             1,448 lockbydist.d.1m
+05/22/2006  09:24 PM             1,252 lockbyproc.d.1m
+05/22/2006  09:24 PM               921 minfbypid.d.1m
+05/22/2006  09:24 PM             1,173 minfbyproc.d.1m
+05/22/2006  09:24 PM             1,286 newproc.d.1m
+05/22/2006  09:24 PM             2,193 opensnoop.1m
+05/22/2006  09:24 PM               941 pathopens.d.1m
+05/22/2006  09:24 PM               976 pgpginbypid.d.1m
+05/22/2006  09:24 PM             1,313 pgpginbyproc.d.1m
+05/22/2006  09:24 PM               873 pidpersec.d.1m
+05/22/2006  09:24 PM             1,251 pridist.d.1m
+05/22/2006  09:24 PM             1,875 procsystime.1m
+05/22/2006  09:24 PM             1,185 readbytes.d.1m
+05/22/2006  09:24 PM             1,394 readdist.d.1m
+05/22/2006  09:24 PM               976 rwbbypid.d.1m
+05/22/2006  09:24 PM               970 rwbypid.d.1m
+05/22/2006  09:24 PM             1,517 rwsnoop.1m
+05/22/2006  09:24 PM             1,634 rwtop.1m
+05/22/2006  09:24 PM             1,059 sampleproc.1m
+05/22/2006  09:24 PM             1,175 sar-c.d.1m
+05/22/2006  09:24 PM             1,135 seeksize.d.1m
+05/22/2006  09:24 PM             1,023 setuids.d.1m
+05/22/2006  09:24 PM               965 shortlived.d.1m
+05/22/2006  09:24 PM             1,076 sigdist.d.1m
+05/22/2006  09:24 PM             1,577 swapinfo.d.1m
+05/22/2006  09:24 PM             1,108 sysbypid.d.1m
+05/22/2006  09:24 PM             1,035 syscallbypid.d.1m
+05/22/2006  09:24 PM             1,327 syscallbyproc.d.1m
+05/22/2006  09:24 PM             1,204 syscallbysysc.d.1m
+05/22/2006  09:24 PM             1,723 tcpsnoop.1m
+05/22/2006  09:24 PM             1,360 tcpsnoop.d.1m
+05/22/2006  09:24 PM             1,295 tcpstat.d.1m
+05/22/2006  09:24 PM             1,733 tcptop.1m
+05/22/2006  09:24 PM             1,675 tcpwdist.d.1m
+05/22/2006  09:24 PM             1,053 threaded.d.1m
+05/22/2006  09:24 PM             1,305 topsyscall.1m
+05/22/2006  09:24 PM             1,399 topsysproc.1m
+05/22/2006  09:24 PM             1,180 udpstat.d.1m
+05/22/2006  09:24 PM               923 uname-a.d.1m
+05/22/2006  09:24 PM             1,124 vmbypid.d.1m
+05/22/2006  09:24 PM             1,456 vmstat.d.1m
+05/22/2006  09:24 PM             1,556 vmstat-p.d.1m
+05/22/2006  09:24 PM             1,194 writebytes.d.1m
+05/22/2006  09:24 PM             1,405 writedist.d.1m
+05/22/2006  09:24 PM               999 xcallsbypid.d.1m
+05/22/2006  09:24 PM             1,772 xvmstat.1m
+05/22/2006  09:24 PM             1,719 zvmstat.1m
+              84 File(s)        111,759 bytes
+
+ Directory of G:\opt\DTT\Mem
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             2,053 anonpgpid.d
+05/22/2006  09:24 PM             1,410 minfbypid.d
+05/22/2006  09:24 PM               248 minfbyproc.d
+05/22/2006  09:24 PM             1,184 pgpginbypid.d
+05/22/2006  09:24 PM               249 pgpginbyproc.d
+05/22/2006  09:24 PM             5,951 swapinfo.d
+05/22/2006  09:24 PM             1,369 vmbypid.d
+05/22/2006  09:24 PM             3,555 vmstat.d
+05/22/2006  09:24 PM             4,410 vmstat-p.d
+05/22/2006  09:24 PM             5,545 xvmstat
+              10 File(s)         25,974 bytes
+
+ Directory of G:\opt\DTT\Net
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM             3,870 connections
+05/22/2006  09:24 PM             1,481 icmpstat.d
+05/22/2006  09:24 PM            16,289 tcpsnoop
+05/22/2006  09:24 PM            11,190 tcpsnoop.d
+05/22/2006  09:24 PM             2,120 tcpstat.d
+05/22/2006  09:24 PM            14,890 tcptop
+05/22/2006  09:24 PM             2,333 tcpwdist.d
+05/22/2006  09:24 PM             2,163 udpstat.d
+               8 File(s)         54,336 bytes
+
+ Directory of G:\opt\DTT\Proc
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                70 Readme
+05/22/2006  09:24 PM             4,871 crap.d
+05/22/2006  09:24 PM               268 creatbyproc.d
+05/22/2006  09:24 PM             2,651 fddist
+05/22/2006  09:24 PM               271 filebyproc.d
+05/22/2006  09:24 PM             1,620 kill.d
+05/22/2006  09:24 PM             2,163 lastwords
+05/22/2006  09:24 PM               260 newproc.d
+05/22/2006  09:24 PM             1,265 pidpersec.d
+05/22/2006  09:24 PM               246 readbytes.d
+05/22/2006  09:24 PM               256 readdist.d
+05/22/2006  09:24 PM             1,433 rwbbypid.d
+05/22/2006  09:24 PM             1,425 rwbypid.d
+05/22/2006  09:24 PM             2,444 sampleproc
+05/22/2006  09:24 PM             2,992 shortlived.d
+05/22/2006  09:24 PM             1,617 sigdist.d
+05/22/2006  09:24 PM             1,373 sysbypid.d
+05/22/2006  09:24 PM             1,257 syscallbypid.d
+05/22/2006  09:24 PM               254 syscallbyproc.d
+05/22/2006  09:24 PM             1,615 threaded.d
+05/22/2006  09:24 PM             4,303 topsysproc
+05/22/2006  09:24 PM               249 writebytes.d
+05/22/2006  09:24 PM               259 writedist.d
+              23 File(s)         33,162 bytes
+
+ Directory of G:\opt\DTT\System
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                86 Readme
+05/22/2006  09:24 PM             2,354 sar-c.d
+05/22/2006  09:24 PM               249 syscallbysysc.d
+05/22/2006  09:24 PM             4,142 topsyscall
+05/22/2006  09:24 PM             1,362 uname-a.d
+               5 File(s)          8,193 bytes
+
+ Directory of G:\opt\DTT\User
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                67 Readme
+05/22/2006  09:24 PM             1,632 setuids.d
+               2 File(s)          1,699 bytes
+
+ Directory of G:\opt\DTT\Zones
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:24 PM                70 Readme
+05/22/2006  09:24 PM             6,698 zvmstat
+               2 File(s)          6,768 bytes
+
+ Directory of G:\opt\csw
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM    <DIR>          bin
+05/22/2006  10:06 PM    <DIR>          etc
+05/22/2006  10:06 PM    <DIR>          share
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\csw\bin
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM            51,141 pkg-get
+               1 File(s)         51,141 bytes
+
+ Directory of G:\opt\csw\etc
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM             1,491 pkg-get.conf.csw
+               1 File(s)          1,491 bytes
+
+ Directory of G:\opt\csw\share
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM    <DIR>          man
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\csw\share\man
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM    <DIR>          man1m
+               0 File(s)              0 bytes
+
+ Directory of G:\opt\csw\share\man\man1m
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  10:06 PM    <DIR>          ..
+05/22/2006  10:06 PM             5,944 pkg-get.1m
+               1 File(s)          5,944 bytes
+
+ Directory of G:\package
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:08 PM    <DIR>          i86pc
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+05/22/2006  09:08 PM             2,560 biosint
+05/22/2006  10:13 PM    <DIR>          kernel
+05/22/2006  09:08 PM           100,040 multiboot
+               2 File(s)        102,600 bytes
+
+ Directory of G:\platform\i86pc\kernel
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  10:13 PM    <DIR>          cpu
+05/22/2006  10:13 PM    <DIR>          drv
+05/22/2006  10:13 PM    <DIR>          kmdb
+05/22/2006  10:13 PM    <DIR>          mach
+05/22/2006  10:13 PM    <DIR>          misc
+05/22/2006  10:13 PM    <DIR>          strmod
+05/22/2006  10:13 PM    <DIR>          sys
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\cpu
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\drv
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+05/22/2006  09:10 PM             6,320 amd64_gart
+               1 File(s)          6,320 bytes
+
+ Directory of G:\platform\i86pc\kernel\kmdb
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\mach
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\misc
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\strmod
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\platform\i86pc\kernel\sys
+
+05/22/2006  10:13 PM    <DIR>          .
+05/22/2006  10:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\proc
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\products
+
+05/22/2006  10:06 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\system
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          contract
+05/22/2006  09:07 PM    <DIR>          object
+               0 File(s)              0 bytes
+
+ Directory of G:\system\contract
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\system\object
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\tmp
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+05/22/2006  10:17 PM    <DIR>          svc
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc
+
+05/22/2006  10:17 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  09:07 PM    <DIR>          log
+05/22/2006  09:08 PM    <DIR>          manifest
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\log
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:17 PM    <DIR>          ..
+05/22/2006  10:07 PM    <DIR>          application
+05/22/2006  09:08 PM    <DIR>          device
+05/22/2006  09:10 PM    <DIR>          milestone
+05/22/2006  09:24 PM    <DIR>          network
+05/22/2006  09:07 PM    <DIR>          platform
+05/22/2006  09:18 PM    <DIR>          site
+05/22/2006  10:07 PM    <DIR>          system
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\application
+
+05/22/2006  10:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:08 PM    <DIR>          management
+05/22/2006  09:10 PM    <DIR>          print
+05/22/2006  09:08 PM    <DIR>          security
+05/22/2006  10:07 PM             3,395 xserver.xml
+               1 File(s)          3,395 bytes
+
+ Directory of G:\var\svc\manifest\application\management
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\application\print
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,380 cleanup.xml
+05/22/2006  09:10 PM             2,700 rfc1179.xml
+05/22/2006  09:10 PM             3,173 server.xml
+               3 File(s)          8,253 bytes
+
+ Directory of G:\var\svc\manifest\application\security
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\device
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\milestone
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,846 multi-user.xml
+05/22/2006  09:10 PM             3,077 multi-user-server.xml
+05/22/2006  09:10 PM             2,594 name-services.xml
+05/22/2006  09:10 PM             2,265 network.xml
+05/22/2006  10:07 PM             3,542 single-user.xml
+05/22/2006  09:10 PM             2,289 sysconfig.xml
+               6 File(s)         17,613 bytes
+
+ Directory of G:\var\svc\manifest\network
+
+05/22/2006  09:24 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,344 chargen.xml
+05/22/2006  09:10 PM             2,891 comsat.xml
+05/22/2006  09:10 PM             3,336 daytime.xml
+05/22/2006  09:10 PM             3,140 dhcp-server.xml
+05/22/2006  09:10 PM             3,387 discard.xml
+05/22/2006  09:10 PM    <DIR>          dns
+05/22/2006  09:10 PM             3,343 echo.xml
+05/22/2006  09:10 PM             2,905 finger.xml
+05/22/2006  09:10 PM             1,779 ftp.xml
+05/22/2006  09:10 PM             4,495 inetd.xml
+05/22/2006  09:10 PM             2,639 inetd-upgrade.xml
+05/22/2006  09:24 PM             3,270 inetmenu.xml
+05/22/2006  09:10 PM             2,494 ipfilter.xml
+05/22/2006  09:10 PM    <DIR>          ldap
+05/22/2006  09:10 PM             4,114 login.xml
+05/22/2006  09:10 PM             3,092 network-initial.xml
+05/22/2006  09:10 PM             2,068 network-loopback.xml
+05/22/2006  09:10 PM             2,070 network-physical.xml
+05/22/2006  09:10 PM             3,171 network-service.xml
+05/22/2006  09:10 PM    <DIR>          nfs
+05/22/2006  09:10 PM    <DIR>          nis
+05/22/2006  09:10 PM             1,955 ntp.xml
+05/22/2006  10:07 PM             1,994 pfil.xml
+05/22/2006  09:10 PM             2,834 rarp.xml
+05/22/2006  09:10 PM             2,862 rexec.xml
+05/22/2006  10:07 PM    <DIR>          rpc
+05/22/2006  09:10 PM    <DIR>          security
+05/22/2006  09:10 PM             3,911 shell.xml
+05/22/2006  09:10 PM             2,698 slp.xml
+05/22/2006  09:10 PM             4,453 smtp-sendmail.xml
+05/22/2006  09:10 PM             3,780 ssh.xml
+05/22/2006  09:10 PM    <DIR>          ssl
+05/22/2006  09:10 PM             2,813 talk.xml
+05/22/2006  09:10 PM             2,740 telnet.xml
+05/22/2006  09:10 PM             3,345 time.xml
+05/22/2006  09:10 PM             2,567 tname.xml
+05/22/2006  09:10 PM             2,486 uucp.xml
+              30 File(s)         89,976 bytes
+
+ Directory of G:\var\svc\manifest\network\dns
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,069 client.xml
+               1 File(s)          2,069 bytes
+
+ Directory of G:\var\svc\manifest\network\ldap
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,952 client.xml
+               1 File(s)          2,952 bytes
+
+ Directory of G:\var\svc\manifest\network\nfs
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,002 cbd.xml
+05/22/2006  09:10 PM             3,778 client.xml
+05/22/2006  09:10 PM             3,166 mapid.xml
+05/22/2006  09:10 PM             2,996 nlockmgr.xml
+05/22/2006  09:10 PM             3,086 rquota.xml
+05/22/2006  09:10 PM             4,289 server.xml
+05/22/2006  09:10 PM             2,821 status.xml
+               7 File(s)         23,138 bytes
+
+ Directory of G:\var\svc\manifest\network\nis
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,538 client.xml
+05/22/2006  09:10 PM             2,222 passwd.xml
+05/22/2006  09:10 PM             2,236 update.xml
+05/22/2006  09:10 PM             2,215 xfr.xml
+               4 File(s)          9,211 bytes
+
+ Directory of G:\var\svc\manifest\network\rpc
+
+05/22/2006  10:07 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  10:07 PM             4,454 bind.xml
+05/22/2006  09:10 PM             2,844 bootparams.xml
+05/22/2006  09:10 PM             3,256 gss.xml
+05/22/2006  09:10 PM             2,230 keyserv.xml
+05/22/2006  09:10 PM             2,233 nisplus.xml
+05/22/2006  09:10 PM             2,999 rex.xml
+05/22/2006  09:10 PM             3,080 rstat.xml
+05/22/2006  09:10 PM             3,194 rusers.xml
+05/22/2006  10:07 PM             2,759 sgi_fam_1-2-rpc_tcp.xml
+05/22/2006  09:10 PM             3,133 smserver.xml
+05/22/2006  09:10 PM             3,070 spray.xml
+05/22/2006  09:10 PM             3,085 wall.xml
+              12 File(s)         36,337 bytes
+
+ Directory of G:\var\svc\manifest\network\security
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             1,579 kadmin.xml
+05/22/2006  09:10 PM             1,862 krb5_prop.xml
+05/22/2006  09:10 PM             1,562 krb5kdc.xml
+05/22/2006  09:10 PM             2,134 ktkt_warn.xml
+               4 File(s)          7,137 bytes
+
+ Directory of G:\var\svc\manifest\network\ssl
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:24 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,166 kssl-proxy.xml
+               1 File(s)          2,166 bytes
+
+ Directory of G:\var\svc\manifest\platform
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:10 PM    <DIR>          i86pc
+05/22/2006  09:07 PM    <DIR>          sun4u
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\platform\i86pc
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+05/22/2006  09:10 PM             2,150 eeprom.xml
+               1 File(s)          2,150 bytes
+
+ Directory of G:\var\svc\manifest\platform\sun4u
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  09:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\site
+
+05/22/2006  09:18 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:18 PM             2,386 powernow.xml
+               1 File(s)          2,386 bytes
+
+ Directory of G:\var\svc\manifest\system
+
+05/22/2006  10:07 PM    <DIR>          .
+05/22/2006  09:08 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,725 auditd.xml
+05/22/2006  09:10 PM             2,395 boot-archive.xml
+05/22/2006  09:10 PM             2,195 consadm.xml
+05/22/2006  09:10 PM             2,883 console-login.xml
+05/22/2006  09:10 PM             2,266 coreadm.xml
+05/22/2006  09:10 PM             2,968 cron.xml
+05/22/2006  09:10 PM             2,447 cryptosvc.xml
+05/22/2006  09:10 PM    <DIR>          device
+05/22/2006  09:10 PM             2,906 dumpadm.xml
+05/22/2006  09:10 PM    <DIR>          filesystem
+05/22/2006  09:10 PM             3,141 fmd.xml
+05/22/2006  09:10 PM             3,081 identity.xml
+05/22/2006  09:10 PM             2,067 intrd.xml
+05/22/2006  09:10 PM             2,337 keymap.xml
+05/22/2006  09:10 PM             2,418 manifest-import.xml
+05/22/2006  09:10 PM             2,761 name-service-cache.xml
+05/22/2006  09:10 PM             2,144 picl.xml
+05/22/2006  09:10 PM             2,843 poold.xml
+05/22/2006  09:10 PM             2,978 pools.xml
+05/22/2006  09:10 PM             3,011 power.xml
+05/22/2006  09:10 PM             2,754 rcap.xml
+05/22/2006  09:10 PM             2,300 rmtmpfiles.xml
+05/22/2006  09:10 PM             2,911 sac.xml
+05/22/2006  09:10 PM             2,538 sar.xml
+05/22/2006  09:10 PM             2,790 scheduler.xml
+05/22/2006  09:08 PM    <DIR>          security
+05/22/2006  09:10 PM    <DIR>          svc
+05/22/2006  10:07 PM             4,591 sysconfigure.xml
+05/22/2006  09:10 PM             2,405 sysevent.xml
+05/22/2006  09:10 PM             3,348 system-log.xml
+05/22/2006  09:10 PM             2,465 utmp.xml
+05/22/2006  09:10 PM             2,494 zones.xml
+              28 File(s)         77,162 bytes
+
+ Directory of G:\var\svc\manifest\system\device
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,206 devices-local.xml
+               1 File(s)          3,206 bytes
+
+ Directory of G:\var\svc\manifest\system\filesystem
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+05/22/2006  09:10 PM             3,403 autofs.xml
+05/22/2006  09:10 PM             2,383 local-fs.xml
+05/22/2006  09:10 PM             2,389 minimal-fs.xml
+05/22/2006  09:10 PM             1,954 root-fs.xml
+05/22/2006  09:10 PM             2,352 usr-fs.xml
+05/22/2006  09:10 PM             3,535 volfs.xml
+               6 File(s)         16,016 bytes
+
+ Directory of G:\var\svc\manifest\system\security
+
+05/22/2006  09:08 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\var\svc\manifest\system\svc
+
+05/22/2006  09:10 PM    <DIR>          .
+05/22/2006  10:07 PM    <DIR>          ..
+05/22/2006  09:10 PM             1,898 restarter.xml
+               1 File(s)          1,898 bytes
+
+ Directory of G:\vol
+
+05/22/2006  09:07 PM    <DIR>          .
+05/22/2006  11:30 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             552 File(s)    730,611,018 bytes
+             330 Dir(s)               0 bytes free

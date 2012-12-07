@@ -1,0 +1,90 @@
+Folder PATH listing for volume SMS
+Volume serial number is 595D-4C4C
+J:\
++---boot
+|   |   bootinst.bat
+|   |   bootinst.sh
+|   |   chain.c32
+|   |   initrd.gz
+|   |   initrd.splash
+|   |   liloinst.sh
+|   |   mt86p
+|   |   sms.cfg
+|   |   sms.jpg
+|   |   vesamenu.c32
+|   |   vmlinuz
+|   |   
+|   +---dos
+|   |       config
+|   |       linld097.com
+|   |       readme.txt
+|   |       sms.bat
+|   |       
+|   +---isolinux
+|   |       isolinux.bin
+|   |       isolinux.boot
+|   |       isolinux.cfg
+|   |       
+|   +---pxelinux.cfg
+|   |   |   default
+|   |   |   dnsmasq
+|   |   |   pxelinux.0
+|   |   |   start
+|   |   |   
+|   |   \---web
+|   |       |   monkey
+|   |       |   start
+|   |       |   
+|   |       \---conf
+|   |               modules.conf
+|   |               monkey.conf
+|   |               monkey.deny
+|   |               monkey.mime
+|   |               
+|   \---syslinux
+|           lilo
+|           mbr.bin
+|           syslinux
+|           syslinux.cfg
+|           syslinux.com
+|           syslinux.exe
+|           
+\---sms
+    |   LICENSE
+    |   livecd.sgn
+    |   make_iso.bat
+    |   make_iso.sh
+    |   
+    +---base
+    |       bin.lzm
+    |       etc.lzm
+    |       home.lzm
+    |       lib.lzm
+    |       lib64.lzm
+    |       opt.lzm
+    |       root.lzm
+    |       sbin.lzm
+    |       srv.lzm
+    |       usr.lzm
+    |       var.lzm
+    |       
+    +---modules
+    +---optional
+    +---rootcopy
+    \---tools
+        |   activate
+        |   deactivate
+        |   deb2lzm
+        |   dir2lzm
+        |   liblinuxlive
+        |   lzm2dir
+        |   mksquashfs
+        |   tgz2lzm
+        |   txz2lzm
+        |   unsquashfs
+        |   
+        \---WIN
+                config
+                cygwin1.dll
+                mkisofs.exe
+                

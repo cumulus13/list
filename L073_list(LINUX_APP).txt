@@ -1,0 +1,473 @@
+ Volume in drive J is LINUX_APP_001
+ Volume Serial Number is 7F17-EABD
+
+ Directory of J:\
+
+01/14/2009  04:46 PM        59,478,385 123flashchat.tar.gz
+01/14/2009  04:42 PM        50,448,982 123flashchat22.tar.gz
+01/31/2009  06:03 AM    <DIR>          AnyGui
+01/30/2009  08:30 PM    <DIR>          Dynamips for UNIX
+11/24/2008  06:44 PM           180,336 LFS-BOOK-6.4-HTML.tar.bz2
+02/02/2009  07:06 PM    <DIR>          LINUX_LIB_&_APP
+08/14/2008  05:56 AM           901,120 MailScanner-3.13-2.tar
+01/16/2009  05:38 PM        38,855,374 ManageEngine_FirewallAnalyzer.bin
+01/30/2009  02:31 PM        76,425,379 Maple_Linux.zip
+01/20/2009  03:18 PM            87,078 MySQL-python-1.2.2.tar.gz
+01/20/2009  03:24 PM            86,414 MySQL-python-1.2.2c1.tar.gz
+08/14/2008  05:54 AM            71,089 Net-Server-0.88.tar.tar
+01/30/2009  08:06 PM    <DIR>          PERL2EXE
+02/02/2009  09:28 AM    <DIR>          PERL_PROGRAMMING
+02/02/2009  09:28 AM    <DIR>          PYTHON_PROGRAMMING
+01/16/2009  05:00 PM         3,851,866 ParaChatStandard.tar.gz
+08/14/2008  05:54 AM             8,073 PgSQL-0.51.tar.tar
+08/14/2008  05:52 AM           743,691 PyQt-x11-gpl-3.8.1.tar.tar
+02/02/2009  07:52 AM    <DIR>          ROUTER2
+01/31/2009  06:11 AM    <DIR>          Ruby_On_Rails_v2.2.2
+02/02/2009  07:52 AM    <DIR>          Shorewall
+08/08/2008  07:45 AM         3,811,341 Shorewall-2.0.3.pdf
+01/31/2009  06:12 AM    <DIR>          Typo_Ruby_On_Rails
+08/14/2008  05:55 AM           127,848 USB-guide-1.0.10.tar.tar
+11/22/2008  01:21 PM        27,967,488 VBoxGuestAdditions_2.0.4.iso
+01/31/2009  07:02 AM    <DIR>          VMWARE_for_LINUX
+01/30/2009  09:58 PM    <DIR>          WingIDE
+01/31/2009  06:11 AM    <DIR>          ZOPE-STUDIO
+08/08/2008  08:24 AM         8,736,576 ZendOptimizer-3.2.0-linux-glibc21-i386.tar.gz
+07/12/2006  09:59 AM         2,303,147 apache_1.3.26.tar.tar
+08/14/2008  05:56 AM           622,465 awstats-5.6.tar
+08/14/2008  05:55 AM           194,560 bandwidthd-1.2.1b.tar
+08/14/2008  06:16 AM        12,941,960 binutils-2.13.1.tar.tar
+01/13/2009  03:47 PM         9,006,604 codeblocks-8.02-0fc8-i586.tar.gz
+01/13/2009  03:50 PM        21,103,159 codeblocks_8.02-0ubuntu1.deb.tar.gz
+08/14/2008  05:56 AM            37,362 cyrproxy-1_4_2.tar
+01/06/2009  10:05 AM             2,603 ffsniff-0.1.xpi
+01/06/2009  10:06 AM             3,083 ffsniff-0.2.tar.tar
+01/06/2009  10:06 AM             3,696 ffsniff-0.3.tar.tar
+12/07/2008  11:47 AM            95,371 ftpmap-0.4.tar.gz
+12/07/2008  11:47 AM            47,836 ftpstats-0.8.7.tar.gz
+08/14/2008  05:56 AM           257,631 gd-1.8.4.tar.tar
+08/14/2008  05:58 AM           587,617 gd-2.0.33.tar.tar
+12/03/2008  06:11 PM            69,675 icon-naming-utils-0.8.7.tar.gz
+12/04/2008  01:06 PM           562,490 libemu-0.1.0.tar.gz
+12/04/2008  01:06 PM           414,692 libemu-0.1.0.tar.tar
+12/04/2008  01:08 PM           414,692 libemu-0.1.0.tar_2.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar_2.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar_2_2.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar_2_3.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar_3.tar
+08/14/2008  06:09 AM         3,936,785 linux.intel.libc5.tar_4.tar
+08/14/2008  05:46 AM         1,473,608 p7zip_4.57_src_all.tar.bz2
+01/14/2009  04:43 PM           664,619 phpPgAdmin-4.2.2.tar.bz2
+12/07/2008  11:47 AM           191,856 pure-db-2.1.tar.gz
+12/07/2008  11:46 AM           476,117 pure-ftpd-1.0.21.tar.bz2
+12/07/2008  11:46 AM           594,394 pure-ftpd-1.0.21.tar.gz
+12/07/2008  11:48 AM           492,969 pure-ftpd-1.0.22.tar.bz2
+12/07/2008  11:48 AM           575,747 pure-ftpd-1.0.22.tar.gz
+12/07/2008  11:46 AM            12,165 pure-ftpd.png
+08/14/2008  05:48 AM         3,050,041 pygtk-2.12.1.tar.gz
+01/14/2009  04:10 PM         1,565,960 realchat-unix.tar.gz
+08/04/2006  01:25 AM             5,173 rx11vnc.pl
+07/14/2007  01:32 PM             2,427 rx11vnc.zip
+02/16/2007  06:48 PM            81,920 samdump2-1.1.0.tar
+08/08/2008  07:43 AM           110,191 shorewall-2.0.3a-1.noarch.rpm
+12/31/2008  03:56 PM    <DIR>          smartbox-1.0_rc1
+06/05/2007  12:59 AM           714,058 snort_inline-2.0.6a-bin_2.gz
+06/11/2007  10:59 PM            19,573 snort_portscan.tar.gz
+09/04/2001  12:19 PM            19,047 snortr15.tgz
+08/03/2001  01:38 AM            64,762 snortsnf.tgz
+01/28/2009  05:54 PM         8,687,114 sython.tgz
+08/14/2008  05:40 AM            34,574 tcpflow_perl.tar.gz
+08/14/2008  05:53 AM            65,982 tmake-1.11.tar.tar
+08/14/2008  05:52 AM             1,110 tmake-sharp.tar.tar
+01/13/2009  03:50 PM                 0 typo-5.1.98.gem
+01/13/2009  03:52 PM         3,232,612 typo-5.1.98.zip
+08/16/2008  05:48 AM           158,198 tzdata2007c.tar.gz
+08/16/2008  05:48 AM           258,198 tzupdater-1_2_1-2007f.zip
+12/07/2008  11:48 AM           326,945 ucarp-1.5.tar.bz2
+12/07/2008  11:48 AM           447,543 ucarp-1.5.tar.gz
+08/14/2008  06:18 AM        18,701,461 wingide-3.1.3-1-i386-linux.tar.gz
+12/07/2008  12:13 PM        61,209,332 xampp-linux-1.6.7.tar.gz
+08/14/2008  05:53 AM            34,850 zic-0.2.tar.tar
+              71 File(s)    447,342,939 bytes
+
+ Directory of J:\AnyGui
+
+01/31/2009  06:03 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/06/2009  08:28 AM           201,422 anygui-0.1.1-1.noarch.rpm
+01/06/2009  08:27 AM            79,760 anygui-0.1.1-1.src.rpm
+01/06/2009  08:28 AM           716,254 anygui-0.1.1.tar.gz
+01/06/2009  08:27 AM           103,952 anygui-0.1.1.win32.exe
+               4 File(s)      1,101,388 bytes
+
+ Directory of J:\Dynamips for UNIX
+
+01/30/2009  08:30 PM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/30/2009  05:30 PM           606,741 dynagen-0.9.3.tar.gz
+01/30/2009  05:30 PM           917,608 dynamips-0.2.7-x86.bin
+               2 File(s)      1,524,349 bytes
+
+ Directory of J:\LINUX_LIB_&_APP
+
+02/02/2009  07:06 PM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+08/16/2008  06:01 AM           181,131 Xsettings-client-0.10.tar.gz
+08/16/2008  05:52 AM         1,345,700 gd-2.0.35.tar.gz
+08/16/2008  05:52 AM         1,595,858 gd-2.0.36RC1.tar.bz2
+08/16/2008  05:52 AM         1,700,179 gd-2.0.36RC1.tar.gz
+08/16/2008  06:01 AM         1,295,036 glib2-2.6.0-i486-1ph.gz
+08/16/2008  05:58 AM           359,574 iproute2-2.6.26.tar.tar
+08/16/2008  05:58 AM           359,574 iproute2-latest
+08/16/2008  05:58 AM           345,765 iproute2-ss050607.tar.tar
+08/16/2008  05:54 AM           613,261 jpegsrc.v6b.tar.tar
+08/16/2008  05:57 AM           474,832 libgd-2.0.33-i686-1sh.gz
+08/16/2008  05:56 AM            81,416 libgpg-error-1.0-i686-1sh.gz
+08/16/2008  05:49 AM           517,562 libpcap-0.9.7.tar.gz
+08/16/2008  05:53 AM           785,699 libpng-1.0.38.tar.gz
+08/16/2008  05:54 AM           518,214 libpng-1.2.30-no-config.tar.gz
+08/16/2008  05:54 AM           502,865 libpng-1.2.7.tar.tar
+08/16/2008  05:54 AM           510,681 libpng-1.2.8.tar.tar
+08/16/2008  06:00 AM           588,446 mrtg-2.16.2-i486-1gds.gz
+08/16/2008  06:04 AM         3,421,106 mysql-gui-tools-5.0r12-i486-1gds.gz
+08/16/2008  06:00 AM            50,825 pycairo-1.4.0-i486-1gds.gz
+08/16/2008  06:42 AM           335,531 pygobject-2.12.0.tar.bz2
+08/16/2008  06:43 AM           416,777 pygobject-2.12.0.tar.gz
+08/16/2008  06:43 AM           339,088 pygobject-2.12.3.tar.bz2
+08/16/2008  06:48 AM           421,080 pygobject-2.12.3.tar.gz
+08/16/2008  06:00 AM           153,661 pygobject-2.13.2-i486-1gds.gz
+08/16/2008  05:58 AM           455,101 pygobject_2.14.2.orig.tar.gz
+08/13/2008  06:09 AM        49,131,520 webmin-1.430.tar
+08/16/2008  06:45 AM        13,671,616 webmin-1.430.tar.gz
+08/16/2008  06:56 AM        17,872,770 webmin-1.430.zip
+08/16/2008  05:54 AM           430,469 zlib-1.2.2.tar.tar
+              29 File(s)     98,475,337 bytes
+
+ Directory of J:\PERL2EXE
+
+01/30/2009  08:06 PM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/30/2009  05:55 PM        11,079,523 p2x-7.02-Linux.tar.gz
+01/30/2009  05:58 PM        12,583,659 p2x-8.70-Linux.tar.gz
+01/30/2009  05:57 PM        12,379,153 p2x-8.80-FreeBSD.tar.gz
+01/30/2009  05:51 PM        12,623,301 p2x-8.80-Linux.tar.gz
+01/30/2009  05:51 PM        14,012,387 p2x-9.100-Linux.tar.gz
+01/30/2009  05:52 PM        14,536,182 p2x-9.100-SunOS.tar.gz
+               6 File(s)     77,214,205 bytes
+
+ Directory of J:\PERL_PROGRAMMING
+
+02/02/2009  09:28 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+08/16/2008  06:19 AM           162,675 CGI.pm-3.37-PPM58.tar.gz
+08/16/2008  06:13 AM           221,807 DBD-DB2-0.78-5.8.4.tar.tar
+08/16/2008  06:14 AM           398,915 DBI-1.45-5.8.4.tar.tar
+08/16/2008  01:48 PM               358 DBI.ppd
+08/16/2008  06:12 AM           435,809 DBI.tar.gz
+08/16/2008  06:27 AM            36,708 Net-Pcap-0.16-PPM510.tar.gz
+08/16/2008  06:27 AM            48,869 Net-Pcap-0.16-PPM56.tar.gz
+08/16/2008  06:27 AM            48,648 Net-Pcap-0.16-PPM58.tar.gz
+08/16/2008  06:27 AM             6,609 Net-Pcap-Reassemble-0.03-PPM510.tar.gz
+08/16/2008  06:27 AM             7,867 Net-Pcap-Reassemble-0.03-PPM56.tar.gz
+08/16/2008  06:27 AM             7,816 Net-Pcap-Reassemble-0.03-PPM58.tar.gz
+08/16/2008  06:04 AM               511 Net-Pcap-Reassemble-0.03.xml
+08/16/2008  06:04 AM               592 Net-Pcap-Reassemble.xml
+08/16/2008  06:28 AM             3,563 Net-PcapUtils-0.01-PPM510.tar.gz
+08/16/2008  06:27 AM             4,783 Net-PcapUtils-0.01-PPM56.tar.gz
+08/16/2008  06:27 AM             4,745 Net-PcapUtils-0.01-PPM58.tar.gz
+              16 File(s)      1,390,275 bytes
+
+ Directory of J:\PYTHON_PROGRAMMING
+
+02/02/2009  09:28 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+08/16/2008  06:13 AM         1,189,943 Cython-0.9.6.14.tar.gz
+08/16/2008  06:19 AM         1,833,315 Cython-0.9.8.zip
+08/16/2008  06:15 AM           242,257 Pyrex-0.9.8.4.tar.gz
+08/16/2008  06:16 AM           419,057 Pyrex-Tests-0.9.8.4.tar.gz
+08/16/2008  06:21 AM               397 Setup.py
+08/16/2008  06:22 AM               743 cpp_rect.cpp
+08/16/2008  06:22 AM               276 cpp_rect.h
+08/16/2008  06:18 AM            18,078 python24.def
+08/16/2008  06:17 AM            18,078 python24_2.def
+08/16/2008  06:22 AM             1,642 rectangle.pyx
+              10 File(s)      3,723,786 bytes
+
+ Directory of J:\ROUTER2
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+07/04/2007  03:04 PM                75 Desktop.ini
+05/20/2007  05:43 AM         1,426,799 Gateway.7z
+03/15/2007  02:18 PM             9,268 Manajemen Bandwidth Di Squid Menggunakan Delay Pools ® myDeden_Kom.txt
+07/27/2005  04:51 PM           123,693 ROUTERtest.zip
+07/20/2006  06:39 AM         7,389,326 Wiley Publishing - Snort For Dummies [2004].pdf
+07/12/2006  09:59 AM         2,303,147 apache_1.3.26.tar.tar
+06/12/2007  12:27 AM            33,438 cbq.init-v0.7.3
+06/12/2007  12:30 AM            33,438 cbq.init-v0.7.32.3
+06/12/2008  10:12 PM           542,208 diagcmd.exe
+07/18/2007  01:29 AM             5,616 firewall
+06/24/2007  08:24 PM               512 httpd-Joomla.conf
+06/06/2007  04:18 AM             5,076 iptables.script
+07/18/2007  01:48 AM             6,050 iptableshady.txt
+07/17/2007  11:14 PM            11,590 iptableshadylat.sh
+06/21/2007  05:41 PM           106,186 listperl.txt
+06/11/2007  08:44 AM            45,871 portsentry-1.1.tar.gz
+06/22/2007  11:22 AM         2,826,240 pure-ftpd-1.0.22.tar
+06/26/2007  10:21 PM             1,184 pure-ftpd.txt
+06/11/2007  11:26 PM         1,462,986 quagga-0.96.3-3.i386.rpm
+06/11/2007  11:25 PM         1,520,442 quagga-0.96.4-3.i386.rpm
+06/11/2007  11:26 PM         1,515,790 quagga-0.96.4-3.i686.rpm
+05/12/2007  07:42 PM            12,169 rules.txt
+07/18/2007  01:35 AM            12,161 rules2.txt
+07/18/2007  01:38 AM            11,828 rules3.txt
+06/17/2007  12:41 PM           147,401 scapy-1.1.1.tar_2.gz
+02/02/2009  07:52 AM    <DIR>          shorewall
+02/02/2009  07:52 AM    <DIR>          snort
+07/08/2007  11:35 AM           500,736 snort.tar
+06/27/2006  11:05 PM             3,004 snort_simple_test.pl
+02/02/2009  07:52 AM    <DIR>          squid
+              27 File(s)     20,056,234 bytes
+
+ Directory of J:\ROUTER2\shorewall
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:52 AM    <DIR>          ..
+07/07/2007  06:23 PM            12,288 .rules.swp
+07/07/2007  04:02 PM               435 Makefile
+07/07/2007  04:02 PM               477 accounting
+07/07/2007  04:02 PM               362 actions
+07/07/2007  04:02 PM               379 blacklist
+07/07/2007  04:02 PM               459 continue
+07/07/2007  04:02 PM               343 ecn
+07/07/2007  04:02 PM               357 hosts
+07/07/2007  04:02 PM               425 init
+07/07/2007  04:02 PM               510 initdone
+07/07/2007  04:32 PM               435 interfaces
+07/07/2007  04:02 PM               225 ipsec
+07/07/2007  04:02 PM               384 maclist
+07/07/2007  04:34 PM               405 masq
+07/07/2007  04:02 PM               368 nat
+07/07/2007  04:02 PM               361 netmap
+07/07/2007  04:02 PM               716 params
+07/07/2007  04:35 PM               640 policy
+07/07/2007  04:02 PM               402 providers
+07/07/2007  04:02 PM               375 proxyarp
+07/07/2007  04:02 PM               368 route_rules
+07/07/2007  04:02 PM               445 routestopped
+07/11/2007  12:12 AM             1,297 rules
+07/07/2007  04:04 PM             3,224 shorewall.conf
+07/07/2007  04:02 PM               399 start
+07/07/2007  04:02 PM               837 started
+07/07/2007  04:02 PM               398 stop
+07/07/2007  04:02 PM               405 stopped
+07/07/2007  04:42 PM               541 tcclasses
+07/07/2007  04:41 PM               411 tcdevices
+07/07/2007  04:49 PM               899 tcrules
+07/07/2007  04:02 PM               294 tos
+07/07/2007  04:02 PM               380 tunnels
+07/07/2007  04:33 PM               417 zones
+              34 File(s)         30,661 bytes
+
+ Directory of J:\ROUTER2\snort
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:52 AM    <DIR>          ..
+04/17/2003  03:28 PM             6,426 Makefile
+04/04/2003  04:10 AM               722 Makefile.am
+04/09/2003  11:01 PM             6,009 Makefile.in
+07/07/2007  12:20 PM             4,253 attack-responses.rules
+07/07/2007  12:25 PM            10,715 backdoor.rules
+07/07/2007  12:07 PM             2,057 bad-traffic.rules
+07/07/2007  12:25 PM             4,318 chat.rules
+04/17/2003  03:56 PM             3,455 classification.config
+07/07/2007  12:13 PM             6,408 ddos.rules
+07/07/2007  12:25 PM            23,923 deleted.rules
+07/07/2007  12:14 PM             4,768 dns.rules
+07/07/2007  12:13 PM             4,081 dos.rules
+04/04/2003  04:10 AM               417 experimental.rules
+07/07/2007  12:09 PM             9,861 exploit.rules
+07/07/2007  12:10 PM             3,053 finger.rules
+07/07/2007  12:11 PM            11,515 ftp.rules
+07/07/2007  12:18 PM            15,349 icmp-info.rules
+07/07/2007  12:18 PM             4,455 icmp.rules
+07/07/2007  12:22 PM             3,908 imap.rules
+07/07/2007  12:25 PM             1,411 info.rules
+04/04/2003  04:10 AM               150 local.rules
+07/07/2007  12:19 PM             8,636 misc.rules
+07/07/2007  12:25 PM             1,507 multimedia.rules
+04/04/2003  04:10 AM               773 mysql.rules
+07/07/2007  12:19 PM             4,730 netbios.rules
+07/07/2007  12:19 PM               713 nntp.rules
+04/04/2003  04:10 AM             6,081 oracle.rules
+07/07/2007  12:25 PM             1,311 other-ids.rules
+07/07/2007  12:25 PM             2,818 p2p.rules
+07/07/2007  12:25 PM             4,228 policy.rules
+07/07/2007  12:25 PM               930 pop2.rules
+07/07/2007  12:25 PM             2,617 pop3.rules
+07/07/2007  12:25 PM             4,808 porn.rules
+04/17/2003  03:56 PM               548 reference.config
+07/07/2007  12:12 PM            24,977 rpc.rules
+07/07/2007  12:12 PM             2,316 rservices.rules
+07/07/2007  12:09 PM             4,444 scan.rules
+07/07/2007  12:25 PM             4,162 shellcode.rules
+07/17/2007  10:34 AM             6,310 smtp.rules
+07/07/2007  12:22 PM             3,826 snmp.rules
+07/07/2007  12:17 PM            11,596 sql.rules
+04/04/2003  04:10 AM             3,404 telnet.rules
+07/07/2007  12:14 PM             2,115 tftp.rules
+04/04/2003  04:10 AM            14,996 virus.rules
+07/07/2007  12:15 PM            10,306 web-attacks.rules
+07/07/2007  12:14 PM            79,068 web-cgi.rules
+07/07/2007  12:15 PM             1,662 web-client.rules
+07/07/2007  12:17 PM             8,898 web-coldfusion.rules
+04/04/2003  04:10 AM             8,397 web-frontpage.rules
+07/07/2007  12:15 PM            29,201 web-iis.rules
+07/07/2007  12:16 PM            70,087 web-misc.rules
+07/07/2007  12:17 PM             6,072 web-php.rules
+07/07/2007  12:18 PM               512 x11.rules
+              53 File(s)        459,303 bytes
+
+ Directory of J:\ROUTER2\squid
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:52 AM    <DIR>          ..
+06/20/2007  11:51 AM               900 ACCESS CONTROLS.txt
+02/26/2007  11:37 PM               419 cachemgr.conf
+06/22/2007  02:10 AM             2,050 command.txt
+02/02/2009  07:52 AM    <DIR>          errors
+02/26/2007  11:37 PM            11,651 mime.conf
+02/26/2007  11:37 PM            11,651 mime.conf.default
+02/26/2007  11:37 PM               421 msntauth.conf
+02/26/2007  11:37 PM               421 msntauth.conf.default
+07/20/2007  12:05 AM           124,648 squid.conf
+02/26/2007  11:37 PM           119,443 squid.conf.default
+07/19/2007  11:57 PM           124,734 squidfortrustix.conf
+              10 File(s)        396,338 bytes
+
+ Directory of J:\ROUTER2\squid\errors
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:52 AM    <DIR>          ..
+02/26/2007  11:37 PM               848 ERR_ACCESS_DENIED
+02/26/2007  11:37 PM             1,069 ERR_CACHE_ACCESS_DENIED
+02/26/2007  11:37 PM             1,170 ERR_CACHE_MGR_ACCESS_DENIED
+02/26/2007  11:37 PM             1,034 ERR_CANNOT_FORWARD
+02/26/2007  11:37 PM               826 ERR_CONNECT_FAIL
+02/26/2007  11:37 PM               912 ERR_DNS_FAIL
+02/26/2007  11:37 PM               863 ERR_FORWARDING_DENIED
+02/26/2007  11:37 PM               729 ERR_FTP_DISABLED
+02/26/2007  11:37 PM               869 ERR_FTP_FAILURE
+02/26/2007  11:37 PM               877 ERR_FTP_FORBIDDEN
+02/26/2007  11:37 PM             1,020 ERR_FTP_NOT_FOUND
+02/26/2007  11:37 PM               453 ERR_FTP_PUT_CREATED
+02/26/2007  11:37 PM               799 ERR_FTP_PUT_ERROR
+02/26/2007  11:37 PM               453 ERR_FTP_PUT_MODIFIED
+02/26/2007  11:37 PM               866 ERR_FTP_UNAVAILABLE
+02/26/2007  11:37 PM             1,003 ERR_INVALID_REQ
+02/26/2007  11:37 PM               963 ERR_INVALID_RESP
+02/26/2007  11:37 PM               971 ERR_INVALID_URL
+02/26/2007  11:37 PM               798 ERR_LIFETIME_EXP
+02/26/2007  11:37 PM               774 ERR_NO_RELAY
+02/26/2007  11:37 PM               998 ERR_ONLY_IF_CACHED_MISS
+02/26/2007  11:37 PM               835 ERR_READ_ERROR
+02/26/2007  11:37 PM               885 ERR_READ_TIMEOUT
+02/26/2007  11:37 PM               776 ERR_SHUTTING_DOWN
+02/26/2007  11:37 PM               847 ERR_SOCKET_FAILURE
+02/26/2007  11:37 PM             1,087 ERR_TOO_BIG
+02/26/2007  11:37 PM               837 ERR_UNSUP_REQ
+02/26/2007  11:37 PM               749 ERR_URN_RESOLVE
+02/26/2007  11:37 PM               829 ERR_WRITE_ERROR
+02/26/2007  11:37 PM               746 ERR_ZERO_SIZE_OBJECT
+              30 File(s)         25,886 bytes
+
+ Directory of J:\Ruby_On_Rails_v2.2.2
+
+01/31/2009  06:11 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/13/2009  04:17 PM         1,224,192 rails-2.2.2.gem
+01/13/2009  04:18 PM        12,818,289 rails-2.2.2.tgz.tar
+01/13/2009  04:13 PM        15,841,439 rails-2.2.2.zip
+               3 File(s)     29,883,920 bytes
+
+ Directory of J:\Shorewall
+
+02/02/2009  07:52 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+11/23/2008  03:25 PM             9,528 patch-common-4.2.2
+11/23/2008  03:25 PM             8,709 patch-perl-4.2.2
+11/23/2008  03:26 PM             2,543 patch-shell-4.2.2
+12/08/2007  10:00 AM           196,671 shorewall-3.0.8-noarch-1.tgz
+12/06/2007  03:55 PM           278,007 shorewall-3.2.3-3pclos2007.noarch.rpm
+11/23/2008  03:26 PM           184,434 shorewall-common-4.2.2.tar
+11/23/2008  03:25 PM           126,941 shorewall-perl-4.2.2.tar
+11/23/2008  03:25 PM            91,099 shorewall-shell-4.2.2.tar
+               8 File(s)        897,932 bytes
+
+ Directory of J:\Typo_Ruby_On_Rails
+
+01/31/2009  06:12 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/13/2009  04:28 PM         2,019,328 typo-5.1.3.gem
+01/13/2009  04:28 PM         2,017,115 typo-5.1.3.tgz
+01/13/2009  04:28 PM         2,017,115 typo-5.1.3.tgz.tar
+01/13/2009  04:29 PM         3,085,490 typo-5.1.3.zip
+01/13/2009  04:22 PM         2,159,616 typo-5.1.98.gem
+01/13/2009  04:23 PM         2,156,496 typo-5.1.98.tgz
+01/13/2009  04:23 PM         3,232,612 typo-5.1.98.zip
+01/13/2009  04:23 PM         2,159,616 typo-5.1.982.gem
+               8 File(s)     18,847,388 bytes
+
+ Directory of J:\VMWARE_for_LINUX
+
+01/31/2009  07:02 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/28/2009  05:51 PM       106,253,966 VMware-server-1.0.8-126538.i386.rpm
+01/28/2009  07:08 PM       489,878,150 VMware-server-2.0.0-122956.i386.rpm
+01/30/2009  05:37 PM       565,247,832 VMware-server-2.0.0-122956.i386.tar.gz
+01/28/2009  05:33 PM        18,460,912 VMware-vix-1.6.0-122956.i386.tar.gz
+01/28/2009  06:37 PM           257,114 VMware.ACE.Management.Server.v2.0.0.45797.Incl.Keymaker-ZWT.zip
+01/27/2009  03:08 PM           172,758 VMware.GSX.Server.v3.1.for.Linux-ROR.ZIP
+01/27/2009  03:05 PM            20,879 VMware_v1.0.2_build_452_by_DAMN.zip
+               7 File(s)  1,180,291,611 bytes
+
+ Directory of J:\WingIDE
+
+01/30/2009  09:58 PM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/28/2009  05:18 PM        16,940,358 wingide-101-3.1-3.1.7-1.i386.rpm
+01/28/2009  05:18 PM        16,839,308 wingide-101-3.1.7-1-i386-linux.tar.gz
+01/28/2009  05:24 PM        25,439,288 wingide-101-3.1.7-1-i386.dmg
+01/28/2009  05:19 PM        20,767,113 wingide-101-3.1.7-1-ppc.dmg
+01/28/2009  05:17 PM        16,180,826 wingide-101-3.1_3.1.7-1_i386.deb
+01/28/2009  05:24 PM        19,190,999 wingide-3.1.7-1-i386-linux.tar.gz
+01/28/2009  05:22 PM        19,287,712 wingide3.1-3.1.7-1.i386.rpm
+01/28/2009  05:23 PM        18,514,974 wingide3.1_3.1.7-1_i386.deb
+               8 File(s)    153,160,578 bytes
+
+ Directory of J:\ZOPE-STUDIO
+
+01/31/2009  06:11 AM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+01/13/2009  03:41 PM           974,534 CMF-2.1.1.tar.gz
+01/13/2009  03:41 PM         1,492,490 CMF-2.1.1.zip
+01/13/2009  03:40 PM            56,090 Workflow-3.0.0.tgz
+01/13/2009  03:38 PM         6,594,248 Zope-3.3.1.tgz
+01/13/2009  03:39 PM         8,487,670 Zope-3.3.1.win32-py2.4.exe
+01/13/2009  06:52 PM         7,878,910 Zope-3.3.1.win32-py2.4.exe.zip
+01/13/2009  03:40 PM            74,462 bugtracker-3.0.0.tgz
+01/13/2009  03:39 PM            23,376 mysqldbda-1.0.0.tgz
+01/13/2009  03:38 PM            27,150 psycopgda-1.0.0.tgz
+01/13/2009  03:40 PM            42,978 zwiki-3.0.0.tgz
+              10 File(s)     25,651,908 bytes
+
+ Directory of J:\smartbox-1.0_rc1
+
+12/31/2008  03:56 PM    <DIR>          .
+02/02/2009  07:09 PM    <DIR>          ..
+10/31/2007  03:41 PM           735,996 smartbox-1.0.rc1.tar
+               1 File(s)        735,996 bytes
+
+     Total Files Listed:
+             337 File(s)  2,061,210,034 bytes
+              54 Dir(s)               0 bytes free
